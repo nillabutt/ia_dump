@@ -1,0 +1,2742 @@
+[
+    {
+        "gid": "1",
+        "group_name": "天使守护",
+        "hero_ids": "1001|2030|2017",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "2000",
+        "content": "与{0}同时上阵",
+        "hcid": "1001"
+    },
+    {
+        "gid": "2",
+        "group_name": "天使守护",
+        "hero_ids": "1001|2030|2017",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "2000",
+        "content": "与{0}同时上阵",
+        "hcid": "2030"
+    },
+    {
+        "gid": "3",
+        "group_name": "天使守护",
+        "hero_ids": "1001|2030|2017",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "2000",
+        "content": "与{0}同时上阵",
+        "hcid": "2017"
+    },
+    {
+        "gid": "4",
+        "group_name": "必胜之心",
+        "hero_ids": "1001|2014",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "1001"
+    },
+    {
+        "gid": "5",
+        "group_name": "必胜之心",
+        "hero_ids": "1001|2014",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2014"
+    },
+    {
+        "gid": "6",
+        "group_name": "王的起点",
+        "hero_ids": "1001|2028",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "1001"
+    },
+    {
+        "gid": "7",
+        "group_name": "王的起点",
+        "hero_ids": "1001|2028",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2028"
+    },
+    {
+        "gid": "8",
+        "group_name": "神王传承",
+        "hero_ids": "1001|2035",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "1001"
+    },
+    {
+        "gid": "9",
+        "group_name": "神王传承",
+        "hero_ids": "1001|2035",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2035"
+    },
+    {
+        "gid": "10",
+        "group_name": "不屈之翼",
+        "hero_ids": "1001|2049",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "300",
+        "content": "与{0}同时上阵",
+        "hcid": "1001"
+    },
+    {
+        "gid": "11",
+        "group_name": "不屈之翼",
+        "hero_ids": "1001|2049",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "300",
+        "content": "与{0}同时上阵",
+        "hcid": "2049"
+    },
+    {
+        "gid": "12",
+        "group_name": "东方之美",
+        "hero_ids": "2006|2007",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "1000",
+        "content": "与{0}同时上阵",
+        "hcid": "2006"
+    },
+    {
+        "gid": "13",
+        "group_name": "东方之美",
+        "hero_ids": "2006|2007",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "1000",
+        "content": "与{0}同时上阵",
+        "hcid": "2007"
+    },
+    {
+        "gid": "14",
+        "group_name": "新人之友",
+        "hero_ids": "2006|2030",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "1000",
+        "content": "与{0}同时上阵",
+        "hcid": "2006"
+    },
+    {
+        "gid": "15",
+        "group_name": "新人之友",
+        "hero_ids": "2006|2030",
+        "attr_type_type": "2",
+        "attr_type": "1",
+        "attr_value": "1000",
+        "content": "与{0}同时上阵",
+        "hcid": "2030"
+    },
+    {
+        "gid": "16",
+        "group_name": "野性力量",
+        "hero_ids": "2007|2018",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "100",
+        "content": "与{0}同时上阵",
+        "hcid": "2007"
+    },
+    {
+        "gid": "17",
+        "group_name": "野性力量",
+        "hero_ids": "2007|2018",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "100",
+        "content": "与{0}同时上阵",
+        "hcid": "2018"
+    },
+    {
+        "gid": "18",
+        "group_name": "罪恶的美",
+        "hero_ids": "2018|2020",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "100",
+        "content": "与{0}同时上阵",
+        "hcid": "2018"
+    },
+    {
+        "gid": "19",
+        "group_name": "罪恶的美",
+        "hero_ids": "2018|2020",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "100",
+        "content": "与{0}同时上阵",
+        "hcid": "2020"
+    },
+    {
+        "gid": "20",
+        "group_name": "美和梦境",
+        "hero_ids": "2020|2023",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "100",
+        "content": "与{0}同时上阵",
+        "hcid": "2020"
+    },
+    {
+        "gid": "21",
+        "group_name": "美和梦境",
+        "hero_ids": "2020|2023",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "100",
+        "content": "与{0}同时上阵",
+        "hcid": "2023"
+    },
+    {
+        "gid": "22",
+        "group_name": "生命起源",
+        "hero_ids": "2005|2009|2027|2022",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2005"
+    },
+    {
+        "gid": "23",
+        "group_name": "生命起源",
+        "hero_ids": "2005|2009|2027|2022",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2009"
+    },
+    {
+        "gid": "24",
+        "group_name": "生命起源",
+        "hero_ids": "2005|2009|2027|2022",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2027"
+    },
+    {
+        "gid": "25",
+        "group_name": "生命起源",
+        "hero_ids": "2005|2009|2027|2022",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2022"
+    },
+    {
+        "gid": "26",
+        "group_name": "死亡主宰",
+        "hero_ids": "2005|2034",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2005"
+    },
+    {
+        "gid": "27",
+        "group_name": "死亡主宰",
+        "hero_ids": "2005|2034",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2034"
+    },
+    {
+        "gid": "28",
+        "group_name": "华夏之魂",
+        "hero_ids": "2008|2027",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2008"
+    },
+    {
+        "gid": "29",
+        "group_name": "华夏之魂",
+        "hero_ids": "2008|2027",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2027"
+    },
+    {
+        "gid": "30",
+        "group_name": "驱逐混沌",
+        "hero_ids": "2008|2029",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2008"
+    },
+    {
+        "gid": "31",
+        "group_name": "驱逐混沌",
+        "hero_ids": "2008|2029",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2029"
+    },
+    {
+        "gid": "32",
+        "group_name": "噬血獠牙",
+        "hero_ids": "2009|2010",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2009"
+    },
+    {
+        "gid": "33",
+        "group_name": "噬血獠牙",
+        "hero_ids": "2009|2010",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2010"
+    },
+    {
+        "gid": "34",
+        "group_name": "恶魔呓语",
+        "hero_ids": "2010|2033",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2010"
+    },
+    {
+        "gid": "35",
+        "group_name": "恶魔呓语",
+        "hero_ids": "2010|2033",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2033"
+    },
+    {
+        "gid": "36",
+        "group_name": "神之眷顾",
+        "hero_ids": "2017|2021",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2017"
+    },
+    {
+        "gid": "37",
+        "group_name": "神之眷顾",
+        "hero_ids": "2017|2021",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2021"
+    },
+    {
+        "gid": "38",
+        "group_name": "命运眷顾",
+        "hero_ids": "2021|2022",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2021"
+    },
+    {
+        "gid": "39",
+        "group_name": "命运眷顾",
+        "hero_ids": "2021|2022",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2022"
+    },
+    {
+        "gid": "40",
+        "group_name": "致命美丽",
+        "hero_ids": "2023|2029",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2023"
+    },
+    {
+        "gid": "41",
+        "group_name": "致命美丽",
+        "hero_ids": "2023|2029",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2029"
+    },
+    {
+        "gid": "42",
+        "group_name": "黑暗死亡",
+        "hero_ids": "2033|2034",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2033"
+    },
+    {
+        "gid": "43",
+        "group_name": "黑暗死亡",
+        "hero_ids": "2033|2034",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2034"
+    },
+    {
+        "gid": "44",
+        "group_name": "堕落之源",
+        "hero_ids": "2001|2004|2013",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2001"
+    },
+    {
+        "gid": "45",
+        "group_name": "堕落之源",
+        "hero_ids": "2001|2004|2013",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2004"
+    },
+    {
+        "gid": "46",
+        "group_name": "堕落之源",
+        "hero_ids": "2001|2004|2013",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2013"
+    },
+    {
+        "gid": "47",
+        "group_name": "日积月累",
+        "hero_ids": "2001|2019",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2001"
+    },
+    {
+        "gid": "48",
+        "group_name": "日积月累",
+        "hero_ids": "2001|2019",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2019"
+    },
+    {
+        "gid": "49",
+        "group_name": "真实之力",
+        "hero_ids": "2001|2040",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2001"
+    },
+    {
+        "gid": "50",
+        "group_name": "真实之力",
+        "hero_ids": "2001|2040",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2040"
+    },
+    {
+        "gid": "51",
+        "group_name": "元素之力",
+        "hero_ids": "2002|2011|2040",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2002"
+    },
+    {
+        "gid": "52",
+        "group_name": "元素之力",
+        "hero_ids": "2002|2011|2040",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2011"
+    },
+    {
+        "gid": "53",
+        "group_name": "元素之力",
+        "hero_ids": "2002|2011|2040",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2040"
+    },
+    {
+        "gid": "54",
+        "group_name": "百川归海",
+        "hero_ids": "2002|2004",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2002"
+    },
+    {
+        "gid": "55",
+        "group_name": "百川归海",
+        "hero_ids": "2002|2004",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2004"
+    },
+    {
+        "gid": "56",
+        "group_name": "治愈之心",
+        "hero_ids": "2002|2038",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2002"
+    },
+    {
+        "gid": "57",
+        "group_name": "治愈之心",
+        "hero_ids": "2002|2038",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2038"
+    },
+    {
+        "gid": "58",
+        "group_name": "战争号角",
+        "hero_ids": "2003|2014|2019",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2003"
+    },
+    {
+        "gid": "59",
+        "group_name": "战争号角",
+        "hero_ids": "2003|2014|2019",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2014"
+    },
+    {
+        "gid": "60",
+        "group_name": "战争号角",
+        "hero_ids": "2003|2014|2019",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2019"
+    },
+    {
+        "gid": "61",
+        "group_name": "纯净之心",
+        "hero_ids": "2003|2015",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2003"
+    },
+    {
+        "gid": "62",
+        "group_name": "纯净之心",
+        "hero_ids": "2003|2015",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2015"
+    },
+    {
+        "gid": "63",
+        "group_name": "誓约胜利",
+        "hero_ids": "2003|2014",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2003"
+    },
+    {
+        "gid": "64",
+        "group_name": "誓约胜利",
+        "hero_ids": "2003|2014",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2014"
+    },
+    {
+        "gid": "65",
+        "group_name": "青春常驻",
+        "hero_ids": "2004|2015",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2004"
+    },
+    {
+        "gid": "66",
+        "group_name": "青春常驻",
+        "hero_ids": "2004|2015",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2015"
+    },
+    {
+        "gid": "67",
+        "group_name": "九柱女神",
+        "hero_ids": "2011|2037",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2011"
+    },
+    {
+        "gid": "68",
+        "group_name": "九柱女神",
+        "hero_ids": "2011|2037",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2037"
+    },
+    {
+        "gid": "69",
+        "group_name": "星辰苍穹",
+        "hero_ids": "2011|2036",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2011"
+    },
+    {
+        "gid": "70",
+        "group_name": "星辰苍穹",
+        "hero_ids": "2011|2036",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2036"
+    },
+    {
+        "gid": "71",
+        "group_name": "诸神黄昏",
+        "hero_ids": "2015|2016|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2015"
+    },
+    {
+        "gid": "72",
+        "group_name": "诸神黄昏",
+        "hero_ids": "2015|2016|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2016"
+    },
+    {
+        "gid": "73",
+        "group_name": "诸神黄昏",
+        "hero_ids": "2015|2016|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2035"
+    },
+    {
+        "gid": "74",
+        "group_name": "暗与亡者",
+        "hero_ids": "2019|2031",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2019"
+    },
+    {
+        "gid": "75",
+        "group_name": "暗与亡者",
+        "hero_ids": "2019|2031",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2031"
+    },
+    {
+        "gid": "76",
+        "group_name": "镜花水月",
+        "hero_ids": "2036|2046",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2036"
+    },
+    {
+        "gid": "77",
+        "group_name": "镜花水月",
+        "hero_ids": "2036|2046",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2046"
+    },
+    {
+        "gid": "78",
+        "group_name": "虚妄之镜",
+        "hero_ids": "2036|2026",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2036"
+    },
+    {
+        "gid": "79",
+        "group_name": "虚妄之镜",
+        "hero_ids": "2036|2026",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2026"
+    },
+    {
+        "gid": "80",
+        "group_name": "财富力量",
+        "hero_ids": "2013|2052|2024",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2013"
+    },
+    {
+        "gid": "81",
+        "group_name": "财富力量",
+        "hero_ids": "2013|2052|2024",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2052"
+    },
+    {
+        "gid": "82",
+        "group_name": "财富力量",
+        "hero_ids": "2013|2052|2024",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2024"
+    },
+    {
+        "gid": "83",
+        "group_name": "神圣复仇",
+        "hero_ids": "2013|2039|2012",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2013"
+    },
+    {
+        "gid": "84",
+        "group_name": "神圣复仇",
+        "hero_ids": "2013|2039|2012",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2039"
+    },
+    {
+        "gid": "85",
+        "group_name": "神圣复仇",
+        "hero_ids": "2013|2039|2012",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2012"
+    },
+    {
+        "gid": "86",
+        "group_name": "恶魔意志",
+        "hero_ids": "2024|2031",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2024"
+    },
+    {
+        "gid": "87",
+        "group_name": "恶魔意志",
+        "hero_ids": "2024|2031",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2031"
+    },
+    {
+        "gid": "88",
+        "group_name": "致命一击",
+        "hero_ids": "2024|2041",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2024"
+    },
+    {
+        "gid": "89",
+        "group_name": "致命一击",
+        "hero_ids": "2024|2041",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2041"
+    },
+    {
+        "gid": "90",
+        "group_name": "东方之星",
+        "hero_ids": "2026|2028|2032",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2026"
+    },
+    {
+        "gid": "91",
+        "group_name": "东方之星",
+        "hero_ids": "2026|2028|2032",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2028"
+    },
+    {
+        "gid": "92",
+        "group_name": "东方之星",
+        "hero_ids": "2026|2028|2032",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2032"
+    },
+    {
+        "gid": "93",
+        "group_name": "文明觉醒",
+        "hero_ids": "2026|2025",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2026"
+    },
+    {
+        "gid": "94",
+        "group_name": "文明觉醒",
+        "hero_ids": "2026|2025",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2025"
+    },
+    {
+        "gid": "95",
+        "group_name": "美丽舞姿",
+        "hero_ids": "2028|2038",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2028"
+    },
+    {
+        "gid": "96",
+        "group_name": "美丽舞姿",
+        "hero_ids": "2028|2038",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2038"
+    },
+    {
+        "gid": "97",
+        "group_name": "大和之美",
+        "hero_ids": "2038|2046|2054",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2038"
+    },
+    {
+        "gid": "98",
+        "group_name": "大和之美",
+        "hero_ids": "2038|2046|2054",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2046"
+    },
+    {
+        "gid": "99",
+        "group_name": "大和之美",
+        "hero_ids": "2038|2046|2054",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2054"
+    },
+    {
+        "gid": "100",
+        "group_name": "飞火流星",
+        "hero_ids": "2040|2041",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2040"
+    },
+    {
+        "gid": "101",
+        "group_name": "飞火流星",
+        "hero_ids": "2040|2041",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2041"
+    },
+    {
+        "gid": "102",
+        "group_name": "破魔之力",
+        "hero_ids": "2041|2046",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2041"
+    },
+    {
+        "gid": "103",
+        "group_name": "破魔之力",
+        "hero_ids": "2041|2046",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2046"
+    },
+    {
+        "gid": "104",
+        "group_name": "至高意志",
+        "hero_ids": "2012|2032|2025|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2012"
+    },
+    {
+        "gid": "105",
+        "group_name": "至高意志",
+        "hero_ids": "2012|2032|2025|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2032"
+    },
+    {
+        "gid": "106",
+        "group_name": "至高意志",
+        "hero_ids": "2012|2032|2025|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2025"
+    },
+    {
+        "gid": "107",
+        "group_name": "至高意志",
+        "hero_ids": "2012|2032|2025|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2035"
+    },
+    {
+        "gid": "108",
+        "group_name": "混沌之初",
+        "hero_ids": "2012|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2012"
+    },
+    {
+        "gid": "109",
+        "group_name": "混沌之初",
+        "hero_ids": "2012|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2050"
+    },
+    {
+        "gid": "110",
+        "group_name": "天空之城",
+        "hero_ids": "2012|2016",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2012"
+    },
+    {
+        "gid": "111",
+        "group_name": "天空之城",
+        "hero_ids": "2012|2016",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2016"
+    },
+    {
+        "gid": "112",
+        "group_name": "向死而生",
+        "hero_ids": "2016|2049",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2016"
+    },
+    {
+        "gid": "113",
+        "group_name": "向死而生",
+        "hero_ids": "2016|2049",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2049"
+    },
+    {
+        "gid": "114",
+        "group_name": "生命支配",
+        "hero_ids": "2025|2048|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2025"
+    },
+    {
+        "gid": "115",
+        "group_name": "生命支配",
+        "hero_ids": "2025|2048|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2048"
+    },
+    {
+        "gid": "116",
+        "group_name": "生命支配",
+        "hero_ids": "2025|2048|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2050"
+    },
+    {
+        "gid": "117",
+        "group_name": "生命源泉",
+        "hero_ids": "2025|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2025"
+    },
+    {
+        "gid": "118",
+        "group_name": "生命源泉",
+        "hero_ids": "2025|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2047"
+    },
+    {
+        "gid": "119",
+        "group_name": "不死战神",
+        "hero_ids": "2031|2016|2048|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2031"
+    },
+    {
+        "gid": "120",
+        "group_name": "不死战神",
+        "hero_ids": "2031|2016|2048|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2016"
+    },
+    {
+        "gid": "121",
+        "group_name": "不死战神",
+        "hero_ids": "2031|2016|2048|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2048"
+    },
+    {
+        "gid": "122",
+        "group_name": "不死战神",
+        "hero_ids": "2031|2016|2048|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2051"
+    },
+    {
+        "gid": "123",
+        "group_name": "无坚不摧",
+        "hero_ids": "2031|2051|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2031"
+    },
+    {
+        "gid": "124",
+        "group_name": "无坚不摧",
+        "hero_ids": "2031|2051|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2051"
+    },
+    {
+        "gid": "125",
+        "group_name": "无坚不摧",
+        "hero_ids": "2031|2051|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2039"
+    },
+    {
+        "gid": "126",
+        "group_name": "秩序掌控",
+        "hero_ids": "2032|2054",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2032"
+    },
+    {
+        "gid": "127",
+        "group_name": "秩序掌控",
+        "hero_ids": "2032|2054",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2054"
+    },
+    {
+        "gid": "128",
+        "group_name": "烈阳当空",
+        "hero_ids": "2032|2037",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2032"
+    },
+    {
+        "gid": "129",
+        "group_name": "烈阳当空",
+        "hero_ids": "2032|2037",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2037"
+    },
+    {
+        "gid": "130",
+        "group_name": "阿萨神族",
+        "hero_ids": "2035|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2035"
+    },
+    {
+        "gid": "131",
+        "group_name": "阿萨神族",
+        "hero_ids": "2035|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2051"
+    },
+    {
+        "gid": "132",
+        "group_name": "爱的礼物",
+        "hero_ids": "2042|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2042"
+    },
+    {
+        "gid": "133",
+        "group_name": "爱的礼物",
+        "hero_ids": "2042|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2047"
+    },
+    {
+        "gid": "134",
+        "group_name": "鬼神之力",
+        "hero_ids": "2048|2053",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2048"
+    },
+    {
+        "gid": "135",
+        "group_name": "鬼神之力",
+        "hero_ids": "2048|2053",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2053"
+    },
+    {
+        "gid": "136",
+        "group_name": "光与黑暗",
+        "hero_ids": "2048|2052",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2048"
+    },
+    {
+        "gid": "137",
+        "group_name": "光与黑暗",
+        "hero_ids": "2048|2052",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2052"
+    },
+    {
+        "gid": "138",
+        "group_name": "正义制裁",
+        "hero_ids": "2052|2054|2049|2039",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2052"
+    },
+    {
+        "gid": "139",
+        "group_name": "正义制裁",
+        "hero_ids": "2052|2054|2049|2039",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2054"
+    },
+    {
+        "gid": "140",
+        "group_name": "正义制裁",
+        "hero_ids": "2052|2054|2049|2039",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2049"
+    },
+    {
+        "gid": "141",
+        "group_name": "正义制裁",
+        "hero_ids": "2052|2054|2049|2039",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2039"
+    },
+    {
+        "gid": "142",
+        "group_name": "光明链接",
+        "hero_ids": "2052|2054",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2052"
+    },
+    {
+        "gid": "143",
+        "group_name": "光明链接",
+        "hero_ids": "2052|2054",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2054"
+    },
+    {
+        "gid": "144",
+        "group_name": "爱与正义",
+        "hero_ids": "2052|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2052"
+    },
+    {
+        "gid": "145",
+        "group_name": "爱与正义",
+        "hero_ids": "2052|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2047"
+    },
+    {
+        "gid": "146",
+        "group_name": "冥漠之都",
+        "hero_ids": "2037|2047|2050|2053",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2037"
+    },
+    {
+        "gid": "147",
+        "group_name": "冥漠之都",
+        "hero_ids": "2037|2047|2050|2053",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2047"
+    },
+    {
+        "gid": "148",
+        "group_name": "冥漠之都",
+        "hero_ids": "2037|2047|2050|2053",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2050"
+    },
+    {
+        "gid": "149",
+        "group_name": "冥漠之都",
+        "hero_ids": "2037|2047|2050|2053",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2053"
+    },
+    {
+        "gid": "150",
+        "group_name": "太阳抉择",
+        "hero_ids": "2037|2049",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2037"
+    },
+    {
+        "gid": "151",
+        "group_name": "太阳抉择",
+        "hero_ids": "2037|2049",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2049"
+    },
+    {
+        "gid": "152",
+        "group_name": "王座之上",
+        "hero_ids": "2037|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2037"
+    },
+    {
+        "gid": "153",
+        "group_name": "王座之上",
+        "hero_ids": "2037|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2039"
+    },
+    {
+        "gid": "154",
+        "group_name": "永恒守护",
+        "hero_ids": "2039|2051",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2039"
+    },
+    {
+        "gid": "155",
+        "group_name": "永恒守护",
+        "hero_ids": "2039|2051",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2051"
+    },
+    {
+        "gid": "156",
+        "group_name": "神魔之恋",
+        "hero_ids": "2047|2053",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2047"
+    },
+    {
+        "gid": "157",
+        "group_name": "神魔之恋",
+        "hero_ids": "2047|2053",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2053"
+    },
+    {
+        "gid": "158",
+        "group_name": "天使恶魔",
+        "hero_ids": "2049|2050",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2049"
+    },
+    {
+        "gid": "159",
+        "group_name": "天使恶魔",
+        "hero_ids": "2049|2050",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2050"
+    },
+    {
+        "gid": "160",
+        "group_name": "鬼神支配",
+        "hero_ids": "2050|2053",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2050"
+    },
+    {
+        "gid": "161",
+        "group_name": "鬼神支配",
+        "hero_ids": "2050|2053",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2053"
+    },
+    {
+        "gid": "162",
+        "group_name": "龙族血统",
+        "hero_ids": "2055|2056|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "300",
+        "content": "与{0}同时上阵",
+        "hcid": "2055"
+    },
+    {
+        "gid": "163",
+        "group_name": "龙族血统",
+        "hero_ids": "2055|2056|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "300",
+        "content": "与{0}同时上阵",
+        "hcid": "2056"
+    },
+    {
+        "gid": "164",
+        "group_name": "龙族血统",
+        "hero_ids": "2055|2056|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "300",
+        "content": "与{0}同时上阵",
+        "hcid": "2057"
+    },
+    {
+        "gid": "165",
+        "group_name": "冰天雪地",
+        "hero_ids": "2055|2042|2011",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2055"
+    },
+    {
+        "gid": "166",
+        "group_name": "冰天雪地",
+        "hero_ids": "2055|2042|2011",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2042"
+    },
+    {
+        "gid": "167",
+        "group_name": "冰天雪地",
+        "hero_ids": "2055|2042|2011",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2011"
+    },
+    {
+        "gid": "168",
+        "group_name": "守护之心",
+        "hero_ids": "2055|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2055"
+    },
+    {
+        "gid": "169",
+        "group_name": "守护之心",
+        "hero_ids": "2055|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2047"
+    },
+    {
+        "gid": "170",
+        "group_name": "灰烬使者",
+        "hero_ids": "2056|2035|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2056"
+    },
+    {
+        "gid": "171",
+        "group_name": "灰烬使者",
+        "hero_ids": "2056|2035|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2035"
+    },
+    {
+        "gid": "172",
+        "group_name": "灰烬使者",
+        "hero_ids": "2056|2035|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2037"
+    },
+    {
+        "gid": "173",
+        "group_name": "火神降临",
+        "hero_ids": "2056|2040",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2056"
+    },
+    {
+        "gid": "174",
+        "group_name": "火神降临",
+        "hero_ids": "2056|2040",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2040"
+    },
+    {
+        "gid": "175",
+        "group_name": "破碎虚空",
+        "hero_ids": "2057|2012|2053",
+        "attr_type_type": "3",
+        "attr_type": "8",
+        "attr_value": "360",
+        "content": "与{0}同时上阵",
+        "hcid": "2057"
+    },
+    {
+        "gid": "176",
+        "group_name": "破碎虚空",
+        "hero_ids": "2057|2012|2053",
+        "attr_type_type": "3",
+        "attr_type": "8",
+        "attr_value": "360",
+        "content": "与{0}同时上阵",
+        "hcid": "2012"
+    },
+    {
+        "gid": "177",
+        "group_name": "破碎虚空",
+        "hero_ids": "2057|2012|2053",
+        "attr_type_type": "3",
+        "attr_type": "8",
+        "attr_value": "360",
+        "content": "与{0}同时上阵",
+        "hcid": "2053"
+    },
+    {
+        "gid": "178",
+        "group_name": "盾与矛",
+        "hero_ids": "2057|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2057"
+    },
+    {
+        "gid": "179",
+        "group_name": "盾与矛",
+        "hero_ids": "2057|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2051"
+    },
+    {
+        "gid": "180",
+        "group_name": "北欧神族",
+        "hero_ids": "2060|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2060"
+    },
+    {
+        "gid": "181",
+        "group_name": "战争之神",
+        "hero_ids": "2060|2016",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2060"
+    },
+    {
+        "gid": "182",
+        "group_name": "破甲奥义",
+        "hero_ids": "2060|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2060"
+    },
+    {
+        "gid": "183",
+        "group_name": "永不止境",
+        "hero_ids": "2060|2053|2048",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2060"
+    },
+    {
+        "gid": "184",
+        "group_name": "净化万物",
+        "hero_ids": "2060|2055|2039|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2060"
+    },
+    {
+        "gid": "185",
+        "group_name": "爱的诱惑",
+        "hero_ids": "2058|2013",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2058"
+    },
+    {
+        "gid": "186",
+        "group_name": "爱的惊喜",
+        "hero_ids": "2058|2042",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2058"
+    },
+    {
+        "gid": "187",
+        "group_name": "樱花飞舞",
+        "hero_ids": "2058|2038|2046",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2058"
+    },
+    {
+        "gid": "188",
+        "group_name": "神眷之猫",
+        "hero_ids": "2058|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2058"
+    },
+    {
+        "gid": "189",
+        "group_name": "破甲奥义",
+        "hero_ids": "2057|2060",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2057"
+    },
+    {
+        "gid": "190",
+        "group_name": "火之奥义",
+        "hero_ids": "2056|2032",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2056"
+    },
+    {
+        "gid": "191",
+        "group_name": "漫漫时光",
+        "hero_ids": "2061|2062|2060",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2061"
+    },
+    {
+        "gid": "192",
+        "group_name": "水火交融",
+        "hero_ids": "2061|2056",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2061"
+    },
+    {
+        "gid": "193",
+        "group_name": "空洞目光",
+        "hero_ids": "2061|2031",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2061"
+    },
+    {
+        "gid": "194",
+        "group_name": "吉祥如意",
+        "hero_ids": "2061|2058",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2061"
+    },
+    {
+        "gid": "195",
+        "group_name": "头晕目眩",
+        "hero_ids": "2062|2032",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2062"
+    },
+    {
+        "gid": "196",
+        "group_name": "风刀霜剑",
+        "hero_ids": "2062|2055",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2062"
+    },
+    {
+        "gid": "197",
+        "group_name": "朦胧月色",
+        "hero_ids": "2062|2046",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2062"
+    },
+    {
+        "gid": "198",
+        "group_name": "花颜月貌",
+        "hero_ids": "2062|2058|2054",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2062"
+    },
+    {
+        "gid": "199",
+        "group_name": "风刀霜剑",
+        "hero_ids": "2062|2055",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2055"
+    },
+    {
+        "gid": "200",
+        "group_name": "水火交融",
+        "hero_ids": "2061|2056",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2056"
+    },
+    {
+        "gid": "201",
+        "group_name": "坚若磐石",
+        "hero_ids": "2063|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2063"
+    },
+    {
+        "gid": "202",
+        "group_name": "雨过天晴",
+        "hero_ids": "2063|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2063"
+    },
+    {
+        "gid": "203",
+        "group_name": "推波助澜",
+        "hero_ids": "2063|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2063"
+    },
+    {
+        "gid": "204",
+        "group_name": "冰封眷恋",
+        "hero_ids": "2063|2025",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2063"
+    },
+    {
+        "gid": "205",
+        "group_name": "推波助澜",
+        "hero_ids": "2063|2057",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2057"
+    },
+    {
+        "gid": "206",
+        "group_name": "大地之月",
+        "hero_ids": "2067|2025",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2067"
+    },
+    {
+        "gid": "207",
+        "group_name": "战争之月",
+        "hero_ids": "2067|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2067"
+    },
+    {
+        "gid": "208",
+        "group_name": "炽焰之月",
+        "hero_ids": "2067|2026|2040",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2067"
+    },
+    {
+        "gid": "209",
+        "group_name": "思恋之月",
+        "hero_ids": "2067|2047|2063|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2067"
+    },
+    {
+        "gid": "210",
+        "group_name": "孤芳自赏",
+        "hero_ids": "2068|2067",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2068"
+    },
+    {
+        "gid": "211",
+        "group_name": "永恒黑洞",
+        "hero_ids": "2068|2060",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2068"
+    },
+    {
+        "gid": "212",
+        "group_name": "同甘共苦",
+        "hero_ids": "2068|2051",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2068"
+    },
+    {
+        "gid": "213",
+        "group_name": "天人合一",
+        "hero_ids": "2068|2056|2053",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2068"
+    },
+    {
+        "gid": "214",
+        "group_name": "淡云微风",
+        "hero_ids": "2065|2062|2063",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2065"
+    },
+    {
+        "gid": "215",
+        "group_name": "冰凌寒镜",
+        "hero_ids": "2065|2055",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2065"
+    },
+    {
+        "gid": "216",
+        "group_name": "温暖照射",
+        "hero_ids": "2065|2032",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2065"
+    },
+    {
+        "gid": "217",
+        "group_name": "宇宙漫溯",
+        "hero_ids": "2065|2060",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2065"
+    },
+    {
+        "gid": "218",
+        "group_name": "斗争智慧",
+        "hero_ids": "2069|2039|2049",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2069"
+    },
+    {
+        "gid": "219",
+        "group_name": "明眸凝视",
+        "hero_ids": "2069|2048",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2069"
+    },
+    {
+        "gid": "220",
+        "group_name": "终极法则",
+        "hero_ids": "2069|2050",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2069"
+    },
+    {
+        "gid": "221",
+        "group_name": "金光璀璨",
+        "hero_ids": "2069|2065",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2069"
+    },
+    {
+        "gid": "222",
+        "group_name": "真龙守护",
+        "hero_ids": "2069|2055|2056|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2069"
+    },
+    {
+        "gid": "230",
+        "group_name": "地支同盟",
+        "hero_ids": "2070|2059",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2070"
+    },
+    {
+        "gid": "231",
+        "group_name": "星之同盟",
+        "hero_ids": "2071|2065",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2071"
+    },
+    {
+        "gid": "232",
+        "group_name": "星之睿智",
+        "hero_ids": "2071|2069",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2071"
+    },
+    {
+        "gid": "233",
+        "group_name": "星之威仪",
+        "hero_ids": "2071|2047|2024",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2071"
+    },
+    {
+        "gid": "234",
+        "group_name": "星之炽焰",
+        "hero_ids": "2071|2056",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2071"
+    },
+    {
+        "gid": "235",
+        "group_name": "星之神权",
+        "hero_ids": "2071|2035|2055|2057",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2071"
+    },
+    {
+        "gid": "236",
+        "group_name": "天界守卫",
+        "hero_ids": "3072|2052",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "3072"
+    },
+    {
+        "gid": "237",
+        "group_name": "混沌羽翼",
+        "hero_ids": "3072|2024",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "3072"
+    },
+    {
+        "gid": "238",
+        "group_name": "殉道之仪",
+        "hero_ids": "3072|2003",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "3072"
+    },
+    {
+        "gid": "239",
+        "group_name": "战场疾风",
+        "hero_ids": "3072|2049|2016",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "3072"
+    },
+    {
+        "gid": "240",
+        "group_name": "末日洗礼",
+        "hero_ids": "3072|2055|2056|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "3072"
+    },
+    {
+        "gid": "241",
+        "group_name": "双星之舞",
+        "hero_ids": "2073|2069",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2073"
+    },
+    {
+        "gid": "242",
+        "group_name": "宁静圣域",
+        "hero_ids": "2073|2071",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2073"
+    },
+    {
+        "gid": "243",
+        "group_name": "幻想序曲",
+        "hero_ids": "2073|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2073"
+    },
+    {
+        "gid": "244",
+        "group_name": "战争魅影",
+        "hero_ids": "2073|2016|2068",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2073"
+    },
+    {
+        "gid": "245",
+        "group_name": "星之神权",
+        "hero_ids": "2073|2056|2057|2048",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2073"
+    },
+    {
+        "gid": "246",
+        "group_name": "守护之爱",
+        "hero_ids": "2074|2051",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2074"
+    },
+    {
+        "gid": "247",
+        "group_name": "纯洁之爱",
+        "hero_ids": "2074|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2074"
+    },
+    {
+        "gid": "248",
+        "group_name": "飘渺之爱",
+        "hero_ids": "2074|2067",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2074"
+    },
+    {
+        "gid": "249",
+        "group_name": "魅惑之爱",
+        "hero_ids": "2074|2037|2050",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2074"
+    },
+    {
+        "gid": "250",
+        "group_name": "爱神同盟",
+        "hero_ids": "2074|2047|2054|2060",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2074"
+    },
+    {
+        "gid": "251",
+        "group_name": "至尊之缘",
+        "hero_ids": "2075|2039",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2075"
+    },
+    {
+        "gid": "252",
+        "group_name": "神王宿敌",
+        "hero_ids": "2075|2035",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2075"
+    },
+    {
+        "gid": "253",
+        "group_name": "末日之雷",
+        "hero_ids": "2075|2057",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2075"
+    },
+    {
+        "gid": "254",
+        "group_name": "希腊荣光",
+        "hero_ids": "2075|2002|2048",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2075"
+    },
+    {
+        "gid": "255",
+        "group_name": "众星之辉",
+        "hero_ids": "2075|2065|2071|2073",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2075"
+    },
+    {
+        "gid": "256",
+        "group_name": "义结金兰",
+        "hero_ids": "2076|2035",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2076"
+    },
+    {
+        "gid": "257",
+        "group_name": "一生之敌",
+        "hero_ids": "2076|2051",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2076"
+    },
+    {
+        "gid": "258",
+        "group_name": "冰火之歌",
+        "hero_ids": "2076|2055",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2076"
+    },
+    {
+        "gid": "259",
+        "group_name": "暗黑之翼",
+        "hero_ids": "2076|2049|2024",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2076"
+    },
+    {
+        "gid": "260",
+        "group_name": "神权至上",
+        "hero_ids": "2076|2035|2075|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2076"
+    },
+    {
+        "gid": "261",
+        "group_name": "神之尊荣",
+        "hero_ids": "2077|2039",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2077"
+    },
+    {
+        "gid": "262",
+        "group_name": "血脉传承",
+        "hero_ids": "2077|2035",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2077"
+    },
+    {
+        "gid": "263",
+        "group_name": "亦敌亦友",
+        "hero_ids": "2077|2076",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2077"
+    },
+    {
+        "gid": "264",
+        "group_name": "神域之锋",
+        "hero_ids": "2077|2051|2016",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2077"
+    },
+    {
+        "gid": "265",
+        "group_name": "雷霆之翼",
+        "hero_ids": "2077|2049|2050|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2077"
+    },
+    {
+        "gid": "266",
+        "group_name": "太阳神火",
+        "hero_ids": "2078|2032",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2078"
+    },
+    {
+        "gid": "267",
+        "group_name": "弓箭之神",
+        "hero_ids": "2078|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2078"
+    },
+    {
+        "gid": "268",
+        "group_name": "艺术之心",
+        "hero_ids": "2078|2069",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2078"
+    },
+    {
+        "gid": "269",
+        "group_name": "光明耀世",
+        "hero_ids": "2078|2037|2032",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2078"
+    },
+    {
+        "gid": "270",
+        "group_name": "天域圣神",
+        "hero_ids": "2078|2075|2056|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2078"
+    },
+    {
+        "gid": "271",
+        "group_name": "雷厉风行",
+        "hero_ids": "2079|2057",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2079"
+    },
+    {
+        "gid": "272",
+        "group_name": "冰清玉洁",
+        "hero_ids": "2079|2055",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2079"
+    },
+    {
+        "gid": "273",
+        "group_name": "热情似火",
+        "hero_ids": "2079|2056",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2079"
+    },
+    {
+        "gid": "274",
+        "group_name": "情有独钟",
+        "hero_ids": "2079|2047",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2079"
+    },
+    {
+        "gid": "275",
+        "group_name": "魔武双星",
+        "hero_ids": "2080|2059",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2080"
+    },
+    {
+        "gid": "276",
+        "group_name": "如虎添翼",
+        "hero_ids": "2080|2070",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2080"
+    },
+    {
+        "gid": "277",
+        "group_name": "神之传承",
+        "hero_ids": "2081|2037",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2081"
+    },
+    {
+        "gid": "278",
+        "group_name": "向死而生",
+        "hero_ids": "2081|2034",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2081"
+    },
+    {
+        "gid": "279",
+        "group_name": "鹰神之翼",
+        "hero_ids": "2081|2049",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2081"
+    },
+    {
+        "gid": "280",
+        "group_name": "埃及之心",
+        "hero_ids": "2081|2037|2011",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2081"
+    },
+    {
+        "gid": "281",
+        "group_name": "天命之子",
+        "hero_ids": "2081|2032|2077|2069",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2081"
+    }
+]

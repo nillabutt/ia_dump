@@ -1,0 +1,8 @@
+collect_id,name,is_open,is_left,icon,collect_progress,collect_reward
+104,神圣殿堂,1,0,btn_Shengzhuanghunli.png,5|10|15,1:2:300#1:2:500#13:6001|1:2:1000
+101,泳池派对,1,1,btn_Yongchipaidui.png,10|20|30,1:2:300#1:2:500#13:6002|1:2:1000
+102,神性觉醒,1,0,btn_Shenxingjuexing.png,5|10|15,1:2:300#1:2:500#13:6003|1:2:1000
+105,伴生之初,1,1,btn_Banshengzhichu.png,30|50|80,1:2:300#1:2:500#1:2:1000
+103,焕然一新,1,0,btn_Huanranyixin.png,10|25|40,1:2:300#1:2:500#1:2:1000
+106,风和日丽,0,1,btn_Fengherili.png,3|7|10,1:2:300#1:2:500#1:2:1000
+107,偶像天使,0,1,btn_Ouxianggeshou.png,5|10|15,1:2:300#1:2:500#1:2:1000

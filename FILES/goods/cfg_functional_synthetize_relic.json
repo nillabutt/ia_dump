@@ -1,0 +1,170 @@
+[
+    {
+        "index": "1",
+        "type": "1",
+        "relic_id": "150001",
+        "weight": "1"
+    },
+    {
+        "index": "2",
+        "type": "1",
+        "relic_id": "150002",
+        "weight": "1"
+    },
+    {
+        "index": "3",
+        "type": "1",
+        "relic_id": "150003",
+        "weight": "1"
+    },
+    {
+        "index": "4",
+        "type": "1",
+        "relic_id": "150004",
+        "weight": "1"
+    },
+    {
+        "index": "5",
+        "type": "2",
+        "relic_id": "150005",
+        "weight": "1"
+    },
+    {
+        "index": "6",
+        "type": "2",
+        "relic_id": "150006",
+        "weight": "1"
+    },
+    {
+        "index": "7",
+        "type": "2",
+        "relic_id": "150007",
+        "weight": "1"
+    },
+    {
+        "index": "8",
+        "type": "2",
+        "relic_id": "150008",
+        "weight": "1"
+    },
+    {
+        "index": "9",
+        "type": "2",
+        "relic_id": "150009",
+        "weight": "1"
+    },
+    {
+        "index": "10",
+        "type": "2",
+        "relic_id": "150010",
+        "weight": "1"
+    },
+    {
+        "index": "11",
+        "type": "2",
+        "relic_id": "150011",
+        "weight": "1"
+    },
+    {
+        "index": "12",
+        "type": "2",
+        "relic_id": "150012",
+        "weight": "1"
+    },
+    {
+        "index": "13",
+        "type": "2",
+        "relic_id": "150013",
+        "weight": "1"
+    },
+    {
+        "index": "14",
+        "type": "2",
+        "relic_id": "150014",
+        "weight": "1"
+    },
+    {
+        "index": "15",
+        "type": "3",
+        "relic_id": "150015",
+        "weight": "1"
+    },
+    {
+        "index": "16",
+        "type": "3",
+        "relic_id": "150016",
+        "weight": "1"
+    },
+    {
+        "index": "17",
+        "type": "3",
+        "relic_id": "150017",
+        "weight": "1"
+    },
+    {
+        "index": "18",
+        "type": "3",
+        "relic_id": "150018",
+        "weight": "1"
+    },
+    {
+        "index": "19",
+        "type": "3",
+        "relic_id": "150019",
+        "weight": "1"
+    },
+    {
+        "index": "20",
+        "type": "3",
+        "relic_id": "150020",
+        "weight": "1"
+    },
+    {
+        "index": "21",
+        "type": "3",
+        "relic_id": "150021",
+        "weight": "1"
+    },
+    {
+        "index": "22",
+        "type": "3",
+        "relic_id": "150022",
+        "weight": "1"
+    },
+    {
+        "index": "23",
+        "type": "3",
+        "relic_id": "150023",
+        "weight": "1"
+    },
+    {
+        "index": "24",
+        "type": "3",
+        "relic_id": "150024",
+        "weight": "1"
+    },
+    {
+        "index": "25",
+        "type": "3",
+        "relic_id": "150025",
+        "weight": "1"
+    },
+    {
+        "index": "26",
+        "type": "3",
+        "relic_id": "150026",
+        "weight": "1"
+    },
+    {
+        "index": "27",
+        "type": "3",
+        "relic_id": "150027",
+        "weight": "1"
+    },
+    {
+        "index": "28",
+        "type": "3",
+        "relic_id": "150028",
+        "weight": "1"
+    }
+]

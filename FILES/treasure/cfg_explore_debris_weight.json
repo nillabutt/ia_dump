@@ -1,0 +1,310 @@
+[
+    {
+        "cfg_id": "1",
+        "land_id": "1",
+        "quality": "5",
+        "treasure_id": "3004",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "2",
+        "land_id": "1",
+        "quality": "5",
+        "treasure_id": "3005",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "3",
+        "land_id": "1",
+        "quality": "4",
+        "treasure_id": "2002",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "4",
+        "land_id": "1",
+        "quality": "4",
+        "treasure_id": "2004",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "5",
+        "land_id": "1",
+        "quality": "3",
+        "treasure_id": "1003",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "6",
+        "land_id": "1",
+        "quality": "3",
+        "treasure_id": "1005",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "7",
+        "land_id": "1",
+        "quality": "3",
+        "treasure_id": "1006",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "8",
+        "land_id": "1",
+        "quality": "3",
+        "treasure_id": "1007",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "9",
+        "land_id": "1",
+        "quality": "3",
+        "treasure_id": "1010",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "10",
+        "land_id": "2",
+        "quality": "5",
+        "treasure_id": "3007",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "11",
+        "land_id": "2",
+        "quality": "5",
+        "treasure_id": "3003",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "12",
+        "land_id": "2",
+        "quality": "4",
+        "treasure_id": "2001",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "13",
+        "land_id": "2",
+        "quality": "4",
+        "treasure_id": "2003",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "14",
+        "land_id": "2",
+        "quality": "3",
+        "treasure_id": "1001",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "15",
+        "land_id": "2",
+        "quality": "3",
+        "treasure_id": "1002",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "16",
+        "land_id": "2",
+        "quality": "3",
+        "treasure_id": "1004",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "17",
+        "land_id": "2",
+        "quality": "3",
+        "treasure_id": "1007",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "18",
+        "land_id": "2",
+        "quality": "3",
+        "treasure_id": "1010",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "19",
+        "land_id": "3",
+        "quality": "5",
+        "treasure_id": "3006",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "20",
+        "land_id": "3",
+        "quality": "5",
+        "treasure_id": "3001",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "21",
+        "land_id": "3",
+        "quality": "4",
+        "treasure_id": "2008",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "22",
+        "land_id": "3",
+        "quality": "4",
+        "treasure_id": "2010",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "23",
+        "land_id": "3",
+        "quality": "3",
+        "treasure_id": "1002",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "24",
+        "land_id": "3",
+        "quality": "3",
+        "treasure_id": "1004",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "25",
+        "land_id": "3",
+        "quality": "3",
+        "treasure_id": "1008",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "26",
+        "land_id": "3",
+        "quality": "3",
+        "treasure_id": "1009",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "27",
+        "land_id": "3",
+        "quality": "3",
+        "treasure_id": "1012",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "28",
+        "land_id": "4",
+        "quality": "5",
+        "treasure_id": "3005",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "29",
+        "land_id": "4",
+        "quality": "5",
+        "treasure_id": "3007",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "30",
+        "land_id": "4",
+        "quality": "4",
+        "treasure_id": "2007",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "31",
+        "land_id": "4",
+        "quality": "4",
+        "treasure_id": "2005",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "32",
+        "land_id": "4",
+        "quality": "3",
+        "treasure_id": "1001",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "33",
+        "land_id": "4",
+        "quality": "3",
+        "treasure_id": "1003",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "34",
+        "land_id": "4",
+        "quality": "3",
+        "treasure_id": "1006",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "35",
+        "land_id": "4",
+        "quality": "3",
+        "treasure_id": "1008",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "36",
+        "land_id": "4",
+        "quality": "3",
+        "treasure_id": "1011",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "37",
+        "land_id": "5",
+        "quality": "5",
+        "treasure_id": "3002",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "38",
+        "land_id": "5",
+        "quality": "5",
+        "treasure_id": "3008",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "39",
+        "land_id": "5",
+        "quality": "4",
+        "treasure_id": "2006",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "40",
+        "land_id": "5",
+        "quality": "4",
+        "treasure_id": "2009",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "41",
+        "land_id": "5",
+        "quality": "3",
+        "treasure_id": "1005",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "42",
+        "land_id": "5",
+        "quality": "3",
+        "treasure_id": "1009",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "43",
+        "land_id": "5",
+        "quality": "3",
+        "treasure_id": "1010",
+        "weight": "10"
+    },
+    {
+        "cfg_id": "44",
+        "land_id": "5",
+        "quality": "3",
+        "treasure_id": "1011",
+        "weight": "10"
+    }
+]

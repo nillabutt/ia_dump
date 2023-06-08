@@ -1,0 +1,22 @@
+[
+    {
+        "id": "101",
+        "show_bg_icon": "img_loading_hl_UR_plus.png",
+        "show_name": "至尊天后",
+        "spine_x_offset": "0",
+        "spine_y_offset": "0",
+        "spine_scale": "1",
+        "spine_name": "HL_UR_PLUS",
+        "open_level": "60"
+    },
+    {
+        "id": "102",
+        "show_bg_icon": "img_loading_ywj_UR.png",
+        "show_name": "次元突破",
+        "spine_x_offset": "-66",
+        "spine_y_offset": "600",
+        "spine_scale": "0.75",
+        "spine_name": "YWJ_UR",
+        "open_level": "0"
+    }
+]

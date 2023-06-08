@@ -1,0 +1,272 @@
+[
+    {
+        "cfg_id": "1",
+        "quality_or_skin_cid": "6",
+        "level": "1",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "2",
+        "quality_or_skin_cid": "6",
+        "level": "2",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "3",
+        "quality_or_skin_cid": "6",
+        "level": "3",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "4",
+        "quality_or_skin_cid": "6",
+        "level": "4",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "5",
+        "quality_or_skin_cid": "6",
+        "level": "5",
+        "cosume_goods": "5:3000031:1",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "60"
+    },
+    {
+        "cfg_id": "6",
+        "quality_or_skin_cid": "6",
+        "level": "6",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "7",
+        "quality_or_skin_cid": "6",
+        "level": "7",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "8",
+        "quality_or_skin_cid": "6",
+        "level": "8",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "9",
+        "quality_or_skin_cid": "6",
+        "level": "9",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "10",
+        "quality_or_skin_cid": "6",
+        "level": "10",
+        "cosume_goods": "5:3000031:1",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "60"
+    },
+    {
+        "cfg_id": "11",
+        "quality_or_skin_cid": "6",
+        "level": "11",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "12",
+        "quality_or_skin_cid": "6",
+        "level": "12",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "13",
+        "quality_or_skin_cid": "6",
+        "level": "13",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "14",
+        "quality_or_skin_cid": "6",
+        "level": "14",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "15",
+        "quality_or_skin_cid": "6",
+        "level": "15",
+        "cosume_goods": "5:3000031:1",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "60"
+    },
+    {
+        "cfg_id": "16",
+        "quality_or_skin_cid": "101001500",
+        "level": "1",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "17",
+        "quality_or_skin_cid": "101001500",
+        "level": "2",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "18",
+        "quality_or_skin_cid": "101001500",
+        "level": "3",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "19",
+        "quality_or_skin_cid": "101001500",
+        "level": "4",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "20",
+        "quality_or_skin_cid": "101001500",
+        "level": "5",
+        "cosume_goods": "5:3000031:1",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "60"
+    },
+    {
+        "cfg_id": "21",
+        "quality_or_skin_cid": "101001500",
+        "level": "6",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "22",
+        "quality_or_skin_cid": "101001500",
+        "level": "7",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "23",
+        "quality_or_skin_cid": "101001500",
+        "level": "8",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "24",
+        "quality_or_skin_cid": "101001500",
+        "level": "9",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "25",
+        "quality_or_skin_cid": "101001500",
+        "level": "10",
+        "cosume_goods": "5:3000031:1",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "60"
+    },
+    {
+        "cfg_id": "26",
+        "quality_or_skin_cid": "101001500",
+        "level": "11",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "27",
+        "quality_or_skin_cid": "101001500",
+        "level": "12",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "28",
+        "quality_or_skin_cid": "101001500",
+        "level": "13",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "29",
+        "quality_or_skin_cid": "101001500",
+        "level": "14",
+        "cosume_goods": "5:2000011:40",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "10"
+    },
+    {
+        "cfg_id": "30",
+        "quality_or_skin_cid": "101001500",
+        "level": "15",
+        "cosume_goods": "5:3000031:1",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "60"
+    }
+]

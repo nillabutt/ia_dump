@@ -1,0 +1,362 @@
+[
+    {
+        "star": "1",
+        "feeling": "300"
+    },
+    {
+        "star": "2",
+        "feeling": "600"
+    },
+    {
+        "star": "3",
+        "feeling": "900"
+    },
+    {
+        "star": "4",
+        "feeling": "1200"
+    },
+    {
+        "star": "5",
+        "feeling": "1500"
+    },
+    {
+        "star": "6",
+        "feeling": "1800"
+    },
+    {
+        "star": "7",
+        "feeling": "2100"
+    },
+    {
+        "star": "8",
+        "feeling": "2400"
+    },
+    {
+        "star": "9",
+        "feeling": "2700"
+    },
+    {
+        "star": "10",
+        "feeling": "3000"
+    },
+    {
+        "star": "11",
+        "feeling": "3500"
+    },
+    {
+        "star": "12",
+        "feeling": "4300"
+    },
+    {
+        "star": "13",
+        "feeling": "5400"
+    },
+    {
+        "star": "14",
+        "feeling": "6800"
+    },
+    {
+        "star": "15",
+        "feeling": "8500"
+    },
+    {
+        "star": "16",
+        "feeling": "10500"
+    },
+    {
+        "star": "17",
+        "feeling": "12800"
+    },
+    {
+        "star": "18",
+        "feeling": "15400"
+    },
+    {
+        "star": "19",
+        "feeling": "18300"
+    },
+    {
+        "star": "20",
+        "feeling": "21500"
+    },
+    {
+        "star": "21",
+        "feeling": "25000"
+    },
+    {
+        "star": "22",
+        "feeling": "28800"
+    },
+    {
+        "star": "23",
+        "feeling": "32900"
+    },
+    {
+        "star": "24",
+        "feeling": "37300"
+    },
+    {
+        "star": "25",
+        "feeling": "42000"
+    },
+    {
+        "star": "26",
+        "feeling": "47000"
+    },
+    {
+        "star": "27",
+        "feeling": "52300"
+    },
+    {
+        "star": "28",
+        "feeling": "57900"
+    },
+    {
+        "star": "29",
+        "feeling": "63800"
+    },
+    {
+        "star": "30",
+        "feeling": "70000"
+    },
+    {
+        "star": "31",
+        "feeling": "76500"
+    },
+    {
+        "star": "32",
+        "feeling": "83300"
+    },
+    {
+        "star": "33",
+        "feeling": "90400"
+    },
+    {
+        "star": "34",
+        "feeling": "97800"
+    },
+    {
+        "star": "35",
+        "feeling": "105500"
+    },
+    {
+        "star": "36",
+        "feeling": "113500"
+    },
+    {
+        "star": "37",
+        "feeling": "121800"
+    },
+    {
+        "star": "38",
+        "feeling": "130400"
+    },
+    {
+        "star": "39",
+        "feeling": "139300"
+    },
+    {
+        "star": "40",
+        "feeling": "148500"
+    },
+    {
+        "star": "41",
+        "feeling": "158100"
+    },
+    {
+        "star": "42",
+        "feeling": "168100"
+    },
+    {
+        "star": "43",
+        "feeling": "178500"
+    },
+    {
+        "star": "44",
+        "feeling": "189300"
+    },
+    {
+        "star": "45",
+        "feeling": "200500"
+    },
+    {
+        "star": "46",
+        "feeling": "212100"
+    },
+    {
+        "star": "47",
+        "feeling": "224100"
+    },
+    {
+        "star": "48",
+        "feeling": "236500"
+    },
+    {
+        "star": "49",
+        "feeling": "249300"
+    },
+    {
+        "star": "50",
+        "feeling": "262500"
+    },
+    {
+        "star": "51",
+        "feeling": "276200"
+    },
+    {
+        "star": "52",
+        "feeling": "290400"
+    },
+    {
+        "star": "53",
+        "feeling": "305100"
+    },
+    {
+        "star": "54",
+        "feeling": "320300"
+    },
+    {
+        "star": "55",
+        "feeling": "336000"
+    },
+    {
+        "star": "56",
+        "feeling": "352200"
+    },
+    {
+        "star": "57",
+        "feeling": "368900"
+    },
+    {
+        "star": "58",
+        "feeling": "386100"
+    },
+    {
+        "star": "59",
+        "feeling": "403800"
+    },
+    {
+        "star": "60",
+        "feeling": "422000"
+    },
+    {
+        "star": "61",
+        "feeling": "440800"
+    },
+    {
+        "star": "62",
+        "feeling": "460200"
+    },
+    {
+        "star": "63",
+        "feeling": "480200"
+    },
+    {
+        "star": "64",
+        "feeling": "500800"
+    },
+    {
+        "star": "65",
+        "feeling": "522000"
+    },
+    {
+        "star": "66",
+        "feeling": "543800"
+    },
+    {
+        "star": "67",
+        "feeling": "566200"
+    },
+    {
+        "star": "68",
+        "feeling": "589200"
+    },
+    {
+        "star": "69",
+        "feeling": "612800"
+    },
+    {
+        "star": "70",
+        "feeling": "637000"
+    },
+    {
+        "star": "71",
+        "feeling": "661900"
+    },
+    {
+        "star": "72",
+        "feeling": "687500"
+    },
+    {
+        "star": "73",
+        "feeling": "713800"
+    },
+    {
+        "star": "74",
+        "feeling": "740800"
+    },
+    {
+        "star": "75",
+        "feeling": "768500"
+    },
+    {
+        "star": "76",
+        "feeling": "796900"
+    },
+    {
+        "star": "77",
+        "feeling": "826000"
+    },
+    {
+        "star": "78",
+        "feeling": "855800"
+    },
+    {
+        "star": "79",
+        "feeling": "886300"
+    },
+    {
+        "star": "80",
+        "feeling": "917500"
+    },
+    {
+        "star": "81",
+        "feeling": "949600"
+    },
+    {
+        "star": "82",
+        "feeling": "982600"
+    },
+    {
+        "star": "83",
+        "feeling": "1016500"
+    },
+    {
+        "star": "84",
+        "feeling": "1051300"
+    },
+    {
+        "star": "85",
+        "feeling": "1087000"
+    },
+    {
+        "star": "86",
+        "feeling": "1123600"
+    },
+    {
+        "star": "87",
+        "feeling": "1161100"
+    },
+    {
+        "star": "88",
+        "feeling": "1199500"
+    },
+    {
+        "star": "89",
+        "feeling": "1238800"
+    },
+    {
+        "star": "90",
+        "feeling": "1279000"
+    }
+]

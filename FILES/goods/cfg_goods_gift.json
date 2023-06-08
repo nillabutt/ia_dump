@@ -1,0 +1,58 @@
+[
+    {
+        "cfg_id": "4000001",
+        "max_count": "999",
+        "quality": "2",
+        "restore": "1",
+        "feeling": "100",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "0",
+        "name": "女神之泪Ⅰ",
+        "show_in_bag": "1",
+        "icon": "4000001.png",
+        "description": "女神进阶界面使用，增加100点好感度"
+    },
+    {
+        "cfg_id": "4000002",
+        "max_count": "999",
+        "quality": "3",
+        "restore": "1",
+        "feeling": "200",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "0",
+        "name": "女神之泪Ⅱ",
+        "show_in_bag": "1",
+        "icon": "4000002.png",
+        "description": "女神进阶界面使用，增加200点好感度"
+    },
+    {
+        "cfg_id": "4000003",
+        "max_count": "999",
+        "quality": "4",
+        "restore": "1",
+        "feeling": "400",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "0",
+        "name": "女神之泪Ⅲ",
+        "show_in_bag": "1",
+        "icon": "4000003.png",
+        "description": "女神进阶界面使用，增加400点好感度"
+    },
+    {
+        "cfg_id": "4000004",
+        "max_count": "999",
+        "quality": "5",
+        "restore": "1",
+        "feeling": "1000",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "0",
+        "name": "女神之泪Ⅳ",
+        "show_in_bag": "1",
+        "icon": "4000004.png",
+        "description": "女神进阶界面使用，增加1000点好感度"
+    }
+]

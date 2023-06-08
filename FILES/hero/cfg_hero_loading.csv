@@ -1,0 +1,3 @@
+id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,open_level
+101,img_loading_hl_UR_plus.png,至尊天后,0,0,1,HL_UR_PLUS,60
+102,img_loading_ywj_UR.png,次元突破,-66,600,0.75,YWJ_UR,0

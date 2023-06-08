@@ -1,0 +1,302 @@
+[
+    {
+        "treasure_id": "1001",
+        "name": "卢恩符石",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "神王奥丁的至宝之一，刻于石板上的符文。这是一种蕴含着魔力的文字，传说每个字节都代表着一种自然能量，当它们组成词语或者短句时，就能形成一个魔法。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "1002",
+        "name": "夏日缤纷",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "你问什么盯着人家，是我脸上有什么吗？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "1003",
+        "name": "战斗天使",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "英勇无畏的战斗天使加百利神圣庇佑着世间，以强大的战斗力守护正义，无恶不击。",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "1004",
+        "name": "梦境时刻",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "如梦如幻，亦真亦假，让人恍若隔世。",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "1005",
+        "name": "生命钥匙",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "由黄金和宝石打造，象征生命和轮回的十字型法器。它是法老王发号施令的工具，也是祭司们与亡灵沟通的圣物。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "1006",
+        "name": "神圣金字塔",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "以纯金打造的金字塔复制品，它们很小，小到只用一只手就能拿起。如此精巧的复制品，让人不禁产生怀疑，它的内部，是否也躺着一位法老王呢？",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "1007",
+        "name": "失落古卷",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "又称“死海文书”，是记载圣经中失落传说的神话古卷。在发明纸张之前，人们喜欢在鞣制后的羊皮上书写文字，那些上古的寓言，禁忌的咒语，统统以这种方式保存了下来。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "1008",
+        "name": "华尔兹",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "这么美好的夜晚，有没有兴趣与我共舞一曲呢？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "1009",
+        "name": "精心呵护",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "咦，你也是来这里照顾这些小生命的吗？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "1010",
+        "name": "昆仑镜",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "据说是使用女娲补填用的神石磨出来的石镜。石镜中精确的刻着日月星辰的方位，仿佛宇宙间的一切，都被收入其中。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "1011",
+        "name": "稻荷面具",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "供奉于大多数日本稻荷神社中的面具，一般是通灵仪式上的宝物，神主们戴上它，与鬼神进行沟通。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "1012",
+        "name": "畅游书海",
+        "special_effect_type": "0",
+        "rebate_debris_count": "10",
+        "quality": "3",
+        "show_label": "战斗",
+        "desc": "书中自有黄金屋，书中自有颜如玉，你说对吗？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "2001",
+        "name": "爱神项链",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "耀眼无比，华丽绝伦的项链。传说它可能是由珍珠制成的。可以使穿戴的女性更加美丽，使男人都无法抗拒。这个项链是女神弗蕾亚的宝物，平时绝不离身。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "2002",
+        "name": "原初之火",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "普罗米修斯带给人类的最早的火种，智慧与文明的象征。即使没有任何燃料，它也永恒不灭。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "2003",
+        "name": "夏日畅饮",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "这么好的天气，一起去冲浪吧，今天就不打铁了。",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "2004",
+        "name": "荷鲁斯之眼",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "埃及金字塔守护者象征物所制的神圣收藏品，埃及王权的象征。通体为黄金和宝石打造，凝视它时，仿佛也感到了它的回视。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "2005",
+        "name": "时间沙漏",
+        "special_effect_type": "8",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "增益",
+        "desc": "供奉于埃及神庙的贡品，是古代埃及众神少有的能够精准计时的工具，当一测被沙子填满，而另一侧空空如也时，则意味着需要进行昼夜更替了。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "2006",
+        "name": "圣杯",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "据说是基督受刑时，用来盛放他的血液的金杯。为了向世人证明基督非神，于是将他的血液盛起来，而神是不会流血的。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "2007",
+        "name": "甜品小屋",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "主人，要吃些我做的甜品吗？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "2008",
+        "name": "樱花狩猎",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "这种樱花盛开的季节最适合去狩猎了，你说呢？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "2009",
+        "name": "欢迎光临",
+        "special_effect_type": "0",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "欢迎光临，想喝点什..什么吗...嗯？你是来找我的？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "2010",
+        "name": "许个愿吧",
+        "special_effect_type": "4",
+        "rebate_debris_count": "30",
+        "quality": "4",
+        "show_label": "战斗",
+        "desc": "许个愿吧！兴许我能帮你实现呢。",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "3001",
+        "name": "莱瓦汀",
+        "special_effect_type": "7",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "特权",
+        "desc": "它是由火山之心的熔岩打造出来的宝剑，火焰巨人苏特尔曾挥舞此剑，在彩虹桥上大杀四方，据说他挥出的每一剑，都能点燃一方的天空。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "3002",
+        "name": "天舟",
+        "special_effect_type": "6",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "增益",
+        "desc": "又名“斯基德普拉特尼”，是北欧神工匠侏儒所制，送给弗雷的一艘飞船，大可装下所有北欧众神，小可放至口袋中，诸神黄昏发生时搭载众神至战场的宝物。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "3003",
+        "name": "花火大会",
+        "special_effect_type": "5",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "增益",
+        "desc": "今晚的烟花真绚丽呐，就和那一年一样。",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "3004",
+        "name": "鲤跃龙门",
+        "special_effect_type": "3",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "战斗",
+        "desc": "我相信，只要努力，所以人都能鲤跃龙门的",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "3005",
+        "name": "猫又咖啡屋",
+        "special_effect_type": "0",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "战斗",
+        "desc": "很高兴为您服务！我是猫...猫又，请多指教。",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "3006",
+        "name": "大丰收",
+        "special_effect_type": "2",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "战斗",
+        "desc": "如此的大丰收，就不会有人遭受饥苦了吧",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "3007",
+        "name": "如意金箍棒",
+        "special_effect_type": "0",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "战斗",
+        "desc": "由昊天大帝所铸，赠予禹王用来支撑东海的基柱，名为定海神针，巨大，且奇重无比。昊天上帝为了使禹王等凡夫俗子能够移动，故施加”如意“咒法，念此咒，可将其自由放大缩小。",
+        "is_hero": "0"
+    },
+    {
+        "treasure_id": "3008",
+        "name": "武斗大会",
+        "special_effect_type": "1",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "增益",
+        "desc": "来和我决斗吧，招式会说明一切！",
+        "is_hero": "1"
+    }
+]

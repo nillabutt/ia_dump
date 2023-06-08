@@ -1,0 +1,272 @@
+[
+    {
+        "index": "1",
+        "type": "1",
+        "hero_id": "2006",
+        "weight": "1"
+    },
+    {
+        "index": "2",
+        "type": "1",
+        "hero_id": "2007",
+        "weight": "1"
+    },
+    {
+        "index": "3",
+        "type": "1",
+        "hero_id": "2018",
+        "weight": "1"
+    },
+    {
+        "index": "4",
+        "type": "1",
+        "hero_id": "2020",
+        "weight": "1"
+    },
+    {
+        "index": "5",
+        "type": "1",
+        "hero_id": "2030",
+        "weight": "1"
+    },
+    {
+        "index": "6",
+        "type": "2",
+        "hero_id": "2005",
+        "weight": "1"
+    },
+    {
+        "index": "7",
+        "type": "2",
+        "hero_id": "2008",
+        "weight": "1"
+    },
+    {
+        "index": "8",
+        "type": "2",
+        "hero_id": "2010",
+        "weight": "1"
+    },
+    {
+        "index": "9",
+        "type": "2",
+        "hero_id": "2017",
+        "weight": "1"
+    },
+    {
+        "index": "10",
+        "type": "2",
+        "hero_id": "2023",
+        "weight": "1"
+    },
+    {
+        "index": "11",
+        "type": "2",
+        "hero_id": "2029",
+        "weight": "1"
+    },
+    {
+        "index": "12",
+        "type": "3",
+        "hero_id": "2009",
+        "weight": "1"
+    },
+    {
+        "index": "13",
+        "type": "3",
+        "hero_id": "2021",
+        "weight": "1"
+    },
+    {
+        "index": "14",
+        "type": "3",
+        "hero_id": "2022",
+        "weight": "1"
+    },
+    {
+        "index": "15",
+        "type": "3",
+        "hero_id": "2027",
+        "weight": "1"
+    },
+    {
+        "index": "16",
+        "type": "3",
+        "hero_id": "2033",
+        "weight": "1"
+    },
+    {
+        "index": "17",
+        "type": "3",
+        "hero_id": "2034",
+        "weight": "1"
+    },
+    {
+        "index": "18",
+        "type": "4",
+        "hero_id": "2001",
+        "weight": "1"
+    },
+    {
+        "index": "19",
+        "type": "4",
+        "hero_id": "2002",
+        "weight": "1"
+    },
+    {
+        "index": "20",
+        "type": "4",
+        "hero_id": "2003",
+        "weight": "1"
+    },
+    {
+        "index": "21",
+        "type": "4",
+        "hero_id": "2004",
+        "weight": "1"
+    },
+    {
+        "index": "22",
+        "type": "4",
+        "hero_id": "2011",
+        "weight": "1"
+    },
+    {
+        "index": "23",
+        "type": "4",
+        "hero_id": "2014",
+        "weight": "1"
+    },
+    {
+        "index": "24",
+        "type": "4",
+        "hero_id": "2015",
+        "weight": "1"
+    },
+    {
+        "index": "25",
+        "type": "4",
+        "hero_id": "2019",
+        "weight": "1"
+    },
+    {
+        "index": "26",
+        "type": "4",
+        "hero_id": "2028",
+        "weight": "1"
+    },
+    {
+        "index": "27",
+        "type": "4",
+        "hero_id": "2036",
+        "weight": "1"
+    },
+    {
+        "index": "28",
+        "type": "5",
+        "hero_id": "2013",
+        "weight": "1"
+    },
+    {
+        "index": "29",
+        "type": "5",
+        "hero_id": "2024",
+        "weight": "1"
+    },
+    {
+        "index": "30",
+        "type": "5",
+        "hero_id": "2026",
+        "weight": "1"
+    },
+    {
+        "index": "31",
+        "type": "5",
+        "hero_id": "2038",
+        "weight": "1"
+    },
+    {
+        "index": "32",
+        "type": "5",
+        "hero_id": "2040",
+        "weight": "1"
+    },
+    {
+        "index": "33",
+        "type": "5",
+        "hero_id": "2041",
+        "weight": "1"
+    },
+    {
+        "index": "34",
+        "type": "5",
+        "hero_id": "2046",
+        "weight": "1"
+    },
+    {
+        "index": "35",
+        "type": "6",
+        "hero_id": "2012",
+        "weight": "1"
+    },
+    {
+        "index": "36",
+        "type": "6",
+        "hero_id": "2016",
+        "weight": "1"
+    },
+    {
+        "index": "37",
+        "type": "6",
+        "hero_id": "2025",
+        "weight": "1"
+    },
+    {
+        "index": "38",
+        "type": "6",
+        "hero_id": "2031",
+        "weight": "1"
+    },
+    {
+        "index": "39",
+        "type": "6",
+        "hero_id": "2032",
+        "weight": "1"
+    },
+    {
+        "index": "40",
+        "type": "6",
+        "hero_id": "2035",
+        "weight": "1"
+    },
+    {
+        "index": "41",
+        "type": "6",
+        "hero_id": "2037",
+        "weight": "1"
+    },
+    {
+        "index": "42",
+        "type": "6",
+        "hero_id": "2039",
+        "weight": "1"
+    },
+    {
+        "index": "43",
+        "type": "6",
+        "hero_id": "2042",
+        "weight": "1"
+    },
+    {
+        "index": "44",
+        "type": "6",
+        "hero_id": "2047",
+        "weight": "1"
+    },
+    {
+        "index": "45",
+        "type": "6",
+        "hero_id": "2048",
+        "weight": "1"
+    }
+]

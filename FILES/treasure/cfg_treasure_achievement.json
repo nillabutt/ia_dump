@@ -1,0 +1,134 @@
+[
+    {
+        "cfg_id": "1",
+        "condition_type": "2",
+        "need_reach_num": "1",
+        "reward": "5:1000066:10"
+    },
+    {
+        "cfg_id": "2",
+        "condition_type": "2",
+        "need_reach_num": "3",
+        "reward": "5:1000066:10"
+    },
+    {
+        "cfg_id": "3",
+        "condition_type": "2",
+        "need_reach_num": "7",
+        "reward": "5:1000066:10"
+    },
+    {
+        "cfg_id": "4",
+        "condition_type": "2",
+        "need_reach_num": "11",
+        "reward": "5:1000066:15"
+    },
+    {
+        "cfg_id": "5",
+        "condition_type": "2",
+        "need_reach_num": "15",
+        "reward": "5:1000066:15"
+    },
+    {
+        "cfg_id": "6",
+        "condition_type": "3",
+        "need_reach_num": "1",
+        "reward": "5:1000065:10"
+    },
+    {
+        "cfg_id": "7",
+        "condition_type": "3",
+        "need_reach_num": "3",
+        "reward": "5:1000065:15"
+    },
+    {
+        "cfg_id": "8",
+        "condition_type": "3",
+        "need_reach_num": "7",
+        "reward": "5:1000065:20"
+    },
+    {
+        "cfg_id": "9",
+        "condition_type": "3",
+        "need_reach_num": "11",
+        "reward": "5:1000065:25"
+    },
+    {
+        "cfg_id": "10",
+        "condition_type": "3",
+        "need_reach_num": "15",
+        "reward": "5:1000065:30"
+    },
+    {
+        "cfg_id": "11",
+        "condition_type": "4",
+        "need_reach_num": "1",
+        "reward": "5:3000191:3000"
+    },
+    {
+        "cfg_id": "12",
+        "condition_type": "4",
+        "need_reach_num": "3",
+        "reward": "5:3000191:5000"
+    },
+    {
+        "cfg_id": "13",
+        "condition_type": "4",
+        "need_reach_num": "7",
+        "reward": "5:3000191:7000"
+    },
+    {
+        "cfg_id": "14",
+        "condition_type": "4",
+        "need_reach_num": "13",
+        "reward": "5:3000191:8500"
+    },
+    {
+        "cfg_id": "15",
+        "condition_type": "4",
+        "need_reach_num": "20",
+        "reward": "5:3000191:10000"
+    },
+    {
+        "cfg_id": "16",
+        "condition_type": "5",
+        "need_reach_num": "10",
+        "reward": "1:2:1000"
+    },
+    {
+        "cfg_id": "17",
+        "condition_type": "5",
+        "need_reach_num": "30",
+        "reward": "1:2:1500"
+    },
+    {
+        "cfg_id": "18",
+        "condition_type": "5",
+        "need_reach_num": "50",
+        "reward": "1:2:2000"
+    },
+    {
+        "cfg_id": "19",
+        "condition_type": "5",
+        "need_reach_num": "70",
+        "reward": "5:3000127:10"
+    },
+    {
+        "cfg_id": "20",
+        "condition_type": "5",
+        "need_reach_num": "110",
+        "reward": "5:3000127:15"
+    },
+    {
+        "cfg_id": "21",
+        "condition_type": "5",
+        "need_reach_num": "150",
+        "reward": "5:3000127:20"
+    },
+    {
+        "cfg_id": "22",
+        "condition_type": "5",
+        "need_reach_num": "200",
+        "reward": "5:3000127:25"
+    }
+]

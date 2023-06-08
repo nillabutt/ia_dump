@@ -1,0 +1,3782 @@
+[
+    {
+        "level": "1",
+        "hero_exp_need": "100",
+        "hero_core_need": "0",
+        "strength": "5",
+        "agility": "5",
+        "intelligence": "5",
+        "stamina": "5"
+    },
+    {
+        "level": "2",
+        "hero_exp_need": "150",
+        "hero_core_need": "0",
+        "strength": "10",
+        "agility": "10",
+        "intelligence": "10",
+        "stamina": "10"
+    },
+    {
+        "level": "3",
+        "hero_exp_need": "200",
+        "hero_core_need": "0",
+        "strength": "15",
+        "agility": "15",
+        "intelligence": "15",
+        "stamina": "15"
+    },
+    {
+        "level": "4",
+        "hero_exp_need": "250",
+        "hero_core_need": "0",
+        "strength": "20",
+        "agility": "20",
+        "intelligence": "20",
+        "stamina": "20"
+    },
+    {
+        "level": "5",
+        "hero_exp_need": "300",
+        "hero_core_need": "0",
+        "strength": "25",
+        "agility": "25",
+        "intelligence": "25",
+        "stamina": "25"
+    },
+    {
+        "level": "6",
+        "hero_exp_need": "350",
+        "hero_core_need": "0",
+        "strength": "30",
+        "agility": "30",
+        "intelligence": "30",
+        "stamina": "30"
+    },
+    {
+        "level": "7",
+        "hero_exp_need": "400",
+        "hero_core_need": "0",
+        "strength": "35",
+        "agility": "35",
+        "intelligence": "35",
+        "stamina": "35"
+    },
+    {
+        "level": "8",
+        "hero_exp_need": "450",
+        "hero_core_need": "0",
+        "strength": "40",
+        "agility": "40",
+        "intelligence": "40",
+        "stamina": "40"
+    },
+    {
+        "level": "9",
+        "hero_exp_need": "500",
+        "hero_core_need": "0",
+        "strength": "45",
+        "agility": "45",
+        "intelligence": "45",
+        "stamina": "45"
+    },
+    {
+        "level": "10",
+        "hero_exp_need": "550",
+        "hero_core_need": "10",
+        "strength": "95",
+        "agility": "95",
+        "intelligence": "95",
+        "stamina": "95"
+    },
+    {
+        "level": "11",
+        "hero_exp_need": "600",
+        "hero_core_need": "0",
+        "strength": "105",
+        "agility": "105",
+        "intelligence": "105",
+        "stamina": "105"
+    },
+    {
+        "level": "12",
+        "hero_exp_need": "650",
+        "hero_core_need": "0",
+        "strength": "115",
+        "agility": "115",
+        "intelligence": "115",
+        "stamina": "115"
+    },
+    {
+        "level": "13",
+        "hero_exp_need": "700",
+        "hero_core_need": "0",
+        "strength": "125",
+        "agility": "125",
+        "intelligence": "125",
+        "stamina": "125"
+    },
+    {
+        "level": "14",
+        "hero_exp_need": "750",
+        "hero_core_need": "0",
+        "strength": "135",
+        "agility": "135",
+        "intelligence": "135",
+        "stamina": "135"
+    },
+    {
+        "level": "15",
+        "hero_exp_need": "800",
+        "hero_core_need": "0",
+        "strength": "145",
+        "agility": "145",
+        "intelligence": "145",
+        "stamina": "145"
+    },
+    {
+        "level": "16",
+        "hero_exp_need": "850",
+        "hero_core_need": "0",
+        "strength": "155",
+        "agility": "155",
+        "intelligence": "155",
+        "stamina": "155"
+    },
+    {
+        "level": "17",
+        "hero_exp_need": "900",
+        "hero_core_need": "0",
+        "strength": "165",
+        "agility": "165",
+        "intelligence": "165",
+        "stamina": "165"
+    },
+    {
+        "level": "18",
+        "hero_exp_need": "950",
+        "hero_core_need": "0",
+        "strength": "175",
+        "agility": "175",
+        "intelligence": "175",
+        "stamina": "175"
+    },
+    {
+        "level": "19",
+        "hero_exp_need": "1000",
+        "hero_core_need": "0",
+        "strength": "185",
+        "agility": "185",
+        "intelligence": "185",
+        "stamina": "185"
+    },
+    {
+        "level": "20",
+        "hero_exp_need": "1050",
+        "hero_core_need": "40",
+        "strength": "285",
+        "agility": "285",
+        "intelligence": "285",
+        "stamina": "285"
+    },
+    {
+        "level": "21",
+        "hero_exp_need": "1100",
+        "hero_core_need": "0",
+        "strength": "300",
+        "agility": "300",
+        "intelligence": "300",
+        "stamina": "300"
+    },
+    {
+        "level": "22",
+        "hero_exp_need": "1150",
+        "hero_core_need": "0",
+        "strength": "315",
+        "agility": "315",
+        "intelligence": "315",
+        "stamina": "315"
+    },
+    {
+        "level": "23",
+        "hero_exp_need": "1200",
+        "hero_core_need": "0",
+        "strength": "330",
+        "agility": "330",
+        "intelligence": "330",
+        "stamina": "330"
+    },
+    {
+        "level": "24",
+        "hero_exp_need": "1250",
+        "hero_core_need": "0",
+        "strength": "345",
+        "agility": "345",
+        "intelligence": "345",
+        "stamina": "345"
+    },
+    {
+        "level": "25",
+        "hero_exp_need": "1300",
+        "hero_core_need": "0",
+        "strength": "360",
+        "agility": "360",
+        "intelligence": "360",
+        "stamina": "360"
+    },
+    {
+        "level": "26",
+        "hero_exp_need": "1350",
+        "hero_core_need": "0",
+        "strength": "375",
+        "agility": "375",
+        "intelligence": "375",
+        "stamina": "375"
+    },
+    {
+        "level": "27",
+        "hero_exp_need": "1400",
+        "hero_core_need": "0",
+        "strength": "390",
+        "agility": "390",
+        "intelligence": "390",
+        "stamina": "390"
+    },
+    {
+        "level": "28",
+        "hero_exp_need": "1450",
+        "hero_core_need": "0",
+        "strength": "405",
+        "agility": "405",
+        "intelligence": "405",
+        "stamina": "405"
+    },
+    {
+        "level": "29",
+        "hero_exp_need": "1500",
+        "hero_core_need": "0",
+        "strength": "420",
+        "agility": "420",
+        "intelligence": "420",
+        "stamina": "420"
+    },
+    {
+        "level": "30",
+        "hero_exp_need": "1550",
+        "hero_core_need": "0",
+        "strength": "435",
+        "agility": "435",
+        "intelligence": "435",
+        "stamina": "435"
+    },
+    {
+        "level": "31",
+        "hero_exp_need": "1600",
+        "hero_core_need": "0",
+        "strength": "450",
+        "agility": "450",
+        "intelligence": "450",
+        "stamina": "450"
+    },
+    {
+        "level": "32",
+        "hero_exp_need": "1650",
+        "hero_core_need": "0",
+        "strength": "465",
+        "agility": "465",
+        "intelligence": "465",
+        "stamina": "465"
+    },
+    {
+        "level": "33",
+        "hero_exp_need": "1700",
+        "hero_core_need": "0",
+        "strength": "480",
+        "agility": "480",
+        "intelligence": "480",
+        "stamina": "480"
+    },
+    {
+        "level": "34",
+        "hero_exp_need": "1750",
+        "hero_core_need": "0",
+        "strength": "495",
+        "agility": "495",
+        "intelligence": "495",
+        "stamina": "495"
+    },
+    {
+        "level": "35",
+        "hero_exp_need": "1800",
+        "hero_core_need": "0",
+        "strength": "510",
+        "agility": "510",
+        "intelligence": "510",
+        "stamina": "510"
+    },
+    {
+        "level": "36",
+        "hero_exp_need": "1850",
+        "hero_core_need": "0",
+        "strength": "525",
+        "agility": "525",
+        "intelligence": "525",
+        "stamina": "525"
+    },
+    {
+        "level": "37",
+        "hero_exp_need": "1900",
+        "hero_core_need": "0",
+        "strength": "540",
+        "agility": "540",
+        "intelligence": "540",
+        "stamina": "540"
+    },
+    {
+        "level": "38",
+        "hero_exp_need": "1950",
+        "hero_core_need": "0",
+        "strength": "555",
+        "agility": "555",
+        "intelligence": "555",
+        "stamina": "555"
+    },
+    {
+        "level": "39",
+        "hero_exp_need": "2000",
+        "hero_core_need": "0",
+        "strength": "570",
+        "agility": "570",
+        "intelligence": "570",
+        "stamina": "570"
+    },
+    {
+        "level": "40",
+        "hero_exp_need": "2100",
+        "hero_core_need": "200",
+        "strength": "720",
+        "agility": "720",
+        "intelligence": "720",
+        "stamina": "720"
+    },
+    {
+        "level": "41",
+        "hero_exp_need": "2400",
+        "hero_core_need": "0",
+        "strength": "740",
+        "agility": "740",
+        "intelligence": "740",
+        "stamina": "740"
+    },
+    {
+        "level": "42",
+        "hero_exp_need": "2700",
+        "hero_core_need": "0",
+        "strength": "760",
+        "agility": "760",
+        "intelligence": "760",
+        "stamina": "760"
+    },
+    {
+        "level": "43",
+        "hero_exp_need": "3000",
+        "hero_core_need": "0",
+        "strength": "780",
+        "agility": "780",
+        "intelligence": "780",
+        "stamina": "780"
+    },
+    {
+        "level": "44",
+        "hero_exp_need": "3300",
+        "hero_core_need": "0",
+        "strength": "800",
+        "agility": "800",
+        "intelligence": "800",
+        "stamina": "800"
+    },
+    {
+        "level": "45",
+        "hero_exp_need": "3600",
+        "hero_core_need": "0",
+        "strength": "820",
+        "agility": "820",
+        "intelligence": "820",
+        "stamina": "820"
+    },
+    {
+        "level": "46",
+        "hero_exp_need": "3900",
+        "hero_core_need": "0",
+        "strength": "840",
+        "agility": "840",
+        "intelligence": "840",
+        "stamina": "840"
+    },
+    {
+        "level": "47",
+        "hero_exp_need": "4200",
+        "hero_core_need": "0",
+        "strength": "860",
+        "agility": "860",
+        "intelligence": "860",
+        "stamina": "860"
+    },
+    {
+        "level": "48",
+        "hero_exp_need": "4500",
+        "hero_core_need": "0",
+        "strength": "880",
+        "agility": "880",
+        "intelligence": "880",
+        "stamina": "880"
+    },
+    {
+        "level": "49",
+        "hero_exp_need": "4800",
+        "hero_core_need": "0",
+        "strength": "900",
+        "agility": "900",
+        "intelligence": "900",
+        "stamina": "900"
+    },
+    {
+        "level": "50",
+        "hero_exp_need": "5100",
+        "hero_core_need": "0",
+        "strength": "920",
+        "agility": "920",
+        "intelligence": "920",
+        "stamina": "920"
+    },
+    {
+        "level": "51",
+        "hero_exp_need": "5600",
+        "hero_core_need": "0",
+        "strength": "940",
+        "agility": "940",
+        "intelligence": "940",
+        "stamina": "940"
+    },
+    {
+        "level": "52",
+        "hero_exp_need": "6100",
+        "hero_core_need": "0",
+        "strength": "960",
+        "agility": "960",
+        "intelligence": "960",
+        "stamina": "960"
+    },
+    {
+        "level": "53",
+        "hero_exp_need": "6600",
+        "hero_core_need": "0",
+        "strength": "980",
+        "agility": "980",
+        "intelligence": "980",
+        "stamina": "980"
+    },
+    {
+        "level": "54",
+        "hero_exp_need": "7100",
+        "hero_core_need": "0",
+        "strength": "1000",
+        "agility": "1000",
+        "intelligence": "1000",
+        "stamina": "1000"
+    },
+    {
+        "level": "55",
+        "hero_exp_need": "7600",
+        "hero_core_need": "0",
+        "strength": "1020",
+        "agility": "1020",
+        "intelligence": "1020",
+        "stamina": "1020"
+    },
+    {
+        "level": "56",
+        "hero_exp_need": "8100",
+        "hero_core_need": "0",
+        "strength": "1040",
+        "agility": "1040",
+        "intelligence": "1040",
+        "stamina": "1040"
+    },
+    {
+        "level": "57",
+        "hero_exp_need": "8600",
+        "hero_core_need": "0",
+        "strength": "1060",
+        "agility": "1060",
+        "intelligence": "1060",
+        "stamina": "1060"
+    },
+    {
+        "level": "58",
+        "hero_exp_need": "9100",
+        "hero_core_need": "0",
+        "strength": "1080",
+        "agility": "1080",
+        "intelligence": "1080",
+        "stamina": "1080"
+    },
+    {
+        "level": "59",
+        "hero_exp_need": "9600",
+        "hero_core_need": "0",
+        "strength": "1100",
+        "agility": "1100",
+        "intelligence": "1100",
+        "stamina": "1100"
+    },
+    {
+        "level": "60",
+        "hero_exp_need": "10100",
+        "hero_core_need": "500",
+        "strength": "1300",
+        "agility": "1300",
+        "intelligence": "1300",
+        "stamina": "1300"
+    },
+    {
+        "level": "61",
+        "hero_exp_need": "10600",
+        "hero_core_need": "0",
+        "strength": "1330",
+        "agility": "1330",
+        "intelligence": "1330",
+        "stamina": "1330"
+    },
+    {
+        "level": "62",
+        "hero_exp_need": "11600",
+        "hero_core_need": "0",
+        "strength": "1360",
+        "agility": "1360",
+        "intelligence": "1360",
+        "stamina": "1360"
+    },
+    {
+        "level": "63",
+        "hero_exp_need": "12600",
+        "hero_core_need": "0",
+        "strength": "1390",
+        "agility": "1390",
+        "intelligence": "1390",
+        "stamina": "1390"
+    },
+    {
+        "level": "64",
+        "hero_exp_need": "13600",
+        "hero_core_need": "0",
+        "strength": "1420",
+        "agility": "1420",
+        "intelligence": "1420",
+        "stamina": "1420"
+    },
+    {
+        "level": "65",
+        "hero_exp_need": "14600",
+        "hero_core_need": "0",
+        "strength": "1450",
+        "agility": "1450",
+        "intelligence": "1450",
+        "stamina": "1450"
+    },
+    {
+        "level": "66",
+        "hero_exp_need": "15600",
+        "hero_core_need": "0",
+        "strength": "1480",
+        "agility": "1480",
+        "intelligence": "1480",
+        "stamina": "1480"
+    },
+    {
+        "level": "67",
+        "hero_exp_need": "16600",
+        "hero_core_need": "0",
+        "strength": "1510",
+        "agility": "1510",
+        "intelligence": "1510",
+        "stamina": "1510"
+    },
+    {
+        "level": "68",
+        "hero_exp_need": "17600",
+        "hero_core_need": "0",
+        "strength": "1540",
+        "agility": "1540",
+        "intelligence": "1540",
+        "stamina": "1540"
+    },
+    {
+        "level": "69",
+        "hero_exp_need": "18600",
+        "hero_core_need": "0",
+        "strength": "1570",
+        "agility": "1570",
+        "intelligence": "1570",
+        "stamina": "1570"
+    },
+    {
+        "level": "70",
+        "hero_exp_need": "19600",
+        "hero_core_need": "0",
+        "strength": "1600",
+        "agility": "1600",
+        "intelligence": "1600",
+        "stamina": "1600"
+    },
+    {
+        "level": "71",
+        "hero_exp_need": "21600",
+        "hero_core_need": "0",
+        "strength": "1630",
+        "agility": "1630",
+        "intelligence": "1630",
+        "stamina": "1630"
+    },
+    {
+        "level": "72",
+        "hero_exp_need": "23600",
+        "hero_core_need": "0",
+        "strength": "1660",
+        "agility": "1660",
+        "intelligence": "1660",
+        "stamina": "1660"
+    },
+    {
+        "level": "73",
+        "hero_exp_need": "25600",
+        "hero_core_need": "0",
+        "strength": "1690",
+        "agility": "1690",
+        "intelligence": "1690",
+        "stamina": "1690"
+    },
+    {
+        "level": "74",
+        "hero_exp_need": "27600",
+        "hero_core_need": "0",
+        "strength": "1720",
+        "agility": "1720",
+        "intelligence": "1720",
+        "stamina": "1720"
+    },
+    {
+        "level": "75",
+        "hero_exp_need": "29600",
+        "hero_core_need": "0",
+        "strength": "1750",
+        "agility": "1750",
+        "intelligence": "1750",
+        "stamina": "1750"
+    },
+    {
+        "level": "76",
+        "hero_exp_need": "31600",
+        "hero_core_need": "0",
+        "strength": "1780",
+        "agility": "1780",
+        "intelligence": "1780",
+        "stamina": "1780"
+    },
+    {
+        "level": "77",
+        "hero_exp_need": "33600",
+        "hero_core_need": "0",
+        "strength": "1810",
+        "agility": "1810",
+        "intelligence": "1810",
+        "stamina": "1810"
+    },
+    {
+        "level": "78",
+        "hero_exp_need": "35600",
+        "hero_core_need": "0",
+        "strength": "1840",
+        "agility": "1840",
+        "intelligence": "1840",
+        "stamina": "1840"
+    },
+    {
+        "level": "79",
+        "hero_exp_need": "37600",
+        "hero_core_need": "0",
+        "strength": "1870",
+        "agility": "1870",
+        "intelligence": "1870",
+        "stamina": "1870"
+    },
+    {
+        "level": "80",
+        "hero_exp_need": "39600",
+        "hero_core_need": "1000",
+        "strength": "2170",
+        "agility": "2170",
+        "intelligence": "2170",
+        "stamina": "2170"
+    },
+    {
+        "level": "81",
+        "hero_exp_need": "41600",
+        "hero_core_need": "0",
+        "strength": "2210",
+        "agility": "2210",
+        "intelligence": "2210",
+        "stamina": "2210"
+    },
+    {
+        "level": "82",
+        "hero_exp_need": "43600",
+        "hero_core_need": "0",
+        "strength": "2250",
+        "agility": "2250",
+        "intelligence": "2250",
+        "stamina": "2250"
+    },
+    {
+        "level": "83",
+        "hero_exp_need": "45600",
+        "hero_core_need": "0",
+        "strength": "2290",
+        "agility": "2290",
+        "intelligence": "2290",
+        "stamina": "2290"
+    },
+    {
+        "level": "84",
+        "hero_exp_need": "47600",
+        "hero_core_need": "0",
+        "strength": "2330",
+        "agility": "2330",
+        "intelligence": "2330",
+        "stamina": "2330"
+    },
+    {
+        "level": "85",
+        "hero_exp_need": "49600",
+        "hero_core_need": "0",
+        "strength": "2370",
+        "agility": "2370",
+        "intelligence": "2370",
+        "stamina": "2370"
+    },
+    {
+        "level": "86",
+        "hero_exp_need": "51600",
+        "hero_core_need": "0",
+        "strength": "2410",
+        "agility": "2410",
+        "intelligence": "2410",
+        "stamina": "2410"
+    },
+    {
+        "level": "87",
+        "hero_exp_need": "53600",
+        "hero_core_need": "0",
+        "strength": "2450",
+        "agility": "2450",
+        "intelligence": "2450",
+        "stamina": "2450"
+    },
+    {
+        "level": "88",
+        "hero_exp_need": "55600",
+        "hero_core_need": "0",
+        "strength": "2490",
+        "agility": "2490",
+        "intelligence": "2490",
+        "stamina": "2490"
+    },
+    {
+        "level": "89",
+        "hero_exp_need": "57600",
+        "hero_core_need": "0",
+        "strength": "2530",
+        "agility": "2530",
+        "intelligence": "2530",
+        "stamina": "2530"
+    },
+    {
+        "level": "90",
+        "hero_exp_need": "59600",
+        "hero_core_need": "0",
+        "strength": "2570",
+        "agility": "2570",
+        "intelligence": "2570",
+        "stamina": "2570"
+    },
+    {
+        "level": "91",
+        "hero_exp_need": "61600",
+        "hero_core_need": "0",
+        "strength": "2610",
+        "agility": "2610",
+        "intelligence": "2610",
+        "stamina": "2610"
+    },
+    {
+        "level": "92",
+        "hero_exp_need": "63600",
+        "hero_core_need": "0",
+        "strength": "2650",
+        "agility": "2650",
+        "intelligence": "2650",
+        "stamina": "2650"
+    },
+    {
+        "level": "93",
+        "hero_exp_need": "65600",
+        "hero_core_need": "0",
+        "strength": "2690",
+        "agility": "2690",
+        "intelligence": "2690",
+        "stamina": "2690"
+    },
+    {
+        "level": "94",
+        "hero_exp_need": "67600",
+        "hero_core_need": "0",
+        "strength": "2730",
+        "agility": "2730",
+        "intelligence": "2730",
+        "stamina": "2730"
+    },
+    {
+        "level": "95",
+        "hero_exp_need": "69600",
+        "hero_core_need": "0",
+        "strength": "2770",
+        "agility": "2770",
+        "intelligence": "2770",
+        "stamina": "2770"
+    },
+    {
+        "level": "96",
+        "hero_exp_need": "71600",
+        "hero_core_need": "0",
+        "strength": "2810",
+        "agility": "2810",
+        "intelligence": "2810",
+        "stamina": "2810"
+    },
+    {
+        "level": "97",
+        "hero_exp_need": "73600",
+        "hero_core_need": "0",
+        "strength": "2850",
+        "agility": "2850",
+        "intelligence": "2850",
+        "stamina": "2850"
+    },
+    {
+        "level": "98",
+        "hero_exp_need": "75600",
+        "hero_core_need": "0",
+        "strength": "2890",
+        "agility": "2890",
+        "intelligence": "2890",
+        "stamina": "2890"
+    },
+    {
+        "level": "99",
+        "hero_exp_need": "77600",
+        "hero_core_need": "0",
+        "strength": "2930",
+        "agility": "2930",
+        "intelligence": "2930",
+        "stamina": "2930"
+    },
+    {
+        "level": "100",
+        "hero_exp_need": "79600",
+        "hero_core_need": "2000",
+        "strength": "3330",
+        "agility": "3330",
+        "intelligence": "3330",
+        "stamina": "3330"
+    },
+    {
+        "level": "101",
+        "hero_exp_need": "81600",
+        "hero_core_need": "0",
+        "strength": "3380",
+        "agility": "3380",
+        "intelligence": "3380",
+        "stamina": "3380"
+    },
+    {
+        "level": "102",
+        "hero_exp_need": "83600",
+        "hero_core_need": "0",
+        "strength": "3430",
+        "agility": "3430",
+        "intelligence": "3430",
+        "stamina": "3430"
+    },
+    {
+        "level": "103",
+        "hero_exp_need": "85600",
+        "hero_core_need": "0",
+        "strength": "3480",
+        "agility": "3480",
+        "intelligence": "3480",
+        "stamina": "3480"
+    },
+    {
+        "level": "104",
+        "hero_exp_need": "87600",
+        "hero_core_need": "0",
+        "strength": "3530",
+        "agility": "3530",
+        "intelligence": "3530",
+        "stamina": "3530"
+    },
+    {
+        "level": "105",
+        "hero_exp_need": "89600",
+        "hero_core_need": "0",
+        "strength": "3580",
+        "agility": "3580",
+        "intelligence": "3580",
+        "stamina": "3580"
+    },
+    {
+        "level": "106",
+        "hero_exp_need": "91600",
+        "hero_core_need": "0",
+        "strength": "3630",
+        "agility": "3630",
+        "intelligence": "3630",
+        "stamina": "3630"
+    },
+    {
+        "level": "107",
+        "hero_exp_need": "93600",
+        "hero_core_need": "0",
+        "strength": "3680",
+        "agility": "3680",
+        "intelligence": "3680",
+        "stamina": "3680"
+    },
+    {
+        "level": "108",
+        "hero_exp_need": "95600",
+        "hero_core_need": "0",
+        "strength": "3730",
+        "agility": "3730",
+        "intelligence": "3730",
+        "stamina": "3730"
+    },
+    {
+        "level": "109",
+        "hero_exp_need": "97600",
+        "hero_core_need": "0",
+        "strength": "3780",
+        "agility": "3780",
+        "intelligence": "3780",
+        "stamina": "3780"
+    },
+    {
+        "level": "110",
+        "hero_exp_need": "99600",
+        "hero_core_need": "0",
+        "strength": "3830",
+        "agility": "3830",
+        "intelligence": "3830",
+        "stamina": "3830"
+    },
+    {
+        "level": "111",
+        "hero_exp_need": "101600",
+        "hero_core_need": "0",
+        "strength": "3880",
+        "agility": "3880",
+        "intelligence": "3880",
+        "stamina": "3880"
+    },
+    {
+        "level": "112",
+        "hero_exp_need": "103600",
+        "hero_core_need": "0",
+        "strength": "3930",
+        "agility": "3930",
+        "intelligence": "3930",
+        "stamina": "3930"
+    },
+    {
+        "level": "113",
+        "hero_exp_need": "105600",
+        "hero_core_need": "0",
+        "strength": "3980",
+        "agility": "3980",
+        "intelligence": "3980",
+        "stamina": "3980"
+    },
+    {
+        "level": "114",
+        "hero_exp_need": "107600",
+        "hero_core_need": "0",
+        "strength": "4030",
+        "agility": "4030",
+        "intelligence": "4030",
+        "stamina": "4030"
+    },
+    {
+        "level": "115",
+        "hero_exp_need": "109600",
+        "hero_core_need": "0",
+        "strength": "4080",
+        "agility": "4080",
+        "intelligence": "4080",
+        "stamina": "4080"
+    },
+    {
+        "level": "116",
+        "hero_exp_need": "111600",
+        "hero_core_need": "0",
+        "strength": "4130",
+        "agility": "4130",
+        "intelligence": "4130",
+        "stamina": "4130"
+    },
+    {
+        "level": "117",
+        "hero_exp_need": "113600",
+        "hero_core_need": "0",
+        "strength": "4180",
+        "agility": "4180",
+        "intelligence": "4180",
+        "stamina": "4180"
+    },
+    {
+        "level": "118",
+        "hero_exp_need": "115600",
+        "hero_core_need": "0",
+        "strength": "4230",
+        "agility": "4230",
+        "intelligence": "4230",
+        "stamina": "4230"
+    },
+    {
+        "level": "119",
+        "hero_exp_need": "117600",
+        "hero_core_need": "0",
+        "strength": "4280",
+        "agility": "4280",
+        "intelligence": "4280",
+        "stamina": "4280"
+    },
+    {
+        "level": "120",
+        "hero_exp_need": "119600",
+        "hero_core_need": "4000",
+        "strength": "4780",
+        "agility": "4780",
+        "intelligence": "4780",
+        "stamina": "4780"
+    },
+    {
+        "level": "121",
+        "hero_exp_need": "121600",
+        "hero_core_need": "0",
+        "strength": "4840",
+        "agility": "4840",
+        "intelligence": "4840",
+        "stamina": "4840"
+    },
+    {
+        "level": "122",
+        "hero_exp_need": "123600",
+        "hero_core_need": "0",
+        "strength": "4900",
+        "agility": "4900",
+        "intelligence": "4900",
+        "stamina": "4900"
+    },
+    {
+        "level": "123",
+        "hero_exp_need": "125600",
+        "hero_core_need": "0",
+        "strength": "4960",
+        "agility": "4960",
+        "intelligence": "4960",
+        "stamina": "4960"
+    },
+    {
+        "level": "124",
+        "hero_exp_need": "127600",
+        "hero_core_need": "0",
+        "strength": "5020",
+        "agility": "5020",
+        "intelligence": "5020",
+        "stamina": "5020"
+    },
+    {
+        "level": "125",
+        "hero_exp_need": "129600",
+        "hero_core_need": "0",
+        "strength": "5080",
+        "agility": "5080",
+        "intelligence": "5080",
+        "stamina": "5080"
+    },
+    {
+        "level": "126",
+        "hero_exp_need": "131600",
+        "hero_core_need": "0",
+        "strength": "5140",
+        "agility": "5140",
+        "intelligence": "5140",
+        "stamina": "5140"
+    },
+    {
+        "level": "127",
+        "hero_exp_need": "133600",
+        "hero_core_need": "0",
+        "strength": "5200",
+        "agility": "5200",
+        "intelligence": "5200",
+        "stamina": "5200"
+    },
+    {
+        "level": "128",
+        "hero_exp_need": "135600",
+        "hero_core_need": "0",
+        "strength": "5260",
+        "agility": "5260",
+        "intelligence": "5260",
+        "stamina": "5260"
+    },
+    {
+        "level": "129",
+        "hero_exp_need": "137600",
+        "hero_core_need": "0",
+        "strength": "5320",
+        "agility": "5320",
+        "intelligence": "5320",
+        "stamina": "5320"
+    },
+    {
+        "level": "130",
+        "hero_exp_need": "139600",
+        "hero_core_need": "0",
+        "strength": "5380",
+        "agility": "5380",
+        "intelligence": "5380",
+        "stamina": "5380"
+    },
+    {
+        "level": "131",
+        "hero_exp_need": "141600",
+        "hero_core_need": "0",
+        "strength": "5440",
+        "agility": "5440",
+        "intelligence": "5440",
+        "stamina": "5440"
+    },
+    {
+        "level": "132",
+        "hero_exp_need": "143600",
+        "hero_core_need": "0",
+        "strength": "5500",
+        "agility": "5500",
+        "intelligence": "5500",
+        "stamina": "5500"
+    },
+    {
+        "level": "133",
+        "hero_exp_need": "145600",
+        "hero_core_need": "0",
+        "strength": "5560",
+        "agility": "5560",
+        "intelligence": "5560",
+        "stamina": "5560"
+    },
+    {
+        "level": "134",
+        "hero_exp_need": "147600",
+        "hero_core_need": "0",
+        "strength": "5620",
+        "agility": "5620",
+        "intelligence": "5620",
+        "stamina": "5620"
+    },
+    {
+        "level": "135",
+        "hero_exp_need": "149600",
+        "hero_core_need": "0",
+        "strength": "5680",
+        "agility": "5680",
+        "intelligence": "5680",
+        "stamina": "5680"
+    },
+    {
+        "level": "136",
+        "hero_exp_need": "151600",
+        "hero_core_need": "0",
+        "strength": "5740",
+        "agility": "5740",
+        "intelligence": "5740",
+        "stamina": "5740"
+    },
+    {
+        "level": "137",
+        "hero_exp_need": "153600",
+        "hero_core_need": "0",
+        "strength": "5800",
+        "agility": "5800",
+        "intelligence": "5800",
+        "stamina": "5800"
+    },
+    {
+        "level": "138",
+        "hero_exp_need": "155600",
+        "hero_core_need": "0",
+        "strength": "5860",
+        "agility": "5860",
+        "intelligence": "5860",
+        "stamina": "5860"
+    },
+    {
+        "level": "139",
+        "hero_exp_need": "157600",
+        "hero_core_need": "0",
+        "strength": "5920",
+        "agility": "5920",
+        "intelligence": "5920",
+        "stamina": "5920"
+    },
+    {
+        "level": "140",
+        "hero_exp_need": "159600",
+        "hero_core_need": "8000",
+        "strength": "6520",
+        "agility": "6520",
+        "intelligence": "6520",
+        "stamina": "6520"
+    },
+    {
+        "level": "141",
+        "hero_exp_need": "161600",
+        "hero_core_need": "0",
+        "strength": "6590",
+        "agility": "6590",
+        "intelligence": "6590",
+        "stamina": "6590"
+    },
+    {
+        "level": "142",
+        "hero_exp_need": "163600",
+        "hero_core_need": "0",
+        "strength": "6660",
+        "agility": "6660",
+        "intelligence": "6660",
+        "stamina": "6660"
+    },
+    {
+        "level": "143",
+        "hero_exp_need": "165600",
+        "hero_core_need": "0",
+        "strength": "6730",
+        "agility": "6730",
+        "intelligence": "6730",
+        "stamina": "6730"
+    },
+    {
+        "level": "144",
+        "hero_exp_need": "167600",
+        "hero_core_need": "0",
+        "strength": "6800",
+        "agility": "6800",
+        "intelligence": "6800",
+        "stamina": "6800"
+    },
+    {
+        "level": "145",
+        "hero_exp_need": "169600",
+        "hero_core_need": "0",
+        "strength": "6870",
+        "agility": "6870",
+        "intelligence": "6870",
+        "stamina": "6870"
+    },
+    {
+        "level": "146",
+        "hero_exp_need": "171600",
+        "hero_core_need": "0",
+        "strength": "6940",
+        "agility": "6940",
+        "intelligence": "6940",
+        "stamina": "6940"
+    },
+    {
+        "level": "147",
+        "hero_exp_need": "173600",
+        "hero_core_need": "0",
+        "strength": "7010",
+        "agility": "7010",
+        "intelligence": "7010",
+        "stamina": "7010"
+    },
+    {
+        "level": "148",
+        "hero_exp_need": "175600",
+        "hero_core_need": "0",
+        "strength": "7080",
+        "agility": "7080",
+        "intelligence": "7080",
+        "stamina": "7080"
+    },
+    {
+        "level": "149",
+        "hero_exp_need": "177600",
+        "hero_core_need": "0",
+        "strength": "7150",
+        "agility": "7150",
+        "intelligence": "7150",
+        "stamina": "7150"
+    },
+    {
+        "level": "150",
+        "hero_exp_need": "179600",
+        "hero_core_need": "0",
+        "strength": "7220",
+        "agility": "7220",
+        "intelligence": "7220",
+        "stamina": "7220"
+    },
+    {
+        "level": "151",
+        "hero_exp_need": "181600",
+        "hero_core_need": "0",
+        "strength": "7290",
+        "agility": "7290",
+        "intelligence": "7290",
+        "stamina": "7290"
+    },
+    {
+        "level": "152",
+        "hero_exp_need": "183600",
+        "hero_core_need": "0",
+        "strength": "7360",
+        "agility": "7360",
+        "intelligence": "7360",
+        "stamina": "7360"
+    },
+    {
+        "level": "153",
+        "hero_exp_need": "185600",
+        "hero_core_need": "0",
+        "strength": "7430",
+        "agility": "7430",
+        "intelligence": "7430",
+        "stamina": "7430"
+    },
+    {
+        "level": "154",
+        "hero_exp_need": "187600",
+        "hero_core_need": "0",
+        "strength": "7500",
+        "agility": "7500",
+        "intelligence": "7500",
+        "stamina": "7500"
+    },
+    {
+        "level": "155",
+        "hero_exp_need": "189600",
+        "hero_core_need": "0",
+        "strength": "7570",
+        "agility": "7570",
+        "intelligence": "7570",
+        "stamina": "7570"
+    },
+    {
+        "level": "156",
+        "hero_exp_need": "191600",
+        "hero_core_need": "0",
+        "strength": "7640",
+        "agility": "7640",
+        "intelligence": "7640",
+        "stamina": "7640"
+    },
+    {
+        "level": "157",
+        "hero_exp_need": "193600",
+        "hero_core_need": "0",
+        "strength": "7710",
+        "agility": "7710",
+        "intelligence": "7710",
+        "stamina": "7710"
+    },
+    {
+        "level": "158",
+        "hero_exp_need": "195600",
+        "hero_core_need": "0",
+        "strength": "7780",
+        "agility": "7780",
+        "intelligence": "7780",
+        "stamina": "7780"
+    },
+    {
+        "level": "159",
+        "hero_exp_need": "197600",
+        "hero_core_need": "0",
+        "strength": "7850",
+        "agility": "7850",
+        "intelligence": "7850",
+        "stamina": "7850"
+    },
+    {
+        "level": "160",
+        "hero_exp_need": "199600",
+        "hero_core_need": "16000",
+        "strength": "8550",
+        "agility": "8550",
+        "intelligence": "8550",
+        "stamina": "8550"
+    },
+    {
+        "level": "161",
+        "hero_exp_need": "201600",
+        "hero_core_need": "0",
+        "strength": "8630",
+        "agility": "8630",
+        "intelligence": "8630",
+        "stamina": "8630"
+    },
+    {
+        "level": "162",
+        "hero_exp_need": "203600",
+        "hero_core_need": "0",
+        "strength": "8710",
+        "agility": "8710",
+        "intelligence": "8710",
+        "stamina": "8710"
+    },
+    {
+        "level": "163",
+        "hero_exp_need": "205600",
+        "hero_core_need": "0",
+        "strength": "8790",
+        "agility": "8790",
+        "intelligence": "8790",
+        "stamina": "8790"
+    },
+    {
+        "level": "164",
+        "hero_exp_need": "207600",
+        "hero_core_need": "0",
+        "strength": "8870",
+        "agility": "8870",
+        "intelligence": "8870",
+        "stamina": "8870"
+    },
+    {
+        "level": "165",
+        "hero_exp_need": "209600",
+        "hero_core_need": "0",
+        "strength": "8950",
+        "agility": "8950",
+        "intelligence": "8950",
+        "stamina": "8950"
+    },
+    {
+        "level": "166",
+        "hero_exp_need": "211600",
+        "hero_core_need": "0",
+        "strength": "9030",
+        "agility": "9030",
+        "intelligence": "9030",
+        "stamina": "9030"
+    },
+    {
+        "level": "167",
+        "hero_exp_need": "213600",
+        "hero_core_need": "0",
+        "strength": "9110",
+        "agility": "9110",
+        "intelligence": "9110",
+        "stamina": "9110"
+    },
+    {
+        "level": "168",
+        "hero_exp_need": "215600",
+        "hero_core_need": "0",
+        "strength": "9190",
+        "agility": "9190",
+        "intelligence": "9190",
+        "stamina": "9190"
+    },
+    {
+        "level": "169",
+        "hero_exp_need": "217600",
+        "hero_core_need": "0",
+        "strength": "9270",
+        "agility": "9270",
+        "intelligence": "9270",
+        "stamina": "9270"
+    },
+    {
+        "level": "170",
+        "hero_exp_need": "219600",
+        "hero_core_need": "0",
+        "strength": "9350",
+        "agility": "9350",
+        "intelligence": "9350",
+        "stamina": "9350"
+    },
+    {
+        "level": "171",
+        "hero_exp_need": "235600",
+        "hero_core_need": "0",
+        "strength": "9430",
+        "agility": "9430",
+        "intelligence": "9430",
+        "stamina": "9430"
+    },
+    {
+        "level": "172",
+        "hero_exp_need": "251600",
+        "hero_core_need": "0",
+        "strength": "9510",
+        "agility": "9510",
+        "intelligence": "9510",
+        "stamina": "9510"
+    },
+    {
+        "level": "173",
+        "hero_exp_need": "267600",
+        "hero_core_need": "0",
+        "strength": "9590",
+        "agility": "9590",
+        "intelligence": "9590",
+        "stamina": "9590"
+    },
+    {
+        "level": "174",
+        "hero_exp_need": "283600",
+        "hero_core_need": "0",
+        "strength": "9670",
+        "agility": "9670",
+        "intelligence": "9670",
+        "stamina": "9670"
+    },
+    {
+        "level": "175",
+        "hero_exp_need": "299600",
+        "hero_core_need": "0",
+        "strength": "9750",
+        "agility": "9750",
+        "intelligence": "9750",
+        "stamina": "9750"
+    },
+    {
+        "level": "176",
+        "hero_exp_need": "315600",
+        "hero_core_need": "0",
+        "strength": "9830",
+        "agility": "9830",
+        "intelligence": "9830",
+        "stamina": "9830"
+    },
+    {
+        "level": "177",
+        "hero_exp_need": "331600",
+        "hero_core_need": "0",
+        "strength": "9910",
+        "agility": "9910",
+        "intelligence": "9910",
+        "stamina": "9910"
+    },
+    {
+        "level": "178",
+        "hero_exp_need": "347600",
+        "hero_core_need": "0",
+        "strength": "9990",
+        "agility": "9990",
+        "intelligence": "9990",
+        "stamina": "9990"
+    },
+    {
+        "level": "179",
+        "hero_exp_need": "363600",
+        "hero_core_need": "0",
+        "strength": "10070",
+        "agility": "10070",
+        "intelligence": "10070",
+        "stamina": "10070"
+    },
+    {
+        "level": "180",
+        "hero_exp_need": "379600",
+        "hero_core_need": "30000",
+        "strength": "10870",
+        "agility": "10870",
+        "intelligence": "10870",
+        "stamina": "10870"
+    },
+    {
+        "level": "181",
+        "hero_exp_need": "395600",
+        "hero_core_need": "0",
+        "strength": "10960",
+        "agility": "10960",
+        "intelligence": "10960",
+        "stamina": "10960"
+    },
+    {
+        "level": "182",
+        "hero_exp_need": "411600",
+        "hero_core_need": "0",
+        "strength": "11050",
+        "agility": "11050",
+        "intelligence": "11050",
+        "stamina": "11050"
+    },
+    {
+        "level": "183",
+        "hero_exp_need": "427600",
+        "hero_core_need": "0",
+        "strength": "11140",
+        "agility": "11140",
+        "intelligence": "11140",
+        "stamina": "11140"
+    },
+    {
+        "level": "184",
+        "hero_exp_need": "443600",
+        "hero_core_need": "0",
+        "strength": "11230",
+        "agility": "11230",
+        "intelligence": "11230",
+        "stamina": "11230"
+    },
+    {
+        "level": "185",
+        "hero_exp_need": "459600",
+        "hero_core_need": "0",
+        "strength": "11320",
+        "agility": "11320",
+        "intelligence": "11320",
+        "stamina": "11320"
+    },
+    {
+        "level": "186",
+        "hero_exp_need": "475600",
+        "hero_core_need": "0",
+        "strength": "11410",
+        "agility": "11410",
+        "intelligence": "11410",
+        "stamina": "11410"
+    },
+    {
+        "level": "187",
+        "hero_exp_need": "491600",
+        "hero_core_need": "0",
+        "strength": "11500",
+        "agility": "11500",
+        "intelligence": "11500",
+        "stamina": "11500"
+    },
+    {
+        "level": "188",
+        "hero_exp_need": "507600",
+        "hero_core_need": "0",
+        "strength": "11590",
+        "agility": "11590",
+        "intelligence": "11590",
+        "stamina": "11590"
+    },
+    {
+        "level": "189",
+        "hero_exp_need": "523600",
+        "hero_core_need": "0",
+        "strength": "11680",
+        "agility": "11680",
+        "intelligence": "11680",
+        "stamina": "11680"
+    },
+    {
+        "level": "190",
+        "hero_exp_need": "539600",
+        "hero_core_need": "0",
+        "strength": "11770",
+        "agility": "11770",
+        "intelligence": "11770",
+        "stamina": "11770"
+    },
+    {
+        "level": "191",
+        "hero_exp_need": "555600",
+        "hero_core_need": "0",
+        "strength": "11860",
+        "agility": "11860",
+        "intelligence": "11860",
+        "stamina": "11860"
+    },
+    {
+        "level": "192",
+        "hero_exp_need": "571600",
+        "hero_core_need": "0",
+        "strength": "11950",
+        "agility": "11950",
+        "intelligence": "11950",
+        "stamina": "11950"
+    },
+    {
+        "level": "193",
+        "hero_exp_need": "587600",
+        "hero_core_need": "0",
+        "strength": "12040",
+        "agility": "12040",
+        "intelligence": "12040",
+        "stamina": "12040"
+    },
+    {
+        "level": "194",
+        "hero_exp_need": "603600",
+        "hero_core_need": "0",
+        "strength": "12130",
+        "agility": "12130",
+        "intelligence": "12130",
+        "stamina": "12130"
+    },
+    {
+        "level": "195",
+        "hero_exp_need": "619600",
+        "hero_core_need": "0",
+        "strength": "12220",
+        "agility": "12220",
+        "intelligence": "12220",
+        "stamina": "12220"
+    },
+    {
+        "level": "196",
+        "hero_exp_need": "635600",
+        "hero_core_need": "0",
+        "strength": "12310",
+        "agility": "12310",
+        "intelligence": "12310",
+        "stamina": "12310"
+    },
+    {
+        "level": "197",
+        "hero_exp_need": "651600",
+        "hero_core_need": "0",
+        "strength": "12400",
+        "agility": "12400",
+        "intelligence": "12400",
+        "stamina": "12400"
+    },
+    {
+        "level": "198",
+        "hero_exp_need": "667600",
+        "hero_core_need": "0",
+        "strength": "12490",
+        "agility": "12490",
+        "intelligence": "12490",
+        "stamina": "12490"
+    },
+    {
+        "level": "199",
+        "hero_exp_need": "683600",
+        "hero_core_need": "0",
+        "strength": "12580",
+        "agility": "12580",
+        "intelligence": "12580",
+        "stamina": "12580"
+    },
+    {
+        "level": "200",
+        "hero_exp_need": "699600",
+        "hero_core_need": "35000",
+        "strength": "13480",
+        "agility": "13480",
+        "intelligence": "13480",
+        "stamina": "13480"
+    },
+    {
+        "level": "201",
+        "hero_exp_need": "715600",
+        "hero_core_need": "0",
+        "strength": "13580",
+        "agility": "13580",
+        "intelligence": "13580",
+        "stamina": "13580"
+    },
+    {
+        "level": "202",
+        "hero_exp_need": "731600",
+        "hero_core_need": "0",
+        "strength": "13680",
+        "agility": "13680",
+        "intelligence": "13680",
+        "stamina": "13680"
+    },
+    {
+        "level": "203",
+        "hero_exp_need": "747600",
+        "hero_core_need": "0",
+        "strength": "13780",
+        "agility": "13780",
+        "intelligence": "13780",
+        "stamina": "13780"
+    },
+    {
+        "level": "204",
+        "hero_exp_need": "763600",
+        "hero_core_need": "0",
+        "strength": "13880",
+        "agility": "13880",
+        "intelligence": "13880",
+        "stamina": "13880"
+    },
+    {
+        "level": "205",
+        "hero_exp_need": "779600",
+        "hero_core_need": "0",
+        "strength": "13980",
+        "agility": "13980",
+        "intelligence": "13980",
+        "stamina": "13980"
+    },
+    {
+        "level": "206",
+        "hero_exp_need": "795600",
+        "hero_core_need": "0",
+        "strength": "14080",
+        "agility": "14080",
+        "intelligence": "14080",
+        "stamina": "14080"
+    },
+    {
+        "level": "207",
+        "hero_exp_need": "811600",
+        "hero_core_need": "0",
+        "strength": "14180",
+        "agility": "14180",
+        "intelligence": "14180",
+        "stamina": "14180"
+    },
+    {
+        "level": "208",
+        "hero_exp_need": "827600",
+        "hero_core_need": "0",
+        "strength": "14280",
+        "agility": "14280",
+        "intelligence": "14280",
+        "stamina": "14280"
+    },
+    {
+        "level": "209",
+        "hero_exp_need": "843600",
+        "hero_core_need": "0",
+        "strength": "14380",
+        "agility": "14380",
+        "intelligence": "14380",
+        "stamina": "14380"
+    },
+    {
+        "level": "210",
+        "hero_exp_need": "859600",
+        "hero_core_need": "0",
+        "strength": "14480",
+        "agility": "14480",
+        "intelligence": "14480",
+        "stamina": "14480"
+    },
+    {
+        "level": "211",
+        "hero_exp_need": "875600",
+        "hero_core_need": "0",
+        "strength": "14580",
+        "agility": "14580",
+        "intelligence": "14580",
+        "stamina": "14580"
+    },
+    {
+        "level": "212",
+        "hero_exp_need": "891600",
+        "hero_core_need": "0",
+        "strength": "14680",
+        "agility": "14680",
+        "intelligence": "14680",
+        "stamina": "14680"
+    },
+    {
+        "level": "213",
+        "hero_exp_need": "907600",
+        "hero_core_need": "0",
+        "strength": "14780",
+        "agility": "14780",
+        "intelligence": "14780",
+        "stamina": "14780"
+    },
+    {
+        "level": "214",
+        "hero_exp_need": "923600",
+        "hero_core_need": "0",
+        "strength": "14880",
+        "agility": "14880",
+        "intelligence": "14880",
+        "stamina": "14880"
+    },
+    {
+        "level": "215",
+        "hero_exp_need": "939600",
+        "hero_core_need": "0",
+        "strength": "14980",
+        "agility": "14980",
+        "intelligence": "14980",
+        "stamina": "14980"
+    },
+    {
+        "level": "216",
+        "hero_exp_need": "955600",
+        "hero_core_need": "0",
+        "strength": "15080",
+        "agility": "15080",
+        "intelligence": "15080",
+        "stamina": "15080"
+    },
+    {
+        "level": "217",
+        "hero_exp_need": "971600",
+        "hero_core_need": "0",
+        "strength": "15180",
+        "agility": "15180",
+        "intelligence": "15180",
+        "stamina": "15180"
+    },
+    {
+        "level": "218",
+        "hero_exp_need": "987600",
+        "hero_core_need": "0",
+        "strength": "15280",
+        "agility": "15280",
+        "intelligence": "15280",
+        "stamina": "15280"
+    },
+    {
+        "level": "219",
+        "hero_exp_need": "1003600",
+        "hero_core_need": "0",
+        "strength": "15380",
+        "agility": "15380",
+        "intelligence": "15380",
+        "stamina": "15380"
+    },
+    {
+        "level": "220",
+        "hero_exp_need": "1019600",
+        "hero_core_need": "40000",
+        "strength": "16380",
+        "agility": "16380",
+        "intelligence": "16380",
+        "stamina": "16380"
+    },
+    {
+        "level": "221",
+        "hero_exp_need": "1035600",
+        "hero_core_need": "0",
+        "strength": "16490",
+        "agility": "16490",
+        "intelligence": "16490",
+        "stamina": "16490"
+    },
+    {
+        "level": "222",
+        "hero_exp_need": "1051600",
+        "hero_core_need": "0",
+        "strength": "16600",
+        "agility": "16600",
+        "intelligence": "16600",
+        "stamina": "16600"
+    },
+    {
+        "level": "223",
+        "hero_exp_need": "1067600",
+        "hero_core_need": "0",
+        "strength": "16710",
+        "agility": "16710",
+        "intelligence": "16710",
+        "stamina": "16710"
+    },
+    {
+        "level": "224",
+        "hero_exp_need": "1083600",
+        "hero_core_need": "0",
+        "strength": "16820",
+        "agility": "16820",
+        "intelligence": "16820",
+        "stamina": "16820"
+    },
+    {
+        "level": "225",
+        "hero_exp_need": "1099600",
+        "hero_core_need": "0",
+        "strength": "16930",
+        "agility": "16930",
+        "intelligence": "16930",
+        "stamina": "16930"
+    },
+    {
+        "level": "226",
+        "hero_exp_need": "1115600",
+        "hero_core_need": "0",
+        "strength": "17040",
+        "agility": "17040",
+        "intelligence": "17040",
+        "stamina": "17040"
+    },
+    {
+        "level": "227",
+        "hero_exp_need": "1131600",
+        "hero_core_need": "0",
+        "strength": "17150",
+        "agility": "17150",
+        "intelligence": "17150",
+        "stamina": "17150"
+    },
+    {
+        "level": "228",
+        "hero_exp_need": "1147600",
+        "hero_core_need": "0",
+        "strength": "17260",
+        "agility": "17260",
+        "intelligence": "17260",
+        "stamina": "17260"
+    },
+    {
+        "level": "229",
+        "hero_exp_need": "1163600",
+        "hero_core_need": "0",
+        "strength": "17370",
+        "agility": "17370",
+        "intelligence": "17370",
+        "stamina": "17370"
+    },
+    {
+        "level": "230",
+        "hero_exp_need": "1179600",
+        "hero_core_need": "0",
+        "strength": "17480",
+        "agility": "17480",
+        "intelligence": "17480",
+        "stamina": "17480"
+    },
+    {
+        "level": "231",
+        "hero_exp_need": "1195600",
+        "hero_core_need": "0",
+        "strength": "17590",
+        "agility": "17590",
+        "intelligence": "17590",
+        "stamina": "17590"
+    },
+    {
+        "level": "232",
+        "hero_exp_need": "1211600",
+        "hero_core_need": "0",
+        "strength": "17700",
+        "agility": "17700",
+        "intelligence": "17700",
+        "stamina": "17700"
+    },
+    {
+        "level": "233",
+        "hero_exp_need": "1227600",
+        "hero_core_need": "0",
+        "strength": "17810",
+        "agility": "17810",
+        "intelligence": "17810",
+        "stamina": "17810"
+    },
+    {
+        "level": "234",
+        "hero_exp_need": "1243600",
+        "hero_core_need": "0",
+        "strength": "17920",
+        "agility": "17920",
+        "intelligence": "17920",
+        "stamina": "17920"
+    },
+    {
+        "level": "235",
+        "hero_exp_need": "1259600",
+        "hero_core_need": "0",
+        "strength": "18030",
+        "agility": "18030",
+        "intelligence": "18030",
+        "stamina": "18030"
+    },
+    {
+        "level": "236",
+        "hero_exp_need": "1275600",
+        "hero_core_need": "0",
+        "strength": "18140",
+        "agility": "18140",
+        "intelligence": "18140",
+        "stamina": "18140"
+    },
+    {
+        "level": "237",
+        "hero_exp_need": "1291600",
+        "hero_core_need": "0",
+        "strength": "18250",
+        "agility": "18250",
+        "intelligence": "18250",
+        "stamina": "18250"
+    },
+    {
+        "level": "238",
+        "hero_exp_need": "1307600",
+        "hero_core_need": "0",
+        "strength": "18360",
+        "agility": "18360",
+        "intelligence": "18360",
+        "stamina": "18360"
+    },
+    {
+        "level": "239",
+        "hero_exp_need": "1323600",
+        "hero_core_need": "0",
+        "strength": "18470",
+        "agility": "18470",
+        "intelligence": "18470",
+        "stamina": "18470"
+    },
+    {
+        "level": "240",
+        "hero_exp_need": "1339600",
+        "hero_core_need": "50000",
+        "strength": "19570",
+        "agility": "19570",
+        "intelligence": "19570",
+        "stamina": "19570"
+    },
+    {
+        "level": "241",
+        "hero_exp_need": "1355600",
+        "hero_core_need": "0",
+        "strength": "19690",
+        "agility": "19690",
+        "intelligence": "19690",
+        "stamina": "19690"
+    },
+    {
+        "level": "242",
+        "hero_exp_need": "1371600",
+        "hero_core_need": "0",
+        "strength": "19810",
+        "agility": "19810",
+        "intelligence": "19810",
+        "stamina": "19810"
+    },
+    {
+        "level": "243",
+        "hero_exp_need": "1387600",
+        "hero_core_need": "0",
+        "strength": "19930",
+        "agility": "19930",
+        "intelligence": "19930",
+        "stamina": "19930"
+    },
+    {
+        "level": "244",
+        "hero_exp_need": "1403600",
+        "hero_core_need": "0",
+        "strength": "20050",
+        "agility": "20050",
+        "intelligence": "20050",
+        "stamina": "20050"
+    },
+    {
+        "level": "245",
+        "hero_exp_need": "1419600",
+        "hero_core_need": "0",
+        "strength": "20170",
+        "agility": "20170",
+        "intelligence": "20170",
+        "stamina": "20170"
+    },
+    {
+        "level": "246",
+        "hero_exp_need": "1435600",
+        "hero_core_need": "0",
+        "strength": "20290",
+        "agility": "20290",
+        "intelligence": "20290",
+        "stamina": "20290"
+    },
+    {
+        "level": "247",
+        "hero_exp_need": "1451600",
+        "hero_core_need": "0",
+        "strength": "20410",
+        "agility": "20410",
+        "intelligence": "20410",
+        "stamina": "20410"
+    },
+    {
+        "level": "248",
+        "hero_exp_need": "1467600",
+        "hero_core_need": "0",
+        "strength": "20530",
+        "agility": "20530",
+        "intelligence": "20530",
+        "stamina": "20530"
+    },
+    {
+        "level": "249",
+        "hero_exp_need": "1483600",
+        "hero_core_need": "0",
+        "strength": "20650",
+        "agility": "20650",
+        "intelligence": "20650",
+        "stamina": "20650"
+    },
+    {
+        "level": "250",
+        "hero_exp_need": "1499600",
+        "hero_core_need": "0",
+        "strength": "20770",
+        "agility": "20770",
+        "intelligence": "20770",
+        "stamina": "20770"
+    },
+    {
+        "level": "251",
+        "hero_exp_need": "1515600",
+        "hero_core_need": "0",
+        "strength": "20890",
+        "agility": "20890",
+        "intelligence": "20890",
+        "stamina": "20890"
+    },
+    {
+        "level": "252",
+        "hero_exp_need": "1531600",
+        "hero_core_need": "0",
+        "strength": "21010",
+        "agility": "21010",
+        "intelligence": "21010",
+        "stamina": "21010"
+    },
+    {
+        "level": "253",
+        "hero_exp_need": "1547600",
+        "hero_core_need": "0",
+        "strength": "21130",
+        "agility": "21130",
+        "intelligence": "21130",
+        "stamina": "21130"
+    },
+    {
+        "level": "254",
+        "hero_exp_need": "1563600",
+        "hero_core_need": "0",
+        "strength": "21250",
+        "agility": "21250",
+        "intelligence": "21250",
+        "stamina": "21250"
+    },
+    {
+        "level": "255",
+        "hero_exp_need": "1579600",
+        "hero_core_need": "0",
+        "strength": "21370",
+        "agility": "21370",
+        "intelligence": "21370",
+        "stamina": "21370"
+    },
+    {
+        "level": "256",
+        "hero_exp_need": "1595600",
+        "hero_core_need": "0",
+        "strength": "21490",
+        "agility": "21490",
+        "intelligence": "21490",
+        "stamina": "21490"
+    },
+    {
+        "level": "257",
+        "hero_exp_need": "1611600",
+        "hero_core_need": "0",
+        "strength": "21610",
+        "agility": "21610",
+        "intelligence": "21610",
+        "stamina": "21610"
+    },
+    {
+        "level": "258",
+        "hero_exp_need": "1627600",
+        "hero_core_need": "0",
+        "strength": "21730",
+        "agility": "21730",
+        "intelligence": "21730",
+        "stamina": "21730"
+    },
+    {
+        "level": "259",
+        "hero_exp_need": "1643600",
+        "hero_core_need": "0",
+        "strength": "21850",
+        "agility": "21850",
+        "intelligence": "21850",
+        "stamina": "21850"
+    },
+    {
+        "level": "260",
+        "hero_exp_need": "1659600",
+        "hero_core_need": "60000",
+        "strength": "23050",
+        "agility": "23050",
+        "intelligence": "23050",
+        "stamina": "23050"
+    },
+    {
+        "level": "261",
+        "hero_exp_need": "1675600",
+        "hero_core_need": "0",
+        "strength": "23180",
+        "agility": "23180",
+        "intelligence": "23180",
+        "stamina": "23180"
+    },
+    {
+        "level": "262",
+        "hero_exp_need": "1691600",
+        "hero_core_need": "0",
+        "strength": "23310",
+        "agility": "23310",
+        "intelligence": "23310",
+        "stamina": "23310"
+    },
+    {
+        "level": "263",
+        "hero_exp_need": "1707600",
+        "hero_core_need": "0",
+        "strength": "23440",
+        "agility": "23440",
+        "intelligence": "23440",
+        "stamina": "23440"
+    },
+    {
+        "level": "264",
+        "hero_exp_need": "1723600",
+        "hero_core_need": "0",
+        "strength": "23570",
+        "agility": "23570",
+        "intelligence": "23570",
+        "stamina": "23570"
+    },
+    {
+        "level": "265",
+        "hero_exp_need": "1739600",
+        "hero_core_need": "0",
+        "strength": "23700",
+        "agility": "23700",
+        "intelligence": "23700",
+        "stamina": "23700"
+    },
+    {
+        "level": "266",
+        "hero_exp_need": "1755600",
+        "hero_core_need": "0",
+        "strength": "23830",
+        "agility": "23830",
+        "intelligence": "23830",
+        "stamina": "23830"
+    },
+    {
+        "level": "267",
+        "hero_exp_need": "1771600",
+        "hero_core_need": "0",
+        "strength": "23960",
+        "agility": "23960",
+        "intelligence": "23960",
+        "stamina": "23960"
+    },
+    {
+        "level": "268",
+        "hero_exp_need": "1787600",
+        "hero_core_need": "0",
+        "strength": "24090",
+        "agility": "24090",
+        "intelligence": "24090",
+        "stamina": "24090"
+    },
+    {
+        "level": "269",
+        "hero_exp_need": "1803600",
+        "hero_core_need": "0",
+        "strength": "24220",
+        "agility": "24220",
+        "intelligence": "24220",
+        "stamina": "24220"
+    },
+    {
+        "level": "270",
+        "hero_exp_need": "1819600",
+        "hero_core_need": "0",
+        "strength": "24350",
+        "agility": "24350",
+        "intelligence": "24350",
+        "stamina": "24350"
+    },
+    {
+        "level": "271",
+        "hero_exp_need": "1835600",
+        "hero_core_need": "0",
+        "strength": "24480",
+        "agility": "24480",
+        "intelligence": "24480",
+        "stamina": "24480"
+    },
+    {
+        "level": "272",
+        "hero_exp_need": "1851600",
+        "hero_core_need": "0",
+        "strength": "24610",
+        "agility": "24610",
+        "intelligence": "24610",
+        "stamina": "24610"
+    },
+    {
+        "level": "273",
+        "hero_exp_need": "1867600",
+        "hero_core_need": "0",
+        "strength": "24740",
+        "agility": "24740",
+        "intelligence": "24740",
+        "stamina": "24740"
+    },
+    {
+        "level": "274",
+        "hero_exp_need": "1883600",
+        "hero_core_need": "0",
+        "strength": "24870",
+        "agility": "24870",
+        "intelligence": "24870",
+        "stamina": "24870"
+    },
+    {
+        "level": "275",
+        "hero_exp_need": "1899600",
+        "hero_core_need": "0",
+        "strength": "25000",
+        "agility": "25000",
+        "intelligence": "25000",
+        "stamina": "25000"
+    },
+    {
+        "level": "276",
+        "hero_exp_need": "1915600",
+        "hero_core_need": "0",
+        "strength": "25130",
+        "agility": "25130",
+        "intelligence": "25130",
+        "stamina": "25130"
+    },
+    {
+        "level": "277",
+        "hero_exp_need": "1931600",
+        "hero_core_need": "0",
+        "strength": "25260",
+        "agility": "25260",
+        "intelligence": "25260",
+        "stamina": "25260"
+    },
+    {
+        "level": "278",
+        "hero_exp_need": "1947600",
+        "hero_core_need": "0",
+        "strength": "25390",
+        "agility": "25390",
+        "intelligence": "25390",
+        "stamina": "25390"
+    },
+    {
+        "level": "279",
+        "hero_exp_need": "1963600",
+        "hero_core_need": "0",
+        "strength": "25520",
+        "agility": "25520",
+        "intelligence": "25520",
+        "stamina": "25520"
+    },
+    {
+        "level": "280",
+        "hero_exp_need": "1979600",
+        "hero_core_need": "70000",
+        "strength": "26820",
+        "agility": "26820",
+        "intelligence": "26820",
+        "stamina": "26820"
+    },
+    {
+        "level": "281",
+        "hero_exp_need": "1995600",
+        "hero_core_need": "0",
+        "strength": "26960",
+        "agility": "26960",
+        "intelligence": "26960",
+        "stamina": "26960"
+    },
+    {
+        "level": "282",
+        "hero_exp_need": "2011600",
+        "hero_core_need": "0",
+        "strength": "27100",
+        "agility": "27100",
+        "intelligence": "27100",
+        "stamina": "27100"
+    },
+    {
+        "level": "283",
+        "hero_exp_need": "2027600",
+        "hero_core_need": "0",
+        "strength": "27240",
+        "agility": "27240",
+        "intelligence": "27240",
+        "stamina": "27240"
+    },
+    {
+        "level": "284",
+        "hero_exp_need": "2043600",
+        "hero_core_need": "0",
+        "strength": "27380",
+        "agility": "27380",
+        "intelligence": "27380",
+        "stamina": "27380"
+    },
+    {
+        "level": "285",
+        "hero_exp_need": "2059600",
+        "hero_core_need": "0",
+        "strength": "27520",
+        "agility": "27520",
+        "intelligence": "27520",
+        "stamina": "27520"
+    },
+    {
+        "level": "286",
+        "hero_exp_need": "2075600",
+        "hero_core_need": "0",
+        "strength": "27660",
+        "agility": "27660",
+        "intelligence": "27660",
+        "stamina": "27660"
+    },
+    {
+        "level": "287",
+        "hero_exp_need": "2091600",
+        "hero_core_need": "0",
+        "strength": "27800",
+        "agility": "27800",
+        "intelligence": "27800",
+        "stamina": "27800"
+    },
+    {
+        "level": "288",
+        "hero_exp_need": "2107600",
+        "hero_core_need": "0",
+        "strength": "27940",
+        "agility": "27940",
+        "intelligence": "27940",
+        "stamina": "27940"
+    },
+    {
+        "level": "289",
+        "hero_exp_need": "2123600",
+        "hero_core_need": "0",
+        "strength": "28080",
+        "agility": "28080",
+        "intelligence": "28080",
+        "stamina": "28080"
+    },
+    {
+        "level": "290",
+        "hero_exp_need": "2139600",
+        "hero_core_need": "0",
+        "strength": "28220",
+        "agility": "28220",
+        "intelligence": "28220",
+        "stamina": "28220"
+    },
+    {
+        "level": "291",
+        "hero_exp_need": "2155600",
+        "hero_core_need": "0",
+        "strength": "28360",
+        "agility": "28360",
+        "intelligence": "28360",
+        "stamina": "28360"
+    },
+    {
+        "level": "292",
+        "hero_exp_need": "2171600",
+        "hero_core_need": "0",
+        "strength": "28500",
+        "agility": "28500",
+        "intelligence": "28500",
+        "stamina": "28500"
+    },
+    {
+        "level": "293",
+        "hero_exp_need": "2187600",
+        "hero_core_need": "0",
+        "strength": "28640",
+        "agility": "28640",
+        "intelligence": "28640",
+        "stamina": "28640"
+    },
+    {
+        "level": "294",
+        "hero_exp_need": "2203600",
+        "hero_core_need": "0",
+        "strength": "28780",
+        "agility": "28780",
+        "intelligence": "28780",
+        "stamina": "28780"
+    },
+    {
+        "level": "295",
+        "hero_exp_need": "2219600",
+        "hero_core_need": "0",
+        "strength": "28920",
+        "agility": "28920",
+        "intelligence": "28920",
+        "stamina": "28920"
+    },
+    {
+        "level": "296",
+        "hero_exp_need": "2235600",
+        "hero_core_need": "0",
+        "strength": "29060",
+        "agility": "29060",
+        "intelligence": "29060",
+        "stamina": "29060"
+    },
+    {
+        "level": "297",
+        "hero_exp_need": "2251600",
+        "hero_core_need": "0",
+        "strength": "29200",
+        "agility": "29200",
+        "intelligence": "29200",
+        "stamina": "29200"
+    },
+    {
+        "level": "298",
+        "hero_exp_need": "2267600",
+        "hero_core_need": "0",
+        "strength": "29340",
+        "agility": "29340",
+        "intelligence": "29340",
+        "stamina": "29340"
+    },
+    {
+        "level": "299",
+        "hero_exp_need": "2283600",
+        "hero_core_need": "0",
+        "strength": "29480",
+        "agility": "29480",
+        "intelligence": "29480",
+        "stamina": "29480"
+    },
+    {
+        "level": "300",
+        "hero_exp_need": "2299600",
+        "hero_core_need": "80000",
+        "strength": "30880",
+        "agility": "30880",
+        "intelligence": "30880",
+        "stamina": "30880"
+    },
+    {
+        "level": "301",
+        "hero_exp_need": "2315600",
+        "hero_core_need": "0",
+        "strength": "31030",
+        "agility": "31030",
+        "intelligence": "31030",
+        "stamina": "31030"
+    },
+    {
+        "level": "302",
+        "hero_exp_need": "2331600",
+        "hero_core_need": "0",
+        "strength": "31180",
+        "agility": "31180",
+        "intelligence": "31180",
+        "stamina": "31180"
+    },
+    {
+        "level": "303",
+        "hero_exp_need": "2347600",
+        "hero_core_need": "0",
+        "strength": "31330",
+        "agility": "31330",
+        "intelligence": "31330",
+        "stamina": "31330"
+    },
+    {
+        "level": "304",
+        "hero_exp_need": "2363600",
+        "hero_core_need": "0",
+        "strength": "31480",
+        "agility": "31480",
+        "intelligence": "31480",
+        "stamina": "31480"
+    },
+    {
+        "level": "305",
+        "hero_exp_need": "2379600",
+        "hero_core_need": "0",
+        "strength": "31630",
+        "agility": "31630",
+        "intelligence": "31630",
+        "stamina": "31630"
+    },
+    {
+        "level": "306",
+        "hero_exp_need": "2395600",
+        "hero_core_need": "0",
+        "strength": "31780",
+        "agility": "31780",
+        "intelligence": "31780",
+        "stamina": "31780"
+    },
+    {
+        "level": "307",
+        "hero_exp_need": "2411600",
+        "hero_core_need": "0",
+        "strength": "31930",
+        "agility": "31930",
+        "intelligence": "31930",
+        "stamina": "31930"
+    },
+    {
+        "level": "308",
+        "hero_exp_need": "2427600",
+        "hero_core_need": "0",
+        "strength": "32080",
+        "agility": "32080",
+        "intelligence": "32080",
+        "stamina": "32080"
+    },
+    {
+        "level": "309",
+        "hero_exp_need": "2443600",
+        "hero_core_need": "0",
+        "strength": "32230",
+        "agility": "32230",
+        "intelligence": "32230",
+        "stamina": "32230"
+    },
+    {
+        "level": "310",
+        "hero_exp_need": "2459600",
+        "hero_core_need": "0",
+        "strength": "32380",
+        "agility": "32380",
+        "intelligence": "32380",
+        "stamina": "32380"
+    },
+    {
+        "level": "311",
+        "hero_exp_need": "2475600",
+        "hero_core_need": "0",
+        "strength": "32530",
+        "agility": "32530",
+        "intelligence": "32530",
+        "stamina": "32530"
+    },
+    {
+        "level": "312",
+        "hero_exp_need": "2491600",
+        "hero_core_need": "0",
+        "strength": "32680",
+        "agility": "32680",
+        "intelligence": "32680",
+        "stamina": "32680"
+    },
+    {
+        "level": "313",
+        "hero_exp_need": "2507600",
+        "hero_core_need": "0",
+        "strength": "32830",
+        "agility": "32830",
+        "intelligence": "32830",
+        "stamina": "32830"
+    },
+    {
+        "level": "314",
+        "hero_exp_need": "2523600",
+        "hero_core_need": "0",
+        "strength": "32980",
+        "agility": "32980",
+        "intelligence": "32980",
+        "stamina": "32980"
+    },
+    {
+        "level": "315",
+        "hero_exp_need": "2539600",
+        "hero_core_need": "0",
+        "strength": "33130",
+        "agility": "33130",
+        "intelligence": "33130",
+        "stamina": "33130"
+    },
+    {
+        "level": "316",
+        "hero_exp_need": "2555600",
+        "hero_core_need": "0",
+        "strength": "33280",
+        "agility": "33280",
+        "intelligence": "33280",
+        "stamina": "33280"
+    },
+    {
+        "level": "317",
+        "hero_exp_need": "2571600",
+        "hero_core_need": "0",
+        "strength": "33430",
+        "agility": "33430",
+        "intelligence": "33430",
+        "stamina": "33430"
+    },
+    {
+        "level": "318",
+        "hero_exp_need": "2587600",
+        "hero_core_need": "0",
+        "strength": "33580",
+        "agility": "33580",
+        "intelligence": "33580",
+        "stamina": "33580"
+    },
+    {
+        "level": "319",
+        "hero_exp_need": "2603600",
+        "hero_core_need": "0",
+        "strength": "33730",
+        "agility": "33730",
+        "intelligence": "33730",
+        "stamina": "33730"
+    },
+    {
+        "level": "320",
+        "hero_exp_need": "2619600",
+        "hero_core_need": "100000",
+        "strength": "35230",
+        "agility": "35230",
+        "intelligence": "35230",
+        "stamina": "35230"
+    },
+    {
+        "level": "321",
+        "hero_exp_need": "2635600",
+        "hero_core_need": "0",
+        "strength": "35390",
+        "agility": "35390",
+        "intelligence": "35390",
+        "stamina": "35390"
+    },
+    {
+        "level": "322",
+        "hero_exp_need": "2651600",
+        "hero_core_need": "0",
+        "strength": "35550",
+        "agility": "35550",
+        "intelligence": "35550",
+        "stamina": "35550"
+    },
+    {
+        "level": "323",
+        "hero_exp_need": "2667600",
+        "hero_core_need": "0",
+        "strength": "35710",
+        "agility": "35710",
+        "intelligence": "35710",
+        "stamina": "35710"
+    },
+    {
+        "level": "324",
+        "hero_exp_need": "2683600",
+        "hero_core_need": "0",
+        "strength": "35870",
+        "agility": "35870",
+        "intelligence": "35870",
+        "stamina": "35870"
+    },
+    {
+        "level": "325",
+        "hero_exp_need": "2699600",
+        "hero_core_need": "0",
+        "strength": "36030",
+        "agility": "36030",
+        "intelligence": "36030",
+        "stamina": "36030"
+    },
+    {
+        "level": "326",
+        "hero_exp_need": "2715600",
+        "hero_core_need": "0",
+        "strength": "36190",
+        "agility": "36190",
+        "intelligence": "36190",
+        "stamina": "36190"
+    },
+    {
+        "level": "327",
+        "hero_exp_need": "2731600",
+        "hero_core_need": "0",
+        "strength": "36350",
+        "agility": "36350",
+        "intelligence": "36350",
+        "stamina": "36350"
+    },
+    {
+        "level": "328",
+        "hero_exp_need": "2747600",
+        "hero_core_need": "0",
+        "strength": "36510",
+        "agility": "36510",
+        "intelligence": "36510",
+        "stamina": "36510"
+    },
+    {
+        "level": "329",
+        "hero_exp_need": "2763600",
+        "hero_core_need": "0",
+        "strength": "36670",
+        "agility": "36670",
+        "intelligence": "36670",
+        "stamina": "36670"
+    },
+    {
+        "level": "330",
+        "hero_exp_need": "2779600",
+        "hero_core_need": "0",
+        "strength": "36830",
+        "agility": "36830",
+        "intelligence": "36830",
+        "stamina": "36830"
+    },
+    {
+        "level": "331",
+        "hero_exp_need": "2795600",
+        "hero_core_need": "0",
+        "strength": "36990",
+        "agility": "36990",
+        "intelligence": "36990",
+        "stamina": "36990"
+    },
+    {
+        "level": "332",
+        "hero_exp_need": "2811600",
+        "hero_core_need": "0",
+        "strength": "37150",
+        "agility": "37150",
+        "intelligence": "37150",
+        "stamina": "37150"
+    },
+    {
+        "level": "333",
+        "hero_exp_need": "2827600",
+        "hero_core_need": "0",
+        "strength": "37310",
+        "agility": "37310",
+        "intelligence": "37310",
+        "stamina": "37310"
+    },
+    {
+        "level": "334",
+        "hero_exp_need": "2843600",
+        "hero_core_need": "0",
+        "strength": "37470",
+        "agility": "37470",
+        "intelligence": "37470",
+        "stamina": "37470"
+    },
+    {
+        "level": "335",
+        "hero_exp_need": "2859600",
+        "hero_core_need": "0",
+        "strength": "37630",
+        "agility": "37630",
+        "intelligence": "37630",
+        "stamina": "37630"
+    },
+    {
+        "level": "336",
+        "hero_exp_need": "2875600",
+        "hero_core_need": "0",
+        "strength": "37790",
+        "agility": "37790",
+        "intelligence": "37790",
+        "stamina": "37790"
+    },
+    {
+        "level": "337",
+        "hero_exp_need": "2891600",
+        "hero_core_need": "0",
+        "strength": "37950",
+        "agility": "37950",
+        "intelligence": "37950",
+        "stamina": "37950"
+    },
+    {
+        "level": "338",
+        "hero_exp_need": "2907600",
+        "hero_core_need": "0",
+        "strength": "38110",
+        "agility": "38110",
+        "intelligence": "38110",
+        "stamina": "38110"
+    },
+    {
+        "level": "339",
+        "hero_exp_need": "2923600",
+        "hero_core_need": "0",
+        "strength": "38270",
+        "agility": "38270",
+        "intelligence": "38270",
+        "stamina": "38270"
+    },
+    {
+        "level": "340",
+        "hero_exp_need": "2939600",
+        "hero_core_need": "120000",
+        "strength": "39870",
+        "agility": "39870",
+        "intelligence": "39870",
+        "stamina": "39870"
+    },
+    {
+        "level": "341",
+        "hero_exp_need": "2955600",
+        "hero_core_need": "0",
+        "strength": "40040",
+        "agility": "40040",
+        "intelligence": "40040",
+        "stamina": "40040"
+    },
+    {
+        "level": "342",
+        "hero_exp_need": "2971600",
+        "hero_core_need": "0",
+        "strength": "40210",
+        "agility": "40210",
+        "intelligence": "40210",
+        "stamina": "40210"
+    },
+    {
+        "level": "343",
+        "hero_exp_need": "2987600",
+        "hero_core_need": "0",
+        "strength": "40380",
+        "agility": "40380",
+        "intelligence": "40380",
+        "stamina": "40380"
+    },
+    {
+        "level": "344",
+        "hero_exp_need": "3003600",
+        "hero_core_need": "0",
+        "strength": "40550",
+        "agility": "40550",
+        "intelligence": "40550",
+        "stamina": "40550"
+    },
+    {
+        "level": "345",
+        "hero_exp_need": "3019600",
+        "hero_core_need": "0",
+        "strength": "40720",
+        "agility": "40720",
+        "intelligence": "40720",
+        "stamina": "40720"
+    },
+    {
+        "level": "346",
+        "hero_exp_need": "3035600",
+        "hero_core_need": "0",
+        "strength": "40890",
+        "agility": "40890",
+        "intelligence": "40890",
+        "stamina": "40890"
+    },
+    {
+        "level": "347",
+        "hero_exp_need": "3051600",
+        "hero_core_need": "0",
+        "strength": "41060",
+        "agility": "41060",
+        "intelligence": "41060",
+        "stamina": "41060"
+    },
+    {
+        "level": "348",
+        "hero_exp_need": "3067600",
+        "hero_core_need": "0",
+        "strength": "41230",
+        "agility": "41230",
+        "intelligence": "41230",
+        "stamina": "41230"
+    },
+    {
+        "level": "349",
+        "hero_exp_need": "3083600",
+        "hero_core_need": "0",
+        "strength": "41400",
+        "agility": "41400",
+        "intelligence": "41400",
+        "stamina": "41400"
+    },
+    {
+        "level": "350",
+        "hero_exp_need": "3099600",
+        "hero_core_need": "0",
+        "strength": "41570",
+        "agility": "41570",
+        "intelligence": "41570",
+        "stamina": "41570"
+    },
+    {
+        "level": "351",
+        "hero_exp_need": "3115600",
+        "hero_core_need": "0",
+        "strength": "41740",
+        "agility": "41740",
+        "intelligence": "41740",
+        "stamina": "41740"
+    },
+    {
+        "level": "352",
+        "hero_exp_need": "3131600",
+        "hero_core_need": "0",
+        "strength": "41910",
+        "agility": "41910",
+        "intelligence": "41910",
+        "stamina": "41910"
+    },
+    {
+        "level": "353",
+        "hero_exp_need": "3147600",
+        "hero_core_need": "0",
+        "strength": "42080",
+        "agility": "42080",
+        "intelligence": "42080",
+        "stamina": "42080"
+    },
+    {
+        "level": "354",
+        "hero_exp_need": "3163600",
+        "hero_core_need": "0",
+        "strength": "42250",
+        "agility": "42250",
+        "intelligence": "42250",
+        "stamina": "42250"
+    },
+    {
+        "level": "355",
+        "hero_exp_need": "3179600",
+        "hero_core_need": "0",
+        "strength": "42420",
+        "agility": "42420",
+        "intelligence": "42420",
+        "stamina": "42420"
+    },
+    {
+        "level": "356",
+        "hero_exp_need": "3195600",
+        "hero_core_need": "0",
+        "strength": "42590",
+        "agility": "42590",
+        "intelligence": "42590",
+        "stamina": "42590"
+    },
+    {
+        "level": "357",
+        "hero_exp_need": "3211600",
+        "hero_core_need": "0",
+        "strength": "42760",
+        "agility": "42760",
+        "intelligence": "42760",
+        "stamina": "42760"
+    },
+    {
+        "level": "358",
+        "hero_exp_need": "3227600",
+        "hero_core_need": "0",
+        "strength": "42930",
+        "agility": "42930",
+        "intelligence": "42930",
+        "stamina": "42930"
+    },
+    {
+        "level": "359",
+        "hero_exp_need": "3243600",
+        "hero_core_need": "0",
+        "strength": "43100",
+        "agility": "43100",
+        "intelligence": "43100",
+        "stamina": "43100"
+    },
+    {
+        "level": "360",
+        "hero_exp_need": "3259600",
+        "hero_core_need": "140000",
+        "strength": "44800",
+        "agility": "44800",
+        "intelligence": "44800",
+        "stamina": "44800"
+    },
+    {
+        "level": "361",
+        "hero_exp_need": "3275600",
+        "hero_core_need": "0",
+        "strength": "44980",
+        "agility": "44980",
+        "intelligence": "44980",
+        "stamina": "44980"
+    },
+    {
+        "level": "362",
+        "hero_exp_need": "3291600",
+        "hero_core_need": "0",
+        "strength": "45160",
+        "agility": "45160",
+        "intelligence": "45160",
+        "stamina": "45160"
+    },
+    {
+        "level": "363",
+        "hero_exp_need": "3307600",
+        "hero_core_need": "0",
+        "strength": "45340",
+        "agility": "45340",
+        "intelligence": "45340",
+        "stamina": "45340"
+    },
+    {
+        "level": "364",
+        "hero_exp_need": "3323600",
+        "hero_core_need": "0",
+        "strength": "45520",
+        "agility": "45520",
+        "intelligence": "45520",
+        "stamina": "45520"
+    },
+    {
+        "level": "365",
+        "hero_exp_need": "3339600",
+        "hero_core_need": "0",
+        "strength": "45700",
+        "agility": "45700",
+        "intelligence": "45700",
+        "stamina": "45700"
+    },
+    {
+        "level": "366",
+        "hero_exp_need": "3355600",
+        "hero_core_need": "0",
+        "strength": "45880",
+        "agility": "45880",
+        "intelligence": "45880",
+        "stamina": "45880"
+    },
+    {
+        "level": "367",
+        "hero_exp_need": "3371600",
+        "hero_core_need": "0",
+        "strength": "46060",
+        "agility": "46060",
+        "intelligence": "46060",
+        "stamina": "46060"
+    },
+    {
+        "level": "368",
+        "hero_exp_need": "3387600",
+        "hero_core_need": "0",
+        "strength": "46240",
+        "agility": "46240",
+        "intelligence": "46240",
+        "stamina": "46240"
+    },
+    {
+        "level": "369",
+        "hero_exp_need": "3403600",
+        "hero_core_need": "0",
+        "strength": "46420",
+        "agility": "46420",
+        "intelligence": "46420",
+        "stamina": "46420"
+    },
+    {
+        "level": "370",
+        "hero_exp_need": "3419600",
+        "hero_core_need": "0",
+        "strength": "46600",
+        "agility": "46600",
+        "intelligence": "46600",
+        "stamina": "46600"
+    },
+    {
+        "level": "371",
+        "hero_exp_need": "3435600",
+        "hero_core_need": "0",
+        "strength": "46780",
+        "agility": "46780",
+        "intelligence": "46780",
+        "stamina": "46780"
+    },
+    {
+        "level": "372",
+        "hero_exp_need": "3451600",
+        "hero_core_need": "0",
+        "strength": "46960",
+        "agility": "46960",
+        "intelligence": "46960",
+        "stamina": "46960"
+    },
+    {
+        "level": "373",
+        "hero_exp_need": "3467600",
+        "hero_core_need": "0",
+        "strength": "47140",
+        "agility": "47140",
+        "intelligence": "47140",
+        "stamina": "47140"
+    },
+    {
+        "level": "374",
+        "hero_exp_need": "3483600",
+        "hero_core_need": "0",
+        "strength": "47320",
+        "agility": "47320",
+        "intelligence": "47320",
+        "stamina": "47320"
+    },
+    {
+        "level": "375",
+        "hero_exp_need": "3499600",
+        "hero_core_need": "0",
+        "strength": "47500",
+        "agility": "47500",
+        "intelligence": "47500",
+        "stamina": "47500"
+    },
+    {
+        "level": "376",
+        "hero_exp_need": "3515600",
+        "hero_core_need": "0",
+        "strength": "47680",
+        "agility": "47680",
+        "intelligence": "47680",
+        "stamina": "47680"
+    },
+    {
+        "level": "377",
+        "hero_exp_need": "3531600",
+        "hero_core_need": "0",
+        "strength": "47860",
+        "agility": "47860",
+        "intelligence": "47860",
+        "stamina": "47860"
+    },
+    {
+        "level": "378",
+        "hero_exp_need": "3547600",
+        "hero_core_need": "0",
+        "strength": "48040",
+        "agility": "48040",
+        "intelligence": "48040",
+        "stamina": "48040"
+    },
+    {
+        "level": "379",
+        "hero_exp_need": "3563600",
+        "hero_core_need": "0",
+        "strength": "48220",
+        "agility": "48220",
+        "intelligence": "48220",
+        "stamina": "48220"
+    },
+    {
+        "level": "380",
+        "hero_exp_need": "3579600",
+        "hero_core_need": "160000",
+        "strength": "50020",
+        "agility": "50020",
+        "intelligence": "50020",
+        "stamina": "50020"
+    },
+    {
+        "level": "381",
+        "hero_exp_need": "3595600",
+        "hero_core_need": "0",
+        "strength": "50210",
+        "agility": "50210",
+        "intelligence": "50210",
+        "stamina": "50210"
+    },
+    {
+        "level": "382",
+        "hero_exp_need": "3611600",
+        "hero_core_need": "0",
+        "strength": "50400",
+        "agility": "50400",
+        "intelligence": "50400",
+        "stamina": "50400"
+    },
+    {
+        "level": "383",
+        "hero_exp_need": "3627600",
+        "hero_core_need": "0",
+        "strength": "50590",
+        "agility": "50590",
+        "intelligence": "50590",
+        "stamina": "50590"
+    },
+    {
+        "level": "384",
+        "hero_exp_need": "3643600",
+        "hero_core_need": "0",
+        "strength": "50780",
+        "agility": "50780",
+        "intelligence": "50780",
+        "stamina": "50780"
+    },
+    {
+        "level": "385",
+        "hero_exp_need": "3659600",
+        "hero_core_need": "0",
+        "strength": "50970",
+        "agility": "50970",
+        "intelligence": "50970",
+        "stamina": "50970"
+    },
+    {
+        "level": "386",
+        "hero_exp_need": "3675600",
+        "hero_core_need": "0",
+        "strength": "51160",
+        "agility": "51160",
+        "intelligence": "51160",
+        "stamina": "51160"
+    },
+    {
+        "level": "387",
+        "hero_exp_need": "3691600",
+        "hero_core_need": "0",
+        "strength": "51350",
+        "agility": "51350",
+        "intelligence": "51350",
+        "stamina": "51350"
+    },
+    {
+        "level": "388",
+        "hero_exp_need": "3707600",
+        "hero_core_need": "0",
+        "strength": "51540",
+        "agility": "51540",
+        "intelligence": "51540",
+        "stamina": "51540"
+    },
+    {
+        "level": "389",
+        "hero_exp_need": "3723600",
+        "hero_core_need": "0",
+        "strength": "51730",
+        "agility": "51730",
+        "intelligence": "51730",
+        "stamina": "51730"
+    },
+    {
+        "level": "390",
+        "hero_exp_need": "3739600",
+        "hero_core_need": "0",
+        "strength": "51920",
+        "agility": "51920",
+        "intelligence": "51920",
+        "stamina": "51920"
+    },
+    {
+        "level": "391",
+        "hero_exp_need": "3755600",
+        "hero_core_need": "0",
+        "strength": "52110",
+        "agility": "52110",
+        "intelligence": "52110",
+        "stamina": "52110"
+    },
+    {
+        "level": "392",
+        "hero_exp_need": "3771600",
+        "hero_core_need": "0",
+        "strength": "52300",
+        "agility": "52300",
+        "intelligence": "52300",
+        "stamina": "52300"
+    },
+    {
+        "level": "393",
+        "hero_exp_need": "3787600",
+        "hero_core_need": "0",
+        "strength": "52490",
+        "agility": "52490",
+        "intelligence": "52490",
+        "stamina": "52490"
+    },
+    {
+        "level": "394",
+        "hero_exp_need": "3803600",
+        "hero_core_need": "0",
+        "strength": "52680",
+        "agility": "52680",
+        "intelligence": "52680",
+        "stamina": "52680"
+    },
+    {
+        "level": "395",
+        "hero_exp_need": "3819600",
+        "hero_core_need": "0",
+        "strength": "52870",
+        "agility": "52870",
+        "intelligence": "52870",
+        "stamina": "52870"
+    },
+    {
+        "level": "396",
+        "hero_exp_need": "3835600",
+        "hero_core_need": "0",
+        "strength": "53060",
+        "agility": "53060",
+        "intelligence": "53060",
+        "stamina": "53060"
+    },
+    {
+        "level": "397",
+        "hero_exp_need": "3851600",
+        "hero_core_need": "0",
+        "strength": "53250",
+        "agility": "53250",
+        "intelligence": "53250",
+        "stamina": "53250"
+    },
+    {
+        "level": "398",
+        "hero_exp_need": "3867600",
+        "hero_core_need": "0",
+        "strength": "53440",
+        "agility": "53440",
+        "intelligence": "53440",
+        "stamina": "53440"
+    },
+    {
+        "level": "399",
+        "hero_exp_need": "3883600",
+        "hero_core_need": "0",
+        "strength": "53630",
+        "agility": "53630",
+        "intelligence": "53630",
+        "stamina": "53630"
+    },
+    {
+        "level": "400",
+        "hero_exp_need": "3899600",
+        "hero_core_need": "180000",
+        "strength": "55530",
+        "agility": "55530",
+        "intelligence": "55530",
+        "stamina": "55530"
+    },
+    {
+        "level": "401",
+        "hero_exp_need": "3915600",
+        "hero_core_need": "0",
+        "strength": "55730",
+        "agility": "55730",
+        "intelligence": "55730",
+        "stamina": "55730"
+    },
+    {
+        "level": "402",
+        "hero_exp_need": "3931600",
+        "hero_core_need": "0",
+        "strength": "55930",
+        "agility": "55930",
+        "intelligence": "55930",
+        "stamina": "55930"
+    },
+    {
+        "level": "403",
+        "hero_exp_need": "3947600",
+        "hero_core_need": "0",
+        "strength": "56130",
+        "agility": "56130",
+        "intelligence": "56130",
+        "stamina": "56130"
+    },
+    {
+        "level": "404",
+        "hero_exp_need": "3963600",
+        "hero_core_need": "0",
+        "strength": "56330",
+        "agility": "56330",
+        "intelligence": "56330",
+        "stamina": "56330"
+    },
+    {
+        "level": "405",
+        "hero_exp_need": "3979600",
+        "hero_core_need": "0",
+        "strength": "56530",
+        "agility": "56530",
+        "intelligence": "56530",
+        "stamina": "56530"
+    },
+    {
+        "level": "406",
+        "hero_exp_need": "3995600",
+        "hero_core_need": "0",
+        "strength": "56730",
+        "agility": "56730",
+        "intelligence": "56730",
+        "stamina": "56730"
+    },
+    {
+        "level": "407",
+        "hero_exp_need": "4011600",
+        "hero_core_need": "0",
+        "strength": "56930",
+        "agility": "56930",
+        "intelligence": "56930",
+        "stamina": "56930"
+    },
+    {
+        "level": "408",
+        "hero_exp_need": "4027600",
+        "hero_core_need": "0",
+        "strength": "57130",
+        "agility": "57130",
+        "intelligence": "57130",
+        "stamina": "57130"
+    },
+    {
+        "level": "409",
+        "hero_exp_need": "4043600",
+        "hero_core_need": "0",
+        "strength": "57330",
+        "agility": "57330",
+        "intelligence": "57330",
+        "stamina": "57330"
+    },
+    {
+        "level": "410",
+        "hero_exp_need": "4059600",
+        "hero_core_need": "0",
+        "strength": "57530",
+        "agility": "57530",
+        "intelligence": "57530",
+        "stamina": "57530"
+    },
+    {
+        "level": "411",
+        "hero_exp_need": "4075600",
+        "hero_core_need": "0",
+        "strength": "57730",
+        "agility": "57730",
+        "intelligence": "57730",
+        "stamina": "57730"
+    },
+    {
+        "level": "412",
+        "hero_exp_need": "4091600",
+        "hero_core_need": "0",
+        "strength": "57930",
+        "agility": "57930",
+        "intelligence": "57930",
+        "stamina": "57930"
+    },
+    {
+        "level": "413",
+        "hero_exp_need": "4107600",
+        "hero_core_need": "0",
+        "strength": "58130",
+        "agility": "58130",
+        "intelligence": "58130",
+        "stamina": "58130"
+    },
+    {
+        "level": "414",
+        "hero_exp_need": "4123600",
+        "hero_core_need": "0",
+        "strength": "58330",
+        "agility": "58330",
+        "intelligence": "58330",
+        "stamina": "58330"
+    },
+    {
+        "level": "415",
+        "hero_exp_need": "4139600",
+        "hero_core_need": "0",
+        "strength": "58530",
+        "agility": "58530",
+        "intelligence": "58530",
+        "stamina": "58530"
+    },
+    {
+        "level": "416",
+        "hero_exp_need": "4155600",
+        "hero_core_need": "0",
+        "strength": "58730",
+        "agility": "58730",
+        "intelligence": "58730",
+        "stamina": "58730"
+    },
+    {
+        "level": "417",
+        "hero_exp_need": "4171600",
+        "hero_core_need": "0",
+        "strength": "58930",
+        "agility": "58930",
+        "intelligence": "58930",
+        "stamina": "58930"
+    },
+    {
+        "level": "418",
+        "hero_exp_need": "4187600",
+        "hero_core_need": "0",
+        "strength": "59130",
+        "agility": "59130",
+        "intelligence": "59130",
+        "stamina": "59130"
+    },
+    {
+        "level": "419",
+        "hero_exp_need": "4203600",
+        "hero_core_need": "0",
+        "strength": "59330",
+        "agility": "59330",
+        "intelligence": "59330",
+        "stamina": "59330"
+    },
+    {
+        "level": "420",
+        "hero_exp_need": "4219600",
+        "hero_core_need": "200000",
+        "strength": "61330",
+        "agility": "61330",
+        "intelligence": "61330",
+        "stamina": "61330"
+    }
+]

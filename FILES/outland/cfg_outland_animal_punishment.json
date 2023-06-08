@@ -1,0 +1,34 @@
+[
+    {
+        "cid": "1",
+        "consume_goods": "5:3000108:1",
+        "add_weight": "90",
+        "reduce_weight": "10",
+        "add_exp": "150",
+        "reduce_exp": "0"
+    },
+    {
+        "cid": "2",
+        "consume_goods": "5:3000109:1",
+        "add_weight": "95",
+        "reduce_weight": "5",
+        "add_exp": "300",
+        "reduce_exp": "0"
+    },
+    {
+        "cid": "3",
+        "consume_goods": "5:3000110:1",
+        "add_weight": "95",
+        "reduce_weight": "5",
+        "add_exp": "500",
+        "reduce_exp": "0"
+    },
+    {
+        "cid": "4",
+        "consume_goods": "5:3000111:1",
+        "add_weight": "100",
+        "reduce_weight": "0",
+        "add_exp": "1000",
+        "reduce_exp": "0"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "cid": "1",
+        "gift_id": "1",
+        "gift_type": "1",
+        "weight": "6"
+    },
+    {
+        "cid": "2",
+        "gift_id": "2",
+        "gift_type": "1",
+        "weight": "3"
+    },
+    {
+        "cid": "3",
+        "gift_id": "3",
+        "gift_type": "1",
+        "weight": "2"
+    },
+    {
+        "cid": "4",
+        "gift_id": "4",
+        "gift_type": "1",
+        "weight": "1"
+    },
+    {
+        "cid": "5",
+        "gift_id": "5",
+        "gift_type": "1",
+        "weight": "5"
+    },
+    {
+        "cid": "6",
+        "gift_id": "6",
+        "gift_type": "1",
+        "weight": "3"
+    },
+    {
+        "cid": "7",
+        "gift_id": "7",
+        "gift_type": "1",
+        "weight": "2"
+    },
+    {
+        "cid": "8",
+        "gift_id": "8",
+        "gift_type": "1",
+        "weight": "1"
+    },
+    {
+        "cid": "9",
+        "gift_id": "9",
+        "gift_type": "1",
+        "weight": "2"
+    },
+    {
+        "cid": "10",
+        "gift_id": "10",
+        "gift_type": "1",
+        "weight": "1"
+    },
+    {
+        "cid": "11",
+        "gift_id": "11",
+        "gift_type": "1",
+        "weight": "2"
+    },
+    {
+        "cid": "12",
+        "gift_id": "12",
+        "gift_type": "1",
+        "weight": "1"
+    },
+    {
+        "cid": "13",
+        "gift_id": "13",
+        "gift_type": "2",
+        "weight": "10"
+    },
+    {
+        "cid": "14",
+        "gift_id": "14",
+        "gift_type": "2",
+        "weight": "3"
+    },
+    {
+        "cid": "15",
+        "gift_id": "15",
+        "gift_type": "2",
+        "weight": "5"
+    },
+    {
+        "cid": "16",
+        "gift_id": "16",
+        "gift_type": "2",
+        "weight": "5"
+    },
+    {
+        "cid": "17",
+        "gift_id": "17",
+        "gift_type": "2",
+        "weight": "3"
+    },
+    {
+        "cid": "18",
+        "gift_id": "18",
+        "gift_type": "2",
+        "weight": "1"
+    },
+    {
+        "cid": "19",
+        "gift_id": "19",
+        "gift_type": "2",
+        "weight": "1"
+    },
+    {
+        "cid": "20",
+        "gift_id": "20",
+        "gift_type": "2",
+        "weight": "3"
+    },
+    {
+        "cid": "21",
+        "gift_id": "21",
+        "gift_type": "2",
+        "weight": "5"
+    },
+    {
+        "cid": "22",
+        "gift_id": "22",
+        "gift_type": "2",
+        "weight": "10"
+    }
+]

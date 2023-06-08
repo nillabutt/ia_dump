@@ -1,0 +1,2830 @@
+[
+    {
+        "cid": "10000",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:0|2:1:0|2:3:0|2:5:0|2:18:0",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:3456"
+    },
+    {
+        "cid": "10001",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:250|2:1:3750|2:3:188|2:5:176|2:18:1",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:6"
+    },
+    {
+        "cid": "10002",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:500|2:1:7500|2:3:375|2:5:353|2:18:2",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:6"
+    },
+    {
+        "cid": "10003",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:750|2:1:11250|2:3:563|2:5:529|2:18:3",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:6"
+    },
+    {
+        "cid": "10004",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:1000|2:1:15000|2:3:750|2:5:705|2:18:4",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:6"
+    },
+    {
+        "cid": "10005",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:1250|2:1:18750|2:3:938|2:5:881|2:18:5",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:6"
+    },
+    {
+        "cid": "10006",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:1500|2:1:22500|2:3:1125|2:5:1058|2:18:6",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:6"
+    },
+    {
+        "cid": "10007",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:1750|2:1:26250|2:3:1313|2:5:1234|2:18:7",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:46"
+    },
+    {
+        "cid": "10008",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:2000|2:1:30000|2:3:1500|2:5:1410|2:18:8",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:46"
+    },
+    {
+        "cid": "10009",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:2250|2:1:33750|2:3:1688|2:5:1586|2:18:9",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:46"
+    },
+    {
+        "cid": "10010",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:2500|2:1:37500|2:3:1875|2:5:1763|2:18:10",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:55"
+    },
+    {
+        "cid": "10011",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:2750|2:1:41250|2:3:2063|2:5:1939|2:18:11",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:55"
+    },
+    {
+        "cid": "10012",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:3000|2:1:45000|2:3:2250|2:5:2115|2:18:12",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:72"
+    },
+    {
+        "cid": "10013",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:3250|2:1:48750|2:3:2438|2:5:2291|2:18:13",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:72"
+    },
+    {
+        "cid": "10014",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:3500|2:1:52500|2:3:2625|2:5:2468|2:18:14",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:72"
+    },
+    {
+        "cid": "10015",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:3750|2:1:56250|2:3:2813|2:5:2644|2:18:15",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:72"
+    },
+    {
+        "cid": "10016",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:4000|2:1:60000|2:3:3000|2:5:2820|2:18:16",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:72"
+    },
+    {
+        "cid": "10017",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:4250|2:1:63750|2:3:3188|2:5:2996|2:18:17",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:126"
+    },
+    {
+        "cid": "10018",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:4500|2:1:67500|2:3:3375|2:5:3173|2:18:18",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:126"
+    },
+    {
+        "cid": "10019",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:4750|2:1:71250|2:3:3563|2:5:3349|2:18:19",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:126"
+    },
+    {
+        "cid": "10020",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:5000|2:1:75000|2:3:3750|2:5:3525|2:18:20",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:126"
+    },
+    {
+        "cid": "10021",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:5400|2:1:81000|2:3:4050|2:5:3807|2:18:21",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:126"
+    },
+    {
+        "cid": "10022",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:5800|2:1:87000|2:3:4350|2:5:4089|2:18:22",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:198"
+    },
+    {
+        "cid": "10023",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:6200|2:1:93000|2:3:4650|2:5:4371|2:18:23",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:198"
+    },
+    {
+        "cid": "10024",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:6600|2:1:99000|2:3:4950|2:5:4653|2:18:24",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:198"
+    },
+    {
+        "cid": "10025",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:7000|2:1:105000|2:3:5250|2:5:4935|2:18:25",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:198"
+    },
+    {
+        "cid": "10026",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:7400|2:1:111000|2:3:5550|2:5:5217|2:18:26",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:198"
+    },
+    {
+        "cid": "10027",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:7800|2:1:117000|2:3:5850|2:5:5499|2:18:27",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:288"
+    },
+    {
+        "cid": "10028",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:8200|2:1:123000|2:3:6150|2:5:5781|2:18:28",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:288"
+    },
+    {
+        "cid": "10029",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:8600|2:1:129000|2:3:6450|2:5:6063|2:18:29",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:306"
+    },
+    {
+        "cid": "10030",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:9000|2:1:135000|2:3:6750|2:5:6345|2:18:30",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:306"
+    },
+    {
+        "cid": "10031",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:9600|2:1:144000|2:3:7200|2:5:6768|2:18:31",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:306"
+    },
+    {
+        "cid": "10032",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:10200|2:1:153000|2:3:7650|2:5:7191|2:18:32",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:396"
+    },
+    {
+        "cid": "10033",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:10800|2:1:162000|2:3:8100|2:5:7614|2:18:33",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:396"
+    },
+    {
+        "cid": "10034",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:11400|2:1:171000|2:3:8550|2:5:8037|2:18:34",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:414"
+    },
+    {
+        "cid": "10035",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:12000|2:1:180000|2:3:9000|2:5:8460|2:18:35",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:414"
+    },
+    {
+        "cid": "10036",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:12600|2:1:189000|2:3:9450|2:5:8883|2:18:36",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:414"
+    },
+    {
+        "cid": "10037",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:13200|2:1:198000|2:3:9900|2:5:9306|2:18:37",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:522"
+    },
+    {
+        "cid": "10038",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:13800|2:1:207000|2:3:10350|2:5:9729|2:18:38",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:522"
+    },
+    {
+        "cid": "10039",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:14400|2:1:216000|2:3:10800|2:5:10152|2:18:39",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:540"
+    },
+    {
+        "cid": "10040",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:15000|2:1:225000|2:3:11250|2:5:10575|2:18:40",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:540"
+    },
+    {
+        "cid": "10041",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:15750|2:1:236250|2:3:11813|2:5:11104|2:18:41",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:540"
+    },
+    {
+        "cid": "10042",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:16500|2:1:247500|2:3:12375|2:5:11633|2:18:42",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:666"
+    },
+    {
+        "cid": "10043",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:17250|2:1:258750|2:3:12938|2:5:12161|2:18:43",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:666"
+    },
+    {
+        "cid": "10044",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:18000|2:1:270000|2:3:13500|2:5:12690|2:18:44",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:684"
+    },
+    {
+        "cid": "10045",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:18750|2:1:281250|2:3:14063|2:5:13219|2:18:45",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:684"
+    },
+    {
+        "cid": "10046",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:19500|2:1:292500|2:3:14625|2:5:13748|2:18:46",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:684"
+    },
+    {
+        "cid": "10047",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:20250|2:1:303750|2:3:15188|2:5:14276|2:18:47",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:828"
+    },
+    {
+        "cid": "10048",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:21000|2:1:315000|2:3:15750|2:5:14805|2:18:48",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:828"
+    },
+    {
+        "cid": "10049",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:21750|2:1:326250|2:3:16313|2:5:15334|2:18:49",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:846"
+    },
+    {
+        "cid": "10050",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:22500|2:1:337500|2:3:16875|2:5:15863|2:18:50",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:846"
+    },
+    {
+        "cid": "10051",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:23000|2:1:345000|2:3:17250|2:5:16215|2:18:51",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:846"
+    },
+    {
+        "cid": "10052",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:23500|2:1:352500|2:3:17625|2:5:16568|2:18:52",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1008"
+    },
+    {
+        "cid": "10053",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:24000|2:1:360000|2:3:18000|2:5:16920|2:18:53",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1008"
+    },
+    {
+        "cid": "10054",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:24500|2:1:367500|2:3:18375|2:5:17273|2:18:54",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1026"
+    },
+    {
+        "cid": "10055",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:25000|2:1:375000|2:3:18750|2:5:17625|2:18:55",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1026"
+    },
+    {
+        "cid": "10056",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:25500|2:1:382500|2:3:19125|2:5:17978|2:18:56",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1026"
+    },
+    {
+        "cid": "10057",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:26000|2:1:390000|2:3:19500|2:5:18330|2:18:57",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1206"
+    },
+    {
+        "cid": "10058",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:26500|2:1:397500|2:3:19875|2:5:18683|2:18:58",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1206"
+    },
+    {
+        "cid": "10059",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:27000|2:1:405000|2:3:20250|2:5:19035|2:18:59",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1224"
+    },
+    {
+        "cid": "10060",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:27500|2:1:412500|2:3:20625|2:5:19388|2:18:60",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1224"
+    },
+    {
+        "cid": "10061",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:28000|2:1:420000|2:3:21000|2:5:19740|2:18:61",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1422"
+    },
+    {
+        "cid": "10062",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:28500|2:1:427500|2:3:21375|2:5:20093|2:18:62",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1422"
+    },
+    {
+        "cid": "10063",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:29000|2:1:435000|2:3:21750|2:5:20445|2:18:63",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1440"
+    },
+    {
+        "cid": "10064",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:29500|2:1:442500|2:3:22125|2:5:20798|2:18:64",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1440"
+    },
+    {
+        "cid": "10065",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:30000|2:1:450000|2:3:22500|2:5:21150|2:18:65",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1440"
+    },
+    {
+        "cid": "10066",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:30500|2:1:457500|2:3:22875|2:5:21503|2:18:66",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1656"
+    },
+    {
+        "cid": "10067",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:31000|2:1:465000|2:3:23250|2:5:21855|2:18:67",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1656"
+    },
+    {
+        "cid": "10068",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:31500|2:1:472500|2:3:23625|2:5:22208|2:18:68",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1674"
+    },
+    {
+        "cid": "10069",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:32000|2:1:480000|2:3:24000|2:5:22560|2:18:69",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1674"
+    },
+    {
+        "cid": "10070",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:32500|2:1:487500|2:3:24375|2:5:22913|2:18:70",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1674"
+    },
+    {
+        "cid": "10071",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:33000|2:1:495000|2:3:24750|2:5:23265|2:18:71",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1908"
+    },
+    {
+        "cid": "10072",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:33500|2:1:502500|2:3:25125|2:5:23618|2:18:72",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1908"
+    },
+    {
+        "cid": "10073",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:34000|2:1:510000|2:3:25500|2:5:23970|2:18:73",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1926"
+    },
+    {
+        "cid": "10074",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:34500|2:1:517500|2:3:25875|2:5:24323|2:18:74",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1926"
+    },
+    {
+        "cid": "10075",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:35000|2:1:525000|2:3:26250|2:5:24675|2:18:75",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:1926"
+    },
+    {
+        "cid": "10076",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:35500|2:1:532500|2:3:26625|2:5:25028|2:18:76",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:2178"
+    },
+    {
+        "cid": "10077",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:36000|2:1:540000|2:3:27000|2:5:25380|2:18:77",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:2178"
+    },
+    {
+        "cid": "10078",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:36500|2:1:547500|2:3:27375|2:5:25733|2:18:78",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:2196"
+    },
+    {
+        "cid": "10079",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37000|2:1:555000|2:3:27750|2:5:26085|2:18:79",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:2196"
+    },
+    {
+        "cid": "10080",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:562500|2:3:28125|2:5:26438|2:18:80",
+        "arrtibute_change_rate": "",
+        "cost": "3000092:2196"
+    },
+    {
+        "cid": "10081",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:570000|2:3:28500|2:5:26790|2:18:80",
+        "arrtibute_change_rate": "3:2:10",
+        "cost": "3000092:2400"
+    },
+    {
+        "cid": "10082",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:577500|2:3:28875|2:5:27143|2:18:80",
+        "arrtibute_change_rate": "3:2:20",
+        "cost": "3000092:2850"
+    },
+    {
+        "cid": "10083",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:585000|2:3:29250|2:5:27495|2:18:80",
+        "arrtibute_change_rate": "3:2:30",
+        "cost": "3000092:3300"
+    },
+    {
+        "cid": "10084",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:592500|2:3:29625|2:5:27848|2:18:80",
+        "arrtibute_change_rate": "3:2:40",
+        "cost": "3000092:3750"
+    },
+    {
+        "cid": "10085",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:600000|2:3:30000|2:5:28200|2:18:80",
+        "arrtibute_change_rate": "3:2:50",
+        "cost": "3000092:4200"
+    },
+    {
+        "cid": "10086",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:607500|2:3:30375|2:5:28553|2:18:80",
+        "arrtibute_change_rate": "3:2:60",
+        "cost": "3000092:4650"
+    },
+    {
+        "cid": "10087",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:615000|2:3:30750|2:5:28905|2:18:80",
+        "arrtibute_change_rate": "3:2:70",
+        "cost": "3000092:5100"
+    },
+    {
+        "cid": "10088",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:622500|2:3:31125|2:5:29258|2:18:80",
+        "arrtibute_change_rate": "3:2:80",
+        "cost": "3000092:5550"
+    },
+    {
+        "cid": "10089",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:630000|2:3:31500|2:5:29610|2:18:80",
+        "arrtibute_change_rate": "3:2:90",
+        "cost": "3000092:6000"
+    },
+    {
+        "cid": "10090",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:637500|2:3:31875|2:5:29963|2:18:80",
+        "arrtibute_change_rate": "3:2:100",
+        "cost": "3000092:6450"
+    },
+    {
+        "cid": "10091",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:648750|2:3:32438|2:5:30491|2:18:80",
+        "arrtibute_change_rate": "3:2:110",
+        "cost": "3000092:6900"
+    },
+    {
+        "cid": "10092",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:660000|2:3:33000|2:5:31020|2:18:80",
+        "arrtibute_change_rate": "3:2:120",
+        "cost": "3000092:7350"
+    },
+    {
+        "cid": "10093",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:671250|2:3:33563|2:5:31549|2:18:80",
+        "arrtibute_change_rate": "3:2:130",
+        "cost": "3000092:7800"
+    },
+    {
+        "cid": "10094",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:682500|2:3:34125|2:5:32078|2:18:80",
+        "arrtibute_change_rate": "3:2:140",
+        "cost": "3000092:8250"
+    },
+    {
+        "cid": "10095",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:693750|2:3:34688|2:5:32606|2:18:80",
+        "arrtibute_change_rate": "3:2:150",
+        "cost": "3000092:8700"
+    },
+    {
+        "cid": "10096",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:705000|2:3:35250|2:5:33135|2:18:80",
+        "arrtibute_change_rate": "3:2:160",
+        "cost": "3000092:9150"
+    },
+    {
+        "cid": "10097",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:716250|2:3:35813|2:5:33664|2:18:80",
+        "arrtibute_change_rate": "3:2:170",
+        "cost": "3000092:9600"
+    },
+    {
+        "cid": "10098",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:727500|2:3:36375|2:5:34193|2:18:80",
+        "arrtibute_change_rate": "3:2:180",
+        "cost": "3000092:10050"
+    },
+    {
+        "cid": "10099",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:738750|2:3:36938|2:5:34721|2:18:80",
+        "arrtibute_change_rate": "3:2:190",
+        "cost": "3000092:10500"
+    },
+    {
+        "cid": "10100",
+        "name": "我是通用天赋",
+        "attribute_change_value": "2:11:37500|2:1:750000|2:3:37500|2:5:35250|2:18:80",
+        "arrtibute_change_rate": "3:2:200",
+        "cost": "3000092:10950"
+    },
+    {
+        "cid": "20000",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:0|2:1:0|2:3:0|2:5:0",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:3456"
+    },
+    {
+        "cid": "20001",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:390|2:1:3750|2:3:188|2:5:176",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:6"
+    },
+    {
+        "cid": "20002",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:780|2:1:7500|2:3:375|2:5:353",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:6"
+    },
+    {
+        "cid": "20003",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:1170|2:1:11250|2:3:563|2:5:529",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:6"
+    },
+    {
+        "cid": "20004",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:1560|2:1:15000|2:3:750|2:5:705",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:6"
+    },
+    {
+        "cid": "20005",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:1950|2:1:18750|2:3:938|2:5:881",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:6"
+    },
+    {
+        "cid": "20006",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:2340|2:1:22500|2:3:1125|2:5:1058",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:6"
+    },
+    {
+        "cid": "20007",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:2730|2:1:26250|2:3:1313|2:5:1234",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:12"
+    },
+    {
+        "cid": "20008",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:3120|2:1:30000|2:3:1500|2:5:1410",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:12"
+    },
+    {
+        "cid": "20009",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:3510|2:1:33750|2:3:1688|2:5:1586",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:12"
+    },
+    {
+        "cid": "20010",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:3900|2:1:37500|2:3:1875|2:5:1763",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:12"
+    },
+    {
+        "cid": "20011",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:4290|2:1:41250|2:3:2063|2:5:1939",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:12"
+    },
+    {
+        "cid": "20012",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:4680|2:1:45000|2:3:2250|2:5:2115",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:24"
+    },
+    {
+        "cid": "20013",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:5070|2:1:48750|2:3:2438|2:5:2291",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:24"
+    },
+    {
+        "cid": "20014",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:5460|2:1:52500|2:3:2625|2:5:2468",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:24"
+    },
+    {
+        "cid": "20015",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:5850|2:1:56250|2:3:2813|2:5:2644",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:24"
+    },
+    {
+        "cid": "20016",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:6240|2:1:60000|2:3:3000|2:5:2820",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:24"
+    },
+    {
+        "cid": "20017",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:6630|2:1:63750|2:3:3188|2:5:2996",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:42"
+    },
+    {
+        "cid": "20018",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:7020|2:1:67500|2:3:3375|2:5:3173",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:42"
+    },
+    {
+        "cid": "20019",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:7410|2:1:71250|2:3:3563|2:5:3349",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:42"
+    },
+    {
+        "cid": "20020",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:7800|2:1:75000|2:3:3750|2:5:3525",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:42"
+    },
+    {
+        "cid": "20021",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:8424|2:1:81000|2:3:4050|2:5:3807",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:42"
+    },
+    {
+        "cid": "20022",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:9048|2:1:87000|2:3:4350|2:5:4089",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:66"
+    },
+    {
+        "cid": "20023",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:9672|2:1:93000|2:3:4650|2:5:4371",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:66"
+    },
+    {
+        "cid": "20024",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:10296|2:1:99000|2:3:4950|2:5:4653",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:66"
+    },
+    {
+        "cid": "20025",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:10920|2:1:105000|2:3:5250|2:5:4935",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:66"
+    },
+    {
+        "cid": "20026",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:11544|2:1:111000|2:3:5550|2:5:5217",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:66"
+    },
+    {
+        "cid": "20027",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:12168|2:1:117000|2:3:5850|2:5:5499",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:96"
+    },
+    {
+        "cid": "20028",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:12792|2:1:123000|2:3:6150|2:5:5781",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:96"
+    },
+    {
+        "cid": "20029",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:13416|2:1:129000|2:3:6450|2:5:6063",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:102"
+    },
+    {
+        "cid": "20030",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:14040|2:1:135000|2:3:6750|2:5:6345",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:102"
+    },
+    {
+        "cid": "20031",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:14976|2:1:144000|2:3:7200|2:5:6768",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:102"
+    },
+    {
+        "cid": "20032",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:15912|2:1:153000|2:3:7650|2:5:7191",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:132"
+    },
+    {
+        "cid": "20033",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:16848|2:1:162000|2:3:8100|2:5:7614",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:132"
+    },
+    {
+        "cid": "20034",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:17784|2:1:171000|2:3:8550|2:5:8037",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:138"
+    },
+    {
+        "cid": "20035",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:18720|2:1:180000|2:3:9000|2:5:8460",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:138"
+    },
+    {
+        "cid": "20036",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:19656|2:1:189000|2:3:9450|2:5:8883",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:138"
+    },
+    {
+        "cid": "20037",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:20592|2:1:198000|2:3:9900|2:5:9306",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:174"
+    },
+    {
+        "cid": "20038",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:21528|2:1:207000|2:3:10350|2:5:9729",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:174"
+    },
+    {
+        "cid": "20039",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:22464|2:1:216000|2:3:10800|2:5:10152",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:180"
+    },
+    {
+        "cid": "20040",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:23400|2:1:225000|2:3:11250|2:5:10575",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:180"
+    },
+    {
+        "cid": "20041",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:24570|2:1:236250|2:3:11813|2:5:11104",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:180"
+    },
+    {
+        "cid": "20042",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:25740|2:1:247500|2:3:12375|2:5:11633",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:222"
+    },
+    {
+        "cid": "20043",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:26910|2:1:258750|2:3:12938|2:5:12161",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:222"
+    },
+    {
+        "cid": "20044",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:28080|2:1:270000|2:3:13500|2:5:12690",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:228"
+    },
+    {
+        "cid": "20045",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:29250|2:1:281250|2:3:14063|2:5:13219",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:228"
+    },
+    {
+        "cid": "20046",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:30420|2:1:292500|2:3:14625|2:5:13748",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:228"
+    },
+    {
+        "cid": "20047",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:31590|2:1:303750|2:3:15188|2:5:14276",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:276"
+    },
+    {
+        "cid": "20048",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:32760|2:1:315000|2:3:15750|2:5:14805",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:276"
+    },
+    {
+        "cid": "20049",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:33930|2:1:326250|2:3:16313|2:5:15334",
+        "arrtibute_change_rate": "",
+        "cost": "3000093:282"
+    },
+    {
+        "cid": "20050",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:35100|2:1:337500|2:3:16875|2:5:15863",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:282"
+    },
+    {
+        "cid": "20051",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:35880|2:1:345000|2:3:17250|2:5:16215",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:282"
+    },
+    {
+        "cid": "20052",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:36660|2:1:352500|2:3:17625|2:5:16568",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:336"
+    },
+    {
+        "cid": "20053",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:37440|2:1:360000|2:3:18000|2:5:16920",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:336"
+    },
+    {
+        "cid": "20054",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:38220|2:1:367500|2:3:18375|2:5:17273",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:342"
+    },
+    {
+        "cid": "20055",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:39000|2:1:375000|2:3:18750|2:5:17625",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:342"
+    },
+    {
+        "cid": "20056",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:39780|2:1:382500|2:3:19125|2:5:17978",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:342"
+    },
+    {
+        "cid": "20057",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:40560|2:1:390000|2:3:19500|2:5:18330",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:402"
+    },
+    {
+        "cid": "20058",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:41340|2:1:397500|2:3:19875|2:5:18683",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:402"
+    },
+    {
+        "cid": "20059",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:42120|2:1:405000|2:3:20250|2:5:19035",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000093:408"
+    },
+    {
+        "cid": "20060",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:42900|2:1:412500|2:3:20625|2:5:19388",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000093:408"
+    },
+    {
+        "cid": "20061",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:43680|2:1:420000|2:3:21000|2:5:19740",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000093:474"
+    },
+    {
+        "cid": "20062",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:44460|2:1:427500|2:3:21375|2:5:20093",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000093:474"
+    },
+    {
+        "cid": "20063",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:45240|2:1:435000|2:3:21750|2:5:20445",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000093:480"
+    },
+    {
+        "cid": "20064",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:46020|2:1:442500|2:3:22125|2:5:20798",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000093:480"
+    },
+    {
+        "cid": "20065",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:46800|2:1:450000|2:3:22500|2:5:21150",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000093:480"
+    },
+    {
+        "cid": "20066",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:47580|2:1:457500|2:3:22875|2:5:21503",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000093:552"
+    },
+    {
+        "cid": "20067",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:48360|2:1:465000|2:3:23250|2:5:21855",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000093:552"
+    },
+    {
+        "cid": "20068",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:49140|2:1:472500|2:3:23625|2:5:22208",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000093:558"
+    },
+    {
+        "cid": "20069",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:49920|2:1:480000|2:3:24000|2:5:22560",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000093:558"
+    },
+    {
+        "cid": "20070",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:50700|2:1:487500|2:3:24375|2:5:22913",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000093:558"
+    },
+    {
+        "cid": "20071",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:51480|2:1:495000|2:3:24750|2:5:23265",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000093:636"
+    },
+    {
+        "cid": "20072",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:52260|2:1:502500|2:3:25125|2:5:23618",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000093:636"
+    },
+    {
+        "cid": "20073",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:53040|2:1:510000|2:3:25500|2:5:23970",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000093:642"
+    },
+    {
+        "cid": "20074",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:53820|2:1:517500|2:3:25875|2:5:24323",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000093:642"
+    },
+    {
+        "cid": "20075",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:54600|2:1:525000|2:3:26250|2:5:24675",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000093:642"
+    },
+    {
+        "cid": "20076",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:55380|2:1:532500|2:3:26625|2:5:25028",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000093:726"
+    },
+    {
+        "cid": "20077",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:56160|2:1:540000|2:3:27000|2:5:25380",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000093:726"
+    },
+    {
+        "cid": "20078",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:56940|2:1:547500|2:3:27375|2:5:25733",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000093:732"
+    },
+    {
+        "cid": "20079",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:57720|2:1:555000|2:3:27750|2:5:26085",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000093:732"
+    },
+    {
+        "cid": "20080",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:58500|2:1:562500|2:3:28125|2:5:26438",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000093:732"
+    },
+    {
+        "cid": "20081",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:59280|2:1:570000|2:3:28500|2:5:26790",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000093:800"
+    },
+    {
+        "cid": "20082",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:60060|2:1:577500|2:3:28875|2:5:27143",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000093:950"
+    },
+    {
+        "cid": "20083",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:60840|2:1:585000|2:3:29250|2:5:27495",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000093:1100"
+    },
+    {
+        "cid": "20084",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:61620|2:1:592500|2:3:29625|2:5:27848",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000093:1250"
+    },
+    {
+        "cid": "20085",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:62400|2:1:600000|2:3:30000|2:5:28200",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000093:1400"
+    },
+    {
+        "cid": "20086",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:63180|2:1:607500|2:3:30375|2:5:28553",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000093:1550"
+    },
+    {
+        "cid": "20087",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:63960|2:1:615000|2:3:30750|2:5:28905",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000093:1700"
+    },
+    {
+        "cid": "20088",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:64740|2:1:622500|2:3:31125|2:5:29258",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000093:1850"
+    },
+    {
+        "cid": "20089",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:65520|2:1:630000|2:3:31500|2:5:29610",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000093:2000"
+    },
+    {
+        "cid": "20090",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:66300|2:1:637500|2:3:31875|2:5:29963",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000093:2150"
+    },
+    {
+        "cid": "20091",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:67470|2:1:648750|2:3:32438|2:5:30491",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000093:2300"
+    },
+    {
+        "cid": "20092",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:68640|2:1:660000|2:3:33000|2:5:31020",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000093:2450"
+    },
+    {
+        "cid": "20093",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:69810|2:1:671250|2:3:33563|2:5:31549",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000093:2600"
+    },
+    {
+        "cid": "20094",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:70980|2:1:682500|2:3:34125|2:5:32078",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000093:2750"
+    },
+    {
+        "cid": "20095",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:72150|2:1:693750|2:3:34688|2:5:32606",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000093:2900"
+    },
+    {
+        "cid": "20096",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:73320|2:1:705000|2:3:35250|2:5:33135",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000093:3050"
+    },
+    {
+        "cid": "20097",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:74490|2:1:716250|2:3:35813|2:5:33664",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000093:3200"
+    },
+    {
+        "cid": "20098",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:75660|2:1:727500|2:3:36375|2:5:34193",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000093:3350"
+    },
+    {
+        "cid": "20099",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:76830|2:1:738750|2:3:36938|2:5:34721",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000093:3500"
+    },
+    {
+        "cid": "20100",
+        "name": "我是战士天赋",
+        "attribute_change_value": "2:6:78000|2:1:750000|2:3:37500|2:5:35250",
+        "arrtibute_change_rate": "3:1:100|3:2:100",
+        "cost": "3000093:3650"
+    },
+    {
+        "cid": "30000",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:0|2:1:0|2:3:0|2:5:0",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:1152"
+    },
+    {
+        "cid": "30001",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:350|2:1:3750|2:3:188|2:5:176",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:6"
+    },
+    {
+        "cid": "30002",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:700|2:1:7500|2:3:375|2:5:353",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:6"
+    },
+    {
+        "cid": "30003",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:1050|2:1:11250|2:3:563|2:5:529",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:6"
+    },
+    {
+        "cid": "30004",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:1400|2:1:15000|2:3:750|2:5:705",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:6"
+    },
+    {
+        "cid": "30005",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:1750|2:1:18750|2:3:938|2:5:881",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:6"
+    },
+    {
+        "cid": "30006",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:2100|2:1:22500|2:3:1125|2:5:1058",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:6"
+    },
+    {
+        "cid": "30007",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:2450|2:1:26250|2:3:1313|2:5:1234",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:12"
+    },
+    {
+        "cid": "30008",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:2800|2:1:30000|2:3:1500|2:5:1410",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:12"
+    },
+    {
+        "cid": "30009",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:3150|2:1:33750|2:3:1688|2:5:1586",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:12"
+    },
+    {
+        "cid": "30010",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:3500|2:1:37500|2:3:1875|2:5:1763",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:12"
+    },
+    {
+        "cid": "30011",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:3850|2:1:41250|2:3:2063|2:5:1939",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:12"
+    },
+    {
+        "cid": "30012",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:4200|2:1:45000|2:3:2250|2:5:2115",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:24"
+    },
+    {
+        "cid": "30013",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:4550|2:1:48750|2:3:2438|2:5:2291",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:24"
+    },
+    {
+        "cid": "30014",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:4900|2:1:52500|2:3:2625|2:5:2468",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:24"
+    },
+    {
+        "cid": "30015",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:5250|2:1:56250|2:3:2813|2:5:2644",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:24"
+    },
+    {
+        "cid": "30016",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:5600|2:1:60000|2:3:3000|2:5:2820",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:24"
+    },
+    {
+        "cid": "30017",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:5950|2:1:63750|2:3:3188|2:5:2996",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:42"
+    },
+    {
+        "cid": "30018",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:6300|2:1:67500|2:3:3375|2:5:3173",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:42"
+    },
+    {
+        "cid": "30019",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:6650|2:1:71250|2:3:3563|2:5:3349",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:42"
+    },
+    {
+        "cid": "30020",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:7000|2:1:75000|2:3:3750|2:5:3525",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:42"
+    },
+    {
+        "cid": "30021",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:7560|2:1:81000|2:3:4050|2:5:3807",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:42"
+    },
+    {
+        "cid": "30022",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:8120|2:1:87000|2:3:4350|2:5:4089",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:66"
+    },
+    {
+        "cid": "30023",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:8680|2:1:93000|2:3:4650|2:5:4371",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:66"
+    },
+    {
+        "cid": "30024",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:9240|2:1:99000|2:3:4950|2:5:4653",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:66"
+    },
+    {
+        "cid": "30025",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:9800|2:1:105000|2:3:5250|2:5:4935",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:66"
+    },
+    {
+        "cid": "30026",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:10360|2:1:111000|2:3:5550|2:5:5217",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:66"
+    },
+    {
+        "cid": "30027",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:10920|2:1:117000|2:3:5850|2:5:5499",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:96"
+    },
+    {
+        "cid": "30028",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:11480|2:1:123000|2:3:6150|2:5:5781",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:96"
+    },
+    {
+        "cid": "30029",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:12040|2:1:129000|2:3:6450|2:5:6063",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:102"
+    },
+    {
+        "cid": "30030",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:12600|2:1:135000|2:3:6750|2:5:6345",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:102"
+    },
+    {
+        "cid": "30031",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:13440|2:1:144000|2:3:7200|2:5:6768",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:102"
+    },
+    {
+        "cid": "30032",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:14280|2:1:153000|2:3:7650|2:5:7191",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:132"
+    },
+    {
+        "cid": "30033",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:15120|2:1:162000|2:3:8100|2:5:7614",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:132"
+    },
+    {
+        "cid": "30034",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:15960|2:1:171000|2:3:8550|2:5:8037",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:138"
+    },
+    {
+        "cid": "30035",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:16800|2:1:180000|2:3:9000|2:5:8460",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:138"
+    },
+    {
+        "cid": "30036",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:17640|2:1:189000|2:3:9450|2:5:8883",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:138"
+    },
+    {
+        "cid": "30037",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:18480|2:1:198000|2:3:9900|2:5:9306",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:174"
+    },
+    {
+        "cid": "30038",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:19320|2:1:207000|2:3:10350|2:5:9729",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:174"
+    },
+    {
+        "cid": "30039",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:20160|2:1:216000|2:3:10800|2:5:10152",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:180"
+    },
+    {
+        "cid": "30040",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:21000|2:1:225000|2:3:11250|2:5:10575",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:180"
+    },
+    {
+        "cid": "30041",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:22050|2:1:236250|2:3:11813|2:5:11104",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:180"
+    },
+    {
+        "cid": "30042",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:23100|2:1:247500|2:3:12375|2:5:11633",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:222"
+    },
+    {
+        "cid": "30043",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:24150|2:1:258750|2:3:12938|2:5:12161",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:222"
+    },
+    {
+        "cid": "30044",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:25200|2:1:270000|2:3:13500|2:5:12690",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:228"
+    },
+    {
+        "cid": "30045",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:26250|2:1:281250|2:3:14063|2:5:13219",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:228"
+    },
+    {
+        "cid": "30046",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:27300|2:1:292500|2:3:14625|2:5:13748",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:228"
+    },
+    {
+        "cid": "30047",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:28350|2:1:303750|2:3:15188|2:5:14276",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:276"
+    },
+    {
+        "cid": "30048",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:29400|2:1:315000|2:3:15750|2:5:14805",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:276"
+    },
+    {
+        "cid": "30049",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:30450|2:1:326250|2:3:16313|2:5:15334",
+        "arrtibute_change_rate": "",
+        "cost": "3000095:282"
+    },
+    {
+        "cid": "30050",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:31500|2:1:337500|2:3:16875|2:5:15863",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:282"
+    },
+    {
+        "cid": "30051",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:32200|2:1:345000|2:3:17250|2:5:16215",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:282"
+    },
+    {
+        "cid": "30052",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:32900|2:1:352500|2:3:17625|2:5:16568",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:336"
+    },
+    {
+        "cid": "30053",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:33600|2:1:360000|2:3:18000|2:5:16920",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:336"
+    },
+    {
+        "cid": "30054",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:34300|2:1:367500|2:3:18375|2:5:17273",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:342"
+    },
+    {
+        "cid": "30055",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:35000|2:1:375000|2:3:18750|2:5:17625",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:342"
+    },
+    {
+        "cid": "30056",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:35700|2:1:382500|2:3:19125|2:5:17978",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:342"
+    },
+    {
+        "cid": "30057",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:36400|2:1:390000|2:3:19500|2:5:18330",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:402"
+    },
+    {
+        "cid": "30058",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:37100|2:1:397500|2:3:19875|2:5:18683",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:402"
+    },
+    {
+        "cid": "30059",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:37800|2:1:405000|2:3:20250|2:5:19035",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000095:408"
+    },
+    {
+        "cid": "30060",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:38500|2:1:412500|2:3:20625|2:5:19388",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000095:408"
+    },
+    {
+        "cid": "30061",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:39200|2:1:420000|2:3:21000|2:5:19740",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000095:474"
+    },
+    {
+        "cid": "30062",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:39900|2:1:427500|2:3:21375|2:5:20093",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000095:474"
+    },
+    {
+        "cid": "30063",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:40600|2:1:435000|2:3:21750|2:5:20445",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000095:480"
+    },
+    {
+        "cid": "30064",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:41300|2:1:442500|2:3:22125|2:5:20798",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000095:480"
+    },
+    {
+        "cid": "30065",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:42000|2:1:450000|2:3:22500|2:5:21150",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000095:480"
+    },
+    {
+        "cid": "30066",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:42700|2:1:457500|2:3:22875|2:5:21503",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000095:552"
+    },
+    {
+        "cid": "30067",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:43400|2:1:465000|2:3:23250|2:5:21855",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000095:552"
+    },
+    {
+        "cid": "30068",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:44100|2:1:472500|2:3:23625|2:5:22208",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000095:558"
+    },
+    {
+        "cid": "30069",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:44800|2:1:480000|2:3:24000|2:5:22560",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000095:558"
+    },
+    {
+        "cid": "30070",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:45500|2:1:487500|2:3:24375|2:5:22913",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000095:558"
+    },
+    {
+        "cid": "30071",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:46200|2:1:495000|2:3:24750|2:5:23265",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000095:636"
+    },
+    {
+        "cid": "30072",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:46900|2:1:502500|2:3:25125|2:5:23618",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000095:636"
+    },
+    {
+        "cid": "30073",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:47600|2:1:510000|2:3:25500|2:5:23970",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000095:642"
+    },
+    {
+        "cid": "30074",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:48300|2:1:517500|2:3:25875|2:5:24323",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000095:642"
+    },
+    {
+        "cid": "30075",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:49000|2:1:525000|2:3:26250|2:5:24675",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000095:642"
+    },
+    {
+        "cid": "30076",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:49700|2:1:532500|2:3:26625|2:5:25028",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000095:726"
+    },
+    {
+        "cid": "30077",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:50400|2:1:540000|2:3:27000|2:5:25380",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000095:726"
+    },
+    {
+        "cid": "30078",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:51100|2:1:547500|2:3:27375|2:5:25733",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000095:732"
+    },
+    {
+        "cid": "30079",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:51800|2:1:555000|2:3:27750|2:5:26085",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000095:732"
+    },
+    {
+        "cid": "30080",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:52500|2:1:562500|2:3:28125|2:5:26438",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000095:732"
+    },
+    {
+        "cid": "30081",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:53200|2:1:570000|2:3:28500|2:5:26790",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000095:800"
+    },
+    {
+        "cid": "30082",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:53900|2:1:577500|2:3:28875|2:5:27143",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000095:950"
+    },
+    {
+        "cid": "30083",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:54600|2:1:585000|2:3:29250|2:5:27495",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000095:1100"
+    },
+    {
+        "cid": "30084",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:55300|2:1:592500|2:3:29625|2:5:27848",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000095:1250"
+    },
+    {
+        "cid": "30085",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:56000|2:1:600000|2:3:30000|2:5:28200",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000095:1400"
+    },
+    {
+        "cid": "30086",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:56700|2:1:607500|2:3:30375|2:5:28553",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000095:1550"
+    },
+    {
+        "cid": "30087",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:57400|2:1:615000|2:3:30750|2:5:28905",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000095:1700"
+    },
+    {
+        "cid": "30088",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:58100|2:1:622500|2:3:31125|2:5:29258",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000095:1850"
+    },
+    {
+        "cid": "30089",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:58800|2:1:630000|2:3:31500|2:5:29610",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000095:2000"
+    },
+    {
+        "cid": "30090",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:59500|2:1:637500|2:3:31875|2:5:29963",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000095:2150"
+    },
+    {
+        "cid": "30091",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:60550|2:1:648750|2:3:32438|2:5:30491",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000095:2300"
+    },
+    {
+        "cid": "30092",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:61600|2:1:660000|2:3:33000|2:5:31020",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000095:2450"
+    },
+    {
+        "cid": "30093",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:62650|2:1:671250|2:3:33563|2:5:31549",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000095:2600"
+    },
+    {
+        "cid": "30094",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:63700|2:1:682500|2:3:34125|2:5:32078",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000095:2750"
+    },
+    {
+        "cid": "30095",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:64750|2:1:693750|2:3:34688|2:5:32606",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000095:2900"
+    },
+    {
+        "cid": "30096",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:65800|2:1:705000|2:3:35250|2:5:33135",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000095:3050"
+    },
+    {
+        "cid": "30097",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:66850|2:1:716250|2:3:35813|2:5:33664",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000095:3200"
+    },
+    {
+        "cid": "30098",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:67900|2:1:727500|2:3:36375|2:5:34193",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000095:3350"
+    },
+    {
+        "cid": "30099",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:68950|2:1:738750|2:3:36938|2:5:34721",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000095:3500"
+    },
+    {
+        "cid": "30100",
+        "name": "我是射手天赋",
+        "attribute_change_value": "2:10:70000|2:1:750000|2:3:37500|2:5:35250",
+        "arrtibute_change_rate": "3:1:100|3:2:100",
+        "cost": "3000095:3650"
+    },
+    {
+        "cid": "40000",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:0|2:1:0|2:3:0|2:5:0",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:1152"
+    },
+    {
+        "cid": "40001",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:390|2:1:3750|2:3:188|2:5:176",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:6"
+    },
+    {
+        "cid": "40002",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:780|2:1:7500|2:3:375|2:5:353",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:6"
+    },
+    {
+        "cid": "40003",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:1170|2:1:11250|2:3:563|2:5:529",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:6"
+    },
+    {
+        "cid": "40004",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:1560|2:1:15000|2:3:750|2:5:705",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:6"
+    },
+    {
+        "cid": "40005",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:1950|2:1:18750|2:3:938|2:5:881",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:6"
+    },
+    {
+        "cid": "40006",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:2340|2:1:22500|2:3:1125|2:5:1058",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:6"
+    },
+    {
+        "cid": "40007",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:2730|2:1:26250|2:3:1313|2:5:1234",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:12"
+    },
+    {
+        "cid": "40008",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:3120|2:1:30000|2:3:1500|2:5:1410",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:12"
+    },
+    {
+        "cid": "40009",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:3510|2:1:33750|2:3:1688|2:5:1586",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:12"
+    },
+    {
+        "cid": "40010",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:3900|2:1:37500|2:3:1875|2:5:1763",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:12"
+    },
+    {
+        "cid": "40011",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:4290|2:1:41250|2:3:2063|2:5:1939",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:12"
+    },
+    {
+        "cid": "40012",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:4680|2:1:45000|2:3:2250|2:5:2115",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:24"
+    },
+    {
+        "cid": "40013",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:5070|2:1:48750|2:3:2438|2:5:2291",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:24"
+    },
+    {
+        "cid": "40014",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:5460|2:1:52500|2:3:2625|2:5:2468",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:24"
+    },
+    {
+        "cid": "40015",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:5850|2:1:56250|2:3:2813|2:5:2644",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:24"
+    },
+    {
+        "cid": "40016",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:6240|2:1:60000|2:3:3000|2:5:2820",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:24"
+    },
+    {
+        "cid": "40017",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:6630|2:1:63750|2:3:3188|2:5:2996",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:42"
+    },
+    {
+        "cid": "40018",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:7020|2:1:67500|2:3:3375|2:5:3173",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:42"
+    },
+    {
+        "cid": "40019",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:7410|2:1:71250|2:3:3563|2:5:3349",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:42"
+    },
+    {
+        "cid": "40020",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:7800|2:1:75000|2:3:3750|2:5:3525",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:42"
+    },
+    {
+        "cid": "40021",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:8424|2:1:81000|2:3:4050|2:5:3807",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:42"
+    },
+    {
+        "cid": "40022",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:9048|2:1:87000|2:3:4350|2:5:4089",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:66"
+    },
+    {
+        "cid": "40023",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:9672|2:1:93000|2:3:4650|2:5:4371",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:66"
+    },
+    {
+        "cid": "40024",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:10296|2:1:99000|2:3:4950|2:5:4653",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:66"
+    },
+    {
+        "cid": "40025",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:10920|2:1:105000|2:3:5250|2:5:4935",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:66"
+    },
+    {
+        "cid": "40026",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:11544|2:1:111000|2:3:5550|2:5:5217",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:66"
+    },
+    {
+        "cid": "40027",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:12168|2:1:117000|2:3:5850|2:5:5499",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:96"
+    },
+    {
+        "cid": "40028",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:12792|2:1:123000|2:3:6150|2:5:5781",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:96"
+    },
+    {
+        "cid": "40029",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:13416|2:1:129000|2:3:6450|2:5:6063",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:102"
+    },
+    {
+        "cid": "40030",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:14040|2:1:135000|2:3:6750|2:5:6345",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:102"
+    },
+    {
+        "cid": "40031",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:14976|2:1:144000|2:3:7200|2:5:6768",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:102"
+    },
+    {
+        "cid": "40032",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:15912|2:1:153000|2:3:7650|2:5:7191",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:132"
+    },
+    {
+        "cid": "40033",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:16848|2:1:162000|2:3:8100|2:5:7614",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:132"
+    },
+    {
+        "cid": "40034",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:17784|2:1:171000|2:3:8550|2:5:8037",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:138"
+    },
+    {
+        "cid": "40035",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:18720|2:1:180000|2:3:9000|2:5:8460",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:138"
+    },
+    {
+        "cid": "40036",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:19656|2:1:189000|2:3:9450|2:5:8883",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:138"
+    },
+    {
+        "cid": "40037",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:20592|2:1:198000|2:3:9900|2:5:9306",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:174"
+    },
+    {
+        "cid": "40038",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:21528|2:1:207000|2:3:10350|2:5:9729",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:174"
+    },
+    {
+        "cid": "40039",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:22464|2:1:216000|2:3:10800|2:5:10152",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:180"
+    },
+    {
+        "cid": "40040",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:23400|2:1:225000|2:3:11250|2:5:10575",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:180"
+    },
+    {
+        "cid": "40041",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:24570|2:1:236250|2:3:11813|2:5:11104",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:180"
+    },
+    {
+        "cid": "40042",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:25740|2:1:247500|2:3:12375|2:5:11633",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:222"
+    },
+    {
+        "cid": "40043",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:26910|2:1:258750|2:3:12938|2:5:12161",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:222"
+    },
+    {
+        "cid": "40044",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:28080|2:1:270000|2:3:13500|2:5:12690",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:228"
+    },
+    {
+        "cid": "40045",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:29250|2:1:281250|2:3:14063|2:5:13219",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:228"
+    },
+    {
+        "cid": "40046",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:30420|2:1:292500|2:3:14625|2:5:13748",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:228"
+    },
+    {
+        "cid": "40047",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:31590|2:1:303750|2:3:15188|2:5:14276",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:276"
+    },
+    {
+        "cid": "40048",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:32760|2:1:315000|2:3:15750|2:5:14805",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:276"
+    },
+    {
+        "cid": "40049",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:33930|2:1:326250|2:3:16313|2:5:15334",
+        "arrtibute_change_rate": "",
+        "cost": "3000094:282"
+    },
+    {
+        "cid": "40050",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:35100|2:1:337500|2:3:16875|2:5:15863",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:282"
+    },
+    {
+        "cid": "40051",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:35880|2:1:345000|2:3:17250|2:5:16215",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:282"
+    },
+    {
+        "cid": "40052",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:36660|2:1:352500|2:3:17625|2:5:16568",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:336"
+    },
+    {
+        "cid": "40053",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:37440|2:1:360000|2:3:18000|2:5:16920",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:336"
+    },
+    {
+        "cid": "40054",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:38220|2:1:367500|2:3:18375|2:5:17273",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:342"
+    },
+    {
+        "cid": "40055",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:39000|2:1:375000|2:3:18750|2:5:17625",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:342"
+    },
+    {
+        "cid": "40056",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:39780|2:1:382500|2:3:19125|2:5:17978",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:342"
+    },
+    {
+        "cid": "40057",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:40560|2:1:390000|2:3:19500|2:5:18330",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:402"
+    },
+    {
+        "cid": "40058",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:41340|2:1:397500|2:3:19875|2:5:18683",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:402"
+    },
+    {
+        "cid": "40059",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:42120|2:1:405000|2:3:20250|2:5:19035",
+        "arrtibute_change_rate": "3:1:10|3:2:10",
+        "cost": "3000094:408"
+    },
+    {
+        "cid": "40060",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:42900|2:1:412500|2:3:20625|2:5:19388",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000094:408"
+    },
+    {
+        "cid": "40061",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:43680|2:1:420000|2:3:21000|2:5:19740",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000094:474"
+    },
+    {
+        "cid": "40062",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:44460|2:1:427500|2:3:21375|2:5:20093",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000094:474"
+    },
+    {
+        "cid": "40063",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:45240|2:1:435000|2:3:21750|2:5:20445",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000094:480"
+    },
+    {
+        "cid": "40064",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:46020|2:1:442500|2:3:22125|2:5:20798",
+        "arrtibute_change_rate": "3:1:20|3:2:20",
+        "cost": "3000094:480"
+    },
+    {
+        "cid": "40065",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:46800|2:1:450000|2:3:22500|2:5:21150",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000094:480"
+    },
+    {
+        "cid": "40066",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:47580|2:1:457500|2:3:22875|2:5:21503",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000094:552"
+    },
+    {
+        "cid": "40067",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:48360|2:1:465000|2:3:23250|2:5:21855",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000094:552"
+    },
+    {
+        "cid": "40068",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:49140|2:1:472500|2:3:23625|2:5:22208",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000094:558"
+    },
+    {
+        "cid": "40069",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:49920|2:1:480000|2:3:24000|2:5:22560",
+        "arrtibute_change_rate": "3:1:30|3:2:30",
+        "cost": "3000094:558"
+    },
+    {
+        "cid": "40070",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:50700|2:1:487500|2:3:24375|2:5:22913",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000094:558"
+    },
+    {
+        "cid": "40071",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:51480|2:1:495000|2:3:24750|2:5:23265",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000094:636"
+    },
+    {
+        "cid": "40072",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:52260|2:1:502500|2:3:25125|2:5:23618",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000094:636"
+    },
+    {
+        "cid": "40073",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:53040|2:1:510000|2:3:25500|2:5:23970",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000094:642"
+    },
+    {
+        "cid": "40074",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:53820|2:1:517500|2:3:25875|2:5:24323",
+        "arrtibute_change_rate": "3:1:40|3:2:40",
+        "cost": "3000094:642"
+    },
+    {
+        "cid": "40075",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:54600|2:1:525000|2:3:26250|2:5:24675",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000094:642"
+    },
+    {
+        "cid": "40076",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:55380|2:1:532500|2:3:26625|2:5:25028",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000094:726"
+    },
+    {
+        "cid": "40077",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:56160|2:1:540000|2:3:27000|2:5:25380",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000094:726"
+    },
+    {
+        "cid": "40078",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:56940|2:1:547500|2:3:27375|2:5:25733",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000094:732"
+    },
+    {
+        "cid": "40079",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:57720|2:1:555000|2:3:27750|2:5:26085",
+        "arrtibute_change_rate": "3:1:50|3:2:50",
+        "cost": "3000094:732"
+    },
+    {
+        "cid": "40080",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:58500|2:1:562500|2:3:28125|2:5:26438",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000094:732"
+    },
+    {
+        "cid": "40081",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:59280|2:1:570000|2:3:28500|2:5:26790",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000094:800"
+    },
+    {
+        "cid": "40082",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:60060|2:1:577500|2:3:28875|2:5:27143",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000094:950"
+    },
+    {
+        "cid": "40083",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:60840|2:1:585000|2:3:29250|2:5:27495",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000094:1100"
+    },
+    {
+        "cid": "40084",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:61620|2:1:592500|2:3:29625|2:5:27848",
+        "arrtibute_change_rate": "3:1:60|3:2:60",
+        "cost": "3000094:1250"
+    },
+    {
+        "cid": "40085",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:62400|2:1:600000|2:3:30000|2:5:28200",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000094:1400"
+    },
+    {
+        "cid": "40086",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:63180|2:1:607500|2:3:30375|2:5:28553",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000094:1550"
+    },
+    {
+        "cid": "40087",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:63960|2:1:615000|2:3:30750|2:5:28905",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000094:1700"
+    },
+    {
+        "cid": "40088",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:64740|2:1:622500|2:3:31125|2:5:29258",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000094:1850"
+    },
+    {
+        "cid": "40089",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:65520|2:1:630000|2:3:31500|2:5:29610",
+        "arrtibute_change_rate": "3:1:70|3:2:70",
+        "cost": "3000094:2000"
+    },
+    {
+        "cid": "40090",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:66300|2:1:637500|2:3:31875|2:5:29963",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000094:2150"
+    },
+    {
+        "cid": "40091",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:67470|2:1:648750|2:3:32438|2:5:30491",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000094:2300"
+    },
+    {
+        "cid": "40092",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:68640|2:1:660000|2:3:33000|2:5:31020",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000094:2450"
+    },
+    {
+        "cid": "40093",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:69810|2:1:671250|2:3:33563|2:5:31549",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000094:2600"
+    },
+    {
+        "cid": "40094",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:70980|2:1:682500|2:3:34125|2:5:32078",
+        "arrtibute_change_rate": "3:1:80|3:2:80",
+        "cost": "3000094:2750"
+    },
+    {
+        "cid": "40095",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:72150|2:1:693750|2:3:34688|2:5:32606",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000094:2900"
+    },
+    {
+        "cid": "40096",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:73320|2:1:705000|2:3:35250|2:5:33135",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000094:3050"
+    },
+    {
+        "cid": "40097",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:74490|2:1:716250|2:3:35813|2:5:33664",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000094:3200"
+    },
+    {
+        "cid": "40098",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:75660|2:1:727500|2:3:36375|2:5:34193",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000094:3350"
+    },
+    {
+        "cid": "40099",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:76830|2:1:738750|2:3:36938|2:5:34721",
+        "arrtibute_change_rate": "3:1:90|3:2:90",
+        "cost": "3000094:3500"
+    },
+    {
+        "cid": "40100",
+        "name": "我是法师天赋",
+        "attribute_change_value": "2:7:78000|2:1:750000|2:3:37500|2:5:35250",
+        "arrtibute_change_rate": "3:1:100|3:2:100",
+        "cost": "3000094:3650"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id": "102039300",
+        "ruchang_anim": "HLjt",
+        "ruchang_effect": "HLruchang_Effect",
+        "anim_time": "11.3"
+    },
+    {
+        "id": "102047301",
+        "ruchang_anim": "QBTruchang",
+        "ruchang_effect": "QBTruchang_Effect",
+        "anim_time": "8.65"
+    },
+    {
+        "id": "102050300",
+        "ruchang_anim": "KESruchang",
+        "ruchang_effect": "KESTruchang_Effect",
+        "anim_time": "9.7"
+    },
+    {
+        "id": "102037300",
+        "ruchang_anim": "LAruchng",
+        "ruchang_effect": "LAruchang_Effect",
+        "anim_time": "10.5"
+    },
+    {
+        "id": "102049300",
+        "ruchang_anim": "YKLSruchang",
+        "ruchang_effect": "YKLSruchang_Effect",
+        "anim_time": "10.5"
+    },
+    {
+        "id": "102053300",
+        "ruchang_anim": "BMHruchang",
+        "ruchang_effect": "BMHTruchang_Effect",
+        "anim_time": "10.5"
+    },
+    {
+        "id": "102051300",
+        "ruchang_anim": "HMDEruchang",
+        "ruchang_effect": "HMDEruchang_Effect",
+        "anim_time": "12.0"
+    },
+    {
+        "id": "102057300",
+        "ruchang_anim": "LLruchang",
+        "ruchang_effect": "LLruchang_Effect",
+        "anim_time": "10.0"
+    },
+    {
+        "id": "102056300",
+        "ruchang_anim": "LHruchang",
+        "ruchang_effect": "LHruchang_Effect",
+        "anim_time": "11.2"
+    },
+    {
+        "id": "101003888",
+        "ruchang_anim": "USERruchang",
+        "ruchang_effect": "USERruchang_Effect",
+        "anim_time": "11.6"
+    },
+    {
+        "id": "102055300",
+        "ruchang_anim": "LBruchang",
+        "ruchang_effect": "LBruchang_Effect",
+        "anim_time": "11.6"
+    },
+    {
+        "id": "102081300",
+        "ruchang_anim": "HLSruchang",
+        "ruchang_effect": "HLSruchang_Effect",
+        "anim_time": "10.2"
+    },
+    {
+        "id": "102063300",
+        "ruchang_anim": "SQEruchang",
+        "ruchang_effect": "SQEruchang_Effect",
+        "anim_time": "9.4"
+    },
+    {
+        "id": "102067300",
+        "ruchang_anim": "CEruchang",
+        "ruchang_effect": "CEruchang_Effect",
+        "anim_time": "10.0"
+    },
+    {
+        "id": "102065300",
+        "ruchang_anim": "YWJruchang",
+        "ruchang_effect": "YWJruchang_Effect",
+        "anim_time": "12.5"
+    },
+    {
+        "id": "102060300",
+        "ruchang_anim": "FLYruchang",
+        "ruchang_effect": "FLYruchang_Effect",
+        "anim_time": "10.5"
+    }
+]

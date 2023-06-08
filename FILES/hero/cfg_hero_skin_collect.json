@@ -1,0 +1,65 @@
+[
+    {
+        "collect_id": "104",
+        "name": "神圣殿堂",
+        "is_open": "1",
+        "is_left": "0",
+        "icon": "btn_Shengzhuanghunli.png",
+        "collect_progress": "5|10|15",
+        "collect_reward": "1:2:300#1:2:500#13:6001|1:2:1000"
+    },
+    {
+        "collect_id": "101",
+        "name": "泳池派对",
+        "is_open": "1",
+        "is_left": "1",
+        "icon": "btn_Yongchipaidui.png",
+        "collect_progress": "10|20|30",
+        "collect_reward": "1:2:300#1:2:500#13:6002|1:2:1000"
+    },
+    {
+        "collect_id": "102",
+        "name": "神性觉醒",
+        "is_open": "1",
+        "is_left": "0",
+        "icon": "btn_Shenxingjuexing.png",
+        "collect_progress": "5|10|15",
+        "collect_reward": "1:2:300#1:2:500#13:6003|1:2:1000"
+    },
+    {
+        "collect_id": "105",
+        "name": "伴生之初",
+        "is_open": "1",
+        "is_left": "1",
+        "icon": "btn_Banshengzhichu.png",
+        "collect_progress": "30|50|80",
+        "collect_reward": "1:2:300#1:2:500#1:2:1000"
+    },
+    {
+        "collect_id": "103",
+        "name": "焕然一新",
+        "is_open": "1",
+        "is_left": "0",
+        "icon": "btn_Huanranyixin.png",
+        "collect_progress": "10|25|40",
+        "collect_reward": "1:2:300#1:2:500#1:2:1000"
+    },
+    {
+        "collect_id": "106",
+        "name": "风和日丽",
+        "is_open": "0",
+        "is_left": "1",
+        "icon": "btn_Fengherili.png",
+        "collect_progress": "3|7|10",
+        "collect_reward": "1:2:300#1:2:500#1:2:1000"
+    },
+    {
+        "collect_id": "107",
+        "name": "偶像天使",
+        "is_open": "0",
+        "is_left": "1",
+        "icon": "btn_Ouxianggeshou.png",
+        "collect_progress": "5|10|15",
+        "collect_reward": "1:2:300#1:2:500#1:2:1000"
+    }
+]

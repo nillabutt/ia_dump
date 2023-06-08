@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "hero_cid": "2049",
+        "signal": "1",
+        "other_hero_cids": "2050|2051|2053|2055",
+        "light_level": "10",
+        "skill_id": "66662101"
+    },
+    {
+        "id": "2",
+        "hero_cid": "2049",
+        "signal": "1",
+        "other_hero_cids": "2050|2051|2053|2055",
+        "light_level": "20",
+        "skill_id": "66662201"
+    },
+    {
+        "id": "3",
+        "hero_cid": "2049",
+        "signal": "1",
+        "other_hero_cids": "2050|2051|2053|2055",
+        "light_level": "30",
+        "skill_id": "66662301"
+    },
+    {
+        "id": "4",
+        "hero_cid": "2050",
+        "signal": "1",
+        "other_hero_cids": "2049|2051|2053|2055",
+        "light_level": "10",
+        "skill_id": "66662101"
+    },
+    {
+        "id": "5",
+        "hero_cid": "2050",
+        "signal": "1",
+        "other_hero_cids": "2049|2051|2053|2055",
+        "light_level": "20",
+        "skill_id": "66662201"
+    },
+    {
+        "id": "6",
+        "hero_cid": "2050",
+        "signal": "1",
+        "other_hero_cids": "2049|2051|2053|2055",
+        "light_level": "30",
+        "skill_id": "66662301"
+    },
+    {
+        "id": "7",
+        "hero_cid": "2051",
+        "signal": "1",
+        "other_hero_cids": "2049|2050|2053|2055",
+        "light_level": "10",
+        "skill_id": "66662101"
+    },
+    {
+        "id": "8",
+        "hero_cid": "2051",
+        "signal": "1",
+        "other_hero_cids": "2049|2050|2053|2055",
+        "light_level": "20",
+        "skill_id": "66662201"
+    },
+    {
+        "id": "9",
+        "hero_cid": "2051",
+        "signal": "1",
+        "other_hero_cids": "2049|2050|2053|2055",
+        "light_level": "30",
+        "skill_id": "66662301"
+    },
+    {
+        "id": "10",
+        "hero_cid": "2053",
+        "signal": "3",
+        "other_hero_cids": "2049|2050|2051|2055",
+        "light_level": "10",
+        "skill_id": "66662101"
+    },
+    {
+        "id": "11",
+        "hero_cid": "2053",
+        "signal": "3",
+        "other_hero_cids": "2049|2050|2051|2055",
+        "light_level": "20",
+        "skill_id": "66662201"
+    },
+    {
+        "id": "12",
+        "hero_cid": "2053",
+        "signal": "3",
+        "other_hero_cids": "2049|2050|2051|2055",
+        "light_level": "30",
+        "skill_id": "66662301"
+    },
+    {
+        "id": "13",
+        "hero_cid": "2055",
+        "signal": "2",
+        "other_hero_cids": "2049|2050|2051|2053",
+        "light_level": "10",
+        "skill_id": "66662101"
+    },
+    {
+        "id": "14",
+        "hero_cid": "2055",
+        "signal": "2",
+        "other_hero_cids": "2049|2050|2051|2053",
+        "light_level": "20",
+        "skill_id": "66662201"
+    },
+    {
+        "id": "15",
+        "hero_cid": "2055",
+        "signal": "2",
+        "other_hero_cids": "2049|2050|2051|2053",
+        "light_level": "30",
+        "skill_id": "66662301"
+    }
+]

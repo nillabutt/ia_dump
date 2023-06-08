@@ -1,0 +1,450 @@
+[
+    {
+        "dungeon_map_id": "1",
+        "name": "首尔",
+        "bg_path": "00078_bg_memory_bg_memory.png",
+        "switch_opr_guide_id": "0",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "2",
+        "name": "东京",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200101",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "3",
+        "name": "雅典",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200102",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "4",
+        "name": "斯巴达",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200103",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "5",
+        "name": "大金字塔",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200104",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "6",
+        "name": "尼罗河",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200105",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "7",
+        "name": "地狱",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200106",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "8",
+        "name": "血城堡",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200107",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "9",
+        "name": "阿斯加德",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200108",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "10",
+        "name": "炼狱",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200109",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "11",
+        "name": "女娲寝宫",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200110",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "12",
+        "name": "昆仑山",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200111",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "13",
+        "name": "殒神峡谷",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200112",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "14",
+        "name": "神峡谷",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200113",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "15",
+        "name": "深渊",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200114",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "16",
+        "name": "黑暗之海",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200115",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "17",
+        "name": "米兰",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200116",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "18",
+        "name": "罗马",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200117",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "19",
+        "name": "西西里",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200118",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "20",
+        "name": "拿波里",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200119",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "21",
+        "name": "神域",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200120",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "22",
+        "name": "爱琴海",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200121",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "23",
+        "name": "凯法利尼亚",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200122",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "24",
+        "name": "不眠火山",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200123",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "25",
+        "name": "天空城",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200124",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "26",
+        "name": "精灵峡谷",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200125",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "27",
+        "name": "雪域",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200126",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "28",
+        "name": "神庙",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200127",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "29",
+        "name": "密西西比",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200128",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "30",
+        "name": "亚拉巴马",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200129",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "31",
+        "name": "百慕大",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200130",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "32",
+        "name": "海底",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200131",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "33",
+        "name": "古巴比伦",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200132",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "34",
+        "name": "里海",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200133",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "35",
+        "name": "圣地",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200134",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "36",
+        "name": "神寺",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200135",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "37",
+        "name": "乞力马扎罗山",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200136",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "38",
+        "name": "东非大裂谷",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200137",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "39",
+        "name": "红海",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200138",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "40",
+        "name": "撒哈拉沙漠",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200139",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "41",
+        "name": "新西伯利亚",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200140",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "42",
+        "name": "圣彼得堡",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200141",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "43",
+        "name": "贝加尔湖",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200142",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "44",
+        "name": "叶卡捷琳堡",
+        "bg_path": "00077_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200143",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "45",
+        "name": "楚科奇",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200144",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "46",
+        "name": "威尔士",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200145",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "47",
+        "name": "特勒",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200146",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "48",
+        "name": "诺姆",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200147",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "49",
+        "name": "萨文格",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200148",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "50",
+        "name": "斯特宾斯",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200149",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "51",
+        "name": "埃莫纳克",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200150",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "52",
+        "name": "胡珀贝",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200151",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "53",
+        "name": "休斯顿",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200152",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "54",
+        "name": "迈阿密",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200153",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "55",
+        "name": "墨西哥城",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200154",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "56",
+        "name": "图卢姆",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200155",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "57",
+        "name": "哈瓦那",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200156",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "58",
+        "name": "马那瓜",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200157",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "59",
+        "name": "波特兰",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200158",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "60",
+        "name": "太子港",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200159",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "61",
+        "name": "里斯本",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200160",
+        "need_swipe_guide": "1"
+    },
+    {
+        "dungeon_map_id": "62",
+        "name": "马德里",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200161",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "63",
+        "name": "拉巴特",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200162",
+        "need_swipe_guide": "0"
+    },
+    {
+        "dungeon_map_id": "64",
+        "name": "阿尔及尔",
+        "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
+        "switch_opr_guide_id": "200163",
+        "need_swipe_guide": "0"
+    }
+]

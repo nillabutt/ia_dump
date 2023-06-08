@@ -1,0 +1,272 @@
+[
+    {
+        "treasure_id": "1001",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "卢恩符石碎片",
+        "icon": "1001.png",
+        "description": "集齐10个卢恩符石碎片可以合成卢恩符石"
+    },
+    {
+        "treasure_id": "1002",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "夏日缤纷碎片",
+        "icon": "1002.png",
+        "description": "集齐10个夏日缤纷碎片可以合成夏日缤纷"
+    },
+    {
+        "treasure_id": "1003",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "战斗天使碎片",
+        "icon": "1003.png",
+        "description": "集齐10个战斗天使碎片可以合成战斗天使"
+    },
+    {
+        "treasure_id": "1004",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "梦境时刻碎片",
+        "icon": "1004.png",
+        "description": "集齐10个梦境时刻碎片可以合成梦境时刻"
+    },
+    {
+        "treasure_id": "1005",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "生命钥匙碎片",
+        "icon": "1005.png",
+        "description": "集齐10个生命钥匙碎片可以合成生命钥匙"
+    },
+    {
+        "treasure_id": "1006",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "神圣金字塔碎片",
+        "icon": "1006.png",
+        "description": "集齐10个神圣金字塔碎片可以合成神圣金字塔"
+    },
+    {
+        "treasure_id": "1007",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "失落古卷碎片",
+        "icon": "1007.png",
+        "description": "集齐10个失落古卷碎片可以合成失落古卷"
+    },
+    {
+        "treasure_id": "1008",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "华尔兹碎片",
+        "icon": "1008.png",
+        "description": "集齐10个华尔兹碎片可以合成华尔兹"
+    },
+    {
+        "treasure_id": "1009",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "精心呵护碎片",
+        "icon": "1009.png",
+        "description": "集齐10个精心呵护碎片可以合成精心呵护"
+    },
+    {
+        "treasure_id": "1010",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "昆仑镜碎片",
+        "icon": "1010.png",
+        "description": "集齐10个昆仑镜碎片可以合成昆仑镜"
+    },
+    {
+        "treasure_id": "1011",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "稻荷面具碎片",
+        "icon": "1011.png",
+        "description": "集齐10个稻荷面具碎片可以合成稻荷面具"
+    },
+    {
+        "treasure_id": "1012",
+        "position_count": "10",
+        "delete_get_score": "5",
+        "quality": "3",
+        "name": "畅游书海碎片",
+        "icon": "1012.png",
+        "description": "集齐10个畅游书海碎片可以合成畅游书海"
+    },
+    {
+        "treasure_id": "2001",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "爱神项链碎片",
+        "icon": "2001.png",
+        "description": "集齐30个爱神项链碎片可以合成爱神项链"
+    },
+    {
+        "treasure_id": "2002",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "原初之火碎片",
+        "icon": "2002.png",
+        "description": "集齐30个原初之火碎片可以合成原初之火"
+    },
+    {
+        "treasure_id": "2003",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "夏日畅饮碎片",
+        "icon": "2003.png",
+        "description": "集齐30个夏日畅饮碎片可以合成夏日畅饮"
+    },
+    {
+        "treasure_id": "2004",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "荷鲁斯之眼碎片",
+        "icon": "2004.png",
+        "description": "集齐30个荷鲁斯之眼碎片可以合成荷鲁斯之眼"
+    },
+    {
+        "treasure_id": "2005",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "时间沙漏碎片",
+        "icon": "2005.png",
+        "description": "集齐30个时间沙漏碎片可以合成时间沙漏"
+    },
+    {
+        "treasure_id": "2006",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "圣杯碎片",
+        "icon": "2006.png",
+        "description": "集齐30个圣杯碎片可以合成圣杯"
+    },
+    {
+        "treasure_id": "2007",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "甜品小屋碎片",
+        "icon": "2007.png",
+        "description": "集齐30个甜品小屋碎片可以合成甜品小屋"
+    },
+    {
+        "treasure_id": "2008",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "樱花狩猎碎片",
+        "icon": "2008.png",
+        "description": "集齐30个樱花狩猎碎片可以合成樱花狩猎"
+    },
+    {
+        "treasure_id": "2009",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "欢迎光临碎片",
+        "icon": "2009.png",
+        "description": "集齐30个欢迎光临碎片可以合成欢迎光临"
+    },
+    {
+        "treasure_id": "2010",
+        "position_count": "30",
+        "delete_get_score": "25",
+        "quality": "4",
+        "name": "许个愿吧碎片",
+        "icon": "2010.png",
+        "description": "集齐30个许个愿吧碎片可以合成许个愿吧"
+    },
+    {
+        "treasure_id": "3001",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "莱瓦汀碎片",
+        "icon": "3001.png",
+        "description": "集齐50个莱瓦汀碎片可以合成莱瓦汀"
+    },
+    {
+        "treasure_id": "3002",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "天舟碎片",
+        "icon": "3002.png",
+        "description": "集齐50个天舟碎片可以合成天舟"
+    },
+    {
+        "treasure_id": "3003",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "花火大会碎片",
+        "icon": "3003.png",
+        "description": "集齐50个花火大会碎片可以合成花火大会"
+    },
+    {
+        "treasure_id": "3004",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "鲤跃龙门碎片",
+        "icon": "3004.png",
+        "description": "集齐50个鲤跃龙门碎片可以合成鲤跃龙门"
+    },
+    {
+        "treasure_id": "3005",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "猫又咖啡屋碎片",
+        "icon": "3005.png",
+        "description": "集齐50个猫又咖啡屋碎片可以合成猫又咖啡屋"
+    },
+    {
+        "treasure_id": "3006",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "大丰收碎片",
+        "icon": "3006.png",
+        "description": "集齐50个大丰收碎片可以合成大丰收"
+    },
+    {
+        "treasure_id": "3007",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "如意金箍棒碎片",
+        "icon": "3007.png",
+        "description": "集齐50个如意金箍棒碎片可以合成如意金箍棒"
+    },
+    {
+        "treasure_id": "3008",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "武斗大会碎片",
+        "icon": "3008.png",
+        "description": "集齐50个武斗大会碎片可以合成武斗大会"
+    }
+]

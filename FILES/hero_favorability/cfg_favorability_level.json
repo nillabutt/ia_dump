@@ -1,0 +1,93 @@
+[
+    {
+        "level": "1",
+        "condition_value": "0",
+        "condition_name": "冷淡",
+        "color": "#fffffff",
+        "need_vowed": "0",
+        "attr_fixd_type_type": "0",
+        "attr_fixd_type": "0",
+        "attr_fixd_value": "0",
+        "attr_fixd_type_type2": "0",
+        "attr_fixd_type2": "0",
+        "attr_fixd_value2": "0"
+    },
+    {
+        "level": "2",
+        "condition_value": "200",
+        "condition_name": "友好",
+        "color": "#77e6bb",
+        "need_vowed": "0",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "10",
+        "attr_fixd_type_type2": "3",
+        "attr_fixd_type2": "1",
+        "attr_fixd_value2": "10"
+    },
+    {
+        "level": "3",
+        "condition_value": "500",
+        "condition_name": "暧昧",
+        "color": "#89c5ef",
+        "need_vowed": "0",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "10",
+        "attr_fixd_type_type2": "3",
+        "attr_fixd_type2": "1",
+        "attr_fixd_value2": "10"
+    },
+    {
+        "level": "4",
+        "condition_value": "1000",
+        "condition_name": "亲密",
+        "color": "#feb5ee",
+        "need_vowed": "0",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "20",
+        "attr_fixd_type_type2": "3",
+        "attr_fixd_type2": "1",
+        "attr_fixd_value2": "20"
+    },
+    {
+        "level": "5",
+        "condition_value": "1500",
+        "condition_name": "热恋",
+        "color": "#ffa665",
+        "need_vowed": "0",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "20",
+        "attr_fixd_type_type2": "3",
+        "attr_fixd_type2": "1",
+        "attr_fixd_value2": "20"
+    },
+    {
+        "level": "6",
+        "condition_value": "2000",
+        "condition_name": "誓约",
+        "color": "#ff7070",
+        "need_vowed": "1",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "40",
+        "attr_fixd_type_type2": "3",
+        "attr_fixd_type2": "1",
+        "attr_fixd_value2": "40"
+    },
+    {
+        "level": "7",
+        "condition_value": "3000",
+        "condition_name": "誓约",
+        "color": "#ff7070",
+        "need_vowed": "1",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "50",
+        "attr_fixd_type_type2": "3",
+        "attr_fixd_type2": "1",
+        "attr_fixd_value2": "50"
+    }
+]

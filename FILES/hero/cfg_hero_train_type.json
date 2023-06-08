@@ -1,0 +1,22 @@
+[
+    {
+        "type": "1",
+        "train_max": "3000",
+        "goods_cost": "3000007"
+    },
+    {
+        "type": "2",
+        "train_max": "15000",
+        "goods_cost": "3000008"
+    },
+    {
+        "type": "3",
+        "train_max": "35000",
+        "goods_cost": "3000009"
+    },
+    {
+        "type": "4",
+        "train_max": "90000",
+        "goods_cost": "3000010"
+    }
+]
