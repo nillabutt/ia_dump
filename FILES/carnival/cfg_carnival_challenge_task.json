@@ -1,0 +1,290 @@
+[
+    {
+        "task_id": "1",
+        "stage": "1",
+        "task_type": "1",
+        "condition": "5",
+        "reward": "5:3000213:10|5:3000211:5",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "2",
+        "stage": "1",
+        "task_type": "1",
+        "condition": "15",
+        "reward": "5:3000213:15|5:3000211:6",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "3",
+        "stage": "1",
+        "task_type": "1",
+        "condition": "25",
+        "reward": "5:3000213:15|5:3000211:6",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "4",
+        "stage": "1",
+        "task_type": "1",
+        "condition": "40",
+        "reward": "5:3000213:20|5:3000211:8",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "5",
+        "stage": "1",
+        "task_type": "1",
+        "condition": "55",
+        "reward": "5:3000213:20|5:3000211:10",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "6",
+        "stage": "2",
+        "task_type": "1",
+        "condition": "70",
+        "reward": "5:3000213:30",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "7",
+        "stage": "2",
+        "task_type": "1",
+        "condition": "85",
+        "reward": "5:3000213:30",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "8",
+        "stage": "2",
+        "task_type": "1",
+        "condition": "100",
+        "reward": "5:3000213:40",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "9",
+        "stage": "2",
+        "task_type": "1",
+        "condition": "115",
+        "reward": "5:3000213:40",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "10",
+        "stage": "2",
+        "task_type": "1",
+        "condition": "130",
+        "reward": "5:3000213:40",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "11",
+        "stage": "3",
+        "task_type": "1",
+        "condition": "150",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "12",
+        "stage": "3",
+        "task_type": "1",
+        "condition": "170",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "13",
+        "stage": "3",
+        "task_type": "1",
+        "condition": "190",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "14",
+        "stage": "3",
+        "task_type": "1",
+        "condition": "210",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "15",
+        "stage": "3",
+        "task_type": "1",
+        "condition": "230",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "16",
+        "stage": "4",
+        "task_type": "2",
+        "condition": "250",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "17",
+        "stage": "4",
+        "task_type": "2",
+        "condition": "270",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "18",
+        "stage": "4",
+        "task_type": "2",
+        "condition": "290",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "19",
+        "stage": "4",
+        "task_type": "2",
+        "condition": "310",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "20",
+        "stage": "4",
+        "task_type": "2",
+        "condition": "330",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "21",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "350",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "22",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "370",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "23",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "390",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "24",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "410",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "25",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "430",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "26",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "450",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "27",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "470",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "28",
+        "stage": "5",
+        "task_type": "2",
+        "condition": "490",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "29",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "510",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "30",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "530",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "31",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "550",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "32",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "570",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "33",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "590",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "34",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "610",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "35",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "630",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    },
+    {
+        "task_id": "36",
+        "stage": "6",
+        "task_type": "2",
+        "condition": "650",
+        "reward": "5:3000213:50",
+        "content": "累计投掷{0}次"
+    }
+]

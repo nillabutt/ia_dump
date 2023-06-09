@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "desc": "ANNIVERSARY_LETTER_OPENNING",
+        "title": "Dear Players：",
+        "page": "1"
+    },
+    {
+        "id": "2",
+        "desc": "ANNIVERSARY_LETTER_STARTING",
+        "title": "启航",
+        "page": "2"
+    },
+    {
+        "id": "3",
+        "desc": "ANNIVERSARY_LETTER_TIME",
+        "title": "时光",
+        "page": "3"
+    },
+    {
+        "id": "4",
+        "desc": "ANNIVERSARY_LETTER_HONOR",
+        "title": "荣誉",
+        "page": "4"
+    },
+    {
+        "id": "5",
+        "desc": "ANNIVERSARY_LETTER_EXPLORE",
+        "title": "探索",
+        "page": "5"
+    },
+    {
+        "id": "6",
+        "desc": "ANNIVERSARY_LETTER_HERO",
+        "title": "女神",
+        "page": "6"
+    },
+    {
+        "id": "7",
+        "desc": "ANNIVERSARY_LETTER_ENDING",
+        "title": "感谢",
+        "page": "7"
+    }
+]
