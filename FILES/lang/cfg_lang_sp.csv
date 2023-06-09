@@ -12078,7 +12078,7 @@ OUTLAND_NOT_OPEN,La función del reino del caos aún no se ha activado
 阿修罗创造一个修罗场结界，队友将获得阿修罗属性10%的属性加成（暴击值、暴击伤害、韧性、物抗、魔抗），持续1回合；敌人全体将得到来自阿修罗10%的属性减益（暴击值、暴击伤害、韧性、物抗、魔抗），持续1回合，此环境型减益将无视敌人异常抗性且不可驱散。,"Asura crea un campo de Shura, todo el equipo recibirá un 10% de bonificación a los atributos de Asura (Crit Valor, Crit DMG, FOR, P.RES M.RES) durante 1 ronda; todos los enemigos recibirán un 10% de reducción de los atributos de Asura (Crit Valor, Crit DMG, FOR, P.RES,  M.RES) durante 1 ronda. Esta desventaja ambiental ignora el Debuff RES del enemigo y no puede disiparse."
 阿修罗将驱散敌方后排3人的一个增益，并造成250%的物理伤害和30%的真实伤害。,"Asura disipará un Buff para cada uno de los 3 enemigos de la última fila, y les causará un 250% de P.DMG y un 30% de DMG real."
 阿修罗创造一个修罗场结界，队友将获得阿修罗属性12%的属性加成（暴击值、暴击伤害、韧性、物抗、魔抗），持续2回合；敌人全体将得到来自阿修罗12%的属性减益（暴击值、暴击伤害、韧性、物抗、魔抗），持续2回合，此环境型减益将无视敌人异常抗性且不可驱散。,"Asura crea un campo de Shura, todo el equipo recibirá un 12% de bonificación de los atributos de Asura (Crit Valor, Crit DMG, FOR, P.RES, M.RES) durante 2 rondas; todos los enemigos recibirán un 12% de reducción de los atributos de Asura (Crit Valor, Crit DMG, FOR, P.RES, M.RES) durante 2 rondas. Esta desventaja ambiental ignora el Debuff RES del enemigo y no se puede disipar."
-阿修罗将驱散敌方后排3人的全部增益，并造成300%的物理伤害和40%的真实伤害。,"Asura disipará un Buff para los 3 enemigos de la última fila, y les causará un 300% de P.DMG y un 40% de DMG real."
+阿修罗将驱散敌方后排3人的全部增益，并造成300%的物理伤害和40%的真实伤害。,"Asura disipará todos los beneficios de los 3 enemigos en la última fila,y les causará un 300% de P.DMG y un 40% de DMG real."
 三头六臂,Tres cabezas y seis brazos
 雷鸣啸吼,Trueno y rugido
 魅恶相生,Belleza y maldad

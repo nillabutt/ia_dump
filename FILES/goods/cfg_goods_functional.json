@@ -583,5 +583,20 @@
         "show_in_bag": "1",
         "icon": "2000035.png",
         "description": "40个碎片可以随机合成一个橙色圣物"
+    },
+    {
+        "cfg_id": "2000036",
+        "max_count": "999",
+        "quality": "5",
+        "restore": "1000",
+        "function_type": "7",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "120",
+        "function_param": "50|6000030",
+        "name": "命星碎片",
+        "show_in_bag": "1",
+        "icon": "2000036.png",
+        "description": "集齐50个碎片可以合成一个命星自选箱"
     }
 ]

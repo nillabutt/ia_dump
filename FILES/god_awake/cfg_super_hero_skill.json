@@ -58,5 +58,9 @@
     {
         "hero_id": "2081",
         "exclusive_skill_id_arr": "158101001"
+    },
+    {
+        "hero_id": "2082",
+        "exclusive_skill_id_arr": "158201001|158202001"
     }
 ]

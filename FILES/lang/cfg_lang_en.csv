@@ -19272,4 +19272,465 @@ ACTIVITY_SUMMON_DESC_94,"As I gaze at the stars, I wonder how our paths will cro
 1回合防御力降低芙蕾雅防御力的80%,Reduces the bearer’s DEF by 80% of Freyja’s DEF
 1回合韧性降低芙蕾雅韧性的20%,Reduces the bearer’s FOR by 20% of Freyja’s FOR
 破甲-星影回音,Sunder Armor - Shadow Echo
-宝物碎片选择,Select Miracle Card Pieces
+ANNIVERSARY_LETTER_OPENNING,"<color=#fe8cc0>September</color> <color=#fe8cc0>9</color>, <color=#fe8cc0>2019</color>, marked the official launch of Idle Angels.\nBy <color=#fe8cc0>December</color> <color=#fe8cc0>9</color>, <color=#fe8cc0>2019</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
+ANNIVERSARY_LETTER_STARTING,"{0}\nA holy light descended, bringing [{1}] the world with hope.\nRemember Princess Bari? She journeyed through this world with you."
+ANNIVERSARY_LETTER_TIME,"Over the last year, \nyou spent {0} dedicated days battling alongside the angels.\nYour longest single log-in lasted {1} hours. Time spent with you always seems to fly by."
+ANNIVERSARY_LETTER_HONOR,"Amidst our shared journey, you competed with fellow adventurers.\nYou earned the championship title of the Clash of Titans {0} times.\nYou emerged victorious in the Glory Arena {1} times.\nYou were bestowed the title of Lord of Gods {2\} times.\nIn honor of your achievements, we present you with the annual title of \n{3}."
+ANNIVERSARY_LETTER_EXPLORE,"In your exploration of the world and your challenge of its many difficulties, \nyou embarked on {0} dungeon battles.\nIn the Main Story battlefield, you have reached {1}.\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \n{4}."
+ANNIVERSARY_LETTER_HERO,"Looking back at the past year, \nyou summoned angels {0} times, recruiting {1} angels to join your cause.\nYou formed a sacred pact with {2} of them.\nYou amassed {3} pieces of fashion, making quite the impression.\nYour most formidable angel is {4}\.\nDo you still remember your first meeting with them?"
+ANNIVERSARY_LETTER_ENDING,"Rest assured, every effort you've made will bear fruit.\nEvery memory you've made will stand the test of time.\nEvery hope you hold will continue to shine bright.\nThank you for your perseverance and dedication alongside us.\nTo show our appreciation, we've prepared a special gift for you. We hope you'll like it. Keep moving forward in the days to come!"
+LV.{0},LV.{0}
+(   {0}),(   {0})
+"再投掷{0}次骰子,可产出{1}{2}",Roll {0} more dices to get {1}{2}
+成功派遣一名女神产量提升{0},Successfully dispatch an angel to increase output by {0}
+"进驻要求：职业{0},品质{1}及以上","Requirements: {0}, {1} and above"
+宝物碎片选择,Choose Miracle Pieces
+主线副本达到{0}后开启,Open after the Main Story reaches {0}
+快看，穹顶的群星在闪耀，命运的力量也同时出现，为何群星会汇聚到此？,"Wow, look at the stars on the dome. They’re sparkling with the power of destiny. I wonder why they’re all here."
+星空和命运的力量凝聚在了一起，好像赋予了天使们全新的力量。,They seem to have fused with the power of sky and destiny. It’s like they gave us angels some new abilities.
+作为命星的主体，每位天使都觉醒了全新的力量，需要使用星之沙来激活新的能力。,"Now, we are all empowered by the stars. Gathering those Stars Sand to activate an exclusive power for you angel."
+群星闪耀的力量更加耀眼，当多个女神聚集在一起时，会互相激发各自的力量，获得更加强大群星技能。,"The starlight is dazzling! When we angel join forces, we boost each other’s powers and unleash amazing star combo skills."
+点击显示命星属性,Tap to display Destiny Star Attributes
+点击激活命星的力量,Tap to activate the power of Destiny Star
+点击切换到群星,Tap to switch to Companion Star
+主星为女神本体,"The Main Star is the angel herself,"
+伴星为其他女神的主星,Companion Stars are the stars surrounding the Main Star
+达成一定的条件即可激活群星技能,Achieve certain conditions to activate special combo skills
+巴里，你发现了吗？这里出现了一个奇怪的入口，我们去看看怎么样？,"Bari, do you see that? There’s a weird portal over there. Should we check it out?"
+小心一点，这个好像是一个时间裂缝，我感觉不太对劲，好像有什么不好的事情要发生了。,Be careful. It looks like another time rift. I have a bad feeling about this. Something terrible might happen.
+放心，有我在这什么都不用怕，但是在这个裂缝外面好像看不出什么问题，要不我们进去看看吧？,Don’t worry. I’m here with you. Nothing can hurt us. But I don’t see anything wrong outside the rift. Maybe we should go in and see for ourselves?
+哎，等等我，你怎么还是这么冒冒失失的！,"Hey, slow down! Why are you always so impulsive?"
+巴里，火，到处都是火，整个世界都被燃烧起来了。,"Bari, fire! There’s fire everywhere! The world is on fire!"
+小心，穿过裂缝的时候我感觉到了时间女神的力量在被削弱了。,Watch out! I felt some mysterious source weaken the goddess of time's power when we crossed the rift.
+这里就是我们的世界，而且这个地方也很熟悉……好像是我们第一次相遇的地方？,"This is our world. And that place… It’s where we first met, right?"
+我们小心一点，查探一下到底发生了什么。,Let’s be cautious and figure out what’s going on.
+啊，巴里，我记得它，第一次战斗的时候打败的就是它。,"Oh no, Bari! I recognize that thing! We beat it in our first fight!"
+看，还有那边，那些曾经战斗过的怪物又再次出现了。,And look over there! Those old enemies are back!
+看来时间女神的力量出现了错乱，导致那些被消灭的怪物再次出现，并且变得更加危险了。,Something’s wrong with the order of time. It brought back those monsters we killed and made them stronger.
+完全不在怕的，能消灭它第一次，就能消灭它一万次。,"But I’m not scared. If we can beat them once, we can beat them again and again."
+好，既然如此那就拿起武器继续战斗吧！,Alright then. Let’s grab our weapons and keep fighting!
+点击进入噩梦战场,Tap to enter Nightmare Battlefield
+点击回到战场,Tap to return to the battlefield
+点击切换噩梦战场,Tap to switch Nightmare Battlefield
+点击进入布阵界面,Tap to enter the Line-up interface
+点击布阵第一个队伍,Tap to create your first team
+点击布阵第二个队伍,Tap to create your second team
+DAMAGE_ADD_TARGET_WU_JIANG,Increases DMG dealt to Warriors
+DAMAGE_ADD_TARGET_GONG_JIANG,Increases DMG dealt to Archers
+DAMAGE_ADD_TARGET_MOU_SHI,Increases DMG dealt to Mages
+DAMAGE_MINUS_TARGET_WU_JIANG,Reduces DMG taken by Warriors
+DAMAGE_MINUS_TARGET_GONG_JIANG,Reduces DMG taken by Archers
+DAMAGE_MINUS_TARGET_MOU_SHI,Reduces DMG taken by Mages
+MAGIC_DAMAGE_ADD,M.DMG Amplify
+MAGIC_DAMAGE_MINUS,M.DMG Reduction
+PHYSC_DAMAGE_ADD,P.DMG Amplify
+PHYSC_DAMAGE_MINUS,P.DMG Reduction
+SKILL_DAMAGE_ADD,Skill DMG Amplify
+SKILL_DAMAGE_MINUS,Skill DMG Reduction
+NORMAL_SKILL_DAMAGE_ADD,Increases DMG dealt by Normal Attack
+BE_TREAT_ADD,Increases Healing Effect
+BE_SHIELD_ADD,Increases Shield Effect
+BASE_ATTRIBUTE_ADD,Enhances Basic Attributes
+噩梦副本不支持快速战斗,Nightmare dungeons do not allow quick combat
+噩梦战场,Nightmare Battlefield
+主线战场,Main Story Battlefield
+共鸣,Resonance
+第{0}编队,Team {0}
+将一名女神与其他女神共鸣，即可使用她的装备、宝石、神器、内饰,"Resonate an angel with other angels to use her Gears, Gems, Artifacts, and Attires"
+第一队,Team A
+第二队,Team B
+继续战斗,Continue
+主星,Main Star
+群星,Collective Star
+{0}的命星,{0}’s Destiny Star
+主星等级,Main Star Level
+主星效果,Main Star Effect
+群星闪耀,Shooting Stars
+命星属性,Destiny Star’s Attributes
+主角的命星,MC’s Destiny Star
+拉的命星,Ra’s Destiny Star
+赫拉的命星,Hera’s Destiny Star
+圣诞女神的命星,Xmas Angel’s Destiny Star
+丘比特的命星,Cupid's Destiny Star
+伊卡璐斯的命星,Icarus's Destiny Star
+卡俄斯的命星,Chaos’s Destiny Star
+海姆达尔的命星,Heimdall’s Destiny Star
+卑弥呼的命星,Himiko’s Destiny Star
+稚日女尊的命星,Enmusubi’s Destiny Star
+冰霜龙母的命星,Frost Dragon's Destiny Star
+灰烬龙女的命星,Ember Dragon’s Destiny Star
+风暴之龙的命星,Storm Dragon’s Destiny Star
+芙蕾雅的命星,Freyja’s Destiny Star
+沈青儿的命星,Sim Cheong’s Destiny Star
+双子座的命星,Gemini’s Destiny Star
+嫦娥的命星,Chang'e’s Destiny Star
+阿修罗的命星,Asura’s Destiny Star
+雅典娜的命星,Athena’s Destiny Star
+摩羯座的命星,Destiny Star
+SP加百列的命星,SP Gabriel's Destiny Star
+双鱼座的命星,Pisces’s Destiny Star
+维纳斯的命星,Venus’s Destiny Star
+宙斯的命星,Zeus’s Destiny Star
+洛基的命星,Loki’s Destiny Star
+索尔的命星,Thor’s Destiny Star
+阿波罗的命星,Apollo's Destiny Star
+荷鲁斯的命星,Horus’s Destiny Star
+弗丽嘉的命星,Frigga's Destiny Star
+限定女神的命星的激活材料,Activation materials for the limited angel's Destiny Star
+星之沙,Stars Sand
+命星碎片,Destiny Star Piece
+可用于女神命星升级,Can be used to upgrade Angel’s Destiny Star
+集齐50个碎片可以合成一个命星自选箱,Collect 50 pieces to synthesize a Destiny Star Optional Chest
+命星自选箱,Destiny Star Optional Chest
+可以选择获得一个任意女神的命星,Select and obtain one Destiny Star of an Angel
+三周年,3rd Anniversary
+狂欢庆典,Carnival Celebration
+新信息！,New Info!
+命星星辰,Destiny Stars
+赋予力量,Empowerment
+时光重现,Time Machine
+噩梦来袭,Nightmare Incoming
+已达到最大等级,Max level reached
+请先点亮前置条件,Please light the previous star
+{0}的主星达到Lv.{1},{0}'s Main Star has reached Lv. {1}
+当前等级,Current: Lv. {0}
+主星等级,Main Star: Lv. {0}
+群星等级,Collective Star: Lv. {0}
+拥有({0}/{1})个女神主星等级达到Lv.{2}激活,Activate after ({0}/{1}) Angels' Main Star level reaches Lv. {2}
+打开宝箱选择任意经典女神的一个碎片（洛基及之前的所有稀有SSR+女神、稀有女神召唤券）,Open the treasure chest and choose one shard of any Classic Angel (including Loki and all previous SSR+ Angels or Superior Summon Scroll)
+解锁后产出{0},{0} after unlocking
+STAR_HOUSE_REWARD_TIPS,Probability: {0}% (\{1\} times left)
+概率{0}%,Probability: {0}%
+三周年限定1,3rd Anniversary Exclusive 1
+三周年限定2,3rd Anniversary Exclusive 2
+三周年特惠1,3rd Anniversary Special 1
+三周年特惠2,3rd Anniversary Special 2
+三周年特惠3,3rd Anniversary Special 3
+每日礼盒,Daily Giftbox
+礼盒礼包1,Giftbox Pack 1
+礼盒礼包2,Giftbox Pack 2
+群星取决于除自己外{0}个命星等级最高女神,The level of one angel’s Collective Star depends on the {0} angels with the highest level Main Star (excluding herself)
+2023三周年纪念聊天气泡,2023 3rd Anniversary Souvenir Card
+2023三周年庆典纪念聊天气泡,2023 3rd Anniversary Avatar Frame
+2023三周年头像框,2023 3rd Anniversary Limited Avatar Frame
+2023三周年纪念头像框,2023 3rd Anniversary Limited Chat Bubble
+CHOOSE_GONGMING_HERO_TIPS,Please select an Angel for Resonance
+NIGHTMARE_DUNGEON_DAILY_PASS_LIMIT,Reached the daily limit
+哟，这是谁呀，难道是陷入迷茫的女神，正在寻找指路明灯？,"Yo, who's this here? Another lost and confused goddess looking for a guiding light?"
+希腊的灾厄之女潘多拉？什么风把你吹到这来的？,"Pandora, the Greek Daughter of Misfortune? What wind brought you here?"
+有趣，与其说是我来到你身边，不如说是你误入了我的梦境。,"Rather than me coming to you, it is you who have strayed into my Dreamland."
+让我来看看你的真名吧……阿斯加德的弗丽嘉，北欧的鲜花与爱之女神么？,"Let me see which one we have today... Frigga of Asgard, Nordic Goddess of Flowers and Love?"
+听说你可不是一个好应付的家伙呢，曾经有多少人因你而陶醉，又有多少人因你而心碎呢？,I heard you are a troublesome one to deal with. How many people have been intoxicated by you? How many people have suffered heartbreak because of you?
+那可都是些陈年往事了，现在的我可和过去不一样。,That is all in the past. I am not the same now as I used to be.
+哦……现在得称呼你“天后”大人了。不过你神情踌躇，是遇到什么麻烦了吗？,"Oh yeah... Now I should be calling you Queen of Asgard... But why do you look so troubled, Your Majesty?"
+我虽贵为北欧天后，可众神真的认同我的身份吗？我以前在北欧的名声可不怎么样……,"I may be Queen of Asgard in name, but do the other gods even recognize my authority? My reputation in the North used to be quite bad..."
+我想改善自己和阿斯加德女神们的关系，但不知道该如何去做。,"I want to improve my relationship with the Asgardian goddesses, but I don't know how."
+改善自己的名声吗？那你至少算找对人了……,"Improve your reputation? Well it's your lucky day! I've become rather good at granting wishes, heh."
+我建议你去找芙蕾雅，如果能与她和解，那么众神大概会相信你的决心。,"I suggest you go to Freyja. If you can reconcile with her, then the others will probably trust your determination and resolve."
+真的吗？但我听很多人说过，请潘多拉帮忙的代价可不小……,Really? But I've heard a lot of people say that your help comes at a price...
+呵呵……代价等事成之后再谈也不迟，让我先看看你的能力。,Hehe... We can talk about the price later. Let me see your ability first.
+毕竟只有具备强大意志力和战斗力的人，才不至于在我的梦境中迷失……,"After all, only those with a strong will and combat ability can traverse my Dreamland without fear of getting lost..."
+胜负已分，至少在战斗这方面我还是很有信心的。,"The outcome is clear. I am confident in my combat abilities, aren't you?"
+我大概知道你为什么会和其他的北欧女神闹出矛盾了……你还真是个危险的家伙。,...I am starting to understand why you're in conflict with the other Norse goddesses... You really are quite dangerous.
+我大概知道你的力量了，只不过如你所说，芙蕾雅肯定不会轻易被你说服。,"Well, I have a good estimate of your strength now. But Freyja will not be so easily persuaded."
+我们得需要几个同伴……你有什么推荐人选吗？,You will need some more companions to back you up. Is there anyone you suggest?
+如果要我选的话，我看洛基非常适合，她平时总能想出奇怪的点子，我带你去找她。,"Well since you asked, I think Loki would be a good choice. She always comes up with the most interesting and unique ideas."
+天哪……你可真会挑人……,Oh my gods... You really know how to pick them...
+洛基，你在吗？,"Loki, are you there?"
+我知道你在这里！十秒内你要是再不出来，我就把你的梦敲成碎片！,"I know you are here! If you don't come out within 10 seconds, I will smash this place to pieces!"
+我相信她一定是藏起来了，你仔细想想，她一般会藏在什么地方？,I believe she is hiding. Where does she usually like to hide?
+她会变成一些奇怪的东西……啊！我想起来了，她壁炉里的火还燃着呢！,She likes to shapeshift into random things... Ah! The fire was still burning in her hearth!
+痛痛痛！快放手！,Ouch! Let go!
+你果然变成了炉火。,"Sure enough, you changed into fire."
+你找到我也没有用！你说什么我都不听！你说什么我也不答应！,It's pointless to find me! I won't listen to you! I won't do what you want!
+……,...
+她要逃跑了，快追上去！,She is running away! Quickly! Catch her!
+弗丽嘉大人，求您放过我吧，我保证再也不出现在您面前了！,"Lady Frigga, please let me go! I promise I will never appear in front of you again!"
+……你以前到底对诡诈之神做过什么可怕的事，她见你像老鼠见了猫一样……,...What terrible things have you done to the Goddess of Deception? She's shaking like a mouse in front of a cat.
+够了够了，你们究竟想要我干嘛？只要肯放我走，我什么都答应你们！,Enough please. What do you want from me? Let me go and I will do anything!
+我想去和芙蕾雅和解。,I want to reconcile with Freyja.
+我觉得你不会成功的，毕竟谁都知道你的性格实在是……,"Can't you ask me to do something easier? I don't think it's possible for you to reconcile. After all, everyone knows what your personality is like..."
+所以我们才找到了你啊，弗丽嘉大人可是对你抱有期待呢。,That's why we came to find you. Lady Frigga has high expectations for you.
+好吧，我试试看，但对我来说，这真不是什么值得高兴的事情……,"Ugh, I'll give it a try. But I'm not happy about it..."
+前面就是索尔的宫殿了，想通往梦境中的阿斯加德，必须经过这里。,"This is the door to Thor's palace. If you want to reach Asgard in this Dreamland, you must pass through here."
+大门关得可真够紧……不过洛基，你会有办法的，对吧？,"The door is locked... Loki, you will have a way, won't you?"
+索尔你这个酒鬼、蠢货、锤子脑袋！快出来！否则你的白日梦就到此为止了！,Thor! You drunkard! Fool! Hammer-head! Come out quickly! Otherwise I will steal Mjölnir!
+洛基，又是你这个麻烦家伙……上次挨揍的苦头你还没吃够么？,Loki! You troublesome pest... Haven't you had enough of the pain of being beaten up from last time?
+等等……！弗丽嘉？你在这里做什么？为什么你会和洛基在一起？,Wait a second... Frigga? What are you doing here? Why are you with Loki?
+别在意，亲爱的，我只是想与芙蕾雅和解，让洛基来找你帮忙而已。,"Don't worry about that, my angel. I want to reconcile with Freyja. Loki's just here to help."
+所以她就是这么请我帮忙的？在我的门前破口大骂？,So her help is calling me names in front of my own palace?
+这个……只有这种办法，才能让你从酩酊大醉中清醒过来。,Well... You see... That's because it's the only way to wake you from your drunken nap.
+好吧，既然是弗丽嘉出面，我当然没理由不答应，不过我有个条件……,"Since it's you asking, Frigga, I have no reason to decline. But..."
+是和我比试比试吗？没问题……,"Heh. You want a fight, right? Go ahead."
+到此为止吧，我认输，说实话，你的锤子比以前温柔多了。,"Okay okay. Let's call it here. I admit defeat. I have to say though, your fighting style is... much gentler than before."
+毕竟我也是天后了，不能再那么粗暴下去了呢。,"I am a queen now, after all. I can't be as rough as I used to be."
+事已至此，我同意和你们一起去芙蕾雅大人的梦境，但路上可能会遇到一些麻烦。,"Anyway, I agreed to accompany you to Lady Freyja's dream, but we may run into some trouble on the way."
+麻烦？,Trouble?
+因为要经过女武神们的梦境，她们可不像我这么好说话……,"Yes, because we will have to pass through Valkyrie's dream. She isn't as easy-going as I am."
+弗丽嘉，我可没邀请你来我的军营，如果你再往前一步，我就要发起冲锋了。,"Frigga, I did not invite you into the barracks of the Valkyries. If you take one more step, I will make you regret it."
+首席女武神，以弗丽嘉现在的身份而言，你至少要保持礼仪。,"Leader of the Valkyries, you should remember Frigga's status. She is Queen. Show some respect."
+她以前目中无人的时候，可没有提到过什么礼仪。,And where was the respect when she treated us like shit?
+我为过去的所作所为向你道歉，也正因为如此，我需要去与芙蕾雅和解。,I apologize for my past actions. That is exactly why I want to see Freyja.
+好吧，如果你们能在战斗中胜过我，我就放你们过去。,"Let's settle this with a fight. If you win, I will let you pass. If I win, you shall not pass!"
+我接受这个挑战，除此之外，我希望你能与我一同前去和芙蕾雅谈谈。,"I accept your challenge! But if I win, you will also come with me."
+这些话等打完再说吧！,You will have to beat me first!
+呼……索尔，我开始明白你为什么会帮她了。,"Phew... Thor, I'm beginning to understand why you're helping her."
+很简单，她是除奥丁大人外北欧最重要的存在。,"To put it simply, she is the most important existence to the Norse Gods, other than Lady Odin."
+她在成为天后之前，并不是一个光明正大、值得尊敬的人。,"Before she was queen, she wasn't exactly a fair and honorable person..."
+但这场战斗中她的技巧，已经让我见识到了她的荣耀感。,"But during this battle, I glimpsed her sense of honor."
+我们是战士，战士的天职就是服从领主的命令，即便她要求我牺牲，那我也无可推辞。,"We are warriors. We are duty-bound to obey our liege's orders. Even if she commanded my sacrifice, I would not complain."
+也许你说的对……,Perhaps you're right... Alright.
+如今的我一定不会辜负你的信任，瓦尔基里。,"I will not betray your trust in me, Valkyrie."
+弗丽嘉大人？,Frigga?
+希芙？,Sif?
+没想到我躲到梦境里你还能找得到，唉……所以你这次又要去折腾哪个倒霉家伙？,I didn't think you'd be able to find me even in a dream. So who's the unlucky one you're going to mess with this time?
+芙蕾雅，我需要与她和解，然后修复自己与阿斯加德众神的关系。,I need to see Freyja. I want to reconcile with her and patch up my relationship with the other Asgardian gods.
+这代价恐怕不小，毕竟当年你和她可是为了争夺天后的地位而对立的……,"That's not going to be easy. After all, you were rivals in the fight for the throne..."
+所以我才来找你帮忙，无论其他人立场如何，作为大地女神，你始终会会支持我。,"That's why I came to you for help. Regardless of other people's opinion, I know you will have my back."
+除非你的力量强到能够击败最强守护者海姆达尔，否则你依旧过不了彩虹桥。,"Unless you are strong enough to defeat Heimdall, the Guardian of the Bifrost, you will not be able to cross that rainbow bridge into Asgard."
+要来试试吗？,Wanna see for yourself if I am?
+那当然，我可不希望白跑一趟。,Of course. I wouldn't want to go all the way there for nothing.
+这可真不像你以前的力量，弗丽嘉。,"This is not like your old powers, Frigga."
+有你的帮忙后，我相信是能越过海姆达尔这道难关的。,"With your help, I believe that we can handle Heimdall."
+唉……希望那个死脑筋能理解你的用意。,Ugh I do hope that mudsclehead understands your intentions.
+前方是芙蕾雅大人的宫殿，我不能让您随意通过，抱歉……即便您是天后。,"Stop. Beyond this point is Lady Freyja's palace. I can let you go no further, not even if you are the Queen."
+我是过去向她问好的，并且向她传递我的和解邀请。,I wish to give her my greetings and an invitation to reconcile.
+是这样吗？我听说你在举办酒宴，试图和曾经交恶的女神改善关系。,"Is that so? I heard that you are holding a banquet, with the intention of repairing bad relationships"
+的确是这样。,You heard correctly.
+好吧，但出于对芙蕾雅大人的职责，我必须要保卫她的安全。,I see. But I must still abide by my duty to keep Lady Freyja safe.
+假如你们能胜我半筹，我就当你们击败了我，放你们通过。,"If you can defeat me at half my power, I will consider it your victory and let you pass."
+谢谢你的通情达理，海姆达尔。,"Thank you for understanding, Heimdall."
+你们赢了，我不会继续阻拦你们，但请你们一定要谨慎行事。,"You have won. I will not hinder your passage any further, but please be careful."
+请放心，不管如何我不是来惹麻烦，而是来解决问题的。,"Rest assured, my intention is not to cause issues. But to resolve them."
+恕我直言……为什么洛基这个家伙会在这个队伍里呢？,With all due respect... what is Loki doing here?
+这个嘛……她是我重要的伙伴——至少这次是。,Well... she is a valuable asset to me. This time.
+嗯，你对我有什么意见吗？亲爱的？,"Got something to say about me, sweetheart? Heh."
+好久没有看到如此强大的组合了，你们这阵势……是要去打架？,"Well, well. What a powerful group of people. Such a team - are you guys looking for a fight?"
+……我们只是去拜访芙蕾雅而已。,...We're just visiting Freyja.
+哼哼……你们有给我带礼物来吗？即使这里是梦境，但也属于龙神的地盘。,"Hmph... Did you bring me a gift? Even though this is the Dreamland, this territory still belongs to us Dragons."
+要不然……我把洛基送您？实话说，她的装饰性还挺强的。,"Um... I can give you Loki? Look at her, she'd make a very pretty decoration."
+我对这个家伙没兴趣，不管如何，想通过龙族的领地，礼物是必要的。,"Not interested. If you want to pass through my territory, I expect a proper gift."
+火龙之主，你这话的意思……是想挑战阿斯加德最高的权威之一吗？,"Lady Ember, do you mean... you want to challenge Asgard's Queen?"
+索尔，我可是看着你长大的，也许你不知道，龙族的规矩可是奥丁也必须遵守的。,"Little Thor, I watched you grow up. You may not know this, but even Odin must abide by the rules of the Dragon Clan."
+可我不是奥丁，亲爱的。,"But I'm not Odin, honey."
+喔……这样吗？好，就让我看看这几千年来，你打架的本事成长了多少！,"Clearly. Fine, let me see if your fighting skills have improved in the past thousand years! Or if I need to get out the diapers for you. Haha!"
+打得不错，你们既然在战斗中能胜过我，礼物的事情就免了吧，哈哈。,What a good fight! I will consider that your gift.
+别这么说，我依旧会为你打造两座雕像，一座立在阿斯加德的花园中，一座送给你。,"Don't be silly. I will have two statues built in your honor. One to stand in the Asgardens, and one for your territory."
+天后，你客气了，祝你和芙蕾雅聊得愉快。,"You don't have to do so much for me, my Queen. I wish you luck in your chat with Freyja."
+弗丽嘉，你来了。,"Frigga, you've arrived."
+奥丁？你怎么在这里？,Odin? Why are you here?
+芙蕾雅让我过来劝你回去，我总得要装装样子吧。,Freyja asked me to persuade you to go back. So I've got to at least look like I tried to.
+虽然现在的我不大想向你挥动锤子，不过……,"I don't really feel like fighting you, but..."
+动手吧，要是不通过我这关，今天你可见不到芙蕾雅了。,"Do it, otherwise you can't see Freyja today."
+你的本事比以前强多了呐……,You are much stronger than before.
+不好意思，差点失控，我希望没有伤着你。,"I almost lost control of myself, I'm sorry. I hope I didn't hurt you."
+看到你如今的成长我挺高兴，你以前糟糕的性格，可从不会主动和其他北欧女神和好。,I am proud to see how much you've grown. No one would have believed you'd take the initiative to reconcile with Freyja.
+神也是会改变的，至少我是这样。,"Even immortal gods can change. At least, I have."
+呵呵……记得告诉芙蕾雅，你把我打了个落花流水，不然她可不甘心。,"Remember to tell Freyja you kicked my butt, hehe. Otherwise I'll get in trouble."
+你还是来了，我的妹妹，弗丽嘉。,"After everything, you still came. My sister, Frigga."
+我是来与你和解的，姐姐，当年为了天后的权位，我做过不少让你伤心的残酷之事。,"I have come to reconcile with you, sister. I did many cruel things to you, for the sake of being Queen."
+我不会因此而对你产生偏见，你需要和解的是你自己。,It is not me you need to reconcile with. It is yourself.
+以前在天后这个位置的争夺中，我没有像个北欧勇士一样和你在战斗中分出胜负……,"In the fight for the throne, I did not face you like a true Asgardian warrior..."
+而是使用了权术、诡计和不公平的手段。,"Instead, I used subterfuge and trickery to win."
+的确如此，但我已经原谅你了，继续纠结只会让你的内心继续沉沦，如果你实在难以释怀……,"That is true, but I have forgiven you. Allowing such feelings to fester in your heart will only cause you pain. But if you really can't let go..."
+……那么一场迟到的对决，或许能够平抚你内心的愧疚。,"Then perhaps a duel may help to appease the guilt in your heart. Come sister, let us face each other as true Asgardian warriors."
+你说的没错，让我们开始吧。,You are right. Let's do it.
+看吧，即使是公平的战斗，你如今还是能胜过我，这也是我不反对你作为天后的原因。,"See, even in a fair fight, you have the power to defeat me now. That is why I have no objections to you being Queen."
+但是……,But...
+我看得出来，你还是不肯放下自责，依旧会受到不安之心的折磨。,I see that you still cannot forgive yourself and will be tormented by your own guilt.
+告诉我，你真的能抛弃曾经的自己，接受我的原谅了吗？,"Tell me, are you willing to let go of your former self and accept my forgiveness?"
+我明白了，我会消除自己内心的阴影。,"I understand, sister. I will chase away the shadows in my heart."
+那就面对她，然后从她手中夺回你的意志！,"Then face your past self, and take back your willpower!"
+我还没有想清楚这一切……,I need time to figure this all out...
+那么我会一直守护你，直到你能真正面对自己过去的那一天。,Then I will watch over you until the day when you are ready to face your past.
+呵呵，你又回来了，我的另一半。,"Hehe, you returned to me, my other half."
+这么长时间没有品尝鲜血的滋味了，一定很怀念那种味道吧？我们的玫瑰园还在吗？,"We haven't tasted blood in so long... You must miss it, right? Is our blood-soaked rose garden still alive?"
+我已经不再培育玫瑰了，那块土地，如今已经成为了阿斯加德众神的乐园。,I no longer grow roses. That land has now become a paradise for the gods of Asgard.
+我真难以理解，阴谋与诡计曾让你得到天后的权力，但如今你却这么轻易地抛弃了。,"Tsk. I don't understand you. You stopped at nothing to become Queen, but now you are willing to throw it away so easily."
+如今的我已经不需要依靠那些手段了，令人不齿的行为即使得到权力，也无法让众神信服。,"I will no longer rely on those methods. Even if I gain power through such disgraceful deeds, power alone will not convince the gods."
+我哪怕失去自己的地位，也要换回自己在众神眼中真正的荣耀和尊严！,I must regain my honor and dignity in the eyes of the gods. Even if it costs me the throne!
+你真的做得到吗？尽管来试试吧……,Can you really do it? Go ahead and try...
+呵呵……我没想到自己真的会有被你击败的这一天……,I didn't think that you would actually defeat me...
+是的，我将与你道别，与过去的自己道别。,"I will say goodbye to you, to my old self."
+你成长了不少呢……但作为你曾经的阴影，我不会这么容易就消散的……,"You have grown a lot... But I am your shadow, I will not disappear so easily..."
+只要你内心还有不舍、愧疚和胆怯，只要你还放不下过去的不安，我就迟早会回来找你……,"As long as you still have regrets, guilt, and cowardice in your heart... As long as you still can't let go of the past... Sooner or later, I will return."
+我会记住自己曾经的过错，但我绝不会因此而踌躇不前。,"I will remember my past mistakes, but I will no longer let them hold me back."
+我拭目以待……,We shall see...
+弗丽嘉碎片5个,5 Frigga Shards
+弗丽嘉UR碎片5个,5 UR Frigga Shards
+弗丽嘉UR+碎片5个,5 UR+ Frigga Shards
+弗丽嘉,Frigga
+弗丽嘉UR碎片,UR Frigga Shard
+弗丽嘉UR+碎片,UR+ Frigga Shard
+弗丽嘉碎片,Frigga Shard
+弗丽嘉的记忆晶元,Frigga's Memoria Crystal
+用于提升弗丽嘉的梦境中记忆宝珠的等级,Used to upgrade the Level of the Memoria Orb in Frigga's Dreamland
+弗丽嘉女神碎片自选箱,Frigga’s Shard Optional Box
+打开宝箱选择弗丽嘉任意品质的碎片,Open the box and choose Frigga's Shards of any quality
+湛蓝蔷薇-弗丽嘉,Sapphire Bloom - Frigga
+粉红迷梦-弗丽嘉,Blush Fantasy - Frigga
+为了迎接你，我可是摘下了整个玫瑰园的花来给你铺路呢……我期待着你会喜欢上这一切……,I plucked all the flowers from the rose garden to make a path for you… I hope you will love everything here…
+她是北欧神话中的天后，是家庭和婚姻的守护神。\n虽然贵为天后，但弗丽嘉更渴望以慈母的形象示人，她常化身老妪，替奥丁在凡间行善，亦或者是化身爱情使者，拯救那些相爱但被迫分离的情侣。,"In Norse mythology, Frigga is considered the queen of the gods and the protector of family and marriage. Although, she prefers to be thought of as a loving mother than a queen.\nFrigga often transforms into an old woman, doing good deeds for Odin on Midgard, or into a love messenger, saving those lovers who are in love but forced to separate."
+鲜血玫瑰,Bloody Roses
+一株荆棘中的红玫瑰，花瓣如鲜血般鲜艳欲滴，光是看上它一眼，就仿佛会被抽走灵魂……,"A red rose among the thorns, its petals as bright and dripping as blood, just a glance at it, and it seems like it will suck away your soul…"
+限定专属：弗丽嘉,Exclusive Limited: Frigga
+荆棘毒刺,Thorny Sting
+蔷薇之噬,Devouring Roses
+荆棘圆舞曲,Waltz of Thorns
+蔷薇葬魂曲,Lament of Roses
+寂灭心牢,Heartless Cage
+绯红之心,Scarlet Heart
+圣洁帷幕,Sacred Veil
+鲜花之铠,Blossom Shield
+北欧天后,Norse Queen
+绯红之心EX,Scarlet Heart EX
+圣洁帷幕EX,Sacred Veil EX
+鲜花之铠EX,Blossom Shield EX
+北欧天后EX,Norse Queen EX
+弗丽嘉的梦境,Frigga's Dreamland
+通关弗丽嘉的梦境2,Complete Frigga's Dreamland 2
+通关弗丽嘉的梦境3,Complete Frigga's Dreamland 3
+通关弗丽嘉的梦境6,Complete Frigga's Dreamland 6
+通关弗丽嘉的梦境8,Complete Frigga's Dreamland 8
+通关弗丽嘉的梦境12,Complete Frigga's Dreamland 12
+ACTIVITY_SUMMON_DESC_96,Take my hand and dance with me.
+ACTIVITY_SUMMON_DESC_97,"In that hazy dream, I met you."
+嘉年华巡游,Carnival Parade
+周年献礼,Anniversary Gift
+周年勋礼,Anniversary Merit
+嘉年华挑战,Carnival Challenge
+嘉年华礼包,Carnival Giftpack
+建筑收益总览,Revenue Overview
+嘉年华商店,Carnival Shop
+嘉年华彩券,Carnival Voucher
+用于嘉年华商店商品购买,Used to buy items in the Carnival Shop
+随机骰子,Random Dice
+嘉年华巡游活动道具，使用后随机前进1~6格,"Carnival Parade event item, upon usage, allows you to randomly advance 1 to 6 spaces"
+万能骰子,Universal Dice
+嘉年华巡游活动道具，使用后任意前进1~6格,"Carnival Parade event item, upon usage, allows you to freely move forward anywhere between 1 to 6 spaces"
+随机骰子不足,Insufficient Random Dice
+万能骰子不足,Insufficient Universal Dice
+派遣名单,Dispatch List
+礼品屋,Gift House
+甜筒屋,Cone House
+甜品屋,Dessert House
+烘焙屋,Bakery
+旋转木马,Carousel
+马戏团,Circus
+心动巴士,Heart-flipping Bus
+甜甜圈屋,Doughnut House
+冰淇淋屋,Ice Cream House
+水果小屋,Fruit House
+每完成一圈巡游获得,"When finishing one lap of the parade, get"
+累计投掷骰子{0}次,Total number of dice rolled {0} times
+累计完成巡游{0}次,Cumulative completion of parade {0} times
+ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
+有50%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合）,"Inflicts all enemies with a 50% chance each of [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds."
+对敌人全体造成负面状态数量*弗丽嘉50%攻击力的法术伤害，并治疗我方全体100%攻击力的生命值,Deals M.DMG equal to [50% of Frigga's ATK*Number of Debuffs on all enemies] to all enemies and heals all allies of 100% of her ATK.
+有60%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合），【眩晕】【冰冻】（持续1回合）,"Inflicts all enemies with a 60% chance each of [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds; and [Stun] and [Freeze] for 1 round."
+对敌人全体造成负面状态数量*弗丽嘉70%攻击力的法术伤害，如果负面状态数量大于10则转换为真实伤害。然后治疗我方全体120%攻击力的生命值,"Deals M.DMG equal to [70% of Frigga's ATK*Number of Debuffs on all enemies] to all enemies. If the number of the inflicted debuffs is 11 or more, this dealt damage will be True DMG. Then, heals all allies of 120% of her ATK."
+无视敌人10%异常抵抗,Ignores 10% of enemies’ Debuff RES
+治疗量翻倍，溢出治疗量的100%转化为护盾，护盾持续2回合,"Doubles the healing amount. 100% of the overflow healing is converted to shield, lasting 2 rounds"
+进入战斗时，使敌方攻击力最高的女神进入【孤立】状态（无法驱散），不会受到任何增益状态，持续2回合。使敌方全体进入【无援】状态（无视异常抵抗，无法驱散），使敌人的负面状态被驱散时有30%概率失败，持续2回合,"When entering battle, inflicts [Isolated] to the enemy with the highest ATK and [Helpless] to all enemies for 2 rounds.\n\n[Isolated]: Cannot receive any buffs for 2 rounds. (cannot be dispelled)\n[Helpless]: Debuffs on self have a 30% chance to resist being dispelled (cannot be dispelled and ignores Debuff RES)."
+生命+10%，攻击+10%,HP +20%\nATK +10%
+物抗+15%，魔抗+15%,P.RES +15%\nM.RES +15%
+防御+20%，生命值+20%,DEF +20%\nHP +20%
+效果命中+25%，治疗效果+20%,Effect ACC +25%\nHealing Effect +20%
+生命+15%，攻击+15%,HP +15%\nATK +15%
+物抗+20%，魔抗+20%,P.RES +20%\nM.RES +20%
+防御+30%，生命值+30%,DEF +30%\nHP +30%
+效果命中+40%，治疗效果+30%,Effect ACC +40%\nHealing Effect +30%
+星纹·战神,Starprint - War God
+星纹·勇气,Starprint - Courage
+星纹·嗜血,Starprint - Bloodthirst
+星纹·坚盾,Starprint - Shield
+星纹·神辉,Starprint - Radiance
+星纹·刚毅,Starprint - Firmness
+星纹·帷幕,Starprint - Canopy
+星纹·天佑,Starprint - Blessing
+星纹·英灵,Starprint - Spirit
+星纹·圣魂,Starprint - Soul
+星纹·苏生,Starprint - Rebirth
+星纹·救赎,Starprint - Redemption
+星纹·混沌,Starprint - Chaos
+星纹·雷霆,Starprint - Thunder
+星纹·巨人,Starprint - Giant
+技能伤害提升15%，普攻伤害提升30%,"Increases Skill DMG by 15%, Normal DMG by 30%"
+击杀敌人后使自身伤害提升10%，可叠加至3层，持续至战斗结束,"Killing an enemy increases self-DMG by 10%, stacking up to 3 layers and lasting until the end of the battle"
+行动时使自身攻击力、吸血提升5%，可叠加至10层，持续至战斗结束,"When taking an action, increase self ATK and Leech by 5%, stacking up to 10 layers and lasting until the end of the battle."
+受到技能伤害降低20%,Receive 20% less DMG from skills
+行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害,"When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
+行动时使自身防御、伤害反弹提升5%，可叠加至10层，持续至战斗结束,"When taking an action, increase self DEF and DMG Reflection by 5%, stacking up to 10 layers and lasting until the end of the battle."
+受到技能伤害降低10%，异常抵抗提升10%,Receive 10% less DMG from skills and increase 10% Debuff RES
+受到的治疗效果提高20%，受到的护盾效果提高20%,Increases Healing Effect and Shield Effect by 20%
+基础属性提升5%,Increases Basic Attributes by 5%
+治疗效果提升30%，异常抵抗提升10%,Increases Healing Effect by 30% and Debuff RES by 10%
+每次受到攻击时，自身恢复10%已损失生命值,"When being attacked, restore 10% of the lost HP value."
+每回合行动时，恢复生命值最低的友方女神10%的生命值,"When taking action, restores 10% of the HP of the ally with the lowest HP."
+无视敌方20%异常抵抗,Ignore 20% of the enemy's Debuff RES
+受到伤害时，有20%固定概率使敌方获得【晕眩】1回合,"When taking damage, there is a 20% fixed probability that the enemy will receive [Stun] for 1 round."
+每回合行动时，提升自身生命上限3%，可叠加至10层，持续至战斗结束,"Increases Max HP by 3% every round, stacking up to 10 layers and lasting until the end of the battle"
+中毒-荆棘毒刺,Poison - Thorny Sting
+燃烧-荆棘毒刺,Ignite - Thorny Sting
+破甲-荆棘毒刺,Sunder Armor - Thorny Sting
+击破-荆棘毒刺,Pierce - Thorny Sting
+流血-荆棘毒刺,Bleed - Thorny Sting
+中毒-荆棘圆舞曲,Poison - Waltz of Thorns
+燃烧-荆棘圆舞曲,Ignite - Waltz of Thorns
+破甲-荆棘圆舞曲,Sunder Armor - Waltz of Thorns
+击破-荆棘圆舞曲,Pierce - Waltz of Thorns
+流血-荆棘圆舞曲,Bleed - Waltz of Thorns
+眩晕-荆棘圆舞曲,Stun - Waltz of Thorns
+冰冻-荆棘圆舞曲,Freeze - Waltz of Thorns
+孤立-寂灭心牢,Isolated - Heartless Cage
+无援-寂灭心牢,Helpless - Heartless Cage
+无法获得增益状态,Cannot receive any buffs
+负面状态被驱散时有30%概率失败,The debuffs on herself have a 30% chance to fail at being dispelled
+集齐55个弗丽嘉碎片可以召唤弗丽嘉,Collect 55 Frigga Shards to summon Frigga
+弗丽嘉的迷茫,Frigga's Confusion
+弗丽嘉的冲动,Frigga's Impulse
+弗丽嘉的虚伪,Frigga's Hypocrisy
+过去的弗丽嘉,Frigga in the Past
+三周年纪念卡,3rd Anniversary Souvenir Card
+三周年头像框,3rd Anniversary Avatar Frame
+三周年限定头像框,3rd Anniversary Limited Avatar Frame
+三周年限定聊天气泡,3rd Anniversary Limited Chat Bubble
+这是您的三周年纪念卡邮件奖励，请您查收！,Here are the rewards for your 3rd Anniversary Souvenir Card. Enjoy the treat!
+完成本轮巡游回到起点,Finish the current parade and go back to the beginning
+万能骰子*2,Universal Dice*2
+下一次奖励格子奖励效果翻倍,Multiply the next reward effect by 2
+少量游园货币,A few Parade Coins
+一定游园货币,A certain amount of Parade Coins
+大量游园货币,A Lot of Parade Coins
+大量钻石,A Lot of Diamonds
+少量钻石,A few Diamonds
+随机升级一个未满级建筑,Upgrade one random building that can still be upgraded
+随机后退(1~6),Go back (1~6) spaces by chance
+随机向前(1~6),Go forward (1~6) spaces by chance
+下一次骰子结果翻倍,Multiply the next dice roll by 2
+下一次随机骰子结果为1,Set the next dice roll to 1
+随机向前(1~3),Go forward (1~3) spaces by chance
+随机向后(1~3),Go back (1~3) spaces by chance
+庆典扭蛋,Celebration Gacha
+庆典大奖,Grand Prize
+二等奖,Second Prize
+三等奖,Third Prize
+抽到庆典大奖的概率：{0},Probability of winning the Grand Prize: {0}
+抽到二等奖的概率：{0},Probability of winning the Second Prize: {0}
+抽到三等奖的概率：{0},Probability of winning the Third Prize: {0}
+蛋糕礼盒,Cake Giftbox
+蛋糕,Birthday Cake
+三周年活动期间挂机掉落，可在蛋糕礼盒中开启,Drops during the 3rd Anniversary event. Can be opened in the Cake Giftbox
+打开宝箱选择任意经典女神的一个碎片（洛基及之前的所有稀有SSR+女神、稀有女神召唤券）,Open the treasure chest and choose one shard of any Classic Angel (including Loki and all previous SSR+ Angels or Superior Summon Scroll)
+三周年,3rd Anniversary
+周年庆蛋糕,Anniversary Cake
+蛋糕商店,Cake Shop
+周年庆蛋糕奖励预览,Anniversary Cake Reward Preview
+活动期间副本战斗掉落蛋糕礼盒,Cake Giftbox will be dropped in the Dungeon Battle during the event period
+一周年纪念,1st Anniversary Celebration
+二周年纪念,2nd Anniversary Celebration
+三周年纪念,3rd Anniversary Celebration
+一周年纪念神迹卡,1st Anniversary Celebration Miracle Card
+二周年纪念神迹卡,2nd Anniversary Celebration Miracle Card
+三周年纪念神迹卡,3rd Anniversary Celebration Miracle Card
+累计投掷{0}次,Rolled {0} times in total Miracle Card

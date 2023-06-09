@@ -48317,7 +48317,7 @@
     },
     {
         "name": "阿修罗将驱散敌方后排3人的全部增益，并造成300%的物理伤害和40%的真实伤害。",
-        "value": "Asura disipará un Buff para los 3 enemigos de la última fila, y les causará un 300% de P.DMG y un 40% de DMG real."
+        "value": "Asura disipará todos los beneficios de los 3 enemigos en la última fila,y les causará un 300% de P.DMG y un 40% de DMG real."
     },
     {
         "name": "三头六臂",

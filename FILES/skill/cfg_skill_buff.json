@@ -99,6 +99,69 @@
         "stack_count_max": "0"
     },
     {
+        "bid": "999911111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "输出1",
+        "icon": "",
+        "info": "伤害增加",
+        "stack_count_max": "3"
+    },
+    {
+        "bid": "999913111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "输出3",
+        "icon": "",
+        "info": "增加攻击、吸血",
+        "stack_count_max": "3"
+    },
+    {
+        "bid": "999923111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "肉3",
+        "icon": "",
+        "info": "增加防御、伤害反弹",
+        "stack_count_max": "3"
+    },
+    {
+        "bid": "999941111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "奶1",
+        "icon": "",
+        "info": "受到攻击治疗",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "999951111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "控1-受击buff",
+        "icon": "",
+        "info": "",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "999951121",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "控1-受击buff加buff",
+        "icon": "",
+        "info": "加效果命中",
+        "stack_count_max": "10"
+    },
+    {
+        "bid": "999953111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "控3",
+        "icon": "",
+        "info": "加血上限",
+        "stack_count_max": "3"
+    },
+    {
         "bid": "100111214",
         "buff_anim": "",
         "buff_trigger_anim": "",
@@ -3481,6 +3544,150 @@
         "icon": "",
         "info": "",
         "stack_count_max": "0"
+    },
+    {
+        "bid": "118201111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "中毒-荆棘毒刺",
+        "icon": "ZhongDu",
+        "info": "2回合每回合损失3%的当前生命值",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "118201211",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "燃烧-荆棘毒刺",
+        "icon": "RanShao",
+        "info": "2回合每回合损失4%的当前生命值",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "118201311",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "破甲-荆棘毒刺",
+        "icon": "PoJia",
+        "info": "2回合防御力降低50%",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "118201411",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "击破-荆棘毒刺",
+        "icon": "JiPo",
+        "info": "2回合物抗、魔抗降低50%",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "118201511",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "流血-荆棘毒刺",
+        "icon": "LiuXue",
+        "info": "2回合无法回复生命值",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "中毒-荆棘圆舞曲",
+        "icon": "ZhongDu",
+        "info": "2回合每回合损失3%的当前生命值",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201211",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "燃烧-荆棘圆舞曲",
+        "icon": "RanShao",
+        "info": "2回合每回合损失4%的当前生命值",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201311",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "破甲-荆棘圆舞曲",
+        "icon": "PoJia",
+        "info": "2回合防御力降低50%",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201411",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "击破-荆棘圆舞曲",
+        "icon": "JiPo",
+        "info": "2回合物抗、魔抗降低50%",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201511",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "流血-荆棘圆舞曲",
+        "icon": "LiuXue",
+        "info": "2回合无法回复生命值",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201611",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "眩晕-荆棘圆舞曲",
+        "icon": "YunXuan",
+        "info": "1回合无法行动",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "128201711",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "冰冻-荆棘圆舞曲",
+        "icon": "BingDong",
+        "info": "1回合冰冻，无法行动",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "138201011",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "无视异抗",
+        "icon": "",
+        "info": "",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "138202211",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "护盾",
+        "icon": "",
+        "info": "",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "158201111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "孤立-寂灭心牢",
+        "icon": "GuLi",
+        "info": "无法获得增益状态",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "158202111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "脆弱-寂灭心牢",
+        "icon": "CuiRuo",
+        "info": "每层受到伤害增加1%",
+        "stack_count_max": "999"
     },
     {
         "bid": "55551102",

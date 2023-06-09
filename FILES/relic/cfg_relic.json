@@ -1254,6 +1254,25 @@
         "desc": "埃及神话中至高无上的神器，它代表着神明的庇佑与至高无上的君权，也代表着最为真实的目光。"
     },
     {
+        "id": "150066",
+        "quality": "5",
+        "quality_level_init": "4",
+        "quality_level_max": "14",
+        "awake_level_max": "90",
+        "strengthen_skill_1": "138201001",
+        "strengthen_skill_awake_1": "148201001",
+        "strengthen_skill_2": "138202001",
+        "strengthen_skill_awake_2": "148202001",
+        "relic_pvp_skill": "88888812",
+        "attr_fixd_type_type": "3",
+        "attr_fixd_type": "2",
+        "attr_fixd_value": "80",
+        "attr_exclusive_id": "57",
+        "name": "鲜血玫瑰",
+        "icon_path": "150066.png",
+        "desc": "一株荆棘中的红玫瑰，花瓣如鲜血般鲜艳欲滴，光是看上它一眼，就仿佛会被抽走灵魂……"
+    },
+    {
         "id": "150999",
         "quality": "5",
         "quality_level_init": "4",

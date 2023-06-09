@@ -598,5 +598,13 @@
         "is_open": "1",
         "voice_lang_key": "",
         "voice_path": ""
+    },
+    {
+        "hero_cid": "2082",
+        "story_title": "北欧神系",
+        "story_content": "她是北欧神话中的天后，是家庭和婚姻的守护神。\\n虽然贵为天后，但弗丽嘉更渴望以慈母的形象示人，她常化身老妪，替奥丁在凡间行善，亦或者是化身爱情使者，拯救那些相爱但被迫分离的情侣。",
+        "is_open": "1",
+        "voice_lang_key": "",
+        "voice_path": ""
     }
 ]

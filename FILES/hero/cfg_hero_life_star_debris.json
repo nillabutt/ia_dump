@@ -1,37 +1,198 @@
 [
     {
+        "hero_cid": "1001",
+        "quality": "5",
+        "name": "主角命星",
+        "icon": "1001.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2037",
+        "quality": "5",
+        "name": "拉的命星",
+        "icon": "2037.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2039",
+        "quality": "5",
+        "name": "赫拉的命星",
+        "icon": "2039.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2042",
+        "quality": "5",
+        "name": "圣诞女神的命星",
+        "icon": "2042.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2047",
+        "quality": "5",
+        "name": "丘比特的命星",
+        "icon": "2047.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
         "hero_cid": "2049",
-        "quality": "3",
-        "name": "命星碎片",
+        "quality": "5",
+        "name": "伊卡璐斯的命星",
         "icon": "2049.png",
-        "description": "集齐40个卢恩符石碎片可以合成卢恩符石"
+        "description": "限定女神的命星的激活材料"
     },
     {
         "hero_cid": "2050",
-        "quality": "3",
-        "name": "聚金指环碎片",
+        "quality": "5",
+        "name": "卡俄斯的命星",
         "icon": "2050.png",
-        "description": "集齐40个聚金指环碎片可以合成聚金指环"
+        "description": "限定女神的命星的激活材料"
     },
     {
         "hero_cid": "2051",
-        "quality": "3",
-        "name": "特洛伊木马碎片",
+        "quality": "5",
+        "name": "海姆达尔的命星",
         "icon": "2051.png",
-        "description": "集齐40个特洛伊木马碎片可以合成特洛伊木马"
+        "description": "限定女神的命星的激活材料"
     },
     {
         "hero_cid": "2053",
-        "quality": "3",
-        "name": "月桂双冠碎片",
+        "quality": "5",
+        "name": "卑弥呼的命星",
         "icon": "2053.png",
-        "description": "集齐40个月桂双冠碎片可以合成月桂双冠"
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2054",
+        "quality": "5",
+        "name": "稚日女尊的命星",
+        "icon": "2054.png",
+        "description": "限定女神的命星的激活材料"
     },
     {
         "hero_cid": "2055",
-        "quality": "3",
-        "name": "月桂双冠碎片",
+        "quality": "5",
+        "name": "冰霜龙母的命星",
         "icon": "2055.png",
-        "description": "集齐40个月桂双冠碎片可以合成月桂双冠"
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2056",
+        "quality": "5",
+        "name": "灰烬龙女的命星",
+        "icon": "2056.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2057",
+        "quality": "5",
+        "name": "风暴之龙的命星",
+        "icon": "2057.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2060",
+        "quality": "5",
+        "name": "芙蕾雅的命星",
+        "icon": "2060.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2063",
+        "quality": "5",
+        "name": "沈青儿的命星",
+        "icon": "2063.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2065",
+        "quality": "5",
+        "name": "双子座的命星",
+        "icon": "2065.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2067",
+        "quality": "5",
+        "name": "嫦娥的命星",
+        "icon": "2067.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2068",
+        "quality": "5",
+        "name": "阿修罗的命星",
+        "icon": "2068.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2069",
+        "quality": "5",
+        "name": "雅典娜的命星",
+        "icon": "2069.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2071",
+        "quality": "5",
+        "name": "摩羯座的命星",
+        "icon": "2071.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2073",
+        "quality": "5",
+        "name": "双鱼座的命星",
+        "icon": "2073.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2074",
+        "quality": "5",
+        "name": "维纳斯的命星",
+        "icon": "2074.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2075",
+        "quality": "5",
+        "name": "宙斯的命星",
+        "icon": "2075.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2076",
+        "quality": "5",
+        "name": "洛基的命星",
+        "icon": "2076.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2077",
+        "quality": "5",
+        "name": "索尔的命星",
+        "icon": "2077.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2078",
+        "quality": "5",
+        "name": "阿波罗的命星",
+        "icon": "2078.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2081",
+        "quality": "5",
+        "name": "荷鲁斯的命星",
+        "icon": "2081.png",
+        "description": "限定女神的命星的激活材料"
+    },
+    {
+        "hero_cid": "2082",
+        "quality": "5",
+        "name": "弗丽嘉的命星",
+        "icon": "2082.png",
+        "description": "限定女神的命星的激活材料"
     }
 ]

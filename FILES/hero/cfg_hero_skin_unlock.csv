@@ -19,6 +19,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 101003300,103,1,0,丰收礼赞,USER_GEJ,HL0,1000_GEJ.png,2039_0.png,1000_GEJ.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10027:10028,0,,,限定购买,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003400,103,1,0,圣诞使者,USER_SDSZ,HL0,1000_SDSZ.png,2039_0.png,1000_SDSZ.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10029:10030,0,,,限定购买,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003500,103,1,0,春节献礼,USER_CJXL,HL0,1000_CJXL.png,2039_0.png,1000_CJXL.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10031:10032,0,,,限定购买,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
+101003600,103,1,0,闪耀恋曲,USER_SYLQ,HL0,1000_SYLQ.png,2039_0.png,1000_SYLQ.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10033:10034,0,,,限定购买,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003888,102,0,0,芳华一梦,USER_UR_PLUS,HL0,1000_UR_PLUS.png,2039_0.png,1000_UR_PLUS.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,8,0,,,神力觉醒,0,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,1
 102001000,0,0,0,美杜莎,MDS0,HL0,2001_0.png,2039_0.png,2001.png,2039.png,0,2,2001,1,0,0,0,,111|1,默认皮肤,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
 102001001,105,0,0,美杜莎,MDS1,HL0,2001_1.png,2039_0.png,2001_1.png,2039.png,0,4,2001,0,3:1:50|3:22:60,2:2000010:50,0,,,兑换,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
@@ -319,3 +320,6 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102081000,0,0,0,荷鲁斯,HLS0,YKLS0,2081_0.png,2049_0.png,2081.png,2049.png,0,2,2081,1,0,0,0,,111|1,默认皮肤,0,hls,hero_hls,4,1,RanShaoLianYu,img_job_bg_1,0
 102081200,102,0,0,真理之辉-荷鲁斯,HLS_UR,YKLS0,2081_UR.png,2049_0.png,2081_UR.png,2049.png,1,6,2081,0,3:1:100|3:22:450,6,0,,,神性觉醒,0,hls_ur,hero_hls,4,1,RanShaoLianYu,img_job_bg_1,0
 102081300,102,0,0,暮光神姿-荷鲁斯,HLS_UR_PLUS,YKLS0,2081_UR_PLUS.png,2049_0.png,2081_UR_PLUS.png,2049.png,1,6,2081,0,3:1:100|3:22:450,8,0,,,神力觉醒,0,hls_ur,hero_hls,4,1,RanShaoLianYu,img_job_bg_1,1
+102082000,0,0,0,弗丽嘉,FLJ0,YKLS0,2082_0.png,2049_0.png,2082.png,2049.png,0,2,2082,1,0,0,0,,111|1,默认皮肤,0,flj,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,0
+102082200,102,0,0,湛蓝蔷薇-弗丽嘉,FLJ_UR,YKLS0,2082_UR.png,2049_0.png,2082_UR.png,2049.png,1,6,2082,0,3:1:100|3:22:450,6,0,,,神性觉醒,0,flj_ur,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,0
+102082300,102,0,0,粉红迷梦-弗丽嘉,FLJ_UR_PLUS,YKLS0,2082_UR_PLUS.png,2049_0.png,2082_UR_PLUS.png,2049.png,1,6,2082,0,3:1:100|3:22:450,8,0,,,神力觉醒,0,flj_ur,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,1

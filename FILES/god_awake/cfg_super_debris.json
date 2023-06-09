@@ -133,5 +133,14 @@
         "name": "荷鲁斯UR+碎片",
         "icon": "2081_UR_PLUS.png",
         "description": "此碎片可在神力觉醒中用于提升女神品质"
+    },
+    {
+        "cfg_id": "2082",
+        "unlock_count": "65",
+        "quality": "7",
+        "restore": "20",
+        "name": "弗丽嘉UR+碎片",
+        "icon": "2082_UR_PLUS.png",
+        "description": "此碎片可在神力觉醒中用于提升女神品质"
     }
 ]

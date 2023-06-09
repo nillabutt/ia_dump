@@ -511,5 +511,14 @@
         "attr_type": "27",
         "attr_value": "100",
         "desc": "限定专属：荷鲁斯"
+    },
+    {
+        "id": "57",
+        "job": "0",
+        "hero": "2082",
+        "attr_type_type": "2",
+        "attr_type": "27",
+        "attr_value": "100",
+        "desc": "限定专属：弗丽嘉"
     }
 ]

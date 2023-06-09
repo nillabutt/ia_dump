@@ -276,6 +276,18 @@
         "expiration_time": ""
     },
     {
+        "id": "1032",
+        "name": "2023三周年纪念聊天气泡",
+        "quality": "6",
+        "end_time": "0",
+        "icon_thing": "1032.png",
+        "icon_left": "1032_l.png",
+        "icon_right": "1032_r.png",
+        "desc": "2023三周年庆典纪念聊天气泡",
+        "is_permanent": "",
+        "expiration_time": ""
+    },
+    {
         "id": "2000",
         "name": "社群聊天气泡1",
         "quality": "6",

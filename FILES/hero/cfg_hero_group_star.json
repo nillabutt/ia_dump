@@ -1,122 +1,590 @@
 [
     {
         "id": "1",
-        "hero_cid": "2049",
-        "signal": "1",
-        "other_hero_cids": "2050|2051|2053|2055",
-        "light_level": "10",
-        "skill_id": "66662101"
+        "hero_cid": "1001",
+        "signal": "7",
+        "need_other_hero_count": "5",
+        "skill_id": "999931001"
     },
     {
         "id": "2",
-        "hero_cid": "2049",
-        "signal": "1",
-        "other_hero_cids": "2050|2051|2053|2055",
-        "light_level": "20",
-        "skill_id": "66662201"
+        "hero_cid": "1001",
+        "signal": "7",
+        "need_other_hero_count": "5",
+        "skill_id": "999932001"
     },
     {
         "id": "3",
-        "hero_cid": "2049",
-        "signal": "1",
-        "other_hero_cids": "2050|2051|2053|2055",
-        "light_level": "30",
-        "skill_id": "66662301"
+        "hero_cid": "1001",
+        "signal": "7",
+        "need_other_hero_count": "5",
+        "skill_id": "999933001"
     },
     {
         "id": "4",
-        "hero_cid": "2050",
-        "signal": "1",
-        "other_hero_cids": "2049|2051|2053|2055",
-        "light_level": "10",
-        "skill_id": "66662101"
+        "hero_cid": "2037",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
     },
     {
         "id": "5",
-        "hero_cid": "2050",
-        "signal": "1",
-        "other_hero_cids": "2049|2051|2053|2055",
-        "light_level": "20",
-        "skill_id": "66662201"
+        "hero_cid": "2037",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
     },
     {
         "id": "6",
-        "hero_cid": "2050",
-        "signal": "1",
-        "other_hero_cids": "2049|2051|2053|2055",
-        "light_level": "30",
-        "skill_id": "66662301"
+        "hero_cid": "2037",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
     },
     {
         "id": "7",
-        "hero_cid": "2051",
-        "signal": "1",
-        "other_hero_cids": "2049|2050|2053|2055",
-        "light_level": "10",
-        "skill_id": "66662101"
+        "hero_cid": "2039",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999931001"
     },
     {
         "id": "8",
-        "hero_cid": "2051",
-        "signal": "1",
-        "other_hero_cids": "2049|2050|2053|2055",
-        "light_level": "20",
-        "skill_id": "66662201"
+        "hero_cid": "2039",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999932001"
     },
     {
         "id": "9",
-        "hero_cid": "2051",
-        "signal": "1",
-        "other_hero_cids": "2049|2050|2053|2055",
-        "light_level": "30",
-        "skill_id": "66662301"
+        "hero_cid": "2039",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999933001"
     },
     {
         "id": "10",
-        "hero_cid": "2053",
-        "signal": "3",
-        "other_hero_cids": "2049|2050|2051|2055",
-        "light_level": "10",
-        "skill_id": "66662101"
+        "hero_cid": "2042",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999951001"
     },
     {
         "id": "11",
-        "hero_cid": "2053",
-        "signal": "3",
-        "other_hero_cids": "2049|2050|2051|2055",
-        "light_level": "20",
-        "skill_id": "66662201"
+        "hero_cid": "2042",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999952001"
     },
     {
         "id": "12",
-        "hero_cid": "2053",
-        "signal": "3",
-        "other_hero_cids": "2049|2050|2051|2055",
-        "light_level": "30",
-        "skill_id": "66662301"
+        "hero_cid": "2042",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999953001"
     },
     {
         "id": "13",
-        "hero_cid": "2055",
-        "signal": "2",
-        "other_hero_cids": "2049|2050|2051|2053",
-        "light_level": "10",
-        "skill_id": "66662101"
+        "hero_cid": "2047",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999941001"
     },
     {
         "id": "14",
-        "hero_cid": "2055",
-        "signal": "2",
-        "other_hero_cids": "2049|2050|2051|2053",
-        "light_level": "20",
-        "skill_id": "66662201"
+        "hero_cid": "2047",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999942001"
     },
     {
         "id": "15",
+        "hero_cid": "2047",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999943001"
+    },
+    {
+        "id": "16",
+        "hero_cid": "2049",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "17",
+        "hero_cid": "2049",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "18",
+        "hero_cid": "2049",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "19",
+        "hero_cid": "2050",
+        "signal": "3",
+        "need_other_hero_count": "5",
+        "skill_id": "999951001"
+    },
+    {
+        "id": "20",
+        "hero_cid": "2050",
+        "signal": "3",
+        "need_other_hero_count": "5",
+        "skill_id": "999952001"
+    },
+    {
+        "id": "21",
+        "hero_cid": "2050",
+        "signal": "3",
+        "need_other_hero_count": "5",
+        "skill_id": "999953001"
+    },
+    {
+        "id": "22",
+        "hero_cid": "2051",
+        "signal": "1",
+        "need_other_hero_count": "5",
+        "skill_id": "999921001"
+    },
+    {
+        "id": "23",
+        "hero_cid": "2051",
+        "signal": "1",
+        "need_other_hero_count": "5",
+        "skill_id": "999922001"
+    },
+    {
+        "id": "24",
+        "hero_cid": "2051",
+        "signal": "1",
+        "need_other_hero_count": "5",
+        "skill_id": "999923001"
+    },
+    {
+        "id": "25",
+        "hero_cid": "2053",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "26",
+        "hero_cid": "2053",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "27",
+        "hero_cid": "2053",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "28",
+        "hero_cid": "2054",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999941001"
+    },
+    {
+        "id": "29",
+        "hero_cid": "2054",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999942001"
+    },
+    {
+        "id": "30",
+        "hero_cid": "2054",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999943001"
+    },
+    {
+        "id": "31",
         "hero_cid": "2055",
         "signal": "2",
-        "other_hero_cids": "2049|2050|2051|2053",
-        "light_level": "30",
-        "skill_id": "66662301"
+        "need_other_hero_count": "5",
+        "skill_id": "999951001"
+    },
+    {
+        "id": "32",
+        "hero_cid": "2055",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999952001"
+    },
+    {
+        "id": "33",
+        "hero_cid": "2055",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999953001"
+    },
+    {
+        "id": "34",
+        "hero_cid": "2056",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "35",
+        "hero_cid": "2056",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "36",
+        "hero_cid": "2056",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "37",
+        "hero_cid": "2057",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "38",
+        "hero_cid": "2057",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "39",
+        "hero_cid": "2057",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "40",
+        "hero_cid": "2060",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "41",
+        "hero_cid": "2060",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "42",
+        "hero_cid": "2060",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "43",
+        "hero_cid": "2063",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999931001"
+    },
+    {
+        "id": "44",
+        "hero_cid": "2063",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999932001"
+    },
+    {
+        "id": "45",
+        "hero_cid": "2063",
+        "signal": "8",
+        "need_other_hero_count": "5",
+        "skill_id": "999933001"
+    },
+    {
+        "id": "46",
+        "hero_cid": "2065",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "47",
+        "hero_cid": "2065",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "48",
+        "hero_cid": "2065",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "49",
+        "hero_cid": "2067",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "50",
+        "hero_cid": "2067",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "51",
+        "hero_cid": "2067",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "52",
+        "hero_cid": "2068",
+        "signal": "7",
+        "need_other_hero_count": "5",
+        "skill_id": "999931001"
+    },
+    {
+        "id": "53",
+        "hero_cid": "2068",
+        "signal": "7",
+        "need_other_hero_count": "5",
+        "skill_id": "999932001"
+    },
+    {
+        "id": "54",
+        "hero_cid": "2068",
+        "signal": "7",
+        "need_other_hero_count": "5",
+        "skill_id": "999933001"
+    },
+    {
+        "id": "55",
+        "hero_cid": "2069",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "56",
+        "hero_cid": "2069",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "57",
+        "hero_cid": "2069",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "58",
+        "hero_cid": "2071",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999941001"
+    },
+    {
+        "id": "59",
+        "hero_cid": "2071",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999942001"
+    },
+    {
+        "id": "60",
+        "hero_cid": "2071",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999943001"
+    },
+    {
+        "id": "61",
+        "hero_cid": "2073",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999951001"
+    },
+    {
+        "id": "62",
+        "hero_cid": "2073",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999952001"
+    },
+    {
+        "id": "63",
+        "hero_cid": "2073",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999953001"
+    },
+    {
+        "id": "64",
+        "hero_cid": "2074",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999921001"
+    },
+    {
+        "id": "65",
+        "hero_cid": "2074",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999922001"
+    },
+    {
+        "id": "66",
+        "hero_cid": "2074",
+        "signal": "9",
+        "need_other_hero_count": "5",
+        "skill_id": "999923001"
+    },
+    {
+        "id": "67",
+        "hero_cid": "2075",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "68",
+        "hero_cid": "2075",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "69",
+        "hero_cid": "2075",
+        "signal": "5",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "70",
+        "hero_cid": "2076",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "71",
+        "hero_cid": "2076",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "72",
+        "hero_cid": "2076",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "73",
+        "hero_cid": "2077",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "74",
+        "hero_cid": "2077",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "75",
+        "hero_cid": "2077",
+        "signal": "4",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "76",
+        "hero_cid": "2078",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999911001"
+    },
+    {
+        "id": "77",
+        "hero_cid": "2078",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999912001"
+    },
+    {
+        "id": "78",
+        "hero_cid": "2078",
+        "signal": "6",
+        "need_other_hero_count": "5",
+        "skill_id": "999913001"
+    },
+    {
+        "id": "79",
+        "hero_cid": "2081",
+        "signal": "3",
+        "need_other_hero_count": "5",
+        "skill_id": "999931001"
+    },
+    {
+        "id": "80",
+        "hero_cid": "2081",
+        "signal": "3",
+        "need_other_hero_count": "5",
+        "skill_id": "999932001"
+    },
+    {
+        "id": "81",
+        "hero_cid": "2081",
+        "signal": "3",
+        "need_other_hero_count": "5",
+        "skill_id": "999933001"
+    },
+    {
+        "id": "82",
+        "hero_cid": "2082",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999951001"
+    },
+    {
+        "id": "83",
+        "hero_cid": "2082",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999952001"
+    },
+    {
+        "id": "84",
+        "hero_cid": "2082",
+        "signal": "2",
+        "need_other_hero_count": "5",
+        "skill_id": "999953001"
     }
 ]

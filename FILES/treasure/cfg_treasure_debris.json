@@ -268,5 +268,32 @@
         "name": "武斗大会碎片",
         "icon": "3008.png",
         "description": "集齐50个武斗大会碎片可以合成武斗大会"
+    },
+    {
+        "treasure_id": "3009",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "一周年纪念卡碎片",
+        "icon": "3009.png",
+        "description": "一周年纪念卡碎片"
+    },
+    {
+        "treasure_id": "3010",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "二周年纪念卡碎片",
+        "icon": "3010.png",
+        "description": "二周年纪念卡碎片"
+    },
+    {
+        "treasure_id": "3011",
+        "position_count": "50",
+        "delete_get_score": "50",
+        "quality": "5",
+        "name": "三周年纪念卡碎片",
+        "icon": "3011.png",
+        "description": "三周年纪念卡碎片"
     }
 ]

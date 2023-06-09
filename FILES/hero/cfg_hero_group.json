@@ -2738,5 +2738,55 @@
         "attr_value": "250",
         "content": "与{0}同时上阵",
         "hcid": "2081"
+    },
+    {
+        "gid": "282",
+        "group_name": "北欧至尊",
+        "hero_ids": "2082|2035",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2082"
+    },
+    {
+        "gid": "283",
+        "group_name": "玫瑰恋曲",
+        "hero_ids": "2082|2051",
+        "attr_type_type": "3",
+        "attr_type": "1",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2082"
+    },
+    {
+        "gid": "284",
+        "group_name": "天后双星",
+        "hero_ids": "2082|2039",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "150",
+        "content": "与{0}同时上阵",
+        "hcid": "2082"
+    },
+    {
+        "gid": "285",
+        "group_name": "爱情同盟",
+        "hero_ids": "2082|2074|2047",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "200",
+        "content": "与{0}同时上阵",
+        "hcid": "2082"
+    },
+    {
+        "gid": "286",
+        "group_name": "末日蔷薇",
+        "hero_ids": "2082|2055|2056|2057",
+        "attr_type_type": "3",
+        "attr_type": "2",
+        "attr_value": "250",
+        "content": "与{0}同时上阵",
+        "hcid": "2082"
     }
 ]

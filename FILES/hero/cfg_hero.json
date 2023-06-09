@@ -1815,5 +1815,28 @@
         "spine_name": "HLS",
         "spine_index": "0|1|2|3",
         "recover": "5:2000017:10"
+    },
+    {
+        "cid": "2082",
+        "is_sp": "0",
+        "review_show": "0",
+        "role": "2",
+        "job": "3",
+        "main": "3",
+        "quality": "6",
+        "quality_level": "7",
+        "potential": "5200",
+        "str_initial": "1200",
+        "agi_initial": "1200",
+        "int_initial": "1200",
+        "sta_initial": "1200",
+        "fight_power_initial": "3650",
+        "skill_ids": "118201001|118202001|218211001|218212001|218213001|218214001",
+        "name": "弗丽嘉",
+        "avatar_path": "2082.png",
+        "bg_path": "ShouErQingDian",
+        "spine_name": "FLJ",
+        "spine_index": "0|1|2|3",
+        "recover": "5:2000017:10"
     }
 ]

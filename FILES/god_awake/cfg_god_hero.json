@@ -568,5 +568,20 @@
         "avatar_path": "2081.png",
         "bg_path": "PanDuoLaShenMiao",
         "spine_name": "HLS"
+    },
+    {
+        "cid": "2082",
+        "is_open": "1",
+        "quality_level": "8",
+        "potential": "6000",
+        "str_initial": "1510",
+        "agi_initial": "1510",
+        "int_initial": "1510",
+        "sta_initial": "1510",
+        "skill_ids": "128201001|128202001|228211001|228212001|228213001|228214001",
+        "name": "弗丽嘉",
+        "avatar_path": "2082.png",
+        "bg_path": "PanDuoLaShenMiao",
+        "spine_name": "FLJ"
     }
 ]
