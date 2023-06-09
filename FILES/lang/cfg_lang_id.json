@@ -53576,14 +53576,6 @@
         "value": "Diskon Chinese New Year Festival, promosi dengan waktu terbatas"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
-        "value": "Hadiah kartu ucapan Thanksgiving Festival"
-    },
-    {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
-        "value": "Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!"
-    },
-    {
         "name": "Free",
         "value": "Gratis"
     },
@@ -53834,5 +53826,13 @@
     {
         "name": "请选择奖励",
         "value": "Silakan memilih hadiah harapanmu"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
+        "value": "Hadiah kartu ucapan Thanksgiving Festival"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
+        "value": "Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!"
     }
 ]

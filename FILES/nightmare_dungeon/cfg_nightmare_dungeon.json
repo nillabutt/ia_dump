@@ -87,7 +87,7 @@
         "bg_path": "TianZhaoShenShe-Combined",
         "name": "1-10",
         "map_id": "1",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "11",
@@ -177,7 +177,7 @@
         "bg_path": "TianZhaoShenShe-Combined",
         "name": "1-20",
         "map_id": "1",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "21",
@@ -267,7 +267,7 @@
         "bg_path": "TianZhaoShenShe-Combined",
         "name": "1-30",
         "map_id": "1",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "31",
@@ -357,7 +357,7 @@
         "bg_path": "YueDuShenShe",
         "name": "2-10",
         "map_id": "2",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "41",
@@ -447,7 +447,7 @@
         "bg_path": "YueDuShenShe",
         "name": "2-20",
         "map_id": "2",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "51",
@@ -537,7 +537,7 @@
         "bg_path": "YueDuShenShe",
         "name": "2-30",
         "map_id": "2",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "61",
@@ -627,7 +627,7 @@
         "bg_path": "YouAnMiGong",
         "name": "3-10",
         "map_id": "3",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "71",
@@ -717,7 +717,7 @@
         "bg_path": "YouAnMiGong",
         "name": "3-20",
         "map_id": "3",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "81",
@@ -807,7 +807,7 @@
         "bg_path": "YouAnMiGong",
         "name": "3-30",
         "map_id": "3",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "91",
@@ -897,7 +897,7 @@
         "bg_path": "PanDuoLaShenMiao",
         "name": "4-10",
         "map_id": "4",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "101",
@@ -987,7 +987,7 @@
         "bg_path": "PanDuoLaShenMiao",
         "name": "4-20",
         "map_id": "4",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "111",
@@ -1077,7 +1077,7 @@
         "bg_path": "PanDuoLaShenMiao",
         "name": "4-30",
         "map_id": "4",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "121",
@@ -1167,7 +1167,7 @@
         "bg_path": "DaJinZiTa",
         "name": "5-10",
         "map_id": "5",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "131",
@@ -1257,7 +1257,7 @@
         "bg_path": "DaJinZiTa",
         "name": "5-20",
         "map_id": "5",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "141",
@@ -1437,7 +1437,7 @@
         "bg_path": "MuShiYongDao",
         "name": "6-10",
         "map_id": "6",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "161",
@@ -1527,7 +1527,7 @@
         "bg_path": "MuShiYongDao",
         "name": "6-20",
         "map_id": "6",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "171",
@@ -1617,7 +1617,7 @@
         "bg_path": "MuShiYongDao",
         "name": "6-30",
         "map_id": "6",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "181",
@@ -1707,7 +1707,7 @@
         "bg_path": "JinBiMuShi",
         "name": "7-10",
         "map_id": "7",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "191",
@@ -1797,7 +1797,7 @@
         "bg_path": "JinBiMuShi",
         "name": "7-20",
         "map_id": "7",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "201",
@@ -1887,7 +1887,7 @@
         "bg_path": "JinBiMuShi",
         "name": "7-30",
         "map_id": "7",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "211",
@@ -1977,7 +1977,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "8-10",
         "map_id": "8",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "221",
@@ -2067,7 +2067,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "8-20",
         "map_id": "8",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "231",
@@ -2157,7 +2157,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "8-30",
         "map_id": "8",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "241",
@@ -2247,7 +2247,7 @@
         "bg_path": "XueChengBao",
         "name": "9-10",
         "map_id": "9",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "251",
@@ -2337,7 +2337,7 @@
         "bg_path": "XueChengBao",
         "name": "9-20",
         "map_id": "9",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "261",
@@ -2427,7 +2427,7 @@
         "bg_path": "XueChengBao",
         "name": "9-30",
         "map_id": "9",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "271",
@@ -2517,7 +2517,7 @@
         "bg_path": "ASiJiaDe",
         "name": "10-10",
         "map_id": "10",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "281",
@@ -2607,7 +2607,7 @@
         "bg_path": "ASiJiaDe",
         "name": "10-20",
         "map_id": "10",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "291",
@@ -2787,7 +2787,7 @@
         "bg_path": "ShiJieShu",
         "name": "11-10",
         "map_id": "11",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "311",
@@ -2877,7 +2877,7 @@
         "bg_path": "ShiJieShu",
         "name": "11-20",
         "map_id": "11",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "321",
@@ -2967,7 +2967,7 @@
         "bg_path": "ShiJieShu",
         "name": "11-30",
         "map_id": "11",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "331",
@@ -3057,7 +3057,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "12-10",
         "map_id": "12",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "341",
@@ -3147,7 +3147,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "12-20",
         "map_id": "12",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "351",
@@ -3237,7 +3237,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "12-30",
         "map_id": "12",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "361",
@@ -3327,7 +3327,7 @@
         "bg_path": "NvWaQinGong",
         "name": "13-10",
         "map_id": "13",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "371",
@@ -3417,7 +3417,7 @@
         "bg_path": "NvWaQinGong",
         "name": "13-20",
         "map_id": "13",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "381",
@@ -3507,7 +3507,7 @@
         "bg_path": "NvWaQinGong",
         "name": "13-30",
         "map_id": "13",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "391",
@@ -3597,7 +3597,7 @@
         "bg_path": "KunLunTianGong",
         "name": "14-10",
         "map_id": "14",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "401",
@@ -3687,7 +3687,7 @@
         "bg_path": "KunLunTianGong",
         "name": "14-20",
         "map_id": "14",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "411",
@@ -3777,7 +3777,7 @@
         "bg_path": "KunLunTianGong",
         "name": "14-30",
         "map_id": "14",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "421",
@@ -3867,7 +3867,7 @@
         "bg_path": "XieShenCangShenChu",
         "name": "15-10",
         "map_id": "15",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "431",
@@ -3957,7 +3957,7 @@
         "bg_path": "XieShenCangShenChu",
         "name": "15-20",
         "map_id": "15",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "441",
@@ -4137,7 +4137,7 @@
         "bg_path": "ShenYuanZhiLv",
         "name": "16-10",
         "map_id": "16",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "461",
@@ -4227,7 +4227,7 @@
         "bg_path": "ShenYuanZhiLv",
         "name": "16-20",
         "map_id": "16",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "471",
@@ -4317,7 +4317,7 @@
         "bg_path": "ShenYuanZhiLv",
         "name": "16-30",
         "map_id": "16",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "481",
@@ -4407,7 +4407,7 @@
         "bg_path": "PanDuoLaShenMiao",
         "name": "17-10",
         "map_id": "17",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "491",
@@ -4497,7 +4497,7 @@
         "bg_path": "PanDuoLaShenMiao",
         "name": "17-20",
         "map_id": "17",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "501",
@@ -4587,7 +4587,7 @@
         "bg_path": "PanDuoLaShenMiao",
         "name": "17-30",
         "map_id": "17",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "511",
@@ -4677,7 +4677,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "18-10",
         "map_id": "18",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "521",
@@ -4767,7 +4767,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "18-20",
         "map_id": "18",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "531",
@@ -4857,7 +4857,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "18-30",
         "map_id": "18",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "541",
@@ -4947,7 +4947,7 @@
         "bg_path": "ASiJiaDe",
         "name": "19-10",
         "map_id": "19",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "551",
@@ -5037,7 +5037,7 @@
         "bg_path": "ASiJiaDe",
         "name": "19-20",
         "map_id": "19",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "561",
@@ -5127,7 +5127,7 @@
         "bg_path": "ASiJiaDe",
         "name": "19-30",
         "map_id": "19",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "571",
@@ -5217,7 +5217,7 @@
         "bg_path": "ShiJieShu",
         "name": "20-10",
         "map_id": "20",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "581",
@@ -5307,7 +5307,7 @@
         "bg_path": "ShiJieShu",
         "name": "20-20",
         "map_id": "20",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "591",
@@ -5487,7 +5487,7 @@
         "bg_path": "XueChengBao",
         "name": "21-10",
         "map_id": "21",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "611",
@@ -5577,7 +5577,7 @@
         "bg_path": "XueChengBao",
         "name": "21-20",
         "map_id": "21",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "621",
@@ -5667,7 +5667,7 @@
         "bg_path": "XueChengBao",
         "name": "21-30",
         "map_id": "21",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "631",
@@ -5757,7 +5757,7 @@
         "bg_path": "ShenYuanZhiLv",
         "name": "22-10",
         "map_id": "22",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "641",
@@ -5847,7 +5847,7 @@
         "bg_path": "ShenYuanZhiLv",
         "name": "22-20",
         "map_id": "22",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "651",
@@ -5937,7 +5937,7 @@
         "bg_path": "ShenYuanZhiLv",
         "name": "22-30",
         "map_id": "22",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "661",
@@ -6027,7 +6027,7 @@
         "bg_path": "KunLunTianGong",
         "name": "23-10",
         "map_id": "23",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "671",
@@ -6117,7 +6117,7 @@
         "bg_path": "KunLunTianGong",
         "name": "23-20",
         "map_id": "23",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "681",
@@ -6207,7 +6207,7 @@
         "bg_path": "KunLunTianGong",
         "name": "23-30",
         "map_id": "23",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "691",
@@ -6297,7 +6297,7 @@
         "bg_path": "DaJinZiTa",
         "name": "24-10",
         "map_id": "24",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "701",
@@ -6387,7 +6387,7 @@
         "bg_path": "DaJinZiTa",
         "name": "24-20",
         "map_id": "24",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "711",
@@ -6477,7 +6477,7 @@
         "bg_path": "DaJinZiTa",
         "name": "24-30",
         "map_id": "24",
-        "reward": "5:3000027:1"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "721",
@@ -6567,7 +6567,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "25-10",
         "map_id": "25",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "731",
@@ -6657,7 +6657,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "25-20",
         "map_id": "25",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "741",
@@ -6837,7 +6837,7 @@
         "bg_path": "XieShenCangShenChu",
         "name": "26-10",
         "map_id": "26",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "761",
@@ -6927,7 +6927,7 @@
         "bg_path": "XieShenCangShenChu",
         "name": "26-20",
         "map_id": "26",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "771",
@@ -7107,7 +7107,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "27-10",
         "map_id": "27",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "791",
@@ -7197,7 +7197,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "27-20",
         "map_id": "27",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "801",
@@ -7377,7 +7377,7 @@
         "bg_path": "XueChengBao",
         "name": "28-10",
         "map_id": "28",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "821",
@@ -7467,7 +7467,7 @@
         "bg_path": "XueChengBao",
         "name": "28-20",
         "map_id": "28",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "831",
@@ -7647,7 +7647,7 @@
         "bg_path": "NvWaQinGong",
         "name": "29-10",
         "map_id": "29",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "851",
@@ -7737,7 +7737,7 @@
         "bg_path": "NvWaQinGong",
         "name": "29-20",
         "map_id": "29",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "861",
@@ -7917,7 +7917,7 @@
         "bg_path": "DaJinZiTa",
         "name": "30-10",
         "map_id": "30",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "881",
@@ -8007,7 +8007,7 @@
         "bg_path": "DaJinZiTa",
         "name": "30-20",
         "map_id": "30",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "891",
@@ -8097,7 +8097,7 @@
         "bg_path": "DaJinZiTa",
         "name": "30-30",
         "map_id": "30",
-        "reward": "5:3000027:10"
+        "reward": "5:3000027:5"
     },
     {
         "dungeon_id": "901",
@@ -8187,7 +8187,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "31-10",
         "map_id": "31",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "911",
@@ -8277,7 +8277,7 @@
         "bg_path": "ShenZhiXiaGu",
         "name": "31-20",
         "map_id": "31",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "921",
@@ -8457,7 +8457,7 @@
         "bg_path": "XieShenCangShenChu",
         "name": "32-10",
         "map_id": "32",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "941",
@@ -8547,7 +8547,7 @@
         "bg_path": "XieShenCangShenChu",
         "name": "32-20",
         "map_id": "32",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "951",
@@ -8727,7 +8727,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "33-10",
         "map_id": "33",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "971",
@@ -8817,7 +8817,7 @@
         "bg_path": "RanShaoLianYu",
         "name": "33-20",
         "map_id": "33",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "981",
@@ -8997,7 +8997,7 @@
         "bg_path": "XueChengBao",
         "name": "34-10",
         "map_id": "34",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "1001",
@@ -9087,7 +9087,7 @@
         "bg_path": "XueChengBao",
         "name": "34-20",
         "map_id": "34",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "1011",
@@ -9267,7 +9267,7 @@
         "bg_path": "NvWaQinGong",
         "name": "35-10",
         "map_id": "35",
-        "reward": "5:3000214:200"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "1031",
@@ -9357,7 +9357,7 @@
         "bg_path": "NvWaQinGong",
         "name": "35-20",
         "map_id": "35",
-        "reward": "5:3000214:300"
+        "reward": "5:3000214:500"
     },
     {
         "dungeon_id": "1041",
@@ -9447,6 +9447,6 @@
         "bg_path": "NvWaQinGong",
         "name": "35-30",
         "map_id": "35",
-        "reward": "5:3000027:10"
+        "reward": "5:3000027:5"
     }
 ]

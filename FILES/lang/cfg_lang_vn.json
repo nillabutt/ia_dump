@@ -54988,14 +54988,6 @@
         "value": "Ưu Đãi Biển Cả Giờ Vàng"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
-        "value": "Phần thưởng thẻ kỷ niệm Lễ tạ ơn"
-    },
-    {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
-        "value": "Đây là phần thưởng thẻ kỷ niệm Lễ tạ ơn ngày hôm nay, cảm ơn bạn đã ủng hộ!"
-    },
-    {
         "name": "bemihu",
         "value": "Himiko"
     },
@@ -56866,14 +56858,6 @@
     {
         "name": "庆典·魔羯座",
         "value": "Tiệc Mừng - Capricornus"
-    },
-    {
-        "name": "庆典·赫拉",
-        "value": "Tiệc Mừng - Hera"
-    },
-    {
-        "name": "庆典·伊卡璐斯",
-        "value": "Tiệc Mừng - Icarus"
     },
     {
         "name": "庆典·卑弥呼",
@@ -66116,18 +66100,6 @@
         "value": "Mèo May Mắn"
     },
     {
-        "name": "圣诞大奖",
-        "value": "<size=18>Xổ Số Giáng Sinh</size>"
-    },
-    {
-        "name": "驯鹿奖",
-        "value": "<size=18>Giải Tuần Lộc</size>"
-    },
-    {
-        "name": "欢乐扭蛋",
-        "value": "Gacha Vui Vẻ"
-    },
-    {
         "name": "扭1次",
         "value": "Kéo x1"
     },
@@ -66190,18 +66162,6 @@
     {
         "name": "红券数量不足",
         "value": "Số Phiếu Triệu Hồi Triệu hồi Truyền Thuyết không đủ"
-    },
-    {
-        "name": "抽到圣诞大奖的概率",
-        "value": "Xác suất thắng Giải Lớn Giáng Sinh: {0}"
-    },
-    {
-        "name": "抽到驯鹿奖的概率",
-        "value": "Xác suất thắng Giải Tuần Lộc : {0}"
-    },
-    {
-        "name": "抽到雪橇奖的概率",
-        "value": "Xác suất thắng Giải Xe Trượt Tuyết: {0}"
     },
     {
         "name": "圣夜仙踪",
@@ -66462,10 +66422,6 @@
     {
         "name": "已满星SSR+女神将不会重复活动获得",
         "value": "Không bao gồm thiên thần SSR+ đầy sao"
-    },
-    {
-        "name": "雪橇奖",
-        "value": "Giải Xe Trượt Tuyết"
     },
     {
         "name": "本活动抽奖计入五百抽",
@@ -69854,5 +69810,13 @@
     {
         "name": "请选择奖励",
         "value": "Chọn phần thưởng mong muốn"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
+        "value": "Phần thưởng thẻ kỷ niệm Lễ tạ ơn"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
+        "value": "Đây là phần thưởng thẻ kỷ niệm Lễ tạ ơn ngày hôm nay, cảm ơn bạn đã ủng hộ!"
     }
 ]

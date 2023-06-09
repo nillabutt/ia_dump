@@ -301,32 +301,32 @@
     },
     {
         "treasure_id": "3009",
-        "name": "一周年纪念卡",
+        "name": "一周年纪念",
         "special_effect_type": "0",
         "rebate_debris_count": "50",
         "quality": "5",
         "show_label": "增益",
-        "desc": "一周年纪念卡",
+        "desc": "一周年纪念神迹卡",
         "is_hero": "1"
     },
     {
         "treasure_id": "3010",
-        "name": "二周年纪念卡",
+        "name": "二周年纪念",
         "special_effect_type": "0",
         "rebate_debris_count": "50",
         "quality": "5",
         "show_label": "增益",
-        "desc": "二周年纪念卡",
+        "desc": "二周年纪念神迹卡",
         "is_hero": "1"
     },
     {
         "treasure_id": "3011",
-        "name": "三周年纪念卡",
+        "name": "三周年纪念",
         "special_effect_type": "0",
         "rebate_debris_count": "50",
         "quality": "5",
         "show_label": "增益",
-        "desc": "三周年纪念卡",
+        "desc": "三周年纪念神迹卡",
         "is_hero": "1"
     }
 ]

@@ -53980,14 +53980,6 @@
         "value": "Descuento en la Fiesta de Primavera, promoción por tiempo limitado"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
-        "value": "Recompensas de la tarjeta de recuerdo de Acción de Gracias"
-    },
-    {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
-        "value": "Aquí están las recompensas de hoy de la tarjeta de recuerdo de Acción de Gracias, ¡gracias por tu apoyo!"
-    },
-    {
         "name": "GUILD_WAR_FINAL_MVP_REWARD_CONTENT_1",
         "value": "¡Felicitaciones por matar a {1} oponentes durante la gran final de la temporada {0} de Choque de Gremios y ganar el FMVP! Obtendrás las siguientes recompensas:"
     },
@@ -54258,5 +54250,21 @@
     {
         "name": "请选择奖励",
         "value": "Selecciona el premio deseado, por favor"
+    },
+    {
+        "name": "再投掷{0}次骰子,可产出{1}{2}",
+        "value": "可產出{1}{2}"
+    },
+    {
+        "name": "进驻要求：职业{0},品质{1}及以上",
+        "value": "品質{1}及以上"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
+        "value": "Recompensas de la tarjeta de recuerdo de Acción de Gracias"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
+        "value": "Aquí están las recompensas de hoy de la tarjeta de recuerdo de Acción de Gracias, ¡gracias por tu apoyo!"
     }
 ]

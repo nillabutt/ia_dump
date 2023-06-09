@@ -13746,8 +13746,6 @@ GIFT_NOT_BUY,"Bạn còn có phần quà xếp hạng chưa mua, nếu bạn tă
 彩蛋大礼,Quà Trứng Phục Sinh
 钻石豪礼 感恩回馈,<size=29>Kim Cương thưởng cho bước đi lãng mạn của bạn</size>
 春节折扣 现时促销,Ưu Đãi Biển Cả Giờ Vàng
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Phần thưởng thẻ kỷ niệm Lễ tạ ơn
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Đây là phần thưởng thẻ kỷ niệm Lễ tạ ơn ngày hôm nay, cảm ơn bạn đã ủng hộ!"
 bemihu,Himiko
 刀斩妖魔，舞唤鬼神,"Dùng kiếm diệt ma, nhảy múa gọi hồn."
 鬼道舞姬,Hồn Maihime
@@ -14216,8 +14214,6 @@ ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,Sự kiện Bậc Thầy Tinh Luyện đã k
 两周年庆,Kỷ Niệm 2 Năm
 庆典·缘结神,Tiệc Mừng - Enmusubi
 庆典·魔羯座,Tiệc Mừng - Capricornus
-庆典·赫拉,Tiệc Mừng - Hera
-庆典·伊卡璐斯,Tiệc Mừng - Icarus
 庆典·卑弥呼,Tiệc Mừng - Himiko
 庆典·嫦娥,Tiệc Mừng - Chang'e
 庆典·主角,Tiệc Mừng - Thiên Thần Chính
@@ -16528,9 +16524,6 @@ UR+伊卡璐斯,Icarus UR+
 主人，主人，快让我躲躲，那只小兔子，又吵着要礼物了！,"Chủ nhân, xin hãy để ta núp ở kia. Con thỏ đáng ghét ấy lại la lối đòi quà kìa!"
 啊，主人，能再借你的腿我睡一会吗？我真的很喜欢这种感觉，睡在你身边的感觉……很安全。,"À chủ nhân ơi, có thể cho mượn chân ngài để ta chợp mắt một tí không? Ta thích cảm giác này lắm. Ngủ bên cạnh ngài thật an toàn."
 招财猫,Mèo May Mắn
-圣诞大奖,<size=18>Xổ Số Giáng Sinh</size>
-驯鹿奖,<size=18>Giải Tuần Lộc</size>
-欢乐扭蛋,Gacha Vui Vẻ
 扭1次,Kéo x1
 扭十次,Kéo x10
 本活动抽奖次数计入召唤庆典,Số lượt kéo cho sự kiện này sẽ được tính trong Khánh Điển Triệu Hồi
@@ -16547,9 +16540,6 @@ CHRISTMAS_WAZI_TIPS,Mở Tất Giáng Sinh để nhận {0} Hoa Tuyết Giáng S
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Sau {0} lượt kéo sẽ nhận được giải thưởng lớn mỗi hiệp
 概率：,Xác suất:
 红券数量不足,Số Phiếu Triệu Hồi Triệu hồi Truyền Thuyết không đủ
-抽到圣诞大奖的概率,Xác suất thắng Giải Lớn Giáng Sinh: {0}
-抽到驯鹿奖的概率,Xác suất thắng Giải Tuần Lộc : {0}
-抽到雪橇奖的概率,Xác suất thắng Giải Xe Trượt Tuyết: {0}
 圣夜仙踪,Phép Màu Đêm Thánh
 铃声轻响，牵着你的小可爱回家吧！,"Tiếng chuông vang lên, hãy dẫn theo bé cưng đáng yêu của ngài về nhà nào!"
 幻兽-菲奈特,Linh Thú - Finette
@@ -16615,7 +16605,6 @@ copy圣诞币,Xu Giáng Sinh
 快速战斗1次,Chiến Đấu Nhanh 1 lần
 已满星,Đầy Sao
 已满星SSR+女神将不会重复活动获得,Không bao gồm thiên thần SSR+ đầy sao
-雪橇奖,Giải Xe Trượt Tuyết
 本活动抽奖计入五百抽,Số lượt kéo sẽ được tính trong Khánh điển triệu hồi
 ACTIVITY_SUMMON_DESC_80,Đôi cánh thuần khiết sẽ có thể loại trừ hắc ám và thất vọng!
 十连,<size=18>Mở 10 lần</size>
@@ -17463,3 +17452,5 @@ COMBINE_ZONE_CHALLENGE_BOSS,Khiêu chiến boss
 已完成全部关卡,Đã vượt qua tất cả các vòng
 巫女2,Thiên ma nữ
 请选择奖励,Chọn phần thưởng mong muốn
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Phần thưởng thẻ kỷ niệm Lễ tạ ơn
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Đây là phần thưởng thẻ kỷ niệm Lễ tạ ơn ngày hôm nay, cảm ơn bạn đã ủng hộ!"

@@ -55000,14 +55000,6 @@
         "value": "Zeitlich begrenzter Ozean-Rabatt"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
-        "value": "Belohnungen für die Andenkenkarte zum Erntedankfest"
-    },
-    {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
-        "value": "Hier sind die heutigen Belohnungen der Thanksgiving-Andenkenkarte, danke für die Unterstützung!"
-    },
-    {
         "name": "bemihu",
         "value": "Himiko"
     },
@@ -56878,14 +56870,6 @@
     {
         "name": "庆典·魔羯座",
         "value": "Feier – Capricornus"
-    },
-    {
-        "name": "庆典·赫拉",
-        "value": "Feier – Hera"
-    },
-    {
-        "name": "庆典·伊卡璐斯",
-        "value": "Feier – Ikarus"
     },
     {
         "name": "庆典·卑弥呼",
@@ -66128,18 +66112,6 @@
         "value": "Glückskatze"
     },
     {
-        "name": "圣诞大奖",
-        "value": "<size=18>Weihnachts-Jackpot</size>"
-    },
-    {
-        "name": "驯鹿奖",
-        "value": "<size=18>Rentierpreis</size>"
-    },
-    {
-        "name": "欢乐扭蛋",
-        "value": "Fröhliche Beschwörung"
-    },
-    {
         "name": "扭1次",
         "value": "Ziehen x1"
     },
@@ -66202,18 +66174,6 @@
     {
         "name": "红券数量不足",
         "value": "Nicht genügend Legendäre Beschwörungsrollen"
-    },
-    {
-        "name": "抽到圣诞大奖的概率",
-        "value": "Wahrscheinlichkeit, den großen Weihnachtspreis zu gewinnen: {0}"
-    },
-    {
-        "name": "抽到驯鹿奖的概率",
-        "value": "Wahrscheinlichkeit, den Rentierpreis zu gewinnen: {0}"
-    },
-    {
-        "name": "抽到雪橇奖的概率",
-        "value": "Wahrscheinlichkeit, den Schlittenpreis zu gewinnen: {0}"
     },
     {
         "name": "圣夜仙踪",
@@ -66474,10 +66434,6 @@
     {
         "name": "已满星SSR+女神将不会重复活动获得",
         "value": "Vollständig erwachte SSR+-Engel sind ausgeschlossen."
-    },
-    {
-        "name": "雪橇奖",
-        "value": "Schlittenpreis"
     },
     {
         "name": "本活动抽奖计入五百抽",
@@ -69862,5 +69818,13 @@
     {
         "name": "请选择奖励",
         "value": "Bitte wählen Sie den gewünschten Hauptpreis aus"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
+        "value": "Belohnungen für die Andenkenkarte zum Erntedankfest"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
+        "value": "Hier sind die heutigen Belohnungen der Thanksgiving-Andenkenkarte, danke für die Unterstützung!"
     }
 ]

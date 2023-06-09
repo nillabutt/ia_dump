@@ -54904,14 +54904,6 @@
         "value": "Ocean Limited Time Discount"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
-        "value": "Ocean Souvenir Card Rewards"
-    },
-    {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
-        "value": "Here're today's rewards of Ocean souvenir card. Thanks for supporting!"
-    },
-    {
         "name": "bemihu",
         "value": "Himiko"
     },
@@ -56796,14 +56788,6 @@
         "value": "Celebration· Capricornus"
     },
     {
-        "name": "庆典·赫拉",
-        "value": "Celebration· Hera"
-    },
-    {
-        "name": "庆典·伊卡璐斯",
-        "value": "Celebration· Icarus"
-    },
-    {
         "name": "庆典·卑弥呼",
         "value": "Celebration· Himiko"
     },
@@ -58205,7 +58189,7 @@
     },
     {
         "name": "结婚后才能买",
-        "value": "Unlock the Wedding Dress Fasion after vowing to the angel"
+        "value": "Unlock the Wedding Dress Fashion after vowing to the angel"
     },
     {
         "name": "限购次数不足",
@@ -66148,18 +66132,6 @@
         "value": "Lucky Cat"
     },
     {
-        "name": "圣诞大奖",
-        "value": "<size=18>Christmas Jackpot</size>"
-    },
-    {
-        "name": "驯鹿奖",
-        "value": "<size=18>Reindeer Prize</size>"
-    },
-    {
-        "name": "欢乐扭蛋",
-        "value": "Merry Gacha"
-    },
-    {
         "name": "扭1次",
         "value": "Pull x1"
     },
@@ -66222,18 +66194,6 @@
     {
         "name": "红券数量不足",
         "value": "The number of Legend Summon Scrolls is insufficient"
-    },
-    {
-        "name": "抽到圣诞大奖的概率",
-        "value": "Probability of winning the Christmas Grand Prize: {0}"
-    },
-    {
-        "name": "抽到驯鹿奖的概率",
-        "value": "Probability of winning the Reindeer Prize : {0}"
-    },
-    {
-        "name": "抽到雪橇奖的概率",
-        "value": "Probability of winning the Sleigh Prize: {0}"
     },
     {
         "name": "圣夜仙踪",
@@ -66498,10 +66458,6 @@
     {
         "name": "已满星SSR+女神将不会重复活动获得",
         "value": "SSR+ Angel with full stars will not be included"
-    },
-    {
-        "name": "雪橇奖",
-        "value": "Sleigh Prize"
     },
     {
         "name": "本活动抽奖计入五百抽",
@@ -69761,7 +69717,7 @@
     },
     {
         "name": "进入战斗时，风暴之龙进入【雷暴】状态，无视任何异常效果，并使自身攻击力提高100%，持续1回合（不可驱散）。风暴之龙每次行动时，使所有友方女神获得【风怒】状态，每次普通攻击会攻击2次，持续1回合（不可驱散）。",
-        "value": "When entering the battle, the Storm Dragon enters the [Thunderstorm] state for 1 round (cannot be dispelled).\\n\\n[Thunderstorm]: Increases ATK by 100% and is immune to debuffs. When Storm Dragon is in action, bestows all allied angels with [Windfury] that lasts for 1 round (cannot be dispelled).\\n[Windfury]: Each normal attack can strike twice."
+        "value": "When entering the battle, the Storm Dragon enters the [Thunderstorm] state for 1 round (cannot be dispelled). When Storm Dragon is in action, bestows all allied angels with [Windfury] that lasts for 1 round (cannot be dispelled).\\n\\n[Thunderstorm]: Increases ATK by 100% and is immune to debuffs. \\n[Windfury]: Each normal attack can strike twice."
     },
     {
         "name": "HIGH_LEVEL_BOSS_ENTRANCE_EXP_TIPS",
@@ -72889,7 +72845,7 @@
     },
     {
         "name": "进入战斗时，使我方全体女神获得【复仇】状态（不可驱散），拥有该状态的女神死亡时，会进入灵魂状态，保留1点生命值且无法再恢复生命值，同时获得荷鲁斯1000%最大攻击力的护盾（无法驱散，护盾最大不超过荷鲁斯最大生命值的2倍），然后使全体友方女神提升荷鲁斯当前攻击力40%的攻击力、荷鲁斯当前防御40%的防御，持续4回合（无法驱散，不可叠加），该效果每名女神只能触发一次。（灵魂状态死亡后才视为被击杀）",
-        "value": "When entering the battle, bestows [Vengeance] to all allies (cannot be dispelled). When [Vengeance] is triggered, increases all allies' ATK and DEF by 40% of Horus's current ATK and DEF for 4 rounds (ceach angel can only trigger this effect once; cannot be dispelled; cannot stack).\\n[Vengeance]: When receiving fatal damage, the bearer continues to act in the state of a soul (doesn't count as killed), remaining 1 HP (cannot be healed afterward). At the same time, she receives a shield equal to 1000% of Horus's Max ATK (cannot be dispelled; the shield cannot exceed twice the Max HP of Horus)."
+        "value": "When entering the battle, bestows [Vengeance] to all allies (cannot be dispelled). When [Vengeance] is triggered, increases all allies' ATK and DEF by 40% of Horus's current ATK and DEF for 4 rounds (each angel can only trigger this effect once; cannot be dispelled; cannot stack).\\n[Vengeance]: When receiving fatal damage, the bearer continues to act in the state of a soul (doesn't count as killed), remaining 1 HP (cannot be healed afterward). At the same time, she receives a shield equal to 1000% of Horus's Max ATK (cannot be dispelled; the shield cannot exceed twice the Max HP of Horus)."
     },
     {
         "name": "审判-审判之爪",
@@ -76921,7 +76877,7 @@
     },
     {
         "name": "我早就说过了，阿斯加德众神千年来都与北欧的冰雪为伴，不会惧怕任何寒冷。",
-        "value": "I told you so. Us Asgardian Gods have lived in the Nordic ice for thousands of years."
+        "value": "I told you so. We Asgardian Gods have lived in the Nordic ice for thousands of years."
     },
     {
         "name": "我承认你们的实力，但遗憾的是，我不觉得奥丁会跟你们回阿斯加德……",
@@ -77093,7 +77049,7 @@
     },
     {
         "name": "ANNIVERSARY_LETTER_OPENNING",
-        "value": "<color=#fe8cc0>September</color> <color=#fe8cc0>9</color>, <color=#fe8cc0>2019</color>, marked the official launch of Idle Angels.\\nBy <color=#fe8cc0>December</color> <color=#fe8cc0>9</color>, <color=#fe8cc0>2019</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\\nTogether, we've made great progress in exploring the mysterious world."
+        "value": "<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\\nTogether, we've made great progress in exploring the mysterious world."
     },
     {
         "name": "ANNIVERSARY_LETTER_STARTING",
@@ -77105,11 +77061,11 @@
     },
     {
         "name": "ANNIVERSARY_LETTER_HONOR",
-        "value": "Amidst our shared journey, you competed with fellow adventurers.\\nYou earned the championship title of the Clash of Titans {0} times.\\nYou emerged victorious in the Glory Arena {1} times.\\nYou were bestowed the title of Lord of Gods {2\\} times.\\nIn honor of your achievements, we present you with the annual title of \\n{3}."
+        "value": "Amidst our shared journey, you competed with fellow adventurers.\\nYou earned the championship title of the Clash of Titans {0} times.\\nYou emerged victorious in the Glory Arena {1} times.\\nYou were bestowed the title of Lord of Gods {2\\} times.\\nIn honor of your achievements, we present you with the annual title of \\n."
     },
     {
         "name": "ANNIVERSARY_LETTER_EXPLORE",
-        "value": "In your exploration of the world and your challenge of its many difficulties, \\nyou embarked on {0} dungeon battles.\\nIn the Main Story battlefield, you have reached {1}.\\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \\n{4}."
+        "value": "In your exploration of the world and your challenge of its many difficulties, \\nyou embarked on {0} dungeon battles.\\nIn the Main Story battlefield, you have reached {1}.\\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \\n."
     },
     {
         "name": "ANNIVERSARY_LETTER_HERO",
@@ -77117,15 +77073,59 @@
     },
     {
         "name": "ANNIVERSARY_LETTER_ENDING",
-        "value": "Rest assured, every effort you've made will bear fruit.\\nEvery memory you've made will stand the test of time.\\nEvery hope you hold will continue to shine bright.\\nThank you for your perseverance and dedication alongside us.\\nTo show our appreciation, we've prepared a special gift for you. We hope you'll like it. Keep moving forward in the days to come!"
+        "value": "Rest assured, every effort you've made will bear fruit.Every memory you've made will stand the test of time.Every hope you hold will continue to shine bright.Thank you for your perseverance and dedication alongside us.To show our appreciation, we've prepared a special gift for you. We hope you'll like it. Keep moving forward in the days to come!"
     },
     {
-        "name": "LV.{0}",
-        "value": "LV.{0}"
+        "name": "ANNIVERSARY_LETTER_TITLE_HONOR",
+        "value": "Novice Competitor"
     },
     {
-        "name": "(   {0})",
-        "value": "(   {0})"
+        "name": "ANNIVERSARY_LETTER_TITLE_ZSZZ",
+        "value": "Expert Competitor"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_TITLE_HONOR",
+        "value": "Master Competitor"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_TITLE_ZSZW",
+        "value": "King of Competition"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_TITLE_EXPLORE",
+        "value": "Angel of Freedom"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_TITLE_EXPLORE1",
+        "value": "Angel of Challenge"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_TITLE_EXPLORE2",
+        "value": "Angel of Innovation"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_TITLE_EXPLORE3",
+        "value": "Angel of Dedication"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_HONOR1",
+        "value": "Amidst our shared journey, you competed with fellow adventurers.\\n"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_HONOR2",
+        "value": "You earned the championship title of the Clash of Titans {0} times.\\n"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_HONOR3",
+        "value": "You emerged victorious in the Glory Arena {0} times.\\n"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_HONOR4",
+        "value": "You were bestowed the title of Lord of Gods {0} times.\\n"
+    },
+    {
+        "name": "ANNIVERSARY_LETTER_HONOR5",
+        "value": "In honor of your achievements, we present you with the annual title of \\n{0}"
     },
     {
         "name": "再投掷{0}次骰子,可产出{1}{2}",
@@ -77608,6 +77608,10 @@
         "value": "Probability: {0}%"
     },
     {
+        "name": "STAR_HOUSE_TIPS",
+        "value": "Earn a Destiny Star after {0} summons"
+    },
+    {
         "name": "三周年限定1",
         "value": "3rd Anniversary Exclusive 1"
     },
@@ -77628,6 +77632,10 @@
         "value": "3rd Anniversary Special 3"
     },
     {
+        "name": "三周年特惠4",
+        "value": "3rd Anniversary Special 4"
+    },
+    {
         "name": "每日礼盒",
         "value": "Daily Giftbox"
     },
@@ -77645,19 +77653,19 @@
     },
     {
         "name": "2023三周年纪念聊天气泡",
-        "value": "2023 3rd Anniversary Souvenir Card"
+        "value": "3rd Anniversary Chat Bubble"
     },
     {
         "name": "2023三周年庆典纪念聊天气泡",
-        "value": "2023 3rd Anniversary Avatar Frame"
+        "value": "3rd Anniversary Celebration Chat Bubble"
     },
     {
         "name": "2023三周年头像框",
-        "value": "2023 3rd Anniversary Limited Avatar Frame"
+        "value": "3rd Anniversary Avatar Frame"
     },
     {
         "name": "2023三周年纪念头像框",
-        "value": "2023 3rd Anniversary Limited Chat Bubble"
+        "value": "3rd Anniversary Celebration Avatar Frame"
     },
     {
         "name": "CHOOSE_GONGMING_HERO_TIPS",
@@ -78388,6 +78396,10 @@
         "value": "Carnival Parade"
     },
     {
+        "name": "时光嘉年华",
+        "value": "Carnival Parade"
+    },
+    {
         "name": "周年献礼",
         "value": "Anniversary Gift"
     },
@@ -78396,7 +78408,7 @@
         "value": "Anniversary Merit"
     },
     {
-        "name": "嘉年华挑战",
+        "name": "阶段挑战",
         "value": "Carnival Challenge"
     },
     {
@@ -78404,7 +78416,7 @@
         "value": "Carnival Giftpack"
     },
     {
-        "name": "建筑收益总览",
+        "name": "设备收益",
         "value": "Revenue Overview"
     },
     {
@@ -78488,7 +78500,7 @@
         "value": "Fruit House"
     },
     {
-        "name": "每完成一圈巡游获得",
+        "name": "完成巡游获得额外奖励",
         "value": "When finishing one lap of the parade, get"
     },
     {
@@ -78504,20 +78516,20 @@
         "value": "Multiple Debuffs & Healing Allies"
     },
     {
-        "name": "有50%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合）",
-        "value": "Inflicts all enemies with a 50% chance each of [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds."
+        "name": "对敌方全体造成200%的法术伤害，并有50%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合）",
+        "value": "Deals 200% M.DMG to all enemies and has a 50% chance of inflicting [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds."
     },
     {
-        "name": "对敌人全体造成负面状态数量*弗丽嘉50%攻击力的法术伤害，并治疗我方全体100%攻击力的生命值",
-        "value": "Deals M.DMG equal to [50% of Frigga's ATK*Number of Debuffs on all enemies] to all enemies and heals all allies of 100% of her ATK."
+        "name": "对敌人全体造成负面状态数量*50%的法术伤害，并治疗我方全体弗丽嘉100%攻击力的生命值",
+        "value": "Deals M.DMG equal to [50% * Number of Debuffs on the target] to each enemy and heals all allies of 100% of her ATK."
     },
     {
-        "name": "有60%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合），【眩晕】【冰冻】（持续1回合）",
-        "value": "Inflicts all enemies with a 60% chance each of [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds; and [Stun] and [Freeze] for 1 round."
+        "name": "对敌方全体造成220%的法术伤害，并有60%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合），【眩晕】【冰冻】（持续1回合）",
+        "value": "Deals 220% M.DMG to all enemies and has a 60% chance of inflicting [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds; and [Stun] and [Freeze] for 1 round."
     },
     {
-        "name": "对敌人全体造成负面状态数量*弗丽嘉70%攻击力的法术伤害，如果负面状态数量大于10则转换为真实伤害。然后治疗我方全体120%攻击力的生命值",
-        "value": "Deals M.DMG equal to [70% of Frigga's ATK*Number of Debuffs on all enemies] to all enemies. If the number of the inflicted debuffs is 11 or more, this dealt damage will be True DMG. Then, heals all allies of 120% of her ATK."
+        "name": "对敌人全体造成负面状态数量*70%的法术伤害，如果负面状态数量大于3，则每个负面状态附带弗丽嘉攻击力30%的真实伤害。然后治疗我方全体弗丽嘉120%攻击力的生命值",
+        "value": "Deals M.DMG equal to [70% * Number of Debuffs on the target] to each enemy. If the number of debuffs on that angel is 4 or more, additionally deals 30% True DMG equal to 30% Frigga's ATK for each debuff the target has. Then, heals all allies of 120% of her ATK."
     },
     {
         "name": "无视敌人10%异常抵抗",
@@ -78528,12 +78540,12 @@
         "value": "Doubles the healing amount. 100% of the overflow healing is converted to shield, lasting 2 rounds"
     },
     {
-        "name": "进入战斗时，使敌方攻击力最高的女神进入【孤立】状态（无法驱散），不会受到任何增益状态，持续2回合。使敌方全体进入【无援】状态（无视异常抵抗，无法驱散），使敌人的负面状态被驱散时有30%概率失败，持续2回合",
-        "value": "When entering battle, inflicts [Isolated] to the enemy with the highest ATK and [Helpless] to all enemies for 2 rounds.\\n\\n[Isolated]: Cannot receive any buffs for 2 rounds. (cannot be dispelled)\\n[Helpless]: Debuffs on self have a 30% chance to resist being dispelled (cannot be dispelled and ignores Debuff RES)."
+        "name": "进入战斗时，有50%概率使敌方攻击力最高的女神进入【孤立】状态（无视异常抵抗，无法驱散），战斗开始后不会受到任何增益状态，持续2回合。每回合行动时，使全体敌方获得1层【脆弱】状态（无视异常抵抗，可叠加，持续至战斗结束），每层使敌方受到伤害增加1%。",
+        "value": "When entering battle, there is a 50% chance to inflict [Isolated] on the enemy with the highest ATK. When Frigga is in action, inflicts 1 layer of [Malediction] on all enemies, lasting until the end of the battle.\\n\\n[Isolated]: Cannot receive any buffs for 2 rounds (cannot be dispelled and ignores Debuff RES).\\n[Malediction]: Increases DMG taken by 1% for each layer (stackable, ignores Debuff RES)."
     },
     {
         "name": "生命+10%，攻击+10%",
-        "value": "HP +20%\\nATK +10%"
+        "value": "HP +10%\\nATK +10%"
     },
     {
         "name": "物抗+15%，魔抗+15%",
@@ -78544,8 +78556,8 @@
         "value": "DEF +20%\\nHP +20%"
     },
     {
-        "name": "效果命中+25%，治疗效果+20%",
-        "value": "Effect ACC +25%\\nHealing Effect +20%"
+        "name": "异常抵抗+25%，治疗效果+20%",
+        "value": "Debuff RES +25%\\nHealing Effect +20%"
     },
     {
         "name": "生命+15%，攻击+15%",
@@ -78560,8 +78572,8 @@
         "value": "DEF +30%\\nHP +30%"
     },
     {
-        "name": "效果命中+40%，治疗效果+30%",
-        "value": "Effect ACC +40%\\nHealing Effect +30%"
+        "name": "异常抵抗+40%，治疗效果+30%",
+        "value": "Debuff RES +40%\\nHealing Effect +30%"
     },
     {
         "name": "星纹·战神",
@@ -78628,12 +78640,12 @@
         "value": "Increases Skill DMG by 15%, Normal DMG by 30%"
     },
     {
-        "name": "击杀敌人后使自身伤害提升10%，可叠加至3层，持续至战斗结束",
-        "value": "Killing an enemy increases self-DMG by 10%, stacking up to 3 layers and lasting until the end of the battle"
+        "name": "击杀敌人后使自身伤害提升10%，可叠加至2层，持续至战斗结束",
+        "value": "Killing an enemy increases self-DMG by 10%, stacking up to 2 layers and lasting until the end of the battle"
     },
     {
-        "name": "行动时使自身攻击力、吸血提升5%，可叠加至10层，持续至战斗结束",
-        "value": "When taking an action, increase self ATK and Leech by 5%, stacking up to 10 layers and lasting until the end of the battle."
+        "name": "行动时使自身攻击力、吸血提升10%，可叠加至3层，持续至战斗结束",
+        "value": "When taking an action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle."
     },
     {
         "name": "受到技能伤害降低20%",
@@ -78641,11 +78653,11 @@
     },
     {
         "name": "行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害",
-        "value": "When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
+        "value": "When taking an action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
     },
     {
-        "name": "行动时使自身防御、伤害反弹提升5%，可叠加至10层，持续至战斗结束",
-        "value": "When taking an action, increase self DEF and DMG Reflection by 5%, stacking up to 10 layers and lasting until the end of the battle."
+        "name": "行动时使自身防御、伤害反弹提升10%，可叠加至3层，持续至战斗结束",
+        "value": "When taking an action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle."
     },
     {
         "name": "受到技能伤害降低10%，异常抵抗提升10%",
@@ -78664,24 +78676,24 @@
         "value": "Increases Healing Effect by 30% and Debuff RES by 10%"
     },
     {
-        "name": "每次受到攻击时，自身恢复10%已损失生命值",
-        "value": "When being attacked, restore 10% of the lost HP value."
+        "name": "受到伤害时，自身恢复10%已损失生命值",
+        "value": "When taking damgae, restore 10% of the lost HP value."
     },
     {
-        "name": "每回合行动时，恢复生命值最低的友方女神10%的生命值",
-        "value": "When taking action, restores 10% of the HP of the ally with the lowest HP."
+        "name": "每回合行动时，恢复生命值最低的友方女神50%的生命值",
+        "value": "When taking an action, restores 50% of the HP of the ally with the lowest HP."
     },
     {
-        "name": "无视敌方20%异常抵抗",
-        "value": "Ignore 20% of the enemy's Debuff RES"
+        "name": "受到技能伤害降低10%，无视异常抵抗10%",
+        "value": "Ignores 10% of the enemy's Debuff RES and reduces Skill DMG taken by 10%"
     },
     {
-        "name": "受到伤害时，有20%固定概率使敌方获得【晕眩】1回合",
-        "value": "When taking damage, there is a 20% fixed probability that the enemy will receive [Stun] for 1 round."
+        "name": "受到伤害时，使自身效果命中提高3%，可叠加10层，持续至战斗结束",
+        "value": "When taking damage, increases self Effect ACC by 3% until the end of the battle (can be stacked up to 10 layers)."
     },
     {
-        "name": "每回合行动时，提升自身生命上限3%，可叠加至10层，持续至战斗结束",
-        "value": "Increases Max HP by 3% every round, stacking up to 10 layers and lasting until the end of the battle"
+        "name": "每回合行动时，提升自身生命上限10%，可叠加至3层，持续至战斗结束",
+        "value": "When taking an action, increases Max HP by 10%, stacking up to 3 layers and lasting until the end of the battle"
     },
     {
         "name": "中毒-荆棘毒刺",
@@ -78768,10 +78780,6 @@
         "value": "Frigga in the Past"
     },
     {
-        "name": "三周年纪念卡",
-        "value": "3rd Anniversary Souvenir Card"
-    },
-    {
         "name": "三周年头像框",
         "value": "3rd Anniversary Avatar Frame"
     },
@@ -78780,12 +78788,16 @@
         "value": "3rd Anniversary Limited Avatar Frame"
     },
     {
-        "name": "三周年限定聊天气泡",
-        "value": "3rd Anniversary Limited Chat Bubble"
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
+        "value": "3rd Anniversary Souvenir Card"
     },
     {
-        "name": "这是您的三周年纪念卡邮件奖励，请您查收！",
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
         "value": "Here are the rewards for your 3rd Anniversary Souvenir Card. Enjoy the treat!"
+    },
+    {
+        "name": "三周年限定聊天气泡",
+        "value": "3rd Anniversary Limited Chat Bubble"
     },
     {
         "name": "完成本轮巡游回到起点",
@@ -78796,7 +78808,7 @@
         "value": "Universal Dice*2"
     },
     {
-        "name": "下一次奖励格子奖励效果翻倍",
+        "name": "下一次奖励格子奖励翻倍",
         "value": "Multiply the next reward effect by 2"
     },
     {
@@ -78848,31 +78860,31 @@
         "value": "Go back (1~3) spaces by chance"
     },
     {
-        "name": "庆典扭蛋",
+        "name": "欢乐扭蛋",
         "value": "Celebration Gacha"
     },
     {
-        "name": "庆典大奖",
+        "name": "圣诞大奖",
         "value": "Grand Prize"
     },
     {
-        "name": "二等奖",
+        "name": "驯鹿奖",
         "value": "Second Prize"
     },
     {
-        "name": "三等奖",
+        "name": "雪橇奖",
         "value": "Third Prize"
     },
     {
-        "name": "抽到庆典大奖的概率：{0}",
+        "name": "抽到圣诞大奖的概率",
         "value": "Probability of winning the Grand Prize: {0}"
     },
     {
-        "name": "抽到二等奖的概率：{0}",
+        "name": "抽到驯鹿奖的概率",
         "value": "Probability of winning the Second Prize: {0}"
     },
     {
-        "name": "抽到三等奖的概率：{0}",
+        "name": "抽到雪橇奖的概率",
         "value": "Probability of winning the Third Prize: {0}"
     },
     {
@@ -78938,5 +78950,197 @@
     {
         "name": "累计投掷{0}次",
         "value": "Rolled {0} times in total Miracle Card"
+    },
+    {
+        "name": "CARNIVAL_RECYCLE_GOODS_TITLE",
+        "value": "Event Items and points Recycle in Time Carnival"
+    },
+    {
+        "name": "CRANIVAL_RECYCLE_GOODS_CONTENT",
+        "value": "he Time Carnival event has ended, and the event items and points have been automatically converted to diamonds."
+    },
+    {
+        "name": "CARNIVAL_RANK_REWARD_MAIL_TITLE",
+        "value": "Time Carnival Ranking Rewards"
+    },
+    {
+        "name": "CARNIVAL_RANK_REWARD_MAIL_CONTENT.3",
+        "value": "Congratulations on ranking No. {0} in the Time Carnival. Here are your rewards:"
+    },
+    {
+        "name": "CARNIVAL_SEND_NOT_RECEIVE_REWARD_TITLE",
+        "value": "Carnival Rewards Reissue"
+    },
+    {
+        "name": "CARNIVAL_SEND_NOT_RECEIVE_REWARD_CONTENT",
+        "value": "These are your unclaimed rewards in the Carnival event"
+    },
+    {
+        "name": "庆典·赫拉",
+        "value": "Celebration·Hera"
+    },
+    {
+        "name": "庆典·卡俄斯",
+        "value": "Celebration·Chaos"
+    },
+    {
+        "name": "庆典·丘比特",
+        "value": "Celebration·Cupid"
+    },
+    {
+        "name": "庆典·拉",
+        "value": "Celebration·Ra"
+    },
+    {
+        "name": "庆典·伊卡璐斯",
+        "value": "Celebration·Icarus"
+    },
+    {
+        "name": "庆典·卑弥呼",
+        "value": "Celebration·Himiko"
+    },
+    {
+        "name": "庆典·海姆达尔",
+        "value": "Celebration·Heimdall"
+    },
+    {
+        "name": "建筑等级不足，该位置未开放",
+        "value": "Location requires higher building levels to unlock"
+    },
+    {
+        "name": "当前可领：",
+        "value": "Available rewards:"
+    },
+    {
+        "name": "解锁周年勋礼",
+        "value": "Unlock Anniversary Merit"
+    },
+    {
+        "name": "三周年礼包",
+        "value": "3rd Anniversary Giftpack"
+    },
+    {
+        "name": "嘉年华礼包1",
+        "value": "Carnival Giftpack 1"
+    },
+    {
+        "name": "嘉年华礼包2",
+        "value": "Carnival Giftpack 2"
+    },
+    {
+        "name": "嘉年华礼包3",
+        "value": "Carnival Giftpack 3"
+    },
+    {
+        "name": "嘉年华礼包4",
+        "value": "Carnival Giftpack 4"
+    },
+    {
+        "name": "命运星辰",
+        "value": "Destiny Stars"
+    },
+    {
+        "name": "3周年",
+        "value": "3rd Anniversary"
+    },
+    {
+        "name": "随机事件",
+        "value": "Random Event"
+    },
+    {
+        "name": "老虎机",
+        "value": "Random Event"
+    },
+    {
+        "name": "已占用",
+        "value": "Occupied"
+    },
+    {
+        "name": "拥有一位UR女神后开启",
+        "value": "Unlock after awakening one UR Angel"
+    },
+    {
+        "name": "开启",
+        "value": "Unlock"
+    },
+    {
+        "name": "2020年11月21日",
+        "value": "November 21, 2020"
+    },
+    {
+        "name": "时光",
+        "value": "Time"
+    },
+    {
+        "name": "感谢",
+        "value": "Gratitude"
+    },
+    {
+        "name": "碎愿者之锤",
+        "value": "Hammer of the Wish Breaker"
+    },
+    {
+        "name": "巨龙流出的血液凝结而成的强大金属，有一天终将会为诸神带来毁灭……",
+        "value": "A powerful metal formed from the blood of ancient dragons, one day it will bring about the destruction of the gods..."
+    },
+    {
+        "name": "受到伤害时，自身恢复10%已损失生命值",
+        "value": "When damaged, recover 10% of lost HP."
+    },
+    {
+        "name": "你选择的女神星标等级已经达到最大等级，是否确认选择",
+        "value": "Your chosen goddess' Star Mark has already reached the max level. Do you confirm?"
+    },
+    {
+        "name": "星愿奖励",
+        "value": "Star Wish Rewards"
+    },
+    {
+        "name": "唤星",
+        "value": "Summon Star"
+    },
+    {
+        "name": "唤星十次",
+        "value": "Summon Star x10"
+    },
+    {
+        "name": "女神的命星",
+        "value": "Angel’s Destiny Star"
+    },
+    {
+        "name": "道具奖励",
+        "value": "Item Reward"
+    },
+    {
+        "name": "继续战斗",
+        "value": "Continue Fighting"
+    },
+    {
+        "name": "神装共鸣",
+        "value": "Gear Resonance"
+    },
+    {
+        "name": "下一队",
+        "value": "Next Team"
+    },
+    {
+        "name": "上一队",
+        "value": "Previous Team"
+    },
+    {
+        "name": "通关噩梦战场{0}",
+        "value": "Cleared Nightmare Battlefield {0}"
+    },
+    {
+        "name": "一周年纪念卡碎片",
+        "value": "1st Anniversary Souvenir Card Piece"
+    },
+    {
+        "name": "二周年纪念卡碎片",
+        "value": "2nd Anniversary Souvenir Card Piece"
+    },
+    {
+        "name": "三周年纪念卡碎片",
+        "value": "3rd Anniversary Souvenir Card Piece"
     }
 ]

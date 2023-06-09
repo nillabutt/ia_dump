@@ -13494,8 +13494,6 @@ ZZZ……,ZZZ……
 耐力:,RES
 钻石豪礼 感恩回馈,"Paquete lujoso de diamantes, Rebaja por la Fiesta de Primavera"
 春节折扣 现时促销,"Descuento en la Fiesta de Primavera, promoción por tiempo limitado"
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Recompensas de la tarjeta de recuerdo de Acción de Gracias
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Aquí están las recompensas de hoy de la tarjeta de recuerdo de Acción de Gracias, ¡gracias por tu apoyo!"
 GUILD_WAR_FINAL_MVP_REWARD_CONTENT_1,¡Felicitaciones por matar a {1} oponentes durante la gran final de la temporada {0} de Choque de Gremios y ganar el FMVP! Obtendrás las siguientes recompensas:
 GUILD_WAR_FINAL_MVP_REWARD_CONTENT_2,¡Felicitaciones por matar a {1} oponentes durante la semifinal de la temporada {0} de Choque de Gremios y ganar el FMVP! Obtendrás las siguientes recompensas:
 GUILD_WAR_FINAL_MVP_REWARD_CONTENT_3,¡Felicitaciones por matar a {1} oponentes durante la temporada de Choque de Gremios {0} 1/4 de final y ganar el FMVP! Obtendrás las siguientes recompensas:
@@ -13564,3 +13562,7 @@ COMBINE_ZONE_CHALLENGE_BOSS,Desafío del Boss
 暂未加入公会,No estás en ningún Gremio
 巫女2,Bruja
 请选择奖励,"Selecciona el premio deseado, por favor"
+"再投掷{0}次骰子,可产出{1}{2}",可產出{1}{2}
+"进驻要求：职业{0},品质{1}及以上",品質{1}及以上
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Recompensas de la tarjeta de recuerdo de Acción de Gracias
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Aquí están las recompensas de hoy de la tarjeta de recuerdo de Acción de Gracias, ¡gracias por tu apoyo!"

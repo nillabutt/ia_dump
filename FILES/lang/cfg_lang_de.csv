@@ -13749,8 +13749,6 @@ GIFT_NOT_BUY,"Du hast noch ungekaufte Rang-Geschenke, die nach dem Verbessern ak
 彩蛋大礼,Ostereier-Geschenke
 钻石豪礼 感恩回馈,<size=29>Diamantgeschenk für romantische Handlungen</size>
 春节折扣 现时促销,Zeitlich begrenzter Ozean-Rabatt
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Belohnungen für die Andenkenkarte zum Erntedankfest
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Hier sind die heutigen Belohnungen der Thanksgiving-Andenkenkarte, danke für die Unterstützung!"
 bemihu,Himiko
 刀斩妖魔，舞唤鬼神,"Töte Dämonen mit der Klinge, beschwöre Geister durch Tanzen"
 鬼道舞姬,Geist Maihime
@@ -14219,8 +14217,6 @@ ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,Das Event Schmelzmeister ist beendet. Der Ar
 两周年庆,2. Jahrestag
 庆典·缘结神,Feier – Enmusubi
 庆典·魔羯座,Feier – Capricornus
-庆典·赫拉,Feier – Hera
-庆典·伊卡璐斯,Feier – Ikarus
 庆典·卑弥呼,Feier – Himiko
 庆典·嫦娥,Feier – Chang’e
 庆典·主角,Feier – Hauptengel
@@ -16531,9 +16527,6 @@ UR+伊卡璐斯,UR+ Ikarus
 主人，主人，快让我躲躲，那只小兔子，又吵着要礼物了！,"Meister, bitte lass mich dort verstecken. Dieser lästige Hase schreit wieder nach Geschenken!"
 啊，主人，能再借你的腿我睡一会吗？我真的很喜欢这种感觉，睡在你身边的感觉……很安全。,"Ah, Meister, kann ich mir wieder dein Bein ausleihen und eine Weile dort schlafen? Ich mag das sehr. Bei dir fühle ich mich sicher."
 招财猫,Glückskatze
-圣诞大奖,<size=18>Weihnachts-Jackpot</size>
-驯鹿奖,<size=18>Rentierpreis</size>
-欢乐扭蛋,Fröhliche Beschwörung
 扭1次,Ziehen x1
 扭十次,Ziehen x10
 本活动抽奖次数计入召唤庆典,Die Anzahl der Ziehungen für dieses Event wird bei der Beschwörungsfeier gezählt.
@@ -16550,9 +16543,6 @@ CHRISTMAS_WAZI_TIPS,"Öffne deinen Weihnachtsstrumpf, um {0} Weihnachtsflocken 
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Der Hauptpreis in jeder Runde ist nach {0} Ziehungen garantiert
 概率：,Wahrscheinlichkeit:
 红券数量不足,Nicht genügend Legendäre Beschwörungsrollen
-抽到圣诞大奖的概率,"Wahrscheinlichkeit, den großen Weihnachtspreis zu gewinnen: {0}"
-抽到驯鹿奖的概率,"Wahrscheinlichkeit, den Rentierpreis zu gewinnen: {0}"
-抽到雪橇奖的概率,"Wahrscheinlichkeit, den Schlittenpreis zu gewinnen: {0}"
 圣夜仙踪,Wunder der Heiligen Nacht
 铃声轻响，牵着你的小可爱回家吧！,"Die Glocke läutet, bring dein kleines Schätzchen nach Hause!"
 幻兽-菲奈特,Eudämoninnen – Finette
@@ -16618,7 +16608,6 @@ copy圣诞币,Weihnachtsmünzen
 快速战斗1次,1x Schnellkampf
 已满星,Vollständig erwacht
 已满星SSR+女神将不会重复活动获得,Vollständig erwachte SSR+-Engel sind ausgeschlossen.
-雪橇奖,Schlittenpreis
 本活动抽奖计入五百抽,Ziehungen werden in der Beschwörungsfeier berücksichtigt.
 ACTIVITY_SUMMON_DESC_80,"Die reinen Flügel, die Dunkelheit und Enttäuschung vertreiben können!"
 十连,<size=18>10x öffnen</size>
@@ -17465,3 +17454,5 @@ COMBINE_ZONE_CHALLENGE_BOSS,Boss-Herausforderung
 已完成全部关卡,Bereits alle Stufen abgeschlossen
 巫女2,Hexe
 请选择奖励,Bitte wählen Sie den gewünschten Hauptpreis aus
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Belohnungen für die Andenkenkarte zum Erntedankfest
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Hier sind die heutigen Belohnungen der Thanksgiving-Andenkenkarte, danke für die Unterstützung!"

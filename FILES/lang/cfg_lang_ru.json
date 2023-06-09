@@ -53756,14 +53756,6 @@
         "value": "ВЫН"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
-        "value": "Thưởng Thẻ Kỷ Niệm Lãng Mạn"
-    },
-    {
-        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
-        "value": "Hôm nay xin tặng bạn Thẻ Kỷ Niệm Lãng Mạn.  Cảm ơn vì đã ủng hộ, chúc bạn có một Lễ Tình nhân ngọt ngào."
-    },
-    {
         "name": "对6名敌人造成120%的法术伤害，并使自身获得3回合【神王】和4回合【雷盾】（不可驱散）。【神王】状态下，每次轮到宙斯回合时，对6名敌人造成120%的法术伤害。【雷盾】状态下，宙斯每次受到伤害都会反击敌人，对目标造成30%的法术伤害，该伤害不会触发敌人的反击效果和伤害反弹。",
         "value": "Gây 120% sát thương phép cho 6 kẻ địch đồng thời kèm thêm [Luật Lệ Của Zeus] (Không thể xóa) trong 3 hiệp và [Khiên Sấm Sét] (Không thể xóa) trong 4 hiệp. Khi đang ở trạng thái [Luật Lệ Của Zeus], gây 120% Sát Thương Phép lên 6 kẻ địch trong hiệp hành động của Zeus.. Khi đang ở trạng thái [Khiên Sấm Sét], kẻ địch tấn công Zeus sẽ chịu 30% Sát Thương Phép, không kích hoạt Phản Sát và Trả Thù."
     },
@@ -54102,5 +54094,13 @@
     {
         "name": "请选择奖励",
         "value": "Пожалуйста, выберите большой приз Желание"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE",
+        "value": "Thưởng Thẻ Kỷ Niệm Lãng Mạn"
+    },
+    {
+        "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
+        "value": "Hôm nay xin tặng bạn Thẻ Kỷ Niệm Lãng Mạn.  Cảm ơn vì đã ủng hộ, chúc bạn có một Lễ Tình nhân ngọt ngào."
     }
 ]

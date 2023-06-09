@@ -13725,8 +13725,6 @@ GIFT_NOT_BUY,"You have Ranks gifts unpurchased, which will be refreshed after up
 彩蛋大礼,Easter Eggs gifts
 钻石豪礼 感恩回馈,<size=29>Diamond Gift for your Romantic Move</size>
 春节折扣 现时促销,Ocean Limited Time Discount
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card Rewards
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here're today's rewards of Ocean souvenir card. Thanks for supporting!
 bemihu,Himiko
 刀斩妖魔，舞唤鬼神,"Slay demons with blade, summon ghosts by dancing"
 鬼道舞姬,Ghost Maihime
@@ -14198,8 +14196,6 @@ ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,The Smelt Master event is ended. The Arcane 
 两周年庆,2nd Anniversary
 庆典·缘结神,Celebration· Enmusubi
 庆典·魔羯座,Celebration· Capricornus
-庆典·赫拉,Celebration· Hera
-庆典·伊卡璐斯,Celebration· Icarus
 庆典·卑弥呼,Celebration· Himiko
 庆典·嫦娥,Celebration· Chang'e
 庆典·主角,Celebration· Main angel
@@ -14550,7 +14546,7 @@ RARE_MONTH_VIP_FAST_FIGHT_TIPS,You have owned Rare Monthly Card. This time is an
 集中调整阶段,Adjustment Stage
 ※特权效果可以和普通月卡叠加\n※特权效果不和传说月卡叠加,※Privilege effects can stack with Regular Monthly Card\n※Privilege effects cannot stack with Legend Monthly Card
 ※特权效果可以和普通月卡叠加\n※特权效果不和高级月卡、稀有月卡叠加,※Privilege effects can stack with Regular Monthly Card\n※Privilege effects cannot stack with Adv. Monthly Card
-结婚后才能买,Unlock the Wedding Dress Fasion after vowing to the angel
+结婚后才能买,Unlock the Wedding Dress Fashion after vowing to the angel
 限购次数不足,Insufficient purchase time
 炼金室,Smelt Room
 炼金,Smelt
@@ -16536,9 +16532,6 @@ UR+伊卡璐斯,UR+ Icarus
 主人，主人，快让我躲躲，那只小兔子，又吵着要礼物了！,"Master, please let me hide there. That annoying rabbit is clamoring for gifts again!"
 啊，主人，能再借你的腿我睡一会吗？我真的很喜欢这种感觉，睡在你身边的感觉……很安全。,"Ah, master, can I borrow your leg again and let me sleep there for a while? I really like this feeling. Sleeping beside you feels very safe."
 招财猫,Lucky Cat
-圣诞大奖,<size=18>Christmas Jackpot</size>
-驯鹿奖,<size=18>Reindeer Prize</size>
-欢乐扭蛋,Merry Gacha
 扭1次,Pull x1
 扭十次,Pull x10
 本活动抽奖次数计入召唤庆典,The number of pulling for this event will be counted in the Summon Celebration
@@ -16555,9 +16548,6 @@ CHRISTMAS_WAZI_TIPS,Open your Christmas stockings to get {0} Christmas Snowflake
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Grand prize in each round are guaranteed after {0} pulls
 概率：,Probability:
 红券数量不足,The number of Legend Summon Scrolls is insufficient
-抽到圣诞大奖的概率,Probability of winning the Christmas Grand Prize: {0}
-抽到驯鹿奖的概率,Probability of winning the Reindeer Prize : {0}
-抽到雪橇奖的概率,Probability of winning the Sleigh Prize: {0}
 圣夜仙踪,Holy Night Wonder
 铃声轻响，牵着你的小可爱回家吧！,"The bell is ringing, take your little cutie home!"
 幻兽-菲奈特,Eudemons - Finette
@@ -16624,7 +16614,6 @@ copy圣诞币,Christmas Coins
 快速战斗1次,Quick-Combat 1 times
 已满星,Full Star
 已满星SSR+女神将不会重复活动获得,SSR+ Angel with full stars will not be included
-雪橇奖,Sleigh Prize
 本活动抽奖计入五百抽,Pulling times will be counted in the Summon Celebration
 ACTIVITY_SUMMON_DESC_80,The pure wings that can dispel darkness and disappointment!
 十连,<size=18>Open 10 times</size>
@@ -17439,7 +17428,7 @@ HIGH_LEVEL_NOT_ENOUGH_LEVEL_UP,Failed. You don’t have enough Apotheosis Exp to
 每次普攻攻击2次,Each normal attack can strike twice.
 风怒-飓风闪影,Windfury - Hurricane Flash
 雷暴-飓风闪影,Thunderstorm - Hurricane Flash
-进入战斗时，风暴之龙进入【雷暴】状态，无视任何异常效果，并使自身攻击力提高100%，持续1回合（不可驱散）。风暴之龙每次行动时，使所有友方女神获得【风怒】状态，每次普通攻击会攻击2次，持续1回合（不可驱散）。,"When entering the battle, the Storm Dragon enters the [Thunderstorm] state for 1 round (cannot be dispelled).\n\n[Thunderstorm]: Increases ATK by 100% and is immune to debuffs. When Storm Dragon is in action, bestows all allied angels with [Windfury] that lasts for 1 round (cannot be dispelled).\n[Windfury]: Each normal attack can strike twice."
+进入战斗时，风暴之龙进入【雷暴】状态，无视任何异常效果，并使自身攻击力提高100%，持续1回合（不可驱散）。风暴之龙每次行动时，使所有友方女神获得【风怒】状态，每次普通攻击会攻击2次，持续1回合（不可驱散）。,"When entering the battle, the Storm Dragon enters the [Thunderstorm] state for 1 round (cannot be dispelled). When Storm Dragon is in action, bestows all allied angels with [Windfury] that lasts for 1 round (cannot be dispelled).\n\n[Thunderstorm]: Increases ATK by 100% and is immune to debuffs. \n[Windfury]: Each normal attack can strike twice."
 HIGH_LEVEL_BOSS_ENTRANCE_EXP_TIPS,Are you sure you want to open the Trials of Promotion by consuming Apotheosis Exp?
 战斗力：{0},Power：{0}
 星魂石,Starstone
@@ -18221,7 +18210,7 @@ ACTIVITY_HOLIDAY_EASTER_RECYCLE_MAIL_CONTENT,This time's Easter event is ended. 
 驱散一名敌人所有有益状态，造成600%的物理伤害，并将造成伤害的100%转化为自身护盾，护盾持续2回合（不可驱散）,"Deals 600% P.DMG to one enemy, dispels all buffs on the target, and converts that dealt DMG to a shield that lasts for 2 rounds (cannot be dispelled)."
 拥有【审判】状态的女神被击杀时额外使击杀者的攻击力降低5%,"When the bearer of [Judgment] is defeated, the enemy who defeated her becomes the target. Reduces the target’s ATK by extra 5%."
 额外使全体友方女神获得荷鲁斯攻击力200%的护盾，护盾持续2回合（不可驱散）,All allies receive a extra shield equal to 200% of Horus's ATK that lasts for 2 rounds (cannot be dispelled).
-进入战斗时，使我方全体女神获得【复仇】状态（不可驱散），拥有该状态的女神死亡时，会进入灵魂状态，保留1点生命值且无法再恢复生命值，同时获得荷鲁斯1000%最大攻击力的护盾（无法驱散，护盾最大不超过荷鲁斯最大生命值的2倍），然后使全体友方女神提升荷鲁斯当前攻击力40%的攻击力、荷鲁斯当前防御40%的防御，持续4回合（无法驱散，不可叠加），该效果每名女神只能触发一次。（灵魂状态死亡后才视为被击杀）,"When entering the battle, bestows [Vengeance] to all allies (cannot be dispelled). When [Vengeance] is triggered, increases all allies' ATK and DEF by 40% of Horus's current ATK and DEF for 4 rounds (ceach angel can only trigger this effect once; cannot be dispelled; cannot stack).\n[Vengeance]: When receiving fatal damage, the bearer continues to act in the state of a soul (doesn't count as killed), remaining 1 HP (cannot be healed afterward). At the same time, she receives a shield equal to 1000% of Horus's Max ATK (cannot be dispelled; the shield cannot exceed twice the Max HP of Horus)."
+进入战斗时，使我方全体女神获得【复仇】状态（不可驱散），拥有该状态的女神死亡时，会进入灵魂状态，保留1点生命值且无法再恢复生命值，同时获得荷鲁斯1000%最大攻击力的护盾（无法驱散，护盾最大不超过荷鲁斯最大生命值的2倍），然后使全体友方女神提升荷鲁斯当前攻击力40%的攻击力、荷鲁斯当前防御40%的防御，持续4回合（无法驱散，不可叠加），该效果每名女神只能触发一次。（灵魂状态死亡后才视为被击杀）,"When entering the battle, bestows [Vengeance] to all allies (cannot be dispelled). When [Vengeance] is triggered, increases all allies' ATK and DEF by 40% of Horus's current ATK and DEF for 4 rounds (each angel can only trigger this effect once; cannot be dispelled; cannot stack).\n[Vengeance]: When receiving fatal damage, the bearer continues to act in the state of a soul (doesn't count as killed), remaining 1 HP (cannot be healed afterward). At the same time, she receives a shield equal to 1000% of Horus's Max ATK (cannot be dispelled; the shield cannot exceed twice the Max HP of Horus)."
 审判-审判之爪,Judgment - Judgment Claw
 虚弱-审判之爪,Weaken - Judgment Claw
 审判-神罚之爪,UR Judgment - Divine Judgment
@@ -19229,7 +19218,7 @@ ACTIVITY_SUMMON_DESC_94,"As I gaze at the stars, I wonder how our paths will cro
 希望这里的温度会让你们产生回家了的感觉。,Does the cold temperature here remind you of home?
 既然你明白我们不惧寒冷，还想用冰雪来击败我们吗？,"Since you already know that we aren't afraid of the cold, do you still think you can beat us with a little snow?"
 我的力量可不只是普通的风雪……,My power is no ordinary snowstorm...
-我早就说过了，阿斯加德众神千年来都与北欧的冰雪为伴，不会惧怕任何寒冷。,I told you so. Us Asgardian Gods have lived in the Nordic ice for thousands of years.
+我早就说过了，阿斯加德众神千年来都与北欧的冰雪为伴，不会惧怕任何寒冷。,I told you so. We Asgardian Gods have lived in the Nordic ice for thousands of years.
 我承认你们的实力，但遗憾的是，我不觉得奥丁会跟你们回阿斯加德……,"I acknowledge your strength. But unfortunately, I don't think Odin will go back to Asgard with you..."
 理由呢？,Why not?
 因为我已经厌倦当个 统治者了，亲爱的。,"Because I am tired of ruling, my dear."
@@ -19272,15 +19261,26 @@ ACTIVITY_SUMMON_DESC_94,"As I gaze at the stars, I wonder how our paths will cro
 1回合防御力降低芙蕾雅防御力的80%,Reduces the bearer’s DEF by 80% of Freyja’s DEF
 1回合韧性降低芙蕾雅韧性的20%,Reduces the bearer’s FOR by 20% of Freyja’s FOR
 破甲-星影回音,Sunder Armor - Shadow Echo
-ANNIVERSARY_LETTER_OPENNING,"<color=#fe8cc0>September</color> <color=#fe8cc0>9</color>, <color=#fe8cc0>2019</color>, marked the official launch of Idle Angels.\nBy <color=#fe8cc0>December</color> <color=#fe8cc0>9</color>, <color=#fe8cc0>2019</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
+ANNIVERSARY_LETTER_OPENNING,"<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
 ANNIVERSARY_LETTER_STARTING,"{0}\nA holy light descended, bringing [{1}] the world with hope.\nRemember Princess Bari? She journeyed through this world with you."
 ANNIVERSARY_LETTER_TIME,"Over the last year, \nyou spent {0} dedicated days battling alongside the angels.\nYour longest single log-in lasted {1} hours. Time spent with you always seems to fly by."
-ANNIVERSARY_LETTER_HONOR,"Amidst our shared journey, you competed with fellow adventurers.\nYou earned the championship title of the Clash of Titans {0} times.\nYou emerged victorious in the Glory Arena {1} times.\nYou were bestowed the title of Lord of Gods {2\} times.\nIn honor of your achievements, we present you with the annual title of \n{3}."
-ANNIVERSARY_LETTER_EXPLORE,"In your exploration of the world and your challenge of its many difficulties, \nyou embarked on {0} dungeon battles.\nIn the Main Story battlefield, you have reached {1}.\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \n{4}."
+ANNIVERSARY_LETTER_HONOR,"Amidst our shared journey, you competed with fellow adventurers.\nYou earned the championship title of the Clash of Titans {0} times.\nYou emerged victorious in the Glory Arena {1} times.\nYou were bestowed the title of Lord of Gods {2\} times.\nIn honor of your achievements, we present you with the annual title of \n."
+ANNIVERSARY_LETTER_EXPLORE,"In your exploration of the world and your challenge of its many difficulties, \nyou embarked on {0} dungeon battles.\nIn the Main Story battlefield, you have reached {1}.\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \n."
 ANNIVERSARY_LETTER_HERO,"Looking back at the past year, \nyou summoned angels {0} times, recruiting {1} angels to join your cause.\nYou formed a sacred pact with {2} of them.\nYou amassed {3} pieces of fashion, making quite the impression.\nYour most formidable angel is {4}\.\nDo you still remember your first meeting with them?"
-ANNIVERSARY_LETTER_ENDING,"Rest assured, every effort you've made will bear fruit.\nEvery memory you've made will stand the test of time.\nEvery hope you hold will continue to shine bright.\nThank you for your perseverance and dedication alongside us.\nTo show our appreciation, we've prepared a special gift for you. We hope you'll like it. Keep moving forward in the days to come!"
-LV.{0},LV.{0}
-(   {0}),(   {0})
+ANNIVERSARY_LETTER_ENDING,"Rest assured, every effort you've made will bear fruit.Every memory you've made will stand the test of time.Every hope you hold will continue to shine bright.Thank you for your perseverance and dedication alongside us.To show our appreciation, we've prepared a special gift for you. We hope you'll like it. Keep moving forward in the days to come!"
+ANNIVERSARY_LETTER_TITLE_HONOR,Novice Competitor
+ANNIVERSARY_LETTER_TITLE_ZSZZ,Expert Competitor
+ANNIVERSARY_LETTER_TITLE_HONOR,Master Competitor
+ANNIVERSARY_LETTER_TITLE_ZSZW,King of Competition
+ANNIVERSARY_LETTER_TITLE_EXPLORE,Angel of Freedom
+ANNIVERSARY_LETTER_TITLE_EXPLORE1,Angel of Challenge
+ANNIVERSARY_LETTER_TITLE_EXPLORE2,Angel of Innovation
+ANNIVERSARY_LETTER_TITLE_EXPLORE3,Angel of Dedication
+ANNIVERSARY_LETTER_HONOR1,"Amidst our shared journey, you competed with fellow adventurers.\n"
+ANNIVERSARY_LETTER_HONOR2,You earned the championship title of the Clash of Titans {0} times.\n
+ANNIVERSARY_LETTER_HONOR3,You emerged victorious in the Glory Arena {0} times.\n
+ANNIVERSARY_LETTER_HONOR4,You were bestowed the title of Lord of Gods {0} times.\n
+ANNIVERSARY_LETTER_HONOR5,"In honor of your achievements, we present you with the annual title of \n{0}"
 "再投掷{0}次骰子,可产出{1}{2}",Roll {0} more dices to get {1}{2}
 成功派遣一名女神产量提升{0},Successfully dispatch an angel to increase output by {0}
 "进驻要求：职业{0},品质{1}及以上","Requirements: {0}, {1} and above"
@@ -19401,19 +19401,21 @@ SP加百列的命星,SP Gabriel's Destiny Star
 解锁后产出{0},{0} after unlocking
 STAR_HOUSE_REWARD_TIPS,Probability: {0}% (\{1\} times left)
 概率{0}%,Probability: {0}%
+STAR_HOUSE_TIPS,Earn a Destiny Star after {0} summons
 三周年限定1,3rd Anniversary Exclusive 1
 三周年限定2,3rd Anniversary Exclusive 2
 三周年特惠1,3rd Anniversary Special 1
 三周年特惠2,3rd Anniversary Special 2
 三周年特惠3,3rd Anniversary Special 3
+三周年特惠4,3rd Anniversary Special 4
 每日礼盒,Daily Giftbox
 礼盒礼包1,Giftbox Pack 1
 礼盒礼包2,Giftbox Pack 2
 群星取决于除自己外{0}个命星等级最高女神,The level of one angel’s Collective Star depends on the {0} angels with the highest level Main Star (excluding herself)
-2023三周年纪念聊天气泡,2023 3rd Anniversary Souvenir Card
-2023三周年庆典纪念聊天气泡,2023 3rd Anniversary Avatar Frame
-2023三周年头像框,2023 3rd Anniversary Limited Avatar Frame
-2023三周年纪念头像框,2023 3rd Anniversary Limited Chat Bubble
+2023三周年纪念聊天气泡,3rd Anniversary Chat Bubble
+2023三周年庆典纪念聊天气泡,3rd Anniversary Celebration Chat Bubble
+2023三周年头像框,3rd Anniversary Avatar Frame
+2023三周年纪念头像框,3rd Anniversary Celebration Avatar Frame
 CHOOSE_GONGMING_HERO_TIPS,Please select an Angel for Resonance
 NIGHTMARE_DUNGEON_DAILY_PASS_LIMIT,Reached the daily limit
 哟，这是谁呀，难道是陷入迷茫的女神，正在寻找指路明灯？,"Yo, who's this here? Another lost and confused goddess looking for a guiding light?"
@@ -19596,11 +19598,12 @@ NIGHTMARE_DUNGEON_DAILY_PASS_LIMIT,Reached the daily limit
 ACTIVITY_SUMMON_DESC_96,Take my hand and dance with me.
 ACTIVITY_SUMMON_DESC_97,"In that hazy dream, I met you."
 嘉年华巡游,Carnival Parade
+时光嘉年华,Carnival Parade
 周年献礼,Anniversary Gift
 周年勋礼,Anniversary Merit
-嘉年华挑战,Carnival Challenge
+阶段挑战,Carnival Challenge
 嘉年华礼包,Carnival Giftpack
-建筑收益总览,Revenue Overview
+设备收益,Revenue Overview
 嘉年华商店,Carnival Shop
 嘉年华彩券,Carnival Voucher
 用于嘉年华商店商品购买,Used to buy items in the Carnival Shop
@@ -19621,25 +19624,25 @@ ACTIVITY_SUMMON_DESC_97,"In that hazy dream, I met you."
 甜甜圈屋,Doughnut House
 冰淇淋屋,Ice Cream House
 水果小屋,Fruit House
-每完成一圈巡游获得,"When finishing one lap of the parade, get"
+完成巡游获得额外奖励,"When finishing one lap of the parade, get"
 累计投掷骰子{0}次,Total number of dice rolled {0} times
 累计完成巡游{0}次,Cumulative completion of parade {0} times
 ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
-有50%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合）,"Inflicts all enemies with a 50% chance each of [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds."
-对敌人全体造成负面状态数量*弗丽嘉50%攻击力的法术伤害，并治疗我方全体100%攻击力的生命值,Deals M.DMG equal to [50% of Frigga's ATK*Number of Debuffs on all enemies] to all enemies and heals all allies of 100% of her ATK.
-有60%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合），【眩晕】【冰冻】（持续1回合）,"Inflicts all enemies with a 60% chance each of [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds; and [Stun] and [Freeze] for 1 round."
-对敌人全体造成负面状态数量*弗丽嘉70%攻击力的法术伤害，如果负面状态数量大于10则转换为真实伤害。然后治疗我方全体120%攻击力的生命值,"Deals M.DMG equal to [70% of Frigga's ATK*Number of Debuffs on all enemies] to all enemies. If the number of the inflicted debuffs is 11 or more, this dealt damage will be True DMG. Then, heals all allies of 120% of her ATK."
+对敌方全体造成200%的法术伤害，并有50%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合）,"Deals 200% M.DMG to all enemies and has a 50% chance of inflicting [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds."
+对敌人全体造成负面状态数量*50%的法术伤害，并治疗我方全体弗丽嘉100%攻击力的生命值,Deals M.DMG equal to [50% * Number of Debuffs on the target] to each enemy and heals all allies of 100% of her ATK.
+对敌方全体造成220%的法术伤害，并有60%概率使全体敌方获得【中毒】【燃烧】【破甲】【击破】【流血】（持续2回合），【眩晕】【冰冻】（持续1回合）,"Deals 220% M.DMG to all enemies and has a 60% chance of inflicting [Poison], [Ignite], [Sunder Armor], [Pierce], and [Bleeding] for 2 rounds; and [Stun] and [Freeze] for 1 round."
+对敌人全体造成负面状态数量*70%的法术伤害，如果负面状态数量大于3，则每个负面状态附带弗丽嘉攻击力30%的真实伤害。然后治疗我方全体弗丽嘉120%攻击力的生命值,"Deals M.DMG equal to [70% * Number of Debuffs on the target] to each enemy. If the number of debuffs on that angel is 4 or more, additionally deals 30% True DMG equal to 30% Frigga's ATK for each debuff the target has. Then, heals all allies of 120% of her ATK."
 无视敌人10%异常抵抗,Ignores 10% of enemies’ Debuff RES
 治疗量翻倍，溢出治疗量的100%转化为护盾，护盾持续2回合,"Doubles the healing amount. 100% of the overflow healing is converted to shield, lasting 2 rounds"
-进入战斗时，使敌方攻击力最高的女神进入【孤立】状态（无法驱散），不会受到任何增益状态，持续2回合。使敌方全体进入【无援】状态（无视异常抵抗，无法驱散），使敌人的负面状态被驱散时有30%概率失败，持续2回合,"When entering battle, inflicts [Isolated] to the enemy with the highest ATK and [Helpless] to all enemies for 2 rounds.\n\n[Isolated]: Cannot receive any buffs for 2 rounds. (cannot be dispelled)\n[Helpless]: Debuffs on self have a 30% chance to resist being dispelled (cannot be dispelled and ignores Debuff RES)."
-生命+10%，攻击+10%,HP +20%\nATK +10%
+进入战斗时，有50%概率使敌方攻击力最高的女神进入【孤立】状态（无视异常抵抗，无法驱散），战斗开始后不会受到任何增益状态，持续2回合。每回合行动时，使全体敌方获得1层【脆弱】状态（无视异常抵抗，可叠加，持续至战斗结束），每层使敌方受到伤害增加1%。,"When entering battle, there is a 50% chance to inflict [Isolated] on the enemy with the highest ATK. When Frigga is in action, inflicts 1 layer of [Malediction] on all enemies, lasting until the end of the battle.\n\n[Isolated]: Cannot receive any buffs for 2 rounds (cannot be dispelled and ignores Debuff RES).\n[Malediction]: Increases DMG taken by 1% for each layer (stackable, ignores Debuff RES)."
+生命+10%，攻击+10%,HP +10%\nATK +10%
 物抗+15%，魔抗+15%,P.RES +15%\nM.RES +15%
 防御+20%，生命值+20%,DEF +20%\nHP +20%
-效果命中+25%，治疗效果+20%,Effect ACC +25%\nHealing Effect +20%
+异常抵抗+25%，治疗效果+20%,Debuff RES +25%\nHealing Effect +20%
 生命+15%，攻击+15%,HP +15%\nATK +15%
 物抗+20%，魔抗+20%,P.RES +20%\nM.RES +20%
 防御+30%，生命值+30%,DEF +30%\nHP +30%
-效果命中+40%，治疗效果+30%,Effect ACC +40%\nHealing Effect +30%
+异常抵抗+40%，治疗效果+30%,Debuff RES +40%\nHealing Effect +30%
 星纹·战神,Starprint - War God
 星纹·勇气,Starprint - Courage
 星纹·嗜血,Starprint - Bloodthirst
@@ -19656,20 +19659,20 @@ ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
 星纹·雷霆,Starprint - Thunder
 星纹·巨人,Starprint - Giant
 技能伤害提升15%，普攻伤害提升30%,"Increases Skill DMG by 15%, Normal DMG by 30%"
-击杀敌人后使自身伤害提升10%，可叠加至3层，持续至战斗结束,"Killing an enemy increases self-DMG by 10%, stacking up to 3 layers and lasting until the end of the battle"
-行动时使自身攻击力、吸血提升5%，可叠加至10层，持续至战斗结束,"When taking an action, increase self ATK and Leech by 5%, stacking up to 10 layers and lasting until the end of the battle."
+击杀敌人后使自身伤害提升10%，可叠加至2层，持续至战斗结束,"Killing an enemy increases self-DMG by 10%, stacking up to 2 layers and lasting until the end of the battle"
+行动时使自身攻击力、吸血提升10%，可叠加至3层，持续至战斗结束,"When taking an action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle."
 受到技能伤害降低20%,Receive 20% less DMG from skills
-行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害,"When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
-行动时使自身防御、伤害反弹提升5%，可叠加至10层，持续至战斗结束,"When taking an action, increase self DEF and DMG Reflection by 5%, stacking up to 10 layers and lasting until the end of the battle."
+行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害,"When taking an action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
+行动时使自身防御、伤害反弹提升10%，可叠加至3层，持续至战斗结束,"When taking an action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle."
 受到技能伤害降低10%，异常抵抗提升10%,Receive 10% less DMG from skills and increase 10% Debuff RES
 受到的治疗效果提高20%，受到的护盾效果提高20%,Increases Healing Effect and Shield Effect by 20%
 基础属性提升5%,Increases Basic Attributes by 5%
 治疗效果提升30%，异常抵抗提升10%,Increases Healing Effect by 30% and Debuff RES by 10%
-每次受到攻击时，自身恢复10%已损失生命值,"When being attacked, restore 10% of the lost HP value."
-每回合行动时，恢复生命值最低的友方女神10%的生命值,"When taking action, restores 10% of the HP of the ally with the lowest HP."
-无视敌方20%异常抵抗,Ignore 20% of the enemy's Debuff RES
-受到伤害时，有20%固定概率使敌方获得【晕眩】1回合,"When taking damage, there is a 20% fixed probability that the enemy will receive [Stun] for 1 round."
-每回合行动时，提升自身生命上限3%，可叠加至10层，持续至战斗结束,"Increases Max HP by 3% every round, stacking up to 10 layers and lasting until the end of the battle"
+受到伤害时，自身恢复10%已损失生命值,"When taking damgae, restore 10% of the lost HP value."
+每回合行动时，恢复生命值最低的友方女神50%的生命值,"When taking an action, restores 50% of the HP of the ally with the lowest HP."
+受到技能伤害降低10%，无视异常抵抗10%,Ignores 10% of the enemy's Debuff RES and reduces Skill DMG taken by 10%
+受到伤害时，使自身效果命中提高3%，可叠加10层，持续至战斗结束,"When taking damage, increases self Effect ACC by 3% until the end of the battle (can be stacked up to 10 layers)."
+每回合行动时，提升自身生命上限10%，可叠加至3层，持续至战斗结束,"When taking an action, increases Max HP by 10%, stacking up to 3 layers and lasting until the end of the battle"
 中毒-荆棘毒刺,Poison - Thorny Sting
 燃烧-荆棘毒刺,Ignite - Thorny Sting
 破甲-荆棘毒刺,Sunder Armor - Thorny Sting
@@ -19691,14 +19694,14 @@ ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
 弗丽嘉的冲动,Frigga's Impulse
 弗丽嘉的虚伪,Frigga's Hypocrisy
 过去的弗丽嘉,Frigga in the Past
-三周年纪念卡,3rd Anniversary Souvenir Card
 三周年头像框,3rd Anniversary Avatar Frame
 三周年限定头像框,3rd Anniversary Limited Avatar Frame
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,3rd Anniversary Souvenir Card
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are the rewards for your 3rd Anniversary Souvenir Card. Enjoy the treat!
 三周年限定聊天气泡,3rd Anniversary Limited Chat Bubble
-这是您的三周年纪念卡邮件奖励，请您查收！,Here are the rewards for your 3rd Anniversary Souvenir Card. Enjoy the treat!
 完成本轮巡游回到起点,Finish the current parade and go back to the beginning
 万能骰子*2,Universal Dice*2
-下一次奖励格子奖励效果翻倍,Multiply the next reward effect by 2
+下一次奖励格子奖励翻倍,Multiply the next reward effect by 2
 少量游园货币,A few Parade Coins
 一定游园货币,A certain amount of Parade Coins
 大量游园货币,A Lot of Parade Coins
@@ -19711,13 +19714,13 @@ ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
 下一次随机骰子结果为1,Set the next dice roll to 1
 随机向前(1~3),Go forward (1~3) spaces by chance
 随机向后(1~3),Go back (1~3) spaces by chance
-庆典扭蛋,Celebration Gacha
-庆典大奖,Grand Prize
-二等奖,Second Prize
-三等奖,Third Prize
-抽到庆典大奖的概率：{0},Probability of winning the Grand Prize: {0}
-抽到二等奖的概率：{0},Probability of winning the Second Prize: {0}
-抽到三等奖的概率：{0},Probability of winning the Third Prize: {0}
+欢乐扭蛋,Celebration Gacha
+圣诞大奖,Grand Prize
+驯鹿奖,Second Prize
+雪橇奖,Third Prize
+抽到圣诞大奖的概率,Probability of winning the Grand Prize: {0}
+抽到驯鹿奖的概率,Probability of winning the Second Prize: {0}
+抽到雪橇奖的概率,Probability of winning the Third Prize: {0}
 蛋糕礼盒,Cake Giftbox
 蛋糕,Birthday Cake
 三周年活动期间挂机掉落，可在蛋糕礼盒中开启,Drops during the 3rd Anniversary event. Can be opened in the Cake Giftbox
@@ -19734,3 +19737,51 @@ ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
 二周年纪念神迹卡,2nd Anniversary Celebration Miracle Card
 三周年纪念神迹卡,3rd Anniversary Celebration Miracle Card
 累计投掷{0}次,Rolled {0} times in total Miracle Card
+CARNIVAL_RECYCLE_GOODS_TITLE,Event Items and points Recycle in Time Carnival
+CRANIVAL_RECYCLE_GOODS_CONTENT,"he Time Carnival event has ended, and the event items and points have been automatically converted to diamonds."
+CARNIVAL_RANK_REWARD_MAIL_TITLE,Time Carnival Ranking Rewards
+CARNIVAL_RANK_REWARD_MAIL_CONTENT.3,Congratulations on ranking No. {0} in the Time Carnival. Here are your rewards:
+CARNIVAL_SEND_NOT_RECEIVE_REWARD_TITLE,Carnival Rewards Reissue
+CARNIVAL_SEND_NOT_RECEIVE_REWARD_CONTENT,These are your unclaimed rewards in the Carnival event
+庆典·赫拉,Celebration·Hera
+庆典·卡俄斯,Celebration·Chaos
+庆典·丘比特,Celebration·Cupid
+庆典·拉,Celebration·Ra
+庆典·伊卡璐斯,Celebration·Icarus
+庆典·卑弥呼,Celebration·Himiko
+庆典·海姆达尔,Celebration·Heimdall
+建筑等级不足，该位置未开放,Location requires higher building levels to unlock
+当前可领：,Available rewards:
+解锁周年勋礼,Unlock Anniversary Merit
+三周年礼包,3rd Anniversary Giftpack
+嘉年华礼包1,Carnival Giftpack 1
+嘉年华礼包2,Carnival Giftpack 2
+嘉年华礼包3,Carnival Giftpack 3
+嘉年华礼包4,Carnival Giftpack 4
+命运星辰,Destiny Stars
+3周年,3rd Anniversary
+随机事件,Random Event
+老虎机,Random Event
+已占用,Occupied
+拥有一位UR女神后开启,Unlock after awakening one UR Angel
+开启,Unlock
+2020年11月21日,"November 21, 2020"
+时光,Time
+感谢,Gratitude
+碎愿者之锤,Hammer of the Wish Breaker
+巨龙流出的血液凝结而成的强大金属，有一天终将会为诸神带来毁灭……,"A powerful metal formed from the blood of ancient dragons, one day it will bring about the destruction of the gods..."
+受到伤害时，自身恢复10%已损失生命值,"When damaged, recover 10% of lost HP."
+你选择的女神星标等级已经达到最大等级，是否确认选择,Your chosen goddess' Star Mark has already reached the max level. Do you confirm?
+星愿奖励,Star Wish Rewards
+唤星,Summon Star
+唤星十次,Summon Star x10
+女神的命星,Angel’s Destiny Star
+道具奖励,Item Reward
+继续战斗,Continue Fighting
+神装共鸣,Gear Resonance
+下一队,Next Team
+上一队,Previous Team
+通关噩梦战场{0},Cleared Nightmare Battlefield {0}
+一周年纪念卡碎片,1st Anniversary Souvenir Card Piece
+二周年纪念卡碎片,2nd Anniversary Souvenir Card Piece
+三周年纪念卡碎片,3rd Anniversary Souvenir Card Piece

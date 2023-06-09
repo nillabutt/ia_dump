@@ -56896,14 +56896,6 @@
         "value": "Célébration - Capricornus"
     },
     {
-        "name": "庆典·赫拉",
-        "value": "Célébration - Héra"
-    },
-    {
-        "name": "庆典·伊卡璐斯",
-        "value": "Célébration - Icare"
-    },
-    {
         "name": "庆典·卑弥呼",
         "value": "Célébration - Himiko"
     },
@@ -66144,18 +66136,6 @@
         "value": "Chat Chanceux"
     },
     {
-        "name": "圣诞大奖",
-        "value": "<size=18>Jackpot de Noël</size>"
-    },
-    {
-        "name": "驯鹿奖",
-        "value": "<size=18>Prix du Renne</size>"
-    },
-    {
-        "name": "欢乐扭蛋",
-        "value": "Joyeux Gacha"
-    },
-    {
         "name": "扭1次",
         "value": "Tirage x1"
     },
@@ -66218,18 +66198,6 @@
     {
         "name": "红券数量不足",
         "value": "Le nombre de Parchemins d'invocation légendaire est insuffisant"
-    },
-    {
-        "name": "抽到圣诞大奖的概率",
-        "value": "Probabilité de gagner le Grand Prix de Noël : {0}"
-    },
-    {
-        "name": "抽到驯鹿奖的概率",
-        "value": "Probabilité de gagner le Prix du Renne : {0}"
-    },
-    {
-        "name": "抽到雪橇奖的概率",
-        "value": "Probabilité de gagner le Prix du Traîneau : {0}"
     },
     {
         "name": "圣夜仙踪",
@@ -66490,10 +66458,6 @@
     {
         "name": "已满星SSR+女神将不会重复活动获得",
         "value": "Les Anges SSR+ avec étoiles pleines ne seront pas inclus"
-    },
-    {
-        "name": "雪橇奖",
-        "value": "Prix du Traîneau"
     },
     {
         "name": "本活动抽奖计入五百抽",

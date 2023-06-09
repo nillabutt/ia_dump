@@ -13438,8 +13438,6 @@ ZZZ……,Хррр…
 敏捷:,ЛОВК
 智力:,ИНТ
 耐力:,ВЫН
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Thưởng Thẻ Kỷ Niệm Lãng Mạn
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Hôm nay xin tặng bạn Thẻ Kỷ Niệm Lãng Mạn.  Cảm ơn vì đã ủng hộ, chúc bạn có một Lễ Tình nhân ngọt ngào."
 对6名敌人造成120%的法术伤害，并使自身获得3回合【神王】和4回合【雷盾】（不可驱散）。【神王】状态下，每次轮到宙斯回合时，对6名敌人造成120%的法术伤害。【雷盾】状态下，宙斯每次受到伤害都会反击敌人，对目标造成30%的法术伤害，该伤害不会触发敌人的反击效果和伤害反弹。,"Gây 120% sát thương phép cho 6 kẻ địch đồng thời kèm thêm [Luật Lệ Của Zeus] (Không thể xóa) trong 3 hiệp và [Khiên Sấm Sét] (Không thể xóa) trong 4 hiệp. Khi đang ở trạng thái [Luật Lệ Của Zeus], gây 120% Sát Thương Phép lên 6 kẻ địch trong hiệp hành động của Zeus.. Khi đang ở trạng thái [Khiên Sấm Sét], kẻ địch tấn công Zeus sẽ chịu 30% Sát Thương Phép, không kích hoạt Phản Sát và Trả Thù."
 宙斯被称为“奥林匹斯之王”，同时也是天空与雷电之神，强大程度几乎位于各大神系的顶峰。\n据说是为了与奥丁争夺众神之王的位置而被召唤到这个世界的，但没人知道她真正的目的和意图。,"Zeus, được gọi là “Kẻ thống trị đỉnh Olympus”, là vị thần trị vì bầu trời và sấm sét, sức mạnh của ngài gần như đạt đỉnh mốc so với các vị thần chính. \nNghe đồn ngài được triệu hồi đến thế giới này để cạnh tranh với Odin nhằm tranh giành ngôi vị “Vua của các vị thần”, nhưng chẳng ai biết ý đồ và mục đích thật sự của ngài."
 GUILD_WAR_FINAL_MVP_REWARD_CONTENT_1,Поздравляем с убийством {1} противников в ходе финала {0} сезона Битвы гильдий и получением статуса самого ценного игрока! Вы получаете следующие награды:
@@ -13525,3 +13523,5 @@ Anniversary card,Erntedankfest-Gedenkkarte
 BOSS挑战,Вызов босса
 巫女2,Ведьма
 请选择奖励,"Пожалуйста, выберите большой приз Желание"
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Thưởng Thẻ Kỷ Niệm Lãng Mạn
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Hôm nay xin tặng bạn Thẻ Kỷ Niệm Lãng Mạn.  Cảm ơn vì đã ủng hộ, chúc bạn có một Lễ Tình nhân ngọt ngào."

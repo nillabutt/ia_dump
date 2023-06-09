@@ -14223,8 +14223,6 @@ ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,L'événement du Maître de la fusion est te
 两周年庆,2nd anniversaire
 庆典·缘结神,Célébration - Enmusubi
 庆典·魔羯座,Célébration - Capricornus
-庆典·赫拉,Célébration - Héra
-庆典·伊卡璐斯,Célébration - Icare
 庆典·卑弥呼,Célébration - Himiko
 庆典·嫦娥,Célébration - Chang'e
 庆典·主角,Célébration - Ange principal
@@ -16535,9 +16533,6 @@ UR+伊卡璐斯,Icare UR+
 主人，主人，快让我躲躲，那只小兔子，又吵着要礼物了！,"Maîtresse, s'il te plaît, laisse-moi me cacher là-bas. Ce lapin ennuyeux réclame à nouveau des cadeaux !"
 啊，主人，能再借你的腿我睡一会吗？我真的很喜欢这种感觉，睡在你身边的感觉……很安全。,"Ah, maîtresse, puis-je emprunter ta jambe à nouveau et m'assoupir là pendant un moment ? J'aime vraiment ce sentiment. Je me sens en sécurité quand je dors à tes côtés."
 招财猫,Chat Chanceux
-圣诞大奖,<size=18>Jackpot de Noël</size>
-驯鹿奖,<size=18>Prix du Renne</size>
-欢乐扭蛋,Joyeux Gacha
 扭1次,Tirage x1
 扭十次,Tirage x10
 本活动抽奖次数计入召唤庆典,Le nombre de tirages pour cet événement sera compté dans la Célébration d'Invocation
@@ -16554,9 +16549,6 @@ CHRISTMAS_WAZI_TIPS,Ouvrez vos chaussettes de Noël pour obtenir {0} Flocons de 
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Le grand prix de chaque tour est garanti après {0} tirages
 概率：,Probabilité :
 红券数量不足,Le nombre de Parchemins d'invocation légendaire est insuffisant
-抽到圣诞大奖的概率,Probabilité de gagner le Grand Prix de Noël : {0}
-抽到驯鹿奖的概率,Probabilité de gagner le Prix du Renne : {0}
-抽到雪橇奖的概率,Probabilité de gagner le Prix du Traîneau : {0}
 圣夜仙踪,Merveille de la Nuit Sainte
 铃声轻响，牵着你的小可爱回家吧！,"La cloche sonne, ramenez votre petit bout de chou à la maison !"
 幻兽-菲奈特,Chimères - Finette
@@ -16622,7 +16614,6 @@ copy圣诞币,Pièces de Noël
 快速战斗1次,Combat Rapide 1 fois
 已满星,Étoile Pleine
 已满星SSR+女神将不会重复活动获得,Les Anges SSR+ avec étoiles pleines ne seront pas inclus
-雪橇奖,Prix du Traîneau
 本活动抽奖计入五百抽,Le nombre de tirages sera décompté lors de la Célébration de l'Invocation
 ACTIVITY_SUMMON_DESC_80,Les ailes pures qui peuvent dissiper les ténèbres et la déception !
 十连,<size=18>Ouvert 10 fois</size>
