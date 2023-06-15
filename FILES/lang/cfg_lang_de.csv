@@ -16534,7 +16534,7 @@ EGG_MACHINE_BAODI_TIPS,Der Jackpot wird nach {0} Ziehungen vergeben
 EGG_MACHINE_BAODI_CONFIG_TIPS,bekommst den Jackpot garantiert in Runde {0} nach {1} Ziehungen
 奖品详情,Belohnungsdetails
 圣诞宝箱,Weihnachtstruhe
-活动期间副本战掉落圣诞袜,"Kämpfe im Dungeon, um Strümpfe zu bekommen"
+活动期间副本战掉落蛋糕礼盒,"Kämpfe im Dungeon, um Strümpfe zu bekommen"
 圣诞袜,Weihnachtsstrumpf
 开启圣诞袜,Öffne den Weihnachtsstrumpf
 雪花,Weihnachtsflocke
@@ -17456,3 +17456,5 @@ COMBINE_ZONE_CHALLENGE_BOSS,Boss-Herausforderung
 请选择奖励,Bitte wählen Sie den gewünschten Hauptpreis aus
 ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Belohnungen für die Andenkenkarte zum Erntedankfest
 ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Hier sind die heutigen Belohnungen der Thanksgiving-Andenkenkarte, danke für die Unterstützung!"
+请先布阵,Bitte erst Engel einsetzen
+解锁当前礼包总计可以获得以下奖励,"Schalte diesen Kampfpass frei, um die folgenden Belohnungen zu erhalten"

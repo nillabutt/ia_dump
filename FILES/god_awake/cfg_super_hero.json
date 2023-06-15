@@ -170,6 +170,16 @@
         "sta_initial": "1750"
     },
     {
+        "cid": "2069",
+        "is_open": "1",
+        "quality_level": "9",
+        "potential": "6333",
+        "str_initial": "1594",
+        "agi_initial": "1594",
+        "int_initial": "1594",
+        "sta_initial": "1594"
+    },
+    {
         "cid": "2081",
         "is_open": "1",
         "quality_level": "9",

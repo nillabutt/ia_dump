@@ -1320,6 +1320,9 @@ eid,bundle_anim,bundle_trigger_time,hit_anim,hit_trigger_time,effect_play_delay,
 146802401,SLZM_att,0.5,SLZM_hit,0,1.2,1,0,0
 146802501,SLZM_att,0.5,SLZM_hit,0,1.5,1,0,0
 146802601,SLZM_att,0.5,SLZM_hit,0,1.8,1,0,0
+156801101,LFSQ_att,0.8,LFSQ_hit,0,1,1,0,0
+156802001,,0,,0,0,0,0,0
+156802101,,0,,0,0,0,0,0
 117001101,,0,LHBSJ_hit,0,0,1,1,0
 117001201,,0,,0,0,0,0,0
 117001211,,0,,0,0,0,0,0

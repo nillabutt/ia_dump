@@ -66140,7 +66140,7 @@
         "value": "Weihnachtstruhe"
     },
     {
-        "name": "活动期间副本战掉落圣诞袜",
+        "name": "活动期间副本战掉落蛋糕礼盒",
         "value": "Kämpfe im Dungeon, um Strümpfe zu bekommen"
     },
     {
@@ -69826,5 +69826,13 @@
     {
         "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
         "value": "Hier sind die heutigen Belohnungen der Thanksgiving-Andenkenkarte, danke für die Unterstützung!"
+    },
+    {
+        "name": "请先布阵",
+        "value": "Bitte erst Engel einsetzen"
+    },
+    {
+        "name": "解锁当前礼包总计可以获得以下奖励",
+        "value": "Schalte diesen Kampfpass frei, um die folgenden Belohnungen zu erhalten"
     }
 ]

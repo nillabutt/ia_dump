@@ -11969,7 +11969,6 @@ TIME_UNIT_MIN_OUTLAND,m
 至高之光,Lumière suprême
 在炽烈的阳光下！黑暗将无所遁形！,Sous le soleil ardent ! L'obscurité n'a pas de place à cacher !
 ACTIVITY_HOLIDAY_DROP_SUMMON_SHOP,"Veuillez utiliser les points à temps, et ils seront effacés automatiquement après l'événement"
-ACTIVITY_HOLIDAY_DROP_SUMMON_QJSD,Magasin d'événement
 ACTIVITY_HOLIDAY_DROP_SHOP_SCORE_NOT_ENOUGH,Point insuffisant
 ACTIVITY_HOLIDAY_DROP_SHOP_COUNT_LIMIT,Le nombre d'achat d'objet atteint son maximum
 EVENT_ANIMALS_NOT_ENOUGH,"Déjà possédé cette chimère, elle est automatiquement convertie en 5 Fruits de Sang de dragon et 5 Fruits divins"
@@ -14217,7 +14216,7 @@ ACTIVITY_BOSS_CHALLENGE_BUY,Tentatives : {0}
 已经通关无需使用回溯功能,Vous n'avez pas à réessayer comme vous avez déjà passé tous les niveaux
 女神已全部上阵,Tous les anges sont dans l'équipe
 ACTIVITY_CAKE_UNLOCK_GIFT_NEED,Consommer {0} Poussières arcaniques pour déverrouiller le pack de ce niveau.
-half_month_content,Vous recevrez <color=#FFF341><size=32>{0}</size></color> sous <color=#00ff00>7</color> jours
+half_month_content,Vous recevrez <color=#FFF341><size=32>{0}</size></color> sous <color=#00ff00>14</color> jours
 ACTIVITY_CAKE_EXCHANGE_COIN_TITLE,Poussières arcaniques recyclées automatiquement
 ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,L'événement du Maître de la fusion est terminé. Les poussières arcaniques en votre possession ont été automatiquement transformées en diamants !
 两周年庆,2nd anniversaire
@@ -16540,7 +16539,7 @@ EGG_MACHINE_BAODI_TIPS,Le jackpot sera attribué après {0} tirages
 EGG_MACHINE_BAODI_CONFIG_TIPS,Garantit l'obtention du jackpot au tour {0} après {1} tirages
 奖品详情,Détails de la Récompense
 圣诞宝箱,Coffre de Noël
-活动期间副本战掉落圣诞袜,Combattez dans le Donjon pour obtenir des chaussettes
+活动期间副本战掉落蛋糕礼盒,Combattez dans le Donjon pour obtenir des chaussettes
 圣诞袜,Chaussettes de Noël
 开启圣诞袜,Ouvrez la chaussette de Noël
 雪花,Flocon de Neige de Noël
@@ -17457,3 +17456,5 @@ COMBINE_ZONE_CHALLENGE_BOSS,Défi de Boss
 已完成全部关卡,Vous avez déjà passé tous les niveaux.
 巫女2,Sorcière
 请选择奖励,Veuillez sélectionner le Grand prix de vœux
+请先布阵,Veuillez d'abord déployer les anges
+解锁当前礼包总计可以获得以下奖励,Déverrouillez cet ordre de combat pour obtenir les récompenses suivantes.

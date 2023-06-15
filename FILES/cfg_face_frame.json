@@ -720,6 +720,26 @@
         "desc": "感谢您在社区活动中的贡献"
     },
     {
+        "cfg_id": "4053",
+        "type": "4",
+        "quality": "6",
+        "name": "雅典娜头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4053.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4054",
+        "type": "4",
+        "quality": "5",
+        "name": "雅典娜头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4054.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
         "cfg_id": "5001",
         "type": "5",
         "quality": "6",

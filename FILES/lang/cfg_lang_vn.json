@@ -66128,7 +66128,7 @@
         "value": "Rương Giáng Sinh"
     },
     {
-        "name": "活动期间副本战掉落圣诞袜",
+        "name": "活动期间副本战掉落蛋糕礼盒",
         "value": "Chiến đấu tại Phụ Bản để nhận tất"
     },
     {
@@ -69776,10 +69776,6 @@
         "value": "Hôm nay xin tặng bạn Thẻ Kỷ Niệm Lãng Mạn. Cảm ơn vì đã ủng hộ, chúc bạn có một Lễ Tình nhân ngọt ngào."
     },
     {
-        "name": "Anniversary card",
-        "value": "海洋紀念卡"
-    },
-    {
         "name": "玫瑰好礼",
         "value": "Hoa Hồng Cạnh Giường"
     },
@@ -69818,5 +69814,13 @@
     {
         "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
         "value": "Đây là phần thưởng thẻ kỷ niệm Lễ tạ ơn ngày hôm nay, cảm ơn bạn đã ủng hộ!"
+    },
+    {
+        "name": "请先布阵",
+        "value": "Hãy bố trí thiên thần trước"
+    },
+    {
+        "name": "解锁当前礼包总计可以获得以下奖励",
+        "value": "Mở khóa Chiến Lệnh này để nhận được các thưởng sau"
     }
 ]

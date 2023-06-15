@@ -33,58 +33,52 @@
         "cfg_id": "6",
         "limit_count": "3",
         "cost": "600",
-        "reward": "5:6000006:1"
-    },
-    {
-        "cfg_id": "7",
-        "limit_count": "3",
-        "cost": "600",
         "reward": "5:3000103:1"
     },
     {
-        "cfg_id": "8",
+        "cfg_id": "7",
         "limit_count": "3",
         "cost": "500",
         "reward": "5:3000031:1"
     },
     {
-        "cfg_id": "9",
+        "cfg_id": "8",
         "limit_count": "5",
         "cost": "600",
         "reward": "5:3000140:100"
     },
     {
-        "cfg_id": "10",
+        "cfg_id": "9",
         "limit_count": "2",
         "cost": "600",
         "reward": "5:6000004:1"
     },
     {
-        "cfg_id": "11",
+        "cfg_id": "10",
         "limit_count": "2",
         "cost": "200",
         "reward": "5:3000027:20"
     },
     {
-        "cfg_id": "12",
+        "cfg_id": "11",
         "limit_count": "2",
         "cost": "150",
         "reward": "5:1000013:1"
     },
     {
-        "cfg_id": "13",
+        "cfg_id": "12",
         "limit_count": "50",
         "cost": "100",
         "reward": "5:6000026:5"
     },
     {
-        "cfg_id": "14",
+        "cfg_id": "13",
         "limit_count": "99",
         "cost": "15",
         "reward": "5:6000025:5"
     },
     {
-        "cfg_id": "15",
+        "cfg_id": "14",
         "limit_count": "99",
         "cost": "5",
         "reward": "1:2:50"

@@ -2493,10 +2493,10 @@
         "effect_ids": "0",
         "job": "0",
         "fight_attribute": "2:3:100",
-        "consume_self_debris_count": "120",
-        "consume_goods_count": "6000",
-        "consume_blue_debris_count": "150",
-        "consume_purple_debris_count": "120"
+        "consume_self_debris_count": "50",
+        "consume_goods_count": "0",
+        "consume_blue_debris_count": "0",
+        "consume_purple_debris_count": "0"
     },
     {
         "cfg_id": "148",
@@ -2510,10 +2510,10 @@
         "effect_ids": "0",
         "job": "0",
         "fight_attribute": "2:5:100",
-        "consume_self_debris_count": "120",
-        "consume_goods_count": "6000",
-        "consume_blue_debris_count": "150",
-        "consume_purple_debris_count": "120"
+        "consume_self_debris_count": "50",
+        "consume_goods_count": "0",
+        "consume_blue_debris_count": "0",
+        "consume_purple_debris_count": "0"
     },
     {
         "cfg_id": "149",
@@ -2527,9 +2527,9 @@
         "effect_ids": "0",
         "job": "0",
         "fight_attribute": "2:1:1000",
-        "consume_self_debris_count": "120",
-        "consume_goods_count": "6000",
-        "consume_blue_debris_count": "150",
-        "consume_purple_debris_count": "120"
+        "consume_self_debris_count": "50",
+        "consume_goods_count": "0",
+        "consume_blue_debris_count": "0",
+        "consume_purple_debris_count": "0"
     }
 ]

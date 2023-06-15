@@ -388,5 +388,18 @@
         "name": "命星自选箱",
         "icon": "6000030.png",
         "description": "打开宝箱选择任意女神的命星"
+    },
+    {
+        "cfg_id": "6000031",
+        "optional_id": "7:2069:1|17:2069:1|24:2069:1|5:3000027:1",
+        "max_count": "99999",
+        "quality": "6",
+        "restore": "1",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "0",
+        "name": "雅典娜女神碎片自选箱",
+        "icon": "6000031.png",
+        "description": "打开宝箱选择雅典娜任意品质的碎片"
     }
 ]

@@ -2940,6 +2940,20 @@
         "icon_kor": ""
     },
     {
+        "cfg_id": "4000017",
+        "max_count": "99999999",
+        "quality": "6",
+        "restore": "1",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "60",
+        "name": "雅典娜的记忆晶元",
+        "show_in_bag": "0",
+        "icon": "4000017.png",
+        "description": "用于提升雅典娜的梦境中记忆宝珠的等级",
+        "icon_kor": ""
+    },
+    {
         "cfg_id": "8000000",
         "max_count": "99999999",
         "quality": "6",

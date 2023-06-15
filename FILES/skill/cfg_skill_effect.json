@@ -14531,6 +14531,39 @@
         "accumulational_effect_play_delay": "0"
     },
     {
+        "eid": "156801101",
+        "bundle_anim": "LFSQ_att",
+        "bundle_trigger_time": "0.8",
+        "hit_anim": "LFSQ_hit",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "1",
+        "shake_target": "1",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156802001",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156802101",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
         "eid": "117001101",
         "bundle_anim": "",
         "bundle_trigger_time": "0",

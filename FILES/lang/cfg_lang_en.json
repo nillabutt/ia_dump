@@ -38529,7 +38529,7 @@
     },
     {
         "name": "周卡连续7天，每日登录后奖励通过邮件发放\\n",
-        "value": "The cards event lasts for <color=#00ff00>7</color> days, which will be sent to you via email after login"
+        "value": "The cards event lasts for <color=#00ff00>14</color> days, which will be sent to you via email after login"
     },
     {
         "name": "限购",
@@ -47681,7 +47681,7 @@
     },
     {
         "name": "ACTIVITY_HOLIDAY_DROP_SUMMON_QJSD",
-        "value": "Event store"
+        "value": "Carnival Shop"
     },
     {
         "name": "ACTIVITY_HOLIDAY_DROP_SHOP_SCORE_NOT_ENOUGH",
@@ -53177,7 +53177,7 @@
     },
     {
         "name": "活动商店",
-        "value": "Event Store"
+        "value": "Carnival Shop"
     },
     {
         "name": "活动任务",
@@ -55857,7 +55857,7 @@
     },
     {
         "name": "积分不足",
-        "value": "Insufficient points"
+        "value": "Insufficient Carnival Vouchers"
     },
     {
         "name": "关卡",
@@ -56765,7 +56765,7 @@
     },
     {
         "name": "half_month_content",
-        "value": "You'll be granted <color=#FFF341><size=32>{0}</size></color> within <color=#00ff00>7</color> days"
+        "value": "You'll be granted <color=#FFF341><size=32>{0}</size></color> within <color=#00ff00>14</color> days"
     },
     {
         "name": "ACTIVITY_CAKE_EXCHANGE_COIN_TITLE",
@@ -66145,7 +66145,7 @@
     },
     {
         "name": "EGG_MACHINE_BAODI_TIPS",
-        "value": "The Jackpot will be awarded after {0} pulls"
+        "value": "Win the Grand Prize after {0} pulls"
     },
     {
         "name": "EGG_MACHINE_BAODI_CONFIG_TIPS",
@@ -66157,10 +66157,10 @@
     },
     {
         "name": "圣诞宝箱",
-        "value": "Christmas Chest"
+        "value": "Sweet Surprise"
     },
     {
-        "name": "活动期间副本战掉落圣诞袜",
+        "name": "活动期间副本战掉落蛋糕礼盒",
         "value": "Battle in Dungeon to get stockings"
     },
     {
@@ -66169,7 +66169,7 @@
     },
     {
         "name": "开启圣诞袜",
-        "value": "Open the Christmas stocking"
+        "value": "Open the Cake Giftbox"
     },
     {
         "name": "雪花",
@@ -66181,7 +66181,7 @@
     },
     {
         "name": "CHRISTMAS_WAZI_TIPS",
-        "value": "Open your Christmas stockings to get {0} Christmas Snowflakes"
+        "value": "Open the Gift Box to get {0} Birthday Cakes"
     },
     {
         "name": "EGG_MACHINE_LAST_BAODI_CONFIG_TIPS",
@@ -66237,7 +66237,7 @@
     },
     {
         "name": "圣诞商店",
-        "value": "Christmas Store"
+        "value": "Cake Shop"
     },
     {
         "name": "活动期间获得100VIP经验",
@@ -66257,7 +66257,7 @@
     },
     {
         "name": "圣诞袜奖励预览",
-        "value": "Christmas stocking Rewards Preview"
+        "value": "Gift Box Reward Preview"
     },
     {
         "name": "开启次数不足",
@@ -66485,19 +66485,19 @@
     },
     {
         "name": "ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_TITLE",
-        "value": "Christmas Event Item Recycle"
+        "value": "Sweet Surprise Item Recycle"
     },
     {
         "name": "ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_CONTENT",
-        "value": "The Christmas event has ended. The remaining event items, Christmas stockings and Christmas Coins are automatically recycled into diamonds."
+        "value": "The Sweet Surprise event has ended. The Gift Box and Anniversary Coin have been automatically recycled into diamonds."
     },
     {
         "name": "ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_TITLE",
-        "value": "Christmas Ranking Reward"
+        "value": "Sweet Surprise Ranking Reward"
     },
     {
         "name": "ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_CONTENT",
-        "value": "Congratulation on ranking the {0} in the Christmas Ranking event. Here are your rewards:"
+        "value": "Congratulations on ranking {0} in the Sweet Surprise. Please check out your rewards."
     },
     {
         "name": "圣诞派对",
@@ -66613,7 +66613,7 @@
     },
     {
         "name": "圣诞币不足",
-        "value": "Insufficient Christmas Coins"
+        "value": "Insufficient 3rd Anniversary Coin"
     },
     {
         "name": "同时触发多项。。。。。。。。。",
@@ -66661,7 +66661,7 @@
     },
     {
         "name": "宝箱奖励预览",
-        "value": "Christmas Chest Reward Preview\\n(Guaranteed to get rare rewards after 30 times of opening)"
+        "value": "Sweet Surprise Reward Preview\\n(30 times must be rare reward)"
     },
     {
         "name": "每日圣诞袜",
@@ -66685,7 +66685,7 @@
     },
     {
         "name": "雪花:",
-        "value": "Snowflake:"
+        "value": "Birthday Cake："
     },
     {
         "name": "扭蛋次数达到上限",
@@ -70461,7 +70461,7 @@
     },
     {
         "name": "Anniversary card",
-        "value": "Ocean Souvenir Card"
+        "value": "3rd Anniversary Souvenir Card"
     },
     {
         "name": "2023春季限定头像框",
@@ -72797,7 +72797,7 @@
     },
     {
         "name": "复活节大奖",
-        "value": "Easter Grand Prize"
+        "value": "Grand Prize"
     },
     {
         "name": "照 顾",
@@ -77049,7 +77049,7 @@
     },
     {
         "name": "ANNIVERSARY_LETTER_OPENNING",
-        "value": "<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\\nTogether, we've made great progress in exploring the mysterious world."
+        "value": "<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\\nFast forward to <color=#fe8cc0>June</color> <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\\nTogether, we've made great progress in exploring the mysterious world."
     },
     {
         "name": "ANNIVERSARY_LETTER_STARTING",
@@ -77057,19 +77057,19 @@
     },
     {
         "name": "ANNIVERSARY_LETTER_TIME",
-        "value": "Over the last year, \\nyou spent {0} dedicated days battling alongside the angels.\\nYour longest single log-in lasted {1} hours. Time spent with you always seems to fly by."
+        "value": "Over the last year, \\nyou spent {0} dedicated days battling alongside the angels.\\nYour total playtime in the game is {1} hours. Time spent with you always seems to fly by."
     },
     {
         "name": "ANNIVERSARY_LETTER_HONOR",
-        "value": "Amidst our shared journey, you competed with fellow adventurers.\\nYou earned the championship title of the Clash of Titans {0} times.\\nYou emerged victorious in the Glory Arena {1} times.\\nYou were bestowed the title of Lord of Gods {2\\} times.\\nIn honor of your achievements, we present you with the annual title of \\n."
+        "value": "Amidst our shared journey, you competed with fellow adventurers.\\nYou earned the championship title of the Clash of Titans {0} times.\\nYou emerged victorious in the Glory Arena {1} times.\\nYou were bestowed the title of Lord of Gods {2\\} times.\\n"
     },
     {
         "name": "ANNIVERSARY_LETTER_EXPLORE",
-        "value": "In your exploration of the world and your challenge of its many difficulties, \\nyou embarked on {0} dungeon battles.\\nIn the Main Story battlefield, you have reached {1}.\\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \\n."
+        "value": "In your exploration of the world and your challenge of its many difficulties, \\nyou embarked on {0} dungeon battles.\\nIn the Main Story battlefield, you have reached {1}.\\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\\nIn the Fear Abyss, you courageously ventured down {3} levels."
     },
     {
         "name": "ANNIVERSARY_LETTER_HERO",
-        "value": "Looking back at the past year, \\nyou summoned angels {0} times, recruiting {1} angels to join your cause.\\nYou formed a sacred pact with {2} of them.\\nYou amassed {3} pieces of fashion, making quite the impression.\\nYour most formidable angel is {4}\\.\\nDo you still remember your first meeting with them?"
+        "value": "Looking back at the past year, \\nyou summoned angels {0} times, recruiting {1} angels to join your cause.\\nYou formed a sacred pact with {2} of them.\\nYou amassed {3} pieces of fashion, making quite the impression.\\nYour most formidable angel is {4}.\\nDo you still remember your first meeting with them?"
     },
     {
         "name": "ANNIVERSARY_LETTER_ENDING",
@@ -77084,7 +77084,7 @@
         "value": "Expert Competitor"
     },
     {
-        "name": "ANNIVERSARY_LETTER_TITLE_HONOR",
+        "name": "ANNIVERSARY_LETTER_TITLE_HONOR1",
         "value": "Master Competitor"
     },
     {
@@ -77122,10 +77122,6 @@
     {
         "name": "ANNIVERSARY_LETTER_HONOR4",
         "value": "You were bestowed the title of Lord of Gods {0} times.\\n"
-    },
-    {
-        "name": "ANNIVERSARY_LETTER_HONOR5",
-        "value": "In honor of your achievements, we present you with the annual title of \\n{0}"
     },
     {
         "name": "再投掷{0}次骰子,可产出{1}{2}",
@@ -77168,20 +77164,20 @@
         "value": "Tap to display Destiny Star Attributes"
     },
     {
-        "name": "点击激活命星的力量",
+        "name": "点击激活命星力量",
         "value": "Tap to activate the power of Destiny Star"
     },
     {
         "name": "点击切换到群星",
-        "value": "Tap to switch to Companion Star"
+        "value": "Tap to switch to the Collective Star"
     },
     {
         "name": "主星为女神本体",
-        "value": "The Main Star is the angel herself,"
+        "value": "The Main Star is the angel herself"
     },
     {
         "name": "伴星为其他女神的主星",
-        "value": "Companion Stars are the stars surrounding the Main Star"
+        "value": "Collective Stars are the stars surrounding the Main Star"
     },
     {
         "name": "达成一定的条件即可激活群星技能",
@@ -77328,7 +77324,7 @@
         "value": "Enhances Basic Attributes"
     },
     {
-        "name": "噩梦副本不支持快速战斗",
+        "name": "噩梦副本暂不支持快速战斗",
         "value": "Nightmare dungeons do not allow quick combat"
     },
     {
@@ -77373,7 +77369,7 @@
     },
     {
         "name": "{0}的命星",
-        "value": "{0}’s Destiny Star"
+        "value": "{0}"
     },
     {
         "name": "主星等级",
@@ -77392,7 +77388,7 @@
         "value": "Destiny Star’s Attributes"
     },
     {
-        "name": "主角的命星",
+        "name": "主角命星",
         "value": "MC’s Destiny Star"
     },
     {
@@ -77428,7 +77424,7 @@
         "value": "Himiko’s Destiny Star"
     },
     {
-        "name": "稚日女尊的命星",
+        "name": "缘结神的命星",
         "value": "Enmusubi’s Destiny Star"
     },
     {
@@ -77601,7 +77597,7 @@
     },
     {
         "name": "STAR_HOUSE_REWARD_TIPS",
-        "value": "Probability: {0}% (\\{1\\} times left)"
+        "value": "Probability: {0}% ({1} times left)"
     },
     {
         "name": "概率{0}%",
@@ -78416,7 +78412,7 @@
         "value": "Carnival Giftpack"
     },
     {
-        "name": "设备收益",
+        "name": "设施收益",
         "value": "Revenue Overview"
     },
     {
@@ -78448,7 +78444,7 @@
         "value": "Carnival Parade event item, upon usage, allows you to freely move forward anywhere between 1 to 6 spaces"
     },
     {
-        "name": "随机骰子不足",
+        "name": "骰子不足",
         "value": "Insufficient Random Dice"
     },
     {
@@ -78500,8 +78496,8 @@
         "value": "Fruit House"
     },
     {
-        "name": "完成巡游获得额外奖励",
-        "value": "When finishing one lap of the parade, get"
+        "name": "完成一圈巡游获得额外奖励",
+        "value": "Lap Bonus"
     },
     {
         "name": "累计投掷骰子{0}次",
@@ -78645,7 +78641,7 @@
     },
     {
         "name": "行动时使自身攻击力、吸血提升10%，可叠加至3层，持续至战斗结束",
-        "value": "When taking an action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle."
+        "value": "When taking action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle."
     },
     {
         "name": "受到技能伤害降低20%",
@@ -78653,11 +78649,11 @@
     },
     {
         "name": "行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害",
-        "value": "When taking an action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
+        "value": "When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
     },
     {
         "name": "行动时使自身防御、伤害反弹提升10%，可叠加至3层，持续至战斗结束",
-        "value": "When taking an action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle."
+        "value": "When taking action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle."
     },
     {
         "name": "受到技能伤害降低10%，异常抵抗提升10%",
@@ -78681,7 +78677,7 @@
     },
     {
         "name": "每回合行动时，恢复生命值最低的友方女神50%的生命值",
-        "value": "When taking an action, restores 50% of the HP of the ally with the lowest HP."
+        "value": "When taking action, restores 10% of the HP of the ally with the lowest HP."
     },
     {
         "name": "受到技能伤害降低10%，无视异常抵抗10%",
@@ -78693,7 +78689,7 @@
     },
     {
         "name": "每回合行动时，提升自身生命上限10%，可叠加至3层，持续至战斗结束",
-        "value": "When taking an action, increases Max HP by 10%, stacking up to 3 layers and lasting until the end of the battle"
+        "value": "When taking action, increases Max HP by 10%, stacking up to 3 layers and lasting until the end of the battle"
     },
     {
         "name": "中毒-荆棘毒刺",
@@ -78813,15 +78809,15 @@
     },
     {
         "name": "少量游园货币",
-        "value": "A few Parade Coins"
+        "value": "A few Carnival Vouchers"
     },
     {
         "name": "一定游园货币",
-        "value": "A certain amount of Parade Coins"
+        "value": "A certain amount of Carnival Vouchers"
     },
     {
         "name": "大量游园货币",
-        "value": "A Lot of Parade Coins"
+        "value": "A Lot of Carnival Vouchers"
     },
     {
         "name": "大量钻石",
@@ -78888,7 +78884,7 @@
         "value": "Probability of winning the Third Prize: {0}"
     },
     {
-        "name": "蛋糕礼盒",
+        "name": "生日礼盒",
         "value": "Cake Giftbox"
     },
     {
@@ -78920,7 +78916,7 @@
         "value": "Anniversary Cake Reward Preview"
     },
     {
-        "name": "活动期间副本战斗掉落蛋糕礼盒",
+        "name": "活动期间副本战掉落圣诞袜",
         "value": "Cake Giftbox will be dropped in the Dungeon Battle during the event period"
     },
     {
@@ -78956,7 +78952,7 @@
         "value": "Event Items and points Recycle in Time Carnival"
     },
     {
-        "name": "CRANIVAL_RECYCLE_GOODS_CONTENT",
+        "name": "CARNIVAL_RECYCLE_GOODS_CONTENT",
         "value": "he Time Carnival event has ended, and the event items and points have been automatically converted to diamonds."
     },
     {
@@ -78964,7 +78960,7 @@
         "value": "Time Carnival Ranking Rewards"
     },
     {
-        "name": "CARNIVAL_RANK_REWARD_MAIL_CONTENT.3",
+        "name": "CARNIVAL_RANK_REWARD_MAIL_CONTENT",
         "value": "Congratulations on ranking No. {0} in the Time Carnival. Here are your rewards:"
     },
     {
@@ -79020,19 +79016,19 @@
         "value": "3rd Anniversary Giftpack"
     },
     {
-        "name": "嘉年华礼包1",
+        "name": "游乐园礼包1",
         "value": "Carnival Giftpack 1"
     },
     {
-        "name": "嘉年华礼包2",
+        "name": "游乐园礼包2",
         "value": "Carnival Giftpack 2"
     },
     {
-        "name": "嘉年华礼包3",
+        "name": "游乐园礼包3",
         "value": "Carnival Giftpack 3"
     },
     {
-        "name": "嘉年华礼包4",
+        "name": "游乐园礼包4",
         "value": "Carnival Giftpack 4"
     },
     {
@@ -79056,7 +79052,7 @@
         "value": "Occupied"
     },
     {
-        "name": "拥有一位UR女神后开启",
+        "name": "拥有一位ur女神后开启",
         "value": "Unlock after awakening one UR Angel"
     },
     {
@@ -79112,11 +79108,11 @@
         "value": "Item Reward"
     },
     {
-        "name": "继续战斗",
-        "value": "Continue Fighting"
+        "name": "下一场",
+        "value": "Next level"
     },
     {
-        "name": "神装共鸣",
+        "name": "神器共鸣",
         "value": "Gear Resonance"
     },
     {
@@ -79142,5 +79138,729 @@
     {
         "name": "三周年纪念卡碎片",
         "value": "3rd Anniversary Souvenir Card Piece"
+    },
+    {
+        "name": "请先布阵",
+        "value": "Please deploy angels first"
+    },
+    {
+        "name": "新系统开启",
+        "value": "New system unlocks"
+    },
+    {
+        "name": "当前可领",
+        "value": "Available rewards"
+    },
+    {
+        "name": "唤星屋",
+        "value": "Star House"
+    },
+    {
+        "name": "完成巡游获得额外奖励",
+        "value": "When finishing one lap of the parade, get"
+    },
+    {
+        "name": "脆弱-寂灭心牢",
+        "value": "Malediction - Heartless Cage"
+    },
+    {
+        "name": "战争之翼-雅典娜",
+        "value": "Wings of War - Athena"
+    },
+    {
+        "name": "该女神暂未解锁命星系统",
+        "value": "This Angel has not yet unlocked the Destiny Star system"
+    },
+    {
+        "name": "暂未获得该女神",
+        "value": "This Angel has not been obtained yet"
+    },
+    {
+        "name": "设备收益",
+        "value": "Revenue Overview"
+    },
+    {
+        "name": "三周年登录",
+        "value": "3rd Anniversary login"
+    },
+    {
+        "name": "召唤10次女神",
+        "value": "Summon Angel 10 times"
+    },
+    {
+        "name": "解锁当前礼包总计可以获得以下奖励",
+        "value": "Unlock this battlepass to get the following rewards"
+    },
+    {
+        "name": "活动结束后自动回收嘉年华彩券",
+        "value": "Carnival Vouchers will be automatically recycled after the event ends"
+    },
+    {
+        "name": "三周年试炼",
+        "value": "3rd Anniversary Trials"
+    },
+    {
+        "name": "三周年纪念卡",
+        "value": "3rd Anniversary Souvenir Card"
+    },
+    {
+        "name": "周年庆商店",
+        "value": "Cake Shop"
+    },
+    {
+        "name": "玫瑰恋曲",
+        "value": "Rose Romance"
+    },
+    {
+        "name": "天后双星",
+        "value": "Celestial Queen"
+    },
+    {
+        "name": "爱情同盟",
+        "value": "Love Alliance"
+    },
+    {
+        "name": "末日蔷薇",
+        "value": "Doomsday Rose"
+    },
+    {
+        "name": "每层受到伤害增加1%",
+        "value": "Increases DMG taken by 1% for each layer"
+    },
+    {
+        "name": "在闪耀的旋律中，谱写一段绚烂的恋曲！",
+        "value": "Let a dazzling love song flow from the sparkling tune!"
+    },
+    {
+        "name": "首发登场",
+        "value": "Brand New Fashion"
+    },
+    {
+        "name": "闪耀恋曲",
+        "value": "Sparkling Romance"
+    },
+    {
+        "name": "周年",
+        "value": "Anniversary"
+    },
+    {
+        "name": "进入战斗时，雅典娜进入【战神】状态，净化自身所有不良状态（包含不可驱散类型），并且免疫任何异常状态，持续1回合。雅典娜行动后，如果对位敌方女神当前血量低于雅典娜当前最大攻击力的1.5倍，则直接斩杀该敌人，无视一切效果。",
+        "value": "When Athena enters the battle, she enters the [God of War], purifying herself of all debuffs, including those that can't be dispelled, and becomes immune to all debuffs for one round.\\n\\nAfter Athena takes action, if the HP of the enemy in her opposite position is less than 1.5 times of Athena's current Max ATK, she will directly execute that enemy, ignoring all effects."
+    },
+    {
+        "name": "战神-烈风神枪",
+        "value": "God of War - Gale Lance"
+    },
+    {
+        "name": "1回合，免疫异常效果",
+        "value": "Gain immunity to debuffs for 2 rounds"
+    },
+    {
+        "name": "烈风神枪",
+        "value": "Gale Lance"
+    },
+    {
+        "name": "吹往战场的疾风，是我赐予你的守护。",
+        "value": "The fierce wind that blows towards the battlefield"
+    },
+    {
+        "name": "UR+雅典娜",
+        "value": "UR+ Athena"
+    },
+    {
+        "name": "雅典娜UR+碎片",
+        "value": "UR+ Athena Shard"
+    },
+    {
+        "name": "雅典娜UR+碎片5个",
+        "value": "5 UR+ Athena Shards"
+    },
+    {
+        "name": "雅典娜的记忆晶元",
+        "value": "Athena's Memoria Crystal"
+    },
+    {
+        "name": "用于提升雅典娜的梦境中记忆宝珠的等级",
+        "value": "Used to upgrade the Level of the Memoria Orb in Athena's Dreamland"
+    },
+    {
+        "name": "雅典娜女神碎片自选箱",
+        "value": "Athena’s Shard Optional Box"
+    },
+    {
+        "name": "打开宝箱选择雅典娜任意品质的碎片",
+        "value": "Open the box and choose Athena's Shards of any quality"
+    },
+    {
+        "name": "雅典娜的梦境",
+        "value": "Athena's Dreamland"
+    },
+    {
+        "name": "雅典娜的虚弱",
+        "value": "Athena's Weakness"
+    },
+    {
+        "name": "雅典娜的野蛮",
+        "value": "Athena's Savagery"
+    },
+    {
+        "name": "雅典娜的傲慢",
+        "value": "Athena's Arrogance"
+    },
+    {
+        "name": "通关雅典娜的梦境2",
+        "value": "Complete Athena's Dreamland 2"
+    },
+    {
+        "name": "通关雅典娜的梦境3",
+        "value": "Complete Athena's Dreamland 3"
+    },
+    {
+        "name": "通关雅典娜的梦境6",
+        "value": "Complete Athena's Dreamland 6"
+    },
+    {
+        "name": "通关雅典娜的梦境8",
+        "value": "Complete Athena's Dreamland 8"
+    },
+    {
+        "name": "通关雅典娜的梦境12",
+        "value": "Complete Athena's Dreamland 12"
+    },
+    {
+        "name": "活动结束后清空积分",
+        "value": "3rd Anniversary Coin will be automatically recycled after the event ends"
+    },
+    {
+        "name": "三周年纪念币",
+        "value": "3rd Anniversary Coin"
+    },
+    {
+        "name": "哎呀，看看这是谁来了",
+        "value": "Oh my, look who we have here."
+    },
+    {
+        "name": "大名鼎鼎的战争之主，智慧与庇护的使者，雅典娜女神！",
+        "value": "The famous Goddess of Wisdom and War! The mighty Athena!"
+    },
+    {
+        "name": "奉承的话就不用多说了，我遇到了麻烦，需要你帮忙。",
+        "value": "Stop with such flattery. I am in trouble and need your help."
+    },
+    {
+        "name": "等等……你的神力……好像消失了？究竟发生了什么？",
+        "value": "Wait... Your divine power... It's gone! What has happened?"
+    },
+    {
+        "name": "波塞冬挑起了战争，她发动大地震让雅典城沉入了海中，想将它变为新的亚特兰蒂斯。",
+        "value": "Poseidon started a war! She caused an earthquake that sank Athens into the sea. She's trying to turn it into the new Atlantis!"
+    },
+    {
+        "name": "于是你付出了全部的神格来拯救雅典城？你还真是慈悲为怀啊。",
+        "value": "So you gave all of your divinity to save the city? How compassionate of you."
+    },
+    {
+        "name": "少说风凉话了，如果你真想帮忙，就把你的魔盒给我，我要用它来与波塞冬抗衡！",
+        "value": "Cut the sarcastic comments. Just give me your magic box so I can use it to fight Poseidon."
+    },
+    {
+        "name": "很遗憾，那破玩意恐怕派不上什么用场。但是别担心，我有办法帮你重获神力。",
+        "value": "Unfortunately my magic box doesn't work that way. But I do have a way to help you regain your powers."
+    },
+    {
+        "name": "很好，那接下来我们要怎么做？",
+        "value": "Great! What do I have to do?"
+    },
+    {
+        "name": "按照我的规矩，你得先通过进入梦境的试炼……然而你现在是凡人之身，能行吗？",
+        "value": "First of all, you have to pass my trial... But since you're mortal now, can you do it?"
+    },
+    {
+        "name": "呵……你最好别小瞧了凡人的力量！",
+        "value": "Heh... You better not underestimate the power of mortals!"
+    },
+    {
+        "name": "你输了，潘多拉，这场决斗是战争之主的胜利！",
+        "value": "You lost, Pandora. Victory belongs to me, the Goddess of War!"
+    },
+    {
+        "name": "看来即使失去神格的力量，你在战斗中也不见得会落下风。",
+        "value": "It seems that even without your divinity, you are not one to be underestimated in battle."
+    },
+    {
+        "name": "现在你可以告诉我你的计划了。",
+        "value": "Yes, now tell me your plan."
+    },
+    {
+        "name": "当然，只不过有点复杂。让我们去见见你的几个老朋友再说吧……",
+        "value": "Well, it's a bit difficult to explain. Before that, let's go meet some old friends of yours."
+    },
+    {
+        "name": "潘多拉，我可不记得邀请过你。",
+        "value": "Pandora, I don't remember inviting you here."
+    },
+    {
+        "name": "你不想见我无所谓，但这位女神大人想要见你可是件大事。",
+        "value": "It doesn't matter if you don't want to see me. But, this goddess here wants to see you."
+    },
+    {
+        "name": "雅典娜？我和你们这样的女神没什么好说的……等等，你身上没有神格的气息？",
+        "value": "Athena? I have nothing to say to goddesses like you. Wait... you don't have a divine aura?"
+    },
+    {
+        "name": "让我猜猜，你变成凡人了？想不到你也有今天。",
+        "value": "Oh let me guess! You're mortal? Hehe I didn't expect to enjoy to have a treat like you today."
+    },
+    {
+        "name": "你口中的“今天”很快就要结束了，伴随着你被击败。",
+        "value": "I think you'll find she's no mere treat. Instead, you'll taste defeat today."
+    },
+    {
+        "name": "等一下，你们想干嘛？你以为你还是那个高高在上的战争女神吗？你只不过是一介凡人！",
+        "value": "And how do you propose to do that? Do you think you're still the high and mighty Goddess of War? You're a mortal now!"
+    },
+    {
+        "name": "没错，但凡人战胜神明的故事，你听得还不够多吗？",
+        "value": "Yes, I'm mortal. But don't you know? Even mortals can defeat gods."
+    },
+    {
+        "name": "没想到你即使失去几乎所有神力，还是能如此轻易地击败我。",
+        "value": "I didn't expect you to defeat me so easily without your divinity."
+    },
+    {
+        "name": "奇怪，在与你的战斗中，我似乎感受到力量开始回归的迹象了。",
+        "value": "Hmm it's strange but I think I feel the beginnings of my power returning."
+    },
+    {
+        "name": "看来我的梦境开始起作用了呢，你每次击败梦境中的对手，都将找回一部分神格。",
+        "value": "Hehe. Then my plan is working. Every opponent you defeat in this dreamland will help you regain a part of your divinity."
+    },
+    {
+        "name": "这听起来可真让人兴奋，也就是说，我击败最后一个梦境中的对手时……",
+        "value": "How exciting. So, when I defeat my last opponent...?"
+    },
+    {
+        "name": "你的神格就完全恢复了。",
+        "value": "Your divinity will be fully restored."
+    },
+    {
+        "name": "有意思，我会好好享受这个过程的，至于你……有兴趣作为见证者，与我同行么？",
+        "value": "This method seems right up my alley, I will enjoy it. As for you... Care to join me and witness it?"
+    },
+    {
+        "name": "不错的点子，我也想看看凡人重新获得神权的过程。",
+        "value": "Oh yes, I would like to see how a mortal can regain lost divinity."
+    },
+    {
+        "name": "我猜，这儿你应该比我熟。",
+        "value": "Here's your next opponent. But I guess you're more familiar with her than I am."
+    },
+    {
+        "name": "在我还是神明的时候，她就是个非常难对付的家伙……",
+        "value": "Even when I was a goddess, she was rather difficult to deal with."
+    },
+    {
+        "name": "你忘了，曾经也有凡人击败过她，而且还是在你的帮助下，鼓起勇气吧。",
+        "value": "Don't forget, mortals have beaten her once before. With aid from none other than yourself."
+    },
+    {
+        "name": "别来无恙啊，美杜莎。",
+        "value": "Long time no see, Medusa."
+    },
+    {
+        "name": "雅典娜？你居然还敢出现在我的神庙门口……不对，你身上没有神格的气息……",
+        "value": "Athena? How dare you show your face in my temple? Hold on, your divinity is gone."
+    },
+    {
+        "name": "我用自己的神力保护了雅典城免受波塞冬的侵害。",
+        "value": "I protected the city of Athens against Poseidon's attack, using my divine power."
+    },
+    {
+        "name": "呵呵……这该说无私还是愚蠢呢？",
+        "value": "What a selfless act. Or perhaps it's stupidity."
+    },
+    {
+        "name": "不过你居然在凡人的状态下来见曾经的敌人，我佩服你的勇气。",
+        "value": "And you actually came to meet me, your former enemy, in your mortal state. I admire your courage."
+    },
+    {
+        "name": "击败你并不是什么困难的事，我知道你的所有弱点。",
+        "value": "You pose no threat to me. I already know all your weaknesses."
+    },
+    {
+        "name": "我很乐意在我的神庙里立一尊真正的“女神石像”！",
+        "value": "Hehe well I'd love to have a statue of a goddess to decorate my temple."
+    },
+    {
+        "name": "认输吧，战争之主可不是靠运气取得胜利的。",
+        "value": "Throw in the towel, Medusa. The Goddess of War doesn't need to rely on luck to win."
+    },
+    {
+        "name": "算我倒霉！你想拿我怎么样？",
+        "value": "Aw, how unlucky for me! What do you want with me?"
+    },
+    {
+        "name": "安心，亲爱的，我只是借与你的这场战斗，取回我失去的一部分神力而已。",
+        "value": "Don't worry, my dear. I just used this battle with you to regain part of my lost divinity."
+    },
+    {
+        "name": "呵……上一个战胜我的凡人可是直接让我脑袋搬家了，话说回来你们打算去哪？",
+        "value": "Heh... The last mortal who defeated me removed my head. Speaking of, where are you going?"
+    },
+    {
+        "name": "还能去哪，当然是帮女神取回神力，然后找波塞冬算总帐。",
+        "value": "Where else? To regain the rest of my power, of course. And then to settle things with Poseidon."
+    },
+    {
+        "name": "如果你是要找波塞冬麻烦，算我一个，她这次干的太过分了，把我的神庙淹了大半。",
+        "value": "If you're going after Poseidon, count me in! She flooded my temple."
+    },
+    {
+        "name": "我从没想过，有一天还能和你站在同一条阵线上。",
+        "value": "I never thought that one day we would be on the same side."
+    },
+    {
+        "name": "别得意忘形了，我们只是暂时合作而已。",
+        "value": "Don't get carried away. This is only a temporary truce. Let's go."
+    },
+    {
+        "name": "潘多拉，你带我来冥界干什么？我现在可是凡人，进去后可就很难再出来了。",
+        "value": "Pandora, why have you brought me to the underworld? You know mortals cannot easily escape once stepping foot in here."
+    },
+    {
+        "name": "放心，我们只是前往方塔苏斯的噩梦而已，并不需要渡过冥河。",
+        "value": "Calm down, we're only going as far as the nightmare controlled by Phantasos. We don't need to cross the river Styx."
+    },
+    {
+        "name": "我老远就感受到你们的气息了，你们既不是亡者，也不是沉睡之人，来我这里干什么？",
+        "value": "I knew I sensed someone's aura approaching. You are neither dead nor asleep, what are you doing here?"
+    },
+    {
+        "name": "方塔苏斯，我需要你梦境中的一块精华结晶。",
+        "value": "Phantasos, I need a crystal formed from the essence of your dream."
+    },
+    {
+        "name": "暂且不说我会不会给你，我想先问问，你拿它是要做什么？",
+        "value": "Hmm... If I did give it to you, what are you planning to do with it?"
+    },
+    {
+        "name": "我们需要将它合成一种替代神格的载体，然后为雅典娜提供神力。",
+        "value": "We need to synthesize it into a replacement vessel for divinity, and then provide divine power to Athena."
+    },
+    {
+        "name": "哦……？曾经不可一世的智慧与战争女神，居然会把自己的神格弄丢？",
+        "value": "Oh? The once incomparable Goddess of Wisdom and War has actually lost her divinity?"
+    },
+    {
+        "name": "不过我可不是慈善家，想要的话，你们就来抢吧。",
+        "value": "But I am not a philanthropist. If you want it, you will have to take it."
+    },
+    {
+        "name": "以智慧与战争女神之名，那我就不客气了。",
+        "value": "Then in the name of the Goddess of Wisdom and War, prepare yourself!"
+    },
+    {
+        "name": "我不明白，你是如何以凡人之躯击破我的梦境的？",
+        "value": "I do not understand. How are you able to shatter my nightmare as a mortal?"
+    },
+    {
+        "name": "或许力量是制胜的一环，但智慧才是关键，你太过傲慢，否认了智慧对于凡人的重要性。",
+        "value": "Strength may be the door to victory, but wisdom is the key. You failed to see that because of your arrogance."
+    },
+    {
+        "name": "不管如何，我输给你是事实，就给你一块梦境结晶好了。",
+        "value": "Well whatever, the fact is I lost to you. I will give you a dream crystal."
+    },
+    {
+        "name": "另外，不如让我和你一块前行，看看你所谓的智慧是如何在战场上体现的。",
+        "value": "In addition, let me go with you to see how your so-called wisdom is reflected on the battlefield."
+    },
+    {
+        "name": "我并不反对，噩梦之神。",
+        "value": "I have no objection, Goddess of Nightmares."
+    },
+    {
+        "name": "接下来我们去黄道吧，去上面收集星辰之光，唤醒梦境结晶的能量。",
+        "value": "Next, let's go to the Zodiac, to collect the light of the stars and awaken the energy of the dream crystal."
+    },
+    {
+        "name": "这是黄道禁地，奥林匹斯的女神们，这里不属于你们该来的地方。",
+        "value": "This is the forbidden area of the Zodiac. Goddesses of Olympus, this place is not for you."
+    },
+    {
+        "name": "没关系，我只需要黄道上的一点星光。",
+        "value": "It's okay, we just need a little starlight from the Zodiac."
+    },
+    {
+        "name": "我记得你，你是雅典娜……",
+        "value": "I remember you, Athena..."
+    },
+    {
+        "name": "我也记得你，潘神，是我用计策把你变成现在这副模样的。",
+        "value": "I also remember you, Goddess Pan. It was I who used trickery to turn you into what you are now."
+    },
+    {
+        "name": "虽然我没有愤怒，也感受不到复仇的意义，但是我内心的正义驱使着我向你讨要公道。",
+        "value": "...I am not angry, nor do I want revenge, but the righteousness in my heart drives me to seek justice from you."
+    },
+    {
+        "name": "我接受你的正义，来吧，以战斗来做个了断也是一种荣耀。",
+        "value": "I accept your justice. Come, it's an honor to end it with a fight."
+    },
+    {
+        "name": "虽然你的正义并没有获得胜利，但我欣赏你不屈的意志。",
+        "value": "Although your justice did not prevail, I admire your unyielding will."
+    },
+    {
+        "name": "胜利女神今天并不青睐我，好吧，你可以拿走黄道的任何东西作为战利品。",
+        "value": "Victory doesn't favor me today. Well, you can take anything from the Zodiac as your prize."
+    },
+    {
+        "name": "不用担心，我只需要一点点星光而已。",
+        "value": "Don't worry, all I need is a little bit of starlight."
+    },
+    {
+        "name": "雅典娜，你是在尝试寻回丢失的神格吗？或许我能在接下来的旅程中助你一臂之力？",
+        "value": "Athena, are you trying to recover your lost divinity? Perhaps I can help you on your journey?"
+    },
+    {
+        "name": "你真的愿意帮助我吗？即使是在我曾经伤害过你的情况下。",
+        "value": "Are you really willing to help me? Even though I have hurt you in the past."
+    },
+    {
+        "name": "事实上，从潘神变成摩羯座，并不是什么太难以接受的事情。",
+        "value": "The truth is, changing from the Goddess Pan to Capricornus was not too difficult to accept."
+    },
+    {
+        "name": "雅典娜？你为什么会到黄道众星的梦境里来？",
+        "value": "Athena? Why have you come to the dreams of the Zodiac?"
+    },
+    {
+        "name": "别来无恙，我遇到了点小麻烦。",
+        "value": "It's been a while. I need a bit of help."
+    },
+    {
+        "name": "你身上……好像不再拥有神格了？",
+        "value": "You... don't seem to have your divinity anymore?"
+    },
+    {
+        "name": "这都拜波塞冬所赐。",
+        "value": "It's all thanks to Poseidon."
+    },
+    {
+        "name": "我听说过你和波塞冬的战争。所以你是想从这里的传送门，直接前往波塞冬的宫殿？",
+        "value": "I've heard of your war with Poseidon. So you want to use the portal here to go straight to Poseidon's palace?"
+    },
+    {
+        "name": "没错。",
+        "value": "That's right."
+    },
+    {
+        "name": "恐怕以你的凡人身躯无法在海洋待太久吧？我可以赋予你让凡人在海底呼吸的力量。",
+        "value": "You won't be able to stay in the ocean for long with your mortal body. I can give you the power to breathe underwater."
+    },
+    {
+        "name": "但碍于我传送门守护者身份，我无法直接将这种能力给你，除非你在战斗中……",
+        "value": "But due to my status as the guardian of the portal, I can't just give you this ability..."
+    },
+    {
+        "name": "我明白了，我会对你手下留情的。",
+        "value": "I understand. I'll go easy on you."
+    },
+    {
+        "name": "快停手！真没想到你失去了神力还是这样所向披靡。",
+        "value": "Stop! I really didn't expect you to still be so powerful after losing your divinity."
+    },
+    {
+        "name": "谢谢你，亲爱的。",
+        "value": "Thank you, my dear."
+    },
+    {
+        "name": "别在意，我只是帮了伟大的智慧与战争女神一个小忙而已。",
+        "value": "Of course, I'm just doing the great Goddess of Wisdom and War a small favor."
+    },
+    {
+        "name": "我是大海与星空之门的守护者，你们是谁？来海底世界想做什么？",
+        "value": "I am the Guardian of the Sea and the Celestial Gate, who are you? What do you want in the underwater world?"
+    },
+    {
+        "name": "和我一样的形象……梦境通道的守护者吗？",
+        "value": "Is this phantom that looks like me... the guardian of the dream passage?"
+    },
+    {
+        "name": "海底的梦境并不允许你这样的存在。",
+        "value": "The dream under the sea does not allow for an existence such as you to enter."
+    },
+    {
+        "name": "遗憾的是，我也不希望你这样的存在出现在阻挡我的道路上！",
+        "value": "Unfortunately, I also don't want an existence like you to stand in my way!"
+    },
+    {
+        "name": "真是强大的力量，好久没有看到如此精湛的战斗技巧了。",
+        "value": "What a powerful display! It's been a long time since I saw such exquisite fighting skills."
+    },
+    {
+        "name": "看来我已经恢复了大部分的神格，继续前进吧，我想尽快回到现实。",
+        "value": "Looks like I've regained most of my divine power. Let's move on, I want to get back to the waking world as soon as possible."
+    },
+    {
+        "name": "波塞冬！我现在就站在你的宫殿门口，难道要我把你的王座拆了，你才肯出来面对我吗？",
+        "value": "Poseidon! I am standing in front of your palace right now. Come out and face me! Or do you want me to tear down your throne first?"
+    },
+    {
+        "name": "雅典娜，作为一个丢了神格的女神，我挺敬佩你还敢在梦境中找我对峙。",
+        "value": "Athena, I admire you for daring to confront me in the dreamland, even without your divinity."
+    },
+    {
+        "name": "波塞冬，我难以原谅你将雅典淹没的罪行，我将以战争女神的身份向你问罪！",
+        "value": "Poseidon, I cannot forgive you for flooding Athens. As the Goddess of War, you will face my judgement!"
+    },
+    {
+        "name": "我以为你在丢失神格后，能理解我现在的处境，但看来我想多了。",
+        "value": "I thought you could understand my current situation after losing your divinity, but it seems that I was hoping for too much."
+    },
+    {
+        "name": "不，我明白你在降临现实世界后，失去原有的神力是一件痛苦的事情。",
+        "value": "No, I understand that it was painful for you to lose your original divinity when you descended into the mortal world."
+    },
+    {
+        "name": "但将全世界化为海洋，并不能成为你为了获取力量的借口。",
+        "value": "But that's no reason to flood the whole world!"
+    },
+    {
+        "name": "那么没有必要多说什么了，只有战斗能解决问题！",
+        "value": "Then there is nothing more to be said. We can only fight!"
+    },
+    {
+        "name": "一切结束了，波塞冬！让海水褪去，这件事我可以既往不咎。",
+        "value": "It's over, Poseidon! Let the seas recede, and I will let this matter go."
+    },
+    {
+        "name": "不，这是我唯一能够找回神格与力量的方式，我不能就这样放弃。",
+        "value": "No, this is the only way I can regain my divine power and strength. I can't just give up like this."
+    },
+    {
+        "name": "很好，如果你有胆量，我会给你第二次机会的。",
+        "value": "Very well, I will give you a second chance if you dare."
+    },
+    {
+        "name": "雅典娜，接下来的战斗，就由我来代替波塞冬吧。",
+        "value": "Athena, I will step in for Poseidon in the next battle."
+    },
+    {
+        "name": "宙斯？怎么是你？！",
+        "value": "Zeus! Why?"
+    },
+    {
+        "name": "波塞冬是我的姐妹，你应该对她保持应有的尊重。",
+        "value": "Poseidon is my sister, and you should treat her with the respect she deserves."
+    },
+    {
+        "name": "我很抱歉，如果她没有试图伤害我的子民，我很乐意这么做，但现在……",
+        "value": "I'd be happy to do so if she hadn't tried to harm my people, but now..."
+    },
+    {
+        "name": "那就由我来代替她和你战斗吧。",
+        "value": "Then let me fight you instead of her."
+    },
+    {
+        "name": "……这并不是我所期待的。",
+        "value": "...That's not what I expected."
+    },
+    {
+        "name": "你瞒不了我，作为战争女神，你早就渴望着和我对决的这一天了，没错吧？",
+        "value": "You can't hide it from me. As the Goddess of War, you've been longing for the day when you get to face me in battle, right?"
+    },
+    {
+        "name": "呵呵……你好像看上去挺犹豫的，雅典娜大人，需要我再给你点自信？",
+        "value": "Hehe. You seem to be hesitant, Lady Athena. Do you need me to give you some confidence?"
+    },
+    {
+        "name": "不……我会以凡人的身躯面对这场战斗。",
+        "value": "No. I will face this battle in the body of a mortal."
+    },
+    {
+        "name": "是我的胜利，即使是失去神格，我依然以凡人的身份战胜了众神之王。",
+        "value": "It is my victory! Even without my original divinity, I still defeated the Ruler of Olympus."
+    },
+    {
+        "name": "没错，雅典娜，你胜利了，你的仁慈与智慧，配得上你重新找回的神力。",
+        "value": "Yes, Athena, you are victorious. Your kindness and wisdom are worthy of your rediscovered power."
+    },
+    {
+        "name": "或许我们都该好好反省一下，作为神，我们是否都陷入了永恒的傲慢之中。",
+        "value": "Perhaps we should all reflect on whether we, as gods, have fallen into eternal arrogance."
+    },
+    {
+        "name": "话别说得这么冠冕堂皇，雅典娜，特洛伊之战的时候，你对特洛伊的子民又做了什么呢？",
+        "value": "Don't talk so grandly, Athena, or did you forget what you did to the people of Troy during the Trojan War?"
+    },
+    {
+        "name": "阿波罗？是你？！",
+        "value": "Apollo?!"
+    },
+    {
+        "name": "你或许仁慈，但是否只是对自己的子民呢？对待他邦之民，你难道没有尽情宣泄怒火吗？",
+        "value": "You may be merciful, but isn't it only to your own people? Haven't you vented your anger against the people of other countries?"
+    },
+    {
+        "name": "……我很抱歉，阿波罗，对于战争我始终都力求公正，但当时是你们让我别无选择。",
+        "value": "...I'm sorry, Apollo. I've always tried to be fair in wars, but you had left me with no other choice."
+    },
+    {
+        "name": "以你现在的力量与我一战吧，如果你赢了，那我就认可你的意志！",
+        "value": "Fight me with your current power. If you win, then I will recognize your will!"
+    },
+    {
+        "name": "那就拔出你的武器吧！",
+        "value": "Then draw your weapon!"
+    },
+    {
+        "name": "很好，我很敬佩你的勇气和敢于面对责任之心。",
+        "value": "Very well, I admire your courage and willingness to face responsibility."
+    },
+    {
+        "name": "既然这样……让我们脱下盔甲，像两个人类一样解决恩怨吧！",
+        "value": "Let us take off our armor and settle our grievances like two mortals!"
+    },
+    {
+        "name": "我无心与你战斗，这是没有意义之举！",
+        "value": "I have no intention of fighting you, it's pointless!"
+    },
+    {
+        "name": "哼！如我所想的一样啊，智慧女神确实从不冲动。",
+        "value": "Hmph! As I thought, the Goddess of Wisdom is not impulsive."
+    },
+    {
+        "name": "那我们就在将来的战场上再决胜负吧，你带着雅典大军，而我则带着马其顿勇士！",
+        "value": "Then let's decide the outcome on a future battlefield. You lead the Athenian army, and I will lead the Macedonian warriors!"
+    },
+    {
+        "name": "我接受你的挑战，这场凡人之身的战斗，如果我胜利了，希望你能够放下过去的恩怨。",
+        "value": "I accept your challenge, this mortal battle. If I win, I hope you can let go of the grievances of the past."
+    },
+    {
+        "name": "没问题，让我们开始吧。",
+        "value": "No problem... if you win. Let's get started!"
+    },
+    {
+        "name": "呵……长本事了啊，智慧与战争女神，如果是之前的你，必然会被我击败。",
+        "value": "Heh you really are skilled, Goddess of Wisdom and War. If it were the former you, it would have been my victory. But now..."
+    },
+    {
+        "name": "事实上我还让你你几招，如果全力以赴，这场战斗会更快结束。",
+        "value": "In fact, I also let you show me your moves. If I went all out, the fight would have been over too soon."
+    },
+    {
+        "name": "哼，就算你赢了吧，我们彼此间不再有恩怨。",
+        "value": "Hmph! Even if you say that, you did win, so we no longer have any grudges against each other."
+    },
+    {
+        "name": "但我希望你将来能践行自己对于正义的原则，无论是对自己的子民，还是对外邦人。",
+        "value": "But I hope that in the future you will be fair and just not only for your own people but also everyone else."
+    },
+    {
+        "name": "我必不会再让任何人失望。",
+        "value": "I will never let anyone down again."
     }
 ]

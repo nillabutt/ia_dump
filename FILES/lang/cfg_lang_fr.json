@@ -47880,10 +47880,6 @@
         "value": "Veuillez utiliser les points à temps, et ils seront effacés automatiquement après l'événement"
     },
     {
-        "name": "ACTIVITY_HOLIDAY_DROP_SUMMON_QJSD",
-        "value": "Magasin d'événement"
-    },
-    {
         "name": "ACTIVITY_HOLIDAY_DROP_SHOP_SCORE_NOT_ENOUGH",
         "value": "Point insuffisant"
     },
@@ -56873,7 +56869,7 @@
     },
     {
         "name": "half_month_content",
-        "value": "Vous recevrez <color=#FFF341><size=32>{0}</size></color> sous <color=#00ff00>7</color> jours"
+        "value": "Vous recevrez <color=#FFF341><size=32>{0}</size></color> sous <color=#00ff00>14</color> jours"
     },
     {
         "name": "ACTIVITY_CAKE_EXCHANGE_COIN_TITLE",
@@ -66164,7 +66160,7 @@
         "value": "Coffre de Noël"
     },
     {
-        "name": "活动期间副本战掉落圣诞袜",
+        "name": "活动期间副本战掉落蛋糕礼盒",
         "value": "Combattez dans le Donjon pour obtenir des chaussettes"
     },
     {
@@ -69830,5 +69826,13 @@
     {
         "name": "请选择奖励",
         "value": "Veuillez sélectionner le Grand prix de vœux"
+    },
+    {
+        "name": "请先布阵",
+        "value": "Veuillez d'abord déployer les anges"
+    },
+    {
+        "name": "解锁当前礼包总计可以获得以下奖励",
+        "value": "Déverrouillez cet ordre de combat pour obtenir les récompenses suivantes."
     }
 ]

@@ -2889,6 +2889,15 @@
         "stack_count_max": "999"
     },
     {
+        "bid": "156802111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "战神-烈风神枪",
+        "icon": "ZhanShen",
+        "info": "1回合，免疫异常效果",
+        "stack_count_max": "0"
+    },
+    {
         "bid": "117001211",
         "buff_anim": "",
         "buff_trigger_anim": "",

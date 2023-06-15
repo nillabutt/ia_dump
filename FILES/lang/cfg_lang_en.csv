@@ -9631,7 +9631,7 @@ boss已经被击败,The boss has been defeated
 返利,Rebate
 立即获得,Get rewards immediately
 周卡连续7天，每日登录后奖励通过邮件发放,Weekly card lasts 7 days. The rewards are sent via mail after Daily log-ins.
-周卡连续7天，每日登录后奖励通过邮件发放\n,"The cards event lasts for <color=#00ff00>7</color> days, which will be sent to you via email after login"
+周卡连续7天，每日登录后奖励通过邮件发放\n,"The cards event lasts for <color=#00ff00>14</color> days, which will be sent to you via email after login"
 限购,Limit purchase
 活动期间可以使用【天使之羽】兑换奖励，活动结束后天使之羽自动回收,"Use [Angel Feather] to convert rare items during the event. After the event ends, the system will automatically recycle [Angel Feather]."
 奖励未解锁，请先兑换前置奖励,"Reward locked, please redeem the front reward first"
@@ -11919,7 +11919,7 @@ TIME_UNIT_MIN_OUTLAND,min
 至高之光,Supreme Light
 在炽烈的阳光下！黑暗将无所遁形！,Darkness will have nowhere to hide beneth the blazing sun!
 ACTIVITY_HOLIDAY_DROP_SUMMON_SHOP,Points will be cleared automatically after the event
-ACTIVITY_HOLIDAY_DROP_SUMMON_QJSD,Event store
+ACTIVITY_HOLIDAY_DROP_SUMMON_QJSD,Carnival Shop
 ACTIVITY_HOLIDAY_DROP_SHOP_SCORE_NOT_ENOUGH,Insufficient points
 ACTIVITY_HOLIDAY_DROP_SHOP_COUNT_LIMIT,Purchasing limitation reached
 EVENT_ANIMALS_NOT_ENOUGH,"Already owned the Eudemon, converted to 5 DragonBlood Fruits and 5 Divine Fruits automatically"
@@ -13293,7 +13293,7 @@ ACTIVITY_HUNTING_COIN,Hunting Point
 射击,Shoot
 活动排名,Event Ranking
 活动礼包,Event Pack
-活动商店,Event Store
+活动商店,Carnival Shop
 活动任务,Event Quest
 箭矢,Arrow
 在幻兽狩猎活动中使用，用来对怪物造成伤害,Used in Eudemons hunting event and attack monsters
@@ -13963,7 +13963,7 @@ SURE_CHANGE_SOUND_LANG_TYPE,"Are you sure you want to switch to {0}？\n\n<color
 恐惧深渊中普通的资源，可以提升圣物觉醒等级,Normal items in Fear Abyss can be used to advance  relic awakening
 恐惧深渊积分，用于购买buff和道具，每期活动结束后清空,"Fear Abyss points can be used to purchase buff and items, and it will be reset after each event ends"
 暂无加成,No bonus
-积分不足,Insufficient points
+积分不足,Insufficient Carnival Vouchers
 关卡,Level
 已经确定阵容无法修改,Unable to change the previously confirmed line-up
 上阵女神全部死亡，深渊已经关闭,"All angels in the line-up have been killed,and the Fear Abyss is closed. Please challenge next time!"
@@ -14190,7 +14190,7 @@ ACTIVITY_BOSS_CHALLENGE_BUY,Attempts: {0}
 已经通关无需使用回溯功能,No need to Retry as you have passed all the levels
 女神已全部上阵,All angels are in the line-up
 ACTIVITY_CAKE_UNLOCK_GIFT_NEED,Consume {0} Arcane Dust to unlock package of this level
-half_month_content,You'll be granted <color=#FFF341><size=32>{0}</size></color> within <color=#00ff00>7</color> days
+half_month_content,You'll be granted <color=#FFF341><size=32>{0}</size></color> within <color=#00ff00>14</color> days
 ACTIVITY_CAKE_EXCHANGE_COIN_TITLE,Recycled Arcane Dust automatically
 ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,The Smelt Master event is ended. The Arcane Dust you owned are automatically transfered to diamonds!
 两周年庆,2nd Anniversary
@@ -16535,16 +16535,16 @@ UR+伊卡璐斯,UR+ Icarus
 扭1次,Pull x1
 扭十次,Pull x10
 本活动抽奖次数计入召唤庆典,The number of pulling for this event will be counted in the Summon Celebration
-EGG_MACHINE_BAODI_TIPS,The Jackpot will be awarded after {0} pulls
+EGG_MACHINE_BAODI_TIPS,Win the Grand Prize after {0} pulls
 EGG_MACHINE_BAODI_CONFIG_TIPS,Guaranteed to get the Jackpot in round {0} after {1} pulls
 奖品详情,Reward Details
-圣诞宝箱,Christmas Chest
-活动期间副本战掉落圣诞袜,Battle in Dungeon to get stockings
+圣诞宝箱,Sweet Surprise
+活动期间副本战掉落蛋糕礼盒,Battle in Dungeon to get stockings
 圣诞袜,Christmas stocking
-开启圣诞袜,Open the Christmas stocking
+开启圣诞袜,Open the Cake Giftbox
 雪花,Christmas Snowflake
 CHRISTMAS_WAZI_COUNT,Own {0}
-CHRISTMAS_WAZI_TIPS,Open your Christmas stockings to get {0} Christmas Snowflakes
+CHRISTMAS_WAZI_TIPS,Open the Gift Box to get {0} Birthday Cakes
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Grand prize in each round are guaranteed after {0} pulls
 概率：,Probability:
 红券数量不足,The number of Legend Summon Scrolls is insufficient
@@ -16558,12 +16558,12 @@ Lv.100 试炼晶石生产速度 <size=50>+25%</size>,Lv.100 Trial Crystal Produc
 圣诞纪念卡,Christmas Souvenir Card
 圣诞纪念卡奖励,Christmas Souvenir Card Reward
 这是今日的圣诞纪念卡奖励，感谢支持！,Here're today's rewards of the Christmas Souvenir Card. Thanks for your support!
-圣诞商店,Christmas Store
+圣诞商店,Cake Shop
 活动期间获得100VIP经验,Obtain 100 VIP EXP during the event period
 活动期间消耗500钻石,Consume 500 Diamonds during the event period
 活动期间获得10点日常活跃度,Gain 10 Daily Activity Pt. during the event period
 获取上限,Limit
-圣诞袜奖励预览,Christmas stocking Rewards Preview
+圣诞袜奖励预览,Gift Box Reward Preview
 开启次数不足,Insufficient number of Christmas stocking
 圣诞节活动期间限时掉落，开启可获得随机道具和圣诞雪花奖励,"Drops during the Christmas event. When opened, you will get random items and Christmas Snowflake."
 圣诞雪花,Christmas Snowflake
@@ -16620,10 +16620,10 @@ ACTIVITY_SUMMON_DESC_80,The pure wings that can dispel darkness and disappointme
 活动结束后清空圣诞积分,<size=20>Christmas Coins will be automatically recycled after the event ends</size>
 随机SSR+女神,Random SSR+ Angel
 随机1个SSR+女神,1 Random SSR+ Angel
-ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_TITLE,Christmas Event Item Recycle
-ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_CONTENT,"The Christmas event has ended. The remaining event items, Christmas stockings and Christmas Coins are automatically recycled into diamonds."
-ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_TITLE,Christmas Ranking Reward
-ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_CONTENT,Congratulation on ranking the {0} in the Christmas Ranking event. Here are your rewards:
+ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_TITLE,Sweet Surprise Item Recycle
+ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_CONTENT,The Sweet Surprise event has ended. The Gift Box and Anniversary Coin have been automatically recycled into diamonds.
+ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_TITLE,Sweet Surprise Ranking Reward
+ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_CONTENT,Congratulations on ranking {0} in the Sweet Surprise. Please check out your rewards.
 圣诞派对,Christmas Party
 新年特惠1,New Year Special Pack 1
 新年特惠2,New Year Special Pack 2
@@ -16652,7 +16652,7 @@ ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_CONTENT,Congratulation on ranki
 冰清玉洁,Pure and Clean
 热情似火,Fiery Enthusiasm
 情有独钟,Strong Fondness
-圣诞币不足,Insufficient Christmas Coins
+圣诞币不足,Insufficient 3rd Anniversary Coin
 同时触发多项。。。。。。。。。,"<size=16>When multiple guarantees are triggered at the same time, one of them will be randomly selected, and the other guarantees will be triggered in each subsequent summon.</size>"
 CHRISTMAS_SPECIAL_BOX_COUNT_GREEN,<color=#00FF00FF>{0}</color> is available
 CHRISTMAS_SPECIAL_BOX_COUNT,{0} is available
@@ -16664,13 +16664,13 @@ CHRISTMAS_SPECIAL_BOX_COUNT,{0} is available
 通关伊卡璐斯的梦境12,Complete Icarus's Dreamland 12
 铃声轻响,"Listen, the bell is ringing!"
 牵着你的小可爱回家吧！,Come and take your little cutie home!
-宝箱奖励预览,Christmas Chest Reward Preview\n(Guaranteed to get rare rewards after 30 times of opening)
+宝箱奖励预览,Sweet Surprise Reward Preview\n(30 times must be rare reward)
 每日圣诞袜,Daily Christmas Gift
 圣诞袜礼包,Christmas Giftpack
 白色誓约,White Promise
 这份只属于你的圣诞礼物，是否触动心弦？,"A Christmas gift just for you, for your eyes only."
 增加菲奈特50点好感度,Increase Finette's favorability by 50 points
-雪花:,Snowflake:
+雪花:,Birthday Cake：
 扭蛋次数达到上限,Max number of pullings has been reached
 次数达到上限,Max number of pullings has been reached
 章节{0},Episode {0}
@@ -17614,7 +17614,7 @@ ACTIVITY_SUMMON_DESC_85,Come and prove yourself a place of defeating me!
 春晓礼包,Waking of Spring Pack
 春芽礼包1,Spring Flower Pack 1
 这是今日的浪漫纪念卡奖励，感谢支持！,"Here're today's rewards of the Romantic Souvenir Card. Thanks for your support, and we wish you a sweet Valentine's Day."
-Anniversary card,Ocean Souvenir Card
+Anniversary card,3rd Anniversary Souvenir Card
 2023春季限定头像框,2023 Waking of Spring Avatar Frame
 2023春季限定聊天气泡框,2023 Waking of Spring Chat Bubble
 玫瑰好礼,Bedside Roses
@@ -18198,7 +18198,7 @@ ACTIVITY_HOLIDAY_EASTER_REWARD_MAIL_TITLE,Hatching Reward
 复活节银宝箱,Easter Silver Chest
 复活节铜宝箱,Easter Copper Chest
 最终伤害减免 + 10%,Final Damage Reduction +10%
-复活节大奖,Easter Grand Prize
+复活节大奖,Grand Prize
 照 顾,Nurture
 ACTIVITY_HOLIDAY_EASTER_RECYCLE_MAIL_TITLE,Easter Event Item Recycle
 ACTIVITY_HOLIDAY_EASTER_RECYCLE_MAIL_CONTENT,This time's Easter event is ended. All event items are recycled into diamonds.
@@ -19261,16 +19261,16 @@ ACTIVITY_SUMMON_DESC_94,"As I gaze at the stars, I wonder how our paths will cro
 1回合防御力降低芙蕾雅防御力的80%,Reduces the bearer’s DEF by 80% of Freyja’s DEF
 1回合韧性降低芙蕾雅韧性的20%,Reduces the bearer’s FOR by 20% of Freyja’s FOR
 破甲-星影回音,Sunder Armor - Shadow Echo
-ANNIVERSARY_LETTER_OPENNING,"<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#fe8cc0>June <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
+ANNIVERSARY_LETTER_OPENNING,"<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#fe8cc0>June</color> <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
 ANNIVERSARY_LETTER_STARTING,"{0}\nA holy light descended, bringing [{1}] the world with hope.\nRemember Princess Bari? She journeyed through this world with you."
-ANNIVERSARY_LETTER_TIME,"Over the last year, \nyou spent {0} dedicated days battling alongside the angels.\nYour longest single log-in lasted {1} hours. Time spent with you always seems to fly by."
-ANNIVERSARY_LETTER_HONOR,"Amidst our shared journey, you competed with fellow adventurers.\nYou earned the championship title of the Clash of Titans {0} times.\nYou emerged victorious in the Glory Arena {1} times.\nYou were bestowed the title of Lord of Gods {2\} times.\nIn honor of your achievements, we present you with the annual title of \n."
-ANNIVERSARY_LETTER_EXPLORE,"In your exploration of the world and your challenge of its many difficulties, \nyou embarked on {0} dungeon battles.\nIn the Main Story battlefield, you have reached {1}.\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\nIn the Fear Abyss, you courageously ventured down {3} levels. We proudly award you the annual title of \n."
-ANNIVERSARY_LETTER_HERO,"Looking back at the past year, \nyou summoned angels {0} times, recruiting {1} angels to join your cause.\nYou formed a sacred pact with {2} of them.\nYou amassed {3} pieces of fashion, making quite the impression.\nYour most formidable angel is {4}\.\nDo you still remember your first meeting with them?"
+ANNIVERSARY_LETTER_TIME,"Over the last year, \nyou spent {0} dedicated days battling alongside the angels.\nYour total playtime in the game is {1} hours. Time spent with you always seems to fly by."
+ANNIVERSARY_LETTER_HONOR,"Amidst our shared journey, you competed with fellow adventurers.\nYou earned the championship title of the Clash of Titans {0} times.\nYou emerged victorious in the Glory Arena {1} times.\nYou were bestowed the title of Lord of Gods {2\} times.\n"
+ANNIVERSARY_LETTER_EXPLORE,"In your exploration of the world and your challenge of its many difficulties, \nyou embarked on {0} dungeon battles.\nIn the Main Story battlefield, you have reached {1}.\nIn the Sky Tower, you climbed to an astounding height of {2} floors.\nIn the Fear Abyss, you courageously ventured down {3} levels."
+ANNIVERSARY_LETTER_HERO,"Looking back at the past year, \nyou summoned angels {0} times, recruiting {1} angels to join your cause.\nYou formed a sacred pact with {2} of them.\nYou amassed {3} pieces of fashion, making quite the impression.\nYour most formidable angel is {4}.\nDo you still remember your first meeting with them?"
 ANNIVERSARY_LETTER_ENDING,"Rest assured, every effort you've made will bear fruit.Every memory you've made will stand the test of time.Every hope you hold will continue to shine bright.Thank you for your perseverance and dedication alongside us.To show our appreciation, we've prepared a special gift for you. We hope you'll like it. Keep moving forward in the days to come!"
 ANNIVERSARY_LETTER_TITLE_HONOR,Novice Competitor
 ANNIVERSARY_LETTER_TITLE_ZSZZ,Expert Competitor
-ANNIVERSARY_LETTER_TITLE_HONOR,Master Competitor
+ANNIVERSARY_LETTER_TITLE_HONOR1,Master Competitor
 ANNIVERSARY_LETTER_TITLE_ZSZW,King of Competition
 ANNIVERSARY_LETTER_TITLE_EXPLORE,Angel of Freedom
 ANNIVERSARY_LETTER_TITLE_EXPLORE1,Angel of Challenge
@@ -19280,7 +19280,6 @@ ANNIVERSARY_LETTER_HONOR1,"Amidst our shared journey, you competed with fellow a
 ANNIVERSARY_LETTER_HONOR2,You earned the championship title of the Clash of Titans {0} times.\n
 ANNIVERSARY_LETTER_HONOR3,You emerged victorious in the Glory Arena {0} times.\n
 ANNIVERSARY_LETTER_HONOR4,You were bestowed the title of Lord of Gods {0} times.\n
-ANNIVERSARY_LETTER_HONOR5,"In honor of your achievements, we present you with the annual title of \n{0}"
 "再投掷{0}次骰子,可产出{1}{2}",Roll {0} more dices to get {1}{2}
 成功派遣一名女神产量提升{0},Successfully dispatch an angel to increase output by {0}
 "进驻要求：职业{0},品质{1}及以上","Requirements: {0}, {1} and above"
@@ -19291,10 +19290,10 @@ ANNIVERSARY_LETTER_HONOR5,"In honor of your achievements, we present you with th
 作为命星的主体，每位天使都觉醒了全新的力量，需要使用星之沙来激活新的能力。,"Now, we are all empowered by the stars. Gathering those Stars Sand to activate an exclusive power for you angel."
 群星闪耀的力量更加耀眼，当多个女神聚集在一起时，会互相激发各自的力量，获得更加强大群星技能。,"The starlight is dazzling! When we angel join forces, we boost each other’s powers and unleash amazing star combo skills."
 点击显示命星属性,Tap to display Destiny Star Attributes
-点击激活命星的力量,Tap to activate the power of Destiny Star
-点击切换到群星,Tap to switch to Companion Star
-主星为女神本体,"The Main Star is the angel herself,"
-伴星为其他女神的主星,Companion Stars are the stars surrounding the Main Star
+点击激活命星力量,Tap to activate the power of Destiny Star
+点击切换到群星,Tap to switch to the Collective Star
+主星为女神本体,The Main Star is the angel herself
+伴星为其他女神的主星,Collective Stars are the stars surrounding the Main Star
 达成一定的条件即可激活群星技能,Achieve certain conditions to activate special combo skills
 巴里，你发现了吗？这里出现了一个奇怪的入口，我们去看看怎么样？,"Bari, do you see that? There’s a weird portal over there. Should we check it out?"
 小心一点，这个好像是一个时间裂缝，我感觉不太对劲，好像有什么不好的事情要发生了。,Be careful. It looks like another time rift. I have a bad feeling about this. Something terrible might happen.
@@ -19331,7 +19330,7 @@ NORMAL_SKILL_DAMAGE_ADD,Increases DMG dealt by Normal Attack
 BE_TREAT_ADD,Increases Healing Effect
 BE_SHIELD_ADD,Increases Shield Effect
 BASE_ATTRIBUTE_ADD,Enhances Basic Attributes
-噩梦副本不支持快速战斗,Nightmare dungeons do not allow quick combat
+噩梦副本暂不支持快速战斗,Nightmare dungeons do not allow quick combat
 噩梦战场,Nightmare Battlefield
 主线战场,Main Story Battlefield
 共鸣,Resonance
@@ -19342,12 +19341,12 @@ BASE_ATTRIBUTE_ADD,Enhances Basic Attributes
 继续战斗,Continue
 主星,Main Star
 群星,Collective Star
-{0}的命星,{0}’s Destiny Star
+{0}的命星,{0}
 主星等级,Main Star Level
 主星效果,Main Star Effect
 群星闪耀,Shooting Stars
 命星属性,Destiny Star’s Attributes
-主角的命星,MC’s Destiny Star
+主角命星,MC’s Destiny Star
 拉的命星,Ra’s Destiny Star
 赫拉的命星,Hera’s Destiny Star
 圣诞女神的命星,Xmas Angel’s Destiny Star
@@ -19356,7 +19355,7 @@ BASE_ATTRIBUTE_ADD,Enhances Basic Attributes
 卡俄斯的命星,Chaos’s Destiny Star
 海姆达尔的命星,Heimdall’s Destiny Star
 卑弥呼的命星,Himiko’s Destiny Star
-稚日女尊的命星,Enmusubi’s Destiny Star
+缘结神的命星,Enmusubi’s Destiny Star
 冰霜龙母的命星,Frost Dragon's Destiny Star
 灰烬龙女的命星,Ember Dragon’s Destiny Star
 风暴之龙的命星,Storm Dragon’s Destiny Star
@@ -19399,7 +19398,7 @@ SP加百列的命星,SP Gabriel's Destiny Star
 拥有({0}/{1})个女神主星等级达到Lv.{2}激活,Activate after ({0}/{1}) Angels' Main Star level reaches Lv. {2}
 打开宝箱选择任意经典女神的一个碎片（洛基及之前的所有稀有SSR+女神、稀有女神召唤券）,Open the treasure chest and choose one shard of any Classic Angel (including Loki and all previous SSR+ Angels or Superior Summon Scroll)
 解锁后产出{0},{0} after unlocking
-STAR_HOUSE_REWARD_TIPS,Probability: {0}% (\{1\} times left)
+STAR_HOUSE_REWARD_TIPS,Probability: {0}% ({1} times left)
 概率{0}%,Probability: {0}%
 STAR_HOUSE_TIPS,Earn a Destiny Star after {0} summons
 三周年限定1,3rd Anniversary Exclusive 1
@@ -19603,7 +19602,7 @@ ACTIVITY_SUMMON_DESC_97,"In that hazy dream, I met you."
 周年勋礼,Anniversary Merit
 阶段挑战,Carnival Challenge
 嘉年华礼包,Carnival Giftpack
-设备收益,Revenue Overview
+设施收益,Revenue Overview
 嘉年华商店,Carnival Shop
 嘉年华彩券,Carnival Voucher
 用于嘉年华商店商品购买,Used to buy items in the Carnival Shop
@@ -19611,7 +19610,7 @@ ACTIVITY_SUMMON_DESC_97,"In that hazy dream, I met you."
 嘉年华巡游活动道具，使用后随机前进1~6格,"Carnival Parade event item, upon usage, allows you to randomly advance 1 to 6 spaces"
 万能骰子,Universal Dice
 嘉年华巡游活动道具，使用后任意前进1~6格,"Carnival Parade event item, upon usage, allows you to freely move forward anywhere between 1 to 6 spaces"
-随机骰子不足,Insufficient Random Dice
+骰子不足,Insufficient Random Dice
 万能骰子不足,Insufficient Universal Dice
 派遣名单,Dispatch List
 礼品屋,Gift House
@@ -19624,7 +19623,7 @@ ACTIVITY_SUMMON_DESC_97,"In that hazy dream, I met you."
 甜甜圈屋,Doughnut House
 冰淇淋屋,Ice Cream House
 水果小屋,Fruit House
-完成巡游获得额外奖励,"When finishing one lap of the parade, get"
+完成一圈巡游获得额外奖励,Lap Bonus
 累计投掷骰子{0}次,Total number of dice rolled {0} times
 累计完成巡游{0}次,Cumulative completion of parade {0} times
 ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
@@ -19660,19 +19659,19 @@ ACTIVITY_SUMMON_DESC_95,Multiple Debuffs & Healing Allies
 星纹·巨人,Starprint - Giant
 技能伤害提升15%，普攻伤害提升30%,"Increases Skill DMG by 15%, Normal DMG by 30%"
 击杀敌人后使自身伤害提升10%，可叠加至2层，持续至战斗结束,"Killing an enemy increases self-DMG by 10%, stacking up to 2 layers and lasting until the end of the battle"
-行动时使自身攻击力、吸血提升10%，可叠加至3层，持续至战斗结束,"When taking an action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle."
+行动时使自身攻击力、吸血提升10%，可叠加至3层，持续至战斗结束,"When taking action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle."
 受到技能伤害降低20%,Receive 20% less DMG from skills
-行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害,"When taking an action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
-行动时使自身防御、伤害反弹提升10%，可叠加至3层，持续至战斗结束,"When taking an action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle."
+行动时，回复自身10%最大生命值，溢出回复量对随机敌人造成等额真实伤害,"When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy."
+行动时使自身防御、伤害反弹提升10%，可叠加至3层，持续至战斗结束,"When taking action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle."
 受到技能伤害降低10%，异常抵抗提升10%,Receive 10% less DMG from skills and increase 10% Debuff RES
 受到的治疗效果提高20%，受到的护盾效果提高20%,Increases Healing Effect and Shield Effect by 20%
 基础属性提升5%,Increases Basic Attributes by 5%
 治疗效果提升30%，异常抵抗提升10%,Increases Healing Effect by 30% and Debuff RES by 10%
 受到伤害时，自身恢复10%已损失生命值,"When taking damgae, restore 10% of the lost HP value."
-每回合行动时，恢复生命值最低的友方女神50%的生命值,"When taking an action, restores 50% of the HP of the ally with the lowest HP."
+每回合行动时，恢复生命值最低的友方女神50%的生命值,"When taking action, restores 10% of the HP of the ally with the lowest HP."
 受到技能伤害降低10%，无视异常抵抗10%,Ignores 10% of the enemy's Debuff RES and reduces Skill DMG taken by 10%
 受到伤害时，使自身效果命中提高3%，可叠加10层，持续至战斗结束,"When taking damage, increases self Effect ACC by 3% until the end of the battle (can be stacked up to 10 layers)."
-每回合行动时，提升自身生命上限10%，可叠加至3层，持续至战斗结束,"When taking an action, increases Max HP by 10%, stacking up to 3 layers and lasting until the end of the battle"
+每回合行动时，提升自身生命上限10%，可叠加至3层，持续至战斗结束,"When taking action, increases Max HP by 10%, stacking up to 3 layers and lasting until the end of the battle"
 中毒-荆棘毒刺,Poison - Thorny Sting
 燃烧-荆棘毒刺,Ignite - Thorny Sting
 破甲-荆棘毒刺,Sunder Armor - Thorny Sting
@@ -19702,9 +19701,9 @@ ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are the rewards for your 3rd Anni
 完成本轮巡游回到起点,Finish the current parade and go back to the beginning
 万能骰子*2,Universal Dice*2
 下一次奖励格子奖励翻倍,Multiply the next reward effect by 2
-少量游园货币,A few Parade Coins
-一定游园货币,A certain amount of Parade Coins
-大量游园货币,A Lot of Parade Coins
+少量游园货币,A few Carnival Vouchers
+一定游园货币,A certain amount of Carnival Vouchers
+大量游园货币,A Lot of Carnival Vouchers
 大量钻石,A Lot of Diamonds
 少量钻石,A few Diamonds
 随机升级一个未满级建筑,Upgrade one random building that can still be upgraded
@@ -19721,7 +19720,7 @@ ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are the rewards for your 3rd Anni
 抽到圣诞大奖的概率,Probability of winning the Grand Prize: {0}
 抽到驯鹿奖的概率,Probability of winning the Second Prize: {0}
 抽到雪橇奖的概率,Probability of winning the Third Prize: {0}
-蛋糕礼盒,Cake Giftbox
+生日礼盒,Cake Giftbox
 蛋糕,Birthday Cake
 三周年活动期间挂机掉落，可在蛋糕礼盒中开启,Drops during the 3rd Anniversary event. Can be opened in the Cake Giftbox
 打开宝箱选择任意经典女神的一个碎片（洛基及之前的所有稀有SSR+女神、稀有女神召唤券）,Open the treasure chest and choose one shard of any Classic Angel (including Loki and all previous SSR+ Angels or Superior Summon Scroll)
@@ -19729,7 +19728,7 @@ ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are the rewards for your 3rd Anni
 周年庆蛋糕,Anniversary Cake
 蛋糕商店,Cake Shop
 周年庆蛋糕奖励预览,Anniversary Cake Reward Preview
-活动期间副本战斗掉落蛋糕礼盒,Cake Giftbox will be dropped in the Dungeon Battle during the event period
+活动期间副本战掉落圣诞袜,Cake Giftbox will be dropped in the Dungeon Battle during the event period
 一周年纪念,1st Anniversary Celebration
 二周年纪念,2nd Anniversary Celebration
 三周年纪念,3rd Anniversary Celebration
@@ -19738,9 +19737,9 @@ ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are the rewards for your 3rd Anni
 三周年纪念神迹卡,3rd Anniversary Celebration Miracle Card
 累计投掷{0}次,Rolled {0} times in total Miracle Card
 CARNIVAL_RECYCLE_GOODS_TITLE,Event Items and points Recycle in Time Carnival
-CRANIVAL_RECYCLE_GOODS_CONTENT,"he Time Carnival event has ended, and the event items and points have been automatically converted to diamonds."
+CARNIVAL_RECYCLE_GOODS_CONTENT,"he Time Carnival event has ended, and the event items and points have been automatically converted to diamonds."
 CARNIVAL_RANK_REWARD_MAIL_TITLE,Time Carnival Ranking Rewards
-CARNIVAL_RANK_REWARD_MAIL_CONTENT.3,Congratulations on ranking No. {0} in the Time Carnival. Here are your rewards:
+CARNIVAL_RANK_REWARD_MAIL_CONTENT,Congratulations on ranking No. {0} in the Time Carnival. Here are your rewards:
 CARNIVAL_SEND_NOT_RECEIVE_REWARD_TITLE,Carnival Rewards Reissue
 CARNIVAL_SEND_NOT_RECEIVE_REWARD_CONTENT,These are your unclaimed rewards in the Carnival event
 庆典·赫拉,Celebration·Hera
@@ -19754,16 +19753,16 @@ CARNIVAL_SEND_NOT_RECEIVE_REWARD_CONTENT,These are your unclaimed rewards in the
 当前可领：,Available rewards:
 解锁周年勋礼,Unlock Anniversary Merit
 三周年礼包,3rd Anniversary Giftpack
-嘉年华礼包1,Carnival Giftpack 1
-嘉年华礼包2,Carnival Giftpack 2
-嘉年华礼包3,Carnival Giftpack 3
-嘉年华礼包4,Carnival Giftpack 4
+游乐园礼包1,Carnival Giftpack 1
+游乐园礼包2,Carnival Giftpack 2
+游乐园礼包3,Carnival Giftpack 3
+游乐园礼包4,Carnival Giftpack 4
 命运星辰,Destiny Stars
 3周年,3rd Anniversary
 随机事件,Random Event
 老虎机,Random Event
 已占用,Occupied
-拥有一位UR女神后开启,Unlock after awakening one UR Angel
+拥有一位ur女神后开启,Unlock after awakening one UR Angel
 开启,Unlock
 2020年11月21日,"November 21, 2020"
 时光,Time
@@ -19777,11 +19776,192 @@ CARNIVAL_SEND_NOT_RECEIVE_REWARD_CONTENT,These are your unclaimed rewards in the
 唤星十次,Summon Star x10
 女神的命星,Angel’s Destiny Star
 道具奖励,Item Reward
-继续战斗,Continue Fighting
-神装共鸣,Gear Resonance
+下一场,Next level
+神器共鸣,Gear Resonance
 下一队,Next Team
 上一队,Previous Team
 通关噩梦战场{0},Cleared Nightmare Battlefield {0}
 一周年纪念卡碎片,1st Anniversary Souvenir Card Piece
 二周年纪念卡碎片,2nd Anniversary Souvenir Card Piece
 三周年纪念卡碎片,3rd Anniversary Souvenir Card Piece
+请先布阵,Please deploy angels first
+新系统开启,New system unlocks
+当前可领,Available rewards
+唤星屋,Star House
+完成巡游获得额外奖励,"When finishing one lap of the parade, get"
+脆弱-寂灭心牢,Malediction - Heartless Cage
+战争之翼-雅典娜,Wings of War - Athena
+该女神暂未解锁命星系统,This Angel has not yet unlocked the Destiny Star system
+暂未获得该女神,This Angel has not been obtained yet
+设备收益,Revenue Overview
+三周年登录,3rd Anniversary login
+召唤10次女神,Summon Angel 10 times
+解锁当前礼包总计可以获得以下奖励,Unlock this battlepass to get the following rewards
+活动结束后自动回收嘉年华彩券,Carnival Vouchers will be automatically recycled after the event ends
+三周年试炼,3rd Anniversary Trials
+三周年纪念卡,3rd Anniversary Souvenir Card
+周年庆商店,Cake Shop
+玫瑰恋曲,Rose Romance
+天后双星,Celestial Queen
+爱情同盟,Love Alliance
+末日蔷薇,Doomsday Rose
+每层受到伤害增加1%,Increases DMG taken by 1% for each layer
+在闪耀的旋律中，谱写一段绚烂的恋曲！,Let a dazzling love song flow from the sparkling tune!
+首发登场,Brand New Fashion
+闪耀恋曲,Sparkling Romance
+周年,Anniversary
+进入战斗时，雅典娜进入【战神】状态，净化自身所有不良状态（包含不可驱散类型），并且免疫任何异常状态，持续1回合。雅典娜行动后，如果对位敌方女神当前血量低于雅典娜当前最大攻击力的1.5倍，则直接斩杀该敌人，无视一切效果。,"When Athena enters the battle, she enters the [God of War], purifying herself of all debuffs, including those that can't be dispelled, and becomes immune to all debuffs for one round.\n\nAfter Athena takes action, if the HP of the enemy in her opposite position is less than 1.5 times of Athena's current Max ATK, she will directly execute that enemy, ignoring all effects."
+战神-烈风神枪,God of War - Gale Lance
+1回合，免疫异常效果,Gain immunity to debuffs for 2 rounds
+烈风神枪,Gale Lance
+吹往战场的疾风，是我赐予你的守护。,The fierce wind that blows towards the battlefield
+UR+雅典娜,UR+ Athena
+雅典娜UR+碎片,UR+ Athena Shard
+雅典娜UR+碎片5个,5 UR+ Athena Shards
+雅典娜的记忆晶元,Athena's Memoria Crystal
+用于提升雅典娜的梦境中记忆宝珠的等级,Used to upgrade the Level of the Memoria Orb in Athena's Dreamland
+雅典娜女神碎片自选箱,Athena’s Shard Optional Box
+打开宝箱选择雅典娜任意品质的碎片,Open the box and choose Athena's Shards of any quality
+雅典娜的梦境,Athena's Dreamland
+雅典娜的虚弱,Athena's Weakness
+雅典娜的野蛮,Athena's Savagery
+雅典娜的傲慢,Athena's Arrogance
+通关雅典娜的梦境2,Complete Athena's Dreamland 2
+通关雅典娜的梦境3,Complete Athena's Dreamland 3
+通关雅典娜的梦境6,Complete Athena's Dreamland 6
+通关雅典娜的梦境8,Complete Athena's Dreamland 8
+通关雅典娜的梦境12,Complete Athena's Dreamland 12
+活动结束后清空积分,3rd Anniversary Coin will be automatically recycled after the event ends
+三周年纪念币,3rd Anniversary Coin
+哎呀，看看这是谁来了,"Oh my, look who we have here."
+大名鼎鼎的战争之主，智慧与庇护的使者，雅典娜女神！,The famous Goddess of Wisdom and War! The mighty Athena!
+奉承的话就不用多说了，我遇到了麻烦，需要你帮忙。,Stop with such flattery. I am in trouble and need your help.
+等等……你的神力……好像消失了？究竟发生了什么？,Wait... Your divine power... It's gone! What has happened?
+波塞冬挑起了战争，她发动大地震让雅典城沉入了海中，想将它变为新的亚特兰蒂斯。,Poseidon started a war! She caused an earthquake that sank Athens into the sea. She's trying to turn it into the new Atlantis!
+于是你付出了全部的神格来拯救雅典城？你还真是慈悲为怀啊。,So you gave all of your divinity to save the city? How compassionate of you.
+少说风凉话了，如果你真想帮忙，就把你的魔盒给我，我要用它来与波塞冬抗衡！,Cut the sarcastic comments. Just give me your magic box so I can use it to fight Poseidon.
+很遗憾，那破玩意恐怕派不上什么用场。但是别担心，我有办法帮你重获神力。,Unfortunately my magic box doesn't work that way. But I do have a way to help you regain your powers.
+很好，那接下来我们要怎么做？,Great! What do I have to do?
+按照我的规矩，你得先通过进入梦境的试炼……然而你现在是凡人之身，能行吗？,"First of all, you have to pass my trial... But since you're mortal now, can you do it?"
+呵……你最好别小瞧了凡人的力量！,Heh... You better not underestimate the power of mortals!
+你输了，潘多拉，这场决斗是战争之主的胜利！,"You lost, Pandora. Victory belongs to me, the Goddess of War!"
+看来即使失去神格的力量，你在战斗中也不见得会落下风。,"It seems that even without your divinity, you are not one to be underestimated in battle."
+现在你可以告诉我你的计划了。,"Yes, now tell me your plan."
+当然，只不过有点复杂。让我们去见见你的几个老朋友再说吧……,"Well, it's a bit difficult to explain. Before that, let's go meet some old friends of yours."
+潘多拉，我可不记得邀请过你。,"Pandora, I don't remember inviting you here."
+你不想见我无所谓，但这位女神大人想要见你可是件大事。,"It doesn't matter if you don't want to see me. But, this goddess here wants to see you."
+雅典娜？我和你们这样的女神没什么好说的……等等，你身上没有神格的气息？,Athena? I have nothing to say to goddesses like you. Wait... you don't have a divine aura?
+让我猜猜，你变成凡人了？想不到你也有今天。,Oh let me guess! You're mortal? Hehe I didn't expect to enjoy to have a treat like you today.
+你口中的“今天”很快就要结束了，伴随着你被击败。,"I think you'll find she's no mere treat. Instead, you'll taste defeat today."
+等一下，你们想干嘛？你以为你还是那个高高在上的战争女神吗？你只不过是一介凡人！,And how do you propose to do that? Do you think you're still the high and mighty Goddess of War? You're a mortal now!
+没错，但凡人战胜神明的故事，你听得还不够多吗？,"Yes, I'm mortal. But don't you know? Even mortals can defeat gods."
+没想到你即使失去几乎所有神力，还是能如此轻易地击败我。,I didn't expect you to defeat me so easily without your divinity.
+奇怪，在与你的战斗中，我似乎感受到力量开始回归的迹象了。,Hmm it's strange but I think I feel the beginnings of my power returning.
+看来我的梦境开始起作用了呢，你每次击败梦境中的对手，都将找回一部分神格。,Hehe. Then my plan is working. Every opponent you defeat in this dreamland will help you regain a part of your divinity.
+这听起来可真让人兴奋，也就是说，我击败最后一个梦境中的对手时……,"How exciting. So, when I defeat my last opponent...?"
+你的神格就完全恢复了。,Your divinity will be fully restored.
+有意思，我会好好享受这个过程的，至于你……有兴趣作为见证者，与我同行么？,"This method seems right up my alley, I will enjoy it. As for you... Care to join me and witness it?"
+不错的点子，我也想看看凡人重新获得神权的过程。,"Oh yes, I would like to see how a mortal can regain lost divinity."
+我猜，这儿你应该比我熟。,Here's your next opponent. But I guess you're more familiar with her than I am.
+在我还是神明的时候，她就是个非常难对付的家伙……,"Even when I was a goddess, she was rather difficult to deal with."
+你忘了，曾经也有凡人击败过她，而且还是在你的帮助下，鼓起勇气吧。,"Don't forget, mortals have beaten her once before. With aid from none other than yourself."
+别来无恙啊，美杜莎。,"Long time no see, Medusa."
+雅典娜？你居然还敢出现在我的神庙门口……不对，你身上没有神格的气息……,"Athena? How dare you show your face in my temple? Hold on, your divinity is gone."
+我用自己的神力保护了雅典城免受波塞冬的侵害。,"I protected the city of Athens against Poseidon's attack, using my divine power."
+呵呵……这该说无私还是愚蠢呢？,What a selfless act. Or perhaps it's stupidity.
+不过你居然在凡人的状态下来见曾经的敌人，我佩服你的勇气。,"And you actually came to meet me, your former enemy, in your mortal state. I admire your courage."
+击败你并不是什么困难的事，我知道你的所有弱点。,You pose no threat to me. I already know all your weaknesses.
+我很乐意在我的神庙里立一尊真正的“女神石像”！,Hehe well I'd love to have a statue of a goddess to decorate my temple.
+认输吧，战争之主可不是靠运气取得胜利的。,"Throw in the towel, Medusa. The Goddess of War doesn't need to rely on luck to win."
+算我倒霉！你想拿我怎么样？,"Aw, how unlucky for me! What do you want with me?"
+安心，亲爱的，我只是借与你的这场战斗，取回我失去的一部分神力而已。,"Don't worry, my dear. I just used this battle with you to regain part of my lost divinity."
+呵……上一个战胜我的凡人可是直接让我脑袋搬家了，话说回来你们打算去哪？,"Heh... The last mortal who defeated me removed my head. Speaking of, where are you going?"
+还能去哪，当然是帮女神取回神力，然后找波塞冬算总帐。,"Where else? To regain the rest of my power, of course. And then to settle things with Poseidon."
+如果你是要找波塞冬麻烦，算我一个，她这次干的太过分了，把我的神庙淹了大半。,"If you're going after Poseidon, count me in! She flooded my temple."
+我从没想过，有一天还能和你站在同一条阵线上。,I never thought that one day we would be on the same side.
+别得意忘形了，我们只是暂时合作而已。,Don't get carried away. This is only a temporary truce. Let's go.
+潘多拉，你带我来冥界干什么？我现在可是凡人，进去后可就很难再出来了。,"Pandora, why have you brought me to the underworld? You know mortals cannot easily escape once stepping foot in here."
+放心，我们只是前往方塔苏斯的噩梦而已，并不需要渡过冥河。,"Calm down, we're only going as far as the nightmare controlled by Phantasos. We don't need to cross the river Styx."
+我老远就感受到你们的气息了，你们既不是亡者，也不是沉睡之人，来我这里干什么？,"I knew I sensed someone's aura approaching. You are neither dead nor asleep, what are you doing here?"
+方塔苏斯，我需要你梦境中的一块精华结晶。,"Phantasos, I need a crystal formed from the essence of your dream."
+暂且不说我会不会给你，我想先问问，你拿它是要做什么？,"Hmm... If I did give it to you, what are you planning to do with it?"
+我们需要将它合成一种替代神格的载体，然后为雅典娜提供神力。,"We need to synthesize it into a replacement vessel for divinity, and then provide divine power to Athena."
+哦……？曾经不可一世的智慧与战争女神，居然会把自己的神格弄丢？,Oh? The once incomparable Goddess of Wisdom and War has actually lost her divinity?
+不过我可不是慈善家，想要的话，你们就来抢吧。,"But I am not a philanthropist. If you want it, you will have to take it."
+以智慧与战争女神之名，那我就不客气了。,"Then in the name of the Goddess of Wisdom and War, prepare yourself!"
+我不明白，你是如何以凡人之躯击破我的梦境的？,I do not understand. How are you able to shatter my nightmare as a mortal?
+或许力量是制胜的一环，但智慧才是关键，你太过傲慢，否认了智慧对于凡人的重要性。,"Strength may be the door to victory, but wisdom is the key. You failed to see that because of your arrogance."
+不管如何，我输给你是事实，就给你一块梦境结晶好了。,"Well whatever, the fact is I lost to you. I will give you a dream crystal."
+另外，不如让我和你一块前行，看看你所谓的智慧是如何在战场上体现的。,"In addition, let me go with you to see how your so-called wisdom is reflected on the battlefield."
+我并不反对，噩梦之神。,"I have no objection, Goddess of Nightmares."
+接下来我们去黄道吧，去上面收集星辰之光，唤醒梦境结晶的能量。,"Next, let's go to the Zodiac, to collect the light of the stars and awaken the energy of the dream crystal."
+这是黄道禁地，奥林匹斯的女神们，这里不属于你们该来的地方。,"This is the forbidden area of the Zodiac. Goddesses of Olympus, this place is not for you."
+没关系，我只需要黄道上的一点星光。,"It's okay, we just need a little starlight from the Zodiac."
+我记得你，你是雅典娜……,"I remember you, Athena..."
+我也记得你，潘神，是我用计策把你变成现在这副模样的。,"I also remember you, Goddess Pan. It was I who used trickery to turn you into what you are now."
+虽然我没有愤怒，也感受不到复仇的意义，但是我内心的正义驱使着我向你讨要公道。,"...I am not angry, nor do I want revenge, but the righteousness in my heart drives me to seek justice from you."
+我接受你的正义，来吧，以战斗来做个了断也是一种荣耀。,"I accept your justice. Come, it's an honor to end it with a fight."
+虽然你的正义并没有获得胜利，但我欣赏你不屈的意志。,"Although your justice did not prevail, I admire your unyielding will."
+胜利女神今天并不青睐我，好吧，你可以拿走黄道的任何东西作为战利品。,"Victory doesn't favor me today. Well, you can take anything from the Zodiac as your prize."
+不用担心，我只需要一点点星光而已。,"Don't worry, all I need is a little bit of starlight."
+雅典娜，你是在尝试寻回丢失的神格吗？或许我能在接下来的旅程中助你一臂之力？,"Athena, are you trying to recover your lost divinity? Perhaps I can help you on your journey?"
+你真的愿意帮助我吗？即使是在我曾经伤害过你的情况下。,Are you really willing to help me? Even though I have hurt you in the past.
+事实上，从潘神变成摩羯座，并不是什么太难以接受的事情。,"The truth is, changing from the Goddess Pan to Capricornus was not too difficult to accept."
+雅典娜？你为什么会到黄道众星的梦境里来？,Athena? Why have you come to the dreams of the Zodiac?
+别来无恙，我遇到了点小麻烦。,It's been a while. I need a bit of help.
+你身上……好像不再拥有神格了？,You... don't seem to have your divinity anymore?
+这都拜波塞冬所赐。,It's all thanks to Poseidon.
+我听说过你和波塞冬的战争。所以你是想从这里的传送门，直接前往波塞冬的宫殿？,I've heard of your war with Poseidon. So you want to use the portal here to go straight to Poseidon's palace?
+没错。,That's right.
+恐怕以你的凡人身躯无法在海洋待太久吧？我可以赋予你让凡人在海底呼吸的力量。,You won't be able to stay in the ocean for long with your mortal body. I can give you the power to breathe underwater.
+但碍于我传送门守护者身份，我无法直接将这种能力给你，除非你在战斗中……,"But due to my status as the guardian of the portal, I can't just give you this ability..."
+我明白了，我会对你手下留情的。,I understand. I'll go easy on you.
+快停手！真没想到你失去了神力还是这样所向披靡。,Stop! I really didn't expect you to still be so powerful after losing your divinity.
+谢谢你，亲爱的。,"Thank you, my dear."
+别在意，我只是帮了伟大的智慧与战争女神一个小忙而已。,"Of course, I'm just doing the great Goddess of Wisdom and War a small favor."
+我是大海与星空之门的守护者，你们是谁？来海底世界想做什么？,"I am the Guardian of the Sea and the Celestial Gate, who are you? What do you want in the underwater world?"
+和我一样的形象……梦境通道的守护者吗？,Is this phantom that looks like me... the guardian of the dream passage?
+海底的梦境并不允许你这样的存在。,The dream under the sea does not allow for an existence such as you to enter.
+遗憾的是，我也不希望你这样的存在出现在阻挡我的道路上！,"Unfortunately, I also don't want an existence like you to stand in my way!"
+真是强大的力量，好久没有看到如此精湛的战斗技巧了。,What a powerful display! It's been a long time since I saw such exquisite fighting skills.
+看来我已经恢复了大部分的神格，继续前进吧，我想尽快回到现实。,"Looks like I've regained most of my divine power. Let's move on, I want to get back to the waking world as soon as possible."
+波塞冬！我现在就站在你的宫殿门口，难道要我把你的王座拆了，你才肯出来面对我吗？,Poseidon! I am standing in front of your palace right now. Come out and face me! Or do you want me to tear down your throne first?
+雅典娜，作为一个丢了神格的女神，我挺敬佩你还敢在梦境中找我对峙。,"Athena, I admire you for daring to confront me in the dreamland, even without your divinity."
+波塞冬，我难以原谅你将雅典淹没的罪行，我将以战争女神的身份向你问罪！,"Poseidon, I cannot forgive you for flooding Athens. As the Goddess of War, you will face my judgement!"
+我以为你在丢失神格后，能理解我现在的处境，但看来我想多了。,"I thought you could understand my current situation after losing your divinity, but it seems that I was hoping for too much."
+不，我明白你在降临现实世界后，失去原有的神力是一件痛苦的事情。,"No, I understand that it was painful for you to lose your original divinity when you descended into the mortal world."
+但将全世界化为海洋，并不能成为你为了获取力量的借口。,But that's no reason to flood the whole world!
+那么没有必要多说什么了，只有战斗能解决问题！,Then there is nothing more to be said. We can only fight!
+一切结束了，波塞冬！让海水褪去，这件事我可以既往不咎。,"It's over, Poseidon! Let the seas recede, and I will let this matter go."
+不，这是我唯一能够找回神格与力量的方式，我不能就这样放弃。,"No, this is the only way I can regain my divine power and strength. I can't just give up like this."
+很好，如果你有胆量，我会给你第二次机会的。,"Very well, I will give you a second chance if you dare."
+雅典娜，接下来的战斗，就由我来代替波塞冬吧。,"Athena, I will step in for Poseidon in the next battle."
+宙斯？怎么是你？！,Zeus! Why?
+波塞冬是我的姐妹，你应该对她保持应有的尊重。,"Poseidon is my sister, and you should treat her with the respect she deserves."
+我很抱歉，如果她没有试图伤害我的子民，我很乐意这么做，但现在……,"I'd be happy to do so if she hadn't tried to harm my people, but now..."
+那就由我来代替她和你战斗吧。,Then let me fight you instead of her.
+……这并不是我所期待的。,...That's not what I expected.
+你瞒不了我，作为战争女神，你早就渴望着和我对决的这一天了，没错吧？,"You can't hide it from me. As the Goddess of War, you've been longing for the day when you get to face me in battle, right?"
+呵呵……你好像看上去挺犹豫的，雅典娜大人，需要我再给你点自信？,"Hehe. You seem to be hesitant, Lady Athena. Do you need me to give you some confidence?"
+不……我会以凡人的身躯面对这场战斗。,No. I will face this battle in the body of a mortal.
+是我的胜利，即使是失去神格，我依然以凡人的身份战胜了众神之王。,"It is my victory! Even without my original divinity, I still defeated the Ruler of Olympus."
+没错，雅典娜，你胜利了，你的仁慈与智慧，配得上你重新找回的神力。,"Yes, Athena, you are victorious. Your kindness and wisdom are worthy of your rediscovered power."
+或许我们都该好好反省一下，作为神，我们是否都陷入了永恒的傲慢之中。,"Perhaps we should all reflect on whether we, as gods, have fallen into eternal arrogance."
+话别说得这么冠冕堂皇，雅典娜，特洛伊之战的时候，你对特洛伊的子民又做了什么呢？,"Don't talk so grandly, Athena, or did you forget what you did to the people of Troy during the Trojan War?"
+阿波罗？是你？！,Apollo?!
+你或许仁慈，但是否只是对自己的子民呢？对待他邦之民，你难道没有尽情宣泄怒火吗？,"You may be merciful, but isn't it only to your own people? Haven't you vented your anger against the people of other countries?"
+……我很抱歉，阿波罗，对于战争我始终都力求公正，但当时是你们让我别无选择。,"...I'm sorry, Apollo. I've always tried to be fair in wars, but you had left me with no other choice."
+以你现在的力量与我一战吧，如果你赢了，那我就认可你的意志！,"Fight me with your current power. If you win, then I will recognize your will!"
+那就拔出你的武器吧！,Then draw your weapon!
+很好，我很敬佩你的勇气和敢于面对责任之心。,"Very well, I admire your courage and willingness to face responsibility."
+既然这样……让我们脱下盔甲，像两个人类一样解决恩怨吧！,Let us take off our armor and settle our grievances like two mortals!
+我无心与你战斗，这是没有意义之举！,"I have no intention of fighting you, it's pointless!"
+哼！如我所想的一样啊，智慧女神确实从不冲动。,"Hmph! As I thought, the Goddess of Wisdom is not impulsive."
+那我们就在将来的战场上再决胜负吧，你带着雅典大军，而我则带着马其顿勇士！,"Then let's decide the outcome on a future battlefield. You lead the Athenian army, and I will lead the Macedonian warriors!"
+我接受你的挑战，这场凡人之身的战斗，如果我胜利了，希望你能够放下过去的恩怨。,"I accept your challenge, this mortal battle. If I win, I hope you can let go of the grievances of the past."
+没问题，让我们开始吧。,No problem... if you win. Let's get started!
+呵……长本事了啊，智慧与战争女神，如果是之前的你，必然会被我击败。,"Heh you really are skilled, Goddess of Wisdom and War. If it were the former you, it would have been my victory. But now..."
+事实上我还让你你几招，如果全力以赴，这场战斗会更快结束。,"In fact, I also let you show me your moves. If I went all out, the fight would have been over too soon."
+哼，就算你赢了吧，我们彼此间不再有恩怨。,"Hmph! Even if you say that, you did win, so we no longer have any grudges against each other."
+但我希望你将来能践行自己对于正义的原则，无论是对自己的子民，还是对外邦人。,But I hope that in the future you will be fair and just not only for your own people but also everyone else.
+我必不会再让任何人失望。,I will never let anyone down again.
