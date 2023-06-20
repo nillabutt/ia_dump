@@ -53834,5 +53834,9 @@
     {
         "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
         "value": "Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!"
+    },
+    {
+        "name": "限定召唤礼包新配置1",
+        "value": "Paket hadiah Limited Summon"
     }
 ]

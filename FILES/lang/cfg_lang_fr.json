@@ -69834,5 +69834,9 @@
     {
         "name": "解锁当前礼包总计可以获得以下奖励",
         "value": "Déverrouillez cet ordre de combat pour obtenir les récompenses suivantes."
+    },
+    {
+        "name": "限定召唤礼包新配置1",
+        "value": "Pack de invocation"
     }
 ]

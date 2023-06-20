@@ -54254,5 +54254,9 @@
     {
         "name": "请选择奖励",
         "value": "Por favor, selecione um grande prêmio de desejo"
+    },
+    {
+        "name": "限定召唤礼包新配置1",
+        "value": "Evocar Pacote"
     }
 ]

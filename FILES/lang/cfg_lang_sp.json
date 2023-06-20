@@ -54266,5 +54266,9 @@
     {
         "name": "ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT",
         "value": "Aquí están las recompensas de hoy de la tarjeta de recuerdo de Acción de Gracias, ¡gracias por tu apoyo!"
+    },
+    {
+        "name": "限定召唤礼包新配置1",
+        "value": "Paquete de Invocación"
     }
 ]

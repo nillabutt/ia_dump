@@ -66261,7 +66261,7 @@
     },
     {
         "name": "开启次数不足",
-        "value": "Insufficient number of Christmas stocking"
+        "value": "Insufficient Birthday Cakes"
     },
     {
         "name": "圣诞节活动期间限时掉落，开启可获得随机道具和圣诞雪花奖励",
@@ -77329,11 +77329,11 @@
     },
     {
         "name": "噩梦战场",
-        "value": "Nightmare Battlefield"
+        "value": "Nightmare"
     },
     {
         "name": "主线战场",
-        "value": "Main Story Battlefield"
+        "value": "Main Story"
     },
     {
         "name": "共鸣",
@@ -79260,7 +79260,7 @@
         "value": "Gale Lance"
     },
     {
-        "name": "吹往战场的疾风，是我赐予你的守护。",
+        "name": "ACTIVITY_SUMMON_DESC_98",
         "value": "The fierce wind that blows towards the battlefield"
     },
     {
@@ -79862,5 +79862,145 @@
     {
         "name": "我必不会再让任何人失望。",
         "value": "I will never let anyone down again."
+    },
+    {
+        "name": "启航",
+        "value": "Sailing"
+    },
+    {
+        "name": "同为北欧最有魅力的女神，我和芙蕾雅，你会更青睐谁呢？",
+        "value": "Of the two most charming goddesses of the Nordic region, who would you favor more, Freyja or me?"
+    },
+    {
+        "name": "北欧众神们总说爱情会让人付出盲目的牺牲，果真如此吗？",
+        "value": "Nordic gods often say love involves blind sacrifices. Is that so?"
+    },
+    {
+        "name": "听说，用相爱之人的血来浇灌玫瑰，会赋予它们强大的魔力……",
+        "value": "I heard that watering roses with the blood of a loved one bestows them with powerful magic…"
+    },
+    {
+        "name": "我喜欢事物凋零时的感觉，就像蔷薇被铁锤敲碎的瞬间，也有一种独特的美……",
+        "value": "I enjoy watching things wilt. The end result reminds me of roses smashed by a hammer. Beauty can be found even in its own destruction."
+    },
+    {
+        "name": "我听说维纳斯对爱情之事颇有看法，挺想和她见上一面呢。",
+        "value": "I’ve heard that Venus has quite some views on love, I’d like to meet her."
+    },
+    {
+        "name": "我喜欢那些可爱美丽的东西，喜欢到想要把它们都捏碎……",
+        "value": "I love adorable and beautiful things, so much that I want to crush them all…"
+    },
+    {
+        "name": "当然是你！",
+        "value": "Of course, it’s you!"
+    },
+    {
+        "name": "这个嘛……你猜猜？",
+        "value": "Well… Take a guess?"
+    },
+    {
+        "name": "我想并非如此。",
+        "value": "I don’t think it necessarily is."
+    },
+    {
+        "name": "我确实这么认为。",
+        "value": "I believe so."
+    },
+    {
+        "name": "我听过这样的传闻！",
+        "value": "I’ve heard such rumors as well!"
+    },
+    {
+        "name": "应该是假的吧？",
+        "value": "It sounds like a myth to me."
+    },
+    {
+        "name": "索尔应该会有同感。",
+        "value": "Thor would probably feel the same."
+    },
+    {
+        "name": "听上去有点可怕……",
+        "value": "That sounds a bit disturbing…"
+    },
+    {
+        "name": "我有不好的预感……",
+        "value": "I have a bad feeling about this…"
+    },
+    {
+        "name": "或许是个好点子。",
+        "value": "Maybe that’s a good idea."
+    },
+    {
+        "name": "你有照过镜子吗？",
+        "value": "Have you ever looked in the mirror?"
+    },
+    {
+        "name": "呃……对我也是一样？",
+        "value": "Er… the same goes for me?"
+    },
+    {
+        "name": "是吗？呵呵……这句话是真话，还是谎话呢……？",
+        "value": "Really? Is that the truth, or are you lying?"
+    },
+    {
+        "name": "哼，你好像在犹豫呢，是想成为我玫瑰园中的养料吗？",
+        "value": "Hmm, you seem to hesitate. Would you rather become fertilizer in my rose garden."
+    },
+    {
+        "name": "可如果不能为了爱而牺牲，那还算真挚的爱吗？",
+        "value": "But isn’t love without sacrifice less genuine?"
+    },
+    {
+        "name": "那么，你会为了我牺牲什么呢？",
+        "value": "So, what would you sacrifice for me?"
+    },
+    {
+        "name": "那么猜猜看，接下来我要对你做什么刺激的事情了呢……",
+        "value": "So guess what exciting thing I am about to do next…"
+    },
+    {
+        "name": "有意思！我们来验证一下怎么样……？",
+        "value": "Interesting! Shall we test it?"
+    },
+    {
+        "name": "她小时候可喜欢找我玩了，使用战锤的本事我可没少教她。",
+        "value": "As a child, she enjoyed playing with me. I taught her a lot about wielding a hammer."
+    },
+    {
+        "name": "哼，在战场上看到我击碎魔物的身姿后，我相信你会理解这种美感的。",
+        "value": "Hmph, after witnessing me pulverizing monsters on the battlefield, I believe you would understand."
+    },
+    {
+        "name": "为什么呢？我只是想和她分享一下恋爱的经验啊。",
+        "value": "As a child, she enjoyed playing with me. I taught her a lot about wielding a hammer."
+    },
+    {
+        "name": "我也这么觉得，至少作为爱神，她能理解我对爱情的理念。",
+        "value": "I think so too, at least as a goddess of love, she would understand my philosophy of love."
+    },
+    {
+        "name": "你是想问我会不会对自己也产生这样的想法？不瞒你说，的确会有……",
+        "value": "Are you asking if I’ve had the same thought about myself? Indeed, I have…"
+    },
+    {
+        "name": "猜对了呢，我确实想把你用力抱在怀里，享受你慢慢窒息的过程……",
+        "value": "You guessed it. I indeed want to hold you tight in my arms, relishing in your slow suffocation…"
+    },
+    {
+        "name": "暂未拥有该女神，是否确认选择",
+        "value": "Angel not owned. Confirm your choice?"
+    },
+    {
+        "name": "{0}级开启",
+        "value": "Unlocks at Lv. {0}"
+    },
+    {
+        "name": "限定召唤礼包新配置1",
+        "value": "Summon Pack"
+    },
+    {
+        "name": "蛋糕大宝箱活动道具，可用来开启蛋糕宝箱",
+        "value": "Event items of the Sweet Surprise event. Collect and use them to unlock the Cake Chest."
     }
 ]

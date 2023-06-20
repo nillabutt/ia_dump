@@ -69822,5 +69822,9 @@
     {
         "name": "解锁当前礼包总计可以获得以下奖励",
         "value": "Mở khóa Chiến Lệnh này để nhận được các thưởng sau"
+    },
+    {
+        "name": "限定召唤礼包新配置1",
+        "value": "Gói triệu hồi giới hạn"
     }
 ]

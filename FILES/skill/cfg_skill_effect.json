@@ -18634,17 +18634,6 @@
         "accumulational_effect_play_delay": "0"
     },
     {
-        "eid": "158201001",
-        "bundle_anim": "",
-        "bundle_trigger_time": "0",
-        "hit_anim": "",
-        "hit_trigger_time": "0",
-        "effect_play_delay": "0",
-        "shake_target": "0",
-        "shake_screen": "0",
-        "accumulational_effect_play_delay": "0"
-    },
-    {
         "eid": "158201101",
         "bundle_anim": "",
         "bundle_trigger_time": "0",

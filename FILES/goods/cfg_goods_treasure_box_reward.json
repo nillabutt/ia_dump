@@ -2872,5 +2872,155 @@
         "treasure_box_id": "1000034",
         "reward_str": "15:150066",
         "weight": "1"
+    },
+    {
+        "cfg_id": "10959",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2037",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10960",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2039",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10961",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2047",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10962",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2049",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10963",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2050",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10964",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2051",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10965",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2053",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10966",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2055",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10967",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2056",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10968",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2057",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10969",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2060",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10970",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2063",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10971",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2065",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10972",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2067",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10973",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2068",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10974",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2069",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10975",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2071",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10976",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2073",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10977",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2074",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10978",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2075",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10979",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2076",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10980",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2077",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10981",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2078",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10982",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2079",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10983",
+        "treasure_box_id": "1000070",
+        "reward_str": "6:2081",
+        "weight": "1"
     }
 ]

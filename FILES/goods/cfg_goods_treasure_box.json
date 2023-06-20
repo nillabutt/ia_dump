@@ -882,5 +882,18 @@
         "name": "稀有神迹卡随机宝箱",
         "icon": "1000069.png",
         "description": "打开获得随机稀有神迹卡"
+    },
+    {
+        "cfg_id": "1000070",
+        "cost_cfg_id": "0",
+        "max_count": "999",
+        "quality": "6",
+        "restore": "1000",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "20",
+        "name": "随机SSR+女神",
+        "icon": "3000178.png",
+        "description": "随机1个SSR+女神"
     }
 ]
