@@ -16544,7 +16544,7 @@ EGG_MACHINE_BAODI_CONFIG_TIPS,Guaranteed to get the Jackpot in round {0} after {
 开启圣诞袜,Open the Cake Giftbox
 雪花,Christmas Snowflake
 CHRISTMAS_WAZI_COUNT,Own {0}
-CHRISTMAS_WAZI_TIPS,Open the Gift Box to get {0} Birthday Cakes
+CHRISTMAS_WAZI_TIPS,Open the Gift Box to get {0}  Cakes
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Grand prize in each round are guaranteed after {0} pulls
 概率：,Probability:
 红券数量不足,The number of Legend Summon Scrolls is insufficient
@@ -16564,7 +16564,7 @@ Lv.100 试炼晶石生产速度 <size=50>+25%</size>,Lv.100 Trial Crystal Produc
 活动期间获得10点日常活跃度,Gain 10 Daily Activity Pt. during the event period
 获取上限,Limit
 圣诞袜奖励预览,Gift Box Reward Preview
-开启次数不足,Insufficient Birthday Cakes
+开启次数不足,Insufficient  Cakes
 圣诞节活动期间限时掉落，开启可获得随机道具和圣诞雪花奖励,"Drops during the Christmas event. When opened, you will get random items and Christmas Snowflake."
 圣诞雪花,Christmas Snowflake
 圣诞节活动期间参与相关活动获得，可以用于活动期间开启圣诞大宝箱,Drops in the Christmas events. Can be used to open the Christmas Chest.
@@ -16670,7 +16670,7 @@ CHRISTMAS_SPECIAL_BOX_COUNT,{0} is available
 白色誓约,White Promise
 这份只属于你的圣诞礼物，是否触动心弦？,"A Christmas gift just for you, for your eyes only."
 增加菲奈特50点好感度,Increase Finette's favorability by 50 points
-雪花:,Birthday Cake：
+雪花:,Cake：
 扭蛋次数达到上限,Max number of pullings has been reached
 次数达到上限,Max number of pullings has been reached
 章节{0},Episode {0}
@@ -19721,7 +19721,7 @@ ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are the rewards for your 3rd Anni
 抽到驯鹿奖的概率,Probability of winning the Second Prize: {0}
 抽到雪橇奖的概率,Probability of winning the Third Prize: {0}
 生日礼盒,Cake Giftbox
-蛋糕,Birthday Cake
+蛋糕,Cake
 三周年活动期间挂机掉落，可在蛋糕礼盒中开启,Drops during the 3rd Anniversary event. Can be opened in the Cake Giftbox
 打开宝箱选择任意经典女神的一个碎片（洛基及之前的所有稀有SSR+女神、稀有女神召唤券）,Open the treasure chest and choose one shard of any Classic Angel (including Loki and all previous SSR+ Angels or Superior Summon Scroll)
 三周年,3rd Anniversary
@@ -19795,7 +19795,7 @@ CARNIVAL_SEND_NOT_RECEIVE_REWARD_CONTENT,These are your unclaimed rewards in the
 暂未获得该女神,This Angel has not been obtained yet
 设备收益,Revenue Overview
 三周年登录,3rd Anniversary login
-召唤10次女神,Summon Angel 10 times
+召唤1次女神,Summon Angel 1 times
 解锁当前礼包总计可以获得以下奖励,Unlock this battlepass to get the following rewards
 活动结束后自动回收嘉年华彩券,Carnival Vouchers will be automatically recycled after the event ends
 三周年试炼,3rd Anniversary Trials

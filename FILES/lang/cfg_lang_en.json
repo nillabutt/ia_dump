@@ -66181,7 +66181,7 @@
     },
     {
         "name": "CHRISTMAS_WAZI_TIPS",
-        "value": "Open the Gift Box to get {0} Birthday Cakes"
+        "value": "Open the Gift Box to get {0}  Cakes"
     },
     {
         "name": "EGG_MACHINE_LAST_BAODI_CONFIG_TIPS",
@@ -66261,7 +66261,7 @@
     },
     {
         "name": "开启次数不足",
-        "value": "Insufficient Birthday Cakes"
+        "value": "Insufficient  Cakes"
     },
     {
         "name": "圣诞节活动期间限时掉落，开启可获得随机道具和圣诞雪花奖励",
@@ -66685,7 +66685,7 @@
     },
     {
         "name": "雪花:",
-        "value": "Birthday Cake："
+        "value": "Cake："
     },
     {
         "name": "扭蛋次数达到上限",
@@ -78889,7 +78889,7 @@
     },
     {
         "name": "蛋糕",
-        "value": "Birthday Cake"
+        "value": "Cake"
     },
     {
         "name": "三周年活动期间挂机掉落，可在蛋糕礼盒中开启",
@@ -79184,8 +79184,8 @@
         "value": "3rd Anniversary login"
     },
     {
-        "name": "召唤10次女神",
-        "value": "Summon Angel 10 times"
+        "name": "召唤1次女神",
+        "value": "Summon Angel 1 times"
     },
     {
         "name": "解锁当前礼包总计可以获得以下奖励",
