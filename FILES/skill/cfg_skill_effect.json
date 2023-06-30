@@ -14003,6 +14003,127 @@
         "accumulational_effect_play_delay": "0"
     },
     {
+        "eid": "156701101",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "XLLY_hit",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702101",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "XLLY_hit",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702111",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702112",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702113",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702114",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702201",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "XLLY_hit2",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702211",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702212",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702213",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "156702214",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
         "eid": "116801101",
         "bundle_anim": "",
         "bundle_trigger_time": "0",

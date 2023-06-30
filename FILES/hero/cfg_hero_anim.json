@@ -106,5 +106,11 @@
         "ruchang_anim": "YDNruchang",
         "ruchang_effect": "YDNruchang_Effect",
         "anim_time": "10.0"
+    },
+    {
+        "id": "102068300",
+        "ruchang_anim": "AXLruchang",
+        "ruchang_effect": "AXLruchang_Effect",
+        "anim_time": "10.0"
     }
 ]

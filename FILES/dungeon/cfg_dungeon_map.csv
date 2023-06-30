@@ -63,3 +63,7 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide
 62,马德里,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200161,0
 63,拉巴特,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200162,0
 64,阿尔及尔,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200163,0
+65,南非,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200164,1
+66,马达加斯加,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200165,0
+67,赞比亚,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200166,0
+68,莫桑比克,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200167,0

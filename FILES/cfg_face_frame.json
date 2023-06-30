@@ -740,6 +740,26 @@
         "desc": "感谢您在社区活动中的贡献"
     },
     {
+        "cfg_id": "4055",
+        "type": "4",
+        "quality": "6",
+        "name": "阿修罗头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4055.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4056",
+        "type": "4",
+        "quality": "5",
+        "name": "阿修罗头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4056.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
         "cfg_id": "5001",
         "type": "5",
         "quality": "6",

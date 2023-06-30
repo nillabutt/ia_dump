@@ -2954,6 +2954,20 @@
         "icon_kor": ""
     },
     {
+        "cfg_id": "4000018",
+        "max_count": "99999999",
+        "quality": "6",
+        "restore": "1",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "60",
+        "name": "阿修罗的记忆晶元",
+        "show_in_bag": "0",
+        "icon": "4000018.png",
+        "description": "用于提升阿修罗的梦境中记忆宝珠的等级",
+        "icon_kor": ""
+    },
+    {
         "cfg_id": "8000000",
         "max_count": "99999999",
         "quality": "6",

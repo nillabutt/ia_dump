@@ -2835,6 +2835,33 @@
         "stack_count_max": "0"
     },
     {
+        "bid": "156701111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "修罗-修罗炼狱",
+        "icon": "XiuLuoChang_D",
+        "info": "2回合减暴击伤害",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "156702111",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "炼狱-修罗炼狱",
+        "icon": "LianYu",
+        "info": "每层获得阿修罗10%的属性减益(攻击力、物抗、魔抗）",
+        "stack_count_max": "4"
+    },
+    {
+        "bid": "156702211",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "转生-修罗炼狱",
+        "icon": "ZhuanSheng",
+        "info": "每层获得阿修罗5%的属性增益(攻击力、物抗、魔抗）",
+        "stack_count_max": "4"
+    },
+    {
         "bid": "116801211",
         "buff_anim": "",
         "buff_trigger_anim": "",

@@ -1,0 +1,182 @@
+[
+    {
+        "cid": "1",
+        "type": "1",
+        "land_id": "1",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "2",
+        "type": "1",
+        "land_id": "2",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "3",
+        "type": "1",
+        "land_id": "3",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "4",
+        "type": "1",
+        "land_id": "1",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "5",
+        "type": "1",
+        "land_id": "2",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "6",
+        "type": "1",
+        "land_id": "3",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "7",
+        "type": "1",
+        "land_id": "4",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "8",
+        "type": "1",
+        "land_id": "1",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "9",
+        "type": "1",
+        "land_id": "2",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "10",
+        "type": "1",
+        "land_id": "3",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "11",
+        "type": "1",
+        "land_id": "4",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "12",
+        "type": "1",
+        "land_id": "5",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "13",
+        "type": "1",
+        "land_id": "1",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "14",
+        "type": "1",
+        "land_id": "2",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "15",
+        "type": "1",
+        "land_id": "5",
+        "debris_type": "3",
+        "add_debris_count": "3",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "16",
+        "type": "1",
+        "land_id": "3",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "17",
+        "type": "1",
+        "land_id": "4",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    },
+    {
+        "cid": "18",
+        "type": "1",
+        "land_id": "5",
+        "debris_type": "4",
+        "add_debris_count": "1",
+        "add_goods_count": "0",
+        "tab_desc": "碎片加成",
+        "desc": "OSL_ANIMAL_TIPS"
+    }
+]

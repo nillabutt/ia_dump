@@ -401,5 +401,18 @@
         "name": "雅典娜女神碎片自选箱",
         "icon": "6000031.png",
         "description": "打开宝箱选择雅典娜任意品质的碎片"
+    },
+    {
+        "cfg_id": "6000032",
+        "optional_id": "7:2068:1|17:2068:1|24:2068:1|5:3000027:1",
+        "max_count": "99999",
+        "quality": "6",
+        "restore": "1",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "0",
+        "name": "阿修罗女神碎片自选箱",
+        "icon": "6000032.png",
+        "description": "打开宝箱选择阿修罗任意品质的碎片"
     }
 ]
