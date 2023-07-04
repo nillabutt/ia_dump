@@ -760,6 +760,56 @@
         "desc": "感谢您在社区活动中的贡献"
     },
     {
+        "cfg_id": "4057",
+        "type": "4",
+        "quality": "5",
+        "name": "赫拉达人",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4057.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4058",
+        "type": "4",
+        "quality": "5",
+        "name": "丘比特达人",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4058.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4059",
+        "type": "4",
+        "quality": "5",
+        "name": "卡俄斯达人",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4059.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4060",
+        "type": "4",
+        "quality": "5",
+        "name": "拉达人",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4060.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4061",
+        "type": "4",
+        "quality": "5",
+        "name": "伊卡路斯达人",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4061.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
         "cfg_id": "5001",
         "type": "5",
         "quality": "6",

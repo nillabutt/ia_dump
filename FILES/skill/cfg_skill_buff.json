@@ -338,7 +338,7 @@
         "buff_trigger_anim": "",
         "name": "主角光环",
         "icon": "ZhuJue",
-        "info": "攻击力、防御、物抗、魔抗、异常抵抗提升",
+        "info": "攻击力、防御、物抗、魔抗、异常抵抗提升（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -1760,7 +1760,7 @@
         "buff_trigger_anim": "",
         "name": "招架-神风之刃",
         "icon": "ZhaoJia",
-        "info": "降低一次高额伤害",
+        "info": "降低一次高额伤害（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -1769,7 +1769,7 @@
         "buff_trigger_anim": "",
         "name": "招架-神风之刃",
         "icon": "ZhaoJia",
-        "info": "降低一次高额伤害",
+        "info": "降低一次高额伤害（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -1804,7 +1804,7 @@
         "buff_anim": "",
         "buff_trigger_anim": "",
         "name": "雷暴-龙血沸腾",
-        "icon": "LeiBao",
+        "icon": "LeiBao1",
         "info": "2回合攻击力增加300%，普通攻击必定暴击，免疫不良状态",
         "stack_count_max": "0"
     },
@@ -1813,7 +1813,7 @@
         "buff_anim": "",
         "buff_trigger_anim": "",
         "name": "雷暴-龙血沸腾",
-        "icon": "LeiBao",
+        "icon": "LeiBao1",
         "info": "2回合攻击力增加350%，普通攻击必定暴击，免疫不良状态",
         "stack_count_max": "0"
     },
@@ -1922,7 +1922,7 @@
         "buff_trigger_anim": "",
         "name": "坚定-爱神庇佑",
         "icon": "JianDing",
-        "info": "每层提升5%异常抵抗",
+        "info": "每层提升5%异常抵抗（绝对状态）",
         "stack_count_max": "999"
     },
     {
@@ -1958,7 +1958,7 @@
         "buff_trigger_anim": "",
         "name": "混沌-混沌侵袭",
         "icon": "HunDun",
-        "info": "无视20%异常抵抗（无法驱散）",
+        "info": "无视20%异常抵抗（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2183,7 +2183,7 @@
         "buff_trigger_anim": "",
         "name": "莲华-莲华天幕",
         "icon": "LianHua",
-        "info": "受到暴击时的伤害额外降低10%",
+        "info": "受到暴击时的伤害额外降低10%（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2192,7 +2192,7 @@
         "buff_trigger_anim": "",
         "name": "莲华-莲华天幕",
         "icon": "LianHua",
-        "info": "受到暴击时的伤害额外降低10%",
+        "info": "受到暴击时的伤害额外降低10%（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2201,7 +2201,7 @@
         "buff_trigger_anim": "",
         "name": "莲华-莲华天幕",
         "icon": "LianHua",
-        "info": "受到暴击时的伤害额外降低10%",
+        "info": "受到暴击时的伤害额外降低10%（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2345,7 +2345,7 @@
         "buff_trigger_anim": "",
         "name": "怒焰-怒火灼烧",
         "icon": "NuYan",
-        "info": "1回合火焰标记，每层怒焰标记会增加透体灼弹50%的伤害",
+        "info": "1回合火焰标记，每层怒焰标记会增加透体灼弹50%的伤害（绝对状态）",
         "stack_count_max": "6"
     },
     {
@@ -2416,7 +2416,7 @@
         "buff_anim": "",
         "buff_trigger_anim": "",
         "name": "雷暴-风雷涌动",
-        "icon": "LeiBao",
+        "icon": "LeiBao1",
         "info": "2回合攻击力增加350%，普通攻击必定暴击，免疫不良状态",
         "stack_count_max": "0"
     },
@@ -2425,7 +2425,7 @@
         "buff_anim": "",
         "buff_trigger_anim": "",
         "name": "雷暴-风雷涌动",
-        "icon": "LeiBao",
+        "icon": "LeiBao1",
         "info": "2回合攻击力增加400%，普通攻击必定暴击，免疫不良状态",
         "stack_count_max": "0"
     },
@@ -2462,7 +2462,7 @@
         "buff_trigger_anim": "",
         "name": "雷暴-飓风闪影",
         "icon": "LeiBao",
-        "info": "1回合攻击力增加100%，免疫不良状态",
+        "info": "1回合攻击力增加100%，免疫不良状态（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2507,7 +2507,7 @@
         "buff_trigger_anim": "",
         "name": "耀光-超凡双星",
         "icon": "YaoGuang",
-        "info": "暴击值、暴击伤害增加30%",
+        "info": "暴击值、暴击伤害增加30%（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2516,7 +2516,7 @@
         "buff_trigger_anim": "",
         "name": "暗影-超凡双星",
         "icon": "AnYing",
-        "info": "提升50%异常抵抗，30%伤害减免",
+        "info": "提升50%异常抵抗，30%伤害减免（绝对状态）",
         "stack_count_max": "0"
     },
     {
@@ -2543,7 +2543,7 @@
         "buff_trigger_anim": "",
         "name": "月光-广寒孤月",
         "icon": "YueGuang",
-        "info": "无限回合，广寒孤月所提供的【月光】标记",
+        "info": "无限回合，广寒孤月所提供的【月光】标记（绝对状态）",
         "stack_count_max": "12"
     },
     {
@@ -2552,7 +2552,7 @@
         "buff_trigger_anim": "",
         "name": "月光-明月共赏",
         "icon": "YueGuang",
-        "info": "无限回合，明月共赏所提供的【月光】标记",
+        "info": "无限回合，明月共赏所提供的【月光】标记（绝对状态）",
         "stack_count_max": "18"
     },
     {
@@ -3560,7 +3560,7 @@
         "buff_trigger_anim": "",
         "name": "复仇-复仇天神",
         "icon": "FuChou",
-        "info": "死亡时，会进入灵魂状态",
+        "info": "死亡时，会进入灵魂状态（绝对状态）",
         "stack_count_max": "0"
     },
     {
