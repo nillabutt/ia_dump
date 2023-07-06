@@ -449,28 +449,28 @@
     },
     {
         "dungeon_map_id": "65",
-        "name": "南非",
+        "name": "赞比亚",
         "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
         "switch_opr_guide_id": "200164",
         "need_swipe_guide": "1"
     },
     {
         "dungeon_map_id": "66",
-        "name": "马达加斯加",
+        "name": "莫桑比克",
         "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
         "switch_opr_guide_id": "200165",
         "need_swipe_guide": "0"
     },
     {
         "dungeon_map_id": "67",
-        "name": "赞比亚",
+        "name": "南非",
         "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
         "switch_opr_guide_id": "200166",
         "need_swipe_guide": "0"
     },
     {
         "dungeon_map_id": "68",
-        "name": "莫桑比克",
+        "name": "马达加斯加",
         "bg_path": "77_bg_jiangyin_memory_bg_jiangyin_memory.png",
         "switch_opr_guide_id": "200167",
         "need_swipe_guide": "0"
