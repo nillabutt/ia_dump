@@ -810,6 +810,46 @@
         "desc": "感谢您在社区活动中的贡献"
     },
     {
+        "cfg_id": "4062",
+        "type": "4",
+        "quality": "6",
+        "name": "摩羯座头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4062.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4063",
+        "type": "4",
+        "quality": "5",
+        "name": "摩羯座头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4063.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4064",
+        "type": "4",
+        "quality": "6",
+        "name": "2023荣耀头像-金",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4064.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
+        "cfg_id": "4065",
+        "type": "4",
+        "quality": "5",
+        "name": "2023荣耀头像-银",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "4065.png",
+        "desc": "感谢您在社区活动中的贡献"
+    },
+    {
         "cfg_id": "5001",
         "type": "5",
         "quality": "6",
@@ -1018,6 +1058,16 @@
         "end_time": "0",
         "icon": "5033.png",
         "desc": "2023三周年纪念头像框"
+    },
+    {
+        "cfg_id": "5034",
+        "type": "5",
+        "quality": "6",
+        "name": "2023夏日限定头像框",
+        "useEffect": "0",
+        "end_time": "0",
+        "icon": "5034.png",
+        "desc": "2023夏日限定头像框"
     },
     {
         "cfg_id": "6001",

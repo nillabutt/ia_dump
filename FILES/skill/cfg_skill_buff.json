@@ -3051,6 +3051,33 @@
         "stack_count_max": "0"
     },
     {
+        "bid": "157101311",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "摩羯-神耀星魂",
+        "icon": "MoJie",
+        "info": "受到攻击后治疗除自己外所有友军，溢出治疗转化为生命上限，并提升防御力",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "157101313",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "摩羯-神耀星魂",
+        "icon": "",
+        "info": "提升防御",
+        "stack_count_max": "0"
+    },
+    {
+        "bid": "157101411",
+        "buff_anim": "",
+        "buff_trigger_anim": "",
+        "name": "摩羯-神耀星魂",
+        "icon": "",
+        "info": "易伤",
+        "stack_count_max": "0"
+    },
+    {
         "bid": "117301111",
         "buff_anim": "",
         "buff_trigger_anim": "",

@@ -328,5 +328,25 @@
         "show_label": "增益",
         "desc": "三周年纪念神迹卡",
         "is_hero": "1"
+    },
+    {
+        "treasure_id": "3012",
+        "name": "落樱化妖",
+        "special_effect_type": "9",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "增益",
+        "desc": "呐呐~你想看我的舞蹈吗？",
+        "is_hero": "1"
+    },
+    {
+        "treasure_id": "3013",
+        "name": "捣年糕",
+        "special_effect_type": "10",
+        "rebate_debris_count": "50",
+        "quality": "5",
+        "show_label": "增益",
+        "desc": "嘿咻~嘿咻~我爱年糕，年糕爱我！",
+        "is_hero": "1"
     }
 ]

@@ -15070,6 +15070,83 @@
         "accumulational_effect_play_delay": "0"
     },
     {
+        "eid": "157101101",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "157101201",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "157101301",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "SYXH_hit",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "157101311",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "SYXH_hit2",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "157101312",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "157101313",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
+        "eid": "157101401",
+        "bundle_anim": "",
+        "bundle_trigger_time": "0",
+        "hit_anim": "",
+        "hit_trigger_time": "0",
+        "effect_play_delay": "0",
+        "shake_target": "0",
+        "shake_screen": "0",
+        "accumulational_effect_play_delay": "0"
+    },
+    {
         "eid": "137201101",
         "bundle_anim": "",
         "bundle_trigger_time": "0",

@@ -2688,6 +2688,18 @@
         "weight": "1"
     },
     {
+        "cfg_id": "10808",
+        "treasure_box_id": "1000066",
+        "reward_str": "25:3012:1",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10809",
+        "treasure_box_id": "1000066",
+        "reward_str": "25:3013:1",
+        "weight": "1"
+    },
+    {
         "cfg_id": "10850",
         "treasure_box_id": "1000067",
         "reward_str": "26:1001:1",
@@ -3021,6 +3033,18 @@
         "cfg_id": "10983",
         "treasure_box_id": "1000070",
         "reward_str": "6:2081",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10990",
+        "treasure_box_id": "1000069",
+        "reward_str": "26:3012:1",
+        "weight": "1"
+    },
+    {
+        "cfg_id": "10991",
+        "treasure_box_id": "1000069",
+        "reward_str": "26:3013:1",
         "weight": "1"
     }
 ]

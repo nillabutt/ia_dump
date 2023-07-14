@@ -745,5 +745,95 @@
         "limit": "1",
         "thing": "25:1012:1",
         "is_food": "0"
+    },
+    {
+        "cfg_id": "84",
+        "quality": "5",
+        "before_cost": "300",
+        "cost": "300",
+        "limit": "1",
+        "thing": "25:3012:1",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "85",
+        "quality": "5",
+        "before_cost": "300",
+        "cost": "240",
+        "limit": "1",
+        "thing": "25:3012:1",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "86",
+        "quality": "5",
+        "before_cost": "18000",
+        "cost": "18000",
+        "limit": "1",
+        "thing": "25:3012:60",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "87",
+        "quality": "5",
+        "before_cost": "1500",
+        "cost": "1500",
+        "limit": "1",
+        "thing": "25:3012:5",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "88",
+        "quality": "5",
+        "before_cost": "1500",
+        "cost": "1200",
+        "limit": "1",
+        "thing": "25:3012:5",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "89",
+        "quality": "5",
+        "before_cost": "300",
+        "cost": "300",
+        "limit": "1",
+        "thing": "25:3013:1",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "90",
+        "quality": "5",
+        "before_cost": "300",
+        "cost": "240",
+        "limit": "1",
+        "thing": "25:3013:1",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "91",
+        "quality": "5",
+        "before_cost": "18000",
+        "cost": "18000",
+        "limit": "1",
+        "thing": "25:3013:60",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "92",
+        "quality": "5",
+        "before_cost": "1500",
+        "cost": "1500",
+        "limit": "1",
+        "thing": "25:3013:5",
+        "is_food": "0"
+    },
+    {
+        "cfg_id": "93",
+        "quality": "5",
+        "before_cost": "1500",
+        "cost": "1200",
+        "limit": "1",
+        "thing": "25:3013:5",
+        "is_food": "0"
     }
 ]

@@ -296,6 +296,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102071002,103,0,0,摩羯座,MJZ2,YKLS0,2071_2.png,2049_0.png,2071_2.png,2049.png,0,6,2071,0,3:1:100|3:22:450,2:3000031:1,0,,,兑换,1,mjz,hero_mjz,4,1,KunLunTianGong,img_job_bg_1,0
 102071003,104,0,0,神圣殿堂,MJZ_HS,YKLS0,2071_HS.png,2049_0.png,2071_HS.png,2049.png,1,6,2071,0,3:1:100|3:22:450,2:3000148:1,0,,,誓约获得,0,mjz,hero_mjz,4,1,,img_hunsha_bg,0
 102071200,102,0,0,黄道祭礼-摩羯座,MJZ_UR,YKLS0,2071_UR.png,2049_0.png,2071_UR.png,2049.png,1,6,2071,0,3:1:100|3:22:450,6,0,,,神性觉醒,0,mjz_ur,hero_mjz_ur,4,1,KunLunTianGong,img_job_bg_1,0
+102071300,102,0,0,水影苍星-摩羯座,MJZ_UR_PLUS,YKLS0,2071_UR_PLUS.png,2049_0.png,2071_UR_PLUS.png,2049.png,1,6,2071,0,3:1:100|3:22:450,8,0,,,神力觉醒,0,mjz_ur,hero_mjz_ur,4,1,KunLunTianGong,img_job_bg_1,1
 103072000,0,0,0,SP加百列,WL_SP,YKLS0,3072_0.png,2049_0.png,3072.png,2049.png,0,100,3072,1,0,0,0,,111|1,默认皮肤,0,wl_sp,hero_wlsp,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102073000,0,0,0,双鱼座,SYZ0,YKLS0,2073_0.png,2049_0.png,2073.png,2049.png,0,2,2073,1,0,0,0,,111|1,默认皮肤,0,syz,hero_syz,4,1,ShenNvQiSuo,img_job_bg_1,0
 102073001,105,0,0,双鱼座,SYZ1,YKLS0,2073_1.png,2049_0.png,2073_1.png,2049.png,0,5,2073,0,3:1:70|3:22:90,2:2000011:40,0,,,兑换,0,syz,hero_syz,4,1,ShenNvQiSuo,img_job_bg_1,0

@@ -288,6 +288,18 @@
         "expiration_time": ""
     },
     {
+        "id": "1033",
+        "name": "2023夏日限定聊天气泡",
+        "quality": "6",
+        "end_time": "0",
+        "icon_thing": "1033.png",
+        "icon_left": "1033_l.png",
+        "icon_right": "1033_r.png",
+        "desc": "2023夏日限定聊天气泡",
+        "is_permanent": "",
+        "expiration_time": ""
+    },
+    {
         "id": "2000",
         "name": "社群聊天气泡1",
         "quality": "6",
@@ -320,6 +332,30 @@
         "icon_left": "2002_l.png",
         "icon_right": "2002_r.png",
         "desc": "社群聊天气泡3",
+        "is_permanent": "",
+        "expiration_time": ""
+    },
+    {
+        "id": "2003",
+        "name": "2023荣耀气泡-金",
+        "quality": "6",
+        "end_time": "0",
+        "icon_thing": "2003.png",
+        "icon_left": "2003_l.png",
+        "icon_right": "2003_r.png",
+        "desc": "2023荣耀气泡-金",
+        "is_permanent": "",
+        "expiration_time": ""
+    },
+    {
+        "id": "2004",
+        "name": "2023荣耀气泡-银",
+        "quality": "6",
+        "end_time": "0",
+        "icon_thing": "2004.png",
+        "icon_left": "2004_l.png",
+        "icon_right": "2004_r.png",
+        "desc": "2023荣耀气泡-银",
         "is_permanent": "",
         "expiration_time": ""
     },

@@ -6,7 +6,7 @@
         "job": "0",
         "divide_value": "5",
         "limit_times": "60",
-        "desc": "解锁后，5次女神冒险（0/60），全体女神获得50点防御。（当前增加0）"
+        "desc": "解锁后，每5次女神冒险（0/60），全体女神获得50点防御。（当前增加0）"
     },
     {
         "effect_id": "2",
@@ -15,7 +15,7 @@
         "job": "0",
         "divide_value": "5",
         "limit_times": "60",
-        "desc": "解锁后，5次女神冒险（0/60），全体女神获得100点防御。（当前增加0）"
+        "desc": "解锁后，每5次女神冒险（0/60），全体女神获得100点防御。（当前增加0）"
     },
     {
         "effect_id": "3",
@@ -24,7 +24,7 @@
         "job": "0",
         "divide_value": "5",
         "limit_times": "60",
-        "desc": "解锁后，5次女神冒险（0/60），全体女神获得150点防御。（当前增加0）"
+        "desc": "解锁后，每5次女神冒险（0/60），全体女神获得150点防御。（当前增加0）"
     },
     {
         "effect_id": "4",
@@ -33,7 +33,7 @@
         "job": "0",
         "divide_value": "5",
         "limit_times": "60",
-        "desc": "解锁后，每次5次女神冒险（0/60），全体女神获得200点防御。（当前增加0）"
+        "desc": "解锁后，每5次女神冒险（0/60），全体女神获得200点防御。（当前增加0）"
     },
     {
         "effect_id": "5",
@@ -42,7 +42,7 @@
         "job": "0",
         "divide_value": "5",
         "limit_times": "60",
-        "desc": "解锁后，每次5次女神冒险（0/60），全体女神获得250点防御。（当前增加0）"
+        "desc": "解锁后，每5次女神冒险（0/60），全体女神获得250点防御。（当前增加0）"
     },
     {
         "effect_id": "6",
@@ -412,5 +412,113 @@
         "divide_value": "1",
         "limit_times": "30",
         "desc": "解锁后，每拥有1件宝物（0/30），全体女神基础属性提升1200。(当前增加0）"
+    },
+    {
+        "effect_id": "47",
+        "type": "9",
+        "fight_attribute": "2:17:80",
+        "job": "0",
+        "divide_value": "3",
+        "limit_times": "60",
+        "desc": "解锁后，每挑战3次公会boss（0/60），全体女神破防等级提升80。(当前增加0）"
+    },
+    {
+        "effect_id": "48",
+        "type": "9",
+        "fight_attribute": "2:17:160",
+        "job": "0",
+        "divide_value": "3",
+        "limit_times": "60",
+        "desc": "解锁后，每挑战3次公会boss（0/60），全体女神破防等级提升160。(当前增加0）"
+    },
+    {
+        "effect_id": "49",
+        "type": "9",
+        "fight_attribute": "2:17:240",
+        "job": "0",
+        "divide_value": "3",
+        "limit_times": "60",
+        "desc": "解锁后，每挑战3次公会boss（0/60），全体女神破防等级提升240。(当前增加0）"
+    },
+    {
+        "effect_id": "50",
+        "type": "9",
+        "fight_attribute": "2:17:320",
+        "job": "0",
+        "divide_value": "3",
+        "limit_times": "60",
+        "desc": "解锁后，每挑战3次公会boss（0/60），全体女神破防等级提升320。(当前增加0）"
+    },
+    {
+        "effect_id": "51",
+        "type": "9",
+        "fight_attribute": "2:17:400",
+        "job": "0",
+        "divide_value": "3",
+        "limit_times": "60",
+        "desc": "解锁后，每挑战3次公会boss（0/60），全体女神破防等级提升400。(当前增加0）"
+    },
+    {
+        "effect_id": "52",
+        "type": "9",
+        "fight_attribute": "2:17:480",
+        "job": "0",
+        "divide_value": "3",
+        "limit_times": "60",
+        "desc": "解锁后，每挑战3次公会boss（0/60），全体女神破防等级提升480。(当前增加0）"
+    },
+    {
+        "effect_id": "53",
+        "type": "10",
+        "fight_attribute": "2:5:90",
+        "job": "0",
+        "divide_value": "5",
+        "limit_times": "60",
+        "desc": "解锁后，竞技场每挑战5次（0/60），全体女神防御力提升90。(当前增加0）"
+    },
+    {
+        "effect_id": "54",
+        "type": "10",
+        "fight_attribute": "2:5:180",
+        "job": "0",
+        "divide_value": "5",
+        "limit_times": "60",
+        "desc": "解锁后，竞技场每挑战5次（0/60），全体女神防御力提升180。(当前增加0）"
+    },
+    {
+        "effect_id": "55",
+        "type": "10",
+        "fight_attribute": "2:5:270",
+        "job": "0",
+        "divide_value": "5",
+        "limit_times": "60",
+        "desc": "解锁后，竞技场每挑战5次（0/60），全体女神防御力提升270。(当前增加0）"
+    },
+    {
+        "effect_id": "56",
+        "type": "10",
+        "fight_attribute": "2:5:360",
+        "job": "0",
+        "divide_value": "5",
+        "limit_times": "60",
+        "desc": "解锁后，竞技场每挑战5次（0/60），全体女神防御力提升360。(当前增加0）"
+    },
+    {
+        "effect_id": "57",
+        "type": "10",
+        "fight_attribute": "2:5:450",
+        "job": "0",
+        "divide_value": "5",
+        "limit_times": "60",
+        "desc": "解锁后，竞技场每挑战5次（0/60），全体女神防御力提升450。(当前增加0）"
+    },
+    {
+        "effect_id": "58",
+        "type": "10",
+        "fight_attribute": "2:5:540",
+        "job": "0",
+        "divide_value": "5",
+        "limit_times": "60",
+        "desc": "解锁后，竞技场每挑战5次（0/60），全体女神防御力提升540。(当前增加0）"
     }
 ]

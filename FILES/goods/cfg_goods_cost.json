@@ -2968,6 +2968,20 @@
         "icon_kor": ""
     },
     {
+        "cfg_id": "4000019",
+        "max_count": "99999999",
+        "quality": "6",
+        "restore": "1",
+        "day_limit_count": "0",
+        "limit_group": "0",
+        "limit_level": "60",
+        "name": "摩羯座的记忆晶元",
+        "show_in_bag": "0",
+        "icon": "4000019.png",
+        "description": "用于提升摩羯座的梦境中记忆宝珠的等级",
+        "icon_kor": ""
+    },
+    {
         "cfg_id": "8000000",
         "max_count": "99999999",
         "quality": "6",
