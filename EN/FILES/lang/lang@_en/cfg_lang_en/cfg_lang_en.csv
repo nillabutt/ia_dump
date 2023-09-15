@@ -21087,7 +21087,7 @@ VIP_CONTENT_WORLD_BOSS_FIGHT_COUNT,World Boss Challenge Attempts: {0}
 VIP_CONTENT_WARCRAFT_CITY_NUM,Daily purchases for Seeking Energy: {0}
 HOLIDAY_END_LESS_BOSS_TIPS,Unlocked after defeating all trial bosses ({0})
 END_LESS_COMPLETE_COUNT,Completed: {0} times
-OUTLAND_MUSEUM_SHOP_REFRESH,This refresh costs {0} Diamonds. Confirm?
+OUTLAND_MUSEUM_SHOP_REFRESH,This refresh costs {0} Miracle Essence. Confirm?
 Level Privileges,
 VIP_LEVEL,VIP {0}
 YOU_ARE_IN_BLACK_LIST,You have been blacklisted
@@ -21629,5 +21629,7 @@ Resilient Spirit,
 ,
 "The Tortoise is the incarnation of the North Sea. She herself is the entire ocean, encompassing everything. She has all the knowledge in the world, and is therefore considered the patron saint of those who seek knowledge.\nAt the same time, she is also a represent of achievements. She records the names of all heroes from ancient times to the present. In some places, people will carve her image as a monument, and engrave various legends on the monument.\nThe Tortoise is also a god of water. She is in charge of the mountains and rivers in Shenzhou and guards rivers. Within her jurisdiction, there will never be a flood.",
 Pristine Haven-Divine Haven,
-Absorbs one attack and increases ATK by 20%,
 Increases DMG taken by 10%,
+Absorbs one attack and increases ATK by 20%,
+Power of War - War Domain,
+Increases DMG Increase and DMG Taken,
