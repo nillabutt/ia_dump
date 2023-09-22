@@ -194,6 +194,10 @@
 125302811,,,Bleed-Love whirlpool,YuanFen_LX,Cannot receive any healing for 2 round,0
 1253021011,,,Weaken-Love whirlpool,YuanFen_XR,ATK decreased by 60% for 2 rounds,0
 135301111,,,护盾-情深意长,,Obtain non-dispellable shield of 15% Max ATK for 1 round,0
+155301111,,,加速-奇缘祝祷,,增加速度,0
+155301211,,,Fate - Blessed Encounter,YinYuan,"After her action, boosts allies and herself according to the layer of [Fate]",999
+155302111,,,Fate - Blessed Encounter,YinYuan,Increase ATK,0
+155302211,,,Fate - Blessed Encounter,YinYuan,Increase DEF,0
 155201111,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),0
 155201211,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),0
 155201311,,,必暴-神风之刃,,,0
@@ -361,9 +365,9 @@
 137401112,,,魅惑-迷乱魔纹（隐藏）,,,0
 147401111,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",0
 147401112,,,魅惑-狂乱烙印（隐藏）,,,0
-157401111,,,Pristine Haven-Divine Haven,ShenYou,抵挡一次伤害，提高20%攻击力,0
+157401111,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,0
 157401211,,,无视异抗-圣洁圣域,,增加50%无视异常抵抗,0
-157402111,,,Pristine Haven-Divine Haven,ShenYou,抵挡一次伤害，提高20%攻击力,0
+157402111,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,0
 117501112,,,Zeus' Rule -Lightning Field,ShenWang,Auto attack all enemies in each round,0
 127501113,,,Zeus' Rule -Thunder Sanctuary,ShenWang,Auto attack all enemies in each round,0
 127501115,,,Thunder Shield-Thunder Sanctuary,LeiDun,retaliate against enemy when taking DMG,0
@@ -381,6 +385,8 @@
 127701211,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points",2
 137702211,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,0
 147702211,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,0
+157701111,,,加速-烈怒迅雷,,提高速度,0
+157702111,1002_buff,,麻痹-烈怒迅雷,YunXuan,Cannot perform actions for 1 round,0
 117801211,,,Blaze-Blazing Sun,ZhuoShao,Deals a certain amount of DMG for 4 rounds,0
 127801211,,,护盾-太阳神力,,,0
 127801311,,,Blaze-Solar Impact,ZhuoShao,Deals a certain amount of DMG for 4 rounds,0
@@ -429,7 +435,7 @@
 158202111,,,Malediction - Heartless Cage,CuiRuo,Increases DMG taken by 1% for each layer,999
 128302111,,,标记,,,0
 158301111,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,10
-158302211,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Taken,0
+158302211,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,0
 158302311,,,Power of War - War Domain,,,0
 55551102,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,0
 55551212,,,War,,反伤增加70%,0

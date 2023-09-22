@@ -22,4 +22,6 @@ dungeon_map_id,is_lock,name,memory_goods_id,heroes,task_condition,img_big,img_sm
 21,0,Pisces’s Dreamland,4000021,126,500021,shuangyuzuo_bg_big.png,shuangyuzuo_bg_small.png
 22,0,Venus’s Dreamland,4000022,132,500022,weinasi_bg_big.png,weinasi_bg_small.png
 23,0,Ares's Dreamland,4000023,138,500023,aruisi_bg_big.png,aruisi_bg_small.png
+24,0,Enmusubi’s Dreamland,4000024,144,500024,yuanjieshen_bg_big.png,yuanjieshen_bg_small.png
+25,0,Thor's Dreamland,4000025,150,500025,suoer_bg_big.png,suoer_bg_small.png
 101,1,Stay tuned,3000150,6,500001,hela_bg_big.png,hela_bg_small.png

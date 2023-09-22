@@ -4300,6 +4300,169 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34200163,34200164,,NuwaJingu,,1,SE_UR,HFSTS0,2,Thor,You indeed qualify to lead more warrior souls. The current you is much different from before you lost your memory.,,0,0
 34200164,34200165,,NuwaJingu,,1,SE_UR,HFSTS0,2,Thor,"Regarding the division of realms between Greek and Norse warriors, I think we can discuss it again.",,0,0
 34200165,-1,,NuwaJingu,,1,ARS_UR_PLUS,HL0,1,Ares,"Before that, I need to settle some scores with Hades...",,0,0
+34300001,34300002,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,Sigh. I was kicked out by Amaterasu again. She's so stubborn! Telling me to reconsider the meaning of fate.,,0,0
+34300002,34300003,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"I see you hiding alone in the bamboo forest, feeling sorry for yourself. The moon is beautfiful tonight, why don't you come out and look?",,0,0
+34300003,34300004,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,Who are you?,,0,0
+34300004,34300005,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Let me introduce myself - I am Pandora, the Goddess of Secrets and Knowledge. I am the one who always ends up solving the problems of goddesses.",,0,0
+34300005,34300006,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,Are you really able to do that? Then can you help me find the meaning of fate?,,0,0
+34300006,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"If the price you offer is good enough, I won't be able to refuse. Of course, you have to show me see your strength first.",,0,0
+34300007,34300008,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,"This should be enough, right?",,0,0
+34300008,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Hmm, not bad, a little better than I expected. Okay, we have a deal.",,0,0
+34300009,34300010,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Cupid, I have a job for you.",,0,0
+34300010,34300011,,NuwaJingu,,1,QBT_UR,HFSTS0,2,Cupid,"What do you want, Pandora?",,0,0
+34300011,34300012,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,I am here today for this Eastern goddess. Please listen to her request.,,0,0
+34300012,34300013,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,"I am Enmusubi from the Yamato Clan. Nice to meet you, Cupid. I would like to ask you about the meaning of fate. This is very important to me.",,0,0
+34300013,34300014,,NuwaJingu,,1,QBT_UR,HFSTS0,2,Cupid,"Fate is the stepping stone to happiness, the pulling thread of love, and the light that guides my arrow.",,0,0
+34300014,34300015,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,Would you like to demonstrate it to me?,,0,0
+34300015,-1,,NuwaJingu,,1,QBT_UR,HFSTS0,2,Cupid,Of course.,,0,0
+34300016,34300017,,NuwaJingu,,1,QBT_UR,HFSTS0,2,Cupid,"Enmusubi, do you get it now?",,0,0
+34300017,-1,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,"Thank you for your guidance, Cupid.",,0,0
+34300018,34300019,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,"Who is that noble goddess in the distance? Oh my gosh, she is so beautiful!",,0,0
+34300019,34300020,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"She is Venus, the Goddess of Love and Beauty, and the mother of Cupid. You can ask her about fate.",,0,0
+34300020,34300021,,NuwaJingu,,1,WNS_UR,HFSTS0,2,Venus,"My fairies have conveyed the news of your arrival to me. Nice to meet you, everyone.",,0,0
+34300021,34300022,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,Can I ask you about fate?,,0,0
+34300022,-1,,NuwaJingu,,1,WNS_UR,HFSTS0,2,Venus,Of course.,,0,0
+34300023,34300024,,NuwaJingu,,1,WNS_UR,HFSTS0,2,Venus,"Fate is an eternal connection between blood, a family relationship that cannot be severed, just like Cupid and I.",,0,0
+34300024,34300025,,NuwaJingu,,1,ZRNZ0,HFSTS0,1,Enmusubi,"I understand. It is a kind of hidden power, a bond that cannot be changed by external forces!",,0,0
+34300025,-1,,NuwaJingu,,1,WNS_UR,HFSTS0,2,Venus,"That is correct, Enmusubi.",,0,0
+34300026,34300027,,NuwaJingu,,1,HL_UR,HL0,2,Hera,"Pandora, are you here to meet Zeus?",,0,0
+34300027,34300028,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,I brought this Eastern goddess to you. She has some questions and needs your guidance.,,0,0
+34300028,34300029,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,1,Enmusubi,"Your Majesty, Queen Hera, I would like to ask you about the true meaning of fate.",,0,0
+34300029,34300030,,NuwaJingu,,1,HL_UR,HL0,2,Hera,"Fate? Hmm this must be what your culture refers to it as. We Greeks called it destiny. No matter love or hate, we are all guided by destiny.",,0,0
+34300030,-1,,NuwaJingu,,1,HL_UR,HL0,2,Hera,"In my opinion, as long as I like something, I must pursue it relentlessly and hold my destiny firmly in my hands.",,0,0
+34300031,34300032,,NuwaJingu,,1,HL_UR,HL0,2,Hera,"It seems that you have understood the Greeks' understanding of fate, and I hope that will become part of your understanding of fate.",,0,0
+34300032,-1,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,1,Enmusubi,"Thank you for your guidance, Lady Hera.",,0,0
+34300033,34300034,,NuwaJingu,,1,FLJ_UR,HL0,2,Frigga,"Welcome to Asgard, hehe... Are you also here to seek guidance on love?",,0,0
+34300034,34300035,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Be careful, Enmusubi. Frigga can be... unpredictable.",,0,0
+34300035,34300036,,NuwaJingu,,1,HL_UR,HL0,2,Hera,"It doesn't matter, she is just a fool who is obsessed with love. As long as I am here, she will not hurt you.",,0,0
+34300036,34300037,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,1,Enmusubi,"I would like to ask your opinion on fate, Lord Frigga. If you don't mind, please give me some guidance.",,0,0
+34300037,-1,,NuwaJingu,,1,FLJ_UR,HL0,2,Frigga,"Oh, fate...that is a promise that lasts until death, and a love that lasts forever.",,0,0
+34300038,34300039,,NuwaJingu,,1,FLJ_UR,HL0,2,Frigga,"Even if you resist, you can't escape from this choice of love.",,0,0
+34300039,34300040,,NuwaJingu,,1,HL_UR,HL0,2,Hera,"I can understand your thinking, but this is too extreme.",,0,0
+34300040,-1,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,1,Enmusubi,"In any case, thank you for your teaching, Lady Frigga.",,0,0
+34300041,34300042,,NuwaJingu,,1,GY0,HFSTS0,2,Gaia,"Welcome, My children, it is a pleasure to see you visiting Me. Oh... there's a new face here, welcome, welcome.",,0,0
+34300042,34300043,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Mother Goddess Gaia, this is Enmusubi from the East, she wants to seek guidance from you.",,0,0
+34300043,34300044,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,1,Enmusubi,"Lady Gaia, I would like to ask you what fate is.",,0,0
+34300044,34300045,,NuwaJingu,,1,GY0,HFSTS0,2,Gaia,"Ah, fate... Fate is the expectation of childbirth, the bond of blood, and the first pulse that gives birth to everything.",,0,0
+34300045,-1,,NuwaJingu,,1,GY0,HFSTS0,2,Gaia,"Perhaps I should guide you myself, come, goddess of the East.",,0,0
+34300046,34300047,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,1,Enmusubi,"I think I understand what you mean, thank you, Lady Gaia.",,0,0
+34300047,-1,,NuwaJingu,,1,GY0,HFSTS0,2,Gaia,"There are more guides awaiting your exploration ahead, go, Enmusubi.",,0,0
+34300048,34300049,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,Rabbit? How come you're here?,,0,0
+34300049,34300050,,NuwaJingu,,1,MT0,HFSTS0,2,Zodiac Rabbit,"Chang'e said... Sister Chang'e wants to break off her relationship with me, boohoo!",,0,0
+34300050,34300051,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,Why does she want to break up with you?,,0,0
+34300051,34300052,,NuwaJingu,,1,MT0,HFSTS0,2,Zodiac Rabbit,She said I was too greedy and didn’t know how to save food...,,0,0
+34300052,-1,,NuwaJingu,,1,MT0,HFSTS0,2,Zodiac Rabbit,"Anyway, you have to help me, or I'm going to lose my best friend!",,0,0
+34300053,34300054,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"You and Fairy Chang'e have an inseparable bond of friendship, and you will definitely get back together!",,0,0
+34300054,-1,,NuwaJingu,,1,MT0,HFSTS0,2,Zodiac Rabbit,"I feel relieved to hear you say that, hee hee!",,0,0
+34300055,34300056,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"Fairy Chang'e, turns out you're here.",,0,0
+34300056,34300057,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,"Ah, it's Enmusubi, have you seen Rabbit? I accidentally pissed her off.",,0,0
+34300057,34300058,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"I just saw her. Oh, she is looking for you too.",,0,0
+34300058,34300059,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,Is she still mad at me? I shouldn't have been so harsh to her.,,0,0
+34300059,-1,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"Rather than being mad, she is very afraid of losing you. Go find her.",,0,0
+34300060,34300061,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,I want to have a heartfelt talk with her.,,0,0
+34300061,-1,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,Just remember to be gentle and don't scare her away again.,,0,0
+34300062,34300063,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"You're back, Enmusubi. I hope you've found the answer you were looking for.",,0,0
+34300063,34300064,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"You were right, Lady Amaterasu. My understanding of fate is too shallow. I have learned a lot on this journey.",,0,0
+34300064,34300065,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"Fate is not only related to love, but also to family and friendship.",,0,0
+34300065,-1,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"I'm glad you realize this, but your trial is not over. You must prove to me that you have the power to control fate.",,0,0
+34300066,34300067,,NuwaJingu,,0,TZDS2,HFSTS0,2,Amaterasu,"You have done well. As Ruler of the heavenly realm Takamagahara, I now restore your status as the God of Fate",,0,0
+34300067,34300068,,NuwaJingu,,0,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"Thank you, Your Majesty Amaterasu. Actually I still have one regret...",,0,0
+34300068,34300069,,NuwaJingu,,0,TZDS2,HFSTS0,2,Amaterasu,"Tell me, Enmusubi.",,0,0
+34300069,34300070,,NuwaJingu,,0,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"I once made a mistake in a marriage, which turned into a tragedy. That is the fate of Kaguya.",,0,0
+34300070,-1,,NuwaJingu,,0,TZDS2,HFSTS0,2,Amaterasu,"If given the chance, would you like to correct this regret?",,0,0
+34300071,-1,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"You're not ready, maybe you should wait until a better time.",,0,0
+34300072,-1,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,I will summon her so that you may fulfill this promise.,,0,0
+34300073,34300074,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"Kaguya, Daughter of the Moon, heed my call and come to me.",,0,0
+34300074,34300075,,NuwaJingu,,1,HYJ0,HFSTS0,2,Princess Kaguya,"I answer your call, Lady Amaterasu.",,0,0
+34300075,34300076,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,Enmusubi wants to undo the tragedy of your marriage and make you truly happy.,,0,0
+34300076,34300077,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"If you are willing to give me a chance, I would like to create a new marriage for you.",,0,0
+34300077,-1,,NuwaJingu,,1,HYJ0,HFSTS0,2,Princess Kaguya,"I am willing, but you must first remove the red rope that binds my body.",,0,0
+34300078,34300079,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,I... I succeeded.,,0,0
+34300079,34300080,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"Congratulations, you successfully solved Kaguya's evil fate. Congratulations to you too, Kaguya, you are no longer bound by the past.",,0,0
+34300080,34300081,,NuwaJingu,,1,HYJ0,HFSTS0,2,Princess Kaguya,"Thank you, Enmusubi.",,0,0
+34300081,-1,,NuwaJingu,,1,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"With this, I can return to my own divine realm, with peace of mind.",,0,0
+34400001,34400002,,NuwaJingu,,1,SE0,HL0,1,Thor,"Solemn secrets and the goddess of knowledge, Pandora, I summon you in the name of the Nordic Thunder God! Heed my wish!",,0,0
+34400002,34400003,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Oh my! Who's calling me at this time? Can't you see I'm in the middle of my beauty routine?,,0,0
+34400003,34400004,,NuwaJingu,,1,SE0,HL0,1,Thor,"It's me, Thor, the Thunder God. I've lost my hammer... Yes, my weapon, Mjölnir. I beg you to help me.",,0,0
+34400004,34400005,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Of course, I'm always happy to assist fellow deities in distress. But I must remind you—one thing, my services aren't free.",,0,0
+34400005,34400006,,NuwaJingu,,1,SE0,HL0,1,Thor,"I have countless gold and jewels at my disposal, name your price and it's yours.",,0,0
+34400006,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Deal. Let's get started then. Show me what you've got and we'll see if you're worthy of my services.,,0,0
+34400007,34400008,,NuwaJingu,,1,SE0,HL0,1,Thor,"I trust you've witnessed the full extent of my power, Pandora. Do you deem me worthy?",,0,0
+34400008,34400009,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Alright, you've proven yourself. Let's use the crystal ball to foresee where your hammer was last seen.",,0,0
+34400009,34400010,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"This is... I believe you should recognize this angel, Thor.",,0,0
+34400010,-1,,NuwaJingu,,1,SE0,HL0,1,Thor,"Damn it, it's Loki! I knew she had something to do with this!",,0,0
+34400011,34400012,,NuwaJingu,,1,SE0,HL0,1,Thor,"Loki, I know you're here. Show yourself, or I'll electrify this entire house!",,0,0
+34400012,34400013,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,I'm coming out... just don't destroy anything in my collection room.,,0,0
+34400013,34400014,,NuwaJingu,,1,SE0,HL0,1,Thor,Return my hammer.,,0,0
+34400014,34400015,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,Hammer? What hammer... uh.,,0,0
+34400015,34400016,,NuwaJingu,,1,SE0,HL0,1,Thor,Don't play innocent with me. I saw everything in Pandora's crystal ball.,,0,0
+34400016,34400017,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,What? You guys used a crystal ball to pry into others' secrets? You're such villains!,,0,0
+34400017,34400018,,NuwaJingu,,1,SE0,HL0,1,Thor,Stop changing the subject and give me back my hammer.,,0,0
+34400018,-1,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,"Heh, if you're so powerful, why don't you come and take it?",,0,0
+34400019,34400020,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,"Uh... I'm really sorry, but I broke your hammer... shattered it into many pieces and gave them away.",,0,0
+34400020,-1,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,"Heh, for starters, the hammer handle was given to the Valkyrie. If you're lucky, you can get it back before it's turned into an axe handle.",,0,0
+34400021,34400022,,NuwaJingu,,1,WEJL2,HL0,2,Valkyrie,"Hey there, what brings you around, Thor? You're usually so busy.",,0,0
+34400022,34400023,,NuwaJingu,,1,SE0,HL0,1,Thor,Let's cut to the chase. Didn't Loki give you a wooden handle recently?,,0,0
+34400023,34400024,,NuwaJingu,,1,WEJL2,HL0,2,Valkyrie,"Ah, that one? Is it yours? I assume you've come to reclaim it?",,0,0
+34400024,34400025,,NuwaJingu,,1,SE0,HL0,1,Thor,"If you feel like you're losing out, I can trade it for some treasures.",,0,0
+34400025,-1,,NuwaJingu,,1,WEJL2,HL0,2,Valkyrie,"I'm not interested in treasures. Just spar with me for a bit, and I'll return it to you.",,0,0
+34400026,34400027,,NuwaJingu,,1,SE0,HL0,1,Thor,"Valkyrie, can you return my hammer handle now?",,0,0
+34400027,-1,,NuwaJingu,,1,WEJL2,HL0,2,Valkyrie,"Of course, take it. You've earned it.",,0,0
+34400028,34400029,,NuwaJingu,,1,ANBS0,HL0,2,Anubis,"Who dares summon the great god of death? Oh, little Loki, what brings you here this time?",,0,0
+34400029,34400030,,NuwaJingu,,1,LJ_UR,HL0,2,Loki,"Heh... so, about that shard I gave you last time, the one that sparks and buzzes. Can I have it back?",,0,0
+34400030,34400031,,NuwaJingu,,1,ANBS0,HL0,2,Anubis,"It's now on display in my cabinet. You wish to reclaim it? Hahaha, what makes you think I'd agree to that?",,0,0
+34400031,34400032,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"Excuse me, Lord of the Dead, I hope you can return it to me. It's of utmost importance.",,0,0
+34400032,-1,,NuwaJingu,,1,ANBS0,HL0,2,Anubis,"I've heard of you, Thunder God Thor. I'm willing to return your treasure, but I have a request: battle me.",,0,0
+34400033,34400034,,NuwaJingu,,1,ANBS0,HL0,2,Anubis,"You've won, it was a fair fight! I'm satisfied. Take what you came for.",,0,0
+34400034,-1,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"Thank you for your generosity, Anubis.",,0,0
+34400035,34400036,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"Greetings, Norse goddesses. Oh, you're Thor, the Thunder God. Are you here to reclaim a fragment of your hammer?",,0,0
+34400036,34400037,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"Indeed, I suppose retrieving it from you won't be easy.",,0,0
+34400037,34400038,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"No, on the contrary, we Egyptian deities are known for our generosity. However, I do have a small favor to ask.",,0,0
+34400038,34400039,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,I've crafted a new staff and I'm looking for a powerful goddess to test its might. Most Egyptian angels are a bit delicate...,,0,0
+34400039,-1,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"Not an issue. When it comes to physical strength, I'm unrivaled in Norse mythology!",,0,0
+34400040,34400041,,NuwaJingu,,1,SE_UR,HL0,1,Thor,So?,,0,0
+34400041,34400042,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,Not quite ideal. The crystal portion needs enhancement and the staff itself is too heavy; most angels might struggle to wield it.,,0,0
+34400042,-1,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"... Regardless, I appreciate your assistance in testing. Here, take the shard. It's indeed a fine material.",,0,0
+34400043,34400044,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"Thor, the Thunder God? A rare visitor indeed. How's Odin? When you see her, do send my regards.",,0,0
+34400044,34400045,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"Greetings, Ra. I'm here to reclaim a fragment of my hammer.",,0,0
+34400045,34400046,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"A shard? Are you referring to the piece Loki gave me? Sure, but I have a challenge for you.",,0,0
+34400046,34400047,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"I accept your challenge, Ra.",,0,0
+34400047,-1,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"Excellent, let's begin then.",,0,0
+34400048,34400049,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,You've passed my test and lived up to my expectations. Here's your prize.,,0,0
+34400049,-1,,NuwaJingu,,1,SE_UR,HL0,1,Thor,"I appreciate your understanding and generosity, Ra.",,0,0
+34400050,34400051,,NuwaJingu,,1,ARS_UR,HL0,2,Ares,"Pandora, you'd better have a good reason for bringing these outsiders into my territory.",,0,0
+34400051,34400052,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"I apologize for the intrusion. I am Thor, the Norse God of Thunder. I have urgent business with Zeus.",,0,0
+34400052,34400053,,NuwaJingu,,1,ARS_UR,HL0,2,Ares,What business? Report it to me directly.,,0,0
+34400053,34400054,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,All you Greek gods are so arrogant. Don't you have any manners?,,0,0
+34400054,-1,,NuwaJingu,,1,ARS_UR,HL0,2,Ares,Manners? Do they make one stronger? All I desire is power!,,0,0
+34400055,34400056,,NuwaJingu,,1,ARS_UR,HL0,2,Ares,"Not bad, not bad at all. You managed to make me back down.",,0,0
+34400056,34400057,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"You're quite impressive yourself, Ares, and you didn't even use your full strength.",,0,0
+34400057,-1,,NuwaJingu,,1,ARS_UR,HL0,2,Ares,"Hmph, I acknowledge your strength. Go on, Zeus is waiting for you in the Pantheon.",,0,0
+34400058,34400059,,NuwaJingu,,1,ABL_UR,HFSTS0,2,Apollo,"I've anticipated your arrival, Norse God of Thunder, Thor. Allow me to reforge your hammer.",,0,0
+34400059,34400060,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"It's an honor, great God of Light, Apollo... I have all the fragments here.",,0,0
+34400060,34400061,,NuwaJingu,,1,ABL_UR,HFSTS0,2,Apollo,Lift up the shards of your hammer. I will reignite its core with the heat of the sun.,,0,0
+34400061,-1,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"Be careful, its core still possesses a strong magnetic field.",,0,0
+34400062,34400063,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"Ah, it's too heavy...",,0,0
+34400063,34400064,,NuwaJingu,,1,ABL_UR,HFSTS0,2,Apollo,The sun's heat has added gravity to its core. You'll need to get used to it again.,,0,0
+34400064,-1,,NuwaJingu,,1,ABL_UR,HFSTS0,2,Apollo,"This hammer is currently just a raw form. It needs to be blessed by Zeus's lightning for its rebirth. Go on, Zeus is waiting for you.",,0,0
+34400065,34400066,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Welcome to my domain, Thor, God of Thunder. Apollo has informed me of your intentions for this visit.",,0,0
+34400066,34400067,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"Apollo has already helped me forge the raw form of the hammer. Now, I wish to request you to temper it with your lightning.",,0,0
+34400067,34400068,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"That won't be an easy task, Thor.",,0,0
+34400068,34400069,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"No matter how difficult the process, I believe I can handle it!",,0,0
+34400069,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,Then raise your war hammer and feel every bolt of lightning I send your way!,,0,0
+34400070,34400071,,NuwaJingu,,0,ZS_UR,HFSTS0,2,Zeus,"You've succeeded, Thor. It's been completely reforged, even more powerful than before.",,0,0
+34400071,34400072,,NuwaJingu,,0,SE_UR_PLUS,HL0,1,Thor,"Thank you, Lord Zeus.",,0,0
+34400072,34400073,,NuwaJingu,,0,ZS_UR,HFSTS0,2,Zeus,"I have a small gift here, if you're willing to accept it.",,0,0
+34400073,34400074,,NuwaJingu,,0,SE_UR_PLUS,HL0,1,Thor,What is it?,,0,0
+34400074,-1,,NuwaJingu,,0,ZS_UR,HFSTS0,2,Zeus,"A thunder orb. It's perilous, even I can barely control it. If you wish, I can embed it into your hammer.",,0,0
+34400075,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Alright, I understand your concerns. Let's discuss this once you've further honed your skills.",,0,0
+34400076,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Be cautious then. I'm about to unleash its inner force, and you must resist it before embracing it.",,0,0
+34400077,34400078,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,Who dares attempt to unleash this world-destroying thunder? That power belongs to the dragon clan. You shall not touch it!,,0,0
+34400078,-1,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,I was just looking for a way to test the power of this hammer. I believe a dragon's head should be tough enough!,,0,0
+34400079,34400080,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"I have won, the power of this orb is mine!",,0,0
+34400080,34400081,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,Your victory will be spoken of throughout the dragon clan. Don't celebrate too soon; other mighty dragons will soon challenge you.,,0,0
+34400081,34400082,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"Let them come as they please. For now, I just wish to quietly accept this newfound strength.",,0,0
+34400082,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Indeed, embrace the power of the orb and then ascend.",,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
 40001,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0

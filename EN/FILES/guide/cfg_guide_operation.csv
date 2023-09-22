@@ -214,6 +214,10 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 200165,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_66,,,1,0,0
 200166,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_67,,,1,0,0
 200167,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_68,,,1,0,0
+200168,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_69,,,1,0,0
+200169,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_70,,,1,0,0
+200170,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_71,,,1,0,0
+200171,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_72,,,1,0,0
 200201,0,0,0,0.2,0|0,↓,300|550|1,Enter Dungeon,3D_DungeonNode_1_Name,,100|100,1,1,0
 200202,0,1,0,0.2,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
 201001,1,0,0,0.3,,→,345|850|1,Swipe left to the next page,,,,1,0,0
@@ -319,7 +323,7 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 310002,0,1,0,0.3,0|0,↓,-124|380,"Look, a rift appeared out of nowhere. Let’s go and check out what happened.",OutlandMainUIScene(Clone)|Building_boss,,,0,0,0
 310100,0,1,0,0.3,0|0,↑,150|-378,Tap to unlock Miracle Temple,OutlandMainUIScene(Clone)|Building_bwg,,,0,0,0
 310101,0,1,0,0.3,0|0,↓,150|-222,Tap to unlock the Treasure Realm,OutlandMainUIScene(Clone)|Building_xbmj,,,0,0,0
-310102,0,1,0,0.3,0|0,↑,150|-378,Tap the Miracle Card,Guide_Treasure_UITpl,,200|260,0,0,0
+310102,0,1,0,0.3,0|0,↑,-100|-378,Tap the Miracle Card,Guide_Treasure_UITpl,,200|260,0,0,0
 310103,0,1,0,0.3,0|0,↑,10|-378,Tap the dispatching list,OSLDispatchUIScene(Clone)|ScrollView_item|ItemOSDStateUITpl(Clone),,680|275,0,0,0
 310104,0,1,0,0.3,0|0,↑,-14|192,Tap to select a Eudemon,OSLDetailUIDialog(Clone)|ItemOSLAnimalUITpl,,,0,0,0
 310105,0,1,0,0.3,0|0,↑,10|231,Tap to dispatch,OSLDetailUIDialog(Clone)|Button_dispatch,,,0,0,0

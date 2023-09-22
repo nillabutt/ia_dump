@@ -67,3 +67,7 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide
 66,Mozambique,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200165,0
 67,South Africa,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200166,0
 68,Madagascar,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200167,0
+69,Somalia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200168,1
+70,Uganda,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200169,0
+71,Kenya,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200170,0
+72,Tanzania,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200171,0

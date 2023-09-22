@@ -58,6 +58,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 1157,Cycle Sword,1123.png,0,1,280,3:40844|4:44622,740,100
 1158,Evolving Sword,1124.png,0,1,285,3:42548|4:46269,750,100
 1159,Transcending Sword,1125.png,0,1,290,3:44252|4:47916,760,100
+1160,Galactic Sword,1126.png,0,1,295,3:45956|4:49563,770,100
+1161,Cosmic Sword,1127.png,0,1,300,3:47660|4:51210,780,100
 3001,Cloth Cap,3001.png,0,2,1,7:3,4,100
 3002,Blossoms,3002.png,0,2,5,7:13,10,100
 3003,Thick Cap,3003.png,0,2,10,7:33,20,100
@@ -117,6 +119,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 3057,Cycle Helmet,3023.png,0,2,280,7:28059,740,100
 3058,Evolving Helmet,3024.png,0,2,285,7:29259,750,100
 3059,Transcending Helmet,3025.png,0,2,290,7:30459,760,100
+3060,Galactic Helmet,3026.png,0,2,295,7:31659,770,100
+3061,Cosmic Helmet,3027.png,0,2,300,7:32859,780,100
 5001,Recruit,5001.png,0,4,1,5:3,4,100
 5002,Chaine Armor,5002.png,0,4,5,5:6,10,100
 5003,Hard Armor,5003.png,0,4,10,5:16,20,100
@@ -176,6 +180,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 5057,Cycle Armor,5023.png,0,4,280,5:37838,740,100
 5058,Evolving Armor,5024.png,0,4,285,5:39440,750,100
 5059,Transcending Armor,5025.png,0,4,290,5:41042,760,100
+5060,Galactic Armor,5026.png,0,4,295,5:42644,770,100
+5061,Cosmic Armor,5027.png,0,4,300,5:44246,780,100
 6001,Flax Belt,6001.png,0,8,1,1:20,4,100
 6002,Hide Belt,6002.png,0,8,5,1:97,10,100
 6003,Sturdy Belt,6003.png,0,8,10,1:392,20,100
@@ -235,6 +241,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 6057,Cycle Belt,6023.png,0,8,280,1:172928,740,100
 6058,Evolving Belt,6024.png,0,8,285,1:181178,750,100
 6059,Transcending Belt,6025.png,0,8,290,1:189428,760,100
+6060,Galactic Belt,6026.png,0,8,295,1:197678,770,100
+6061,Cosmic Belt,6027.png,0,8,300,1:205928,780,100
 8001,Cloth Shoes,8001.png,0,10,1,6:3,4,100
 8002,Leather Boots,8002.png,0,10,5,6:13,10,100
 8003,Padded Boots,8003.png,0,10,10,6:33,20,100
@@ -294,6 +302,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 8057,Cycle Boots,8023.png,0,10,280,6:28059,740,100
 8058,Evolving Boots,8024.png,0,10,285,6:29259,750,100
 8059,Transcending Boots,8025.png,0,10,290,6:30459,760,100
+8060,Galactic Boots,8026.png,0,10,295,6:31659,770,100
+8061,Cosmic Boots,8027.png,0,10,300,6:32859,780,100
 14001,Silver Ring,14001.png,0,5,1,17:3,4,100
 14002,Gold Ring,14002.png,0,5,5,17:6,10,100
 14003,Jeweled Ring,14003.png,0,5,10,17:16,20,100
@@ -353,3 +363,5 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 14057,Cycle Ring,14023.png,0,5,280,17:37838,1020,100
 14058,Evolving Ring,14024.png,0,5,285,17:39440,1050,100
 14059,Transcending Ring,14025.png,0,5,290,17:41042,1080,100
+14060,Galactic Ring,14026.png,0,5,295,17:42644,1110,100
+14061,Cosmic Ring,14027.png,0,5,300,17:44246,1140,100

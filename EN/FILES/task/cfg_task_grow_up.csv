@@ -93,3 +93,7 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200075,4,1,200001,91,200074,3,4360,5:3000027:10,Level Up Achievements,Clear all levels in Madagascar,,4
 200076,4,1,200001,92,200075,3,4460,5:3000027:10,Level Up Achievements,Clear all levels in Zambia,,4
 200077,4,1,200001,93,200076,3,4560,5:3000027:10,Level Up Achievements,Clear all levels in Mozambique,,4
+200078,4,1,200001,94,200077,3,4660,5:3000027:10,Level Up Achievements,Complete all dungeons in Somalia,,4
+200079,4,1,200001,95,200078,3,4760,5:3000027:10,Level Up Achievements,Complete all dungeons in Uganda,,4
+200080,4,1,200001,96,200079,3,4860,5:3000027:10,Level Up Achievements,Complete all dungeons in Kenya,,4
+200081,4,1,200001,97,200080,3,4960,5:3000027:10,Level Up Achievements,Complete all dungeons in Tanzania,,4

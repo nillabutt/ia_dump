@@ -42,3 +42,5 @@ cfg_id,optional_id,max_count,quality,restore,day_limit_count,limit_group,limit_l
 6000041,5:1000007:1|5:3000105:1|5:3000109:1|5:3000139:1000|5:2000011:5|5:3000066:1|5:3000191:150,99999,5,1,0,0,0,Enhanced Moderate Material Box,6000041.png,Choose any advanced material from the chest
 6000042,5:1000008:1|5:3000106:1|5:3000109:2|5:3000139:2000|5:2000011:10|5:3000066:2|5:3000191:300|5:3000011:1,99999,6,1,0,0,0,Enhanced Advanced Material Box,6000042.png,Choose any advanced material from the chest
 6000043,7:2083:1|17:2083:1|24:2083:1|5:3000027:1,99999,6,1,0,0,0,Ares’s Shard Optional Box,6000043.png,Open the box and choose Ares's Shards of any quality
+6000044,7:2054:1|17:2054:1|24:2054:1|5:3000027:1,99999,6,1,0,0,0,Enmusubi’s Shard Optional Box,6000044.png,Open the box and choose Enmusubi's Shards of any quality
+6000045,7:2077:1|17:2077:1|24:2077:1|5:3000027:1,99999,6,1,0,0,0,Thor’s Shard Optional Box,6000045.png,Open the box and choose Thor's Shards of any quality

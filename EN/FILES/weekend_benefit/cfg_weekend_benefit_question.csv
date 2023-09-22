@@ -43,4 +43,34 @@ id,type,question_text,answer_option[0],answer_option[1],answer_option[2],answer_
 2017,2,How many artifacts can each angel equip?,6,4,8,10
 2018,2,Can the Ascending progress of a gear be inherited?,Yes,No,null,null
 2019,2,How many pieces of gear can each angel ascend?,6,2,4,1
+2020,2,How many Eudemons are there in the Elementals Series?,4,5,6,null
+2021,2,How many Eudemons are there in the Firmament Series?,3,4,5,null
+2022,2,How many fashion collections are there in total?,5,4,3,null
+2023,2,How many qualities are there in the Miracle Cards?,3,2,4,null
+2024,2,How many pieces are there in the Sacred Temple Collection?,24,10,20,null
+2025,2,Does the level cap of Gear Enhance increase with player level?,Yes,No,null,null
 3001,3,Which of the following major gods does Pandora belong to?,Norse Gods,Greek Gods,Hebrew Gods,Egyptian Gods
+3002,3,What country does the main story begin in?,Korea,Japan,Greece,null
+3003,3,Which of the following angel belongs to the Japanese Gods?,Himiko,Gaia,Ungnyeo,null
+3004,3,Which of the following angel belongs to the Korean Gods?,Sim Cheong,Nekomata,Amaterasu,Enmusubi
+3005,3,Which of the following angel has yet to make her debut in the game?,Libra,Gemini,Pisces,Capricornus
+3006,3,To what gods does Hera belong?,Greek Gods,Norse Gods,Egyptian Gods,Chinese Gods
+3007,3,Which of the following angel represents wisdom?,Athena,Chaos,Venus,Freyja
+3008,3,Which of the following angel does not belong to the Norse Gods?,Apollo,Odin,Thor,Loki
+3009,3,Who does the sun god in ancient Egyptian mythology refer to?,Ra,Nuit,Anubis,Horus
+3010,3,Who is the god of war referred to in ancient Greek mythology?,Ares,Apollo,Erebus,Zeus
+3011,3,Which of the following angel does not belong to the Chinese Gods?,Nekomata,Zodiac Tiger,Zodiac Ox,Zodiac Rabbit
+3012,3,How many N-quality angel are in the game currently?,5,6,4,7
+3013,3,How many R quality angel are in the game currently?,6,10,4,null
+3014,3,How many R+ quality angel are in the game currently?,6,10,8,null
+3015,3,How many SR quality angel are in the game currently?,9,15,10,null
+3016,3,How many SR+ quality angel are in the game currently?,8,15,10,null
+3017,3,Who is the god of thunder in Norse mythology?,Thor,Heimdall,Frigga,Freyja
+3018,3,Who is the Goddess of Vengeance referred to in ancient Egyptian mythology?,Horus,Geb,Apep,null
+3019,3,"Who are the descendants of Venus, the goddess of love?",Cupid,Freyja,Muse,null
+3020,3,To what gods does Chang'e belong?,Chinese Gods,Japanese Gods,Korean Gods,null
+3021,3,Which of the following angel is not a Dragonborn?,Valkyrie,Frost Dragon,Ember Dragon,Storm Dragon
+3022,3,The sun god in ancient Greek mythology refers to?,Apollo,Asura,Icarus,Chaos
+3023,3,The goddess of victory in ancient Greek mythology refers to?,Nike,Minotaur,Muse,Nyx
+3024,3,What is Poseidon to be in charge of in the mythology?,Oceans,Heavens,Underworld,null
+3025,3,How many SSR quality angel are in the game currently?,16,10,15,null
