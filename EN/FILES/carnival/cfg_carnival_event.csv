@@ -1,9 +1,9 @@
 event_id,type,reward,desc
 1,1,,Finish the current parade and go back to the beginning
 2,1,5:3000212:2,Universal Dice*2
-3,1,5:3000213:10,A few Carnival Vouchers
-4,1,5:3000213:20,A certain amount of Carnival Vouchers
-5,1,5:3000213:30,A Lot of Carnival Vouchers
+3,1,5:3000213:10,A few Funland Vouchers
+4,1,5:3000213:20,Some Funland Vouchers
+5,1,5:3000213:30,Many Funland Vouchers
 6,1,1:2:999,A Lot of Diamonds
 7,1,1:2:500,A few Diamonds
 8,1,,Multiply the next reward effect by 2

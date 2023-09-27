@@ -281,7 +281,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102067003,104,0,0,Sacred Palace,CE_HS,YKLS0,2067_HS.png,2049_0.png,2067_HS.png,2049.png,1,6,2067,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,ce,hero_ce,4,1,,img_hunsha_bg,0
 102067200,102,0,0,Shadowless Moonlight-Chang'e,CE_UR,YKLS0,2067_UR.png,2049_0.png,2067_UR.png,2049.png,1,6,2067,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ce_ur,hero_ce_ur,4,1,NvWaQinGong,img_job_bg_1,0
 102067300,102,0,0,Garden Strolling - Chang'e,CE_UR_PLUS,YKLS0,2067_UR_PLUS.png,2049_0.png,2067_UR_PLUS.png,2049.png,1,6,2067,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,ce_ur,hero_ce_ur,4,1,NvWaQinGong,img_job_bg_1,1
-102067400,103,0,0,月华漫天,CE3,YKLS0,2067_3.png,2049_0.png,2067_3.png,2049.png,1,6,2067,0,3:1:100|3:22:450,5:10043:10044,0,,,Buy,0,ce,hero_ce,4,1,ShenNvQiSuo,img_job_bg_1,0
+102067400,103,0,0,Lunar Radiance,CE3,YKLS0,2067_3.png,2049_0.png,2067_3.png,2049.png,1,6,2067,0,3:1:100|3:22:450,5:10043:10044,0,,,Buy,0,ce,hero_ce,4,1,ShenNvQiSuo,img_job_bg_1,0
 102068000,0,0,0,Asura,AXL0,YKLS0,2068_0.png,2049_0.png,2068.png,2049.png,0,2,2068,1,0,0,0,,111|1,Default,0,axl,hero_axl,4,1,XieShenCangShenChu,img_job_bg_1,0
 102068001,105,0,0,Asura,AXL1,YKLS0,2068_1.png,2049_0.png,2068_1.png,2049.png,0,4,2068,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,axl,hero_axl,4,1,XieShenCangShenChu,img_job_bg_1,0
 102068002,105,0,0,Asura,AXL2,YKLS0,2068_2.png,2049_0.png,2068_2.png,2049.png,0,5,2068,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,1,axl,hero_axl,4,1,XieShenCangShenChu,img_job_bg_1,0
@@ -322,7 +322,6 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102077000,0,0,0,Thor,SE0,YKLS0,2077_0.png,2049_0.png,2077.png,2049.png,0,2,2077,1,0,0,0,,111|1,Default,0,se,hero_se,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102077001,104,0,0,Sacred Palace,SE_HS,YKLS0,2077_HS.png,2049_0.png,2077_HS.png,2049.png,1,6,2077,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,se,hero_se,4,1,,img_hunsha_bg,0
 102077200,102,0,0,Flesh of the Thunder-Thor,SE_UR,YKLS0,2077_UR.png,2049_0.png,2077_UR.png,2049.png,1,6,2077,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,se_ur,hero_se_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0
-102077300,102,0,0,Winterland Lord - Thor,SE_UR_PLUS,YKLS0,2077_UR_PLUS.png,2049_0.png,2077_UR_PLUS.png,2049.png,1,6,2077,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,se_ur,hero_se_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102078000,0,0,0,Apollo,ABL0,YKLS0,2078_0.png,2049_0.png,2078.png,2049.png,0,2,2078,1,0,0,0,,111|1,Default,0,abl,hero_abl,4,1,RanShaoLianYu,img_job_bg_1,0
 102078200,102,0,0,Light Ruler-Apollo,ABL_UR,YKLS0,2078_UR.png,2049_0.png,2078_UR.png,2049.png,1,6,2078,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,abl_ur,hero_abl_ur,4,1,RanShaoLianYu,img_job_bg_1,0
 102079000,0,0,0,Sakura Spirit,YHY0,YKLS0,2079_0.png,2049_0.png,2079.png,2049.png,0,2,2079,1,0,0,0,,111|1,Default,0,yhy,hero_yhy,4,1,ShenNvQiSuo,img_job_bg_1,0
