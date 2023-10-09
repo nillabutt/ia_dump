@@ -17614,7 +17614,7 @@ Spring Summon,
 Waking of Spring Pack,
 Spring Flower Pack 1,
 "Here're today's rewards of the Romantic Souvenir Card. Thanks for your support, and we wish you a sweet Valentine's Day.",
-Anniversary card,Full-Moon Souvenir Card
+Anniversary card,Ocean Souvenir Card
 2023 Waking of Spring Avatar Frame,
 2023 Waking of Spring Chat Bubble,
 Bedside Roses,
@@ -19658,11 +19658,11 @@ Starprint - Chaos,
 Starprint - Thunder,
 Starprint - Giant,
 "Increases Skill DMG by 15%, Normal DMG by 30%",
-"Killing an enemy increases self-DMG by 10%, stacking up to 2 layers and lasting until the end of the battle",
+Killing an enemy increases DMG by 10% until the end(up to 2 layers),
 "When taking action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle.",
 Receive 20% less DMG from skills,
 "When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy.",
-"When taking action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle.",
+"When in action,increase ATK and leech by 10% until the end(up to 3 layers)",
 Receive 10% less DMG from skills and increase 10% Debuff RES,
 Increases Healing Received and Shield Received by 20%,
 Increases Basic Attributes by 5%,
@@ -19695,8 +19695,8 @@ Frigga's Hypocrisy,
 Frigga in the Past,
 3rd Anniversary Avatar Frame,
 3rd Anniversary Limited Avatar Frame,
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Full-Moon Souvenir Card
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here is the rewards for your Mid-Autumn Festival Souvenir Card. Enjoy the treat!
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here is the rewards for your Ocean Souvenir Card. Enjoy the treat!
 3rd Anniversary Limited Chat Bubble,
 Finish the current parade and go back to the beginning,
 Universal Dice*2,
@@ -21986,3 +21986,14 @@ Defeat Lv.300 World BOSS,
 Lunar Radiance,
 "Moon-smile, star-lights, autumn night with you.",
 Lunar Radiance - Chang'e,
+FZZQ_PROMOTION_GUESS_MAIL_TITLE,Colliding Warzone Guessing Rewards
+FZZQ_PROMOTION_GUESS_MAIL_CONTENT,"You have successfully predicted the result of a Colliding Warzone Championship match, and we have issued you the rewards."
+FZZQ_PROMOTION_WINNER_NOTICE_MAIL_CONTENT,Colliding Warzone Championship Schedule Notice
+TREASURE_CONDITION_11,"For every {0} blocks dig in Desert Mystery ({3}/{4}), {1} {2}"
+Luminous Scarab,
+Luminous Scarab Fragment,
+Collect 50 Luminous Scarab Fragments to craft a Luminous Scarab,
+"Symbol of the Egyptian Royal Guard, a sacred beetle-shaped talisman crafted from various rare gemstones. It is said that the scarab propels the sun, so holding it feels like experiencing the scorching power emanating from within.",
+Thor's Arrogance,
+Thor's Laziness,
+Thor's Anger,

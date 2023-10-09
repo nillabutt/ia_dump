@@ -499,12 +499,12 @@ sid,type,is_normal,kill_enemy_trigger,cause_damage_trigger,before_fight_trigger,
 88888810,2,0,0,0,0,0,0,0,0,88888810,1,1,0,,,0,Twilight,888888.png,"HP+10%, Speed+100 (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)",0
 88888811,2,0,0,0,0,0,0,0,0,88888811,1,1,0,,,0,Twilight,888888.png,"Speed+100, Crit DMG+20% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)",0
 88888812,2,0,0,0,0,0,0,0,0,88888812,1,1,0,,,0,Twilight,888888.png,"Speed+100, Buff Hit Probability+10% (Valid ONLY in Arena, Clash of Titans, Glory Arena, Clash of Guilds, Olympus Legend, Gods Twilight, Conqueror of Legends, and friends battle)",0
-999911001,1,0,1,0,0,0,0,0,0,999911101,1,1,0,,,0,Starprint - War God,99911.png,"Killing an enemy increases self-DMG by 10%, stacking up to 2 layers and lasting until the end of the battle",0
+999911001,1,0,1,0,0,0,0,0,0,999911101,1,1,0,,,0,Starprint - War God,99911.png,Killing an enemy increases DMG by 10% until the end(up to 2 layers),0
 999912001,2,0,0,0,0,0,0,0,0,999912101,1,1,0,,,0,Starprint - Courage,99912.png,"Increases Skill DMG by 15%, Normal DMG by 30%",0
 999913001,1,0,0,0,0,1,0,0,0,999913101,1,1,0,,,0,Starprint - Bloodthirst,99913.png,"When taking action, increase self ATK and Leech by 10%, stacking up to 3 layers and lasting until the end of the battle.",0
 999921001,1,0,0,0,0,1,0,0,0,999921101,1,1,0,,,0,Starprint - Shield,99921.png,"When taking action, restore 10% of self Max HP, and deal True DMG equal to the amount of overflowing healing to a random enemy.",0
 999922001,2,0,0,0,0,0,0,0,0,999922101,1,1,0,,,0,Starprint - Radiance,99922.png,Receive 20% less DMG from skills,0
-999923001,1,0,0,0,0,1,0,0,0,999923101,1,1,0,,,0,Starprint - Firmness,99923.png,"When taking action, increase self DEF and DMG Reflection by 10%, stacking up to 3 layers and lasting until the end of the battle.",0
+999923001,1,0,0,0,0,1,0,0,0,999923101,1,1,0,,,0,Starprint - Firmness,99923.png,"When in action,increase ATK and leech by 10% until the end(up to 3 layers)",0
 999931001,2,0,0,0,0,0,0,0,0,999931101,1,1,0,,,0,Starprint - Canopy,99931.png,Increases Healing Received and Shield Received by 20%,0
 999932001,2,0,0,0,0,0,0,0,0,999932101,1,1,0,,,0,Starprint - Blessing,99932.png,Receive 10% less DMG from skills and increase 10% Debuff RES,0
 999933001,2,0,0,0,0,0,0,0,0,999933101,1,1,0,,,0,Starprint - Spirit,99933.png,Increases Basic Attributes by 5%,0
