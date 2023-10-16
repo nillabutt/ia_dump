@@ -1,17 +1,17 @@
 id,name,point,base_award,logo
-1,Bronze 1,1000,10,xxx.png
-2,Bronze 2,1100,14,xxx.png
-3,Bronze 3,1200,18,xxx.png
-4,Silver 1,1300,22,xxx.png
-5,Silver 2,1400,26,xxx.png
-6,Silver 3,1500,30,xxx.png
-7,Gold 1,1600,34,xxx.png
-8,Gold 2,1700,38,xxx.png
-9,Gold 3,1800,42,xxx.png
-10,Diamond 1,1900,46,xxx.png
-11,Diamond 2,2000,50,xxx.png
-12,Diamond 3,2100,54,xxx.png
-13,Master 1,2200,58,xxx.png
-14,Master 2,2300,62,xxx.png
-15,Master 3,2400,66,xxx.png
-16,Challenger,2500,70,xxx.png
+1,Bronze 1,1000,30,qingtong.png
+2,Bronze 2,1100,42,qingtong.png
+3,Bronze 3,1200,54,qingtong.png
+4,Silver 1,1300,66,baiyin.png
+5,Silver 2,1400,78,baiyin.png
+6,Silver 3,1500,90,baiyin.png
+7,Gold 1,1600,102,huangjin.png
+8,Gold 2,1700,114,huangjin.png
+9,Gold 3,1800,126,huangjin.png
+10,Diamond 1,1900,138,zuanshi.png
+11,Diamond 2,2000,150,zuanshi.png
+12,Diamond 3,2100,162,zuanshi.png
+13,Master 1,2200,174,dashi.png
+14,Master 2,2300,186,dashi.png
+15,Master 3,2400,198,dashi.png
+16,Challenger,2500,210,wangzhe.png
