@@ -9832,7 +9832,7 @@ ACTIVE_SUMMON_FIRSTWEEK_STORY_TIPS,Experimenta el mito de diosa y gana recompens
 ACTIVE_SUMMON_FIRSTWEEK_STORY_LOCK,
 Arder-Caos,
 HERO_TALENT_LEVEL_MAX,
-Potencia de combate requerida:  {0},
+CR required:{0},
 No puede ser superior al nivel de talento principal,
 ,
 Utensilio insuficiente,

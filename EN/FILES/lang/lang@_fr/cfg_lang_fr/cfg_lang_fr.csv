@@ -9836,7 +9836,7 @@ ACTIVE_SUMMON_FIRSTWEEK_STORY_TIPS,
 ACTIVE_SUMMON_FIRSTWEEK_STORY_LOCK,
 ,
 HERO_TALENT_LEVEL_MAX,Talent est complet
-Besoin de puissance de combat : {0},
+CR required:{0},
 ,
 Le niveau du talent actuel atteint son maximum,
 Nombre insuffisant d'accessoires,
