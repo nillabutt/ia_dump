@@ -1,3 +1,5 @@
-id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,open_level
-101,img_loading_hl_UR_plus.png,Supreme Queen,0,0,1,HL_UR_PLUS,60
-102,img_loading_ywj_UR.png,Dimension Breaker,-66,600,0.75,YWJ_UR,0
+id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,open_level,spine_bg
+101,img_loading_hl_UR_plus.png,Supreme Queen,0,0,1,HL_UR_PLUS,60,LOADING.jpg
+102,img_loading_ywj_UR.png,Dimension Breaker,-66,600,0.75,YWJ_UR,0,LOADING.jpg
+103,img_loading_ywj_UR_plus.png,Oceanic Reverie,-60,400,0.8,YWJ_UR_PLUS,0,Loading_01.jpg
+104,img_loading_ykls_yz1.png,Swimsuit Party,-20,290,0.78,YKLS_YZ1,0,Loading_01.jpg

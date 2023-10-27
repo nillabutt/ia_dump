@@ -20,6 +20,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 101003400,103,1,0,Christmas Messenger,USER_SDSZ,HL0,1000_SDSZ.png,2039_0.png,1000_SDSZ.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10029:10030,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003500,103,1,0,Sprouting Spring,USER_CJXL,HL0,1000_CJXL.png,2039_0.png,1000_CJXL.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10031:10032,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003600,103,1,0,Sparkling Romance,USER_SYLQ,HL0,1000_SYLQ.png,2039_0.png,1000_SYLQ.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10033:10034,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
+101003700,103,1,0,Halloween limited,USER_WSJ3,HL0,1000_WSJ3.png,2039_0.png,1000_WSJ3.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10045:10046,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003888,102,0,0,Radiant Reverie,USER_UR_PLUS,HL0,1000_UR_PLUS.png,2039_0.png,1000_UR_PLUS.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,1
 102001000,0,0,0,Medusa,MDS0,HL0,2001_0.png,2039_0.png,2001.png,2039.png,0,2,2001,1,0,0,0,,111|1,Default,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
 102001001,105,0,0,Medusa,MDS1,HL0,2001_1.png,2039_0.png,2001_1.png,2039.png,0,4,2001,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
@@ -319,6 +320,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102076000,0,0,0,Loki,LJ0,YKLS0,2076_0.png,2049_0.png,2076.png,2049.png,0,2,2076,1,0,0,0,,111|1,Default,0,lj,hero_lj,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102076001,104,0,0,Sacred Palace,LJ_HS,YKLS0,2076_HS.png,2049_0.png,2076_HS.png,2049.png,1,6,2076,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,lj,hero_lj,4,1,,img_hunsha_bg,0
 102076200,102,0,0,Sweetheart Always - Loki,LJ_UR,YKLS0,2076_UR.png,2049_0.png,2076_UR.png,2049.png,1,6,2076,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,lj_ur,hero_lj_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0
+102076300,102,0,0,Bubble Love-Loki,LJ_UR_PLUS,YKLS0,2076_UR_PLUS.png,2049_0.png,2076_UR_PLUS.png,2049.png,1,6,2076,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,lj_ur,hero_lj_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102077000,0,0,0,Thor,SE0,YKLS0,2077_0.png,2049_0.png,2077.png,2049.png,0,2,2077,1,0,0,0,,111|1,Default,0,se,hero_se,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102077001,104,0,0,Sacred Palace,SE_HS,YKLS0,2077_HS.png,2049_0.png,2077_HS.png,2049.png,1,6,2077,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,se,hero_se,4,1,,img_hunsha_bg,0
 102077200,102,0,0,Flesh of the Thunder-Thor,SE_UR,YKLS0,2077_UR.png,2049_0.png,2077_UR.png,2049.png,1,6,2077,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,se_ur,hero_se_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0

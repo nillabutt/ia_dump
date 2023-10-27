@@ -4369,7 +4369,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34300067,34300068,,NuwaJingu,,0,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"Thank you, Your Majesty Amaterasu. Actually I still have one regret...",,0,0
 34300068,34300069,,NuwaJingu,,0,TZDS2,HFSTS0,2,Amaterasu,"Tell me, Enmusubi.",,0,0
 34300069,34300070,,NuwaJingu,,0,ZRNZ_UR_PLUS,HFSTS0,1,Enmusubi,"I once made a mistake in a marriage, which turned into a tragedy. That is the fate of Kaguya.",,0,0
-34300070,-1,,NuwaJingu,,0,TZDS2,HFSTS0,2,Amaterasu,"If given the chance, would you like to correct this regret?",,0,0
+34300070,-1,54101|54102,NuwaJingu,,0,TZDS2,HFSTS0,2,Amaterasu,"If given the chance, would you like to correct this regret?",,0,0
 34300071,-1,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"You're not ready, maybe you should wait until a better time.",,0,0
 34300072,-1,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,I will summon her so that you may fulfill this promise.,,0,0
 34300073,34300074,,NuwaJingu,,1,TZDS2,HFSTS0,2,Amaterasu,"Kaguya, Daughter of the Moon, heed my call and come to me.",,0,0
@@ -4454,7 +4454,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34400071,34400072,,NuwaJingu,,0,SE_UR_PLUS,HL0,1,Thor,"Thank you, Lord Zeus.",,0,0
 34400072,34400073,,NuwaJingu,,0,ZS_UR,HFSTS0,2,Zeus,"I have a small gift here, if you're willing to accept it.",,0,0
 34400073,34400074,,NuwaJingu,,0,SE_UR_PLUS,HL0,1,Thor,What is it?,,0,0
-34400074,-1,,NuwaJingu,,0,ZS_UR,HFSTS0,2,Zeus,"A thunder orb. It's perilous, even I can barely control it. If you wish, I can embed it into your hammer.",,0,0
+34400074,-1,55101|55102,NuwaJingu,,0,ZS_UR,HFSTS0,2,Zeus,"A thunder orb. It's perilous, even I can barely control it. If you wish, I can embed it into your hammer.",,0,0
 34400075,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Alright, I understand your concerns. Let's discuss this once you've further honed your skills.",,0,0
 34400076,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Be cautious then. I'm about to unleash its inner force, and you must resist it before embracing it.",,0,0
 34400077,34400078,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,Who dares attempt to unleash this world-destroying thunder? That power belongs to the dragon clan. You shall not touch it!,,0,0
@@ -4463,6 +4463,106 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34400080,34400081,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,Your victory will be spoken of throughout the dragon clan. Don't celebrate too soon; other mighty dragons will soon challenge you.,,0,0
 34400081,34400082,,NuwaJingu,,1,SE_UR_PLUS,HL0,1,Thor,"Let them come as they please. For now, I just wish to quietly accept this newfound strength.",,0,0
 34400082,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Indeed, embrace the power of the orb and then ascend.",,0,0
+34500001,34500002,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Ah, it's a new day again. It's a shame that I feel so bored as soon as I get out of bed. I need to find something interesting to do.",,0,0
+34500002,34500003,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Please forgive my intrusion, but you seem troubled. How about letting me, Pandora, be of service to you?",,0,0
+34500003,34500004,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"You don't seem like a boring person. If you can amuse me, that would be a good appetizer for a morning.",,0,0
+34500004,34500005,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"I might be capable of many things, but I won't play the role of a clown for entertainment.",,0,0
+34500005,34500006,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,Then what can you do? Rub your hands together and tell a few jokes?,,0,0
+34500006,34500007,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,I can make others be the clowns.,,0,0
+34500007,34500008,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Haha, you've got a point there. But I am genuinely curious about what you can do. Let's see how you'll do it.",,0,0
+34500008,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Very well, but as per my usual practice, I need to verify your skills first.",,0,0
+34500009,34500010,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"How about that? My tricks should be somewhat impressive, right?",,0,0
+34500010,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"For a trickster god, you're not bad at all.",,0,0
+34500011,34500012,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Next victim is going to be pranked by me? Come on, give me some ideas, Pandora.",,0,0
+34500012,34500013,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Have you seen that beautiful girl? I heard her name is Sif, known for her gorgeous hair.",,0,0
+34500013,34500014,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Sif, hehe, that's right, her hair is really beautiful!",,0,0
+34500014,34500015,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Let's go and cut it off.,,0,0
+34500015,34500016,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"That's a great idea! Hey, Sif, I'd like to make a deal with you!",,0,0
+34500016,34500017,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,"Everyone knows you're a little trickster, Loki, I'm not making any deals with you!",,0,0
+34500017,34500018,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"You see, I had the dwarves specially craft a golden comb just for you. Come on, use it to comb your beautiful hair.",,0,0
+34500018,34500019,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,"Wow... it's so beautiful, can I really use it to comb my hair?",,0,0
+34500019,-1,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,"Oh! What's happening? My hair! Loki, you deceiver! My hair is all gone!",,0,0
+34500020,34500021,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,Give me back my hair!,,0,0
+34500021,34500022,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Don't worry, I'll find a better container for them. Hehehe!",,0,0
+34500022,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Oh, dear, we're so naughty! Loki, you're really naughty!",,0,0
+34500023,34500024,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Do you know Thor's hammer, Loki? I've always wondered if that hammer can be used to power my house.",,0,0
+34500024,34500025,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"You're not thinking of taking Thor's hammer, are you? You need to strategize that carefully. Look, here she comes.",,0,0
+34500025,34500026,,NuwaJingu,,1,SE_UR,HL0,2,Thor,"Loki, can't you just stay in your own house and not wander around? I see you, and I just want to give you a beating!",,0,0
+34500026,34500027,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,Why don't you give me a beating then? I can help you polish the hammer with my smooth skin.,,0,0
+34500027,-1,,NuwaJingu,,1,SE_UR,HL0,2,Thor,"That's a great idea, let's get started.",,0,0
+34500028,34500029,,NuwaJingu,,1,SE_UR,HL0,2,Thor,Ah! My hammer!,,0,0
+34500029,34500030,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"I forgot to tell you, anything locked in Pandora's box, no one can ever open it!",,0,0
+34500030,34500031,,NuwaJingu,,1,SE_UR,HL0,2,Thor,You damn guy!,,0,0
+34500031,-1,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Now, I'm leaving Asgard because you guys can't please me anymore, hehehe.",,0,0
+34500032,34500033,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Do you see that? It's Icarus. If I were to play a prank on someone, I'd definitely pick her first.",,0,0
+34500033,34500034,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,Let's go and pluck her feathers!,,0,0
+34500034,34500035,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"Goddess Icarus, it's nice to meet you, but at the same time, I'm sorry because you're about to lose your ability to fly very soon.",,0,0
+34500035,34500036,,NuwaJingu,,1,YKLS_UR,HFSTS0,2,Icarus,I don't know you. What do you mean by that?,,0,0
+34500036,34500037,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"I want to pluck your feathers, hehehe!",,0,0
+34500037,-1,,NuwaJingu,,1,YKLS_UR,HFSTS0,2,Icarus,You're quite the strange fellow. I don't want to fool around with you.,,0,0
+34500038,34500039,,NuwaJingu,,1,YKLS_UR,HFSTS0,2,Icarus,My feathers! They're all gone...,,0,0
+34500039,-1,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,That's great; now you can relive the days of walking with just your legs.,,0,0
+34500040,34500041,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"That garden, if I'm not mistaken, must belong to a perfect goddess.",,0,0
+34500041,34500042,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"That's Athena's garden. Oh, by the way, she has some beautiful fish. If we could catch a few...",,0,0
+34500042,34500043,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,We won't have to worry about dinner that night!,,0,0
+34500043,34500044,,NuwaJingu,,1,YDN_UR,HFSTS0,2,Athena,"Who allowed you to enter my garden, foreign gods! And you, Pandora!",,0,0
+34500044,34500045,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"Oh my, it seems the garden's owner has arrived. Shall we play a big game and tease her?",,0,0
+34500045,-1,,NuwaJingu,,1,YDN_UR,HFSTS0,2,Athena,"Tease me? You better be careful. I, Athena, am one of the finest warriors in all of Greece.",,0,0
+34500046,34500047,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"True, you are indeed as formidable as the rumors suggest, but while you were busy with me, my decoy has already done its job, hehe.",,0,0
+34500047,-1,,NuwaJingu,,1,YDN_UR,HFSTS0,2,Athena,"Dammit, my fish!",,0,0
+34500048,34500049,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"I heard Olympus had a troublesome little guest, causing mischief everywhere. Let me see what kind of troublemaker you are.",,0,0
+34500049,34500050,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"You have a vibe quite similar to Odin, I guess you're the head honcho of the Greek pantheon, right?",,0,0
+34500050,34500051,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Although I'd love to ask you to put in a good word with Odin, I'm pretty sure anything coming from your mouth would be tainted.",,0,0
+34500051,34500052,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"Hehe, I am the god of deception and pranks.",,0,0
+34500052,-1,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Come on, show me your tricks and let me see your talent for playing tricks on people!",,0,0
+34500053,34500054,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"Oh, you really got me there. I almost fell for it.",,0,0
+34500054,34500055,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"Give me one more chance, and I'll do better, I promise.",,0,0
+34500055,34500056,,NuwaJingu,,1,ZS_UR,HFSTS0,2,Zeus,"No, no, no... I think it's unnecessary. Speaking of pranks, I have a recommendation for you. Head east and seek out a goddess named Fuxi.",,0,0
+34500056,-1,,NuwaJingu,,1,LJ_UR,HFSTS0,1,Loki,"Is she clever? Well, I can't wait to find out.",,0,0
+34500057,34500058,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,"Oh, you scoundrels! You dare to steal my things!",,0,0
+34500058,34500059,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Oh my, this lovely little ornament is quite nice. With some polishing, it could even be used for dining.",,0,0
+34500059,34500060,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,"That's not for dining; it's my hairpin, you fool!",,0,0
+34500060,34500061,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"I say it is, so it is, hehe.",,0,0
+34500061,-1,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,Give it back to me quickly!,,0,0
+34500062,34500063,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Flatten the front a bit and open a fork in it, it's the perfect plan!",,0,0
+34500063,-1,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,My hairpin...,,0,0
+34500064,34500065,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Hey, what's this thread? It's red and there are so many of them...",,0,0
+34500065,34500066,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,I guess this must be what the Easterners call 'the thread of destiny.',,0,0
+34500066,34500067,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Oh, I've heard of that. It means if you connect both ends, even a pig and a cow can fall in love.",,0,0
+34500067,34500068,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,Let's use our imaginations to see how many possibilities are hidden in this!,,0,0
+34500068,34500069,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,2,Enmusubi,Stop it! What are you doing? You're ruining the destiny I carefully arranged!,,0,0
+34500069,-1,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Manipulating emotions is as unpleasant as manipulating fate, but at least I can make the world a bit less boring.",,0,0
+34500070,34500071,,NuwaJingu,,1,ZRNZ_UR,HFSTS0,2,Enmusubi,Rabbits and horses... ladybugs and snails... Look at the mess you've caused! Now the world is in chaos!,,0,0
+34500071,-1,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Don't you see, that's what makes it interesting? The world is so colorful because of all these different possibilities.",,0,0
+34500072,34500073,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"It seems our actions have caused quite a stir, even roused the big shots behind the scenes. Oh, I'm quite remarkable, Pandora.",,0,0
+34500073,34500074,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Look at that proud expression of yours; you should focus on the challenges ahead.,,0,0
+34500074,34500075,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"You are Loki, right? Using Chang'e's hairpin as a dinner fork and messing with the red thread of the Fate Goddess…",,0,0
+34500075,34500076,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"I don't dislike you. In fact, I find your methods quite in tune with human nature and quite creative.",,0,0
+34500076,34500077,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"I actually received recognition? Thank you, but I didn't come here seeking validation. Well, let's get to the exciting part, shall we?",,0,0
+34500077,34500078,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"There are two patterns behind me, one black and one white. If you can turn white into black and black into white, you win.",,0,0
+34500078,-1,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,Is that all? It's too easy!,,0,0
+34500079,34500080,,NuwaJingu,,0,LJ_UR_PLUS,HFSTS0,1,Loki,"There, I did it! Now black has become white, and white remains white. You've lost, Fuxi.",,0,0
+34500080,34500081,,NuwaJingu,,0,FX2,HL0,2,Fuxi,"Shall we look at the patterns reversed? This way, black stays black, and white remains white.",,0,0
+34500081,34500082,,NuwaJingu,,0,LJ_UR_PLUS,HFSTS0,1,Loki,Ah... you... you cheated!,,0,0
+34500082,34500083,,NuwaJingu,,0,FX2,HL0,2,Fuxi,"I just wanted to tell you that sometimes, things that seem to be destroyed might have just been sent to the other side.",,0,0
+34500083,34500084,,NuwaJingu,,0,FX2,HL0,2,Fuxi,"They never change, and they never truly perish. That's balance.",,0,0
+34500084,34500085,,NuwaJingu,,0,LJ_UR_PLUS,HFSTS0,1,Loki,I... I think I understand something now.,,0,0
+34500085,-1,56101|56102,NuwaJingu,,0,FX2,HL0,2,Fuxi,"If you want to discern the truth, seek balance, you must grasp the path of harmony. Are you willing to perceive this harmony?",,0,0
+34500086,-1,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"I'm delighted you're willing to accept this concept. Now, let's watch with anticipation.",,0,0
+34500087,-1,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"I truly empathize with your feelings, and if one day you figure it out, know that I'm here, always ready to welcome you back.",,0,0
+34500088,34500089,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"Next, I will use the art of Yin and Yang harmony to create an opposing version of you. Perhaps when facing her, you will gain a deeper understanding.",,0,0
+34500089,34500090,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,Let's begin!,,0,0
+34500090,34500091,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,Who are you talking to? Another me.,,0,0
+34500091,34500092,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Are you my opposite? Well, it seems you're not much better than me, just as negative. Quite interesting, I must say.",,0,0
+34500092,34500093,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"You're right; it is interesting... But for some reason, I still can't like you.",,0,0
+34500093,34500094,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,I feel the same way.,,0,0
+34500094,34500095,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"Well, how about we settle this with a fight? The winner gets to replace the other.",,0,0
+34500095,-1,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Now, things are getting interesting.",,0,0
+34500096,34500097,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,I won! Hehe!,,0,0
+34500097,34500098,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"Oh, really? Then may I ask, which one of the two Lokis are you?",,0,0
+34500098,34500099,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Of course it is... me? Strange, I can't answer that question because from either Loki's perspective, I'm the one who emerged victorious.",,0,0
+34500099,34500100,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"No matter which version of you, you're still you, and everything you experience, the opposing version of you is also going through simultaneously.",,0,0
+34500100,-1,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,Is this the way of harmony? I think I understand now.,,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
 40001,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0

@@ -97,6 +97,8 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 4076,4,5,Enmusubi Avatar Frame,0,0,4076.png,Thank you for your contribution in community activities
 4077,4,6,Thor Avatar Frame,0,0,4077.png,Thank you for your contribution in community activities
 4078,4,5,Thor Avatar Frame,0,0,4078.png,Thank you for your contribution in community activities
+4079,4,6,Loki Avatar Frame,0,0,4079.png,Thank you for your contribution in community activities
+4080,4,5,Loki Avatar Frame,0,0,4080.png,Thank you for your contribution in community activities
 5001,5,6,Halloween,0,0,5001.png,Limited face frame during Halloween event
 5002,5,6,Merry Christmas,0,0,5002.png,Christmas limited avatar frame
 5003,5,6,Anniversary,0,0,5003.png,Anniversary limited avatar frame
@@ -121,6 +123,7 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 5034,5,6,2023 Sunsplash Avatar Frame,0,0,5034.png,2023 Sunsplash Avatar Frame
 5035,5,6,2023 Swimsuit Party Avatar Frame,0,0,5035.png,2023 Swimsuit Party Avatar Frame
 5036,5,6,2023 Mid-Autumn Festival Limited Avatar Frame,0,0,5036.png,2023 Mid-Autumn Festival Limited Avatar Frame
+5037,5,6,2023 Hallo-Scream Limited Avatar Frame,0,0,5037.png,2023 Hallo-Scream Limited Avatar Frame
 6001,6,6,Sacred Palace,0,0,6001.png,Sacred Palace limited avatar frame
 6002,6,6,Swimsuit Party,0,0,6002.png,Swimsuit Party limited avatar frame
 6003,6,6,Divine Awakening,0,0,6003.png,Divine Awaken limited avatar frame
