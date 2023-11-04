@@ -407,6 +407,11 @@
 137802311,,,Blaze-Demise Arrow,ZhuoShao,"Deals a certain amount of DMG for 2 rounds, undispellable",Flame,0
 147801311,,,Blaze-Solar Impact,ZhuoShao,Deals a certain amount of DMG for 6 rounds,Flame,0
 147802311,,,Blaze-God Killer,ZhuoShao,"Deals a certain amount of DMG for 2 rounds, undispellable",Flame,0
+157800011,,,晕眩-烈焰炽星,,,,0
+157800111,LYCX_buff,,Star - Blazing Star,HengXing,Revives after 2 rounds,Star,6
+157801111,,,阿波罗标记,,,,0
+157802111,,,Heartburn - Blazing Star,ZhuoXin,Recieves a certain amount of DMG for each round,Heartburn,999
+157803101,1002_buff,,Stun,YunXuan,Cannot perform actions for 1 round,无法行动,0
 117901211,,,护盾-旋樱舞步,,1回合增加樱花妖最大攻击100%的不可驱散护盾,,0
 117902211,,,护盾-樱花飞舞,,1回合增加樱花妖最大攻击70%的不可驱散护盾,,0
 117902311,,,Charge - Sakura Flurry,XuLi,[Charge] increases target's ATK by 50% of Sakura Spirit’s ATK for 2 rounds.,攻击提高,0

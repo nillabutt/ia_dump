@@ -4563,6 +4563,94 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34500098,34500099,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,"Of course it is... me? Strange, I can't answer that question because from either Loki's perspective, I'm the one who emerged victorious.",,0,0
 34500099,34500100,,NuwaJingu,,1,FX2,HL0,2,Fuxi,"No matter which version of you, you're still you, and everything you experience, the opposing version of you is also going through simultaneously.",,0,0
 34500100,-1,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,1,Loki,Is this the way of harmony? I think I understand now.,,0,0
+34600001,34600002,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"What is this sound? So enchanting, so wonderful... There might never be such music like this in the world again.",,0,0
+34600002,34600003,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"Pandora, are you there? I want to know where this music is coming from.",,0,0
+34600003,34600004,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Music? What music? I haven't heard anything.,,0,0
+34600004,34600005,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"Am I the only one hearing it? Let me play it for you to listen... Strange, why can't I play this melody?",,0,0
+34600005,34600006,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"I've heard of a timeless sound, a lost melody that can only be learned by finding its source.",,0,0
+34600006,34600007,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"Please take me to find it, wherever it may be...",,0,0
+34600007,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Of course, but before that... although I'm not worried about your abilities, I still need to test you according to the tradition.",,0,0
+34600008,34600009,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"All right, the power of the sun god is truly immeasurable. So, let's set out to find the origin of this music.",,0,0
+34600009,-1,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"I'm counting on you for everything, Pandora.",,0,0
+34600010,34600011,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,Cupid's palace? Can she possibly have information about that melody here?,,0,0
+34600011,34600012,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"As we all know, Cupid is also a great musician.",,0,0
+34600012,34600013,,NuwaJingu,,1,QBT_UR,HL0,2,Cupid,I heard someone praising my greatness.,,0,0
+34600013,34600014,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"No, you heard wrong, Cupid, we're just talking about music.",,0,0
+34600014,34600015,,NuwaJingu,,1,QBT_UR,HL0,2,Cupid,"Who else in all of Greece knows music better than me? Oh, Apollo, you wouldn't want to claim it's you, would you?",,0,0
+34600015,-1,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"How arrogant! Bring out your seven-stringed lyre, and let's compete in music!",,0,0
+34600016,34600017,,NuwaJingu,,1,QBT_UR,HL0,2,Cupid,"Wait, the piece you just played, where did you learn it from?",,0,0
+34600017,34600018,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"I came across it by chance... in fact, the piece I played is just a fragment.",,0,0
+34600018,-1,,NuwaJingu,,1,QBT_UR,HL0,2,Cupid,"Someone who can play such music must be someone madly in love... please, you must take me to see her!",,0,0
+34600019,34600020,,NuwaJingu,,1,MJZ_UR,HL0,2,Capricornus,Guests have arrived? I don't recall inviting you.,,0,0
+34600020,34600021,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,I apologize for the interruption. I have some questions regarding music that I'd like to ask you. Have you ever heard such a melody?,,0,0
+34600021,34600022,,NuwaJingu,,1,MJZ_UR,HL0,2,Capricornus,"This haunting melody, this mournful sound of the strings, it's... it's the voices of the departed!",,0,0
+34600022,34600023,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,Do you know its origin?,,0,0
+34600023,-1,,NuwaJingu,,1,MJZ_UR,HL0,2,Capricornus,"Do you wish to find it? If you can surpass me in musical skill, I will personally guide you to trace its source.",,0,0
+34600024,34600025,,NuwaJingu,,1,ABL0,HFSTS0,1,Apollo,"I believe I've won this challenge, Capricorn.",,0,0
+34600025,34600026,,NuwaJingu,,1,MJZ_UR,HL0,2,Capricornus,"Indeed, your musical talent surpasses mine. It's time for me to fulfill my promise.",,0,0
+34600026,-1,,NuwaJingu,,1,MJZ_UR,HL0,2,Capricornus,"If you seek the voices of the departed, you must journey to Egypt. There, I believe you will find what you seek.",,0,0
+34600027,34600028,,NuwaJingu,,1,MJZ_UR,HL0,2,Capricornus,"If anyone can come close to the voice of the departed, it must be Anubis.",,0,0
+34600028,34600029,,NuwaJingu,,1,ANBS0,HFSTS0,2,Anubis,"Greetings, divine beings.",,0,0
+34600029,34600030,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"Greetings, Anubis. I have a melody I'd like to ask you to identify. Can you tell me where it originates from?",,0,0
+34600030,34600031,,NuwaJingu,,1,ANBS0,HFSTS0,2,Anubis,I'd like to hear it.,,0,0
+34600031,34600032,,NuwaJingu,,1,ANBS0,HFSTS0,2,Anubis,"This is... I've heard this melody before, right over the boundless River of the Underworld.",,0,0
+34600032,34600033,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,Could you please guide me to the source of this melody?,,0,0
+34600033,-1,,NuwaJingu,,1,ANBS0,HFSTS0,2,Anubis,"No, that is an evil sound. It would lead the souls that should be in the cycle of reincarnation astray on the River of the Underworld!",,0,0
+34600034,34600035,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"I'm sorry, Anubis. If you're unwilling to take me there, please at least provide me with a direction.",,0,0
+34600035,-1,,NuwaJingu,,1,ANBS0,HFSTS0,2,Anubis,"Entering the Underworld like this, you are certain to get lost. If you insist on going, I will guide you.",,0,0
+34600036,34600037,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"The sound of the lyre just now was truly enchanting. Was it your performance, Greek goddesses?",,0,0
+34600037,34600038,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"Indeed, it was our performance, but we are not the ones who composed it. In fact, we are currently searching for its origin.",,0,0
+34600038,34600039,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,Oh! Would you be willing to take me along as well? I'd love to hear the original composer of this piece play it in person.,,0,0
+34600039,34600040,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"Certainly, we welcome like-minded companions at any time.",,0,0
+34600040,34600041,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"Before that, I have a request - I happen to be a lyre enthusiast myself, and I'd love to have a musical duel with you.",,0,0
+34600041,-1,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"No problem, please, go ahead and showcase your skills.",,0,0
+34600042,34600043,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"Your lyre playing is unmatched, Apollo. I concede.",,0,0
+34600043,-1,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"You're not bad yourself, Horus.",,0,0
+34600044,34600045,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"If this melody truly hails from the underworld, then I believe only Lord Hades can unveil the origin behind the veil of the River Styx.",,0,0
+34600045,34600046,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"Indeed, I have crossed the Styx three times, and I can guide you on this path.",,0,0
+34600046,34600047,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"Crossing the River Styx is no easy feat, Apollo, especially for one as radiant as you. But I have a trial...",,0,0
+34600047,34600048,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"If you pass this trial, I will bestow a spell upon you, one that will temporarily disguise you as a departed soul. The ferryman Charon will then transport you across.",,0,0
+34600048,-1,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"I accept your trial, Lord Hades.",,0,0
+34600049,34600050,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"You have passed the trial, Apollo. Now, I will cast the disguise spell upon you.",,0,0
+34600050,34600051,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,My radiance has faded...,,0,0
+34600051,-1,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"It is only temporary; once you find what you seek, the spell will naturally dissipate.",,0,0
+34600052,34600053,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,"It seems that even in the afterlife, some dare to intrude. You all must be truly impatient. Oh, that seems quite fitting for me as well.",,0,0
+34600053,34600054,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"Lady Dragon, I've come to find a lost melody fragment.",,0,0
+34600054,34600055,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,"It's truly strange. Nowadays, there are people in the afterlife searching for all sorts of things - friends and family, lovers, and even music.",,0,0
+34600055,34600056,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,It's a pity that the ferryman Charon fled at the sight of me. Perhaps you'll have to find your own way across this river.,,0,0
+34600056,34600057,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,Or maybe not. Isn't there a dragon here?,,0,0
+34600057,-1,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,Are you suggesting that I carry you across the river? How absurd. I will make you pay for your arrogance!,,0,0
+34600058,34600059,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,I truly wish you would sit down and listen as I play a tune. Not everything in this world needs to be resolved through combat.,,0,0
+34600059,-1,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,"Say what you will, for I have lost to you. But don't get too smug; I will reclaim my honor from you!",,0,0
+34600060,34600061,,NuwaJingu,,1,KES_UR,HL0,2,Chaos,"Oh my, let me see, who has fallen from grace to this lightless place?",,0,0
+34600061,34600062,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,Chaos—my arch-nemesis.,,0,0
+34600062,34600063,,NuwaJingu,,1,KES_UR,HL0,2,Chaos,"This time, the sun's radiance will not protect you. You will be imprisoned at the end of eternity by this perpetual mist.",,0,0
+34600063,34600064,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I don't agree, Chaos. My music will guide me through this darkness and lead me to a way forward.",,0,0
+34600064,-1,,NuwaJingu,,1,KES_UR,HL0,2,Chaos,Then let's see who will prevail in the end.,,0,0
+34600065,34600066,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"It appears that this time, I am the victor.",,0,0
+34600066,-1,,NuwaJingu,,1,KES_UR,HL0,2,Chaos,"Hmph, having more people on your side doesn't make you more skilled!",,0,0
+34600067,34600068,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"It appears that guests from my realm have arrived, and they are no ordinary guests; they are a group of renowned goddesses.",,0,0
+34600068,34600069,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"You see, it's not easy to have so many heavenly visitors in the Underworld all at once. I must ask you to stay a while longer.",,0,0
+34600069,34600070,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I'm afraid we might have to disappoint your kindness, Hades. I've come here only to seek a melody lost in the waters of the Styx.",,0,0
+34600070,34600071,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Oh? Searching for music? It seems you understand me, Apollo. I am, after all, a devoted music enthusiast.",,0,0
+34600071,34600072,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,Shall we compare our performances? I hear you have a lovely seven-stringed lyre in your collection.,,0,0
+34600072,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,I would be delighted to oblige!,,0,0
+34600073,34600074,,NuwaJingu,,0,HDS2,HFSTS0,2,Hades,"The music you play... it hails from Orpheus, the finest musician Greece has ever known.",,0,0
+34600074,34600075,,NuwaJingu,,0,ABL_UR_PLUS,HFSTS0,1,Apollo,I haven't had the pleasure of meeting her. Do you happen to know where she is now? I would love to learn from her musical talents.,,0,0
+34600075,34600076,,NuwaJingu,,0,HDS2,HFSTS0,2,Hades,"Unfortunately, she disappeared into the depths of the Styx a long time ago, alongside her lover.",,0,0
+34600076,34600077,,NuwaJingu,,0,ABL_UR_PLUS,HFSTS0,1,Apollo,That's truly regrettable.,,0,0
+34600077,34600078,,NuwaJingu,,0,HDS2,HFSTS0,2,Hades,"Ah, but she left behind a lyre, claiming that anyone who can play it would inherit all her musical genius.",,0,0
+34600078,34600079,,NuwaJingu,,0,ABL_UR_PLUS,HFSTS0,1,Apollo,"Is that so? Your words give me hope, Hades. Please, take me to see that lyre.",,0,0
+34600079,-1,57101|57102,NuwaJingu,,0,HDS2,HFSTS0,2,Hades,"Of course, no problem. But you must promise me that if you can play it, you will complete Orpheus's unfinished masterpiece.",,0,0
+34600080,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Very well, I'm looking forward to hearing that lyre make music once again.",,0,0
+34600081,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,I fully understand your concerns; it would be a disservice to the instrument if talent does not match.,,0,0
+34600082,34600083,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Beware, though; this divine lyre may take on your form to challenge you, to showcase your talent and recognize your presence!",,0,0
+34600083,-1,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,I will prove that my talent is worthy of it!,,0,0
+34600084,34600085,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I've done it, Hades! I've gained the lyre's recognition!",,0,0
+34600085,34600086,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"I see it, Apollo. Congratulations. Since Orpheus, I haven't heard such a marvelous tune.",,0,0
+34600086,34600087,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Of course, I don't expect you to stay, as you still have a sun to guide.",,0,0
+34600087,34600088,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,I only hope you can stay a few more days so I can truly savor this extraordinary composition.,,0,0
+34600088,-1,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I am delighted to share this moment with you, Hades.",,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
 40001,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0

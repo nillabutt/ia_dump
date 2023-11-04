@@ -1,14 +1,14 @@
 id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,review_spine_name,avatar_icon_b,avatar_icon_review_b,avatar_icon_small,avatar_icon_small_review,is_advanced,avatar_quality,hero_cid,is_default,attribute,unlock_cond1,unlock_operation,unlock_cond2,ui_link,unlock_desc,is_show,audio_folder_name,audio_name,audio_random_count,need_show,scene_path,image_bg_path,attack_hide_spine_bg
 101001000,0,0,0,Player,USER_MAIN0,HL0,1000_0.png,2039_0.png,1000.png,2039.png,0,3,1001|1002|1003,1,0,0,0,,111|1,Default,0,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101001001,101,0,0,Swimsuit Party,USER_YZ1,HL0,1000_YZ1.png,2039_0.png,1000_YZ1.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:500,2:3000056:1,0,,,Exchange,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
-101001100,0,0,0,Swimsuit Party,USER_MAIN_YZ1,HL0,1001_YZ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:01:50,4,0,,,Glory Arena,0,wu_jiang,hero_user_wu_jiang,3,0,,img_job_bg_1,0
-101002100,0,0,0,Swimsuit Party,USER_MAIN_YZ2,HL0,1002_YZ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:01:50,4,0,,,Glory Arena,0,gong_jiang,hero_user_gong_jiang,3,0,,img_job_bg_1,0
-101003100,0,0,0,Swimsuit Party,USER_MAIN_YZ3,HL0,1003_YZ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:01:50,4,0,,,Glory Arena,0,mou_shi,hero_user_mou_shi,3,0,,img_job_bg_1,0
-101001200,0,0,0,Halloween limited,USER_MAIN_WSJ1,HL0,1001_WSJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:02:50,2:3000030:1,0,,,Exchange,0,wu_jiang,hero_user_wu_jiang,3,0,,img_job_bg_1,0
-101002200,0,0,0,Halloween limited,USER_MAIN_WSJ2,HL0,1002_WSJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,0.131712963,2:3000030:1,0,,,Exchange,0,gong_jiang,hero_user_gong_jiang,3,0,,img_job_bg_1,0
-101003200,0,0,0,Halloween limited,USER_MAIN_WSJ3,HL0,1003_WSJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:01:50,2:3000030:1,0,,,Exchange,0,mou_shi,hero_user_mou_shi,3,0,,img_job_bg_1,0
-101001300,0,0,0,Spring Festival,USER_CJ1,HL0,1000_CJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,0.126851852,2:3000038:1,0,,,Exchange,0,wu_jiang,hero_user_wu_jiang,3,0,,img_job_bg_1,0
-101001400,103,0,0,Honor Limited (7 days),USER_YY0,HL0,1000_YY0.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,0.126851852,2:5000004:1,0,,,Exchange,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
+101001100,0,0,0,Swimsuit Party,USER_MAIN_YZ1,HL0,1001_YZ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:1:50,4,0,,,Glory Arena,0,wu_jiang,hero_user_wu_jiang,3,0,,img_job_bg_1,0
+101002100,0,0,0,Swimsuit Party,USER_MAIN_YZ2,HL0,1002_YZ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:1:50,4,0,,,Glory Arena,0,gong_jiang,hero_user_gong_jiang,3,0,,img_job_bg_1,0
+101003100,0,0,0,Swimsuit Party,USER_MAIN_YZ3,HL0,1003_YZ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:1:50,4,0,,,Glory Arena,0,mou_shi,hero_user_mou_shi,3,0,,img_job_bg_1,0
+101001200,0,0,0,Halloween limited,USER_MAIN_WSJ1,HL0,1001_WSJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:2:50,2:3000030:1,0,,,Exchange,0,wu_jiang,hero_user_wu_jiang,3,0,,img_job_bg_1,0
+101002200,0,0,0,Halloween limited,USER_MAIN_WSJ2,HL0,1002_WSJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:8:100,2:3000030:1,0,,,Exchange,0,gong_jiang,hero_user_gong_jiang,3,0,,img_job_bg_1,0
+101003200,0,0,0,Halloween limited,USER_MAIN_WSJ3,HL0,1003_WSJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:1:50,2:3000030:1,0,,,Exchange,0,mou_shi,hero_user_mou_shi,3,0,,img_job_bg_1,0
+101001300,0,0,0,Spring Festival,USER_CJ1,HL0,1000_CJ1.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:1:100,2:3000038:1,0,,,Exchange,0,wu_jiang,hero_user_wu_jiang,3,0,,img_job_bg_1,0
+101001400,103,0,0,Honor Limited (7 days),USER_YY0,HL0,1000_YY0.png,2039_0.png,,2039.png,0,6,1001|1002|1003,0,3:1:100,2:5000004:1,0,,,Exchange,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101001500,102,0,0,Glory Wing,USER_UR,HL0,1000_UR.png,2039_0.png,1000_UR.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,1:33,0,,,Awaken to UR,0,wu_jiang_ur,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101001600,104,0,0,Sacred Palace,USER_HS,HL0,1000_HS.png,2039_0.png,1000_HS.png,2039.png,1,6,1001|1002|1003,0,3:2:100|3:22:450,7,0,,,Vow to obtain,0,wu_jiang,hero_user_wu_jiang,3,1,,img_hunsha_bg,0
 101001700,103,1,1,Idol Angel,USER_DGF,HL0,1000_DGF.png,2039_0.png,1000_DGF.png,2039.png,1,6,1001|1002|1003,0,3:1:100|3:22:450,5:10002:10002,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
@@ -327,6 +327,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102077300,102,0,0,Winterland Lord - Thor,SE_UR_PLUS,YKLS0,2077_UR_PLUS.png,2049_0.png,2077_UR_PLUS.png,2049.png,1,6,2077,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,se_ur,hero_se_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102078000,0,0,0,Apollo,ABL0,YKLS0,2078_0.png,2049_0.png,2078.png,2049.png,0,2,2078,1,0,0,0,,111|1,Default,0,abl,hero_abl,4,1,RanShaoLianYu,img_job_bg_1,0
 102078200,102,0,0,Light Ruler-Apollo,ABL_UR,YKLS0,2078_UR.png,2049_0.png,2078_UR.png,2049.png,1,6,2078,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,abl_ur,hero_abl_ur,4,1,RanShaoLianYu,img_job_bg_1,0
+102078300,102,0,0,Luminous Lyre-Apollo,ABL_UR_PLUS,YKLS0,2078_UR_PLUS.png,2049_0.png,2078_UR_PLUS.png,2049.png,1,6,2078,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,abl_ur,hero_abl_ur,4,1,RanShaoLianYu,img_job_bg_1,1
 102079000,0,0,0,Sakura Spirit,YHY0,YKLS0,2079_0.png,2049_0.png,2079.png,2049.png,0,2,2079,1,0,0,0,,111|1,Default,0,yhy,hero_yhy,4,1,ShenNvQiSuo,img_job_bg_1,0
 102080000,0,0,0,Zodiac Rabbit,MT0,YKLS0,2080_0.png,2049_0.png,2080.png,2049.png,0,2,2080,1,0,0,0,,111|1,Default,0,mt,hero_mt,4,1,ShouErQingDian,img_job_bg_1,0
 102081000,0,0,0,Horus,HLS0,YKLS0,2081_0.png,2049_0.png,2081.png,2049.png,0,2,2081,1,0,0,0,,111|1,Default,0,hls,hero_hls,4,1,RanShaoLianYu,img_job_bg_1,0
