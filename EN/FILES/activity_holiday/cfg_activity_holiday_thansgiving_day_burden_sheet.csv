@@ -1,0 +1,5 @@
+id,name,icon,burden,advance,score
+1001,Cake,img_dangao.png,5:3000223:15|5:3000224:10,0,2
+1002,Ham,img_roupai.png,5:3000223:25|5:3000225:10,0,3
+1003,Pumpkin Pie,img_pai.png,5:3000223:25|5:3000224:25|5:3000225:10,0,5
+1004,Roasted Turkey,img_shaoji.png,5:3000223:50|5:3000226:10,1,20

@@ -15022,7 +15022,7 @@ Increases DMG taken by 30% and ATK by 20%,
 "When in her action, if her HP is higher than or equal to 30%, increases her Crit DMG by 50%; if not, increases her Leech effect by 30% for 1 round.",
 Wonder Arrival,
 Genesis Wonder,
-ACTIVITY_SUMMON_DESC_73,<size=20>The Queen has returned at last! All gods must pay her homage!</size>
+ACTIVITY_SUMMON_DESC_73,The Queen has returned at last! All gods must pay her homage!
 Genesis Wonder,
 UR_PLUS_HERO_CHALLENGE_BOSS,Wonder Trial
 UR_PLUS_DUNGEON_LEVEL_MAX,Orb has reached the highest level.
@@ -15258,7 +15258,7 @@ Full-Moon Festival Chat Frame,
 Full-Moon Festival Limited Chat Frame,
 Full-Moon Festival,
 Full-Moon Package,
-Full-Moon Luxury Diamond Sale,
+Black Friday Diamond Gift,
 Full-Moon Limited Special Discount,
 Full-Moon Ranking Reward,
 Congratulations on ranking {0} in the Full-Moon Ranking event. You will get the following rewards:,
@@ -16053,10 +16053,10 @@ THANKSGIVING_LUXURY_REWARD_RERE,Rare Gift: (guaranteed to have random 1 items be
 THANKSGIVING_LUXURY_REWARD_ADVANCE,Advance Gift: (guaranteed to have random 2 items below)
 THANKSGIVING_LUXURY_REWARD_NORMAL,Guaranteed Gift:
 REJECT,Please wait
-ACTIVITY_HOLIDAY_THANKSGIVING_DAY_SCORE_RANK_REWARD_MAIL_TITLE,Romantic Giving Event Ranking Rewards
-ACTIVITY_HOLIDAY_THANKSGIVING_DAY_SCORE_RANK_REWARD_MAIL_CONTENT,Congratulations on ranking {0} in the Romantic Giving event. You will get the following rewards:
-ACTIVITY_THANKSGIVING_DAY_EXCHANGE_COIN_TITLE,Romantic Giving Limited Item Recycle
-ACTIVITY_THANKSGIVING_DAY_EXCHANGE_COIN_CONTENT,The Romantic Giving event is ended. All event items are recycled into diamonds.
+ACTIVITY_HOLIDAY_THANKSGIVING_DAY_SCORE_RANK_REWARD_MAIL_TITLE,Thanksgiving Banquet Event Ranking Awards
+ACTIVITY_HOLIDAY_THANKSGIVING_DAY_SCORE_RANK_REWARD_MAIL_CONTENT,Congratulations on ranking {0} in the Thanksgiving Banquet event. You will get the following rewards:
+ACTIVITY_THANKSGIVING_DAY_EXCHANGE_COIN_TITLE,Thanksgiving Banquet Limited Item Recycling
+ACTIVITY_THANKSGIVING_DAY_EXCHANGE_COIN_CONTENT,
 THANKSGIVING_LUXURY_TIPS,Get {0} Points and multiple items
 THANKSGIVING_NORMAL_TIPS,Get {0} Points and multiple items
 Drops during the Thanksgiving event. It is used to cook the Thanksgiving Dinner. (Auto-recycled after the event ends),
@@ -17614,7 +17614,7 @@ Spring Summon,
 Waking of Spring Pack,
 Spring Flower Pack 1,
 "Here're today's rewards of the Romantic Souvenir Card. Thanks for your support, and we wish you a sweet Valentine's Day.",
-Anniversary card,Ocean Souvenir Card
+Anniversary card,Black Friday Souvenir Card
 2023 Waking of Spring Avatar Frame,
 2023 Waking of Spring Chat Bubble,
 Bedside Roses,
@@ -19695,8 +19695,8 @@ Frigga's Hypocrisy,
 Frigga in the Past,
 3rd Anniversary Avatar Frame,
 3rd Anniversary Limited Avatar Frame,
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card Rewards
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Black Friday Souvenir Card Reward
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are today's rewards for the Black Friday Souvenir Card. Enjoy your treat!
 3rd Anniversary Limited Chat Bubble,
 Finish the current parade and go back to the beginning,
 Universal Dice*2,
@@ -22345,3 +22345,142 @@ Recieves a certain amount of DMG for each round,
 Heartburn,
 Stuns all enemies for 1 round when being defeated (can only be triggered once per battle),
 Deals 10% True DMG of this angel's Max HP to all enemies (can only be triggered once per battle),
+Initial Oracle Value: {0},
+Oracle Value Required: {0},
+Activate {0}-star effect after awakening,
+Awakened {0} Star,
+NOTICE_10010005,The Chosen One! <color=#25c1e9>{0}</color> Ascends <color=#FF3838FF>MR-{1}</color> to <color=#25c1e9>{2}</color> Star!
+NOTICE_10010006,<color=#25c1e9>{0}</color> synthesizes <color=#FF3838FF>MR-{1}</color>!
+Thanksgiving Gacha,
+Thanksgiving Banquet,
+Thanksgiving Banquet Limited Item Recycling,
+,
+Unreceived Rewards for Thanksgiving Banquet,
+"You have unreceived Thanksgiving Banquet rewards, which have been sent by email.",
+Thanksgiving Banquet Event Ranking Awards,
+Congratulations on ranking {0} in the Thanksgiving Banquet event. You will get the following rewards:,
+Premium Flour,
+Raw Pumpkin,
+Raw Meat,
+Big Turkey,
+"Special item for Thanksgiving event, can be used to make a feast in Thanksgiving Banquet event and get rewards. You can get it through events and idle rewards.",
+Make different meals to get different rewards,
+Upgrade the dinner level and receive a luxurious dinner reward,
+Dinner Class,
+Dinner Points,
+Dinner Class Reward Preview,
+"After the dinner starts, you will receive the corresponding dinner reward according to the dinner class.",
+Thanksgiving Shop,
+The Thanksgiving Points will be reset after the event ends,
+Cooking Reward Preview,
+Cooking Points:,
+Cook 10 times,
+Get {0}{1},
+{0}{1} ascend to {2}-star,
+{0} upgrade to {1},
+Stage {0} Clear Rewards,
+Relic Training,
+Highest Damage,
+Stage 1,
+General Reward,
+Premium Reward,
+Unlock Premium Rewards,
+ACTIVITY_SUMMON_DESC_112,Will I be the rose in your garden that you love the most?
+Supreme Rose,
+Supreme Rose - Hera,
+Pumpkin Cake,
+Pumpkin Pie,
+Roasted Turkey,
+Divinity Ascend,
+Login Benefits,
+Light Trial,
+Training Speed-up,
+HERO_MR_AWAKE_NEED_GOD_AWAKE_LEVEL_CONTENT,Reach certain UR+ level to upgrade MR level
+MR Hera Shard,
+Summon times: {0},
+Summon times,
+ACTIVITY_MR_HERO_RANK_REWARD_MAIL_TITLE,Light Trial Ranking Reward
+ACTIVITY_MR_HERO_RANK_REWARD_MAIL_CONTENT,"Congratulations on ranking {0} in the Light Trial event, here are your rewards:"
+Ocean Souvenir Card,
+Ocean Souvenir Card Rewards,
+,
+THANKSGIVING_UP_LEVEL_GET_AWARD,Upgrade the banquet class for luxurious banquet rewards.
+THANKSGIVING_UP_LEVEL,Banquet Class: {0}
+THANKSGIVING_OPNE_TIME,Start In: {0} days {1}
+THANKSGIVING_AWARD_GETTED,Banquet rewards have been claimed.
+THANKSGIVING_NOT_OPEN,Thanksgiving banquet has not started yet.
+THANKSGIVING_SCORE,Banquet Points +{0}
+THANKSGIVING_GOODS_NOT_ENOUGH,Not enough cooking materials
+LIMIT_SUMMON_MR_TIPS,Reach certain UR+ level to upgrade MR level
+ACTIVITY_MR_HERO_CHALLENGE_BOSS,Light Trial
+Stage 2,
+Stage 3,
+Stage 4,
+Stage 5,
+Stage 6,
+Stage 7,
+ACTIVITY_MR_AWAKE,Training Speed-up
+Sacred Roses-Hera,
+ACTIVITY_MR_HERO_NOT_GET_REWARD_TITLE,Divinity Ascend Unclaimed Rewards
+ACTIVITY_MR_HERO_NOT_GET_REWARD_CONTENT,These are the rewards you did not claim in the Divinity Ascend event
+ACTIVITY_MR_DUNGEON_RANK_REWARD_MAIL_TITLE,Endless Night Ranking Reward
+ACTIVITY_MR_DUNGEON_RANK_REWARD_MAIL_CONTENT,"Congratulations on ranking {0} in the Nightmare Realm event, here are your rewards:"
+ACTIVITY_HOLIDAY_THANKSGIVING_DAY_MAKING_DINNER_REWARD,Thanksgiving Banquet Unclaimed Rewards
+ACTIVITY_HOLIDAY_THANKSGIVING_DAY_MAKING_DINNER_REWARD_CONTENT,"You have unreceived Thanksgiving Banquet rewards, which have been sent by email."
+Celestial Domain,
+THANKSGIVING_LEVEL_NOT_GET_AWARD,Cannot claim for inadequate Banquet Class
+THANKSGIVING_MAKING_SCORE,Cooking Points:{0}
+Divinity Ascend,
+Revelation Skill,
+Event is in progress,
+Endless Night,
+Nightmare Realm,
+Stage Reward,
+Cider,
+Croissant,
+Cooking Finished,
+Black Friday Diamond Gift,
+Thanksgiving Sign-in,
+Thanksgiving Pack,
+Countdown: {0} days,
+Let the light of the gods descend again!!,
+Cannot claim,
+Collect {0} MR shards to ascend the angel to {1} stars,
+Current level: {0},
+Star Rewards,
+"Challenge levels, collect stars and get rewards",
+Level Details,
+Star Achieved,
+Level Target,
+Win,
+ATK & DEF +5%,
+ATK & DEF +15%,
+Debuff RES+10%,
+"Hera creates a domain that grants her and her allies the [Celestial Light], increasing their DEF by 50% and enhancing their received buff effects by 20% for 2 rounds. \nPassive Effect: Hera's [Encourage] cannot be dispelled.",
+"Hera creates a domain that grants her and her allies the [Celestial Light], increasing their DEF by 60% and enhancing their received buff effects by 20% for 2 rounds. \nPassive Effect: Hera's [Encourage] cannot be dispelled.",
+"Hera creates a domain that grants her and her allies the [Celestial Light] (undispellable), increasing their DEF by 70% and enhancing their received buff effects by 20% for 2 rounds.\nPassive Effect: Hera's [Encourage] cannot be dispelled.",
+"Hera creates a domain that grants her and her allies the [Celestial Light] (undispellable), increasing their DEF by 80% and enhancing their received buff effects by 20% for 2 rounds.\nPassive Effect: Hera's [Encourage] cannot be dispelled.",
+"Hera creates a domain that grants her and her allies the [Celestial Light] (undispellable), increasing their ATK by 10%, DEF by 80%, and enhancing their received buff effects by 20% for 3 rounds.\nPassive Effect: Hera's [Encourage] cannot be dispelled.",
+"Hera creates a domain that grants her and her allies the [Celestial Light] (undispellable), increasing their ATK by 20%, DEF by 80%, and enhancing their received buff effects by 20% for 3 rounds.\nPassive Effect: Hera's [Encourage] cannot be dispelled.",
+"When entering the battle, Hera gains 30 Oracle Points, and the [Celestial Light] additionally increases DEF by 10%.",
+The [Celestial Light] status becomes undispellable and additionally increases DEF by 10%.,
+"When entering the battle, Hera gains 50 Oracle Points, and the [Celestial Light] additionally increases DEF by 10%.",
+The [Celestial Light] status lasts 1 more round and additionally increases ATK by 10%.,
+"After creating the domain, Hera becomes immune to debuffs for 2 rounds, and the [Celestial Light] additionally increases ATK by 10%.",
+Celestial Light - Celestial Domain,
+"Increase DEF, received buff effect",
+"Increase ATK, DEF, and received buff effect",
+Celestial Domain,
+Stage,
+Enemies' attributes * {0}%,
+Target: Win the battle,
+Difficulty Setting,
+Victory Achieved,
+Enemy Lineup,
+End In:,
+Sacred Roses,
+Sacred Roses,
+difficulty,
+Confirm,
+Cancel,
+Divinity Ascend,

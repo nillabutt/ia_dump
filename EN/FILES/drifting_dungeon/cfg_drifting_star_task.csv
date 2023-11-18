@@ -37,3 +37,4 @@ task_id,task_type,param_1,param_2,desc
 36,14,2049,3,Win with 3 or more enemies killed by Icarus
 37,2,2053,0,Win with Himiko on the team
 38,14,2053,3,Win with 3 or more enemies killed by Himiko
+39,8,30,0,Win
