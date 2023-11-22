@@ -3,4 +3,4 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 102,img_loading_ywj_UR.png,Dimension Breaker,-66,600,0.75,YWJ_UR,0,LOADING.jpg,0,0,0
 103,img_loading_ywj_UR_plus.png,Oceanic Reverie,-60,400,0.8,YWJ_UR_PLUS,0,Loading_01.jpg,0,0,0
 104,img_loading_ykls_yz1.png,Swimsuit Party,-20,290,0.78,YKLS_YZ1,0,Loading_01.jpg,0,0,0
-105,img_loading_hl_MR.png,Sacred Roses,-80,620,0.72,HL_MR,0,LOADING.jpg,2039,0,1
+105,img_loading_hl_MR.png,Sacred Roses-Hera,-80,620,0.72,HL_MR,0,LOADING.jpg,2039,0,1
