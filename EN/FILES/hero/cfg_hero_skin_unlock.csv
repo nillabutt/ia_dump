@@ -176,7 +176,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102039007,101,0,0,Swimsuit Party,HL_YZ2,HL0,2039_YZ2.png,,2039_0.png,2039_YZ2.png,2039.png,1,6,2039,0,3:1:100|3:22:450,5:10041:10042,0,,,Buy,1,hl,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102039200,102,0,0,Supreme Power-Hera,HL_UR,HL0,2039_UR.png,,2039_0.png,2039_UR.png,2039.png,1,6,2039,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102039300,102,0,0,Supreme Queen-Hera,HL_UR_PLUS,HL0,2039_UR_PLUS.png,,2039_0.png,2039_UR_PLUS.png,2039.png,1,6,2039,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,1
-102039368,102,0,0,Sacred Roses-Hera,HL_MR,HL0,2039_MR.png,,2039_0.png,2039_MR.png,2039.png,1,6,2039,0,3:1:100|3:22:450,9,0,,,Wonder Waken,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,1
+102039368,102,0,0,Sacred Roses-Hera,HL_MR,HL0,2039_MR.png,,2039_0.png,2039_MR.png,2039.png,1,6,2039,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102040000,0,0,0,Zhu Rong,HSZR0,R_UR_PLUS_SH,2040_0.png,,2037_UR_PLUS_SH.png,2040.png,2037_UR_PLUS_SH.png,0,2,2040,1,0,0,0,,111|1,Default,0,hszr,hero_hszr,4,1,NuwaJingu,img_job_bg_1,0
 102040001,105,0,0,Zhu Rong,HSZR1,R_UR_PLUS_SH,2040_1.png,,2037_UR_PLUS_SH.png,2040_1.png,2037_UR_PLUS_SH.png,0,3,2040,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,hszr,hero_hszr,4,1,NuwaJingu,img_job_bg_1,0
 102040002,103,0,0,Zhu Rong,HSZR2,R_UR_PLUS_SH,2040_2.png,,2037_UR_PLUS_SH.png,2040_2.png,2037_UR_PLUS_SH.png,0,4,2040,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,0,hszr,hero_hszr,4,1,NuwaJingu,img_job_bg_1,0
