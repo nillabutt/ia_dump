@@ -16614,7 +16614,7 @@ Quick-Combat time(s),
 Quick-Combat 1 times,
 Full Star,
 SSR+ Angel with full stars will not be included,
-Draws at this event will be counted on Halloween Summon,
+Draws at this event will be counted on Summon Celebration,
 ACTIVITY_SUMMON_DESC_80,The pure wings that can dispel darkness and disappointment!
 <size=18>Open 10 times</size>,
 <size=20>Christmas Coins will be automatically recycled after the event ends</size>,
@@ -17606,7 +17606,7 @@ Let's see who will have the last laugh!,
 Ocean Souvenir Card,
 Spring Souvenir Card,
 <size=29>Diamond Gift for your Romantic Move</size>,
-Full-Moon Limited Special Discount,
+Black Friday Discount,
 Spring Sign-in,
 Spring Exchange,
 Ocean Party,
@@ -22370,7 +22370,7 @@ Banquet Class,
 Banquet Points,
 Banquet Class Reward Preview,
 "After the banquet starts, you will receive the corresponding banquet reward according to the banquet class.",
-Thanksgiving Shop,
+Shop,
 The Thanksgiving Points will be reset after the event ends,
 Cooking Reward Preview,
 Cooking Points:,
@@ -22409,7 +22409,7 @@ THANKSGIVING_UP_LEVEL,Banquet Class: {0}
 THANKSGIVING_OPNE_TIME,Start In: {0} days {1}
 THANKSGIVING_AWARD_GETTED,Banquet rewards have been claimed.
 THANKSGIVING_NOT_OPEN,Thanksgiving banquet has not started yet.
-THANKSGIVING_SCORE,Banquet Points +{0}
+THANKSGIVING_SCORE,Points +{0}
 THANKSGIVING_GOODS_NOT_ENOUGH,Not enough cooking materials
 LIMIT_SUMMON_MR_TIPS,Reach certain UR+ level to upgrade MR level
 ACTIVITY_MR_HERO_CHALLENGE_BOSS,Light Trial
@@ -22445,7 +22445,7 @@ Thanksgiving Pack,
 Countdown: {0} days,
 Let the light of the gods descend again!!,
 Cannot claim,
-Collect {0} MR shards to ascend the angel to {1} stars,
+Collect {0} MR shards to ascend to {1} stars,
 Current level: {0},
 Star Rewards,
 "Challenge levels, collect stars and get rewards",
@@ -22496,3 +22496,5 @@ Stage:,
 This shard can be used to upgrade the quality of an angel in the Divinity Ascend.,
 Thanksgiving Limited1,
 Thanksgiving Limited2,
+Collect {0} MR Shards to waken,
+HERO_ALREADY_MR,This angel has already been ascended
