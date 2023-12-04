@@ -15,5 +15,5 @@ task_id,task_type,task_group,task_index,task_id_before,task_subtype,task_conditi
 21000114,21,0,13,0,0,30,3500000,1:2:1100|5:3000064:10,0,Angel Horn,The team's Combat Rating reaches 3500000,70
 21000115,21,0,14,0,0,30,4000000,1:2:1200|5:1000008:20,0,Angel Horn,The team's Combat Rating reaches 4000000,75
 21000116,21,0,15,0,0,30,4500000,1:2:1300|5:3000011:10,0,Angel Horn,The team's Combat Rating reaches 4500000,80
-21000117,21,0,16,0,0,30,5000000,1:2:1400|5:3000048:10,0,Angel Horn,The team's Combat Rating reaches 5000000,85
+21000117,21,0,16,0,0,30,5000000,1:2:1400|5:3000005:10,0,Angel Horn,The team's Combat Rating reaches 5000000,85
 21000118,21,0,17,0,0,30,6000000,1:2:1500|15:151001:1,0,Angel Horn,The team's Combat Rating reaches 6000000,90

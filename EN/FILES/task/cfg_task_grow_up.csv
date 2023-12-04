@@ -37,11 +37,11 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200030,4,1,200001,35,110006,1,70,1:2:1000,Level Up Achievements,Player upgrade to Lv70 and unlock Star Trial,,4
 200031,4,1,200001,36,200030,200,5,4:107:1,Level Up Achievements,Any Angel equips a whole set of Gems of above Lv. 5,,1|0
 200032,4,1,200001,37,200031,57,1,4:207:1,Level Up Achievements,Complete Regular difficulty Star Trial,,11
-110007,4,1,200001,38,200032,3,340,5:3000048:10,Level Up Achievements,Complete all dungeons in Godban Gorge,,4
-200033,4,1,200001,39,110007,3,400,5:3000048:10,Level Up Achievements,Complete all dungeons in God Valley,,4
-110008,4,1,200001,40,200033,3,460,5:3000048:10,Level Up Achievements,Complete all dungeons in Abyss,,4
-110009,4,1,200001,41,110008,3,520,5:3000048:10,Level Up Achievements,Complete all dungeons in Shadow Sea,,4
-200034,4,1,200001,42,110009,3,580,5:3000048:10,Level Up Achievements,Complete all dungeons in Milan,,4
+110007,4,1,200001,38,200032,3,340,5:3000004:10,Level Up Achievements,Complete all dungeons in Godban Gorge,,4
+200033,4,1,200001,39,110007,3,400,5:3000004:10,Level Up Achievements,Complete all dungeons in God Valley,,4
+110008,4,1,200001,40,200033,3,460,5:3000004:10,Level Up Achievements,Complete all dungeons in Abyss,,4
+110009,4,1,200001,41,110008,3,520,5:3000004:10,Level Up Achievements,Complete all dungeons in Shadow Sea,,4
+200034,4,1,200001,42,110009,3,580,5:3000049:10,Level Up Achievements,Complete all dungeons in Milan,,4
 110010,4,1,200001,43,200034,3,640,5:3000049:10,Level Up Achievements,Complete all dungeons in Rome,,4
 200035,4,1,200001,44,110010,3,700,5:3000049:10,Level Up Achievements,Complete all dungeons in Sicily,,4
 110011,4,1,200001,45,200035,3,760,5:3000049:10,Level Up Achievements,Complete all dungeons in Napoli,,4

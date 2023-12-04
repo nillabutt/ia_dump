@@ -8,3 +8,5 @@ physc_def,300
 magic_def,300
 crit,300
 decrit,300
+debuff_resist,1
+bounce_rate,1

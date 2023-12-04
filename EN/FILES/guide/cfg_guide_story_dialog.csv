@@ -4643,7 +4643,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34600078,34600079,,NuwaJingu,,0,ABL_UR_PLUS,HFSTS0,1,Apollo,"Is that so? Your words give me hope, Hades. Please, take me to see that lyre.",,0,0
 34600079,-1,57101|57102,NuwaJingu,,0,HDS2,HFSTS0,2,Hades,"Of course, no problem. But you must promise me that if you can play it, you will complete Orpheus's unfinished masterpiece.",,0,0
 34600080,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Very well, I'm looking forward to hearing that lyre make music once again.",,0,0
-34600081,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,I fully understand your concerns; it would be a disservice to the instrument if talent does not match.,,0,0
+34600081,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Yeah, it would be a disservice to the instrument if talent does not match.",,0,0
 34600082,34600083,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Beware, though; this divine lyre may take on your form to challenge you, to showcase your talent and recognize your presence!",,0,0
 34600083,-1,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,I will prove that my talent is worthy of it!,,0,0
 34600084,34600085,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I've done it, Hades! I've gained the lyre's recognition!",,0,0

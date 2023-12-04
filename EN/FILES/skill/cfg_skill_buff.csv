@@ -7,7 +7,7 @@
 66664311,46,,,Soul of Tranquility,,处于不良状态时，受到伤害降低30%,,0
 66664411,42,,,Soul of Rage,,自身受到伤害提升30%，伤害增加30%,,0
 66665111,45,,,Law of Eternity,,免疫死亡,,0
-66665211,1,1002_buff,,Stun,YunXuan,Cannot perform actions for 1 round,,0
+66665211,1,,,Stun,YunXuan,Cannot perform actions for 1 round,,0
 66665411,,,,吸血-协调之律,,增加吸血,,0
 66665412,,,,增伤-协调之律,,伤害增加,,0
 999911111,,,,输出1,,伤害增加,,2
@@ -15,176 +15,176 @@
 999923111,,,,肉3,,增加防御、伤害反弹,,3
 999941111,,,,奶1,,受到攻击治疗,,0
 999951111,,,,控1-受击buff,,,,0
-999951121,,,,控1-受击buff加buff,,加效果命中,效果命中提升,10
-999953111,,,,控3,,加血上限,生命上限提升,3
-100111214,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 20% for 2 rounds,攻击降低,0
-100111215,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 30% for 2 rounds,攻击降低,0
-100111216,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 40% for 2 rounds,攻击降低,0
-100111226,8,,,Sunder Armor-Thunderbolt,PoJia,DEF decreased by 40% for 2 rounds,防御降低,0
-100111217,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 50% for 2 rounds,攻击降低,0
-100111227,8,,,Sunder Armor-Thunderbolt,PoJia,DEF decreased by 50% for 2 rounds,防御降低,0
-100111218,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 50% for 2 rounds,攻击降低,0
-100111228,8|11,,,Smash-Thunderbolt,FenSui,"DEF, P.RES, M.RES decreased by 50% for 2 rounds",防御 物抗 魔抗降低,0
-100112111,16,,,Excite-Battle Horn,FenFa,DMG increased by 20% for 3 rounds,伤害提高,0
-100112112,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 25% for 3 rounds",防御提高,0
-100112113,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 30% for 3 rounds",防御提高,0
-100112214,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 35% for 3 rounds",防御提高,0
-100112215,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 40% for 3 rounds",防御提高,0
-100112216,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 50%, Critic Value increased by 30% for 3 rounds",防御 暴击提高,0
-100112217,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 60%, Critic Value increased by 40% for 3 rounds",防御 暴击提高,0
-100112218,16,,,Excite-Battle Horn,FenFa,"DMG, DEF, Critic Value increased by 60% for 3 rounds",防御 暴击提高,0
-150112217,16,,,Excite-Battle Horn,FenFa,3回合伤害、防御力增加60%，暴击值、暴伤增加40%,防御 暴击 暴伤提高,0
-160112218,16,,,Excite-Battle Horn,FenFa,"Increases DMG, DEF and Crit by 60%, Crit DMG by 40% for 3 rounds",防御 暴击 暴伤提高,0
+999951121,,,,控1-受击buff加buff,,加效果命中,Effect ACC UP,10
+999953111,,,,控3,,加血上限,Max HP UP,3
+100111214,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 20% for 2 rounds,ATK DOWN,0
+100111215,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 30% for 2 rounds,ATK DOWN,0
+100111216,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 40% for 2 rounds,ATK DOWN,0
+100111226,8,,,Sunder Armor-Thunderbolt,PoJia,DEF decreased by 40% for 2 rounds,DEF DOWN,0
+100111217,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
+100111227,8,,,Sunder Armor-Thunderbolt,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
+100111218,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
+100111228,8|11,,,Smash-Thunderbolt,FenSui,"DEF, P.RES, M.RES decreased by 50% for 2 rounds","DEF, P.RES, M.RES DOWN",0
+100112111,16,,,Excite-Battle Horn,FenFa,DMG increased by 20% for 3 rounds,DMG UP,0
+100112112,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 25% for 3 rounds",DEF UP,0
+100112113,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 30% for 3 rounds",DEF UP,0
+100112214,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 35% for 3 rounds",DEF UP,0
+100112215,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 40% for 3 rounds",DEF UP,0
+100112216,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 50%, Critic Value increased by 30% for 3 rounds","DEF, CRIT UP",0
+100112217,16,,,Excite-Battle Horn,FenFa,"DMG, DEF increased by 60%, Critic Value increased by 40% for 3 rounds","DEF, CRIT UP",0
+100112218,16,,,Excite-Battle Horn,FenFa,"DMG, DEF, Critic Value increased by 60% for 3 rounds","DEF, CRIT UP",0
+150112217,16,,,Excite-Battle Horn,FenFa,3回合伤害、防御力增加60%，暴击值、暴伤增加40%,"DEF, CRIT, CRIT DMG UP",0
+160112218,16,,,Excite-Battle Horn,FenFa,"Increases DMG, DEF and Crit by 60%, Crit DMG by 40% for 3 rounds","DEF, CRIT, CRIT DMG UP",0
 170112111,,,,Divine Aura,,护盾,,0
-170113111,,,,MC Halo,ZhuJue,"Respectively increases ATK, DEF, P.RES, M.RES and Debuff RES.(Neutral Status)",属性提升,0
-100102211,1,1002_buff,,Stun,YunXuan,Cannot perform actions for 1 round,无法行动,0
-100105111,22,,,Shield Wall,TiaoXin,"In 2 rounds, reduce DMG by 60% and taunts the enemy",挑衅 受伤降低,0
-100106111,17|27,1006_buff,,Frenzy,BaoZou,All attacks become critical hits for 3 rounds and gain immunity to debuffs,暴击提高 异常免疫,0
-100107111,24,,,Fiery Wrath,FenNu,"In 5 rounds, increase DMG by 50% and increase DMG Received by 50%",伤害 受伤提高,0
-100108111,15,,,Battle Fury,KuangLuan,"In 3 rounds, increase DMG by 30%, DEF by 90%",伤害 防御提高,0
-100109211,10,,,Bleed,LiuXue,Unable to restore HP for 2 rounds,无法回复,0
+170113111,,,,MC Halo,ZhuJue,"Respectively increases ATK, DEF, P.RES, M.RES and Debuff RES.(Neutral Status)",Attributes UP,0
+100102211,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+100105111,22,,,Shield Wall,TiaoXin,"In 2 rounds, reduce DMG by 60% and taunts the enemy","Taunt, DMG Taken DOWN",0
+100106111,17|27,1006_buff,,Frenzy,BaoZou,All attacks become critical hits for 3 rounds and gain immunity to debuffs,CRIT UP; Debuff Immunity,0
+100107111,24,,,Fiery Wrath,FenNu,"In 5 rounds, increase DMG by 50% and increase DMG Received by 50%","DMG, DMG Taken UP",0
+100108111,15,,,Battle Fury,KuangLuan,"In 3 rounds, increase DMG by 30%, DEF by 90%","DMG, DEF UP",0
+100109211,10,,,Bleed,LiuXue,Unable to restore HP for 2 rounds,Unable to recover HP,0
 100201211,7,,,Poison,ZhongDu,"In 2 rounds, lose 3% of max HP in each round",Poison,0
-100203111,29,,,Blast Shot,,"In 1 round, increase CRIT by 10%",暴击率提高,0
-100204211,2,,,Seal,FengYin,Cannot use skills for 2 rounds,无法使用技能,0
-100205211,12,2005_buff,,Mark,YinJi,"In 3 rounds, archers will prioritize their attack on the target",射手优先攻击,0
+100203111,29,,,Blast Shot,,"In 1 round, increase CRIT by 10%",CRIT Probability UP,0
+100204211,2,,,Seal,FengYin,Cannot use skills for 2 rounds,Unable to use skill,0
+100205211,12,2005_buff,,Mark,YinJi,"In 3 rounds, archers will prioritize their attack on the target",Archer attack first,0
 100206111,20,,,Invisibility,YingShen,"In 2 rounds, receive AoE DMG only",Invisibility,0
-100207211,3,,,Blind,ZhiMang,"In 3 rounds, reduce ACC by 70%",命中降低,0
-100208111,19,,,Kill Order,KuangLuan,"In 2 rounds, increase DMG dealt by 70%",伤害提高,0
+100207211,3,,,Blind,ZhiMang,"In 3 rounds, reduce ACC by 70%",ACC DOWN,0
+100208111,19,,,Kill Order,KuangLuan,"In 2 rounds, increase DMG dealt by 70%",DMG UP,0
 100303211,6,,,Blizzard,XuRuo,"In 2 rounds, reduce DMG by 50%",DMG Reduced,0
-100304211,4,,,Freeze,BingDong,"Freezed, cannot perform actions for 1 round",无法行动,0
-100306111,18,,,Ice Barrier-Cold Guardian,BingJia,"For 2 rounds, P. RES increases by 100%, DMG Reflect increases by 30%; when receiving a Basic Attack, 50% chance to freeze the attacker for 2 round",概率冻结攻击者|物抗 反伤提高,0
-100306221,4,,,Freeze,BingDong,"Freezed, cannot perform actions for 2 round",无法行动,0
-125402111,18,,,Ice Barrier-Aegis of Ice,BingJia,"For 2 rounds, P. RES increases by 100%, DMG Reflect increases by 40%; when receiving a Basic Attack, 55% chance to freeze the attacker for 2 round",概率冻结攻击者|物抗 反伤提高,0
-135402111,18,,,Ice Barrier-Cold Guardian,BingJia,"Increases P.RES by 100% and DMG Reflection by 30% for 3 rounds, and it has a 50% chance to freeze the attacker for 2 rounds  when receiving normal attack.",概率冻结攻击者|物抗 反伤提高,0
-145402111,18,,,Ice Barrier-Aegis of Ice,BingJia,"Increases P.RES by 100% and DMG Reflection by 40% for 3 rounds, and it has a 55% chance to freeze the attacker for 2 rounds  when receiving normal attack.",概率冻结攻击者|物抗 反伤提高,0
+100304211,4,,,Freeze,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+100306111,18,,,Ice Barrier-Cold Guardian,BingJia,"For 2 rounds, P. RES increases by 100%, DMG Reflect increases by 30%; when receiving a Basic Attack, 50% chance to freeze the attacker for 2 round","Probability to freeze the attacker | P.RES, DMG Reflect UP",0
+100306221,4,,,Freeze,BingDong,"Freezed, cannot perform actions for 2 round",Unable to move,0
+125402111,18,,,Ice Barrier-Aegis of Ice,BingJia,"For 2 rounds, P. RES increases by 100%, DMG Reflect increases by 40%; when receiving a Basic Attack, 55% chance to freeze the attacker for 2 round","Probability to freeze the attacker | P.RES, DMG Reflect UP",0
+135402111,18,,,Ice Barrier-Cold Guardian,BingJia,"Increases P.RES by 100% and DMG Reflection by 30% for 3 rounds, and it has a 50% chance to freeze the attacker for 2 rounds  when receiving normal attack.","Probability to freeze the attacker | P.RES, DMG Reflect UP",0
+145402111,18,,,Ice Barrier-Aegis of Ice,BingJia,"Increases P.RES by 100% and DMG Reflection by 40% for 3 rounds, and it has a 55% chance to freeze the attacker for 2 rounds  when receiving normal attack.","Probability to freeze the attacker | P.RES, DMG Reflect UP",0
 100309111,28,,,Magic Barrier,,"In 2 rounds, use MP to absorb DMG, 1 MP absorb 5 DMG",Magic Barrier,0
-100310211,1,,,Stun,YunXuan,Cannot perform actions for 1 round,无法行动,0
-100111211,1,1002_buff,,Stun-Thunderbolt,YunXuan,Cannot perform actions for 1 round,无法行动,0
-110002211,1,,,Stun-Petrified Gaze,YunXuan,Cannot perform actions for 1 round,无法行动,0
-110102211,6,,,Weaken-Curse of the Abyss,XuRuo,ATK decreased by 30% for 1 round,攻击降低,0
-110202211,17|27,,,Frenzied-Divination,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 3 rounds",暴击提高 异常免疫,0
+100310211,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+100111211,1,,,Stun-Thunderbolt,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+110002211,1,,,Stun-Petrified Gaze,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+110102211,6,,,Weaken-Curse of the Abyss,XuRuo,ATK decreased by 30% for 1 round,ATK DOWN,0
+110202211,17|27,,,Frenzied-Divination,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 3 rounds",CRIT UP; Debuff Immunity,0
 110301211,7,,,Poison-Divination,ZhongDu,"In 4 rounds, lose 3% of current HP in each round",Poison,0
 110501211,9,,,Ignite-Tsukuyomi,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-110701211,1,,,Stun-Poison Discharge,YunXuan,Cannot perform actions for 1 round,无法行动,0
+110701211,1,,,Stun-Poison Discharge,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 110702211,7,,,Poison-Curse of Herbs,ZhongDu,"In 3 rounds, lose 3% of current HP in each round",Poison,0
-110802111,22,,,Taunt-Earthquake,TiaoXin,"Taunt, reduces 65% DMG taken for 2 rounds",挑衅 受伤降低,0
+110802111,22,,,Taunt-Earthquake,TiaoXin,"Taunt, reduces 65% DMG taken for 2 rounds","Taunt, DMG Taken DOWN",0
 110901211,9,,,Ignite-Infinite Chaos,RanShao,"For 2 rounds, receive 80% of ATK's M.DMG per round",Ignite,0
-111001211,4,,,Freeze,BingDong,"Freezed, cannot perform actions for 1 round",无法行动,0
-111101111,,,,Avator,,"In 1 round, increase critical hit DMG by 180%",暴伤提高,0
-111201211,6,,,Weaken-Box of Calamity,XuRuo,ATK decreased by 50% for 2 rounds,攻击降低,0
-111401211,3,,,Blind-Apple of Youth,ZhiMang,ACC decreased by 80% for 3 rounds,命中降低,0
-111602111,16,,,Excite-Seraph,FenFa,"DEF increased by 60%, ATK incresed by 18% for 3 rounds",防御降低 攻击提高,0
-111801211,23,,,Afterimage-Relentless Justice,CanYing,EVA increased by 30% for 3 rounds,闪避提高,0
-111902211,2,,,Seal-Mesmerizing Tune,FengYin,Cannot cast skill for 2 rounds,无法释放技能,0
-112001211,1,,,Stun-Arcane Arrow,YunXuan,Cannot perform actions for 1 round,无法行动,0
-112002211,10,,,Bleed-Devastating Shot,LiuXue,Cannot receive any healing for 2 round,无法回复,0
+111001211,4,,,Freeze,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+111101111,,,,Avator,,"In 1 round, increase critical hit DMG by 180%",Crit DMG UP,0
+111201211,6,,,Weaken-Box of Calamity,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
+111401211,3,,,Blind-Apple of Youth,ZhiMang,ACC decreased by 80% for 3 rounds,ACC DOWN,0
+111602111,16,,,Excite-Seraph,FenFa,"DEF increased by 60%, ATK incresed by 18% for 3 rounds",DEF DOWN; ATK UP,0
+111801211,23,,,Afterimage-Relentless Justice,CanYing,EVA increased by 30% for 3 rounds,EVA UP,0
+111902211,2,,,Seal-Mesmerizing Tune,FengYin,Cannot cast skill for 2 rounds,Unable to release skill,0
+112001211,1,,,Stun-Arcane Arrow,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+112002211,10,,,Bleed-Devastating Shot,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
 112201211,15,,,Excite-Mesmerizing Blonde,FenFa,"DEF increased by 50%, ATK incresed by 25% for 3 rounds",Increase ATK and DEF,0
-112202211,8,,,Sunder Armor-Thunder Spear,PoJia,DEF decreased by 60% for 2 rounds,防御降低,0
+112202211,8,,,Sunder Armor-Thunder Spear,PoJia,DEF decreased by 60% for 2 rounds,DEF DOWN,0
 112301211,7,,,Poison-Descending Darkness,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
-112301311,10,,,Bleed-Descending Darkness,LiuXue,Cannot receive any healing for 2 round,无法回复,0
-112302211,22,,,Taunt-Seducing Shot,TiaoXin,"Taunt, DEF increased by 200% for 2 rounds",挑衅|防御提高,0
-112501211,1,,,Stun-Taichi,YunXuan,Cannot perform actions for 1 round,无法行动,0
-112701211,3,,,Blind-Nether Shot,ZhiMang,ACC decreased by 60% for 2 rounds,命中降低,0
+112301311,10,,,Bleed-Descending Darkness,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+112302211,22,,,Taunt-Seducing Shot,TiaoXin,"Taunt, DEF increased by 200% for 2 rounds",Taunt | DEF UP,0
+112501211,1,,,Stun-Taichi,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+112701211,3,,,Blind-Nether Shot,ZhiMang,ACC decreased by 60% for 2 rounds,ACC DOWN,0
 112802211,7,,,Poison-Flaming Meteor,ZhongDu,"In 3 rounds, lose 3% of current HP in each round",Poison,0
-113002211,14,,,Bolster-Grudges of Hades,YuanHu,"DMG Taken decreased by 55%, DMG Reflect increases by 60% for 2 rounds",受伤降低 反伤提高,0
+113002211,14,,,Bolster-Grudges of Hades,YuanHu,"DMG Taken decreased by 55%, DMG Reflect increases by 60% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
 112601211,7,,,Poison-Matronage,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
-112601311,4,,,Freeze-Matronage,BingDong,"Freezed, cannot perform actions for 2 round",无法行动,0
+112601311,4,,,Freeze-Matronage,BingDong,"Freezed, cannot perform actions for 2 round",Unable to move,0
 112601411,9,,,Ignite-Matronage,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-112602211,1,,,Stun-Meteor Shower,YunXuan,Cannot perform actions for 1 round,无法行动,0
-110302211,1,,,Stun-Neptune's Roar,YunXuan,Cannot perform actions for 1 round,无法行动,0
-113101211,1,,,Stun-Vibrating Jade Charm,YunXuan,Cannot perform actions for 1 round,无法行动,0
+112602211,1,,,Stun-Meteor Shower,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+110302211,1,,,Stun-Neptune's Roar,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+113101211,1,,,Stun-Vibrating Jade Charm,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 113102211,9,,,Ignite-Yata no Kagami,RanShao,"In 3 rounds, lose 4% of current HP in each round",Ignite,0
-1131012111,1,,,Stun-Vibrating Jade Charm,YunXuan,"In 1 round, cannot perform actions and DEF decrease by 40%",无法行动 防御降低,0
+1131012111,1,,,Stun-Vibrating Jade Charm,YunXuan,"In 1 round, cannot perform actions and DEF decrease by 40%",Unable to move; DEF DOWN,0
 1131022111,9,,,Ignite-Yata no Kagami,RanShao,lose 4%  of self Max HP for 4 rounds.,Ignite,0
-113201211,2,,,Seal-Blazing Brilliance,FengYin,Cannot cast skill for 1 rounds,无法释放技能,0
-113301211,10,,,Bleed-Hand of Hell,LiuXue,Cannot receive any healing for 2 round,无法回复,0
-113401211,,,,Spear of Eternity,,"In 1 round, increase critical hit DMG by 180%",暴伤提高,0
-113501211,,,,Focus-Phantom Arrows,ZhuanZhu,Critical DMG increased by 40% for 2 rounds,暴伤提高,0
-113502211,12,,,Mark-Mark of Light,YinJi,"In 2 rounds, archers will prioritize their attack on the target",射手优先攻击,0
-113601911,17|27,,,Frenzy-Eye of Ra,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",暴击提高 异常免疫,0
+113201211,2,,,Seal-Blazing Brilliance,FengYin,Cannot cast skill for 1 rounds,Unable to release skill,0
+113301211,10,,,Bleed-Hand of Hell,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+113401211,,,,Spear of Eternity,,"In 1 round, increase critical hit DMG by 180%",Crit DMG UP,0
+113501211,,,,Focus-Phantom Arrows,ZhuanZhu,Critical DMG increased by 40% for 2 rounds,Crit DMG UP,0
+113502211,12,,,Mark-Mark of Light,YinJi,"In 2 rounds, archers will prioritize their attack on the target",Archer attack first,0
+113601911,17|27,,,Frenzy-Eye of Ra,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",CRIT UP; Debuff Immunity,0
 113602211,9,,,Ignite-Solar Storm,RanShao,"In 3 rounds, lose 4% of current HP in each round",Ignite,0
-123601911,17|27,,,Frenzied-Star Gaze,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",暴击提高 异常免疫,0
+123601911,17|27,,,Frenzied-Star Gaze,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",CRIT UP; Debuff Immunity,0
 123602211,9,,,Ignite-Universe Storm,RanShao,"In 3 rounds, lose 6% of current HP in each round",Ignite,0
 133602111,9,,,Ignite-Solar Storm,RanShao,causing enemies to lose 4% of their Max HP for 3 rounds,Ignite,0
 143602311,9,,,Ignite-Universe Storm,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
-153601111,,,,Flare Reborn,,提升速度（临时buff图标）,速度提高,0
-153601211,,,,Flare Reborn,,伤害增加（临时buff图标）,伤害提高,0
-113701111,8,,,Sunder Armor - Purging Arrow,PoJia,DEF decreased by 60% for 3 rounds,防御降低,0
-113702111,15,,,Excite-Sacred Dance,FenFa,"ATK increased by 40%, DEF increased by 50% for 3 rounds",攻击 防御提高,0
+153601111,,,,Flare Reborn,,提升速度（临时buff图标）,SPD UP,0
+153601211,,,,Flare Reborn,,伤害增加（临时buff图标）,DMG UP,0
+113701111,8,,,Sunder Armor - Purging Arrow,PoJia,DEF decreased by 60% for 3 rounds,DEF DOWN,0
+113702111,15,,,Excite-Sacred Dance,FenFa,"ATK increased by 40%, DEF increased by 50% for 3 rounds","ATK, DEF UP",0
 113801211,16,,,Encourage-Song of War,GuWu,"DEF increased by 100% of Hera's DEF, ATK increased by 60% of Hera's ATK for 3 rouinds",Increase ATK and DEF,0
-123801211,16,,,Encourage-Hero Hymn,GuWu,"DEF increased by 100% of Hera's DEF, ATK increased by 70% of Hera's ATK, P.RES and M.RES increased by 30% of Hera's P.RES and M.RES for 3 rounds",防御 攻击提高|物抗 魔抗提高,0
-123802311,,,,Illuminated-Supreme Glory,ZhaoYao,Increased Heal by 20% for 1 round,治疗提高,0
-133801211,16,,,Encourage-Song of War,GuWu,"All teammates increase DEF by 100% of Hera’s DEF , ATK by 60%, Crit DMG by 10%, FOR by 10%,  for 3 rounds",防御 攻击提高|暴伤 韧性提高,0
-143801211,16,,,Encourage-Hero Hymn,GuWu,"All teammates increase DEF by 100% of Hera’s DEF, ATK by 70%, M.RES and P.RES by 30%, Crit DMG and FOR by 10%, for 3 rounds",防御 攻击提高|物抗 魔抗提高|暴伤 韧性提高,0
-153801111,,,,Soul Calming Wind,,增加10%攻击力和防御，并且每次行动时，随机选择一名我方女神驱散所有负面状态。,攻击 防御提高|异常驱散,0
+123801211,16,,,Encourage-Hero Hymn,GuWu,"DEF increased by 100% of Hera's DEF, ATK increased by 70% of Hera's ATK, P.RES and M.RES increased by 30% of Hera's P.RES and M.RES for 3 rounds","DEF, ATK UP | P.RES, M.RES UP",0
+123802311,,,,Illuminated-Supreme Glory,ZhaoYao,Increased Heal by 20% for 1 round,Healing UP,0
+133801211,16,,,Encourage-Song of War,GuWu,"All teammates increase DEF by 100% of Hera’s DEF , ATK by 60%, Crit DMG by 10%, FOR by 10%,  for 3 rounds","DEF, ATK UP | CRIT DMG, FOR UP",0
+143801211,16,,,Encourage-Hero Hymn,GuWu,"All teammates increase DEF by 100% of Hera’s DEF, ATK by 70%, M.RES and P.RES by 30%, Crit DMG and FOR by 10%, for 3 rounds","DEF, ATK UP | P.RES, M.RES UP | CRIT DMG, FOR UP",0
+153801111,,,,Soul Calming Wind,,增加10%攻击力和防御，并且每次行动时，随机选择一名我方女神驱散所有负面状态。,"ATK, DEF UP | Dispel Debuffs",0
 163801111,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
 163811111,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
 163821111,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
 163831111,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
 163841111,,,,Celestial Light - Celestial Domain,TianHui,"Increase ATK, DEF, and received buff effect",Celestial Domain,0
 163851111,,,,Celestial Light - Celestial Domain,TianHui,"Increase ATK, DEF, and received buff effect",Celestial Domain,0
-163851211,27,,,Celestial Domain,,Be Immune From Debuff,异常免疫,0
+163851211,27,,,Celestial Domain,,Be Immune From Debuff,Debuff Immunity,0
 113901311,9,,,Ignite-Firelord’s Wrath,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-114001111,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",受伤降低 反伤提高,0
-114001211,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",受伤降低 反伤提高,0
-114002311,10,,,Bleed-Hammer of Chaos,LiuXue,Cannot receive any healing for 3 round,无法回复,0
-114101211,6,,,Weaken-Frozen Snow,XuRuo,ATK decreased by 30% for 2 rounds,攻击降低,0
-114102211,4,,,Freeze-Arrow of Surprise,BingDong,"Freezed, cannot perform actions for 1 round",无法行动,0
-124101211,6,,,Weaken-Frozen field,XuRuo,ATK decreased by 50% for 2 rounds,攻击降低,0
-124102211,4,,,Frozen-Surprise arrow,BingDong,"Freezed, cannot perform actions for 1 round",无法行动,0
-114501111,11,,,Pierce-Infinite Tsukuyomi,JiPo,P.RES and M.RES reduced by 80% for 3 rounds,物抗 魔抗降低,0
-114502211,10,,,Bleed-Reincarnation,LiuXue,Cannot receive any healing for 3 round,无法回复,0
-114601211,6,,,Guard-Guardian of Love,ShouHu,"DMG Taken decreased by 30%, debuff RES increased by 30% for 2 rounds",受伤降低 异抗提高,0
-114602211,6,,,Weaken-Arrow of Love,XuRuo,ATK decreased by 60% for 2 rounds,攻击降低,0
-114701211,10,,,Bleed-Underground Hand,LiuXue,Cannot receive any healing for 2 round,无法回复,0
+114001111,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
+114001211,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
+114002311,10,,,Bleed-Hammer of Chaos,LiuXue,Cannot receive any healing for 3 round,Unable to recover HP,0
+114101211,6,,,Weaken-Frozen Snow,XuRuo,ATK decreased by 30% for 2 rounds,ATK DOWN,0
+114102211,4,,,Freeze-Arrow of Surprise,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+124101211,6,,,Weaken-Frozen field,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
+124102211,4,,,Frozen-Surprise arrow,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+114501111,11,,,Pierce-Infinite Tsukuyomi,JiPo,P.RES and M.RES reduced by 80% for 3 rounds,"P.RES, M.RES DOWN",0
+114502211,10,,,Bleed-Reincarnation,LiuXue,Cannot receive any healing for 3 round,Unable to recover HP,0
+114601211,6,,,Guard-Guardian of Love,ShouHu,"DMG Taken decreased by 30%, debuff RES increased by 30% for 2 rounds",DMG Taken DOWN; Debuff RES UP,0
+114602211,6,,,Weaken-Arrow of Love,XuRuo,ATK decreased by 60% for 2 rounds,ATK DOWN,0
+114701211,10,,,Bleed-Underground Hand,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
 114801211,9,,,Burn-Holy Wing,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-114802211,11,,,Pierce-Chain of light,JiPo,P.RES and M.RES increased by 50% for 2 rounds,物抗 魔抗降低,0
-1348011011,0,,,临时暴击值,,临时暴击值,暴击提高,0
-154801111,,,,临时增伤,,,伤害提高,0
+114802211,11,,,Pierce-Chain of light,JiPo,P.RES and M.RES increased by 50% for 2 rounds,"P.RES, M.RES DOWN",0
+1348011011,0,,,临时暴击值,,临时暴击值,CRIT UP,0
+154801111,,,,临时增伤,,,DMG UP,0
 154802111,,,,护盾-曙光之羽,,最大生命值10%的不可驱散护盾,,0
-114901211,1,,,Stun-Order Controller,YunXuan,Cannot perform actions for 1 round,无法行动,0
-115001211,22,,,Taunt-Courage horn,TiaoXin,"Taunt, DMG Taken decreased by 50%, DMG Reflect increases by 70% for 2 rounds",挑衅|受伤降低 反伤提高,0
-125001211,22,,,Taunt UR,TiaoXin,"Taunt, DMG Taken decreased by 60%, DMG Reflect increases by 80% for 2 rounds",挑衅|受伤降低 反伤提高,0
-125001311,30,,,Link,LianJie,"Link, DMG Taken diverted",链接-伤害分摊,0
-125001411,30,,,Link,LianJie,"Link, DMG Taken ",链接-伤害承担,0
-125002111,59,,,100% Critical Strike BUFF,,100% Critical Strike BUFF,暴击提高,0
-125002211,10,,,Bleed-The blade of judgement,LiuXue,Cannot receive any healing for 2 round,无法回复,0
-135001211,22,,,Taunt-Courage horn,TiaoXin,Reduces 50% DMG taken and increases 90% DMG Reflection under the state of [Taunt] for 2 rounds,挑衅|受伤降低 反伤提高,0
-135001311,113,,,Link+,LianJie,"Link, DMG Taken diverted",链接-伤害分摊,0
-135001411,113,,,Link+,LianJie,"Link, DMG Taken ",链接-伤害承担,0
-145001211,22,,,Taunt UR,TiaoXin,Reduces 60% DMG taken and increases 100% DMG Reflection under the state of [Taunt] for 2 rounds,挑衅|受伤降低 反伤提高,0
-145001311,112,,,Link,LianJie,"Link, DMG Taken diverted",链接-伤害分摊,0
-145001411,112,,,Link,LianJie,"Link, DMG Taken ",链接-伤害承担,0
-155001111,,,,Rainbow Sanctuary,,Increases P.RES by 2% of Heimdall’s HP,防御 物抗 魔抗提高,0
+114901211,1,,,Stun-Order Controller,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+115001211,22,,,Taunt-Courage horn,TiaoXin,"Taunt, DMG Taken decreased by 50%, DMG Reflect increases by 70% for 2 rounds",Taunt | DMG Taken DOWN; DMG Reflect UP,0
+125001211,22,,,Taunt UR,TiaoXin,"Taunt, DMG Taken decreased by 60%, DMG Reflect increases by 80% for 2 rounds",Taunt | DMG Taken DOWN; DMG Reflect UP,0
+125001311,30,,,Link,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+125001411,30,,,Link,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+125002111,59,,,100% Critical Strike BUFF,,100% Critical Strike BUFF,CRIT UP,0
+125002211,10,,,Bleed-The blade of judgement,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+135001211,22,,,Taunt-Courage horn,TiaoXin,Reduces 50% DMG taken and increases 90% DMG Reflection under the state of [Taunt] for 2 rounds,Taunt | DMG Taken DOWN; DMG Reflect UP,0
+135001311,113,,,Link+,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+135001411,113,,,Link+,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+145001211,22,,,Taunt UR,TiaoXin,Reduces 60% DMG taken and increases 100% DMG Reflection under the state of [Taunt] for 2 rounds,Taunt | DMG Taken DOWN; DMG Reflect UP,0
+145001311,112,,,Link,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+145001411,112,,,Link,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+155001111,,,,Rainbow Sanctuary,,Increases P.RES by 2% of Heimdall’s HP,"DEF, P.RES, M.RES UP",0
 155001211,,,,Rainbow Sanctuary,,Increases DEF by 1% of Heimdall’s HP,,0
 155001311,,,,Rainbow Sanctuary,,Increases M.RES by 1% of Heimdall’s HP,,0
-155002111,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken diverted",链接-伤害分摊,0
-155002211,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken ",链接-伤害承担,0
-115102211,8|11,,,Smash-Sanction of Light,FenSui,"DEF, P.RES, M.RES decreased by 50% for 3 rounds",防御 物抗 魔抗降低,0
-115201211,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds",攻击 吸血提高,0
-115201411,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds",攻击 吸血提高,0
-115201611,,,,Soul Mode - Slash 3,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds",攻击 吸血提高,0
-125201211,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds",攻击 吸血提高,0
-125201411,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds",攻击 吸血提高,0
-125201611,,,,Soul Mode - Slash 3,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds",攻击 吸血提高,0
-115202111,10,,,Bleed - Mysterious Slash,LiuXue,Cannot receive any healing for 1 round,无法回复,0
-125202111,10,,,Bleed - Extreme Mysterious Slash,LiuXue,Cannot receive any healing for 1 round,无法回复,0
-1252022011,17|27,,,Frenzy - Extreme Mysterious Slash,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",暴击提高 异常免疫,0
-115301111,,,,Blessing-Affection,YuanFen_JS,Speed increased by 50 for 2 rounds,速度提高,0
-115301311,,,,Blessing-Affection,YuanFen_BJ,CRIT increased by 50% for 2 rounds,暴击提高,0
-115301511,,,,Blessing-Affection,YuanFen_BJSH,Critical DMG increased by 50% for 2 rounds,暴伤提高,0
-115301711,,,,Blessing-Affection,YuanFen_YCDK,Debuff RES increase by 20% for 2 rounds,异抗提高,0
-115301911,,,,Blessing-Affection,YuanFen_EWSHJM,DMG Reduction +20% for 2 rounds,受伤降低,0
-115302211,11,,,Pierce-Dizzy,YuanFen_JP,P.RES and M.RES increased by 50% for 2 rounds,物抗 魔抗降低,0
+155002111,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken diverted",Link - DMG Split,0
+155002211,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken ",Link - DMG Diverted,0
+115102211,8|11,,,Smash-Sanction of Light,FenSui,"DEF, P.RES, M.RES decreased by 50% for 3 rounds","DEF, P.RES, M.RES DOWN",0
+115201211,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
+115201411,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
+115201611,,,,Soul Mode - Slash 3,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
+125201211,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
+125201411,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
+125201611,,,,Soul Mode - Slash 3,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
+115202111,10,,,Bleed - Mysterious Slash,LiuXue,Cannot receive any healing for 1 round,Unable to recover HP,0
+125202111,10,,,Bleed - Extreme Mysterious Slash,LiuXue,Cannot receive any healing for 1 round,Unable to recover HP,0
+1252022011,17|27,,,Frenzy - Extreme Mysterious Slash,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",CRIT UP; Debuff Immunity,0
+115301111,,,,Blessing-Affection,YuanFen_JS,Speed increased by 50 for 2 rounds,SPD UP,0
+115301311,,,,Blessing-Affection,YuanFen_BJ,CRIT increased by 50% for 2 rounds,CRIT UP,0
+115301511,,,,Blessing-Affection,YuanFen_BJSH,Critical DMG increased by 50% for 2 rounds,Crit DMG UP,0
+115301711,,,,Blessing-Affection,YuanFen_YCDK,Debuff RES increase by 20% for 2 rounds,Debuff RES UP,0
+115301911,,,,Blessing-Affection,YuanFen_EWSHJM,DMG Reduction +20% for 2 rounds,DMG Taken DOWN,0
+115302211,11,,,Pierce-Dizzy,YuanFen_JP,P.RES and M.RES increased by 50% for 2 rounds,"P.RES, M.RES DOWN",0
 115302411,7,,,Poisoning-Dizzy,YuanFen_ZD,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 115302611,9,,,Ignite-Dizzy,YuanFen_RS,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-115302811,10,,,Bleed-Dizzy,YuanFen_LX,Cannot receive any healing for 2 round,无法回复,0
-1153021011,6,,,Weaken-Dizzy,YuanFen_XR,ATK decreased by 60% for 2 rounds,攻击降低,0
-125301111,,,,Blessing-Thrilling tenderness,YuanFen_JS,Speed increased by 50 for 3 rounds,速度提高,0
-125301411,,,,Blessing-Thrilling tenderness,YuanFen_BJ,CRIT increased by 50% for 3 rounds,暴击提高,0
-125301711,,,,Blessing-Thrilling tenderness,YuanFen_BJSH,Critical DMG increased by 50% for 3 rounds,暴伤提高,0
-1253011011,,,,Blessing-Thrilling tenderness,YuanFen_YCDK,Debuff RES increased by 20% for 3 rounds,异抗提高,0
-1253011311,,,,Blessing-Thrilling tenderness,YuanFen_EWSHJM,DMG Reduction increased by 20% for 3 rounds,受伤降低,0
+115302811,10,,,Bleed-Dizzy,YuanFen_LX,Cannot receive any healing for 2 round,Unable to recover HP,0
+1153021011,6,,,Weaken-Dizzy,YuanFen_XR,ATK decreased by 60% for 2 rounds,ATK DOWN,0
+125301111,,,,Blessing-Thrilling tenderness,YuanFen_JS,Speed increased by 50 for 3 rounds,SPD UP,0
+125301411,,,,Blessing-Thrilling tenderness,YuanFen_BJ,CRIT increased by 50% for 3 rounds,CRIT UP,0
+125301711,,,,Blessing-Thrilling tenderness,YuanFen_BJSH,Critical DMG increased by 50% for 3 rounds,Crit DMG UP,0
+1253011011,,,,Blessing-Thrilling tenderness,YuanFen_YCDK,Debuff RES increased by 20% for 3 rounds,Debuff RES UP,0
+1253011311,,,,Blessing-Thrilling tenderness,YuanFen_EWSHJM,DMG Reduction increased by 20% for 3 rounds,DMG Taken DOWN,0
 125301311,,,,护盾-情深意长,,Obtain non-dispellable shield of 15% Max ATK for 1 round,,0
 125301611,,,,护盾-情深意长,,Obtain non-dispellable shield of 15% Max ATK for 1 round,,0
 125301911,,,,护盾-情深意长,,Obtain non-dispellable shield of 15% Max ATK for 1 round,,0
@@ -195,199 +195,211 @@
 1153016013,,,,护盾-情深意长+,,1回合增加最大攻击10%的不可驱散护盾,,0
 1153018013,,,,护盾-情深意长+,,1回合增加最大攻击10%的不可驱散护盾,,0
 1153110013,,,,护盾-情深意长+,,1回合增加最大攻击10%的不可驱散护盾,,0
-125302211,11,,,Pierce-Love whirlpool,YuanFen_JP,P.RES and M.RES increased by 50% for 2 rounds,物抗 魔抗降低,0
+125302211,11,,,Pierce-Love whirlpool,YuanFen_JP,P.RES and M.RES increased by 50% for 2 rounds,"P.RES, M.RES DOWN",0
 125302411,7,,,Poisoning-Love whirlpool,YuanFen_ZD,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 125302611,9,,,Ignite-Love whirlpool,YuanFen_RS,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-125302811,10,,,Bleed-Love whirlpool,YuanFen_LX,Cannot receive any healing for 2 round,无法回复,0
-1253021011,6,,,Weaken-Love whirlpool,YuanFen_XR,ATK decreased by 60% for 2 rounds,攻击降低,0
+125302811,10,,,Bleed-Love whirlpool,YuanFen_LX,Cannot receive any healing for 2 round,Unable to recover HP,0
+1253021011,6,,,Weaken-Love whirlpool,YuanFen_XR,ATK decreased by 60% for 2 rounds,ATK DOWN,0
 135301111,,,,护盾-情深意长,,Obtain non-dispellable shield of 15% Max ATK for 1 round,,0
-155301111,,,,加速-奇缘祝祷,,增加速度,速度提高,0
+155301111,,,,加速-奇缘祝祷,,增加速度,SPD UP,0
 155301211,,,,Fate - Blessed Encounter,YinYuan,"After her action, boosts allies and herself according to the layer of [Fate]",,999
-155302111,,,,Fate - Blessed Encounter,YinYuan,Increase ATK,攻击提高,0
-155302211,,,,Fate - Blessed Encounter,YinYuan,Increase DEF,防御提高,0
-155201111,48,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),受伤降低,0
-155201211,49,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),受伤降低,0
-155201311,50,,,必暴-神风之刃,,,暴击提高,0
+155302111,,,,Fate - Blessed Encounter,YinYuan,Increase ATK,ATK UP,0
+155302211,,,,Fate - Blessed Encounter,YinYuan,Increase DEF,DEF UP,0
+155201111,48,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+155201211,49,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+155201311,50,,,必暴-神风之刃,,,CRIT UP,0
 115501211,9,,,Ignite-Ember Dragon Breath,RanShao,"In 4 rounds, lose 6% of current HP in each round",Ignite,0
-115601211,8,,,Sunder Armor - Storm Dragon Breath,PoJia,DEF decreased by 80% for 4 rounds,防御降低,0
-115602111,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 300%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",攻击 暴击提高|异常免疫,0
-135602111,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 350%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",攻击 暴击提高|异常免疫,0
-115002111,59,,,100% Critical Strike BUFF,,100% Critical Strike BUFF,暴击提高,0
-115801211,8,,,Sunder Armor-Lead the charge,PoJia,DEF decreased by 50% for 2 rounds,防御降低,0
-115801311,15,,,Excite-Lead the charge,FenFa,ATK increased by 25% for 2 rounds,攻击提高,0
-115802311,,,,Strengthen-Glass of Milk,QiangZhuang,"DEF, P.RES, M. RES increased by 30% for 3 rounds",防御 物抗 魔抗提高,0
-115702211,10,,,Bleed-Paws Whirlwind,LiuXue,Cannot receive any healing for 2 round,无法回复,0
-124601211,6,,,Guard-Heart to Heart,ShouHu,"DMG Taken decreased by 30%, debuff RES increased by 40% for 2 rounds",受伤降低 异抗提高,0
+115601211,8,,,Sunder Armor - Storm Dragon Breath,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
+115602111,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 300%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
+135602111,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 350%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
+115002111,59,,,100% Critical Strike BUFF,,100% Critical Strike BUFF,CRIT UP,0
+115801211,8,,,Sunder Armor-Lead the charge,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
+115801311,15,,,Excite-Lead the charge,FenFa,ATK increased by 25% for 2 rounds,ATK UP,0
+115802311,,,,Strengthen-Glass of Milk,QiangZhuang,"DEF, P.RES, M. RES increased by 30% for 3 rounds","DEF, P.RES, M.RES UP",0
+115702211,10,,,Bleed-Paws Whirlwind,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+124601211,6,,,Guard-Heart to Heart,ShouHu,"DMG Taken decreased by 30%, debuff RES increased by 40% for 2 rounds",DMG Taken DOWN; Debuff RES UP,0
 124601311,,,,Shield-Heart to Heart,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0
 134601311,,,,Shield-Heart to Heart,,1回合增加最大攻击100%的不可驱散护盾,,0
-124602211,6,,,Weaken-Cupid Arrows,XuRuo,ATK decreased by 60% for 2 rounds,攻击降低,0
-124602311,19,,,Blessing-Cupid Arrows,ZhuFu,ATK increased by 25% for 2 rounds,攻击提高,0
-154601111,,,,Amor's Shelter,,自身异常抵抗增加100%,异抗提高,0
-154602111,,,,Staunch-Amor's Shelter,JianDing,Each stack increases Debuff RES by 5%(Neutral Status),异抗提高,999
-124901211,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 20% for 2 rounds,异抗降低,0
-134901211,,,,Fragile-Original Rule,YiDong,2回合异常抵抗减少10%（绝对值）,异抗降低,0
-144901211,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 30% for 2 rounds,异抗降低,0
-154901111,,,,混沌-混沌侵袭,HunDun,无视20%异常抵抗（绝对状态）,异抗穿透提高,0
-125201231,,,,Soul Mode - Slash 1,HunTi_BJ,CRIT increased by 10% for 2 rounds,暴击提高,0
-125201431,,,,Soul Mode - Slash 2,HunTi_BJ,CRIT increased by 10% for 2 rounds,暴击提高,0
-125201631,,,,Soul Mode - Slash 3,HunTi_BJ,CRIT increased by 10% for 2 rounds,暴击提高,0
-116001311,,,,Frostbite-Frozen Blister,DongShang,Speed decreased by 30 for 2 rounds,速度降低,0
-116001411,10,,,Bleed-Frozen Blister,LiuXue,Cannot receive any healing for 2 round,无法回复,0
+124602211,6,,,Weaken-Cupid Arrows,XuRuo,ATK decreased by 60% for 2 rounds,ATK DOWN,0
+124602311,19,,,Blessing-Cupid Arrows,ZhuFu,ATK increased by 25% for 2 rounds,ATK UP,0
+154601111,,,,Amor's Shelter,,自身异常抵抗增加100%,Debuff RES UP,0
+154602111,,,,Staunch-Amor's Shelter,JianDing,Each stack increases Debuff RES by 5%(Neutral Status),Debuff RES UP,999
+164601111,,,,Perfect Idol,,,Reduce the DMG takn and increase the DMG dealt,0
+164611111,,,,Perfect Idol,,,Reduce the DMG takn and increase the DMG dealt,0
+164621111,,,,Perfect Idol,,,Reduce the DMG takn and increase the DMG dealt,0
+164631111,,,,Perfect Idol,,,Reduce the DMG takn and increase the DMG dealt,0
+164631211,75,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+164641111,,,,Perfect Idol,,,Reduce the DMG takn and increase the DMG dealt,0
+164641211,75,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+164641311,76,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+164651111,,,,Perfect Idol,,,Reduce the DMG takn and increase the DMG dealt,0
+164651211,75,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+164651311,76,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+164651411,77,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+124901211,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 20% for 2 rounds,Debuff RES DOWN,0
+134901211,,,,Fragile-Original Rule,YiDong,2回合异常抵抗减少10%（绝对值）,Debuff RES DOWN,0
+144901211,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 30% for 2 rounds,Debuff RES DOWN,0
+154901111,,,,混沌-混沌侵袭,HunDun,无视20%异常抵抗（绝对状态）,Debuff RES PEN UP,0
+125201231,,,,Soul Mode - Slash 1,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
+125201431,,,,Soul Mode - Slash 2,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
+125201631,,,,Soul Mode - Slash 3,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
+116001311,,,,Frostbite-Frozen Blister,DongShang,Speed decreased by 30 for 2 rounds,SPD DOWN,0
+116001411,10,,,Bleed-Frozen Blister,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
 116002211,,,,Shield-Bubble Cure,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0
 116002411,,,,Shield-Bubble Cure,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0
 116002611,,,,Shield-Bubble Cure,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0
 116101311,,,,Shield-Bamboo Strike,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0
-116101211,8|11,,,Smash-Bamboo Strike,FenSui,"DEF, P.RES, M.RES decreased by 60% for 3 rounds",防御 物抗 魔抗降低,0
-124801211,,,,Original God-Newborn Feather,ChuShen,"ATK, Critical DMG incresed by 50% for 2 rounds",攻击 暴伤提高,0
+116101211,8|11,,,Smash-Bamboo Strike,FenSui,"DEF, P.RES, M.RES decreased by 60% for 3 rounds","DEF, P.RES, M.RES DOWN",0
+124801211,,,,Original God-Newborn Feather,ChuShen,"ATK, Critical DMG incresed by 50% for 2 rounds","ATK, CRIT DMG UP",0
 124801311,9,,,Ignite-Newborn Feather,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-124802211,11,,,Pierce - Heart-locking Chain,JiPo,P.RES and M.RES increased by 50% for 2 rounds,物抗 魔抗降低,0
+124802211,11,,,Pierce - Heart-locking Chain,JiPo,P.RES and M.RES increased by 50% for 2 rounds,"P.RES, M.RES DOWN",0
 116201111,,,,Shield-Lotus Protection,,Add a non-dispellable shield of 50% of current HP for 1 round.,,0
-116201211,6,,,Weaken - Lotus Protection,XuRuo,ATK decreased by 50% of Sim Cheong's ATK for 1 round,攻击降低,0
-116202111,,,,Blessing - Steady Upwelling,ZhuFu,"ATK increased by 20%, Critical DMG increased by 15%, DEF increased by 10%, lasts until the battle ends",攻击 暴伤 防御提高,5
+116201211,6,,,Weaken - Lotus Protection,XuRuo,ATK decreased by 50% of Sim Cheong's ATK for 1 round,ATK DOWN,0
+116202111,,,,Blessing - Steady Upwelling,ZhuFu,"ATK increased by 20%, Critical DMG increased by 15%, DEF increased by 10%, lasts until the battle ends","ATK, CRIT DMG, DEF UP",5
 126201111,,,,Shield-Lotus Aegis,,Add a non-dispellable shield of 60% of current HP for 2 round.,,0
-126201311,6,,,Weaken - Lotus Aegis,XuRuo,ATK decreased by 60% of Sim Cheong's ATK for 1 round,攻击降低,0
-126202111,,,,Blessing-Infinity Blessing,ZhuFu,"ATK increased by 25%, Critical DMG increased by 20%, DEF increased by 15%, lasts until the battle ends",攻击 暴伤 防御提高,5
+126201311,6,,,Weaken - Lotus Aegis,XuRuo,ATK decreased by 60% of Sim Cheong's ATK for 1 round,ATK DOWN,0
+126202111,,,,Blessing-Infinity Blessing,ZhuFu,"ATK increased by 25%, Critical DMG increased by 20%, DEF increased by 15%, lasts until the battle ends","ATK, CRIT DMG, DEF UP",5
 136201311,,,,Shield-Lotus Protection,,Sim Cheong gets a non-dispellable shield by 10% of her current HP for 1 round,,0
-136202111,,,,Blessing - Steady Upwelling,ZhuFu,"ATK increased by 25%, Critical DMG increased by 20%, DEF increased by 15%, lasts until the battle ends",攻击 暴伤 防御提高,5
+136202111,,,,Blessing - Steady Upwelling,ZhuFu,"ATK increased by 25%, Critical DMG increased by 20%, DEF increased by 15%, lasts until the battle ends","ATK, CRIT DMG, DEF UP",5
 146201211,,,,Shield-Lotus Aegis,,Sim Cheong gets a non-dispellable shield by 10% of her current HP for 2 rounds,,0
-146202111,,,,Blessing-Infinity Blessing,ZhuFu,"Increase all teammates' ATK by 30%, Crit DMG by 30% and DEF by 30% until the battle ends",攻击 暴伤 防御提高,5
-156201111,,,,驱散-莲华天幕,,,异常驱散,0
-156201211,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",承受暴伤降低,0
-156201311,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",承受暴伤降低,0
-156201411,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",承受暴伤降低,0
+146202111,,,,Blessing-Infinity Blessing,ZhuFu,"Increase all teammates' ATK by 30%, Crit DMG by 30% and DEF by 30% until the battle ends","ATK, CRIT DMG, DEF UP",5
+156201111,,,,驱散-莲华天幕,,,Dispel Debuff,0
+156201211,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",CRIT DMG Taken DOWN,0
+156201311,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",CRIT DMG Taken DOWN,0
+156201411,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",CRIT DMG Taken DOWN,0
 156201511,,,,护盾-莲华天幕,,,,0
-125401411,,,,Frostbite-Frozen Blizzard,DongShang,"In 3 rounds, speed reduced by 100, lose 5% of MAX HP in each round",冻伤|速度降低,0
+125401411,,,,Frostbite-Frozen Blizzard,DongShang,"In 3 rounds, speed reduced by 100, lose 5% of MAX HP in each round",Frostbite | SPD DOWN,0
 125401511,,,,Frostbite-Frozen Blizzard,,,,0
-125402211,,,,Hibernation-Aegis of Ice,DongMian,"For 2 rounds, cannot act, gain 90% DMG Reduction and restore 20% of Max HP per round",无法行动|受伤降低 回复生命,0
+125402211,,,,Hibernation-Aegis of Ice,DongMian,"For 2 rounds, cannot act, gain 90% DMG Reduction and restore 20% of Max HP per round",Unable to move | DMG Taken DOWN; Recover HP,0
 125402221,,,,Hibernation-Aegis of Ice,,,,0
 125402231,4,,,Hibernation-Aegis of Ice,,,,0
-155401111,,,,减速-深渊冰狱,,速度降低50点,速度降低,0
-155402201,,,,寒冰守护-深渊冰狱,,每次受到伤害时使敌人伤害降低3%,受伤降低敌方伤害,0
+155401111,,,,减速-深渊冰狱,,速度降低50点,SPD DOWN,0
+155402201,,,,寒冰守护-深渊冰狱,,每次受到伤害时使敌人伤害降低3%,Enemy’s DMG DOWN when taking DMG,0
 155402211,,,,DMG Reduced - Frozen Void,ShenYuan,DMG Reduced,DMG Reduced,10
 100000111,7,,,Strong poison 1,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
 100000112,7,,,Strong poison 2,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times. (can not be dispelled）",Poison,5
 100000113,7,,,Strong poison 3,ZhongDu,"Apply [poison] until the battle ends, lose 6% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
 100000114,7,,,Strong poison 4,ZhongDu,"Apply [poison] until the battle ends, lose 6% of max HP every round. [Poison] can stack, up to 5 times. (can not be dispelled）",Poison,5
-100000115,,,,Stack Armor 1,KuangLuan,"[Blessing] to self, which increase ATK by 40% and DEF by 40%, lasts for 3 rounds. [Blessing] can lasts until the battle ends and can stack, up to 5 times.",伤害 防御提高,5
-100000116,,,,Stack Armor 2,KuangLuan,"[Blessing] to self, which increase ATK by 40% and DEF by 40%, lasts for 3 rounds. [Blessing] can lasts until the battle ends and can stack, up to 5 times. (can not be dispelled）",伤害 防御提高,5
-125502711,31,,,Infuriation-Fierce Anger,NuYan,"1 round of Mark with fire, each fire mark will increase ATK by 50% of Penetrating Bomb(Neutral Status)",怒焰标记,6
+100000115,,,,Stack Armor 1,KuangLuan,"[Blessing] to self, which increase ATK by 40% and DEF by 40%, lasts for 3 rounds. [Blessing] can lasts until the battle ends and can stack, up to 5 times.","DMG, DEF UP",5
+100000116,,,,Stack Armor 2,KuangLuan,"[Blessing] to self, which increase ATK by 40% and DEF by 40%, lasts for 3 rounds. [Blessing] can lasts until the battle ends and can stack, up to 5 times. (can not be dispelled）","DMG, DEF UP",5
+125502711,31,,,Infuriation-Fierce Anger,NuYan,"1 round of Mark with fire, each fire mark will increase ATK by 50% of Penetrating Bomb(Neutral Status)",Infuriation Mark,6
 125501211,9,,,Ignite-Banefully Burn,RanShao,"For 4 rounds, lose 8% of current HP per round",Ignite,0
-125501311,,,,Fire Shield-Banefully Burn,HuoDun,"For 2 rounds increases M.RES by 100%, and when receiving DMG, apply [Scorch] to the enemy",受伤施加【灼烧】|魔抗提高,0
-125501411,13,,,Scorch-Banefully Burn,ZhuoShao,Causes real DMG equals to 20%*amount of mark,灼烧,3
-155501111,22,,,Nova Mark,BiaoJi,Enemies with the state will be attacked first.,挑衅,0
-155501211,,,,胆怯-灭世新星,,攻击力降低50%,攻击降低,0
-155502111,105,,,Justice Fire,YeHuo,Enemies with the state will lose 8% of their Max HP. This effect will bypass any Debuff RES.,业火,0
-125601211,8,,,Sunder Armor - Squally Thunderstorm,PoJia,DEF decreased by 80% for 4 rounds,防御降低,0
-125602111,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"ATK increased by 350%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",攻击 暴击提高|异常免疫,0
-145602111,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"Increase ATK by 400% for 2 rounds, all basic attacks will crit, and gain immunity to all debuffs",攻击 暴击提高|异常免疫,0
-125602211,32,,,Electric-Storm Surge,Dian,"[Electric] state for 3 rounds, when receiving basic attack, will trigger a thunderstorm then receive 10% P.DMG from Storm Dragon",电,0
-125601411,,,,Shelter-Squally Thunderstorm,BiHu,"In 1 round, increase FOR by 50%",韧性提高,0
-155601111,51,,,Windfury - Hurricane Flash,,Each normal attack can strike twice.,风怒,0
-155602111,17|27,,,Thunderstorm - Hurricane Flash,LeiBao,Increases ATK by 100% and immunes to all debuffs.(Neutral Status),攻击提高 异常免疫,0
+125501311,,,,Fire Shield-Banefully Burn,HuoDun,"For 2 rounds increases M.RES by 100%, and when receiving DMG, apply [Scorch] to the enemy",Inflict [Scorch] when taking DMG | M.RES UP,0
+125501411,13,,,Scorch-Banefully Burn,ZhuoShao,Causes real DMG equals to 20%*amount of mark,Scorch,3
+155501111,22,,,Nova Mark,BiaoJi,Enemies with the state will be attacked first.,Taunt,0
+155501211,,,,胆怯-灭世新星,,攻击力降低50%,ATK DOWN,0
+155502111,105,,,Justice Fire,YeHuo,Enemies with the state will lose 8% of their Max HP. This effect will bypass any Debuff RES.,Nova Mark,0
+125601211,8,,,Sunder Armor - Squally Thunderstorm,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
+125602111,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"ATK increased by 350%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
+145602111,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"Increase ATK by 400% for 2 rounds, all basic attacks will crit, and gain immunity to all debuffs","ATK, CRIT UP | Debuff Immunity",0
+125602211,32,,,Electric-Storm Surge,Dian,"[Electric] state for 3 rounds, when receiving basic attack, will trigger a thunderstorm then receive 10% P.DMG from Storm Dragon",Electric,0
+125601411,,,,Shelter-Squally Thunderstorm,BiHu,"In 1 round, increase FOR by 50%",FOR UP,0
+155601111,51,,,Windfury - Hurricane Flash,,Each normal attack can strike twice.,Windfury,0
+155602111,17|27,,,Thunderstorm - Hurricane Flash,LeiBao,Increases ATK by 100% and immunes to all debuffs.(Neutral Status),ATK UP; Debuff Immunity,0
 155901111,64,,,法连-星影回音,,,,0
-155902111,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s DEF by 80% of Freyja’s DEF,防御降低,0
-155902211,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s FOR by 20% of Freyja’s FOR,韧性降低,0
-116402511,6,,,Weaken-Yin&Yang,XuRuo,"For 1 round, ATK decreased by 100% of Gemini's ATK",攻击降低,0
-156401111,,,,Bright Light - Stellar Twin,YaoGuang,Increases CRIT and CRIT DMG by 30%(Neutral Status),暴击 暴伤降低,0
-156403111,,,,Dark Shadow - Stellar Twin,AnYing,Increases Gemini’s Debuff RES by 50% and Damage Reduction by 30%(Neutral Status),异抗提高 受伤降低,0
+155902111,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s DEF by 80% of Freyja’s DEF,DEF DOWN,0
+155902211,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s FOR by 20% of Freyja’s FOR,FOR DOWN,0
+116402511,6,,,Weaken-Yin&Yang,XuRuo,"For 1 round, ATK decreased by 100% of Gemini's ATK",ATK DOWN,0
+156401111,,,,Bright Light - Stellar Twin,YaoGuang,Increases CRIT and CRIT DMG by 30%(Neutral Status),CRIT,0
+156403111,,,,Dark Shadow - Stellar Twin,AnYing,Increases Gemini’s Debuff RES by 50% and Damage Reduction by 30%(Neutral Status),Debuff RES UP; DMG Taken DOWN,0
 156403211,63,,,转护盾-超凡双星,,,,0
 156403311,,,,护盾-超凡双星,,,,999
-116601111,33,,,Moonlight-Lone moon,YueGuang,"Infinite rounds, [Moonlight] Mark caused by Lone moon(Neutral Status)",月光,12
-126601111,33,,,Moonlight Sigil,YueGuang,"Infinite rounds, [Moonlight] Mark caused by moonlight sigil(Neutral Status)",月光,18
-126601411,,,,Moon God-Moonlight Sigil,YueShen,"Infinite rounds, ATK, CRIT increased by 5%",攻击 暴击提高,6
-116701111,,,,Shuraba Field - Shuraba Field,XiuLuoChang_Y,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701121,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701131,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701141,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701151,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701161,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701171,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-116701211,,,,Shuraba Field - Shuraba Field,XiuLuoChang_D,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-116701221,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-116701231,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-116701241,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-116701251,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-116701261,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-116701271,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701111,,,,Shuraba Realm - Shuraba Field,XiuLuoChang_Y,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701121,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701131,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701141,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701151,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701161,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701171,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤提高|韧性 物抗 魔抗提高,0
-126701211,,,,Shuraba Realm - Shuraba Field,XiuLuoChang_D,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701221,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701231,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701241,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701251,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701261,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-126701271,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-136701211,,,,Shuraba Field - Shuraba Field,XiuLuoChang_D,"All enemies will receive 13% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES) for 1 round",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-146701211,,,,Shuraba Realm - Shuraba Field,XiuLuoChang_D,"All enemies will receive 15% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES) for 2 rounds",暴击 暴伤降低|韧性 物抗 魔抗降低,0
-156701111,,,,Shuraba Barrier - Shuraba Purgatory,XiuLuoChang_D,Reduce CRIT DMG dealt by all enemies for 2 rounds,暴伤降低,0
-156702111,,,,Asura’s Snap (e) - Shuraba Purgatory,LianYu,"Decrease ATK, P.RES, and M.RES by 10% of Asura's attributes for each layer.",攻击 物抗 魔抗降低,4
-156702211,,,,Asura’s Snap (a) - Shuraba Purgatory,ZhuanSheng,"Increase ATK, P.RES, and M.RES by 5% of Asura's attributes for each layer.",攻击 物抗 魔抗提高,4
-116801211,27,,,God of War-Pure Sacred Body,ZhanShen,Gain immunity to debuffs for 2 rounds,异常免疫,0
-116801411,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 20%",伤害提高,999
-126801211,27,,,战神-纯灵神体,ZhanShen,Gain immunity to debuffs for 2 rounds,异常免疫,0
-126801411,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 20%",伤害提高,999
-136801411,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 30%",伤害提高,999
-146801411,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 30%",伤害提高,999
-156802111,27,,,God of War - Gale Lance,ZhanShen,Gain immunity to debuffs for 2 rounds,异常免疫,0
-117001211,8,,,Sunder Armor-Fierce Tiger Roar,PoJia,DEF decreased by 50% for 2 rounds,防御降低,0
-117001311,1,,,Stun-Fierce Tiger Roar,YunXuan,Cannot perform actions for 1 round,无法行动,0
-117002111,15,,,Excite-Tiger with Wings,FenFa,"Increase ATK, Crit, Crit DMG by 25% for 3 rounds",攻击 暴击 暴伤提高,0
-117101111,,,,Ablaze-Soul Sacrifice,JiAng,"Increase DMG, healing effect, P.RES, M.RES by 30% for 3 rounds",伤害 治疗提高|物抗 魔抗提高,0
-117101211,34,,,Selfless-Soul Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,受伤治疗友军,0
-117102211,35,,,Heal-Asterism Roam,YuHe,Recovers some HP in each round,回复生命,0
-127101111,,,,Ablaze-Star Sacrifice,JiAng,"Increase DMG, healing effect, P.RES, M.RES by 40% for 3 rounds",伤害 治疗提高|物抗 魔抗提高,0
-127101211,34,,,Selfless-Star Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,受伤治疗友军,0
-127101311,34,,,Selfless-Star Sacrifice,FengXian,Increase FOR by 100%,韧性提高,0
-127102211,35,,,Heal-Asterism Rebirth,YuHe,Recovers some HP in each round,回复生命,0
-137101211,34,,,Selfless-Soul Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,受伤治疗友军,0
-137102211,35,,,Heal-Asterism Roam,YuHe,Recovers some HP in each round,回复生命,0
-147101211,34,,,Selfless-Star Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,受伤治疗友军,0
-147102211,35,,,Heal-Asterism Rebirth,YuHe,Recovers some HP in each round,回复生命,0
-157101311,,,,Capricorn - Radiant Starsoul,MoJie,"When receiving damage, heal all allies except herself and increase their DEF. The excess healing will increase the target’s Max HP until the end of the battle.",受伤治疗友军,0
-157101313,,,,Capricorn - Radiant Starsoul,,提升防御,防御提高,0
-157101411,42,,,Capricorn - Radiant Starsoul,,易伤,受伤提高,0
-117301111,36,,,Slumber-Drowning Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",无法行动(受伤解除),0
-127301111,36,,,Slumber-Abyss Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",无法行动(受伤解除),0
-127302111,36,,,Slumber-Cold-blooded Eyes,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",无法行动(受伤解除),0
-137301111,36|42,,,Slumber-Drowning Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",无法行动(受伤解除),0
-147301111,36|42,,,Slumber-Abyss Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",无法行动(受伤解除),0
-157301111,69,,,Nightmare - Phantom Nightmare,EMeng,Unable to act. Immune to damage from anyone except Pisces.,无法行动|仅承受双鱼座的伤害,0
+116601111,33,,,Moonlight-Lone moon,YueGuang,"Infinite rounds, [Moonlight] Mark caused by Lone moon(Neutral Status)",Moonlight,12
+126601111,33,,,Moonlight Sigil,YueGuang,"Infinite rounds, [Moonlight] Mark caused by moonlight sigil(Neutral Status)",Moonlight,18
+126601411,,,,Moon God-Moonlight Sigil,YueShen,"Infinite rounds, ATK, CRIT increased by 5%","ATK, CRIT UP",6
+116701111,,,,Shuraba Field - Shuraba Field,XiuLuoChang_Y,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701121,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701131,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701141,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701151,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701161,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701171,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+116701211,,,,Shuraba Field - Shuraba Field,XiuLuoChang_D,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+116701221,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+116701231,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+116701241,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+116701251,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+116701261,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+116701271,,,,Shuraba Field - Shuraba Field,,"1 round, receive 10% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701111,,,,Shuraba Realm - Shuraba Field,XiuLuoChang_Y,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701121,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701131,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701141,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701151,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701161,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701171,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura’s attributes bonus (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG UP | FOR, P.RES, M.RES UP",0
+126701211,,,,Shuraba Realm - Shuraba Field,XiuLuoChang_D,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701221,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701231,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701241,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701251,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701261,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+126701271,,,,Shuraba Realm - Shuraba Field,,"2 rounds, receive 12% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES)","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+136701211,,,,Shuraba Field - Shuraba Field,XiuLuoChang_D,"All enemies will receive 13% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES) for 1 round","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+146701211,,,,Shuraba Realm - Shuraba Field,XiuLuoChang_D,"All enemies will receive 15% of Asura's attributes reduction (CRIT, Crit DMG, FOR, P.RES, M.RES) for 2 rounds","CRIT, CRIT DMG DOWN | FOR, P.RES, M.RES DOWN",0
+156701111,,,,Shuraba Barrier - Shuraba Purgatory,XiuLuoChang_D,Reduce CRIT DMG dealt by all enemies for 2 rounds,CRIT DMG DOWN,0
+156702111,,,,Asura’s Snap (e) - Shuraba Purgatory,LianYu,"Decrease ATK, P.RES, and M.RES by 10% of Asura's attributes for each layer.","ATK, P.RES, M.RES DOWN",4
+156702211,,,,Asura’s Snap (a) - Shuraba Purgatory,ZhuanSheng,"Increase ATK, P.RES, and M.RES by 5% of Asura's attributes for each layer.","ATK, P.RES, M.RES UP",4
+116801211,27,,,God of War-Pure Sacred Body,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
+116801411,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 20%",DMG UP,999
+126801211,27,,,战神-纯灵神体,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
+126801411,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 20%",DMG UP,999
+136801411,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
+146801411,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
+156802111,27,,,God of War - Gale Lance,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
+117001211,8,,,Sunder Armor-Fierce Tiger Roar,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
+117001311,1,,,Stun-Fierce Tiger Roar,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+117002111,15,,,Excite-Tiger with Wings,FenFa,"Increase ATK, Crit, Crit DMG by 25% for 3 rounds","ATK, CRIT, CRIT DMG UP",0
+117101111,,,,Ablaze-Soul Sacrifice,JiAng,"Increase DMG, healing effect, P.RES, M.RES by 30% for 3 rounds","DMG, Healing UP | P.RES, M.RES UP",0
+117101211,34,,,Selfless-Soul Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,Heal allies when taking DMG,0
+117102211,35,,,Heal-Asterism Roam,YuHe,Recovers some HP in each round,Recovers HP,0
+127101111,,,,Ablaze-Star Sacrifice,JiAng,"Increase DMG, healing effect, P.RES, M.RES by 40% for 3 rounds","DMG, Healing UP | P.RES, M.RES UP",0
+127101211,34,,,Selfless-Star Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,Heal allies when taking DMG,0
+127101311,34,,,Selfless-Star Sacrifice,FengXian,Increase FOR by 100%,FOR UP,0
+127102211,35,,,Heal-Asterism Rebirth,YuHe,Recovers some HP in each round,Recovers HP,0
+137101211,34,,,Selfless-Soul Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,Heal allies when taking DMG,0
+137102211,35,,,Heal-Asterism Roam,YuHe,Recovers some HP in each round,Recovers HP,0
+147101211,34,,,Selfless-Star Sacrifice,FengXian,Heals all teammates except for herself after receiving damage,Heal allies when taking DMG,0
+147102211,35,,,Heal-Asterism Rebirth,YuHe,Recovers some HP in each round,Recovers HP,0
+157101311,,,,Capricorn - Radiant Starsoul,MoJie,"When receiving damage, heal all allies except herself and increase their DEF. The excess healing will increase the target’s Max HP until the end of the battle.",Heal allies when taking DMG,0
+157101313,,,,Capricorn - Radiant Starsoul,,提升防御,DEF UP,0
+157101411,42,,,Capricorn - Radiant Starsoul,,易伤,DMG UP,0
+117301111,36,,,Slumber-Drowning Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+127301111,36,,,Slumber-Abyss Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+127302111,36,,,Slumber-Cold-blooded Eyes,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+137301111,36|42,,,Slumber-Drowning Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+147301111,36|42,,,Slumber-Abyss Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+157301111,69,,,Nightmare - Phantom Nightmare,EMeng,Unable to act. Immune to damage from anyone except Pisces.,Unable to move | Only take DMG from Pisces,0
 157301211,1,,,Nightmare - Phantom Nightmare,,,,0
-157301311,42,,,Nightmare - Phantom Nightmare,,易伤,受伤提高,0
+157301311,42,,,Nightmare - Phantom Nightmare,,易伤,DMG UP,0
 157301411,70,,,噩梦CD-惊梦魅影,,,,0
-117401111,39|101,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",分摊伤害 回复降低,0
+117401111,39|101,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 117401112,38,,,魅惑-迷乱魔纹（隐藏）,,,,0
-127401111,39|103,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",分摊伤害 回复降低,0
+127401111,39|103,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 127401112,38,,,魅惑-狂乱烙印（隐藏）,,,,0
-127402113,37,,,Mercy-Blessing Kiss,ShenJuan,Resist Damage Once,抵挡攻击,0
-127402114,27,,,Mercy-Blessing Kiss,ShenJuan,Be Immune From Debuff,异常免疫,0
+127402113,37,,,Mercy-Blessing Kiss,ShenJuan,Resist Damage Once,Resist Damage,0
+127402114,27,,,Mercy-Blessing Kiss,ShenJuan,Be Immune From Debuff,Debuff Immunity,0
 137402113,,,,护盾,,,,0
-137401111,41|102,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",分摊伤害 回复降低,0
+137401111,41|102,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 137401112,40,,,魅惑-迷乱魔纹（隐藏）,,,,0
-147401111,41|104,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",分摊伤害 回复降低,0
+147401111,41|104,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 147401112,40,,,魅惑-狂乱烙印（隐藏）,,,,0
-157401111,72,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,抵挡伤害 攻击提高,0
-157401211,,,,无视异抗-圣洁圣域,,增加50%无视异常抵抗,无视异抗 提高,0
-157402111,72,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,抵挡伤害 攻击提高,0
-117501112,,,,Zeus' Rule -Lightning Field,ShenWang,Auto attack all enemies in each round,自动攻击敌方全体,0
-127501113,,,,Zeus' Rule -Thunder Sanctuary,ShenWang,Auto attack all enemies in each round,自动攻击敌方全体,0
-127501115,,,,Thunder Shield-Thunder Sanctuary,LeiDun,retaliate against enemy when taking DMG,受伤反击,0
-137501112,,,,Zeus' Rule -Lightning Field,ShenWang,Auto attack all enemies in each round,自动攻击敌方全体,0
-147501113,,,,Zeus' Rule -Thunder Sanctuary,ShenWang,Auto attack all enemies in each round,自动攻击敌方全体,0
+157401111,72,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+157401211,,,,无视异抗-圣洁圣域,,增加50%无视异常抵抗,Ignores Debuff RES UP,0
+157402111,72,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+117501112,,,,Zeus' Rule -Lightning Field,ShenWang,Auto attack all enemies in each round,Automatically attack all enemies,0
+127501113,,,,Zeus' Rule -Thunder Sanctuary,ShenWang,Auto attack all enemies in each round,Automatically attack all enemies,0
+127501115,,,,Thunder Shield-Thunder Sanctuary,LeiDun,retaliate against enemy when taking DMG,Counterattack when taking DMG,0
+137501112,,,,Zeus' Rule -Lightning Field,ShenWang,Auto attack all enemies in each round,Automatically attack all enemies,0
+147501113,,,,Zeus' Rule -Thunder Sanctuary,ShenWang,Auto attack all enemies in each round,Automatically attack all enemies,0
 157501111,67,,,免死-毁灭化身,,,,0
 157501211,68,,,免死CD-毁灭化身,,,,0
 157502211,,,,攻击力-毁灭化身,,,,0
 157502311,,,,属性增加-毁灭化身,,,,2
-117601211,,,,Blind-Phantom Spell,ZhiMang,Decrease ACC Value,命中降低,0
+117601211,,,,Blind-Phantom Spell,ZhiMang,Decrease ACC Value,ACC DOWN,0
 117601311,20,,,Invisibility-Phantom Spell,YinShen,Immune from individual skills,Immune from individual skills,0
-127601211,,,,Blind-The Art of Invisibility,ZhiMang,Decrease ACC Value,命中降低,0
-127601311,20,,,Invisiblility-The Art of Invisibility,YinShen,"Immune from individual skills, increase EVA probability",不会被单体技能选中|闪避提高,0
+127601211,,,,Blind-The Art of Invisibility,ZhiMang,Decrease ACC Value,ACC DOWN,0
+127601311,20,,,Invisiblility-The Art of Invisibility,YinShen,"Immune from individual skills, increase EVA probability",Immune from single target skills | EVA UP,0
 127602000,0,,,骰子特效,,,,0
 157602100,1576,,,CD-神运之骰,,,,0
 157601113,,,,Lucky - Divine Luck,XingYun,Reduce the Skill DMG received by 60%,Reduce the Skill DMG received,0
@@ -402,11 +414,11 @@
 157602413,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 55% of Loki's ATK and DEF by 70% of Loki's DEF,Increase ATK and DEF,0
 157602513,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 50% of Loki's ATK and DEF by 60% of Loki's DEF,Increase ATK and DEF,0
 157602613,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 45% of Loki's ATK and DEF by 50% of Loki's DEF,Increase ATK and DEF,0
-127701211,,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points",攻击 异抗提高|防御穿透提高,2
-137702211,43|105,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,受伤提高 回复降低,0
-147702211,43|105,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,受伤提高 回复降低,0
-157701111,,,,加速-烈怒迅雷,,提高速度,速度提高,0
-157702111,1,1002_buff,,麻痹-烈怒迅雷,YunXuan,Cannot perform actions for 1 round,无法行动,0
+127701211,,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points","ATK, DEF PEN | DEF PEN UP",2
+137702211,43|105,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
+147702211,43|105,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
+157701111,,,,加速-烈怒迅雷,,提高速度,SPD UP,0
+157702111,1,,,麻痹-烈怒迅雷,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 117801211,47,,,Blaze-Blazing Sun,ZhuoShao,Deals a certain amount of DMG for 4 rounds,Flame,0
 127801211,,,,护盾-太阳神力,,,,0
 127801311,47,,,Blaze-Solar Impact,ZhuoShao,Deals a certain amount of DMG for 4 rounds,Flame,0
@@ -418,54 +430,54 @@
 157800111,10|27,LYCX_buff,,Star - Blazing Star,HengXing,Revives after 2 rounds,Star,6
 157801111,74,,,阿波罗标记,,,,0
 157802111,,,,Heartburn - Blazing Star,ZhuoXin,Recieves a certain amount of DMG for each round,Heartburn,999
-157803101,1,1002_buff,,Stun,YunXuan,Cannot perform actions for 1 round,无法行动,0
+157803101,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 117901211,,,,护盾-旋樱舞步,,1回合增加樱花妖最大攻击100%的不可驱散护盾,,0
 117902211,,,,护盾-樱花飞舞,,1回合增加樱花妖最大攻击70%的不可驱散护盾,,0
-117902311,19,,,Charge - Sakura Flurry,XuLi,[Charge] increases target's ATK by 50% of Sakura Spirit’s ATK for 2 rounds.,攻击提高,0
-118001111,,,,Bless - Lucky Blessing,QiFu,ATK +40%\nDMG +40%,攻击 伤害提高,0
-118101211,52,,,Judgment - Judgment Claw,ShenPan,"When defeated, decreases the target's ATK by 15% of Horus's Max ATK.",击杀者攻击降低,0
-118101311,,,,Weaken - Judgment Claw,XuRuo,ATK reduced by 15% of Horus's ATK,攻击降低,3
+117902311,19,,,Charge - Sakura Flurry,XuLi,[Charge] increases target's ATK by 50% of Sakura Spirit’s ATK for 2 rounds.,ATK UP,0
+118001111,,,,Bless - Lucky Blessing,QiFu,ATK +40%\nDMG +40%,"ATK, DMG UP",0
+118101211,52,,,Judgment - Judgment Claw,ShenPan,"When defeated, decreases the target's ATK by 15% of Horus's Max ATK.",Reduce ATK of the Killer,0
+118101311,,,,Weaken - Judgment Claw,XuRuo,ATK reduced by 15% of Horus's ATK,ATK DOWN,3
 118101411,,,,DMG Reduced,ShenYuan,DMG Reduced,DMG Reduced,0
-128101211,54,,,UR Judgment - Divine Judgment,ShenPan,"When defeated, decreases the target's ATK by 20% of Horus's Max ATK.",击杀者攻击降低,0
-128101311,,,,Weaken - Divine Judgment,XuRuo,ATK reduced by 20% of Horus's ATK,攻击降低,5
+128101211,54,,,UR Judgment - Divine Judgment,ShenPan,"When defeated, decreases the target's ATK by 20% of Horus's Max ATK.",Reduce ATK of the Killer,0
+128101311,,,,Weaken - Divine Judgment,XuRuo,ATK reduced by 20% of Horus's ATK,ATK DOWN,5
 128101411,,,,DMG Reduced,ShenYuan,DMG Reduced,DMG Reduced,0
 128102011,56,,,转护盾,,,,0
 128102211,,,,护盾,,,,0
-138101211,52,,,Judgment - Judgment Claw,ShenPan,"When defeated, decreases the target's ATK by 15% of Horus's Max ATK and 5% of the target's current ATK.",击杀者攻击降低,0
-138101311,,,,Weaken - Judgment Claw,XuRuo,ATK reduced by 15% of Horus's ATK and 5% of self ATK,攻击降低,3
+138101211,52,,,Judgment - Judgment Claw,ShenPan,"When defeated, decreases the target's ATK by 15% of Horus's Max ATK and 5% of the target's current ATK.",Reduce ATK of the Killer,0
+138101311,,,,Weaken - Judgment Claw,XuRuo,ATK reduced by 15% of Horus's ATK and 5% of self ATK,ATK DOWN,3
 138102311,,,,护盾,,,,0
-148101211,54,,,UR Judgment - Divine Judgment,ShenPan,"When defeated, decreases the target's ATK by 20% of Horus's Max ATK and 5% of the target's current ATK.",击杀者攻击降低,0
-148101311,,,,Weaken - Divine Judgment,XuRuo,ATK reduced by 20% of Horus's ATK and 5% of self ATK,攻击降低,5
+148101211,54,,,UR Judgment - Divine Judgment,ShenPan,"When defeated, decreases the target's ATK by 20% of Horus's Max ATK and 5% of the target's current ATK.",Reduce ATK of the Killer,0
+148101311,,,,Weaken - Divine Judgment,XuRuo,ATK reduced by 20% of Horus's ATK and 5% of self ATK,ATK DOWN,5
 148102011,57,,,转护盾,,,,0
 148102211,,,,护盾,,,,0
 148102311,,,,护盾,,,,0
-158101111,58,,,Vengeance - Avenging Angel,FuChou,"When defeated, enters the soul state.(Neutral Status)",死亡进入灵魂状态,0
-158102111,,,,复仇-属性加成,,属性增加,属性提高,0
-158102211,10,FCTS_hit,,Bleed,,,无法回复,0
+158101111,58,,,Vengeance - Avenging Angel,FuChou,"When defeated, enters the soul state.(Neutral Status)",Act in the state of a soul when receiving fatal damage,0
+158102111,,,,复仇-属性加成,,属性增加,Attributes UP,0
+158102211,10,FCTS_hit,,Bleed,,,Unable to recover HP,0
 118201111,7,,,Poison - Thorny Sting,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 118201211,9,,,Ignite - Thorny Sting,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-118201311,8,,,Sunder Armor - Thorny Sting,PoJia,DEF decreased by 50% for 2 rounds,防御降低,0
-118201411,11,,,Pierce - Thorny Sting,JiPo,P.RES and M.RES increased by 50% for 2 rounds,物抗 魔抗降低,0
-118201511,10,,,Bleed - Thorny Sting,LiuXue,Cannot receive any healing for 2 round,无法回复,0
+118201311,8,,,Sunder Armor - Thorny Sting,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
+118201411,11,,,Pierce - Thorny Sting,JiPo,P.RES and M.RES increased by 50% for 2 rounds,"P.RES, M.RES DOWN",0
+118201511,10,,,Bleed - Thorny Sting,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
 128201111,7,,,Poison - Waltz of Thorns,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 128201211,9,,,Ignite - Waltz of Thorns,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
-128201311,8,,,Sunder Armor - Waltz of Thorns,PoJia,DEF decreased by 50% for 2 rounds,防御降低,0
-128201411,11,,,Pierce - Waltz of Thorns,JiPo,P.RES and M.RES increased by 50% for 2 rounds,物抗 魔抗降低,0
-128201511,10,,,Bleed - Waltz of Thorns,LiuXue,Cannot receive any healing for 2 round,无法回复,0
-128201611,1,,,Stun - Waltz of Thorns,YunXuan,Cannot perform actions for 1 round,无法行动,0
-128201711,4,,,Freeze - Waltz of Thorns,BingDong,"Freezed, cannot perform actions for 1 round",无法行动,0
-138201011,,,,无视异抗,,,无视异抗,0
+128201311,8,,,Sunder Armor - Waltz of Thorns,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
+128201411,11,,,Pierce - Waltz of Thorns,JiPo,P.RES and M.RES increased by 50% for 2 rounds,"P.RES, M.RES DOWN",0
+128201511,10,,,Bleed - Waltz of Thorns,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+128201611,1,,,Stun - Waltz of Thorns,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+128201711,4,,,Freeze - Waltz of Thorns,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+138201011,,,,Ignore Debuff RES,,,Ignore Debuff RES,0
 138202211,,,,护盾,,,,0
-158201111,65,,,Isolated - Heartless Cage,GuLi,Cannot receive any buffs,增益无效,0
-158202111,,,,Malediction - Heartless Cage,CuiRuo,Increases DMG taken by 1% for each layer,受伤提高,999
+158201111,65,,,Isolated - Heartless Cage,GuLi,Cannot receive any buffs,Cannot receive buffs,0
+158202111,,,,Malediction - Heartless Cage,CuiRuo,Increases DMG taken by 1% for each layer,DMG UP,999
 128302111,831,,,标记,,,,0
-158301111,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,受伤提高,10
+158301111,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,DMG UP,10
 158302211,,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,伤害提高 受伤降低,0
 158302311,,,,Power of War - War Domain,,,,0
-55551102,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,无法行动,0
-55551212,,,,War,,反伤增加70%,反伤提高,0
+55551102,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+55551212,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
-55551412,27,,,Justice,,免疫不良状态,异常免疫,0
+55551412,27,,,Justice,,免疫不良状态,Debuff Immunity,0
 55552111,,,,Superspeed,,,,0
 55552211,,,,Resolute,,,,0
 55552311,,,,魔法,,,,0

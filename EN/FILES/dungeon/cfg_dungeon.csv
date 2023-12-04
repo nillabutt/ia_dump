@@ -308,7 +308,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 307,2307,1165|1166,90,ShenZhiXiaGu,YueDuShenShe,13-27,13,
 308,2308,1165|1166,90,ShenZhiXiaGu,YueDuShenShe,13-28,13,
 309,2309,1165|1166,90,ShenZhiXiaGu,YueDuShenShe,13-29,13,
-310,2310,1165|1166,90,ShenZhiXiaGu,YueDuShenShe,13-30,13,5:3000048:1
+310,2310,1165|1166,90,ShenZhiXiaGu,YueDuShenShe,13-30,13,5:3000005:2
 311,2311,1167|1168,90,ShenZhiXiaGu,YueDuShenShe,13-31,13,
 312,2312,1167|1168,90,ShenZhiXiaGu,YueDuShenShe,13-32,13,
 313,2313,1167|1168,90,ShenZhiXiaGu,YueDuShenShe,13-33,13,
@@ -338,7 +338,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 337,2337,1175|1176,90,ShenZhiXiaGu,YueDuShenShe,13-57,13,
 338,2338,1175|1176,90,ShenZhiXiaGu,YueDuShenShe,13-58,13,
 339,2339,1175|1176,90,ShenZhiXiaGu,YueDuShenShe,13-59,13,
-340,2340,1175|1176,90,ShenZhiXiaGu,YueDuShenShe,13-60,13,5:3000048:1
+340,2340,1175|1176,90,ShenZhiXiaGu,YueDuShenShe,13-60,13,5:3000005:2
 341,2341,1177|1178,90,XieShenCangShenChu,YueDuShenShe,14-1,14,
 342,2342,1177|1178,90,XieShenCangShenChu,YueDuShenShe,14-2,14,
 343,2343,1177|1178,90,XieShenCangShenChu,YueDuShenShe,14-3,14,
@@ -368,7 +368,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 367,2367,1185|1186,90,XieShenCangShenChu,YueDuShenShe,14-27,14,
 368,2368,1185|1186,90,XieShenCangShenChu,YueDuShenShe,14-28,14,
 369,2369,1185|1186,90,XieShenCangShenChu,YueDuShenShe,14-29,14,
-370,2370,1185|1186,90,XieShenCangShenChu,YueDuShenShe,14-30,14,5:3000048:1
+370,2370,1185|1186,90,XieShenCangShenChu,YueDuShenShe,14-30,14,5:3000005:2
 371,2371,1187|1188,90,XieShenCangShenChu,YueDuShenShe,14-31,14,
 372,2372,1187|1188,90,XieShenCangShenChu,YueDuShenShe,14-32,14,
 373,2373,1187|1188,90,XieShenCangShenChu,YueDuShenShe,14-33,14,
@@ -398,7 +398,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 397,2397,1195|1196,90,XieShenCangShenChu,YueDuShenShe,14-57,14,
 398,2398,1195|1196,90,XieShenCangShenChu,YueDuShenShe,14-58,14,
 399,2399,1195|1196,90,XieShenCangShenChu,YueDuShenShe,14-59,14,
-400,2400,1195|1196,90,XieShenCangShenChu,YueDuShenShe,14-60,14,5:3000048:1
+400,2400,1195|1196,90,XieShenCangShenChu,YueDuShenShe,14-60,14,5:3000005:2
 401,2401,1197|1198,90,ShenYuanZhiLv,YueDuShenShe,15-1,15,
 402,2402,1197|1198,90,ShenYuanZhiLv,YueDuShenShe,15-2,15,
 403,2403,1197|1198,90,ShenYuanZhiLv,YueDuShenShe,15-3,15,
@@ -428,7 +428,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 427,2427,1205|1206,90,ShenYuanZhiLv,YueDuShenShe,15-27,15,
 428,2428,1205|1206,90,ShenYuanZhiLv,YueDuShenShe,15-28,15,
 429,2429,1205|1206,90,ShenYuanZhiLv,YueDuShenShe,15-29,15,
-430,2430,1205|1206,90,ShenYuanZhiLv,YueDuShenShe,15-30,15,5:3000048:1
+430,2430,1205|1206,90,ShenYuanZhiLv,YueDuShenShe,15-30,15,5:3000005:2
 431,2431,1207|1208,90,ShenYuanZhiLv,YueDuShenShe,15-31,15,
 432,2432,1207|1208,90,ShenYuanZhiLv,YueDuShenShe,15-32,15,
 433,2433,1207|1208,90,ShenYuanZhiLv,YueDuShenShe,15-33,15,
@@ -458,7 +458,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 457,2457,1215|1216,90,ShenYuanZhiLv,YueDuShenShe,15-57,15,
 458,2458,1215|1216,90,ShenYuanZhiLv,YueDuShenShe,15-58,15,
 459,2459,1215|1216,90,ShenYuanZhiLv,YueDuShenShe,15-59,15,
-460,2460,1215|1216,90,ShenYuanZhiLv,YueDuShenShe,15-60,15,5:3000048:1
+460,2460,1215|1216,90,ShenYuanZhiLv,YueDuShenShe,15-60,15,5:3000005:2
 461,2461,1217|1218,90,PanDuoLaShenMiao,YueDuShenShe,16-1,16,
 462,2462,1217|1218,90,PanDuoLaShenMiao,YueDuShenShe,16-2,16,
 463,2463,1217|1218,90,PanDuoLaShenMiao,YueDuShenShe,16-3,16,
@@ -488,7 +488,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 487,2487,1225|1226,90,PanDuoLaShenMiao,YueDuShenShe,16-27,16,
 488,2488,1225|1226,90,PanDuoLaShenMiao,YueDuShenShe,16-28,16,
 489,2489,1225|1226,90,PanDuoLaShenMiao,YueDuShenShe,16-29,16,
-490,2490,1225|1226,90,PanDuoLaShenMiao,YueDuShenShe,16-30,16,5:3000048:1
+490,2490,1225|1226,90,PanDuoLaShenMiao,YueDuShenShe,16-30,16,5:3000049:1
 491,2491,1227|1228,90,PanDuoLaShenMiao,YueDuShenShe,16-31,16,
 492,2492,1227|1228,90,PanDuoLaShenMiao,YueDuShenShe,16-32,16,
 493,2493,1227|1228,90,PanDuoLaShenMiao,YueDuShenShe,16-33,16,
@@ -518,7 +518,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 517,2517,1235|1236,90,PanDuoLaShenMiao,YueDuShenShe,16-57,16,
 518,2518,1235|1236,90,PanDuoLaShenMiao,YueDuShenShe,16-58,16,
 519,2519,1235|1236,90,PanDuoLaShenMiao,YueDuShenShe,16-59,16,
-520,2520,1235|1236,90,PanDuoLaShenMiao,YueDuShenShe,16-60,16,5:3000048:1
+520,2520,1235|1236,90,PanDuoLaShenMiao,YueDuShenShe,16-60,16,5:3000049:1
 521,2521,1237|1238,90,RanShaoLianYu,YueDuShenShe,17-1,17,
 522,2522,1237|1238,90,RanShaoLianYu,YueDuShenShe,17-2,17,
 523,2523,1237|1238,90,RanShaoLianYu,YueDuShenShe,17-3,17,
@@ -548,7 +548,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 547,2547,1245|1246,90,RanShaoLianYu,YueDuShenShe,17-27,17,
 548,2548,1245|1246,90,RanShaoLianYu,YueDuShenShe,17-28,17,
 549,2549,1245|1246,90,RanShaoLianYu,YueDuShenShe,17-29,17,
-550,2550,1245|1246,90,RanShaoLianYu,YueDuShenShe,17-30,17,5:3000048:1
+550,2550,1245|1246,90,RanShaoLianYu,YueDuShenShe,17-30,17,5:3000049:1
 551,2551,1247|1248,90,RanShaoLianYu,YueDuShenShe,17-31,17,
 552,2552,1247|1248,90,RanShaoLianYu,YueDuShenShe,17-32,17,
 553,2553,1247|1248,90,RanShaoLianYu,YueDuShenShe,17-33,17,
@@ -578,7 +578,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 577,2577,1255|1256,90,RanShaoLianYu,YueDuShenShe,17-57,17,
 578,2578,1255|1256,90,RanShaoLianYu,YueDuShenShe,17-58,17,
 579,2579,1255|1256,90,RanShaoLianYu,YueDuShenShe,17-59,17,
-580,2580,1255|1256,90,RanShaoLianYu,YueDuShenShe,17-60,17,5:3000048:1
+580,2580,1255|1256,90,RanShaoLianYu,YueDuShenShe,17-60,17,5:3000049:1
 581,2581,1257|1258,90,ASiJiaDe,YueDuShenShe,18-1,18,
 582,2582,1257|1258,90,ASiJiaDe,YueDuShenShe,18-2,18,
 583,2583,1257|1258,90,ASiJiaDe,YueDuShenShe,18-3,18,
@@ -608,7 +608,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 607,2607,1265|1266,90,ASiJiaDe,YueDuShenShe,18-27,18,
 608,2608,1265|1266,90,ASiJiaDe,YueDuShenShe,18-28,18,
 609,2609,1265|1266,90,ASiJiaDe,YueDuShenShe,18-29,18,
-610,2610,1265|1266,90,ASiJiaDe,YueDuShenShe,18-30,18,5:3000048:1
+610,2610,1265|1266,90,ASiJiaDe,YueDuShenShe,18-30,18,5:3000049:1
 611,2611,1267|1268,90,ASiJiaDe,YueDuShenShe,18-31,18,
 612,2612,1267|1268,90,ASiJiaDe,YueDuShenShe,18-32,18,
 613,2613,1267|1268,90,ASiJiaDe,YueDuShenShe,18-33,18,
@@ -638,7 +638,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 637,2637,1275|1276,90,ASiJiaDe,YueDuShenShe,18-57,18,
 638,2638,1275|1276,90,ASiJiaDe,YueDuShenShe,18-58,18,
 639,2639,1275|1276,90,ASiJiaDe,YueDuShenShe,18-59,18,
-640,2640,1275|1276,90,ASiJiaDe,YueDuShenShe,18-60,18,5:3000048:1
+640,2640,1275|1276,90,ASiJiaDe,YueDuShenShe,18-60,18,5:3000049:1
 641,2641,1277|1278,90,ShiJieShu,YueDuShenShe,19-1,19,
 642,2642,1277|1278,90,ShiJieShu,YueDuShenShe,19-2,19,
 643,2643,1277|1278,90,ShiJieShu,YueDuShenShe,19-3,19,
@@ -668,7 +668,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 667,2667,1285|1286,90,ShiJieShu,YueDuShenShe,19-27,19,
 668,2668,1285|1286,90,ShiJieShu,YueDuShenShe,19-28,19,
 669,2669,1285|1286,90,ShiJieShu,YueDuShenShe,19-29,19,
-670,2670,1285|1286,90,ShiJieShu,YueDuShenShe,19-30,19,5:3000048:1
+670,2670,1285|1286,90,ShiJieShu,YueDuShenShe,19-30,19,5:3000049:1
 671,2671,1287|1288,90,ShiJieShu,YueDuShenShe,19-31,19,
 672,2672,1287|1288,90,ShiJieShu,YueDuShenShe,19-32,19,
 673,2673,1287|1288,90,ShiJieShu,YueDuShenShe,19-33,19,
@@ -698,7 +698,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 697,2697,1295|1296,90,ShiJieShu,YueDuShenShe,19-57,19,
 698,2698,1295|1296,90,ShiJieShu,YueDuShenShe,19-58,19,
 699,2699,1295|1296,90,ShiJieShu,YueDuShenShe,19-59,19,
-700,2700,1295|1296,90,ShiJieShu,YueDuShenShe,19-60,19,5:3000048:1
+700,2700,1295|1296,90,ShiJieShu,YueDuShenShe,19-60,19,5:3000049:1
 701,2701,1297|1298,90,XueChengBao,YueDuShenShe,20-1,20,
 702,2702,1297|1298,90,XueChengBao,YueDuShenShe,20-2,20,
 703,2703,1297|1298,90,XueChengBao,YueDuShenShe,20-3,20,
@@ -728,7 +728,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 727,2727,1305|1306,90,XueChengBao,YueDuShenShe,20-27,20,
 728,2728,1305|1306,90,XueChengBao,YueDuShenShe,20-28,20,
 729,2729,1305|1306,90,XueChengBao,YueDuShenShe,20-29,20,
-730,2730,1305|1306,90,XueChengBao,YueDuShenShe,20-30,20,5:3000048:1
+730,2730,1305|1306,90,XueChengBao,YueDuShenShe,20-30,20,5:3000049:1
 731,2731,1307|1308,90,XueChengBao,YueDuShenShe,20-31,20,
 732,2732,1307|1308,90,XueChengBao,YueDuShenShe,20-32,20,
 733,2733,1307|1308,90,XueChengBao,YueDuShenShe,20-33,20,
@@ -758,7 +758,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 757,2757,1315|1316,90,XueChengBao,YueDuShenShe,20-57,20,
 758,2758,1315|1316,90,XueChengBao,YueDuShenShe,20-58,20,
 759,2759,1315|1316,90,XueChengBao,YueDuShenShe,20-59,20,
-760,2760,1315|1316,90,XueChengBao,YueDuShenShe,20-60,20,5:3000048:1
+760,2760,1315|1316,90,XueChengBao,YueDuShenShe,20-60,20,5:3000049:1
 761,2761,1317|1318,90,ShenYuanZhiLv,YueDuShenShe,21-1,21,
 762,2762,1317|1318,90,ShenYuanZhiLv,YueDuShenShe,21-2,21,
 763,2763,1317|1318,90,ShenYuanZhiLv,YueDuShenShe,21-3,21,
@@ -788,7 +788,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 787,2787,1325|1326,90,ShenYuanZhiLv,YueDuShenShe,21-27,21,
 788,2788,1325|1326,90,ShenYuanZhiLv,YueDuShenShe,21-28,21,
 789,2789,1325|1326,90,ShenYuanZhiLv,YueDuShenShe,21-29,21,
-790,2790,1325|1326,90,ShenYuanZhiLv,YueDuShenShe,21-30,21,5:3000048:1
+790,2790,1325|1326,90,ShenYuanZhiLv,YueDuShenShe,21-30,21,5:3000049:1
 791,2791,1327|1328,90,ShenYuanZhiLv,YueDuShenShe,21-31,21,
 792,2792,1327|1328,90,ShenYuanZhiLv,YueDuShenShe,21-32,21,
 793,2793,1327|1328,90,ShenYuanZhiLv,YueDuShenShe,21-33,21,
@@ -818,7 +818,7 @@ dungeon_id,boss_monster_npc_id,normal_monster_npc_id_list,armor_drop_rate_when_o
 817,2817,1335|1336,90,ShenYuanZhiLv,YueDuShenShe,21-57,21,
 818,2818,1335|1336,90,ShenYuanZhiLv,YueDuShenShe,21-58,21,
 819,2819,1335|1336,90,ShenYuanZhiLv,YueDuShenShe,21-59,21,
-820,2820,1335|1336,90,ShenYuanZhiLv,YueDuShenShe,21-60,21,5:3000048:1
+820,2820,1335|1336,90,ShenYuanZhiLv,YueDuShenShe,21-60,21,5:3000049:1
 821,2821,1337|1338,90,KunLunTianGong,YueDuShenShe,22-1,22,
 822,2822,1337|1338,90,KunLunTianGong,YueDuShenShe,22-2,22,
 823,2823,1337|1338,90,KunLunTianGong,YueDuShenShe,22-3,22,

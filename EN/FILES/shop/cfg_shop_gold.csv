@@ -1,5 +1,5 @@
 cfg_id,thing_des,cost_score,must_buy,level_limit,limit_count,need_dungeon_id,lang_tips
-1,5:3000048:1,500,1,60,3,280,Unlock buying after clear 12-30 dungeon
+1,5:3000049:1,500,1,60,3,580,Unlock buying after clear 17-60 dungeon
 2,5:3000005:1,300,1,0,-1,0,xx副本后开放购买
 3,5:3000004:1,50,0,0,-1,0,xx副本后开放购买
 4,5:3000007:1,10,0,40,-1,0,

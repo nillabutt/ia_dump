@@ -1,11 +1,9 @@
 id,name,old_price,charge_cfg_id,award,image_show,need_dungeon_id,need_level,if_review_show
 1,Summon Pack1,$50.00 ,401,10:1200|5:3000005:10,img_gaojizhaohuanquan.png,0,0,1
 2,Summon Pack2,$250.00 ,402,10:6000|5:3000005:50,img_gaojizhaohuanquan2.png,0,0,1
-3,Summon Pack3,$60.00 ,403,10:1800|5:3000048:10,img_shishizhaohuanquan.png,280,60,0
-4,Summon Pack4,$200.00 ,404,10:6000|5:3000048:34,img_shishizhaohuanquan2.png,280,60,0
-5,Summon Pack5,$60.00 ,406,10:1800|5:3000049:10,img_chuanshuozhaohuanquan.png,580,100,0
-6,Summon Pack6,$200.00 ,407,10:6000|5:3000049:34,img_chuanshuozhaohuanquan2.png,580,100,0
-7,Summon Pack7,$60.00 ,413,10:1800|5:3000027:10,img_xinyunbi7.png,280,60,0
-8,Summon Pack8,$200.00 ,414,10:6000|5:3000027:34,img_xinyunbi9.png,280,60,0
-9,召唤礼包9,$50.00 ,410,10:1200|5:3000064:10,img_zuanshi11.png,0,60,0
-10,召唤礼包10,$250.00 ,411,10:6000|5:3000064:50,img_zuanshi12.png,0,60,0
+3,Summon Pack5,$60.00 ,406,10:1800|5:3000049:10,img_chuanshuozhaohuanquan.png,580,100,0
+4,Summon Pack6,$200.00 ,407,10:6000|5:3000049:34,img_chuanshuozhaohuanquan2.png,580,100,0
+5,Summon Pack7,$60.00 ,413,10:1800|5:3000027:10,img_xinyunbi7.png,280,60,0
+6,Summon Pack8,$200.00 ,414,10:6000|5:3000027:34,img_xinyunbi9.png,280,60,0
+7,召唤礼包9,$50.00 ,410,10:1200|5:3000064:10,img_zuanshi11.png,0,60,0
+8,召唤礼包10,$250.00 ,411,10:6000|5:3000064:50,img_zuanshi12.png,0,60,0
