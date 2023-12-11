@@ -1,8 +1,0 @@
-level,condition_value,condition_name,color,need_vowed,attr_fixd_type_type,attr_fixd_type,attr_fixd_value,attr_fixd_type_type2,attr_fixd_type2,attr_fixd_value2
-1,0,冷淡,#fffffff,0,0,0,0,0,0,0
-2,200,友好,#77e6bb,0,3,2,10,3,1,10
-3,500,暧昧,#89c5ef,0,3,2,10,3,1,10
-4,1000,亲密,#feb5ee,0,3,2,20,3,1,20
-5,1500,热恋,#ffa665,0,3,2,20,3,1,20
-6,2000,誓约,#ff7070,1,3,2,40,3,1,40
-7,3000,誓约,#ff7070,1,3,2,50,3,1,50
