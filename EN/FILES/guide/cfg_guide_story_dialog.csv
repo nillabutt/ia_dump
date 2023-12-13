@@ -2,458 +2,458 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 20101,20102,,GuideVideo1,,1,,,0,Me,呼……呼……怎么到处都是怪物，世界末日了么？,,0,18
 20102,-1,,,,1,,,0,Me,呃……被怪物咬伤的地方越来越痛了……,,0,0
 20201,20202,,ShouErQingDian,,1,LLS2,HMDE0,2,Lucifer,找到你啦！没想到这次的目标竟然是个人类高中生。,,0,0
-20202,20203,,,,1,USER_MAIN0,HL0,1,Me,你是来救我离开这里的吗？,,0,0
+20202,20203,,,,1,USER_MAIN_CZ,HL0,1,Me,你是来救我离开这里的吗？,,0,0
 20203,-1,,,,1,LLS2,HMDE0,2,Lucifer,非常遗憾，小可爱，我是来带你下地狱的。,,0,0
-20301,20303,,,,1,USER_MAIN0,HL0,1,Me,啊！你看看身后是谁！,,0,0
+20301,20303,,,,1,USER_MAIN_CZ,HL0,1,Me,啊！你看看身后是谁！,,0,0
 20302,-1,,,,1,LLS2,HMDE0,2,Lucifer,你是不是想趁我回头后开溜？你觉得我会上这种当么？,,0,0
-20401,20403,,,,1,USER_MAIN0,HL0,1,Me,救——命——啊！,,0,0
+20401,20403,,,,1,USER_MAIN_CZ,HL0,1,Me,救——命——啊！,,0,0
 20402,-1,,,,1,LLS2,HMDE0,2,Lucifer,尽情享受恐惧吧，你叫破喉咙也没人会来救你的。,,0,0
 20501,20502,,ShouErQingDian,,1,LLS2,HMDE0,2,Lucifer,什么人？！我可不喜欢这么粗暴的问候方式……,,0,1
 20502,20503,,,,1,MJL2,HMDE0,1,Michael,躲得不错嘛，路西法，你可真是不好找。,,0,0
 20503,20504,,,,1,LLS2,HMDE0,2,Lucifer,原来是米迦勒和万神殿的各位啊，真是麻烦的家伙们……,,0,0
 20504,-1,,ShouErQingDian,,1,HSZR2,HMDE0,1,Zhu Rong,呵……等你被送回地狱就不会觉得我们麻烦了！看招！,,0,0
 20601,-1,,ShouErQingDian,,1,LLS2,HMDE0,2,Lucifer,喔哟哟……看来诸位神力恢复得挺好，今天就不陪各位玩了。,,0,0
-20701,20702,,ShouErQingDian,,1,BLGZ2,HFSTS0,2,Princess Bari,逃得够快，看来没取回神力前，路西法很难有所作为。,,0,1
+20701,20702,,ShouErQingDian,,1,WL_CZ,HFSTS0,2,Gabriel,逃得够快，看来没取回神力前，路西法很难有所作为。,,0,1
 20702,20703,,,,1,NT2,HMDE0,2,Nuit,啊啦，米迦勒阁下，这个可爱的女孩子要怎么办？,,0,0
 20703,20704,,,,1,MJL2,MJL0,1,Michael,我没看出这个凡人有啥特别的……你确定路西法来找的是她？,,0,0
 20704,20705,,,,1,PDL2,MJL0,2,Pandora,没错，命运是不会骗人的。,,0,0
 20705,20706,,,,1,MJL2,MJL0,1,Michael,既然如此，那一切就交给命运吧……,,0,0
-20706,-1,,,,1,USER_MAIN0,HL0,2,Me,等等！您为什么要把长枪对着我！您不是来救我的吗？！,,0,0
+20706,-1,,,,1,USER_MAIN_CZ,HL0,2,Me,等等！您为什么要把长枪对着我！您不是来救我的吗？！,,0,0
 20801,20901,,{black},,0,,,0,,这是哪……胸口好痛……我还活着么……,,0,0
 20901,20902,,GuideVideo2,,0,,,0,,“命运的齿轮不断轮回，命运的门扉等待开启……”,,0,6
 20902,-1,,,,0,,,0,,“醒来吧，你的使命已经悄然降临……”,,0,0
-21001,21002,,ShouErQingDian,,1,BLGZ2,HFSTS0,2,Princess Bari,哟，你醒了？看来你今天运气挺不错。,,0,0
-21002,21003,,,,1,USER_MAIN0,HL0,1,Me,啊！你是刚才把我砍倒的那个米迦勒一伙的！,,0,0
-21003,21004,,,,1,BLGZ2,HFSTS0,2,Princess Bari,别慌，米迦勒已经走了，现在站你面前的巴里可比她温柔得多。,,0,0
-21004,21005,,,,1,USER_MAIN0,HL0,1,Me,真是不敢相信……我竟然会被天使攻击……,,0,0
-21005,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,至少你现在还活着，但当恶魔听见你抱怨后，我就不敢保证了。,,0,0
-21101,21102,,,,1,USER_MAIN0,HL0,1,Me,呃……那我们是不是该溜之大吉？,,0,0
-21102,21103,,,,1,BLGZ2,HFSTS0,2,Princess Bari,我觉得……你应该跑不过用翅膀飞的家伙。,,0,0
-21103,21104,,,,1,BLGZ2,HFSTS0,2,Princess Bari,不过你跟我念天使召唤咒文，天使大人或许就会来救你了。,,0,0
-21104,21105,,,,1,USER_MAIN0,HL0,1,Me,我打赌，这是我这辈子听过的最荒唐的事……,,0,0
-21105,21106,,,,1,BLGZ2,HFSTS0,2,Princess Bari,别犹豫了，来吧，“吾以众神的名义，召唤异界之使者……”,,0,0
-21106,-1,,,,1,USER_MAIN0,HL0,1,Me,吾以众神的……等等！后面那句是什么？！你别念这么快！,,0,0
-21201,21202,,,,1,USER_MAIN0,HL0,1,Me,真要命……你有办法击败它们么？,,0,0
-21202,21203,,,,1,BLGZ2,HFSTS0,2,Princess Bari,我想想……你有手机吗？或许你可以打电话叫个帮手？,,0,0
-21203,21204,,,,1,USER_MAIN0,HL0,1,Me,别开玩笑了，叫多少人来也没用！,,0,0
-21204,21205,,,,1,BLGZ2,HFSTS0,2,Princess Bari,说得不错，那我们就召唤比人类强一百倍的天使吧！,,0,0
-21205,21206,,,,1,USER_MAIN0,HL0,1,Me,你不会把米迦勒叫来吧？那我和被恶魔吃了有什么两样？！,,0,0
-21206,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,放心，我的同伴可不像她那么冷血，准备天使召唤！,,0,0
-21301,-1,,{translucent},,0,BLGZ2,HFSTS0,2,Princess Bari,这里能够进行天使召唤，可召唤出强大的天使与你并肩作战。,,0,0
+21001,21002,,ShouErQingDian,,1,WL_CZ,HFSTS0,2,Gabriel,哟，你醒了？看来你今天运气挺不错。,,0,0
+21002,21003,,,,1,USER_MAIN_CZ,HL0,1,Me,啊！你是刚才把我砍倒的那个米迦勒一伙的！,,0,0
+21003,21004,,,,1,WL_CZ,HFSTS0,2,Gabriel,别慌，米迦勒已经走了，现在站你面前的巴里可比她温柔得多。,,0,0
+21004,21005,,,,1,USER_MAIN_CZ,HL0,1,Me,真是不敢相信……我竟然会被天使攻击……,,0,0
+21005,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,至少你现在还活着，但当恶魔听见你抱怨后，我就不敢保证了。,,0,0
+21101,21102,,,,1,USER_MAIN_CZ,HL0,1,Me,呃……那我们是不是该溜之大吉？,,0,0
+21102,21103,,,,1,WL_CZ,HFSTS0,2,Gabriel,我觉得……你应该跑不过用翅膀飞的家伙。,,0,0
+21103,21104,,,,1,WL_CZ,HFSTS0,2,Gabriel,不过你跟我念天使召唤咒文，天使大人或许就会来救你了。,,0,0
+21104,21105,,,,1,USER_MAIN_CZ,HL0,1,Me,我打赌，这是我这辈子听过的最荒唐的事……,,0,0
+21105,21106,,,,1,WL_CZ,HFSTS0,2,Gabriel,别犹豫了，来吧，“吾以众神的名义，召唤异界之使者……”,,0,0
+21106,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,吾以众神的……等等！后面那句是什么？！你别念这么快！,,0,0
+21201,21202,,,,1,USER_MAIN_CZ,HL0,1,Me,真要命……你有办法击败它们么？,,0,0
+21202,21203,,,,1,WL_CZ,HFSTS0,2,Gabriel,我想想……你有手机吗？或许你可以打电话叫个帮手？,,0,0
+21203,21204,,,,1,USER_MAIN_CZ,HL0,1,Me,别开玩笑了，叫多少人来也没用！,,0,0
+21204,21205,,,,1,WL_CZ,HFSTS0,2,Gabriel,说得不错，那我们就召唤比人类强一百倍的天使吧！,,0,0
+21205,21206,,,,1,USER_MAIN_CZ,HL0,1,Me,你不会把米迦勒叫来吧？那我和被恶魔吃了有什么两样？！,,0,0
+21206,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,放心，我的同伴可不像她那么冷血，准备天使召唤！,,0,0
+21301,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,这里能够进行天使召唤，可召唤出强大的天使与你并肩作战。,,0,0
 21401,21402,,ShouErQingDian,,1,WL0,WL0,2,Gabriel,天使长加百列，应神明所揭示的命运而来，听候您的指令。,,0,0
-21402,21403,,,,1,USER_MAIN0,HL0,1,Me,原来我真能召唤出天使，连我自己都不敢相信！,,0,0
-21403,21404,,,,1,BLGZ2,HFSTS0,2,Princess Bari,挺不赖嘛……看来你确实有着不凡的天赋。,,0,0
-21404,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,我们去打倒这里的首领吧，不然这鬼地方永远别想安宁。,,0,0
-21501,21502,,,,1,USER_MAIN0,HL0,1,Me,呃……看来我别无选择啊……,,0,0
-21502,21503,,,,1,BLGZ2,HFSTS0,2,Princess Bari,放心上吧，死不了的，顶多断几根骨头罢了！,,0,0
-21503,-1,,,,1,USER_MAIN0,HL0,1,Me,哎？！等等……巴里你说什么？！,,0,0
-21601,21602,,,,1,USER_MAIN0,HL0,1,Me,呜……我不要！我只是个高中生啊……,,0,0
-21602,21603,,,,1,BLGZ2,HFSTS0,2,Princess Bari,犹豫什么呢！拿出你的勇气来！,,0,0
-21603,-1,,,,1,USER_MAIN0,HL0,1,Me,等等！我还没做好心理准备！天哪……天使大人救命啊！,,0,0
-21701,21702,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,真是命悬一线……不会之后的每次战斗都这么惊险吧……,,0,0
-21702,21703,,,,1,BLGZ2,HFSTS0,2,Princess Bari,你应该能看见敌人消散后残留的能量吧？走到能量中间试试？,,0,0
-21703,21704,,,,1,USER_MAIN0,HL0,1,Me,啊！我感到这些能量似乎……流入了我的体内？,,0,0
-21704,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,天使、恶魔依靠吸收彼此力量而成长，这是上古的法则……,,0,0
-21801,-1,,{translucent},,0,BLGZ2,HFSTS0,2,Princess Bari,当角色的经验值积累到一定程度后，就可以进行升级，升级后的战斗力将大幅提升！,,0,0
-21901,21902,,ShouErQingDian,,1,BLGZ2,HFSTS0,2,Princess Bari,嗯，感觉你比之前变强了不少，应该能应付更难的战斗了。,,0,0
-21902,21903,,,,1,USER_MAIN0,HL0,1,Me,提到刚才的战斗！巴里你竟然只是站在一旁看着我挨揍！,,0,0
-21903,21904,,,,1,BLGZ2,HFSTS0,2,Princess Bari,我也想帮你啊，不过可惜的是我已经失去了所有的神力。,,0,0
-21904,21905,,,,1,USER_MAIN0,HL0,1,Me,你说谎都不眨眼的么！之前你还和路西法打得不可开交！,,0,0
-21905,21906,,,,1,BLGZ2,HFSTS0,2,Princess Bari,呵呵……让我给你看看证据你就明白了，失礼啦，亲爱的。,,0,0
-21906,-1,,,,1,USER_MAIN0,HL0,1,Me,等等！你脱我衣服做什么！咦？我胸前的伤口怎么会……,,0,0
-22001,22002,,GuideVideo3,,1,BLGZ2,HFSTS0,2,Princess Bari,当时你被米迦勒一枪贯穿了心脏，原本是必死无疑的……,,0,0
-22002,22003,,,,1,BLGZ2,HFSTS0,2,Princess Bari,仁慈的巴里为了救你，将主神的圣物连同神力融入了你体内。,,0,0
-22003,22004,,,,1,BLGZ2,HFSTS0,2,Princess Bari,你胸前伤口处的圣物，人称众神之印，它能保护你的心脏。,,0,0
-22004,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,同时，它也让你觉醒了召唤天使的能力。,,0,0
-22101,22102,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,原来事情是这么一回事……好吧，谢谢你救了我。,,0,0
-22102,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,没错，但我却失去了战斗能力，看来你得替我履行神职了。,,0,0
-22301,22302,,,,1,USER_MAIN0,HL0,1,Me,嗯……好吧，毕竟你是我的救命恩人……,,0,0
-22302,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,嗯，那么我们继续进行下一步行动吧。,,0,0
-22401,22402,,,,1,USER_MAIN0,HL0,1,Me,呜……好麻烦，我想回家……,,0,0
-22402,22403,,,,1,BLGZ2,HFSTS0,2,Princess Bari,啊啦，你如果离我太远，体内的众神之印就会崩溃，恐怕……,,0,0
-22403,-1,,,,1,USER_MAIN0,HL0,1,Me,停！别吓我了……我听你的就是了……接下来要怎么办？,,0,0
-22501,22502,,ShouErQingDian,,0,BLGZ2,HFSTS0,2,Princess Bari,为了阻止末日到来，正义的天使正在各地防御恶魔的入侵。,,0,0
-22502,22503,,,,0,BLGZ2,HFSTS0,2,Princess Bari,离这里最近的东京，由米迦勒负责，我们需要去帮助她。,,0,0
-22503,22504,,,,0,USER_MAIN0,HL0,1,Me,我能不去见米迦勒么？她见了我后又一枪捅过来怎么办……,,0,0
-22504,22505,,,,0,BLGZ2,HFSTS0,2,Princess Bari,之前你被恶魔咬伤后会变成怪物，而现在已经没必要杀你了。,,0,0
-22505,22506,,,,0,USER_MAIN0,HL0,1,Me,真是过分！她怎么可以这么草率地对待一条生命！,,0,0
-22506,22507,,,,0,BLGZ2,HFSTS0,2,Princess Bari,至少结果不坏，你获得了超凡的力量不是么？,,0,0
-22507,-1,,,,0,BLGZ2,HFSTS0,2,Princess Bari,传送阵已经准备好了，我们出发吧！,,0,0
-22601,22602,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,看来我不仅晕车，而且晕传送阵……等等！这里是东京？,,0,0
-22602,22603,,,,1,BLGZ2,HFSTS0,2,Princess Bari,准确来说是东京的残骸……唉，看来这里也没能逃过一劫。,,0,0
-22603,22604,,,,1,USER_MAIN0,HL0,1,Me,哼，从把我们围住的魔物来看，米迦勒恐怕没做好她的工作。,,0,0
-22604,22605,,,,1,BLGZ2,HFSTS0,2,Princess Bari,我感应到她正在城北一处神社，最好快点找到她。,,0,0
-22605,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,眼下敌人不少……是时候教你更强大的十连星天使召唤了！,,0,0
-22201,22202,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,呼……我真惊讶你们的咒文竟然都这么长！而且这么难念！,,0,0
-22202,22203,,,,1,BLGZ2,HFSTS0,2,Princess Bari,这次召唤的力量可是之前的十倍，咒文麻烦不是很正常么！,,0,0
+21402,21403,,,,1,USER_MAIN_CZ,HL0,1,Me,原来我真能召唤出天使，连我自己都不敢相信！,,0,0
+21403,21404,,,,1,WL_CZ,HFSTS0,2,Gabriel,挺不赖嘛……看来你确实有着不凡的天赋。,,0,0
+21404,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,我们去打倒这里的首领吧，不然这鬼地方永远别想安宁。,,0,0
+21501,21502,,,,1,USER_MAIN_CZ,HL0,1,Me,呃……看来我别无选择啊……,,0,0
+21502,21503,,,,1,WL_CZ,HFSTS0,2,Gabriel,放心上吧，死不了的，顶多断几根骨头罢了！,,0,0
+21503,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,哎？！等等……巴里你说什么？！,,0,0
+21601,21602,,,,1,USER_MAIN_CZ,HL0,1,Me,呜……我不要！我只是个高中生啊……,,0,0
+21602,21603,,,,1,WL_CZ,HFSTS0,2,Gabriel,犹豫什么呢！拿出你的勇气来！,,0,0
+21603,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,等等！我还没做好心理准备！天哪……天使大人救命啊！,,0,0
+21701,21702,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,真是命悬一线……不会之后的每次战斗都这么惊险吧……,,0,0
+21702,21703,,,,1,WL_CZ,HFSTS0,2,Gabriel,你应该能看见敌人消散后残留的能量吧？走到能量中间试试？,,0,0
+21703,21704,,,,1,USER_MAIN_CZ,HL0,1,Me,啊！我感到这些能量似乎……流入了我的体内？,,0,0
+21704,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,天使、恶魔依靠吸收彼此力量而成长，这是上古的法则……,,0,0
+21801,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,当角色的经验值积累到一定程度后，就可以进行升级，升级后的战斗力将大幅提升！,,0,0
+21901,21902,,ShouErQingDian,,1,WL_CZ,HFSTS0,2,Gabriel,嗯，感觉你比之前变强了不少，应该能应付更难的战斗了。,,0,0
+21902,21903,,,,1,USER_MAIN_CZ,HL0,1,Me,提到刚才的战斗！巴里你竟然只是站在一旁看着我挨揍！,,0,0
+21903,21904,,,,1,WL_CZ,HFSTS0,2,Gabriel,我也想帮你啊，不过可惜的是我已经失去了所有的神力。,,0,0
+21904,21905,,,,1,USER_MAIN_CZ,HL0,1,Me,你说谎都不眨眼的么！之前你还和路西法打得不可开交！,,0,0
+21905,21906,,,,1,WL_CZ,HFSTS0,2,Gabriel,呵呵……让我给你看看证据你就明白了，失礼啦，亲爱的。,,0,0
+21906,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,等等！你脱我衣服做什么！咦？我胸前的伤口怎么会……,,0,0
+22001,22002,,GuideVideo3,,1,WL_CZ,HFSTS0,2,Gabriel,当时你被米迦勒一枪贯穿了心脏，原本是必死无疑的……,,0,0
+22002,22003,,,,1,WL_CZ,HFSTS0,2,Gabriel,仁慈的巴里为了救你，将主神的圣物连同神力融入了你体内。,,0,0
+22003,22004,,,,1,WL_CZ,HFSTS0,2,Gabriel,你胸前伤口处的圣物，人称众神之印，它能保护你的心脏。,,0,0
+22004,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,同时，它也让你觉醒了召唤天使的能力。,,0,0
+22101,22102,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,原来事情是这么一回事……好吧，谢谢你救了我。,,0,0
+22102,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,没错，但我却失去了战斗能力，看来你得替我履行神职了。,,0,0
+22301,22302,,,,1,USER_MAIN_CZ,HL0,1,Me,嗯……好吧，毕竟你是我的救命恩人……,,0,0
+22302,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,嗯，那么我们继续进行下一步行动吧。,,0,0
+22401,22402,,,,1,USER_MAIN_CZ,HL0,1,Me,呜……好麻烦，我想回家……,,0,0
+22402,22403,,,,1,WL_CZ,HFSTS0,2,Gabriel,啊啦，你如果离我太远，体内的众神之印就会崩溃，恐怕……,,0,0
+22403,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,停！别吓我了……我听你的就是了……接下来要怎么办？,,0,0
+22501,22502,,ShouErQingDian,,0,WL_CZ,HFSTS0,2,Gabriel,为了阻止末日到来，正义的天使正在各地防御恶魔的入侵。,,0,0
+22502,22503,,,,0,WL_CZ,HFSTS0,2,Gabriel,离这里最近的东京，由米迦勒负责，我们需要去帮助她。,,0,0
+22503,22504,,,,0,USER_MAIN_CZ,HL0,1,Me,我能不去见米迦勒么？她见了我后又一枪捅过来怎么办……,,0,0
+22504,22505,,,,0,WL_CZ,HFSTS0,2,Gabriel,之前你被恶魔咬伤后会变成怪物，而现在已经没必要杀你了。,,0,0
+22505,22506,,,,0,USER_MAIN_CZ,HL0,1,Me,真是过分！她怎么可以这么草率地对待一条生命！,,0,0
+22506,22507,,,,0,WL_CZ,HFSTS0,2,Gabriel,至少结果不坏，你获得了超凡的力量不是么？,,0,0
+22507,-1,,,,0,WL_CZ,HFSTS0,2,Gabriel,传送阵已经准备好了，我们出发吧！,,0,0
+22601,22602,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,看来我不仅晕车，而且晕传送阵……等等！这里是东京？,,0,0
+22602,22603,,,,1,WL_CZ,HFSTS0,2,Gabriel,准确来说是东京的残骸……唉，看来这里也没能逃过一劫。,,0,0
+22603,22604,,,,1,USER_MAIN_CZ,HL0,1,Me,哼，从把我们围住的魔物来看，米迦勒恐怕没做好她的工作。,,0,0
+22604,22605,,,,1,WL_CZ,HFSTS0,2,Gabriel,我感应到她正在城北一处神社，最好快点找到她。,,0,0
+22605,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,眼下敌人不少……是时候教你更强大的十连星天使召唤了！,,0,0
+22201,22202,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,呼……我真惊讶你们的咒文竟然都这么长！而且这么难念！,,0,0
+22202,22203,,,,1,WL_CZ,HFSTS0,2,Gabriel,这次召唤的力量可是之前的十倍，咒文麻烦不是很正常么！,,0,0
 22203,-1,,,,1,BLDD2,MJL0,2,Belldandy,喂！你们两个！我应召唤而来可不是听你们闲聊的！,,0,0
-22701,22702,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,啊……手好痛，拳头打在敌人这么硬的盔甲上太难受了！,,0,0
-22702,22703,,,,1,BLGZ2,HFSTS0,2,Princess Bari,空手战斗确实吃亏，但天使或恶魔的装备凡人无法使用……,,0,0
-22703,-1,,,,1,USER_MAIN0,HL0,1,Me,那我也要试试！哪怕当铁棍一样挥也比现在赤手空拳要强！,,0,0
-22801,22802,,,,1,BLGZ2,HFSTS0,2,Princess Bari,怎么可能？！你竟然激活了这件异界的装备！,,0,0
-22802,22803,,,,1,USER_MAIN0,HL0,1,Me,这很奇怪么？我觉得这把剑很合手啊！,,0,0
-22803,22804,,,,1,BLGZ2,HFSTS0,2,Princess Bari,这难道是神格的觉醒？你或许能通过一个仪式变得加更强大！,,0,0
-22804,22805,,,,1,USER_MAIN0,HL0,1,Me,那还犹豫什么呢！告诉我仪式该怎么做就行了！,,0,0
-22805,-1,,,,1,BLGZ2,HFSTS0,2,Princess Bari,好吧，在你身上发生任何奇怪的事，我都已经不会觉得吃惊了……,,0,0
-22901,-1,,{translucent},,0,BLGZ2,HFSTS0,2,Princess Bari,当与主角相同品阶的天使达到一定数量后，可以让主角觉醒至下一品阶！,,0,0
-23001,23002,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,发生了什么……我感到自己仿佛脱胎换骨了一般！,,0,0
-23002,23003,,,,1,BLGZ2,HFSTS0,2,Princess Bari,这是简直是神迹……凡人根本不可能成功！,,0,0
+22701,22702,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,啊……手好痛，拳头打在敌人这么硬的盔甲上太难受了！,,0,0
+22702,22703,,,,1,WL_CZ,HFSTS0,2,Gabriel,空手战斗确实吃亏，但天使或恶魔的装备凡人无法使用……,,0,0
+22703,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,那我也要试试！哪怕当铁棍一样挥也比现在赤手空拳要强！,,0,0
+22801,22802,,,,1,WL_CZ,HFSTS0,2,Gabriel,怎么可能？！你竟然激活了这件异界的装备！,,0,0
+22802,22803,,,,1,USER_MAIN_CZ,HL0,1,Me,这很奇怪么？我觉得这把剑很合手啊！,,0,0
+22803,22804,,,,1,WL_CZ,HFSTS0,2,Gabriel,这难道是神格的觉醒？你或许能通过一个仪式变得加更强大！,,0,0
+22804,22805,,,,1,USER_MAIN_CZ,HL0,1,Me,那还犹豫什么呢！告诉我仪式该怎么做就行了！,,0,0
+22805,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,好吧，在你身上发生任何奇怪的事，我都已经不会觉得吃惊了……,,0,0
+22901,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,当与主角相同品阶的天使达到一定数量后，可以让主角觉醒至下一品阶！,,0,0
+23001,23002,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,发生了什么……我感到自己仿佛脱胎换骨了一般！,,0,0
+23002,23003,,,,1,WL_CZ,HFSTS0,2,Gabriel,这是简直是神迹……凡人根本不可能成功！,,0,0
 23003,23004,,,,1,WL0,WL0,2,Gabriel,不会有错的……巴里，她或许已经不是个凡人了。,,0,0
-23004,23005,,,,1,BLGZ2,HFSTS0,2,Princess Bari,我大概猜到路西法来找她的原因了，我们最好尽快与米迦勒会合！,,0,0
-23005,-1,,,,1,USER_MAIN0,HL0,1,Me,等等！见米迦勒前，我想找几件更结实的装备，增加点安全感……,,0,0
+23004,23005,,,,1,WL_CZ,HFSTS0,2,Gabriel,我大概猜到路西法来找她的原因了，我们最好尽快与米迦勒会合！,,0,0
+23005,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,等等！见米迦勒前，我想找几件更结实的装备，增加点安全感……,,0,0
 1,-1,,{black},,0,,,0,,Next night...,,0,0
 2,-1,,{black},,0,,,0,,"Cheonggye, Seoul",,1,0
-1002,1003,,ShouErQingDian,,1,BLGZ0,HMDE0,2,Princess Bari,"Please hurry up, my Lady! Or we can't catch the monsters anymore!",blgz_1,0,0
-1003,1004,,,,1,USER_MAIN0,HL0,1,Me,"Monsters won't come to such crowded place like this! The crowd is suffocating me. Bari, I want to go home now.",user_1,0,0
-1004,1005,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Stop complaining, my Lady! Please remember you are chosed by God. Why don't you have any fighting spirit? !",blgz_2,0,0
-1005,1006,,,,1,USER_MAIN0,HL0,1,Me,"What? I am chosen because of my pretty face, not my fighting spirit.",user_2,0,0
-1006,1007,,,,1,BLGZ0,HMDE0,2,Princess Bari,颜值？！... ,blgz_3,0,0
-1007,1008,,,,1,BLGZ0,HMDE0,2,Princess Bari,Look! There are some monsters beside the stage. Let's sneak up on them and wipe them out!,blgz_4,0,0
-1008,-1,,,,1,USER_MAIN0,HL0,1,Me,"Luckily, we didn't come in vain. Let's catch those monsters quickly and go home.",user_3,0,0
-2009,2010,,ShouErQingDian,,1,BLGZ0,HMDE0,2,Princess Bari,Great! Congratulations my Lady! Today's lesson is over.,blgz_5,0,0
-2010,2011,,,,1,USER_MAIN0,HL0,1,Me,It is already over?! I haven't really adapted to it…,user_4,0,0
-2011,2012,,,,1,BLGZ0,HMDE0,2,Princess Bari,Princess Bari is in a good mood. She decides to take a good sleep.,blgz_6,0,0
-2012,-1,,,,1,USER_MAIN0,HL0,1,Me,It turns out Princess Bari is quite hard to understand…,user_5,0,0
-3001,3002,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,Please let me go… I really miss my mom…,user_6,0,0
-3002,3003,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Absolutely no! You are God's chosen one, and you must fulfill the task God has given you.",blgz_7,0,0
-3003,3004,,,,1,USER_MAIN0,HL0,1,Me,But I'm just a student traveling to Korea and I have already booked my round-trip ticket for tomorrow.,user_7,0,0
-3004,3005,,,,1,BLGZ0,HMDE0,2,Princess Bari,Don't bother with those details. Today I'll teach you an important skill: Summon Angels!,blgz_8,0,0
-3005,-1,,,,1,USER_MAIN0,HL0,1,Me,Sounds cool…,user_8,0,0
-4001,4002,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,WOW! How pretty she is! And she has a pair of REAL WINGS!,user_9,0,0
-4002,4003,,,,1,BLGZ0,HMDE0,2,Princess Bari,"I told you that will be fun. She is Gabriel, an angel. And she will follow you in the future.",blgz_10,0,0
-4003,4004,,,,1,USER_MAIN0,HL0,1,Me,Follow me? Awesome!,user_10,0,0
-4004,4005,,,,1,BLGZ0,HMDE0,2,Princess Bari,Yes. She will help you to destroy the monsters!,blgz_11,0,0
-4005,4006,,,,1,USER_MAIN0,HL0,1,Me,You are always talking about monsters …,user_11,0,0
-4006,-1,,,,1,BLGZ0,HMDE0,2,Princess Bari,It's the task God had delegated you. Now let's go and fight alongside Gabriel!,blgz_12,0,0
-5001,5002,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,"Gabriel, you’re amazing! Please always stay by my side!",,0,0
-5002,5003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Yes! And since you are the master of Gabriel, you are more powerful.",,0,0
-5003,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,You will encounter more monsters as you venture down this road. You must vanquish them all!,,0,0
-5004,5005,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,"Gabriel, you’re amazing! Please always stay by my side!",,0,0
-5005,5006,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Yes! And since you are the master of Gabriel, you are more powerful.",,0,0
-5006,5007,,,,1,USER_MAIN0,HL0,1,Me,Haha! It's so wonderful to have an Angel as a bodyguard!,,0,0
-5007,5008,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Not a bodyguard… Angels are sent by God to help you, just like me.",,0,0
-5008,5009,,,,1,USER_MAIN0,HL0,1,Me,"Yeah I know, Princess Bari, a famous Angel in Korea, has been sent by God to help me, then my travel plan is gone…",,0,0
-5009,5010,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Why do you still remember such a little thing as traveling? You are the one chosen by God!,,0,0
-5010,5011,,,,1,USER_MAIN0,HL0,1,Me,"OK OK, please continue your presentation…",,0,0
-5011,5012,,,,1,BLGZ0,HFSTS0,2,Princess Bari,That's more like it.,,0,0
-5012,5013,,,,1,USER_MAIN0,HL0,1,Me,"Bari, look what I just found. It looks very powerful.",,0,0
-5013,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,It's the gear dropped from killed monster. Equip it now!,,0,0
-5020,5021,,ShenNvQiSuo,,1,BLGZ0,HFSTS0,2,Princess Bari,Here's the key to improving your power! Replace new gears in time when you see a red dot!,,0,0
-5021,5022,,,,1,USER_MAIN0,HL0,1,Me,"Sure enough, I feel stronger now.",,0,0
-5022,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Yes. Always remember to change to the newest gear. That's the secret of becoming stronger.,,0,0
-6001,-1,,ShenNvQiSuo,,1,BLGZ0,HFSTS0,2,Princess Bari,"Reach over 80% Win Rate to challenge the Boss, beat the Boss, we can go to next Dungeon",,0,0
-6002,6003,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,So many nice things!,,0,0
-6003,6004,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Yes, there are many rewards for killing the Boss. God won't let you work for nothing.",,0,0
-6004,6005,,,,1,USER_MAIN0,HL0,1,Me,"Okay, I see. Is it time to change the gear again?",,0,0
-6005,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Clever! You're definitely the chosen one.,,0,0
-6011,6012,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,Area is cleared! Can we go home and take a rest?,user_12,0,0
-6012,6013,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Yes, my Master.",blgz_13,0,0
-6013,6014,,,,1,USER_MAIN0,HL0,1,Me,Master?? You call me Master?,user_13,0,0
-6014,6015,,,,1,BLGZ0,HMDE0,2,Princess Bari,"It was just a slip of the tongue. I was saying that let's have an early rest today, because we have to go to Japan tomorrow.",blgz_14,0,0
-6015,6016,,,,1,USER_MAIN0,HL0,1,Me,What?! Japan? Why do we suddenly have to go to Japan???! I haven't had a good time in Korea yet.,user_14,0,0
-6016,6017,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Korea's monsters has been almost eliminated by us. Now, Japan needs you more.",blgz_15,0,0
-6017,6018,,,,1,USER_MAIN0,HL0,1,Me,"Gosh, we need to go to Japan to fight the monsters there?!",user_15,0,0
-6018,-1,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Yes, I've bought us the tickets. Take an early break. Ha ha…",blgz_16,0,0
-6019,6020,,TianZhaoShenShe-Combined,,1,USER_MAIN0,HL0,1,Me,"It is dangerous, but at last we killed that bastard!",,0,0
-6020,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,This area is safe for the moment. Let's go to other areas to help others.,,0,0
-7001,-1,,TianZhaoShenShe-Combined,,1,USER_MAIN0,HL0,1,Me,It seems that monsters here are much more powerful. I need more help!,user_16,0,0
-7002,7003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Well, now we need more advanced angels!!",,0,0
-7003,7004,,,,1,USER_MAIN0,HL0,1,Me,What? There are advanced summons? Why don't you say it earlier?,,0,0
-7004,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Advanced Summon comes with higher chances to get high-level angels. Let me show you how to do it~,,0,0
-7010,7011,,TianZhaoShenShe-Combined,,1,USER_MAIN0,HL0,1,Me,"The monster is getting more powerful. If it goes on like this, we will all die here!",,0,0
-7011,7012,,,,1,BLGZ0,HFSTS0,2,Princess Bari,It seems that we need stronger divine power!,,0,0
-7012,7013,,,,1,USER_MAIN0,HL0,1,Me,The ancient divine power? But I feel like I tried my best today.,,0,0
-7013,7014,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Have you forgotten these angels? There is enormous divine power hidden in their bodies, which will be released by awakening!",,0,0
-7014,7015,,,,1,USER_MAIN0,HL0,1,Me,You should say it earlier. Let's awake them!,,0,0
-7015,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,How can it be so easy? We need to find the Angel Shards first. Come with me!,,0,0
-8001,8002,,TianZhaoShenShe-Combined,,1,USER_MAIN0,HL0,1,Me,Huh? It seems I’ve obtained a few Belldandy Shards again. What am I gonna do with it?,,0,0
-8002,8003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Collect enough shards to awaken the Angels you’ve already owned. Quick, use these shards to awaken your angel!",,0,0
-8003,-1,,,,1,USER_MAIN0,HL0,1,Me,"Well, I'll try it right away!",,0,0
+1002,1003,,ShouErQingDian,,1,WL_CZ,HMDE0,2,Gabriel,"Please hurry up, my Lady! Or we can't catch the monsters anymore!",blgz_1,0,0
+1003,1004,,,,1,USER_MAIN_CZ,HL0,1,Me,"Monsters won't come to such crowded place like this! The crowd is suffocating me. Bari, I want to go home now.",user_1,0,0
+1004,1005,,,,1,WL_CZ,HMDE0,2,Gabriel,"Stop complaining, my Lady! Please remember you are chosed by God. Why don't you have any fighting spirit? !",blgz_2,0,0
+1005,1006,,,,1,USER_MAIN_CZ,HL0,1,Me,"What? I am chosen because of my pretty face, not my fighting spirit.",user_2,0,0
+1006,1007,,,,1,WL_CZ,HMDE0,2,Gabriel,颜值？！... ,blgz_3,0,0
+1007,1008,,,,1,WL_CZ,HMDE0,2,Gabriel,Look! There are some monsters beside the stage. Let's sneak up on them and wipe them out!,blgz_4,0,0
+1008,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,"Luckily, we didn't come in vain. Let's catch those monsters quickly and go home.",user_3,0,0
+2009,2010,,ShouErQingDian,,1,WL_CZ,HMDE0,2,Gabriel,Great! Congratulations my Lady! Today's lesson is over.,blgz_5,0,0
+2010,2011,,,,1,USER_MAIN_CZ,HL0,1,Me,It is already over?! I haven't really adapted to it…,user_4,0,0
+2011,2012,,,,1,WL_CZ,HMDE0,2,Gabriel,Princess Bari is in a good mood. She decides to take a good sleep.,blgz_6,0,0
+2012,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,加百列原来也这么难以琢磨...,user_5,0,0
+3001,3002,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,Please let me go… I really miss my mom…,user_6,0,0
+3002,3003,,,,1,WL_CZ,HMDE0,2,Gabriel,"Absolutely no! You are God's chosen one, and you must fulfill the task God has given you.",blgz_7,0,0
+3003,3004,,,,1,USER_MAIN_CZ,HL0,1,Me,But I'm just a student traveling to Korea and I have already booked my round-trip ticket for tomorrow.,user_7,0,0
+3004,3005,,,,1,WL_CZ,HMDE0,2,Gabriel,Don't bother with those details. Today I'll teach you an important skill: Summon Angels!,blgz_8,0,0
+3005,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Sounds cool…,user_8,0,0
+4001,4002,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,WOW! How pretty she is! And she has a pair of REAL WINGS!,user_9,0,0
+4002,4003,,,,1,WL_CZ,HMDE0,2,Gabriel,"I told you that will be fun. She is Gabriel, an angel. And she will follow you in the future.",blgz_10,0,0
+4003,4004,,,,1,USER_MAIN_CZ,HL0,1,Me,Follow me? Awesome!,user_10,0,0
+4004,4005,,,,1,WL_CZ,HMDE0,2,Gabriel,Yes. She will help you to destroy the monsters!,blgz_11,0,0
+4005,4006,,,,1,USER_MAIN_CZ,HL0,1,Me,You are always talking about monsters …,user_11,0,0
+4006,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,It's the task God had delegated you. Now let's go and fight alongside Gabriel!,blgz_12,0,0
+5001,5002,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel, you’re amazing! Please always stay by my side!",,0,0
+5002,5003,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Yes! And since you are the master of Gabriel, you are more powerful.",,0,0
+5003,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,You will encounter more monsters as you venture down this road. You must vanquish them all!,,0,0
+5004,5005,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel, you’re amazing! Please always stay by my side!",,0,0
+5005,5006,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Yes! And since you are the master of Gabriel, you are more powerful.",,0,0
+5006,5007,,,,1,USER_MAIN_CZ,HL0,1,Me,Haha! It's so wonderful to have an Angel as a bodyguard!,,0,0
+5007,5008,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Not a bodyguard… Angels are sent by God to help you, just like me.",,0,0
+5008,5009,,,,1,USER_MAIN_CZ,HL0,1,Me,我知道啦，加百列是韩国著名的天使，神指引你来帮助我，所以我的旅游全泡汤了...,,0,0
+5009,5010,,,,1,WL_CZ,HFSTS0,2,Gabriel,Why do you still remember such a little thing as traveling? You are the one chosen by God!,,0,0
+5010,5011,,,,1,USER_MAIN_CZ,HL0,1,Me,"OK OK, please continue your presentation…",,0,0
+5011,5012,,,,1,WL_CZ,HFSTS0,2,Gabriel,That's more like it.,,0,0
+5012,5013,,,,1,USER_MAIN_CZ,HL0,1,Me,"Bari, look what I just found. It looks very powerful.",,0,0
+5013,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,It's the gear dropped from killed monster. Equip it now!,,0,0
+5020,5021,,ShenNvQiSuo,,1,WL_CZ,HFSTS0,2,Gabriel,Here's the key to improving your power! Replace new gears in time when you see a red dot!,,0,0
+5021,5022,,,,1,USER_MAIN_CZ,HL0,1,Me,"Sure enough, I feel stronger now.",,0,0
+5022,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,Yes. Always remember to change to the newest gear. That's the secret of becoming stronger.,,0,0
+6001,-1,,ShenNvQiSuo,,1,WL_CZ,HFSTS0,2,Gabriel,"Reach over 80% Win Rate to challenge the Boss, beat the Boss, we can go to next Dungeon",,0,0
+6002,6003,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,So many nice things!,,0,0
+6003,6004,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Yes, there are many rewards for killing the Boss. God won't let you work for nothing.",,0,0
+6004,6005,,,,1,USER_MAIN_CZ,HL0,1,Me,"Okay, I see. Is it time to change the gear again?",,0,0
+6005,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,Clever! You're definitely the chosen one.,,0,0
+6011,6012,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,Area is cleared! Can we go home and take a rest?,user_12,0,0
+6012,6013,,,,1,WL_CZ,HMDE0,2,Gabriel,"Yes, my Master.",blgz_13,0,0
+6013,6014,,,,1,USER_MAIN_CZ,HL0,1,Me,Master?? You call me Master?,user_13,0,0
+6014,6015,,,,1,WL_CZ,HMDE0,2,Gabriel,"It was just a slip of the tongue. I was saying that let's have an early rest today, because we have to go to Japan tomorrow.",blgz_14,0,0
+6015,6016,,,,1,USER_MAIN_CZ,HL0,1,Me,What?! Japan? Why do we suddenly have to go to Japan???! I haven't had a good time in Korea yet.,user_14,0,0
+6016,6017,,,,1,WL_CZ,HMDE0,2,Gabriel,"Korea's monsters has been almost eliminated by us. Now, Japan needs you more.",blgz_15,0,0
+6017,6018,,,,1,USER_MAIN_CZ,HL0,1,Me,"Gosh, we need to go to Japan to fight the monsters there?!",user_15,0,0
+6018,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,"Yes, I've bought us the tickets. Take an early break. Ha ha…",blgz_16,0,0
+6019,6020,,TianZhaoShenShe-Combined,,1,USER_MAIN_CZ,HL0,1,Me,"It is dangerous, but at last we killed that bastard!",,0,0
+6020,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,This area is safe for the moment. Let's go to other areas to help others.,,0,0
+7001,-1,,TianZhaoShenShe-Combined,,1,USER_MAIN_CZ,HL0,1,Me,It seems that monsters here are much more powerful. I need more help!,user_16,0,0
+7002,7003,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Well, now we need more advanced angels!!",,0,0
+7003,7004,,,,1,USER_MAIN_CZ,HL0,1,Me,What? There are advanced summons? Why don't you say it earlier?,,0,0
+7004,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,Advanced Summon comes with higher chances to get high-level angels. Let me show you how to do it~,,0,0
+7010,7011,,TianZhaoShenShe-Combined,,1,USER_MAIN_CZ,HL0,1,Me,"The monster is getting more powerful. If it goes on like this, we will all die here!",,0,0
+7011,7012,,,,1,WL_CZ,HFSTS0,2,Gabriel,It seems that we need stronger divine power!,,0,0
+7012,7013,,,,1,USER_MAIN_CZ,HL0,1,Me,The ancient divine power? But I feel like I tried my best today.,,0,0
+7013,7014,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Have you forgotten these angels? There is enormous divine power hidden in their bodies, which will be released by awakening!",,0,0
+7014,7015,,,,1,USER_MAIN_CZ,HL0,1,Me,You should say it earlier. Let's awake them!,,0,0
+7015,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,How can it be so easy? We need to find the Angel Shards first. Come with me!,,0,0
+8001,8002,,TianZhaoShenShe-Combined,,1,USER_MAIN_CZ,HL0,1,Me,Huh? It seems I’ve obtained a few Belldandy Shards again. What am I gonna do with it?,,0,0
+8002,8003,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Collect enough shards to awaken the Angels you’ve already owned. Quick, use these shards to awaken your angel!",,0,0
+8003,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,"Well, I'll try it right away!",,0,0
 9001,9002,,TianZhaoShenShe-Combined,,1,BLDD0,MJL0,2,Belldandy,God of Present! Take control of everything!,,0,0
-9002,9003,,,,1,USER_MAIN0,HL0,1,Me,Great! Is that the power of awakening?,,0,0
-9003,9004,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Sure. I can feel the power surging in her body!,,0,0
-9004,-1,,,,1,USER_MAIN0,HL0,1,Me,Go! Let's go on cleaning up the monsters in Japan!,,0,0
-10001,10002,,YueDuShenShe,,1,BLGZ0,HMDE0,2,Princess Bari,"Wait a minute, we'll take forever if we keep fighting like this. We need to enhance our power. Well, drastic times call for drastic measures!",,0,0
-10002,10003,,,,1,USER_MAIN0,HL0,1,Me,Why go to all the trouble?,,0,0
-10003,10004,,,,1,BLGZ0,HMDE0,2,Princess Bari,What do you care more about? Trouble or death?,,0,0
-10004,-1,,,,1,USER_MAIN0,HL0,1,Me,Emm...death.,,0,0
-2001001,-1,,{translucent},,0,BLGZ0,HMDE0,2,Princess Bari,Here you can make different types of <color=#FA931AFF>Summon</color> and get various rewards. Try it now ~,blgz_9,0,0
-2002001,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"Your power soared! Do not underestimate your gear, cause every piece of gear brings you a quantum leap!",,0,0
-2003001,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,Awake can improve Angel attributes and has the chance to get Skill.Try now~,,0,0
-2004001,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"As long as we keep exploring, monsters will continue to appear, and our Angels will fight to destroy them automatically!",,0,0
-2005001,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"Strengthen the gear that has just been replaced, and further strengthen the fight power!",,0,0
-1004001,1004002,,ShouErQingDian,,1,USER_MAIN0,HL0,1,Me,这些怪物都是免费的赠品吗，怎么到处都是？,,0,0
-1004002,1004003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,熊女守护的力量在减弱，难道那边也出事了？,,0,0
-1004003,1004004,,,,1,USER_MAIN0,HL0,1,Me,不会吧？所以现在连熊女也靠不住了吗？,,0,0
-1004004,1004005,,,,1,BLGZ0,HFSTS0,2,Princess Bari,呼，我们必须立刻去熊女那里看看。,,0,0
-1004005,1004006,,,,1,USER_MAIN0,HL0,1,Me,我，我吗？普通人是不能靠近熊女栖所的。,,0,0
-1004006,1004007,,,,1,BLGZ0,HFSTS0,2,Princess Bari,普通人这个身份你还是尽早抛弃吧，神裔拥有跟熊女相同的力量，也就拥有同等的使命。,,0,0
-1004007,1004008,,,,1,USER_MAIN0,HL0,1,Me,抱歉，我好像并没有收到“相同的力量”……,,0,0
-1004008,1004009,,,,1,BLGZ0,HFSTS0,2,Princess Bari,总之跟我来就是了！,,0,0
-1004009,-1,,{black},,0,,,0,,随后，女神和巴里公主一起，踏上了去熊女栖所的征程。。,,0,0
+9002,9003,,,,1,USER_MAIN_CZ,HL0,1,Me,Great! Is that the power of awakening?,,0,0
+9003,9004,,,,1,WL_CZ,HFSTS0,2,Gabriel,Sure. I can feel the power surging in her body!,,0,0
+9004,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Go! Let's go on cleaning up the monsters in Japan!,,0,0
+10001,10002,,YueDuShenShe,,1,WL_CZ,HMDE0,2,Gabriel,"Wait a minute, we'll take forever if we keep fighting like this. We need to enhance our power. Well, drastic times call for drastic measures!",,0,0
+10002,10003,,,,1,USER_MAIN_CZ,HL0,1,Me,Why go to all the trouble?,,0,0
+10003,10004,,,,1,WL_CZ,HMDE0,2,Gabriel,What do you care more about? Trouble or death?,,0,0
+10004,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Emm...death.,,0,0
+2001001,-1,,{translucent},,0,YDN_UR,HMDE0,2,Athena,Here you can make different types of <color=#C62416>Summon</color> and get various rewards. Try it now ~,blgz_9,0,0
+2002001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"Your power soared! Do not underestimate your gear, cause every piece of gear brings you a quantum leap!",,0,0
+2003001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,Awake can improve Angel attributes and has the chance to get Skill.Try now~,,0,0
+2004001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"As long as we keep exploring, monsters will continue to appear, and our Angels will fight to destroy them automatically!",,0,0
+2005001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"Strengthen the gear that has just been replaced, and further strengthen the fight power!",,0,0
+1004001,1004002,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,这些怪物都是免费的赠品吗，怎么到处都是？,,0,0
+1004002,1004003,,,,1,WL_CZ,HFSTS0,2,Gabriel,熊女守护的力量在减弱，难道那边也出事了？,,0,0
+1004003,1004004,,,,1,USER_MAIN_CZ,HL0,1,Me,不会吧？所以现在连熊女也靠不住了吗？,,0,0
+1004004,1004005,,,,1,WL_CZ,HFSTS0,2,Gabriel,呼，我们必须立刻去熊女那里看看。,,0,0
+1004005,1004006,,,,1,USER_MAIN_CZ,HL0,1,Me,我，我吗？普通人是不能靠近熊女栖所的。,,0,0
+1004006,1004007,,,,1,WL_CZ,HFSTS0,2,Gabriel,普通人这个身份你还是尽早抛弃吧，神裔拥有跟熊女相同的力量，也就拥有同等的使命。,,0,0
+1004007,1004008,,,,1,USER_MAIN_CZ,HL0,1,Me,抱歉，我好像并没有收到“相同的力量”……,,0,0
+1004008,1004009,,,,1,WL_CZ,HFSTS0,2,Gabriel,总之跟我来就是了！,,0,0
+1004009,-1,,{black},,0,,,0,,随后，女神和加百列一起，踏上了去熊女栖所的征程。。,,0,0
 1005001,1005002,,{black},,0,,,0,,怪物统领在攻击熊女的守护结界。。。,,0,0
-1005002,1005003,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,这是在玩塔防？,,0,0
-1005003,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,果然这里也遭到了攻击，救出熊女是当务之急。,,0,0
-1006001,1006002,,ShenNvQiSuo,,1,USER_MAIN0,HL0,1,Me,呼，好险！熊女没事吧？,,0,0
+1005002,1005003,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,这是在玩塔防？,,0,0
+1005003,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,果然这里也遭到了攻击，救出熊女是当务之急。,,0,0
+1006001,1006002,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,呼，好险！熊女没事吧？,,0,0
 1006002,1006003,,,,1,XN0,MJL0,2,Ungnyeo,我没事，谢谢你们，我纯洁的孩子。,,0,0
-1006003,1006004,,,,1,BLGZ0,HFSTS0,2,Princess Bari,熊女，发生了什么事？为何您的力量如此羸弱？,,0,0
+1006003,1006004,,,,1,WL_CZ,HFSTS0,2,Gabriel,熊女，发生了什么事？为何您的力量如此羸弱？,,0,0
 1006004,1006005,,,,1,XN0,MJL0,2,Ungnyeo,太阳···光明之力越来越弱了···巨大的黑暗笼罩了大洋彼岸的日本，那里一定发生了什么···,,0,0
-1006005,1006006,,,,1,BLGZ0,HFSTS0,2,Princess Bari,日本···难道是天照大神···,,0,0
+1006005,1006006,,,,1,WL_CZ,HFSTS0,2,Gabriel,日本···难道是天照大神···,,0,0
 1006006,1006007,,,,1,XN0,MJL0,2,Ungnyeo,你能去日本看看是什么情况吗？,,0,0
-1006007,1006008,,,,1,USER_MAIN0,HL0,1,Me,啊！？我？您是在和我说话吗？,,0,0
+1006007,1006008,,,,1,USER_MAIN_CZ,HL0,1,Me,啊！？我？您是在和我说话吗？,,0,0
 1006008,1006009,,,,1,XN0,MJL0,2,Ungnyeo,对不起，我还有其它事情要做，能帮助我的只有你了！,,0,0
-1006009,1006010,,,,1,XN0,MJL0,2,Ungnyeo,请和巴里公主一起去日本，看看那里到底发生了什么。,,0,0
+1006009,1006010,,,,1,XN0,MJL0,2,Ungnyeo,请和加百列一起去日本，看看那里到底发生了什么。,,0,0
 1006010,1006011,,,,1,XN0,MJL0,2,Ungnyeo,请闭上眼睛。,,0,0
-1006011,-1,,,,1,USER_MAIN0,HL0,1,Me,喂，等一下！！,,0,0
+1006011,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,喂，等一下！！,,0,0
 1006012,1006013,,{black},,0,,,0,,火山和海啸给予了岛国日本沉重的打击，九州和北海道完全沉入了海底，幸存的人们蜷缩在本州和四国的部分领土上艰难度日，就连天照大神的力量也被未知的因素侵蚀而渐渐削弱。。。,,0,0
-1006013,1006014,,TianZhaoShenShe-Combined,,1,USER_MAIN0,HL0,1,Me,···这里···是日本！我到日本了？！,,0,0
-1006014,1006015,,,,1,BLGZ0,HFSTS0,2,Princess Bari,没错，神女有移动空间的能力。,,0,0
-1006015,1006016,,,,1,USER_MAIN0,HL0,1,Me,哎呀???这一切都太突然了！我哪有什么力量???我只是一个普通人，帮不了你的！,,0,0
-1006016,1006017,,,,1,BLGZ0,HFSTS0,2,Princess Bari,别说丧气话，刚才你不是体验过自己的力量了吗？,,0,0
-1006017,1006018,,,,1,USER_MAIN0,HL0,1,Me,可是。。。我还是感觉很一般啊???,,0,0
-1006018,1006019,,,,1,BLGZ0,HFSTS0,2,Princess Bari,那可不一般！这可是守护大韩民国的神女的力量！,,0,0
-1006019,1006020,,,,1,USER_MAIN0,HL0,1,Me,别这样说...不过是表面的花架子罢了...,,0,0
-1006020,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,小心！啊！,,0,0
-1007001,1007002,,TianZhaoShenShe-Combined,,1,BLGZ0,HFSTS0,2,Princess Bari,真正的女神总是在危机关头挺身而出！,,0,0
-1007002,1007003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,熊女送我们来这里一定是有原因的，看来这里藏着答案！,,0,0
-1007003,1007004,,,,1,USER_MAIN0,HL0,1,Me,这是什么地方？,,0,0
-1007004,1007005,,,,1,BLGZ0,HFSTS0,2,Princess Bari,这里是神社，应该有神社巫女在吧。啊！在那里！,,0,0
+1006013,1006014,,TianZhaoShenShe-Combined,,1,USER_MAIN_CZ,HL0,1,Me,···这里···是日本！我到日本了？！,,0,0
+1006014,1006015,,,,1,WL_CZ,HFSTS0,2,Gabriel,没错，神女有移动空间的能力。,,0,0
+1006015,1006016,,,,1,USER_MAIN_CZ,HL0,1,Me,哎呀???这一切都太突然了！我哪有什么力量???我只是一个普通人，帮不了你的！,,0,0
+1006016,1006017,,,,1,WL_CZ,HFSTS0,2,Gabriel,别说丧气话，刚才你不是体验过自己的力量了吗？,,0,0
+1006017,1006018,,,,1,USER_MAIN_CZ,HL0,1,Me,可是。。。我还是感觉很一般啊???,,0,0
+1006018,1006019,,,,1,WL_CZ,HFSTS0,2,Gabriel,那可不一般！这可是守护大韩民国的神女的力量！,,0,0
+1006019,1006020,,,,1,USER_MAIN_CZ,HL0,1,Me,别这样说...不过是表面的花架子罢了...,,0,0
+1006020,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,小心！啊！,,0,0
+1007001,1007002,,TianZhaoShenShe-Combined,,1,WL_CZ,HFSTS0,2,Gabriel,真正的女神总是在危机关头挺身而出！,,0,0
+1007002,1007003,,,,1,WL_CZ,HFSTS0,2,Gabriel,熊女送我们来这里一定是有原因的，看来这里藏着答案！,,0,0
+1007003,1007004,,,,1,USER_MAIN_CZ,HL0,1,Me,这是什么地方？,,0,0
+1007004,1007005,,,,1,WL_CZ,HFSTS0,2,Gabriel,这里是神社，应该有神社巫女在吧。啊！在那里！,,0,0
 1007005,1007006,,{black},,0,,,0,,巫女被怪物追赶…,,0,0
-1007006,1007007,,TianZhaoShenShe-Combined,,1,BLGZ0,HFSTS0,2,Princess Bari,巫女小心！,,0,0
-1007007,1007008,,,,1,USER_MAIN0,HL0,1,Me,看来她有些麻烦！要帮忙了！,,0,0
-1007008,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,呼！是的呢！,,0,0
-1008001,1008002,,TianZhaoShenShe-Combined,,1,BLGZ0,HFSTS0,2,Princess Bari,你好，神社巫女，请问天照大神在哪里？这里发生了什么事情？,,0,0
+1007006,1007007,,TianZhaoShenShe-Combined,,1,WL_CZ,HFSTS0,2,Gabriel,巫女小心！,,0,0
+1007007,1007008,,,,1,USER_MAIN_CZ,HL0,1,Me,看来她有些麻烦！要帮忙了！,,0,0
+1007008,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,呼！是的呢！,,0,0
+1008001,1008002,,TianZhaoShenShe-Combined,,1,WL_CZ,HFSTS0,2,Gabriel,你好，神社巫女，请问天照大神在哪里？这里发生了什么事情？,,0,0
 1008002,1008003,,,,1,TZDS0,MJL0,2,Witch,呼（喘气），天照大神中了夜神月读的诡计，现在被囚禁了！,,0,0
-1008003,1008004,,,,1,USER_MAIN0,HL0,1,Me,月读??天照???这些是什么神？,,0,0
-1008004,1008005,,,,1,BLGZ0,HFSTS0,2,Princess Bari,天照大神是日本的创世神，只有她才能恢复熊女的力量！,,0,0
+1008003,1008004,,,,1,USER_MAIN_CZ,HL0,1,Me,月读??天照???这些是什么神？,,0,0
+1008004,1008005,,,,1,WL_CZ,HFSTS0,2,Gabriel,天照大神是日本的创世神，只有她才能恢复熊女的力量！,,0,0
 1008005,1008006,,,,1,TZDS0,MJL0,2,Witch,如果妖在的话，我们就可以打败月读???,,0,0
-1008006,1008007,,,,1,BLGZ0,HFSTS0,2,Princess Bari,妖现在在哪里？,,0,0
+1008006,1008007,,,,1,WL_CZ,HFSTS0,2,Gabriel,妖现在在哪里？,,0,0
 1008007,1008008,,,,1,TZDS0,MJL0,2,Witch,几天前就感受不到妖的脉动了，黑暗的力量封闭了这里···,,0,0
-1008008,1008009,,,,1,BLGZ0,HFSTS0,2,Princess Bari,我们必须找到她！你知道她去了哪里吗？,,0,0
+1008008,1008009,,,,1,WL_CZ,HFSTS0,2,Gabriel,我们必须找到她！你知道她去了哪里吗？,,0,0
 1008009,1008010,,{black},,0,,,0,,妖正在和噬魂怪战斗。,,0,0
 1008010,1008011,,TianZhaoShenShe-Combined,,1,Y0,MJL0,2,Siren,Come on! I shall send you monsters to hell before I die!,,0,0
-1008011,1008012,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Siren! Let us help you!,,0,0
-1008012,1008013,,,,1,Y0,MJL0,2,Siren,Princess Bari? ! Why are you here? !,,0,0
-1008013,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,It’s too late to explain that! Deal with them first!,,0,0
+1008011,1008012,,,,1,WL_CZ,HFSTS0,2,Gabriel,Siren! Let us help you!,,0,0
+1008012,1008013,,,,1,Y0,MJL0,2,Siren,加百列？！你们怎么会在这里？！,,0,0
+1008013,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,It’s too late to explain that! Deal with them first!,,0,0
 1009001,1009002,,TianZhaoShenShe-Combined,,1,Y0,SDNS0,2,Siren,"Thank you, Bari…Who’s she?!",,0,0
-1009002,1009003,,,,1,BLGZ0,HMDE0,2,Princess Bari,She’s the descendant of Ungnyeo. We have come here to eliminate dark forces in Japan!,,0,0
-1009003,1009004,,,,1,USER_MAIN0,HL0,1,Me,We heard that Tsukuyomi had imprisoned Amaterasu.,,0,0
+1009002,1009003,,,,1,WL_CZ,HMDE0,2,Gabriel,She’s the descendant of Ungnyeo. We have come here to eliminate dark forces in Japan!,,0,0
+1009003,1009004,,,,1,USER_MAIN_CZ,HL0,1,Me,We heard that Tsukuyomi had imprisoned Amaterasu.,,0,0
 1009004,1009005,,,,1,Y0,SDNS0,2,Siren,Tsukuyomi…?! Yes… That's why the monsters rioted! That bastard! She betrayed us!,,0,0
-1009005,1009006,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Siren, come with us to defeat Tsukuyomi and save Amaterasu!",,0,0
+1009005,1009006,,,,1,WL_CZ,HMDE0,2,Gabriel,"Siren, come with us to defeat Tsukuyomi and save Amaterasu!",,0,0
 1009006,1009007,,,,1,Y0,SDNS0,2,Siren,Thank you for your help! I need to clean my wounds first.,,0,0
-1009007,1009008,,,,1,USER_MAIN0,HL0,1,Me,"There's not enough time! Bari, we can do it ourselves!",,0,0
-1009008,1009009,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Alright. Siren, take a rest here and we’ll deal with the rest. Where is Tsukuyomi?",,0,0
+1009007,1009008,,,,1,USER_MAIN_CZ,HL0,1,Me,"There's not enough time! Bari, we can do it ourselves!",,0,0
+1009008,1009009,,,,1,WL_CZ,HMDE0,2,Gabriel,"Alright. Siren, take a rest here and we’ll deal with the rest. Where is Tsukuyomi?",,0,0
 1009009,1009010,,,,1,Y0,SDNS0,2,Siren,I’ll send you to her shrine.,,0,0
-1009010,1009011,,{black},,0,,,0,,Then the Angel and Princess Bari are sent to Tsukuyomi’s shrine.,,0,0
+1009010,1009011,,{black},,0,,,0,,女神和加百列被传送到了月读神社。,,0,0
 1009011,1009012,,YueDuShenShe,,1,YYJZ0,MJL0,2,Tsukuyomi,Who? Who’s there?,,0,0
-1009012,1009013,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Haven't seen you for a long time, Tsukuyomi.",,0,0
+1009012,1009013,,,,1,WL_CZ,HMDE0,2,Gabriel,"Haven't seen you for a long time, Tsukuyomi.",,0,0
 1009013,1009014,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Bari? How dare you come here? I’ll kill you!,,0,0
-1009014,1009015,,,,1,BLGZ0,HMDE0,2,Princess Bari,Shut up! A traitor like you has no right to say anything! Where is Amaterasu?,,0,0
+1009014,1009015,,,,1,WL_CZ,HMDE0,2,Gabriel,Shut up! A traitor like you has no right to say anything! Where is Amaterasu?,,0,0
 1009015,1009016,,,,1,YYJZ0,MJL0,2,Tsukuyomi,My sword thirsts for blood!,,0,0
-1009016,-1,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Haha! Swallow them up, my servants!",,0,0
+1009016,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,"Haha! Swallow them up, my servants!",,0,0
 1010001,1010002,,YueDuShenShe,,1,YYJZ0,MJL0,2,Tsukuyomi,I never…never thought that I would be defeated by human beings!,,0,0
-1010002,1010003,,,,1,BLGZ0,HMDE0,2,Princess Bari,"She’s not an ordinary person! She’s the descendant of Ungnyeo, and the power of the goddess runs in her blood!",,0,0
+1010002,1010003,,,,1,WL_CZ,HMDE0,2,Gabriel,"She’s not an ordinary person! She’s the descendant of Ungnyeo, and the power of the goddess runs in her blood!",,0,0
 1010003,1010004,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Damn…,,0,0
-1010004,1010005,,,,1,USER_MAIN0,HL0,1,Me,I defeated a powerful angel?! Unbelievable!,,0,0
-1010005,1010006,,,,1,BLGZ0,HMDE0,2,Princess Bari,Where is Amaterasu? Tell me!,,0,0
+1010004,1010005,,,,1,USER_MAIN_CZ,HL0,1,Me,I defeated a powerful angel?! Unbelievable!,,0,0
+1010005,1010006,,,,1,WL_CZ,HMDE0,2,Gabriel,Where is Amaterasu? Tell me!,,0,0
 1010006,1010007,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Amaterasu fell into a deep sleep…（cough）She will never wake up… Never!,,0,0
-1010007,1010008,,,,1,BLGZ0,HMDE0,2,Princess Bari,What did you do to Amaterasu?!,,0,0
+1010007,1010008,,,,1,WL_CZ,HMDE0,2,Gabriel,What did you do to Amaterasu?!,,0,0
 1010008,1010009,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Finally the world will be plunged into eternal darkness!,,0,0
-1010009,1010010,,,,1,BLGZ0,HMDE0,2,Princess Bari,"If Amaterasu cannot be awakened, Korea and Japan will be doomed!",,0,0
-1010010,1010011,,,,1,USER_MAIN0,HL0,1,Me,After all we've been through… Is this the end?,,0,0
-1010011,1010012,,,,1,BLGZ0,HMDE0,2,Princess Bari,…What should I do? What should I do!?,,0,0
-1010012,1010013,,,,1,USER_MAIN0,HL0,1,Me,"Bari, if there are angels in Korea and Japan, there must be angels in Greece! There are so many angels in Greek mythology!",,0,0
-1010013,1010014,,,,1,BLGZ0,HMDE0,2,Princess Bari,"Yes! The nightmare angel Nyx! If we get her help, we can awake Amaterasu!",,0,0
-1010014,1010015,,,,1,BLGZ0,HMDE0,2,Princess Bari,Let’s go now!,,0,0
-1010015,1010016,,,,1,USER_MAIN0,HL0,1,Me,All right.,,0,0
-1010016,-1,,,,1,BLGZ0,HMDE0,2,Princess Bari,Let’s go to Greece!,,0,0
+1010009,1010010,,,,1,WL_CZ,HMDE0,2,Gabriel,"If Amaterasu cannot be awakened, Korea and Japan will be doomed!",,0,0
+1010010,1010011,,,,1,USER_MAIN_CZ,HL0,1,Me,After all we've been through… Is this the end?,,0,0
+1010011,1010012,,,,1,WL_CZ,HMDE0,2,Gabriel,…What should I do? What should I do!?,,0,0
+1010012,1010013,,,,1,USER_MAIN_CZ,HL0,1,Me,"Bari, if there are angels in Korea and Japan, there must be angels in Greece! There are so many angels in Greek mythology!",,0,0
+1010013,1010014,,,,1,WL_CZ,HMDE0,2,Gabriel,"Yes! The nightmare angel Nyx! If we get her help, we can awake Amaterasu!",,0,0
+1010014,1010015,,,,1,WL_CZ,HMDE0,2,Gabriel,Let’s go now!,,0,0
+1010015,1010016,,,,1,USER_MAIN_CZ,HL0,1,Me,All right.,,0,0
+1010016,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,Let’s go to Greece!,,0,0
 1010017,1010018,,{black},,0,,,0,,"The Greek shrine was preserved under the guards of the gods. The guardian of Athens, Nyx, defeated the giant soul eater who came to attack and cut its core and put it in the box and handed it to Pandora. When Iris was ordered to hand over the box to Pandora, Pandora, who could not suppress his curiosity, opened the box...",,0,0
-1010018,1010019,,YouAnMiGong,,1,USER_MAIN0,HL0,1,Me,Have we arrived in Greece?,,0,0
-1010019,1010020,,,,1,BLGZ0,HMDE0,2,Princess Bari,…Where are we?,,0,0
-1010020,1010021,,,,1,USER_MAIN0,HL0,1,Me,It's like a maze…,,0,0
-1010021,1010022,,,,1,BLGZ0,HMDE0,2,Princess Bari,We should go to Nyx's temple as soon as possible!,,0,0
-1010022,-1,,,,1,USER_MAIN0,HL0,1,Me,Bari! Look out!,,0,0
-1011001,1011002,,YouAnMiGong,,1,BLGZ0,HMDE0,2,Princess Bari,"Phew, this place is a mess too…",,0,0
-1011002,1011003,,,,1,USER_MAIN0,HL0,1,Me,New enemies? They're different from monsters we have met before.,,0,0
-1011003,1011004,,,,1,BLGZ0,HMDE0,2,Princess Bari,Yes. They are strange.,,0,0
-1011004,1011005,,,,1,USER_MAIN0,HL0,1,Me,We should leave here quickly.,,0,0
-1011005,-1,,,,1,BLGZ0,HMDE0,2,Princess Bari,There's a lamp over there. Let's head that way.,,0,0
-1012001,1012002,,YouAnMiGong,,1,BLGZ0,HMDE0,2,Princess Bari,There's no end to these monsters!,,0,0
-1012002,1012003,,,,1,USER_MAIN0,HL0,1,Me,Wait! It seems that someone is there!,,0,0
-1012003,-1,,,,1,BLGZ0,HMDE0,2,Princess Bari,Let's have a look!,,0,0
-1013001,1013002,,PanDuoLaShenMiao,,1,USER_MAIN0,HL0,1,Me,Are you OK? It seems that you are badly hurt!,,0,0
-1013002,1013003,,,,1,BLGZ0,HMDE0,2,Princess Bari,You are…?,,0,0
+1010018,1010019,,YouAnMiGong,,1,USER_MAIN_CZ,HL0,1,Me,Have we arrived in Greece?,,0,0
+1010019,1010020,,,,1,WL_CZ,HMDE0,2,Gabriel,…Where are we?,,0,0
+1010020,1010021,,,,1,USER_MAIN_CZ,HL0,1,Me,It's like a maze…,,0,0
+1010021,1010022,,,,1,WL_CZ,HMDE0,2,Gabriel,We should go to Nyx's temple as soon as possible!,,0,0
+1010022,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Bari! Look out!,,0,0
+1011001,1011002,,YouAnMiGong,,1,WL_CZ,HMDE0,2,Gabriel,"Phew, this place is a mess too…",,0,0
+1011002,1011003,,,,1,USER_MAIN_CZ,HL0,1,Me,New enemies? They're different from monsters we have met before.,,0,0
+1011003,1011004,,,,1,WL_CZ,HMDE0,2,Gabriel,Yes. They are strange.,,0,0
+1011004,1011005,,,,1,USER_MAIN_CZ,HL0,1,Me,We should leave here quickly.,,0,0
+1011005,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,There's a lamp over there. Let's head that way.,,0,0
+1012001,1012002,,YouAnMiGong,,1,WL_CZ,HMDE0,2,Gabriel,There's no end to these monsters!,,0,0
+1012002,1012003,,,,1,USER_MAIN_CZ,HL0,1,Me,Wait! It seems that someone is there!,,0,0
+1012003,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,Let's have a look!,,0,0
+1013001,1013002,,PanDuoLaShenMiao,,1,USER_MAIN_CZ,HL0,1,Me,Are you OK? It seems that you are badly hurt!,,0,0
+1013002,1013003,,,,1,WL_CZ,HMDE0,2,Gabriel,You are…?,,0,0
 1013003,1013004,,,,1,YXS0,YXS0,2,Iris,"I am Iris, messenger of Gods.",,0,0
-1013004,1013005,,,,1,BLGZ0,HMDE0,2,Princess Bari,Where is this? We're looking for Nyx's temple…,,0,0
+1013004,1013005,,,,1,WL_CZ,HMDE0,2,Gabriel,Where is this? We're looking for Nyx's temple…,,0,0
 1013005,1013006,,,,1,YXS0,YXS0,2,Iris,This place is Pandora's Temple.,,0,0
-1013006,1013007,,,,1,USER_MAIN0,HL0,1,Me,Pandora??,,0,0
+1013006,1013007,,,,1,USER_MAIN_CZ,HL0,1,Me,Pandora??,,0,0
 1013007,1013008,,,,1,YXS0,YXS0,2,Iris,"Nyx defeated the attacking Giant Soulreaver, stripped its core, put it into a box and sent it to Pandora for safekeeping. Nyx told Pandora that she cannot open it…",,0,0
-1013008,1013009,,,,1,BLGZ0,HMDE0,2,Princess Bari,"However, Pandora opened it...",,0,0
+1013008,1013009,,,,1,WL_CZ,HMDE0,2,Gabriel,"However, Pandora opened it...",,0,0
 1013009,1013010,,,,1,YXS0,YXS0,2,Iris,Yes…Pandora was consumed by the darkness. I tried to stop it but failed…,,0,0
-1013010,1013011,,,,1,BLGZ0,HMDE0,2,Princess Bari,We can help you!,,0,0
-1013011,1013012,,,,1,USER_MAIN0,HL0,1,Me,That’s right!,,0,0
+1013010,1013011,,,,1,WL_CZ,HMDE0,2,Gabriel,We can help you!,,0,0
+1013011,1013012,,,,1,USER_MAIN_CZ,HL0,1,Me,That’s right!,,0,0
 1013012,-1,,,,1,YXS0,YXS0,2,Iris,"Thank you! Follow me, please.",,0,0
 1014001,1014002,,PanDuoLaShenMiao,,1,YXS0,YXS0,2,Iris,We're almost there! That's where Pandora is!,,0,0
-1014002,1014003,,,,1,USER_MAIN0,HL0,1,Me,Go!,,0,0
+1014002,1014003,,,,1,USER_MAIN_CZ,HL0,1,Me,Go!,,0,0
 1014003,-1,,,,1,YXS0,YXS0,2,Iris,Come on!,,0,0
 1015001,1015002,,PanDuoLaShenMiao,,1,NKS0,MJL0,2,Nyx,"Thank you, brave Angels! I couldn't have stopped Pandora's rampage without you!",,0,0
 1015002,1015003,,,,1,YXS0,YXS0,2,Iris,I told you before not to give the box to Pandora! She's way too curious for her own good!,,0,0
 1015003,1015004,,,,1,NKS0,MJL0,2,Nyx,"Sigh… I've entrusted it to the wrong person, and now it's too late for regrets…",,0,0
-1015004,1015005,,,,1,USER_MAIN0,HL0,1,Me,"Nyx, please awaken Amaterasu from her sleep! Only she can save our country and Japan!",,0,0
+1015004,1015005,,,,1,USER_MAIN_CZ,HL0,1,Me,"Nyx, please awaken Amaterasu from her sleep! Only she can save our country and Japan!",,0,0
 1015005,1015006,,,,1,NKS0,MJL0,2,Nyx,"Iris had informed me. Don't worry, I will help you. Once you get back, Amaterasu will have awakened!",,0,0
-1015006,1015007,,,,1,USER_MAIN0,HL0,1,Me,We finally made it… Thank you!,,0,0
+1015006,1015007,,,,1,USER_MAIN_CZ,HL0,1,Me,We finally made it… Thank you!,,0,0
 1015007,1015008,,{black},,0,,,0,,The sky gradually darkened…,,0,0
-1015008,1015009,,PanDuoLaShenMiao,,1,BLGZ0,HFSTS0,2,Princess Bari,What's going on?! Why is the dark power becoming stronger in Greece?!,,0,0
+1015008,1015009,,PanDuoLaShenMiao,,1,WL_CZ,HFSTS0,2,Gabriel,What's going on?! Why is the dark power becoming stronger in Greece?!,,0,0
 1015009,1015010,,,,1,NKS0,NKS0,2,Nyx,This is because the power of the Sun is weakened! I didn't think it'll come to this!,,0,0
-1015010,1015011,,,,1,USER_MAIN0,HL0,1,Me,"Nyx, what's the meaning of this?",,0,0
+1015010,1015011,,,,1,USER_MAIN_CZ,HL0,1,Me,"Nyx, what's the meaning of this?",,0,0
 1015011,1015012,,,,1,NKS0,NKS0,2,Nyx,You need to find Geb right away. She is asking for your help!,,0,0
-1015012,1015013,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Geb? The God of Earth of Egypt??,,0,0
+1015012,1015013,,,,1,WL_CZ,HFSTS0,2,Gabriel,Geb? The God of Earth of Egypt??,,0,0
 1015013,-1,,,,1,NKS0,NKS0,2,Nyx,I will send you to help her to put the sun back on track!,,0,0
 1015014,1015015,,{black},,0,,,0,,"Geb and Nuit had actually betrayed the Light. Nephthys and the other Gods sealed the Mother Goddess, Nuit, in the Great Pyramid, but Geb escaped… However, the group of Angels who had no idea of this arrived in Egypt at Geb's invitation…",,0,0
-1015015,1015016,,DaJinZiTa,,1,USER_MAIN0,HL0,1,Me,WOW! Is this the famous pyramid?! It's so spectacular!,,0,0
-1015016,1015017,,,,1,BLGZ0,HFSTS0,2,Princess Bari,…So strange. The power of sun is so weak here… What happened?,,0,0
-1015017,1015018,,,,1,USER_MAIN0,HL0,1,Me,"Egypt…Isn't it supposed to be hot here? It's noon now, so why is it so cold?",,0,0
+1015015,1015016,,DaJinZiTa,,1,USER_MAIN_CZ,HL0,1,Me,WOW! Is this the famous pyramid?! It's so spectacular!,,0,0
+1015016,1015017,,,,1,WL_CZ,HFSTS0,2,Gabriel,…So strange. The power of sun is so weak here… What happened?,,0,0
+1015017,1015018,,,,1,USER_MAIN_CZ,HL0,1,Me,"Egypt…Isn't it supposed to be hot here? It's noon now, so why is it so cold?",,0,0
 1015018,1015019,,,,1,GB0,MJL0,2,Geb,Are you reinforcements?,,0,0
-1015019,1015020,,,,1,USER_MAIN0,HL0,1,Me,"Goodness, you startled me!",,0,0
-1015020,1015021,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Are you Geb? Nyx said that you need our help.,,0,0
+1015019,1015020,,,,1,USER_MAIN_CZ,HL0,1,Me,"Goodness, you startled me!",,0,0
+1015020,1015021,,,,1,WL_CZ,HFSTS0,2,Gabriel,Are you Geb? Nyx said that you need our help.,,0,0
 1015021,1015022,,,,1,GB0,MJL0,2,Geb,"Yes, I am. Thank you for coming.",,0,0
-1015022,1015023,,,,1,USER_MAIN0,HL0,1,Me,What happened?,,0,0
+1015022,1015023,,,,1,USER_MAIN_CZ,HL0,1,Me,What happened?,,0,0
 1015023,1015024,,,,1,GB0,MJL0,2,Geb,"Nephthys betrayed the Light… She sealed Nuit, which prevents sunlight from shining upon the land… You will help me, right?",,0,0
-1015024,1015025,,,,1,BLGZ0,HFSTS0,2,Princess Bari,We'll try our best!,,0,0
+1015024,1015025,,,,1,WL_CZ,HFSTS0,2,Gabriel,We'll try our best!,,0,0
 1015025,-1,,,,1,GB0,MJL0,2,Geb,"This is all part of Nephthys' scheme. If you can defeat Nephthys and save Nuit, the sun will rise above the horizon again! Let me take you to the pyramid where Nephthys is in.",,0,0
-1016001,1016002,,DaJinZiTa,,1,BLGZ0,HFSTS0,2,Princess Bari,Is this Nephthys' hiding spot?,,0,0
+1016001,1016002,,DaJinZiTa,,1,WL_CZ,HFSTS0,2,Gabriel,Is this Nephthys' hiding spot?,,0,0
 1016002,1016003,,,,1,GB0,MJL0,2,Geb,Yes… I'm afraid I can only accompany you up to this point.,,0,0
-1016003,1016004,,,,1,USER_MAIN0,HL0,1,Me,Huh?! Why?,,0,0
+1016003,1016004,,,,1,USER_MAIN_CZ,HL0,1,Me,Huh?! Why?,,0,0
 1016004,1016005,,,,1,GB0,MJL0,2,Geb,There are things in this pyramid which reduces my power… I cannot go any further…,,0,0
-1016005,1016006,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Oh, I see…",,0,0
+1016005,1016006,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Oh, I see…",,0,0
 1016006,1016007,,,,1,GB0,MJL0,2,Geb,"May you restore the brilliant sun again, and may warm sands guide your path.",,0,0
-1016007,1016008,,,,1,USER_MAIN0,HL0,1,Me,We'll do our best.,,0,0
+1016007,1016008,,,,1,USER_MAIN_CZ,HL0,1,Me,We'll do our best.,,0,0
 1016008,1016009,,,,1,GB0,MJL0,2,Geb,Be careful of the Shadow Servant!,,0,0
 1016009,-1,,,,1,LFE0,MJL0,2,Shadow Servant,"None shall pass! Not even you, who wields the power of the Sun God!",,0,0
 1017001,-1,,MuShiYongDao,,1,APP0,MJL0,2,Apep,The answer to the mysteries of fate… is Death!,,0,0
 1018001,-1,,MuShiYongDao,,1,ANBS0,MJL0,2,Anubis,Are you pursuing immortality? Give me your heart!,,0,0
 1019001,-1,,MuShiYongDao,,1,FTSS0,MJL0,2,Sphinx,I shall turn you into grains of the desert sand.,,0,0
-1020001,1020002,,JinBiMuShi,,1,USER_MAIN0,HL0,1,Me,Nephthys! Take off those dirty bandages! Release Nuit!,,0,0
+1020001,1020002,,JinBiMuShi,,1,USER_MAIN_CZ,HL0,1,Me,Nephthys! Take off those dirty bandages! Release Nuit!,,0,0
 1020002,1020003,,,,1,NFDS0,MJL0,2,Nephthys,Who are you? Geb! Come out! Let's end it all! Don't get the innocents involved!,,0,0
-1020003,1020004,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Don't you force our hand!,,0,0
+1020003,1020004,,,,1,WL_CZ,HFSTS0,2,Gabriel,Don't you force our hand!,,0,0
 1020004,-1,,,,1,NFDS0,MJL0,2,Nephthys,You want me to release Nuit? Never!,,0,0
-1021001,1021002,,JinBiMuShi,,1,USER_MAIN0,HL0,1,Me,"Nephthys, stop it! Release Nuit! The world needs sunlight!",,0,0
+1021001,1021002,,JinBiMuShi,,1,USER_MAIN_CZ,HL0,1,Me,"Nephthys, stop it! Release Nuit! The world needs sunlight!",,0,0
 1021002,1021003,,,,1,NFDS0,MJL0,2,Nephthys,(Cough)… I see… You idiots…,,0,0
-1021003,1021004,,,,1,BLGZ0,HFSTS0,2,Princess Bari,What?!,,0,0
+1021003,1021004,,,,1,WL_CZ,HFSTS0,2,Gabriel,What?!,,0,0
 1021004,1021005,,,,1,NFDS0,MJL0,2,Nephthys,You've been deceived… I am stopping Nuit from degenerating…,,0,0
-1021005,1021006,,,,1,USER_MAIN0,HL0,1,Me,What do you mean?!,,0,0
+1021005,1021006,,,,1,USER_MAIN_CZ,HL0,1,Me,What do you mean?!,,0,0
 1021006,1021007,,,,1,NFDS0,MJL0,2,Nephthys,"(Cough)… Nuit was consumed by the darkness, so I tried my best to seal her…",,0,0
 1021007,1021008,,{black},,0,,,0,,At that exact moment...,,0,0
 1021008,1021009,,JinBiMuShi,,1,GB0,MJL0,2,Geb,"Hahaha! These cursed bandages are finally broken! My poor and foolish girls, did you really believe that you can stop me with these?",,0,0
-1021009,1021010,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Geb!!,,0,0
+1021009,1021010,,,,1,WL_CZ,HFSTS0,2,Gabriel,Geb!!,,0,0
 1021010,1021011,,,,1,GB0,MJL0,2,Geb,"Good Job, idiots! Well done for working so hard to break Nuit's seal! Now, offer up your meager lives and feel the power of Darkness!",,0,0
-1021011,1021012,,,,1,USER_MAIN0,HL0,1,Me,Damn it! You lied to us!!,,0,0
+1021011,1021012,,,,1,USER_MAIN_CZ,HL0,1,Me,Damn it! You lied to us!!,,0,0
 1021012,1021013,,,,1,GB0,MJL0,2,Geb,Ignorant ants! I am God! Lowly humans cannot understand God's intention!,,0,0
-1021013,1021014,,,,1,BLGZ0,HFSTS0,2,Princess Bari,You don't deserve being a God! You're a devil!,,0,0
-1021014,1021015,,,,1,USER_MAIN0,HL0,1,Me,Repair my sword and fight to the ninth heaven! Sprinkle my blood and press forward with indomitable will!,,0,0
+1021013,1021014,,,,1,WL_CZ,HFSTS0,2,Gabriel,You don't deserve being a God! You're a devil!,,0,0
+1021014,1021015,,,,1,USER_MAIN_CZ,HL0,1,Me,Repair my sword and fight to the ninth heaven! Sprinkle my blood and press forward with indomitable will!,,0,0
 1021015,-1,,,,1,GB0,MJL0,2,Geb,"Well, ants. Prepare to face the power of God!",,0,0
 1022001,1022002,,JinBiMuShi,,1,GB0,MJL0,2,Geb,How could this be possible… How could I lose… I am God!,,0,0
-1022002,1022003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Oh, no! Nuit's seal is completely broken! She is going to go on a rampage!",,0,0
-1022003,1022004,,,,1,USER_MAIN0,HL0,1,Me,Isn't there anything we can do?!,,0,0
+1022002,1022003,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Oh, no! Nuit's seal is completely broken! She is going to go on a rampage!",,0,0
+1022003,1022004,,,,1,USER_MAIN_CZ,HL0,1,Me,Isn't there anything we can do?!,,0,0
 1022004,-1,,,,1,GB0,MJL0,2,Geb,Nuit! My lover! Show them the power of darkness!,,0,0
-1023001,1023002,,JinBiMuShi,,1,BLGZ0,HFSTS0,2,Princess Bari,Phew… Thank goodness we managed to stop Nuit's rampage. Are you ok?,,0,0
-1023002,1023003,,,,1,USER_MAIN0,HL0,1,Me,Have we really stopped her? But I feel a little strange… my body… Ahhhh! My body is burning!,,0,0
-1023003,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,No! The power of the sun is too strong! No!!,,0,0
+1023001,1023002,,JinBiMuShi,,1,WL_CZ,HFSTS0,2,Gabriel,Phew… Thank goodness we managed to stop Nuit's rampage. Are you ok?,,0,0
+1023002,1023003,,,,1,USER_MAIN_CZ,HL0,1,Me,Have we really stopped her? But I feel a little strange… my body… Ahhhh! My body is burning!,,0,0
+1023003,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,No! The power of the sun is too strong! No!!,,0,0
 1023004,1023005,,{black},,0,,,0,,"Though they managed to stop Nuit's rampage, the Angel was directly exposed to the power of the sun, resulting in her descend to Hell. In order for the Angel to return to the Mortal Realm, she has to obtain permission from the Queen of Hell, Lucifer. Thus, she embark on a long journey to find Lucifer...",,0,0
-1023005,1023006,,RanShaoLianYu,,1,USER_MAIN0,HL0,1,Me,... Where is this…,,0,0
-1023006,1023007,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Are you finally awake?,,0,0
-1023007,1023008,,,,1,USER_MAIN0,HL0,1,Me,"Bari, where is this? Why can't I see anything…?",,0,0
-1023008,1023009,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Fortunately, we still possess our Angelic powers. Can you hear me clearly?",,0,0
-1023009,1023010,,,,1,USER_MAIN0,HL0,1,Me,I can hear you... Where am I now?,,0,0
-1023010,1023011,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Most likely… In Hell…,,0,0
-1023011,1023012,,,,1,USER_MAIN0,HL0,1,Me,...Hell... am I dead? !,,0,0
-1023012,1023013,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Calm down! I am looking for a way to resurrect you right now!,,0,0
-1023013,1023014,,,,1,USER_MAIN0,HL0,1,Me,Then please hurry up!,,0,0
+1023005,1023006,,RanShaoLianYu,,1,USER_MAIN_CZ,HL0,1,Me,... Where is this…,,0,0
+1023006,1023007,,,,1,WL_CZ,HFSTS0,2,Gabriel,Are you finally awake?,,0,0
+1023007,1023008,,,,1,USER_MAIN_CZ,HL0,1,Me,"Bari, where is this? Why can't I see anything…?",,0,0
+1023008,1023009,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Fortunately, we still possess our Angelic powers. Can you hear me clearly?",,0,0
+1023009,1023010,,,,1,USER_MAIN_CZ,HL0,1,Me,I can hear you... Where am I now?,,0,0
+1023010,1023011,,,,1,WL_CZ,HFSTS0,2,Gabriel,Most likely… In Hell…,,0,0
+1023011,1023012,,,,1,USER_MAIN_CZ,HL0,1,Me,...Hell... am I dead? !,,0,0
+1023012,1023013,,,,1,WL_CZ,HFSTS0,2,Gabriel,Calm down! I am looking for a way to resurrect you right now!,,0,0
+1023013,1023014,,,,1,USER_MAIN_CZ,HL0,1,Me,Then please hurry up!,,0,0
 1023014,1023015,,,,1,MNTLS0,MNTLS0,2,Minotaur,Found you...,,0,0
 1023015,1023016,,,,1,NMXS0,MJL0,2,Nemesis,Oh! You're here!,,0,0
-1023016,1023017,,,,1,USER_MAIN0,HL0,1,Me,Who are you?!,,0,0
+1023016,1023017,,,,1,USER_MAIN_CZ,HL0,1,Me,Who are you?!,,0,0
 1023017,1023018,,,,1,MNTLS0,MJL0,2,Minotaur,I am the Guardian Deity of Hell - Minotaur!!,,0,0
-1023018,1023019,,,,1,USER_MAIN0,HL0,1,Me,Please stop the ruckus… I'm really tired. Just let me rest already…,,0,0
+1023018,1023019,,,,1,USER_MAIN_CZ,HL0,1,Me,Please stop the ruckus… I'm really tired. Just let me rest already…,,0,0
 1023019,1023020,,,,1,MNTLS0,MJL0,2,Minotaur,Did you really just say that? You've got guts! You'll make a fine dinner!,,0,0
 1023020,-1,,,,1,NMXS0,MJL0,2,Nemesis,Damned God-killer! Cower in terror against Hells' dominion over you!,,0,0
 1024001,1024002,,RanShaoLianYu,,1,MNTLS0,MJL0,2,Minotaur,God-killer! You actually defeated Nemesis? It seems that the rumor is true!,,0,0
-1024002,-1,,,,1,USER_MAIN0,HL0,1,Me,You're just a bug… I'll kill you!,,0,0
+1024002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,You're just a bug… I'll kill you!,,0,0
 1025001,1025002,,RanShaoLianYu,,1,MNTLS0,MJL0,2,Minotaur,"Spare my life, please!",,0,0
-1025002,1025003,,,,1,USER_MAIN0,HL0,1,Me,C'mon! Bring it!,,0,0
+1025002,1025003,,,,1,USER_MAIN_CZ,HL0,1,Me,C'mon! Bring it!,,0,0
 1025003,1025004,,,,1,MNTLS0,MJL0,2,Minotaur,No… I'm no match for you…,,0,0
-1025004,1025005,,,,1,USER_MAIN0,HL0,1,Me,"Finally got it, huh! Let me ask you, do you know any way to return to the Mortal Realm?",,0,0
+1025004,1025005,,,,1,USER_MAIN_CZ,HL0,1,Me,"Finally got it, huh! Let me ask you, do you know any way to return to the Mortal Realm?",,0,0
 1025005,1025006,,,,1,MNTLS0,MJL0,2,Minotaur,"Escape from hell… Maybe Muse knows the answer, but she's mad now… hah-hah…",,0,0
-1025006,1025007,,,,1,USER_MAIN0,HL0,1,Me,Where is Muse? Tell me!,,0,0
+1025006,1025007,,,,1,USER_MAIN_CZ,HL0,1,Me,Where is Muse? Tell me!,,0,0
 1025007,-1,,,,1,MNTLS0,MJL0,2,Minotaur,"Well, I can tell you. But first, you have to defeat these monsters!",,0,0
 1026001,1026002,,RanShaoLianYu,,1,MNTLS0,MJL0,2,Minotaur,This Canyon is Medusa's territory! It's quite dangerous!,,0,0
-1026002,1026003,,,,1,USER_MAIN0,HL0,1,Me,Medusa?,,0,0
+1026002,1026003,,,,1,USER_MAIN_CZ,HL0,1,Me,Medusa?,,0,0
 1026003,1026004,,,,1,MNTLS0,MJL0,2,Minotaur,A monster who has human's head and snake's body. Those who looked into hers eyes would turn to stone!,,0,0
-1026004,1026005,,,,1,USER_MAIN0,HL0,1,Me,Turn to stone?!,,0,0
+1026004,1026005,,,,1,USER_MAIN_CZ,HL0,1,Me,Turn to stone?!,,0,0
 1026005,1026006,,,,1,MNTLS0,MJL0,2,Minotaur,"If you don't believe it, you can have a try. Anyway, I will not enter the canyon. If you can live after passing through the canyon, you can see a forest shrouded in mist at the end of canyon, where you can hear songs.",,0,0
-1026006,1026007,,,,1,USER_MAIN0,HL0,1,Me,Songs??,,0,0
+1026006,1026007,,,,1,USER_MAIN_CZ,HL0,1,Me,Songs??,,0,0
 1026007,-1,,,,1,MNTLS0,MJL0,2,Minotaur,Follow the song and you'll find Muse. Good luck! I'll be taking my leave now!,,0,0
 1027001,-1,,RanShaoLianYu,,1,MDS0,MJL0,2,Medusa,Who broke into my territory?,,0,0
-1028001,1028002,,ShiJieShu,,1,USER_MAIN0,HL0,1,Me,The song… It should be here…,,0,0
+1028001,1028002,,ShiJieShu,,1,USER_MAIN_CZ,HL0,1,Me,The song… It should be here…,,0,0
 1028002,1028003,,,,1,MS0,MJL0,2,Muse,~~~(Singing sound),,0,0
-1028003,1028004,,,,1,USER_MAIN0,HL0,1,Me,Muse!,,0,0
+1028003,1028004,,,,1,USER_MAIN_CZ,HL0,1,Me,Muse!,,0,0
 1028004,1028005,,,,1,MS0,MJL0,2,Muse,~~~(Singing sound),,0,0
-1028005,1028006,,,,1,USER_MAIN0,HL0,1,Me,"Hi, are you Muse?!",,0,0
+1028005,1028006,,,,1,USER_MAIN_CZ,HL0,1,Me,"Hi, are you Muse?!",,0,0
 1028006,1028007,,,,1,MS0,MJL0,2,Muse,~~~!! ~~~!!~~~!!(A sudden sharp voice),,0,0
-1028007,1028008,,,,1,USER_MAIN0,HL0,1,Me,Muse!!!,,0,0
+1028007,1028008,,,,1,USER_MAIN_CZ,HL0,1,Me,Muse!!!,,0,0
 1028008,-1,,,,1,MS0,MJL0,2,Muse,Who is it? How dare you interrupt me! Who?!!,,0,0
 1029001,1029002,,ShiJieShu,,1,MS0,MJL0,2,Muse,Human~~~~ human here~~~~？Are you~~~ the daughter of fate in legend~~~~？,,0,0
-1029002,1029003,,,,1,USER_MAIN0,HL0,1,Me,… What is the daughter of fate?,,0,0
+1029002,1029003,,,,1,USER_MAIN_CZ,HL0,1,Me,… What is the daughter of fate?,,0,0
 1029003,1029004,,,,1,MS0,MJL0,2,Muse,A prophecy… a long-standing prophecy…~~~‘The daughter of fate with God's blood will defeat Dark Forces’?,,0,0
-1029004,1029005,,,,1,USER_MAIN0,HL0,1,Me,Do you know how to escape from hell?,,0,0
+1029004,1029005,,,,1,USER_MAIN_CZ,HL0,1,Me,Do you know how to escape from hell?,,0,0
 1029005,1029006,,,,1,MS0,MJL0,2,Muse,"~~~ Only the master of hell—— Lucifer~~~,~~~ knows the way?",,0,0
-1029006,1029007,,,,1,USER_MAIN0,HL0,1,Me,Lucifer? Where can I find her?,,0,0
+1029006,1029007,,,,1,USER_MAIN_CZ,HL0,1,Me,Lucifer? Where can I find her?,,0,0
 1029007,1029008,,,,1,MS0,MJL0,2,Muse,~~~ The fate will guide you…,,0,0
-1029008,1029009,,,,1,USER_MAIN0,HL0,1,Me,When's that going to happen? I want to see her now!,,0,0
+1029008,1029009,,,,1,USER_MAIN_CZ,HL0,1,Me,When's that going to happen? I want to see her now!,,0,0
 1029009,1029010,,,,1,MS0,MJL0,2,Muse,~~~ The fate just like a compass…believe in the fate…,,0,0
-1029010,1029011,,,,1,USER_MAIN0,HL0,1,Me,...,,0,0
-1029011,1029012,,,,1,USER_MAIN0,HL0,1,Me,"What is more terrible than hell~~~, is my songs~~~（The Angel starts singing like a pig）",,0,0
+1029010,1029011,,,,1,USER_MAIN_CZ,HL0,1,Me,...,,0,0
+1029011,1029012,,,,1,USER_MAIN_CZ,HL0,1,Me,"What is more terrible than hell~~~, is my songs~~~（The Angel starts singing like a pig）",,0,0
 1029012,1029013,,,,1,MS0,MJL0,2,Muse,My gosh!!!,,0,0
-1029013,1029014,,,,1,USER_MAIN0,HL0,1,Me,"Lalala~~~, please tell me~~~, where can we find Lucifer~~~",,0,0
+1029013,1029014,,,,1,USER_MAIN_CZ,HL0,1,Me,"Lalala~~~, please tell me~~~, where can we find Lucifer~~~",,0,0
 1029014,1029015,,,,1,MS0,MJL0,2,Muse,Oh~~~~ Great leader~~~~ Lucifer~~~~~ Lucifer~~~~~~！,,0,0
 1029015,1029016,,,,1,MS0,MJL0,2,Muse,Let me sing for you about the story of goddesses' degradation~~~~！,,0,0
 1029016,1029017,,,,1,MS0,MJL0,2,Muse,"The fallen Dark Goddesses~~~stole Lucifer's artifact [Black Bow], and they intended to use [Black Bow] to destroy the earth~~~!",,0,0
 1029017,1029018,,,,1,MS0,MJL0,2,Muse,"Lucifer was so angry~~~ If you can take the Black Bow back, I think she will be glad to see you~~~",,0,0
-1029018,1029019,,,,1,USER_MAIN0,HL0,1,Me,Dark Goddesses? Where are these evil goddesses?,,0,0
+1029018,1029019,,,,1,USER_MAIN_CZ,HL0,1,Me,Dark Goddesses? Where are these evil goddesses?,,0,0
 1029019,1029020,,,,1,MS0,MJL0,2,Muse,Blood Castle~~~… they are hiding in there~~~…,,0,0
-1029020,1029021,,,,1,USER_MAIN0,HL0,1,Me,Thank you~~~ my dear Muse~~~,,0,0
+1029020,1029021,,,,1,USER_MAIN_CZ,HL0,1,Me,Thank you~~~ my dear Muse~~~,,0,0
 1029021,1029022,,{black},,0,,,0,,"After that, the Angel came to Blood Castle and met with Nemesis and Lilith…",,0,0
 1029022,1029023,,XueChengBao,,1,NMXS0,MJL0,2,Nemesis,Nemesis: Soon! Finally!,,0,0
 1029023,1029024,,,,1,NBLS0,MJL0,2,Lilith,"Once the bowstring is pulled, the new world of darkness will come!",,0,0
-1029024,1029025,,,,1,USER_MAIN0,HL0,1,Me,No way! In your dreams!,,0,0
+1029024,1029025,,,,1,USER_MAIN_CZ,HL0,1,Me,No way! In your dreams!,,0,0
 1029025,1029026,,,,1,NMXS0,MJL0,2,Nemesis,Oh? A human? Here?,,0,0
 1029026,1029027,,,,1,NBLS0,MJL0,2,Lilith,Aren't you the bug that always gets in the way? Welcome to Hell!,,0,0
-1029027,1029028,,,,1,USER_MAIN0,HL0,1,Me,I will never allow you to do this with Black Bow!,,0,0
+1029027,1029028,,,,1,USER_MAIN_CZ,HL0,1,Me,I will never allow you to do this with Black Bow!,,0,0
 1029028,-1,,,,1,NBLS0,MJL0,2,Lilith,"Haha! You, and your world! Sink into hell forever!",,0,0
 1030001,1030002,,XueChengBao,,1,NMXS0,MJL0,2,Nemesis,"Pull the bowstring, quickly!",,0,0
 1030002,1030003,,,,1,NBLS0,MJL0,2,Lilith,"Ah, Lucifer!",,0,0
 1030003,1030004,,,,1,LLS0,MJL0,2,Lucifer,"Oh, so this is where you all are.",,0,0
 1030004,1030005,,,,1,LLS0,MJL0,2,Lucifer,I never dreamt that I'd see you all fighting at the edge of Hell.,,0,0
-1030005,1030006,,,,1,USER_MAIN0,HL0,1,Me,Lucifer~,,0,0
+1030005,1030006,,,,1,USER_MAIN_CZ,HL0,1,Me,Lucifer~,,0,0
 1030006,1030007,,,,1,LLS0,MJL0,2,Lucifer,"Lilith and Nemesis, do you want to use my bow to destroy the earth?",,0,0
 1030007,1030008,,,,1,NBLS0,MJL0,2,Lilith,"(Cough)…The destruction of earth has begun… Lucifer, you can't stop it!",,0,0
 1030008,1030009,,,,1,LLS0,MJL0,2,Lucifer,She's so annoying! To think she's still saying such things even when shes' dying!,,0,0
-1030009,1030010,,,,1,USER_MAIN0,HL0,1,Me,"It's all over… Lucifer, please send me back to the earth!",,0,0
+1030009,1030010,,,,1,USER_MAIN_CZ,HL0,1,Me,"It's all over… Lucifer, please send me back to the earth!",,0,0
 1030010,1030011,,,,1,LLS0,MJL0,2,Lucifer,"It's not over yet… Even though Lilith and Nemesis are dead, there must be something big concealed behind them… Also, the power of sun is still weak. It's not the time for you to rest now.",,0,0
-1030011,1030012,,,,1,USER_MAIN0,HL0,1,Me,All right…,,0,0
+1030011,1030012,,,,1,USER_MAIN_CZ,HL0,1,Me,All right…,,0,0
 1030012,-1,,,,1,LLS0,MJL0,2,Lucifer,Close your eyes. We're about to set out!,,0,0
 1030013,1030014,,{black},,0,,,0,,"After undergoing many difficulties, the Angel finally arrived at Asgard… In order to obtain the Eternity Spear's approval, the Angel had to pass the Fate Trials…Just when the power of sun was about to awaken the Eternity Spear, the fallen Goddess who betrayed Odin appeared. Odin couldn't kill her because of family affection, and as a result, she struck down Odin...",,0,0
-1030014,1030015,,ASiJiaDe,,1,BLGZ0,HFSTS0,2,Princess Bari,I'm so happy to see you again!,,0,0
-1030015,1030016,,,,1,USER_MAIN0,HL0,1,Me,Oh! It's great to come back to the earth!,,0,0
-1030016,1030017,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"In any case, I'm very happy.",,0,0
-1030017,1030018,,,,1,USER_MAIN0,HL0,1,Me,Where is this? Why is everything in ruins?,,0,0
+1030014,1030015,,ASiJiaDe,,1,WL_CZ,HFSTS0,2,Gabriel,I'm so happy to see you again!,,0,0
+1030015,1030016,,,,1,USER_MAIN_CZ,HL0,1,Me,Oh! It's great to come back to the earth!,,0,0
+1030016,1030017,,,,1,WL_CZ,HFSTS0,2,Gabriel,"In any case, I'm very happy.",,0,0
+1030017,1030018,,,,1,USER_MAIN_CZ,HL0,1,Me,Where is this? Why is everything in ruins?,,0,0
 1030018,1030019,,,,1,AD0,MJL0,2,Odin,"Oh, you've come! I am Odin! Your Angelic deeds have been widely circulated! To obtain your help, I've asked Lucifer to send you here.",,0,0
-1030019,1030020,,,,1,USER_MAIN0,HL0,1,Me,The fallen Dark Goddesses Nemesis and Lilith want to destroy the world!,,0,0
+1030019,1030020,,,,1,USER_MAIN_CZ,HL0,1,Me,The fallen Dark Goddesses Nemesis and Lilith want to destroy the world!,,0,0
 1030020,1030021,,,,1,AD0,MJL0,2,Odin,"Obviously they have already started. You were attacked in hell, after all.",,0,0
-1030021,1030022,,,,1,USER_MAIN0,HL0,1,Me,What can we do?,,0,0
+1030021,1030022,,,,1,USER_MAIN_CZ,HL0,1,Me,What can we do?,,0,0
 1030022,1030023,,,,1,AD0,AD0,2,Odin,You were once bathed in sun's divine light. It was that light that made you burn and fall into hell.I need you to pour the sun's divine light into the Eternity Spear to awaken the spear spirit!,,0,0
-1030023,1030024,,,,1,USER_MAIN0,HL0,1,Me,How do I do that? Do I just hold the spear?,,0,0
+1030023,1030024,,,,1,USER_MAIN_CZ,HL0,1,Me,How do I do that? Do I just hold the spear?,,0,0
 1030024,1030025,,,,1,AD0,MJL0,2,Odin,No! Only those who have passed the Fate Trials can touch the Eternity Spear!,,0,0
-1030025,-1,,,,1,USER_MAIN0,HL0,1,Me,Fate Trials?!,,0,0
+1030025,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Fate Trials?!,,0,0
 1031001,1031002,,ShiJieShu,,1,BLDD0,MJL0,2,Belldandy,"You have passed the Fate Trials and the Eternity Spear has reawakened! Congratulations, Odin!",,0,0
 1031002,1031003,,,,1,AD0,HL0,2,Odin,Haha! Give me Eternity Spear!,,0,0
 1031003,1031004,,,,1,BLDD0,MJL0,2,Belldandy,"Sif?! Daughter of Odin, what are you doing?!",,0,0
@@ -476,127 +476,155 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 1033002,1033003,,,,1,WEJL0,HL0,2,Valkyrie,"Haha! Where is the powerful queen of Asgard, Odin? Why are you so weak now?",,0,0
 1033003,1033004,,,,1,BLDD0,MJL0,2,Belldandy,Valkyrie! How can you do this… Odin trusted you so much…,,0,0
 1033004,1033005,,,,1,WEJL0,HL0,2,Valkyrie,"Yes, she trusted me. So what? Now Asgard is mine! I will rule the world! Time for you to join Odin in Hell!",,0,0
-1033005,1033006,,,,1,USER_MAIN0,MJL0,1,Me,Hell is not a place I'd recommend to meet in…,,0,0
+1033005,1033006,,,,1,USER_MAIN_CZ,MJL0,1,Me,Hell is not a place I'd recommend to meet in…,,0,0
 1033006,1033007,,,,1,BLDD0,HL0,2,Belldandy,"For Odin! Valkyrie, I swear that I will kill you one day!",,0,0
 1033007,1033008,,,,1,WEJL0,MJL0,2,Valkyrie,"Then do try your very best. I'll be waiting for you while sitting on the throne of Asgard! Now, I have other urgent matters to attend to, so I won't be wasting more time entertaining you. Haha!",,0,0
 1033008,-1,,,,1,BLDD0,HL0,2,Belldandy,"I need your help! Please, protect Asgard!",,0,0
 1034001,1034002,,ShiJieShu,,1,WEJL0,MJL0,2,Valkyrie,"(Cough)…You think that everything will be fine once you beat me? My lord, please show the power of despair and darkness to these humble ants!",,0,0
-1034002,1034003,,,,1,BLGZ0,HL0,2,Princess Bari,Watch your step! Asgard is collapsing! Be careful!,,0,0
-1034003,1034004,,,,1,USER_MAIN0,MJL0,1,Me,Ahh!,,0,0
+1034002,1034003,,,,1,WL_CZ,HL0,2,Gabriel,Watch your step! Asgard is collapsing! Be careful!,,0,0
+1034003,1034004,,,,1,USER_MAIN_CZ,MJL0,1,Me,Ahh!,,0,0
 1034004,1034005,,,,1,ERBS0,HL0,2,Erebus,Human being… an existence of ignorance…,,0,0
-1034005,1034006,,,,1,USER_MAIN0,MJL0,1,Me,Who… who are you?,,0,0
+1034005,1034006,,,,1,USER_MAIN_CZ,MJL0,1,Me,Who… who are you?,,0,0
 1034006,1034007,,,,1,ERBS0,HL0,2,Erebus,I am lord of darkness… goddess of chaos… queen of Nether world…,,0,0
-1034007,1034008,,,,1,USER_MAIN0,MJL0,1,Me,What?!!!,,0,0
+1034007,1034008,,,,1,USER_MAIN_CZ,MJL0,1,Me,What?!!!,,0,0
 1034008,-1,,,,1,ERBS0,HL0,2,Erebus,Surrender… or die!,,0,0
 1034009,1034010,,{black},,0,,MJL0,0,,"Asgard was collapsing. In the critical moments, the Creation Goddess Nuwa saved Angel. From Nuwa, she knew that only Xuanyuan Sacred Sword could completely eradicate Erebus. For this reason, Angels walked into the vast Kunlun Mountains and embarked on a sword-seeking journey.",,0,0
-1034010,1034011,,NvWaQinGong,,1,USER_MAIN0,HL0,1,Me,Ahhh!,,0,0
+1034010,1034011,,NvWaQinGong,,1,USER_MAIN_CZ,HL0,1,Me,Ahhh!,,0,0
 1034011,1034012,,,,1,LHFR0,MJL0,2,Nuwa,You're awake.,,0,0
-1034012,1034013,,,,1,USER_MAIN0,HL0,1,Me,…Am I in dream? Who are you? And where is this?,,0,0
+1034012,1034013,,,,1,USER_MAIN_CZ,HL0,1,Me,…Am I in dream? Who are you? And where is this?,,0,0
 1034013,1034014,,,,1,LHFR0,MJL0,2,Nuwa,I am Nuwa and here is my shrine. I saw you fall from Throat of World and then saved you.,,0,0
-1034014,1034015,,,,1,USER_MAIN0,HL0,1,Me,Throat of World… You mean Asgard?,,0,0
-1034015,1034016,,,,1,BLGZ0,MJL0,2,Princess Bari,"Nuwa, could you please repeat what you said to me?",,0,0
-1034016,1034017,,,,1,USER_MAIN0,HL0,1,Me,What?,,0,0
+1034014,1034015,,,,1,USER_MAIN_CZ,HL0,1,Me,Throat of World… You mean Asgard?,,0,0
+1034015,1034016,,,,1,WL_CZ,MJL0,2,Gabriel,"Nuwa, could you please repeat what you said to me?",,0,0
+1034016,1034017,,,,1,USER_MAIN_CZ,HL0,1,Me,What?,,0,0
 1034017,1034018,,,,1,LHFR0,MJL0,2,Nuwa,"At the beginning of the creation, the Goddesses were divided into two polarities: one was the Light, and the other was Darkness. With both Light and Darkness in balance, all in existence flourishes. Until one day, humans began to question the authority of the Goddesses...",,0,0
-1034018,1034019,,,,1,USER_MAIN0,HL0,1,Me,…So this is why the world is like this…,,0,0
+1034018,1034019,,,,1,USER_MAIN_CZ,HL0,1,Me,…So this is why the world is like this…,,0,0
 1034019,1034020,,,,1,LHFR0,MJL0,2,Nuwa,"Now only you can stop Erebus, daughter of fate!",,0,0
-1034020,1034021,,,,1,USER_MAIN0,HL0,1,Me,… My power… is so weak ...,,0,0
+1034020,1034021,,,,1,USER_MAIN_CZ,HL0,1,Me,… My power… is so weak ...,,0,0
 1034021,1034022,,,,1,LHFR0,MJL0,2,Nuwa,There is a way. That is to find Xuanyuan Sacred Sword which sealed Erebus in the past!,,0,0
-1034022,1034023,,,,1,USER_MAIN0,HL0,1,Me,Where is the Xuanyuan Sword?,,0,0
+1034022,1034023,,,,1,USER_MAIN_CZ,HL0,1,Me,Where is the Xuanyuan Sword?,,0,0
 1034023,1034024,,,,1,LHFR0,MJL0,2,Nuwa,"In Xiwangmu's shrine, Kunlun Mountain…Sadly, Xiwangmu was influenced by Erebus' power and has degenerated… Anyway, I trust you. I'm sure that you can find Xuanyuan Sword!",,0,0
-1034024,1034025,,,,1,USER_MAIN0,HL0,1,Me,But I don't know whether I can do it or not…,,0,0
+1034024,1034025,,,,1,USER_MAIN_CZ,HL0,1,Me,But I don't know whether I can do it or not…,,0,0
 1034025,1034026,,,,1,LHFR0,MJL0,2,Nuwa,"Don't worry… I see strength and hope in your eyes… After going through the Gates guarded by Shennong, Fuxi and Zhurong, you will arrive at Kunlun Mountain. Remember to come back soon once you find the Xuanyuan Sword.",,0,0
 1034026,1034027,,{black},,0,,,0,,"After separating from Nuwa, the Angel met with Shennong in Kunlun Mountain….",,0,0
 1034027,1034028,,KunLunTianGong,,1,SN0,MJL0,2,Shennong,"I will kill those who has invaded my territory, no matter how far they go!",,0,0
-1034028,-1,,,,1,USER_MAIN0,HL0,1,Me,But I just want to pass by… Guess I've got no choice…,,0,0
+1034028,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,But I just want to pass by… Guess I've got no choice…,,0,0
 1035001,1035002,,KunLunTianGong,,1,FX0,MJL0,2,Fuxi,"Taiji generates two complementary forces, and two complementary forces generate four aggregates. Then the four aggregates generate eight trigrams!",,0,0
-1035002,-1,,,,1,USER_MAIN0,HL0,1,Me,Is this the Eight-Trigram Array?,,0,0
+1035002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Is this the Eight-Trigram Array?,,0,0
 1036001,1036002,,KunLunTianGong,,1,HSZR0,MJL0,2,Apep,Are you ready to enter the Realm of Fire?,,0,0
-1036002,-1,,,,1,USER_MAIN0,HL0,1,Me,This is the last one…,,0,0
+1036002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,This is the last one…,,0,0
 1037001,1037002,,KunLunTianGong,,1,XWM0,MJL0,2,Xiwangmu,Who is that?! How impertinent!,,0,0
-1037002,1037003,,,,1,USER_MAIN0,HL0,1,Me,…I've come to take the Xuanyuan Sword!,,0,0
+1037002,1037003,,,,1,USER_MAIN_CZ,HL0,1,Me,…I've come to take the Xuanyuan Sword!,,0,0
 1037003,1037004,,,,1,XWM0,MJL0,2,Xiwangmu,Go to hell!,,0,0
-1037004,-1,,,,1,USER_MAIN0,HL0,1,Me,Ha-ha~,,0,0
-1038001,1038002,,KunLunTianGong,,1,USER_MAIN0,MJL0,1,Me,"Nuwa, I've found the Xuanyuan Sword!",,0,0
+1037004,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Ha-ha~,,0,0
+1038001,1038002,,KunLunTianGong,,1,USER_MAIN_CZ,MJL0,1,Me,"Nuwa, I've found the Xuanyuan Sword!",,0,0
 1038002,1038003,,,,1,LHFR0,HL0,2,Nuwa,"Well done! Now listen, you don't have enough power to control the sword at your present state. From what I can see, you can only use it once, so you must seize a good opportunity to strike a deadly blow to Erebus!",,0,0
-1038003,-1,,,,1,USER_MAIN0,MJL0,1,Me,Come on!,,0,0
-1039001,1039002,,KunLunTianGong,,1,BLGZ0,HL0,2,Princess Bari,Quick! Use the Xuanyuan Sword now!,,0,0
-1039002,1039003,,,,1,BLGZ0,MJL0,2,Princess Bari,Quick!,,0,0
-1039003,1039004,,,,1,USER_MAIN0,HL0,1,Me,I can't control it! Ahhhh!!,,0,0
-1039004,-1,,,,1,BLGZ0,MJL0,2,Princess Bari,The Xuanyuan Sword missed! Erebus escaped!,,0,0
+1038003,-1,,,,1,USER_MAIN_CZ,MJL0,1,Me,Come on!,,0,0
+1039001,1039002,,KunLunTianGong,,1,WL_CZ,HL0,2,Gabriel,Quick! Use the Xuanyuan Sword now!,,0,0
+1039002,1039003,,,,1,WL_CZ,MJL0,2,Gabriel,Quick!,,0,0
+1039003,1039004,,,,1,USER_MAIN_CZ,HL0,1,Me,I can't control it! Ahhhh!!,,0,0
+1039004,-1,,,,1,WL_CZ,MJL0,2,Gabriel,The Xuanyuan Sword missed! Erebus escaped!,,0,0
 1039005,1039006,,{black},,0,,,0,,"Although the attack missed the target, Erebus was still seriously injured. Protected by fallen Angels, she hid herself in Canyon of Fallen Goddesses to heal her wounds. The Angel gave pursuit…",,0,0
-1039006,1039007,,ShenZhiXiaGu,,1,BLGZ0,HFSTS0,2,Princess Bari,Erebus escaped! Let's chase after her!,,0,0
-1039007,1039008,,,,1,USER_MAIN0,HL0,1,Me,(Puffing)…Give me a second...,,0,0
-1039008,1039009,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Are you ok? Have you been injured?,,0,0
-1039009,1039010,,,,1,USER_MAIN0,HL0,1,Me,(Puffing)… I just need a rest…,,0,0
-1039010,1039011,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Take a rest here. I'll follow Erebus!,,0,0
+1039006,1039007,,ShenZhiXiaGu,,1,WL_CZ,HFSTS0,2,Gabriel,Erebus escaped! Let's chase after her!,,0,0
+1039007,1039008,,,,1,USER_MAIN_CZ,HL0,1,Me,(Puffing)…Give me a second...,,0,0
+1039008,1039009,,,,1,WL_CZ,HFSTS0,2,Gabriel,Are you ok? Have you been injured?,,0,0
+1039009,1039010,,,,1,USER_MAIN_CZ,HL0,1,Me,(Puffing)… I just need a rest…,,0,0
+1039010,1039011,,,,1,WL_CZ,HFSTS0,2,Gabriel,Take a rest here. I'll follow Erebus!,,0,0
 1039011,1039012,,{black},,0,,,0,,After a while…,,0,0
-1039012,1039013,,ShenZhiXiaGu,,1,BLGZ0,HFSTS0,2,Princess Bari,"Protected by fallen Angel guards, Erebus entered the Canyon of Fallen Goddesses!",,0,0
-1039013,1039014,,,,1,USER_MAIN0,HL0,1,Me,You've worked hard. Let's go!,,0,0
-1039014,1039015,,,,1,BLGZ0,HFSTS0,2,Princess Bari,How are you?,,0,0
-1039015,1039016,,,,1,USER_MAIN0,HL0,1,Me,I'm fine… It's a rare opportunity… I can't miss it!,,0,0
-1039016,1039017,,,,1,BLGZ0,HFSTS0,2,Princess Bari,(My power fluctuates strangely ... as if mixed with other things...),,0,0
-1039017,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,(It is…Erebus' dark power!),,0,0
+1039012,1039013,,ShenZhiXiaGu,,1,WL_CZ,HFSTS0,2,Gabriel,"Protected by fallen Angel guards, Erebus entered the Canyon of Fallen Goddesses!",,0,0
+1039013,1039014,,,,1,USER_MAIN_CZ,HL0,1,Me,You've worked hard. Let's go!,,0,0
+1039014,1039015,,,,1,WL_CZ,HFSTS0,2,Gabriel,How are you?,,0,0
+1039015,1039016,,,,1,USER_MAIN_CZ,HL0,1,Me,I'm fine… It's a rare opportunity… I can't miss it!,,0,0
+1039016,1039017,,,,1,WL_CZ,HFSTS0,2,Gabriel,(My power fluctuates strangely ... as if mixed with other things...),,0,0
+1039017,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,(It is…Erebus' dark power!),,0,0
 1040001,1040002,,ShenZhiXiaGu,,1,LFE0,HFSTS0,2,Raphael,Dirty human being! I will purify your soul!,,0,0
-1040002,-1,,,,1,USER_MAIN0,HL0,1,Me,Cut the crap.,,0,0
+1040002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Cut the crap.,,0,0
 1041001,1041002,,ShenZhiXiaGu,,1,WL0,WL0,2,Gabriel,"Human, accept the judgment of fate!",,0,0
-1041002,-1,,,,1,USER_MAIN0,HL0,1,Me,The guilty one is you!,,0,0
+1041002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,The guilty one is you!,,0,0
 1042001,1042002,,ShenZhiXiaGu,,1,YXS0,HFSTS0,2,Gabriel,Listen to the horn of death! Give up the unnecessary struggle!,,0,0
-1042002,-1,,,,1,USER_MAIN0,HL0,1,Me,You are not worthy to be called Goddesses!,,0,0
-1043001,1043002,,ShenZhiXiaGu,,1,USER_MAIN0,HL0,1,Me,Archangel Michael!! Let's put an end to this! Where is Erebus?,,0,0
+1042002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,You are not worthy to be called Goddesses!,,0,0
+1043001,1043002,,ShenZhiXiaGu,,1,USER_MAIN_CZ,HL0,1,Me,Archangel Michael!! Let's put an end to this! Where is Erebus?,,0,0
 1043002,1043003,,,,1,MJL0,MJL0,2,Michael,Despicable human beings cannot enter the realm of Goddess! Go away!,,0,0
-1043003,1043004,,,,1,USER_MAIN0,HL0,1,Me,Goddesses? You call yourselves goddesses?! You are fallen devils!,,0,0
+1043003,1043004,,,,1,USER_MAIN_CZ,HL0,1,Me,Goddesses? You call yourselves goddesses?! You are fallen devils!,,0,0
 1043004,1043005,,,,1,MJL0,MJL0,2,Michael,"How dare humans talk about degeneration?! All this is because of you! You are foolish, greedy, shameless and evil! Only darkness can completely purify the world! Only then can we create a new kingdom of goddesses! No humans in it!",,0,0
-1043005,1043006,,,,1,USER_MAIN0,HL0,1,Me,But humans are created by you! Humans are your people!,,0,0
+1043005,1043006,,,,1,USER_MAIN_CZ,HL0,1,Me,But humans are created by you! Humans are your people!,,0,0
 1043006,-1,,,,1,MJL0,MJL0,2,Michael,This is our only stain! Only by eradicating humans can the world be innocent again!,,0,0
 1043007,1043008,,{black},,0,,,0,,"To heal her wounds caused by Xuanyuan Sword, Erebus found Gaia, the mother of gods, who was dormant in the core of the earth. After killing her, Erebus absorbed Gaia's energy and was reborn…",,0,0
-1043008,1043009,,ShenYuanZhiLv,,1,USER_MAIN0,HL0,1,Me,Where is Erebus?,,0,0
+1043008,1043009,,ShenYuanZhiLv,,1,USER_MAIN_CZ,HL0,1,Me,Where is Erebus?,,0,0
 1043009,1043010,,,,1,MJL0,MJL0,2,Michael,Erebus has returned to her mother's side. You cannot stop her!,,0,0
-1043010,1043011,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Erebus' mother… Gaia!!,,0,0
-1043011,1043012,,,,1,USER_MAIN0,HL0,1,Me,"Gaia, Mother of Gods?",,0,0
-1043012,1043013,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Yes… She wants to steal Gaia's power to heal her body, which was hurt by Xuanyuan Sword.",,0,0
-1043013,1043014,,,,1,USER_MAIN0,HL0,1,Me,What should we do?,,0,0
-1043014,1043015,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Go to where Gaia is.,,0,0
-1043015,1043016,,,,1,USER_MAIN0,HL0,1,Me,Where's that?,,0,0
-1043016,-1,,,,1,BLGZ0,HFSTS0,2,Princess Bari,In the depths of the earth… It will be a long journey…,,0,0
-1044001,1044002,,ShenYuanZhiLv,,1,USER_MAIN0,HL0,1,Me,"Stop! Erebus, she is your mother!",,0,0
+1043010,1043011,,,,1,WL_CZ,HFSTS0,2,Gabriel,Erebus' mother… Gaia!!,,0,0
+1043011,1043012,,,,1,USER_MAIN_CZ,HL0,1,Me,"Gaia, Mother of Gods?",,0,0
+1043012,1043013,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Yes… She wants to steal Gaia's power to heal her body, which was hurt by Xuanyuan Sword.",,0,0
+1043013,1043014,,,,1,USER_MAIN_CZ,HL0,1,Me,What should we do?,,0,0
+1043014,1043015,,,,1,WL_CZ,HFSTS0,2,Gabriel,Go to where Gaia is.,,0,0
+1043015,1043016,,,,1,USER_MAIN_CZ,HL0,1,Me,Where's that?,,0,0
+1043016,-1,,,,1,WL_CZ,HFSTS0,2,Gabriel,In the depths of the earth… It will be a long journey…,,0,0
+1044001,1044002,,ShenYuanZhiLv,,1,USER_MAIN_CZ,HL0,1,Me,"Stop! Erebus, she is your mother!",,0,0
 1044002,1044003,,,,1,ERBS0,MJL0,2,Erebus,"Only humans care about the so-called family affection, and that's why you can not become eternal Gods!",,0,0
-1044003,1044004,,,,1,BLGZ0,HFSTS0,2,Princess Bari,Watch out!! Erebus has absorbed all Gaia's energy!,,0,0
+1044003,1044004,,,,1,WL_CZ,HFSTS0,2,Gabriel,Watch out!! Erebus has absorbed all Gaia's energy!,,0,0
 1044004,-1,,,,1,ERBS0,HL0,2,Erebus,Let's put an end to this!,,0,0
 1045001,1045002,,ShenYuanZhiLv,,1,ERBS0,MJL0,2,Erebus,No…Why is this happening?! Why…Mother!!,,0,0
-1045002,1045003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,"Finally… we did it! Look, it's light! The Light is coming back! The desperate souls disappeared!",,0,0
-1045003,1045004,,,,1,USER_MAIN0,HL0,1,Me,Mm… Great… Everything… Is over…,,0,0
-1045004,1045005,,,,1,BLGZ0,HFSTS0,2,Princess Bari,No! What's happening?! Pull yourself together! No!,,0,0
-1045005,-1,,,,1,USER_MAIN0,HL0,1,Me,...,,0,0
+1045002,1045003,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Finally… we did it! Look, it's light! The Light is coming back! The desperate souls disappeared!",,0,0
+1045003,1045004,,,,1,USER_MAIN_CZ,HL0,1,Me,Mm… Great… Everything… Is over…,,0,0
+1045004,1045005,,,,1,WL_CZ,HFSTS0,2,Gabriel,No! What's happening?! Pull yourself together! No!,,0,0
+1045005,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,...,,0,0
 1045006,1045007,,{black},,0,,,0,,"Erebus released a dark energy, eroding the Angel's soul, and the dark demoness Lilith was reborn in the Angel's spiritual world. Meanwhile, the seven deadly sins in her consciousness, 'Pride', 'Envy', 'Wrath', 'Sloth', 'Greed', 'Gluttony', and 'Lust' are infinitely magnified. Can the Angel defeat herself?",,0,0
-1045007,1045008,,ShenYuanZhiLv,,1,USER_MAIN0,HL0,1,Me,"Where is this...Isn't it all over? Bari, Bari…Where are you?",,0,0
+1045007,1045008,,ShenYuanZhiLv,,1,USER_MAIN_CZ,HL0,1,Me,"Where is this...Isn't it all over? Bari, Bari…Where are you?",,0,0
 1045008,1045009,,,,1,NBLS0,HFSTS0,2,Lilith,It's time to get up~,,0,0
-1045009,1045010,,,,1,USER_MAIN0,HL0,1,Me,Are you… Lilith?,,0,0
+1045009,1045010,,,,1,USER_MAIN_CZ,HL0,1,Me,Are you… Lilith?,,0,0
 1045010,1045011,,,,1,NBLS0,HFSTS0,2,Lilith,Haha! Thank you for remembering me!,,0,0
-1045011,1045012,,,,1,USER_MAIN0,HL0,1,Me,Aren't you already...?,,0,0
+1045011,1045012,,,,1,USER_MAIN_CZ,HL0,1,Me,Aren't you already...?,,0,0
 1045012,1045013,,,,1,NBLS0,HFSTS0,2,Lilith,Dead? Death is just a concept of human world. Goddesses will not die! We are eternal beings! Death? We just temporarily hide our traces from the physical world.,,0,0
-1045013,1045014,,,,1,USER_MAIN0,HL0,1,Me,Lilith… everything is over… Erebus has vanished. Just stop.,,0,0
+1045013,1045014,,,,1,USER_MAIN_CZ,HL0,1,Me,Lilith… everything is over… Erebus has vanished. Just stop.,,0,0
 1045014,-1,,,,1,NBLS0,HFSTS0,2,Lilith,"Everything is over? Says who? Haha, look at yourself! Stop hiding and be true to yourself!",,0,0
+1051001,1051002,,ShouErQingDian,,1,USER_MAIN_CZ,HL0,1,Me,"Goodness, am I in a time-travel or a movie set? Why are there suddenly so many... monsters on the streets?!",user_1,0,0
+1051002,1051003,,,,1,FLY2,HL0,2,Freyja,"A human with golden hair, red eyes, and a sacred seal in the eyes... the Chosen One of the Seventh Divine Realm, I presume. I didn't expect to find you so quickly.",fly_1,0,0
+1051003,1051004,,,,1,USER_MAIN_CZ,HL0,1,Me,"Chosen One of the Seventh Divine Realm? What are you talking about? Wait, you're not going to...",user_2,0,0
+1051004,1051005,,,,1,YDN_UR,HL0,1,Athena,"Lower your weapon, Freya! The girl in front of us is not the enemy you prophesied!",ydn_1,0,0
+1051005,-1,,,,1,FLY2,HL0,2,Freyja,"I apologize, Athena, the goddess of wisdom from Greece. For the future of the gods, I must end the fate of this human!",fly_2,0,0
+1052001,1052002,,ShouErQingDian,,1,FLY2,HL0,2,Freyja,"Athena, your rash actions are leading to a great mistake! You have no idea what terrible disasters she might cause in the future!",fly_3,0,0
+1052002,1052003,,,,1,YDN_UR,HL0,1,Athena,You are the one making hasty decisions! I won't allow you to take the life of any innocent on such grounds!,ydn_2,0,0
+1052003,1052004,,,,1,FLY2,HL0,2,Freyja,"Even if you stop me, it won't change anything. Without your protection, this girl will only fall into the clutches of the monsters!",fly_4,0,0
+1052004,1052005,,,,1,YDN_UR,HL0,1,Athena,"You underestimate humanity. Her potential is enough to summon powerful angels. Quick, let the descending ritual begin!",ydn_3,0,0
+1052005,1052006,,,,1,USER_MAIN_CZ,HL0,1,Me,"Huh? Wait, are you talking about me? But I haven't even prayed for once...",user_3,0,0
+1052006,-1,,,,1,YDN_UR,HL0,1,Athena,"Fear not. Concentrate your mind, seek help from the gods, and they will respond to your will!",ydn_4,0,0
+1053001,1053002,,ShouErQingDian,,1,WL_CZ,WL0,1,Gabriel,"Greetings, Athena. Is this girl my summoner?",wl_1,0,0
+1053002,1053003,,,,1,USER_MAIN_CZ,HL0,1,Me,She... is the goddess who descended in response to my recent summoning?!,user_4,0,0
+1053003,1053004,,,,1,YDN_UR,HL0,1,Athena,"Yes, Gabriel is one of the most reliable among the many angels. She will protect you and safely guide you out of this city.",ydn_5,0,0
+1053004,1053005,,,,1,FLY2,HL0,2,Freyja,"This is bad. The Chosen One's powers have awakened. I must stop her from leaving, or the gods will face another cycle of destruction!",fly_5,0,0
+1053005,1053006,,,,1,YDN_UR,HL0,1,Athena,"Not happening! Freya, passing through me won't be so easy! Gabriel, go, take them away!",ydn_6,0,0
+1053006,1053007,,,,1,FLY2,HL0,2,Freyja,"Unfortunately, I'm not alone here! Heimdall, the guardian of Asgard, intercept them. Don't let them leave the city!",fly_6,0,0
+1053007,-1,,,,1,WL_CZ,WL0,1,Gabriel,Looks like we'll have to defeat the guardian to get out. Time is of the essence. Let me teach you how to deploy your forces!,wl_2,0,0
+1054001,1054002,,ShenNvQiSuo,,1,USER_MAIN_CZ,HL0,1,Me,Uh... is this the gap between the power of goddesses and mortals? It's a miracle I haven't been completely overwhelmed.,user_5,0,0
+1054002,1054003,,,,1,WL_CZ,WL0,1,Gabriel,"Heimdall, you didn't even give it your all.",wl_3,0,0
+1054003,1054004,,,,1,HMDE4,HMDE0,2,Heimdall,"Hmph... I just encountered monsters earlier and got injured, so I couldn't go all out.",hmde_1,0,0
+1054004,1054005,,,,1,WL_CZ,WL0,1,Gabriel,Stop pretending. Your fighting spirit is quite negative. It's clear you don't agree with Freya's ideals.,wl_4,0,0
+1054005,1054006,,,,1,HMDE4,HMDE0,2,Heimdall,"So many words. If you want to leave, it's better to do it now. Otherwise, I can't guarantee that you'll be able to after I recover.",hmde_2,0,0
+1054006,-1,,,,1,WL_CZ,WL0,1,Gabriel,"What a conflicted individual... Anyway, no matter what, I'll remember this favor.",wl_5,0,0
+1055001,1055002,,TianZhaoShenShe-Combined,,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel, we've run through several streets. Why haven't we seen the city exit? Where is Lady Athena?",user_6,0,0
+1055002,1055003,,,,1,WL_CZ,WL0,2,Gabriel,"She's probably engaged in a fierce battle with Freya, buying us time. We better hurry before the monsters see us as snacks.",wl_6,0,0
+1055003,1055004,,,,1,USER_MAIN_CZ,HL0,1,Me,The number of monsters on the road is increasing. It's not wise to confront them all. If only someone could come to our aid.,user_7,0,0
+1055004,-1,,,,1,WL_CZ,WL0,2,Gabriel,"You are right. We need more help. Come, I'll instruct you on how to summon multiple angels at once!",wl_7,0,0
 2000001,-1,,TianZhaoShenShe-Combined,,1,KES0,HL0,2,Chaos,It is the first time that someone can compete with me who possesses the power of God. I have encountered such a well-matched opponent. Now I want to release the greater power in my body.,,0,0
 2000002,-1,,TianZhaoShenShe-Combined,,1,KES1,HFSTS0,2,Chaos,"It's not over yet, the ability and energy of my body is fully liberated. My power is exploded with the ability to exceed the limit of God.",,0,0
 2000003,-1,,TianZhaoShenShe-Combined,,1,KES2,HL0,2,Chaos,"You are worth to defeat, let's do our best in this battle to complete our missions.",,0,0
 2000004,-1,,TianZhaoShenShe-Combined,,1,KES3,HFSTS0,2,Chaos,"Will I lose? Gods can not predict everything. Until the last moment, I will still fight with you.",,0,0
-3000001,3000002,,ASiJiaDe,,1,USER_MAIN0,HL0,1,Me,"Princess Bari, where is this place? It is so pretty!",,0,0
-3000002,3000003,,,,1,BLGZ0,HFSTS0,2,Princess Bari,It seems to be the place where Hera and Zeus used to live. I heard there are golden apples here.,,0,0
+3000001,3000002,,ASiJiaDe,,1,USER_MAIN_CZ,HL0,1,Me,"Princess Bari, where is this place? It is so pretty!",,0,0
+3000002,3000003,,,,1,WL_CZ,HFSTS0,2,Gabriel,It seems to be the place where Hera and Zeus used to live. I heard there are golden apples here.,,0,0
 3000003,3000004,,,,1,GY0,HL0,2,Gaia,"Of course, I planted it.",,0,0
-3000004,3000005,,,,1,USER_MAIN0,HFSTS0,1,Me,"OMG! Gaia, I want those golden apples.",,0,0
+3000004,3000005,,,,1,USER_MAIN_CZ,HFSTS0,1,Me,"OMG! Gaia, I want those golden apples.",,0,0
 3000005,3000006,,,,1,GY0,HL0,2,Gaia,"No, golden apples can only be given to the angels with the highest charm.",,0,0
 3000006,3000007,,,,1,GY0,HFSTS0,2,Gaia,"In recently Hera and Zeus are going to hold a charm competition, you can join it and get the golden apples.",,0,0
-3000007,-1,,,,1,USER_MAIN0,HL0,1,Me,"Got you, I am ready to participate immediately~~ Bari, do you think I can be the most attractive angel?",,0,0
-4000001,4000002,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,Seventh domain is a space created by the power which the creator lost control......,,0,0
-4000002,4000003,,{translucent},,0,BLGZ0,HL0,2,Princess Bari,Powerful heroes will be called here to fight for glory on the great battlefield in the myth.,,0,0
-4000003,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"Adjust the deployment strategy before the battle begins, and let the powerful angels head into battle!",,0,0
-4000101,4000102,,{translucent},,0,BLGZ0,HL0,2,Princess Bari,Because the creator preferred to rely on his own tremendous strength to achieve victory.,,0,0
-4000102,4000103,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"Therefore, angels can only equip the Blessing Outfit which is transformed by the will of the creator.",,0,0
-4000103,-1,,{translucent},,0,BLGZ0,HL0,2,Princess Bari,"The blessing outfit contains uniform gears, gems, artifacts and attires, and is a symbol of justice and courage.",,0,0
-4000201,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"After the line-up is complete, you can join the battle!",,0,0
-4100001,-1,,{translucent},,0,BLGZ0,HL0,2,Princess Bari,"The new talent system is open. Use the essence to strengthen the angels' career talents, and make your angels more powerful!",,0,0
-5000101,-1,,{translucent},,0,BLGZ0,HFSTS0,2,Princess Bari,"The tower of career trials is opened. A lot of essence can be obtained from career trials, which can be used to upgrade career talents. Come and have a look!",,0,0
-5000201,-1,,{translucent},,0,BLGZ0,HL0,2,Princess Bari,"The new talent system is open. Use the essence to strengthen the angels' career talents, and make your angels more powerful!",,0,0
+3000007,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,"Got you, I am ready to participate immediately~~ Bari, do you think I can be the most attractive angel?",,0,0
+4000001,4000002,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,Seventh domain is a space created by the power which the creator lost control......,,0,0
+4000002,4000003,,{translucent},,0,WL_CZ,HL0,2,Gabriel,Powerful heroes will be called here to fight for glory on the great battlefield in the myth.,,0,0
+4000003,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"Adjust the deployment strategy before the battle begins, and let the powerful angels head into battle!",,0,0
+4000101,4000102,,{translucent},,0,WL_CZ,HL0,2,Gabriel,Because the creator preferred to rely on his own tremendous strength to achieve victory.,,0,0
+4000102,4000103,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"Therefore, angels can only equip the Blessing Outfit which is transformed by the will of the creator.",,0,0
+4000103,-1,,{translucent},,0,WL_CZ,HL0,2,Gabriel,"The blessing outfit contains uniform gears, gems, artifacts and attires, and is a symbol of justice and courage.",,0,0
+4000201,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"After the line-up is complete, you can join the battle!",,0,0
+4100001,-1,,{translucent},,0,YDN_UR,HL0,2,Athena,"The new talent system is open. Use the essence to strengthen the angels' career talents, and make your angels more powerful!",,0,0
+5000101,-1,,{translucent},,0,YDN_UR,HFSTS0,2,Athena,"The tower of career trials is opened. A lot of essence can be obtained from career trials, which can be used to upgrade career talents. Come and have a look!",,0,0
+5000201,-1,,{translucent},,0,YDN_UR,HL0,2,Athena,"The new talent system is open. Use the essence to strengthen the angels' career talents, and make your angels more powerful!",,0,0
 20550101,20550102,,TianZhaoShenShe-Combined,,0,LH0,HFSTS0,2,Ember Dragon,"Hey sister, your face looks like you deserve to get your teeth kicked in. I guess you come for fighting, is it?",,0,0
 20550102,20550103,,TianZhaoShenShe-Combined,,0,LB_UR,HL0,1,Frost Dragon,"I thought you would put in your place after waking up in this world, but it seems I'm wrong.",,0,0
 20550103,20550104,,TianZhaoShenShe-Combined,,0,LL0,HFSTS0,2,Storm Dragon,"Er? Wait... It looks like... Sister, you have awakened a new power?",,0,0
@@ -695,118 +723,118 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 20510604,20510605,,TianZhaoShenShe-Combined,,1,HMDE_UR,HL0,1,Heimdall,"In my opinion, your plan may be bankrupt in advance, as long as I am still alive.",,0,0
 20510605,-1,,TianZhaoShenShe-Combined,,1,,,0,？？？,"When the plan is implemented, I will enjoy your fears, let’s just take a look!",,0,0
 40000001,-1,,,,1,LL_UR,HL0,1,Storm Dragon,"Hmph... I will make good use of the awakening power, to solve this doomsday crisis.",,0,0
-50000001,50000002,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,It really surprised me. I never thought that there was a paradise behind this door.,,0,0
+50000001,50000002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,It really surprised me. I never thought that there was a paradise behind this door.,,0,0
 50000002,50000003,,,,1,SN_JWH,HL0,2,？？？,"Yo... So you have already arrived, I thought you wouldn't come so soon.",,0,0
 50000003,50000004,,,,1,SN_JWH,HFSTS0,2,Yukizakura,"I am Yukizakura, the leader of the Eudemons here, the eldest daughter of the Nine-Tailed clan, pleased to meet you.",,0,0
-50000004,50000005,,,,1,USER_MAIN0,HL0,1,Me,"Nice to meet you too! You are the Eudemons sister that you met last time, eh? Are you alone?",,0,0
+50000004,50000005,,,,1,USER_MAIN_CZ,HL0,1,Me,"Nice to meet you too! You are the Eudemons sister that you met last time, eh? Are you alone?",,0,0
 50000005,50000006,,,,1,SN_JWH,HFSTS0,2,Yukizakura,Hehe... Do you think the line that welcomes you is too short?,,0,0
-50000006,50000007,,,,1,USER_MAIN0,HL0,1,Me,"How come! Just curious, I have spoken to many Eudemons before.",,0,0
+50000006,50000007,,,,1,USER_MAIN_CZ,HL0,1,Me,"How come! Just curious, I have spoken to many Eudemons before.",,0,0
 50000007,50000008,,,,1,SN_JWH,HFSTS0,2,Yukizakura,"Then let me lead the way, and let me introduce another companion to you.",,0,0
 50000008,-1,,,,1,SN_JWH,HL0,2,Yukizakura,"By the way, I can also familiarize you with this place, I believe you will be interested...",,0,0
-50001001,50001002,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,"Yukizakura, is this also a portal? It looks different from the one I had when I came…",,0,0
+50001001,50001002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Yukizakura, is this also a portal? It looks different from the one I had when I came…",,0,0
 50001002,50001003,,,,1,SN_JWH,HL0,2,Yukizakura,"In fact, the principle is similar, it is called Gate of seeking, it is our common means of transportation.",,0,0
 50001003,50001004,,,,1,SN_JWH,HFSTS0,2,Yukizakura,"You just need to think about what you want to do or who you want to meet, and the gate will open the right passage.",,0,0
-50001004,50001005,,,,1,USER_MAIN0,HL0,1,Me,Is it so amazing? ! This is so convenient!,,0,0
+50001004,50001005,,,,1,USER_MAIN_CZ,HL0,1,Me,Is it so amazing? ! This is so convenient!,,0,0
 50001005,50001006,,,,1,SN_JWH,HFSTS0,2,Yukizakura,"In fact, this is not the case, because the energy of the gate is limited and it can only be opened a few times a day.",,0,0
 50001006,50001007,,,,1,SN_JWH,HL0,2,Yukizakura,And sometimes it will open the wrong passage and may send you to an unexplainable place.,,0,0
-50001007,50001008,,,,1,USER_MAIN0,HFSTS0,1,Me,"I decided to try first. I want to find the Centaur sister I saw when I opened the portal for the first time, can I?",,0,0
+50001007,50001008,,,,1,USER_MAIN_CZ,HFSTS0,1,Me,"I decided to try first. I want to find the Centaur sister I saw when I opened the portal for the first time, can I?",,0,0
 50001008,-1,,,,1,SN_JWH,HL0,2,Yukizakura,I don't know if you can find her. Let's see how lucky you are.,,0,0
 50002001,50002002,,{translucent},,1,SN_BRM,HFSTS0,2,？？？,"This is really the grace of the gods! Unexpectedly, you were the first to cross the enchantment!",,0,0
 50002002,50002003,,,,1,SN_JWH,HL0,2,Yukizakura,"Now that you are here, Yvette, I will go and work on alchemy. How about you leave the rest to you?",,0,0
 50002003,50002004,,,,1,SN_JWH,HFSTS0,2,Yukizakura,"I suggest to take our guests to the Forest of Eudemons, Elena has just built the residence.",,0,0
-50002004,50002005,,,,1,USER_MAIN0,HL0,1,Me,Forest of Eudemons? What is that place?,,0,0
+50002004,50002005,,,,1,USER_MAIN_CZ,HL0,1,Me,Forest of Eudemons? What is that place?,,0,0
 50002005,-1,,,,1,SN_BRM,HFSTS0,2,Yvette,"It is the lair of the Eudemons, we will understand when we get there.",,0,0
 50003001,50003002,,{translucent},,1,SN_BRM,HL0,2,Yvette,"The Forest of Eudemons is our resting place, and each Eudemon has its own private room.",,0,0
-50003002,50003003,,,,1,USER_MAIN0,HFSTS0,1,Me,"Quite interesting, the same as our human school dormitory?",,0,0
+50003002,50003003,,,,1,USER_MAIN_CZ,HFSTS0,1,Me,"Quite interesting, the same as our human school dormitory?",,0,0
 50003003,50003004,,,,1,SN_BRM,HL0,2,Yvette,"Yes, more importantly, Eudemons who have good enough relationships with you will invite you into their room",,0,0
 50003004,50003005,,,,1,SN_BRM,HFSTS0,2,Yvette,They will also sign an alliance contract with you to help you do what they can.,,0,0
-50003005,50003006,,,,1,USER_MAIN0,HL0,1,Me,For real? ! How should I have a good relationship with everyone?,,0,0
+50003005,50003006,,,,1,USER_MAIN_CZ,HL0,1,Me,For real? ! How should I have a good relationship with everyone?,,0,0
 50003006,50003007,,,,1,SN_BRM,HFSTS0,2,Yvette,Hmm... Let’s talk to them more through Gate of seeking. Humans are a race that is good at communicating.,,0,0
 50003007,-1,,,,1,SN_BRM,HL0,2,Yvette,"Phew, I'm also a little tired. Shall I take you to my room for a cup of tea?",,0,0
-50004001,50004002,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,Is this... the contract you made with me?,,0,0
+50004001,50004002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Is this... the contract you made with me?,,0,0
 50004002,50004003,,,,1,SN_BRM,HL0,2,Yvette,"Yes, I hope we can try our best to help each other.",,0,0
-50004003,50004004,,,,1,USER_MAIN0,HFSTS0,1,Me,"By the way, I haven't asked, do you need any of my help?",,0,0
+50004003,50004004,,,,1,USER_MAIN_CZ,HFSTS0,1,Me,"By the way, I haven't asked, do you need any of my help?",,0,0
 50004004,50004005,,,,1,SN_BRM,HL0,2,Yvette,"The Eudemons have been trapped in this enchantment for a long time, and they have not been able to find a way out.",,0,0
 50004005,50004006,,,,1,SN_BRM,HFSTS0,2,Yvette,I hope you can find a way to break the enchantment of this world and let us be free.,,0,0
-50004006,50004007,,,,1,USER_MAIN0,HL0,1,Me,"I see, so what can you do to help me?",,0,0
+50004006,50004007,,,,1,USER_MAIN_CZ,HL0,1,Me,"I see, so what can you do to help me?",,0,0
 50004007,50004008,,,,1,SN_BRM,HFSTS0,2,Yvette,We can channel our powers to the gods of your world and help them.,,0,0
 50004008,50004009,,,,1,SN_BRM,HL0,2,Yvette,"In addition, although the enchantment restricts our actions, it has no effect on non-living bodies.",,0,0
 50004009,50004010,,,,1,SN_BRM,HFSTS0,2,Yvette,"And there are many precious minerals that can be mined, and each Eudemon has a unique mining ability.",,0,0
-50004010,-1,,,,1,USER_MAIN0,HL0,1,Me,OMG...I think I understand what this means…,,0,0
-50005001,50005002,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,"By the way, Yvette! I remembered that there was a small gift that I forgot to give you.",,0,0
+50004010,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,OMG...I think I understand what this means…,,0,0
+50005001,50005002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"By the way, Yvette! I remembered that there was a small gift that I forgot to give you.",,0,0
 50005002,50005003,,,,1,SN_BRM,HL0,2,Yvette,Oh? What is it? Eudemons are always happy with gifts.,,0,0
-50005003,50005004,,,,1,USER_MAIN0,HFSTS0,1,Me,It is the fruit picked in the forest. Yukizakura seems to like it very much. I think you will like it too.,,0,0
+50005003,50005004,,,,1,USER_MAIN_CZ,HFSTS0,1,Me,It is the fruit picked in the forest. Yukizakura seems to like it very much. I think you will like it too.,,0,0
 50005004,50005005,,,,1,SN_BRM,HL0,2,Yvette,"Ah... this kind of fruit is called Reiki fruit, and it is indeed a favorite food for Eudemons.",,0,0
 50005005,-1,,,,1,SN_BRM,HFSTS0,2,Yvette,"I will accept it, thank you for taking me the grace of the gods.",,0,0
-50006001,50006002,,{translucent},,1,USER_MAIN0,HL0,1,Me,Does it taste good? I even had the illusion that you were full of energy after eating.,,0,0
+50006001,50006002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Does it taste good? I even had the illusion that you were full of energy after eating.,,0,0
 50006002,50006003,,,,1,SN_BRM,HFSTS0,2,Yvette,"In fact, you are right, this kind of fruit can indeed enhance our strength!",,0,0
 50006003,50006004,,,,1,SN_BRM,HL0,2,Yvette,"Some fruits even possess very powerful magical powers, which can make Eudemons immortal.",,0,0
-50006004,-1,,,,1,USER_MAIN0,HFSTS0,1,Me,No way! Is there such a thing? Then I have to collect them well.,,0,0
-50007001,50007002,,{translucent},,1,USER_MAIN0,HL0,1,Me,"By the way, Yvette, there seems to be many ruins-like buildings here.",,0,0
+50006004,-1,,,,1,USER_MAIN_CZ,HFSTS0,1,Me,No way! Is there such a thing? Then I have to collect them well.,,0,0
+50007001,50007002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"By the way, Yvette, there seems to be many ruins-like buildings here.",,0,0
 50007002,50007003,,,,1,SN_BRM,HFSTS0,2,Yvette,"Yes, this is the mine that I told you before, and we are unlocking them one by one.",,0,0
 50007003,50007004,,,,1,SN_BRM,HL0,2,Yvette,Do you see the ruins at the spring on the top of the mountain? I just unlocked it the other day.,,0,0
 50007004,50007005,,,,1,SN_BRM,HFSTS0,2,Yvette,"The spring around it is rich in a kind of spar mine, which is an important resource for construction.",,0,0
-50007005,-1,,,,1,USER_MAIN0,HL0,1,Me,Very beautiful ruins! Let's go check it out!,,0,0
+50007005,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Very beautiful ruins! Let's go check it out!,,0,0
 50008001,50008002,,{translucent},,1,SN_BRM,HFSTS0,2,Yvette,"You see, putting spar on the altar of the ruins can increase the production capacity of the ruins.",,0,0
-50008002,-1,,,,1,USER_MAIN0,HL0,1,Me,I can't wait to try out!,,0,0
+50008002,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,I can't wait to try out!,,0,0
 50009001,50009002,,{translucent},,1,SN_BRM,HFSTS0,2,Yvette,"By the way, in addition to upgrading the ruins themselves, many Eudemons have unique knowledge of the ruins.",,0,0
 50009002,50009003,,,,1,SN_BRM,HL0,2,Yvette,"If they are dispatched into the ruins, the mining efficiency of the ruins can be further improved.",,0,0
 50009003,50009004,,,,1,SN_BRM,HFSTS0,2,Yvette,"For example, I have been studying the Spar Spring for a long time, and I know how it works.",,0,0
-50009004,50009005,,,,1,USER_MAIN0,HL0,1,Me,"Well, I will try my best to seek help from other Eudemons.",,0,0
+50009004,50009005,,,,1,USER_MAIN_CZ,HL0,1,Me,"Well, I will try my best to seek help from other Eudemons.",,0,0
 50009005,-1,,,,1,SN_BRM,HFSTS0,2,Yvette,"Okay, let's talk about the rest later, I'm going to start work in the ruins, see you later!",,0,0
-51001001,51001002,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Huh? Bari, is this a portal? Do you know how to activate it?",,0,0
-51001002,51001003,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,How would I know? Why don't you try yelling Open Sesame?,,0,0
-51001003,51001004,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Open Sesame!!! Alright, I knew you were just pulling my leg…",,0,0
-51001004,51001005,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,But you still fell for it- Wait! Why is the portal starting to glow!?,,0,0
+51001001,51001002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Huh? Bari, is this a portal? Do you know how to activate it?",,0,0
+51001002,51001003,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,How would I know? Why don't you try yelling Open Sesame?,,0,0
+51001003,51001004,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Open Sesame!!! Alright, I knew you were just pulling my leg…",,0,0
+51001004,51001005,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,But you still fell for it- Wait! Why is the portal starting to glow!?,,0,0
 51001005,51001006,,{translucent},,1,SN_BRM,HL0,2,？？？,Is anyone there? Thank goodness… To think I've finally managed to contact the world outside the barrier after hundreds of years…,,0,0
 51001006,51001007,,{translucent},,1,SN_BRM,HFSTS0,2,？？？,If someone is on the other side... please fix the portal as soon as possible…,,0,0
-51001007,51001008,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Did you hear that?! As long as we fix it, we'll be able to discover the secret at the other side of the portal!",,0,0
-51001008,51001009,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"Why are you staring at me so eagerly!? You don't expect me to fix this broken portal, do you?!",,0,0
-51001009,51001010,,{translucent},,1,USER_MAIN0,HL0,1,Me,"C'mon, honey. Please fix it for me? I'm dying to know! I know you can do it!",,0,0
-51001010,-1,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"Oh my god… How could I, a grand and magnificent Shrine Maiden, be reduced to doing this for you…",,0,0
-51002001,51002002,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Bari...has the portal been fixed? You have been fixing it for a week, would you like me to help?",,0,0
-51002002,51002003,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"No need! If I ask you for help, this portal will fall apart in seconds!",,0,0
-51002003,51002004,,{translucent},,1,USER_MAIN0,HL0,1,Me,"I'm not that stupid, am I...? Wait! There seems to be movement in the portal? !",,0,0
+51001007,51001008,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Did you hear that?! As long as we fix it, we'll be able to discover the secret at the other side of the portal!",,0,0
+51001008,51001009,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"Why are you staring at me so eagerly!? You don't expect me to fix this broken portal, do you?!",,0,0
+51001009,51001010,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"C'mon, honey. Please fix it for me? I'm dying to know! I know you can do it!",,0,0
+51001010,-1,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"Oh my god… How could I, a grand and magnificent Shrine Maiden, be reduced to doing this for you…",,0,0
+51002001,51002002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Bari...has the portal been fixed? You have been fixing it for a week, would you like me to help?",,0,0
+51002002,51002003,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"No need! If I ask you for help, this portal will fall apart in seconds!",,0,0
+51002003,51002004,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"I'm not that stupid, am I...? Wait! There seems to be movement in the portal? !",,0,0
 51002004,51002005,,{translucent},,1,SN_BSN,HFSTS0,2,？？？,"It seems to be connected, it's clearer than last time! Can you hear me? Testing! Testing!",,0,0
-51002005,51002006,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Hello? Hello?! Bari, do you know who is that on the other side?!",,0,0
-51002006,51002007,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"I don’t know, but at least it’s not a monster, otherwise you would be dead by now…",,0,0
+51002005,51002006,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Hello? Hello?! Bari, do you know who is that on the other side?!",,0,0
+51002006,51002007,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"I don’t know, but at least it’s not a monster, otherwise you would be dead by now…",,0,0
 51002007,51002008,,{translucent},,1,SN_BSN,HL0,2,？？？,"Don't worry, this is Chaos Realm, and the monsters dare not come here...",,0,0
-51002008,51002009,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,"Chaos Realm? Bari, do you know this place?",,0,0
-51002009,51002010,,{translucent},,1,BLGZ0,HL0,2,Princess Bari,"It seems to be located outside the realm of God, a place that even the God of Creation can't control…",,0,0
+51002008,51002009,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Chaos Realm? Bari, do you know this place?",,0,0
+51002009,51002010,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"It seems to be located outside the realm of God, a place that even the God of Creation can't control…",,0,0
 51002010,51002011,,{translucent},,1,SN_BSN,HFSTS0,2,？？？,"Ah, you are half right, in fact this place is just…",,0,0
-51002011,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,Just what? Ah ah ah! It's disconnected! Bari! ! Hurry! Fix the portal! ! !,,0,0
-51003001,51003002,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,"Bari... It's been half a month, I'm dreaming about what's behind the portal…",,0,0
-51003002,51003003,,{translucent},,1,BLGZ0,HL0,2,Princess Bari,"Don't worry, although it hasn't been completely fixed, it can be opened more or less smoothly.",,0,0
-51003003,51003004,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"This portal seems to only respond to your commands, and you can activate it by putting your hand on the door.",,0,0
-51003004,51003005,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Only respond to my orders? It's really weird... Try it, let's turn it on! !",,0,0
+51002011,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Just what? Ah ah ah! It's disconnected! Bari! ! Hurry! Fix the portal! ! !,,0,0
+51003001,51003002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Bari... It's been half a month, I'm dreaming about what's behind the portal…",,0,0
+51003002,51003003,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"Don't worry, although it hasn't been completely fixed, it can be opened more or less smoothly.",,0,0
+51003003,51003004,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"This portal seems to only respond to your commands, and you can activate it by putting your hand on the door.",,0,0
+51003004,51003005,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Only respond to my orders? It's really weird... Try it, let's turn it on! !",,0,0
 51003005,51003006,,{translucent},,1,SN_BHJY,HFSTS0,2,？？？,Yo... It's really surprising that two people can complete the repair of the portal.,,0,0
-51003006,51003007,,{translucent},,1,BLGZ0,HL0,1,Princess Bari,"You don't have the temperament of a god but you have a godhead...I see, you are an Eudemon, right?",,0,0
+51003006,51003007,,{translucent},,1,WL_CZ,HL0,1,Gabriel,"You don't have the temperament of a god but you have a godhead...I see, you are an Eudemon, right?",,0,0
 51003007,51003008,,{translucent},,1,SN_BHJY,HFSTS0,2,？？？,"Indeed, as you said, we are Eudemons, exiled by the gods…",,0,0
-51003008,51003009,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Eudemons? Bari, what is Eudemons?",,0,0
-51003009,51003010,,{translucent},,1,BLGZ0,HFSTS0,1,Princess Bari,"Servants of the gods, or legendary creatures? I actually don't know much.",,0,0
+51003008,51003009,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Eudemons? Bari, what is Eudemons?",,0,0
+51003009,51003010,,{translucent},,1,WL_CZ,HFSTS0,1,Gabriel,"Servants of the gods, or legendary creatures? I actually don't know much.",,0,0
 51003010,51003011,,{translucent},,1,SN_BHJY,HL0,2,？？？,"No matter what, we all hope to find a way out from here…since...",,0,0
-51003011,-1,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,Oh no... the connection is broken again. It seems that we have to fix the portal thoroughly.,,0,0
-51004001,51004002,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Ah... the door is broken again. Previously, we could still see the scene on the other side of the door...",,0,0
-51004002,51004003,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,Bari is also lazy too! It's so irritating! Open it! Open it! !,,0,0
+51003011,-1,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Oh no... the connection is broken again. It seems that we have to fix the portal thoroughly.,,0,0
+51004001,51004002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Ah... the door is broken again. Previously, we could still see the scene on the other side of the door...",,0,0
+51004002,51004003,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Bari is also lazy too! It's so irritating! Open it! Open it! !,,0,0
 51004003,51004004,,{translucent},,1,SN_LN,HL0,2,？？？,It's so noisy! Who is yelling out there! Do you want to fight? !,,0,0
-51004004,51004005,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,Sorry... I... I just want to activate the portal and go to the other side to have a look...,,0,0
+51004004,51004005,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Sorry... I... I just want to activate the portal and go to the other side to have a look...,,0,0
 51004005,51004006,,{translucent},,1,SN_LN,HL0,2,？？？,Stop dreaming! No one can pass this portal because of the enchantment that prevents crossing!,,0,0
-51004006,51004007,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,Enchantment that prevents crossing? Do you mean that outsiders can't get in through the portal?,,0,0
+51004006,51004007,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Enchantment that prevents crossing? Do you mean that outsiders can't get in through the portal?,,0,0
 51004007,51004008,,{translucent},,1,SN_LN,HL0,2,？？？,"Yes! And the Eudemons inside the door can't come out, do you understand?",,0,0
-51004008,51004009,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,Do you know who created the enchantment? Maybe we can think of a way...,,0,0
+51004008,51004009,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Do you know who created the enchantment? Maybe we can think of a way...,,0,0
 51004009,51004010,,{translucent},,1,SN_LN,HL0,2,？？？,"There are rumors that it was created by the God of Creation, but I think no one can say for sure.",,0,0
 51004010,51004011,,{translucent},,1,SN_LN,HFSTS0,2,？？？,Besides! Next time if you yell again... I'll bite your head off!,,0,0
-51004011,51004012,,{translucent},,1,USER_MAIN0,HL0,1,Me,Didn’t you just say that the portal cannot be crossed...,,0,0
+51004011,51004012,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Didn’t you just say that the portal cannot be crossed...,,0,0
 51004012,-1,,{translucent},,1,SN_LN,HFSTS0,2,？？？,Whatever! You are so annoying! I'm going to continue napping! Adiós!,,0,0
-51005001,51005002,,{translucent},,1,USER_MAIN0,HL0,1,Me,Bari! look! I successfully passed through the portal!,,0,0
-51005002,51005003,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"My God, I think it's a miracle that you, with that desperate character can survive till now.",,0,0
+51005001,51005002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Bari! look! I successfully passed through the portal!,,0,0
+51005002,51005003,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"My God, I think it's a miracle that you, with that desperate character can survive till now.",,0,0
 51005003,51005004,,{translucent},,1,SN_JWH,HL0,2,？？？,"It’s a miracle indeed, this girl is the first human to pass through the portal in hundreds of years.",,0,0
-51005004,51005005,,{translucent},,1,USER_MAIN0,HFSTS0,1,Me,See! And I remember your companion said that no one can pass through this portal.,,0,0
+51005004,51005005,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,See! And I remember your companion said that no one can pass through this portal.,,0,0
 51005005,51005006,,{translucent},,1,SN_JWH,HL0,2,？？？,"In fact, it is not impervious to pass, but it will endure huge enchantment energy when passing through.",,0,0
 51005006,51005007,,{translucent},,1,SN_JWH,HFSTS0,2,？？？,What surprises me is that you have not been burnt to ashes by this energy like others…,,0,0
-51005007,51005008,,{translucent},,1,BLGZ0,HL0,1,Princess Bari,"Indeed, in my research, this kind of energy will hurt everyone who crosses the enchantment…",,0,0
-51005008,51005009,,{translucent},,1,BLGZ0,HFSTS0,1,Princess Bari,"Unless this person is the creator of the enchantment, but you can't have anything to do with this matter...",,0,0
-51005009,51005010,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Don't worry about so much! I've made my mind! Even if it is burnt to ashes, I have to go to the otherside to have a look!",,0,0
+51005007,51005008,,{translucent},,1,WL_CZ,HL0,1,Gabriel,"Indeed, in my research, this kind of energy will hurt everyone who crosses the enchantment…",,0,0
+51005008,51005009,,{translucent},,1,WL_CZ,HFSTS0,1,Gabriel,"Unless this person is the creator of the enchantment, but you can't have anything to do with this matter...",,0,0
+51005009,51005010,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Don't worry about so much! I've made my mind! Even if it is burnt to ashes, I have to go to the otherside to have a look!",,0,0
 51005010,-1,,{translucent},,1,SN_JWH,HFSTS0,2,？？？,"Hmm…As long as you're ready, me and my Eudemon friends and I will treat you well.",,0,0
 20600101,20600102,,TianZhaoShenShe-Combined,,1,WEJL2,HL0,2,Valkyrie,"Freyja, you look restless, and you are in trouble again in the war with Greece?",,0,0
 20600102,20600103,,TianZhaoShenShe-Combined,,1,FLY_UR,HFSTS0,1,Freyja,"On the contrary, the Greek gods have been deliberately avoiding me after they met me on the battlefield.",,0,0
@@ -986,7 +1014,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 20740403,20740404,,PanDuoLaShenMiao,,1,WNS_UR,HFSTS0,1,Venus,"Oh? So Lord Hera was unfortunate to be your guinea pig, wasn't she?",,0,0
 20740404,20740405,,PanDuoLaShenMiao,,1,QBT_UR,HL0,2,Cupid,I swear it was an accident. I never meant for it to go this way.,,0,0
 20740405,-1,,PanDuoLaShenMiao,,1,WNS_UR,HFSTS0,1,Venus,"It won't happen again, because from now on I will keep my eyes on you.",,0,0
-20740406,-1,,{translucent},,1,BLGZ0,HL0,1,Princess Bari,"Unbelievable! You have been growing so fast! After upgrading your ranks, you will enter ther Realm of Godness.",,0,0
+20740406,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,"Unbelievable! You have been growing so fast! After upgrading your ranks, you will enter ther Realm of Godness.",,0,0
 20750101,20750102,,KunLunTianGong,,1,ZS_UR,HFSTS0,1,Zeus,Ok? I don't think I've ever be welcomed like this in the age of mythology…,,0,0
 20750102,20750103,,KunLunTianGong,,1,HL_UR,HL0,2,Hera,"Now, dear, what makes you feel that you are welcomed?",,0,0
 20750103,20750104,,KunLunTianGong,,1,HDS2,HFSTS0,2,Hades,"Some old grudges from the past, I think you may have to settle with you…",,0,0
@@ -1007,9 +1035,9 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 20750403,20750404,,KunLunTianGong,,1,AD2,HL0,2,Odin,"It seems that Pandora's prediction is right, the world is in trouble.",,0,0
 20750404,20750405,,KunLunTianGong,,1,ZS_UR,HFSTS0,1,Zeus,Yeah? I hope it's better not me who's causing trouble for the world.,,0,0
 20750405,-1,,KunLunTianGong,,1,AD2,HL0,2,Odin,"Who knows, you follow the call and come, maybe it is the savior of the world...",,0,0
-20740407,-1,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"Relic Awakening is available now, see more details now!",,0,0
-20740408,-1,,{translucent},,1,BLGZ0,HL0,2,Princess Bari,"Spend resonance gems and resonance crystals to awaken relics, whose attributes will be enhanced greatly. When reaching certain awakening level, angels' skill will be enhanced!",,0,0
-20740409,-1,,{translucent},,1,BLGZ0,HFSTS0,2,Princess Bari,"Fear Abyss will be available every Friday, Saturday and Sunday.Players can get lots of items for relic awakening.",,0,0
+20740407,-1,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"Relic Awakening is available now, see more details now!",,0,0
+20740408,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"Spend resonance gems and resonance crystals to awaken relics, whose attributes will be enhanced greatly. When reaching certain awakening level, angels' skill will be enhanced!",,0,0
+20740409,-1,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"Fear Abyss will be available every Friday, Saturday and Sunday.Players can get lots of items for relic awakening.",,0,0
 20760101,20760102,,ShenNvQiSuo,,1,LJ_UR,HL0,1,Loki,Oops! Are there so many people welcoming me?,,0,0
 20760102,20760103,,ShenNvQiSuo,,1,HMDE_UR,HFSTS0,2,Heimdall,Why was this guy summoned here? I hate him!,,0,0
 20760103,20760104,,ShenNvQiSuo,,1,LLS2,HL0,2,Lucifer,"Finally, a guy who has been given a bad name by the world, just like me, has appeared?",,0,0
@@ -1372,17 +1400,17 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30310202,30310203,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,Huh? What does this have anything to do with our trip?,,0,0
 30310203,30310204,,NuwaJingu,,1,QBT0,HL0,1,Cupid,It sure does! The power of a love angel comes from the belief in love. If I already forget that...,,0,0
 30310204,30310205,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,Hehe... Maybe that's a good thing. Your stupid rule of love really f**ked those human beings.,,0,0
-30310205,30310206,,NuwaJingu,,1,USER_MAIN0,HL0,2,Mystery Girl,Hello there... Alas?! Pandora and Cupid?,,0,0
+30310205,30310206,,NuwaJingu,,1,USER_MAIN_CZ,HL0,2,Mystery Girl,Hello there... Alas?! Pandora and Cupid?,,0,0
 30310206,30310207,,NuwaJingu,,1,QBT0,HFSTS0,1,Cupid,You... Why are you here? For an unachieved wish?,,0,0
-30310207,30310208,,NuwaJingu,,1,USER_MAIN0,HL0,2,Mystery Girl,"Ugh... Yes? I forget my real name... I guess if I want to leave here, I need to recall my name.",,0,0
+30310207,30310208,,NuwaJingu,,1,USER_MAIN_CZ,HL0,2,Mystery Girl,"Ugh... Yes? I forget my real name... I guess if I want to leave here, I need to recall my name.",,0,0
 30310208,30310209,,NuwaJingu,,1,QBT0,HFSTS0,1,Cupid,"Funny... What about a fight? If you win, I will tell you your name.",,0,0
 30310209,30310210,,NuwaJingu,,1,QBT0,HL0,1,Cupid,"If you lose, you gonna tell me what love means to you. How about that?",,0,0
-30310210,-1,,NuwaJingu,,1,USER_MAIN0,HFSTS0,2,Mystery Girl,That's a good idea. Come on!,,0,0
-30310211,30310212,,NuwaJingu,,1,USER_MAIN0,HL0,2,Mystery Girl,Ah... You are tougher than I expected.,,0,0
+30310210,-1,,NuwaJingu,,1,USER_MAIN_CZ,HFSTS0,2,Mystery Girl,That's a good idea. Come on!,,0,0
+30310211,30310212,,NuwaJingu,,1,USER_MAIN_CZ,HL0,2,Mystery Girl,Ah... You are tougher than I expected.,,0,0
 30310212,30310213,,NuwaJingu,,1,QBT0,HFSTS0,1,Cupid,"Humph. So, tell me your opinion about love.",,0,0
-30310213,30310214,,NuwaJingu,,1,USER_MAIN0,HL0,2,Mystery Girl,"Ugh... I really can't tell. But maybe, love is a hazy expectation.",,0,0
+30310213,30310214,,NuwaJingu,,1,USER_MAIN_CZ,HL0,2,Mystery Girl,"Ugh... I really can't tell. But maybe, love is a hazy expectation.",,0,0
 30310214,30310215,,NuwaJingu,,1,QBT0,HFSTS0,1,Cupid,"Hazy expectation... Well, that is an interesting answer.",,0,0
-30310215,30310216,,NuwaJingu,,1,USER_MAIN0,HL0,2,Mystery Girl,Wait! You really do not intend to tell me my real name? I want to get out!,,0,0
+30310215,30310216,,NuwaJingu,,1,USER_MAIN_CZ,HL0,2,Mystery Girl,Wait! You really do not intend to tell me my real name? I want to get out!,,0,0
 30310216,-1,,NuwaJingu,,1,QBT0,HFSTS0,1,Cupid,"Don't worry, my love. I am not such a cruel angel. I will tell you... after I retrieve my power! See you later~",,0,0
 30310301,30310302,,NuwaJingu,,1,QBT_UR,HL0,1,Cupid,I sense that some part of my power is around here. We have come to the right place.,,0,0
 30310302,30310303,,NuwaJingu,,1,CE_UR,HFSTS0,2,Chang'e,"Humph? Isn't this Cupid, the little love angel of Rome? Let me guess. You are here to get back your lost power.",,0,0
@@ -1766,9 +1794,9 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30530321,30530322,,NuwaJingu,,1,,,2,？？？,"So you are chasing glory, not righteousness?",,0,0
 30530322,30530323,,NuwaJingu,,1,,,2,？？？,"Then, by the rules, you must fight someone else who shares your ambition.",,0,0
 30530323,-1,,NuwaJingu,,1,,,2,？？？,"Jeanne d'Arc, I summon thee!",,0,0
-30540101,30540102,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,"Icarus, let's have a fair fight!",,0,0
+30540101,30540102,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,"Icarus, let's have a fair fight!",,0,0
 30540102,-1,,NuwaJingu,,1,YKLS_UR_PLUS,HFSTS0,1,Icarus,"Sure. Jeanne d'Arc, I will let you see what kind of power it takes to become a real goddess.",,0,0
-30540103,30540104,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,I... failed. Victory belongs to you...,,0,0
+30540103,30540104,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,I... failed. Victory belongs to you...,,0,0
 30540104,30540105,,NuwaJingu,,1,YKLS_UR_PLUS,HFSTS0,1,Icarus,"Alright! Wings of Light, obey me and take me to the sky!",,0,0
 30540105,30540106,,NuwaJingu,,1,,HL0,2,？？？,"Yes, my goddess. I will grant you the power you deserve.",,0,0
 30540106,-1,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,Hmmm… You forgot to mention that you will also boost her arrogance!,,0,0
@@ -1841,22 +1869,22 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30620207,30620208,,NuwaJingu,,1,HYJ0,HL0,2,Princess Kaguya,Your people call you the daughter of the sun because your faith is like fire. I now see why. It is inspiring.,,0,0
 30620208,30620209,,NuwaJingu,,1,BMH_UR,HFSTS0,1,Himiko,My faith...I used to have that kind of faith? I vaguely remember...,,0,0
 30620209,-1,,NuwaJingu,,1,YYJZ2,HL0,1,Tsukuyomi,"Good, let's keep moving. Your fate awaits.",,0,0
-30620301,30620302,,NuwaJingu,,1,BLGZ0,HFSTS0,2,Princess Bari,哎哟，看看这是谁来了。,,0,0
+30620301,30620302,,NuwaJingu,,1,WL_CZ,HFSTS0,2,Princess Bari,哎哟，看看这是谁来了。,,0,0
 30620302,30620303,,NuwaJingu,,1,PDL2,HL0,1,Pandora,Bari? I don't remember planning this meeting,,0,0
-30620303,30620304,,NuwaJingu,,1,BLGZ0,HFSTS0,2,Princess Bari,But here I am!,,0,0
+30620303,30620304,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,But here I am!,,0,0
 30620304,30620305,,NuwaJingu,,1,PDL2,HL0,1,Pandora,I strongly suggest you step aside and don't bother us.,,0,0
 30620305,30620306,,NuwaJingu,,1,BMH_UR,HFSTS0,1,Himiko,"Pandora, let me handle this.",,0,0
 30620306,30620307,,NuwaJingu,,1,PDL2,HL0,1,Pandora,"Alright, my dear queen.",,0,0
 30620307,30620308,,NuwaJingu,,1,BMH_UR,HFSTS0,1,Himiko,"Princess Bari, I have heard a lot about you. Why are you here?",,0,0
-30620308,30620309,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,Someone asked me to defeat you. But I have a proposal for you.,,0,0
+30620308,30620309,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,Someone asked me to defeat you. But I have a proposal for you.,,0,0
 30620309,30620310,,NuwaJingu,,1,BMH_UR,HFSTS0,1,Himiko,What is it?,,0,0
-30620310,30620311,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,"Let's fight. If you win, then I will have to tell you the truth about who sent me.. But if you lose, you have to come with me.",,0,0
+30620310,30620311,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,"Let's fight. If you win, then I will have to tell you the truth about who sent me.. But if you lose, you have to come with me.",,0,0
 30620311,-1,,NuwaJingu,,1,BMH_UR,HFSTS0,1,Himiko,That sounds fair. Let's do it!,,0,0
-30620312,30620313,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,What? That blade... the sacred mirror and the jade artifact... How did you manage to find these three artifacts?,,0,0
+30620312,30620313,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,What? That blade... the sacred mirror and the jade artifact... How did you manage to find these three artifacts?,,0,0
 30620313,30620314,,NuwaJingu,,1,BMH_UR,HFSTS0,1,Himiko,Just admit it. You are no match for me.,,0,0
-30620314,30620315,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,"Fine, you win. But I will not stop challenging you in the future!",,0,0
+30620314,30620315,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,"Fine, you win. But I will not stop challenging you in the future!",,0,0
 30620315,30620316,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"Now, darling, you promised. You must tell the truth. Who is behind this and why?",,0,0
-30620316,30620317,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,Izanami sent me. She is planning her return.,,0,0
+30620316,30620317,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,Izanami sent me. She is planning her return.,,0,0
 30620317,30620318,,NuwaJingu,,1,YYJZ2,HFSTS0,1,Tsukuyomi,I knew it! Why can't she stop coming back?,,0,0
 30620318,-1,,NuwaJingu,,1,BMH_UR,HL0,1,Himiko,"Relax, I will defeat her and seal her away, just as I have done in the past.",,0,0
 30630101,30630102,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,Oh my gosh! Why do I keep running into you?,,0,0
@@ -2069,13 +2097,13 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30810215,30810216,,NuwaJingu,,1,XN2,HL0,2,Ungnyeo,Are you going to find delicious food to eat?,,0,0
 30810216,-1,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,Is there anything else you care about beside food?,,0,0
 30810301,30810302,,NuwaJingu,,1,LL0,HFSTS0,1,Storm Dragon,I sense the power of rain in you.,,0,0
-30810302,30810303,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,It is said that rain is the purest water and that it makes the best tea.,,0,0
+30810302,30810303,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,It is said that rain is the purest water and that it makes the best tea.,,0,0
 30810303,30810304,,NuwaJingu,,1,LL0,HFSTS0,1,Storm Dragon,That's why you took my power of rain as your own?,,0,0
-30810304,30810305,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,"I didn't steal that. I took part of it from the Queen of Yamatai, Himiko.",,0,0
+30810304,30810305,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,"I didn't steal that. I took part of it from the Queen of Yamatai, Himiko.",,0,0
 30810305,30810306,,NuwaJingu,,1,LL0,HFSTS0,1,Storm Dragon,Where is she? Please take me to her.,,0,0
-30810306,-1,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,"What? No, I will not betray her. She is an important ally. Unless... you prove your worth by defeating me.",,0,0
+30810306,-1,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,"What? No, I will not betray her. She is an important ally. Unless... you prove your worth by defeating me.",,0,0
 30810307,30810308,,NuwaJingu,,1,LL0,HFSTS0,1,Storm Dragon,You lost. Now take us to her.,,0,0
-30810308,-1,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,"Well, well, well... What's the rush?",,0,0
+30810308,-1,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,"Well, well, well... What's the rush?",,0,0
 30820101,30820102,,NuwaJingu,,1,LL0,HFSTS0,1,Storm Dragon,The wind is telling me someone is nearby...,,0,0
 30820102,30820103,,NuwaJingu,,1,MY0,HL0,2,Nekomata,Meow!,,0,0
 30820103,30820104,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,A cat?,,0,0
@@ -2092,7 +2120,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30820114,30820115,,NuwaJingu,,1,LL_UR,HFSTS0,1,Storm Dragon,我感觉力量得到了恢复……,,0,0
 30820115,30820116,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,Let's go! My cat maid.,,0,0
 30820116,-1,,NuwaJingu,,1,MY0,HL0,2,Nekomata,"Fine! But you have to feed me! Did I ever tell you what my favorite foods are? Listen, they are dried fish, and fried fish and...",,0,0
-30820201,30820202,,NuwaJingu,,1,BLGZ0,HL0,2,Princess Bari,Finally... we are here!,,0,0
+30820201,30820202,,NuwaJingu,,1,BLGZ_CZ,HL0,2,Princess Bari,Finally... we are here!,,0,0
 30820202,30820203,,NuwaJingu,,1,BMH0,HFSTS0,2,Himiko,吾乃日出之国的女皇，汝等是何人……,,0,0
 30820203,30820204,,NuwaJingu,,1,LL_UR,HFSTS0,1,Storm Dragon,你身上有属于我的东西。,,0,0
 30820204,30820205,,NuwaJingu,,1,BMH0,HFSTS0,2,Himiko,Do you mean this Fine Jade?,,0,0
@@ -2160,9 +2188,9 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30840106,30840107,,NuwaJingu,,1,LH_UR,HFSTS0,2,Ember Dragon,"I will defeat you one day! And on that day, I will take everything from you!",,0,0
 30840107,30840108,,NuwaJingu,,1,LL_UR_PLUS,HFSTS0,1,Storm Dragon,I don't care what you say. Now I am the greatest dragon of all.,,0,0
 30840108,-1,,NuwaJingu,,1,LL_UR_PLUS,HFSTS0,1,Storm Dragon,I fear nothing!,,0,0
-30850101,30850102,,,,0,BLGZ2,HFSTS0,2,Princess Bari,"Master, you will be promoted to Rank 4 after defeating the King of Devils.",,0,0
-30850102,30850103,,,,0,USER_MAIN0,HL0,1,Me,But he looks so powerful...,,0,0
-30850103,-1,,,,0,BLGZ2,HFSTS0,2,Princess Bari,"Don't worry, my master. The King of Devils is absorbing the energy of the surrounding crystal. If you can destroy the Empowering Crystal, he will be weaker. The more crystal you destroy, the weaker he will be.",,0,0
+30850101,30850102,,,,0,BLGZ_CZ,HFSTS0,2,Princess Bari,"Master, you will be promoted to Rank 4 after defeating the King of Devils.",,0,0
+30850102,30850103,,,,0,USER_MAIN_CZ,HL0,1,Me,But he looks so powerful...,,0,0
+30850103,-1,,,,0,BLGZ_CZ,HFSTS0,2,Princess Bari,"Don't worry, my master. The King of Devils is absorbing the energy of the surrounding crystal. If you can destroy the Empowering Crystal, he will be weaker. The more crystal you destroy, the weaker he will be.",,0,0
 30900001,30900002,,NuwaJingu,,1,LH0,HFSTS0,1,Ember Dragon,"Pandora, come out. The most famous Dragon is here.",,0,0
 30900002,30900003,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,What?!? Not a dragon again!,,0,0
 30900003,30900004,,NuwaJingu,,1,LH0,HFSTS0,1,Ember Dragon,"Oh, give it a rest. We all know that you help everyone who comes here.",,0,0
@@ -2195,16 +2223,16 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 30900030,30900031,,NuwaJingu,,1,MDS2,HL0,2,Medusa,I've never heard of anyone having resistance to magic...,,0,0
 30900031,30900032,,NuwaJingu,,1,MDS2,HL0,2,Medusa,"If you don't mind, I'd like to follow you so I can try to understand how this works.",,0,0
 30900032,-1,,NuwaJingu,,1,LH0,HFSTS0,1,Ember Dragon,That's fine by me. I'm sure we'll have lots of fun together.,,0,0
-30900033,30900034,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,Wait!,,0,0
+30900033,30900034,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,Wait!,,0,0
 30900034,30900035,,NuwaJingu,,1,LH_UR,HFSTS0,1,Ember Dragon,A human? What do you want with me?,,0,0
-30900035,30900036,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,I finally found you. Prepare to face my trial for the disasters and wars you caused!,,0,0
+30900035,30900036,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,I finally found you. Prepare to face my trial for the disasters and wars you caused!,,0,0
 30900036,30900037,,NuwaJingu,,1,LH_UR,HFSTS0,1,Ember Dragon,"Don't go dragging my reputation through the mud. I may love to fight, but I have never done what you are accusing me of.",,0,0
-30900037,30900038,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,What about all the towns you burnt? Were those not disasters?!,,0,0
+30900037,30900038,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,What about all the towns you burnt? Were those not disasters?!,,0,0
 30900038,-1,,NuwaJingu,,1,LH_UR,HFSTS0,1,Ember Dragon,"Hah! That is simply me living by the law of nature - survival of the fittest. But if you think you are a warrior of justice, then let us see if your 'justice' can beat me in a fight.",,0,0
-30900039,30900040,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,What a great power you have...,,0,0
+30900039,30900040,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,What a great power you have...,,0,0
 30900040,30900041,,NuwaJingu,,1,LH_UR,HFSTS0,1,Ember Dragon,"I have no interest in the weak, puny human. Challenge me again when you actually have the strength to stop me.",,0,0
-30900041,30900042,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,You...!,,0,0
-30900042,30900043,,NuwaJingu,,1,LXF2,HL0,2,Jeanne d'Arc,I can't just let you walk away!,,0,0
+30900041,30900042,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,You...!,,0,0
+30900042,30900043,,NuwaJingu,,1,LXF_CZ,HL0,2,Jeanne d'Arc,I can't just let you walk away!,,0,0
 30900043,-1,,NuwaJingu,,1,LH_UR,HFSTS0,1,Ember Dragon,Haha! Then follow me if you wish. I don't care. You can be another witness to my great power... Perhaps you'll even learn something by watching me fight.,,0,0
 30900044,30900045,,NuwaJingu,,1,YD0,HL0,2,Idun,A dragon from Mount Doom? Why have you come here?,,0,0
 30900045,30900046,,NuwaJingu,,1,LH_UR,HFSTS0,1,Ember Dragon,"Don't you know, Idun? I've been eyeing your Golden Apples for a long time.",,0,0
@@ -2558,25 +2586,25 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 31200023,31200024,,NuwaJingu,,1,SQE0,HL0,1,Sim Cheong,"Instead of offense, I channel everything into protecting my companions. ... By the way, Ungnyeo, are you also from Korea?",,0,0
 31200024,31200025,,NuwaJingu,,1,XN2,HL0,2,Ungnyeo,"Yes! So that's why I recognized your name. We come from the same place! In that case, I'll help you out this time.",,0,0
 31200025,-1,,NuwaJingu,,1,SQE0,HL0,1,Sim Cheong,"Great, I'd love to have you on my team.",,0,0
-31200026,31200027,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,Aren't you Sim Cheong? What brings you to Pandora's realm?,,0,0
+31200026,31200027,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,Aren't you Sim Cheong? What brings you to Pandora's realm?,,0,0
 31200027,31200028,,NuwaJingu,,1,SQE0,HL0,1,Sim Cheong,Bari?! I didn’t expect to meet you here.,,0,0
-31200028,31200029,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"Hmm... I see what you're up to, Pandora. Are you making a business out of this? Trading your help for favors?",,0,0
+31200028,31200029,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"Hmm... I see what you're up to, Pandora. Are you making a business out of this? Trading your help for favors?",,0,0
 31200029,31200030,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Hehe… You really know me well. Are you interested in helping out?,,0,0
-31200030,31200031,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"Alright, but only for Sim Cheong's sake.",,0,0
+31200030,31200031,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"Alright, but only for Sim Cheong's sake.",,0,0
 31200031,31200032,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Really?! But don't you always demand a test of strength before agreeing to help?,,0,0
-31200032,31200033,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"A fight is a given. But I'll help out either way, since she is a dear friend.",,0,0
-31200033,-1,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,As for you Pandora... let's just say you owe me one.,,0,0
-31200034,31200035,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"You may have beaten me, but even together, we won't stand a chance against the powerful gods we'll encounter here. Our party needs more strength.",,0,0
+31200032,31200033,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"A fight is a given. But I'll help out either way, since she is a dear friend.",,0,0
+31200033,-1,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,As for you Pandora... let's just say you owe me one.,,0,0
+31200034,31200035,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"You may have beaten me, but even together, we won't stand a chance against the powerful gods we'll encounter here. Our party needs more strength.",,0,0
 31200035,31200036,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,That’s exactly what I’m worried about. The road ahead won't be easy.,,0,0
 31200036,31200037,,NuwaJingu,,1,SQE0,HL0,1,Sim Cheong,"I believe that as long as we stick together, we can overcome any trouble.",,0,0
-31200037,31200038,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"You are right, my dear. But we should still take steps to prepare.",,0,0
-31200038,31200039,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"Fortunately, I have a plan. And it involves a formidable dragon.",,0,0
+31200037,31200038,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"You are right, my dear. But we should still take steps to prepare.",,0,0
+31200038,31200039,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"Fortunately, I have a plan. And it involves a formidable dragon.",,0,0
 31200039,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"You mean… Storm Dragon? Our journey would be much easier with her on our team. That is, if you can actually convince her to help.",,0,0
-31200040,31200041,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"There she is. Let me go talk to her. We used to know each other back when she lived in Asia, before she moved to the Norse realm.",,0,0
+31200040,31200041,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"There she is. Let me go talk to her. We used to know each other back when she lived in Asia, before she moved to the Norse realm.",,0,0
 31200041,31200042,,NuwaJingu,,1,LL_UR,HL0,2,Storm Dragon,"Bari, long time no see… Who is this young lady?",,0,0
-31200042,31200043,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"This is Sim Cheong, the rising star of the Eastern gods. Her people are in trouble, and I plan to take her to the Kunlun Dreamland to seek Xiwangmu’s help.",,0,0
+31200042,31200043,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"This is Sim Cheong, the rising star of the Eastern gods. Her people are in trouble, and I plan to take her to the Kunlun Dreamland to seek Xiwangmu’s help.",,0,0
 31200043,31200044,,NuwaJingu,,1,LL_UR,HL0,2,Storm Dragon,I see. So you want me to join you in escorting her?,,0,0
-31200044,31200045,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,We would appreciate that.,,0,0
+31200044,31200045,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,We would appreciate that.,,0,0
 31200045,31200046,,NuwaJingu,,1,LL_UR,HL0,2,Storm Dragon,"I can help you, but first… Sim Cheong, I need to test you.",,0,0
 31200046,31200047,,NuwaJingu,,1,SQE_UR,HL0,1,Sim Cheong,What do you want me to do?,,0,0
 31200047,31200048,,NuwaJingu,,1,LL_UR,HL0,2,Storm Dragon,I want to see if you have enough determination to weather my storm.,,0,0
@@ -2586,12 +2614,12 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 31200051,-1,,NuwaJingu,,1,SQE_UR,HL0,1,Sim Cheong,Thank you very much.,,0,0
 31200052,31200053,,NuwaJingu,,1,HSZR2,HFSTS0,2,Zhu Rong,It seems that Xiwangmu was right. You are indeed here.,,0,0
 31200053,31200054,,NuwaJingu,,1,SQE_UR,HL0,1,Sim Cheong,You are…?,,0,0
-31200054,31200055,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,She is the fire goddess Zhu Rong. I’m not surprised to see her in the Kunlun Dreamland.,,0,0
+31200054,31200055,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,She is the fire goddess Zhu Rong. I’m not surprised to see her in the Kunlun Dreamland.,,0,0
 31200055,31200056,,NuwaJingu,,1,HSZR2,HFSTS0,2,Zhu Rong,"Xiwangmu has an elixir that can cure all diseases, but she does not give it to just anyone.",,0,0
-31200056,31200057,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,How selfish! Are you here to stop us?,,0,0
+31200056,31200057,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,How selfish! Are you here to stop us?,,0,0
 31200057,31200058,,NuwaJingu,,1,HSZR2,HFSTS0,2,Zhu Rong,"On the contrary, I’m a kind-hearted person. First you must pass my test, to prove that your journey won't be a waste of time.",,0,0
 31200058,31200059,,NuwaJingu,,1,HSZR2,HFSTS0,2,Zhu Rong,"And if you do beat me, I will lend you my aid.",,0,0
-31200059,31200060,,NuwaJingu,,1,BLGZ2,HFSTS0,2,Princess Bari,"Dear, what do you think?",,0,0
+31200059,31200060,,NuwaJingu,,1,BLGZ_CZ,HFSTS0,2,Princess Bari,"Dear, what do you think?",,0,0
 31200060,31200061,,NuwaJingu,,1,SQE_UR,HL0,1,Sim Cheong,"I will save my people, no matter what difficulties I must face.",,0,0
 31200061,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Then let's do this. Your people can't wait forever.,,0,0
 31200062,31200063,,NuwaJingu,,1,HSZR2,HFSTS0,2,Zhu Rong,"Enough, enough. I think we can stop right here.",,0,0
@@ -4652,19 +4680,19 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34600087,34600088,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,I only hope you can stay a few more days so I can truly savor this extraordinary composition.,,0,0
 34600088,-1,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I am delighted to share this moment with you, Hades.",,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
-40001,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
+40001,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0
-40003,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,Not a chance! I'll beat you and kick you back to your filthy world!,,0,0
+40003,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Not a chance! I'll beat you and kick you back to your filthy world!,,0,0
 40004,40005,,{translucent},,1,,,2,,"The Void will eventually consume all of you, along with this pathetic world. It's pointless to resist.",,0,0
-40005,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,"Maybe you are right, the void will eventually come. But I won't let it happen today...",,0,0
+40005,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Maybe you are right, the void will eventually come. But I won't let it happen today...",,0,0
 40006,40007,,{translucent},,1,,,2,,Who are you!?,,0,0
-40007,40008,,{translucent},,1,USER_MAIN0,HL0,1,Me,It doesn't matter who I am. What matters is that you're going down!,,0,0
+40007,40008,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,It doesn't matter who I am. What matters is that you're going down!,,0,0
 40008,-1,,{translucent},,1,,,2,,"You think you can stop me, huh? You talk big for a little girl.",,0,0
 40009,40010,,{translucent},,1,,,2,,Who dares to stop me?,,0,0
-40010,40011,,{translucent},,1,USER_MAIN0,HL0,1,Me,I'm the guardian of this world. You will not get what you want under my watch!,,0,0
+40010,40011,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,I'm the guardian of this world. You will not get what you want under my watch!,,0,0
 40011,-1,,{translucent},,1,,,2,,Arrogant little thing. I'll show you what real strength looks like.,,0,0
 40012,40013,,{translucent},,1,,,2,,"No, the Void never fails. Who are you?",,0,0
-40013,40014,,{translucent},,1,USER_MAIN0,HL0,1,Me,I'm the bane of all monsters!,,0,0
+40013,40014,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,I'm the bane of all monsters!,,0,0
 40014,-1,,{translucent},,1,,,2,,"The void will devour you, and everything else!",,0,0
 40015,-1,,{translucent},,1,,,2,,"I'll spare you this time. If I see you again, you will be doomed!",,0,0
 40016,-1,,{translucent},,1,,,2,,"Don't get too arrogant, someone else will come and put you in your place.",,0,0
@@ -4672,27 +4700,27 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 40018,-1,,{translucent},,1,,,2,,What a bunch of losers!,,0,0
 40019,-1,,{translucent},,1,,,2,,"You can't stop me, just like you can't stop the void.",,0,0
 40020,-1,,{translucent},,1,,,2,,"The void has dissipated, but eventually it will gather again.",,0,0
-31000130,31000131,,{translucent},,1,USER_MAIN0,HL0,1,Me,What's this? A hidden tunnel? I sense lots of treasure. It calls to me from beyond the entrance.,,0,0
+31000130,31000131,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,What's this? A hidden tunnel? I sense lots of treasure. It calls to me from beyond the entrance.,,0,0
 31000131,31000132,,{translucent},,1,SN_BRM,HL0,2,Yvette,"Amazing! This tunnel must connect to a secret realm, maybe a long lost kingdom of the gods.",,0,0
-31000132,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,I am so excited! Let's go and see what we can find there!,,0,0
-31000133,31000134,,{translucent},,1,USER_MAIN0,HL0,1,Me,"I'm exhausted. I didn't expect this place to be so big. But look, I found these!",,0,0
+31000132,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,I am so excited! Let's go and see what we can find there!,,0,0
+31000133,31000134,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"I'm exhausted. I didn't expect this place to be so big. But look, I found these!",,0,0
 31000134,-1,,{translucent},,1,SN_BRM,HL0,2,Yvette,Wow! These seem to be miracle cards once used by the gods to record the past. Let's take them to Gods' Relics and see if we can repair them.,,0,0
 31000135,-1,,{translucent},,1,SN_BRM,HL0,2,Yvette,We need to collect more pieces to unleash the full power held within these miracle cards.,,0,0
-31000136,-1,,{translucent},,1,USER_MAIN0,HL0,1,Me,Incredible! I wasn't expecting these miracle cards to emit so much power once repaired. I can't wait to collect more of them!,,0,0
-31000138,-1,,{translucent},,1,BLGZ2,HL0,1,Princess Bari,快看，穹顶的群星在闪耀，命运的力量也同时出现，为何群星会汇聚到此？										,,0,0
-31000139,-1,,{translucent},,1,BLGZ2,HL0,1,Princess Bari,星空和命运的力量凝聚在了一起，好像赋予了天使们全新的力量。										,,0,0
-31000140,-1,,{translucent},,1,BLGZ2,HL0,1,Princess Bari,作为命星的主体，每位天使都觉醒了全新的力量，需要使用星之沙来激活新的能力。										,,0,0
-31000141,-1,,{translucent},,1,BLGZ2,HL0,1,Princess Bari,群星闪耀的力量更加耀眼，当多个女神聚集在一起时，会互相激发各自的力量，获得更加强大群星技能。										,,0,0
-32000001,32000002,,{translucent},,1,USER_MAIN0,HL0,1,Me,巴里，你发现了吗？这里出现了一个奇怪的入口，我们去看看怎么样？												,,0,0
-32000002,32000003,,{translucent},,1,BLGZ2,HL0,2,Princess Bari,小心一点，这个好像是一个时间裂缝，我感觉不太对劲，好像有什么不好的事情要发生了。												,,0,0
-32000003,32000004,,{translucent},,1,USER_MAIN0,HL0,1,Me,放心，有我在这什么都不用怕，但是在这个裂缝外面好像看不出什么问题，要不我们进去看看吧？												,,0,0
-32000004,-1,,{translucent},,1,BLGZ2,HL0,2,Princess Bari,哎，等等我，你怎么还是这么冒冒失失的！												,,0,0
-32000011,32000012,,{translucent},,1,USER_MAIN0,HL0,1,Me,巴里，火，到处都是火，整个世界都被燃烧起来了。												,,0,0
-32000012,32000013,,{translucent},,1,BLGZ2,HL0,2,Princess Bari,小心，穿过裂缝的时候我感觉到了时间女神的力量在被削弱了。												,,0,0
-32000013,32000014,,{translucent},,1,USER_MAIN0,HL0,1,Me,这里就是我们的世界，而且这个地方也很熟悉……好像是我们第一次相遇的地方？												,,0,0
-32000014,-1,,{translucent},,1,BLGZ2,HL0,2,Princess Bari,我们小心一点，查探一下到底发生了什么。												,,0,0
-32000031,32000032,,{translucent},,1,USER_MAIN0,HL0,1,Me,啊，巴里，我记得它，第一次战斗的时候打败的就是它。												,,0,0
-32000032,32000033,,{translucent},,1,USER_MAIN0,HL0,1,Me,看，还有那边，那些曾经战斗过的怪物又再次出现了。												,,0,0
-32000033,32000034,,{translucent},,1,BLGZ2,HL0,2,Princess Bari,看来时间女神的力量出现了错乱，导致那些被消灭的怪物再次出现，并且变得更加危险了。												,,0,0
-32000034,32000035,,{translucent},,1,USER_MAIN0,HL0,1,Me,完全不在怕的，能消灭它第一次，就能消灭它一万次。												,,0,0
-32000035,-1,,{translucent},,1,BLGZ2,HL0,2,Princess Bari,好，既然如此那就拿起武器继续战斗吧！												,,0,0
+31000136,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Incredible! I wasn't expecting these miracle cards to emit so much power once repaired. I can't wait to collect more of them!,,0,0
+31000138,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,快看，穹顶的群星在闪耀，命运的力量也同时出现，为何群星会汇聚到此？		,,0,0
+31000139,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,星空和命运的力量凝聚在了一起，好像赋予了天使们全新的力量。		,,0,0
+31000140,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,作为命星的主体，每位天使都觉醒了全新的力量，需要使用星之沙来激活新的能力。		,,0,0
+31000141,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,群星闪耀的力量更加耀眼，当多个女神聚集在一起时，会互相激发各自的力量，获得更加强大群星技能。		,,0,0
+32000001,32000002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Bari, do you see that? There’s a weird portal over there. Should we check it out?",,0,0
+32000002,32000003,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Be careful. It looks like another time rift. I have a bad feeling about this. Something terrible might happen.,,0,0
+32000003,32000004,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Don’t worry. I’m here with you. Nothing can hurt us. But I don’t see anything wrong outside the rift. Maybe we should go in and see for ourselves?,,0,0
+32000004,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"Hey, slow down! Why are you always so impulsive?",,0,0
+32000011,32000012,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Bari, fire! There’s fire everywhere! The world is on fire!",,0,0
+32000012,32000013,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Watch out! I felt some mysterious source weaken the goddess of time's power when we crossed the rift.,,0,0
+32000013,32000014,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"This is our world. And that place… It’s where we first met, right?",,0,0
+32000014,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Let’s be cautious and figure out what’s going on.,,0,0
+32000031,32000032,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Oh no, Bari! I recognize that thing! We beat it in our first fight!",,0,0
+32000032,32000033,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,And look over there! Those old enemies are back!,,0,0
+32000033,32000034,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Something’s wrong with the order of time. It brought back those monsters we killed and made them stronger.,,0,0
+32000034,32000035,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"But I’m not scared. If we can beat them once, we can beat them again and again.",,0,0
+32000035,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Alright then. Let’s grab our weapons and keep fighting!,,0,0

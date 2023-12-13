@@ -1,361 +1,361 @@
 guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,text_content,highlight_obj,location_obj,highlight_obj_size,dont_copy_obj,ignore_original_action,fullscreen
-1001,0,1,0,0.2,0|0,←,309|120,"Different types of <color=#FA931AFF>Summon</color> can be made here, try it now ~",Scene_Lobby_Button_Summon,,,0,0,0
-1002,0,1,0,0.2,0|0,↑,50|-370,Tap to Summon,SceneUIRoot|SummonNewUIScene(Clone)|ItemSummonUITpl_1|Button_summon_one,,,0,1,0
-1003,0,0,0,0.2,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,0,0
-2000,0,1,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-2001,0,1,0,0.2,0|0,↓,200|333,Tap here to edit Angels' <color=#FA931AFF>Line-up</color>,Scene_Lobby_Button_HeroArray,,,0,0,0
-2002,0,1,0,0.2,0|0,↑,191|-355,Tap here to set the Angel to <color=#6DCFF6FF>[Fighting]</color>,Scene_HeroArray_HeroInfo_2030_Name,,110|110,0,0,0
-2003,0,1,0,0.2,0|0,→,,,Scene_HeroArray_Button_Close,,,0,1,0
-3001,0,1,0,0.2,0|0,↓,-15|333,Open the treasure box and get the battle rewards,Scene_Dungeon_Reward,,,0,0,0
-3002,0,1,0,0.2,0|0,↑,,Claim,Popup_OffLineAward_Get,,,0,0,0
-5001,0,1,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-5003,0,1,0,0.2,0|0,↓,-15|333,"After defeating the boss, you can enter the next battlefield.",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
-5004,0,1,0,0.2,0|0,→,,Tap to challenge the Boss,Popup_Map_BossFight,,,0,0,0
-6001,0,1,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-7001,0,1,0,0.4,0|0,←,309|120,"Different types of <color=#FA931AFF>Summon</color> can be made here, try it now ~",Scene_Lobby_Button_Summon,,,0,0,0
-7002,0,1,0,0.3,0|0,↑,-179|-370,Tap to Summon,Scene_Summon_Button_HighGrade_1,,,0,1,0
-7003,0,0,0,0.2,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,1,0
-8001,0,1,0,0.2,0|0,↓,200|333,Tap here to edit Angels' <color=#FA931AFF>Line-up</color>,Scene_Lobby_Button_HeroArray,,,0,0,0
-8002,0,1,0,0.5,0|0,↑,191|-355,Tap here to set the Angel to <color=#6DCFF6FF>[Fighting]</color>,Scene_HeroArray_HeroInfo_2022_Name,,110|110,0,0,0
-8003,0,1,0,0.2,0|0,→,,,Scene_HeroArray_Button_Close,,,0,1,0
-9001,0,1,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-10001,0,1,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-10003,0,1,0,0.2,0|0,↓,-15|333,"After defeating the boss, you can enter the next battlefield.",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
-10005,0,1,0,0.2,0|0,→,,Tap to challenge the Boss,Popup_Map_BossFight,,,0,1,0
-10006,0,1,0,0.2,0|0,→,-123|-239,Can't beat the monsters? Try to <color=#FA931AFF>change gears</color> to get stronger!,Popup_DungeonBossFightResult_Armor,,,0,0,0
-11001,0,1,0,0.2,0|0,↓,133|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-11002,0,1,0,0.2,0|0,→,-307|160,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
-11003,0,0,0,0.2,0|0,↓,-100|350,Tap to enter the new unlocked dungeon,3D_DungeonNode_2_Name,,100|100,1,1,0
-11004,0,1,0,0.3,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
-12001,0,1,0,0.4,0|0,←,309|120,Tap here to <color=#FA931AFF>Summon</color>,Scene_Lobby_Button_Summon,,,0,0,0
-12002,0,1,0,0.2,0|0,↑,-180|-370,Tap to Summon,SceneUIRoot|SummonNewUIScene(Clone)|ItemSummonUITpl_1|Button_summon_ten,,,0,1,0
-12003,0,0,0,0.2,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,0,0
-13001,0,1,0,0.2,0|0,↓,,,Scene_Lobby_MainMenu_Hero,,,0,0,0
-13002,0,1,0,0.2,0|0,↑,-120|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-13003,0,1,0,0.2,0|0,↓,20|379,Tap here to <color=#FA931AFF>Awake</color> Angels,SceneUIRoot|HeroUIScene(Clone)|GameObject_hero_info|ToggleGroupTabs|Toggle_tab_skill,,,0,0,0
-13004,0,1,0,0.5,0|0,↓,0|333,Click <color=#FA931AFF>[Awaken]</color> button,SceneUIRoot|HeroUIScene(Clone)|GameObject_hero_info|PanelSkillUITpl|Button_awake,,,0,0,0
-13005,0,1,0,0.2,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_skill,,,0,0,0
-14001,0,1,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-15001,0,1,0,0.2,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
-15002,0,1,0,0.2,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-15003,0,1,0,0.2,0|0,↓,-15|333,Angel Level up is an important way to strengthen power. Give it a try!,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_level_up,,,0,0,0
-15004,0,1,0,0.2,0|0,↓,-15|333,Level up one more time!,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_level_up,,,0,0,0
-15005,0,1,0,0.2,0|0,↓,-15|333,Angels have been greatly strengthened! Let's go back to the Battle!,Scene_Lobby_MainMenu_Battle,,,0,0,0
-101001,1,0,0,0.4,0|0,←,216|161,There are some unnecessary gear. It is recommended to carry out gear <color=#FA931AFF>smelting</color>.,Scene_Lobby_Button_ArmorMake,,,0,0,0
-101002,0,1,0,0.2,0|0,→,,,Scene_ArmorMake_Button_Fusion,,,0,0,0
-101003,0,1,0,0.2,0|0,↑,50|-200,TODO,,,,0,0,0
-102000,1,0,0,0.2,0|0,↓,133|333,New <color=#FA931AFF>Skill</color> Unlocked,Scene_Lobby_MainMenu_Hero,,,0,0,0
-102001,0,1,0,0.2,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-102002,0,1,0,0.2,0|0,↓,133|333,Tap to view the skills,Scene_Hero_Tab_Skill,,,0,0,0
-102003,0,1,0,0.2,0|0,↓,133|333,Tap here to set the skills,Scene_Hero_Skill_1,,,0,0,0
-102004,0,1,0,0.2,0|0,→,-216|-203,Tap here to set the skills for the dungeon,Popup_Skill_Toggle_Dungeon,,,0,0,0
-102006,0,1,0,0.2,0|0,↓,160|340,Tap to select skill,Scene_Hero_Skill_1,,,0,0,0
-103001,1,0,0,0.2,0|0,↓,-120|370,<color=#FA931AFF>Guild</color> is unlocked,Scene_Lobby_MainMenu_Guild,,,0,0,0
-104001,1,0,0,0.2,0|0,↓,133|333,Complete <color=#FA931AFF>Training</color> will greatly improve your Angel Power,Scene_Lobby_MainMenu_Hero,,,0,0,0
-104002,0,1,0,0.2,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-104003,0,1,0,0.2,0|0,↓,-60|370,Tap to start <color=#FA931AFF>Training</color>,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_train,,,0,0,0
-104004,0,1,0,0.5,0|0,→,,Tap for {0} <color=#FA931AFF>standard Training</color> (For free this time),SceneUIRoot|HeroUIScene(Clone)|PanelTrainUITpl|Button_train,,,0,0,0
-104005,0,1,0,0.2,0|0,→,,Save developed attribute,SceneUIRoot|HeroUIScene(Clone)|PanelTrainUITpl|Button_save,,,0,0,0
-105001,1,0,0,0.3,0|0,→,-277|167,<color=#FA931AFF>Arena</color> is open,SceneUIRoot|LobbyUIScene(Clone)|Button_main_pk,,,0,0,0
-105002,0,0,0,0.5,0|0,↓,0|350,Tap to enter <color=#FA931AFF>Arena</color>,SceneUIRoot|PvpEntranceUIScene(Clone)|Scene_PvpEntrance_Item_2_Name|Button_enter,,,0,0,0
+1001,0,1,0,0.4,0|0,←,309|120,"Different types of <color=#C62416>Summon</color> can be made here, try it now ~",Scene_Lobby_Button_Summon,,,0,0,0
+1002,0,1,0,0.4,0|0,↑,95|-370,Tap to Summon,SceneUIRoot|SummonNewUIScene(Clone)|ItemSummonUITpl_1|Button_summon_one,,,0,1,0
+1003,0,0,0,0.4,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,0,0
+2000,0,1,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+2001,0,1,0,0.4,0|0,↓,200|333,Tap here to edit Angels' <color=#C62416>Line-up</color>,Scene_Lobby_Button_HeroArray,,,0,0,0
+2002,0,1,0,1.0,0|0,↑,191|-355,Tap here to set the Angel to <color=#C62416>[Fighting]</color>,Scene_HeroArray_HeroInfo_2030_Name,,110|110,0,0,0
+2003,0,1,0,0.4,0|0,→,,,HeroArrayUIScene(Clone)|Top|Button_return,,,0,1,0
+3001,0,1,0,0.4,0|0,↓,-15|333,Open the treasure box and get the battle rewards,Scene_Dungeon_Reward,,,0,0,0
+3002,0,1,0,0.8,0|0,↑,,Claim,DungeonOfflineRewardUIDialog(Clone)|Bottom|Button_get,,,0,0,0
+5001,0,1,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+5003,0,1,0,0.4,0|0,↓,-15|333,"After defeating the boss, you can enter the next battlefield.",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
+5004,0,1,0,0.4,0|0,→,,Tap to challenge the Boss,Popup_Map_BossFight,,,0,0,0
+6001,0,1,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+7001,0,1,0,0.4,0|0,←,309|120,"Different types of <color=#C62416>Summon</color> can be made here, try it now ~",Scene_Lobby_Button_Summon,,,0,0,0
+7002,0,1,0,0.5,0|0,↑,-179|-370,Tap to Summon,Scene_Summon_Button_HighGrade_1,,,0,1,0
+7003,0,0,0,0.4,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,1,0
+8001,0,1,0,0.4,0|0,↓,200|333,Tap here to edit Angels' <color=#C62416>Line-up</color>,Scene_Lobby_Button_HeroArray,,,0,0,0
+8002,0,1,0,0.5,0|0,↑,191|-355,Tap here to set the Angel to <color=#C62416>[Fighting]</color>,Scene_HeroArray_HeroInfo_2022_Name,,110|110,0,0,0
+8003,0,1,0,0.4,0|0,→,,,HeroArrayUIScene(Clone)|Top|Button_return,,,0,1,0
+9001,0,1,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+10001,0,1,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+10003,0,1,0,0.4,0|0,↓,-15|333,"After defeating the boss, you can enter the next battlefield.",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
+10005,0,1,0,0.4,0|0,→,,Tap to challenge the Boss,Popup_Map_BossFight,,,0,1,0
+10006,0,1,0,0.4,0|0,→,-123|-239,Can't beat the monsters? Try to <color=#C62416>change gears</color> to get stronger!,Popup_DungeonBossFightResult_Armor,,,0,0,0
+11001,0,1,0,0.4,0|0,↓,133|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+11002,0,1,0,0.4,0|0,→,-307|160,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
+11003,0,0,0,0.4,0|0,↓,-100|350,Tap to enter the new unlocked dungeon,3D_DungeonNode_2_Name,,100|100,1,1,0
+11004,0,1,0,0.5,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
+12001,0,1,0,0.4,0|0,←,309|120,Tap here to <color=#C62416>Summon</color>,Scene_Lobby_Button_Summon,,,0,0,0
+12002,0,1,0,0.4,0|0,↑,-180|-370,Tap to Summon,SceneUIRoot|SummonNewUIScene(Clone)|ItemSummonUITpl_1|Button_summon_ten,,,0,1,0
+12003,0,0,0,0.4,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,0,0
+13001,0,1,0,0.4,0|0,↓,,,Scene_Lobby_MainMenu_Hero,,,0,0,0
+13002,0,1,0,0.4,0|0,↑,-120|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+13003,0,1,0,0.4,0|0,↓,20|379,Tap here to <color=#C62416>Awake</color> Angels,SceneUIRoot|HeroUIScene(Clone)|GameObject_hero_info|ToggleGroupTabs|Toggle_tab_skill,,,0,0,0
+13004,0,1,0,0.5,0|0,↓,0|333,Click <color=#C62416>[Awaken]</color> button,SceneUIRoot|HeroUIScene(Clone)|GameObject_hero_info|PanelSkillUITpl|Button_awake,,,0,0,0
+13005,0,1,0,0.4,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_skill,,,0,0,0
+14001,0,1,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+15001,0,1,0,0.4,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
+15002,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+15003,0,1,0,0.4,0|0,↓,-15|333,Angel Level up is an important way to strengthen power. Give it a try!,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_level_up,,,0,0,0
+15004,0,1,0,0.4,0|0,↓,-15|333,Level up one more time!,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_level_up,,,0,0,0
+15005,0,1,0,0.4,0|0,↓,-15|333,Angels have been greatly strengthened! Let's go back to the Battle!,Scene_Lobby_MainMenu_Battle,,,0,0,0
+101001,1,0,0,0.4,0|0,←,216|161,There are some unnecessary gear. It is recommended to carry out gear <color=#C62416>smelting</color>.,Scene_Lobby_Button_ArmorMake,,,0,0,0
+101002,0,1,0,0.4,0|0,→,,,Scene_ArmorMake_Button_Fusion,,,0,0,0
+101003,0,1,0,0.4,0|0,↑,50|-200,TODO,,,,0,0,0
+102000,1,0,0,0.4,0|0,↓,133|333,New <color=#C62416>Skill</color> Unlocked,Scene_Lobby_MainMenu_Hero,,,0,0,0
+102001,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+102002,0,1,0,0.4,0|0,↓,133|333,Tap to view the skills,Scene_Hero_Tab_Skill,,,0,0,0
+102003,0,1,0,0.4,0|0,↓,133|333,Tap here to set the skills,Scene_Hero_Skill_1,,,0,0,0
+102004,0,1,0,0.4,0|0,→,-216|-203,Tap here to set the skills for the dungeon,Popup_Skill_Toggle_Dungeon,,,0,0,0
+102006,0,1,0,0.4,0|0,↓,160|340,Tap to select skill,Scene_Hero_Skill_1,,,0,0,0
+103001,1,0,0,0.4,0|0,↓,-120|370,<color=#C62416>Guild</color> is unlocked,Scene_Lobby_MainMenu_Guild,,,0,0,0
+104001,1,0,0,0.4,0|0,↓,133|333,Complete <color=#C62416>Training</color> will greatly improve your Angel Power,Scene_Lobby_MainMenu_Hero,,,0,0,0
+104002,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+104003,0,1,0,0.4,0|0,↓,-60|370,Tap to start <color=#C62416>Training</color>,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_train,,,0,0,0
+104004,0,1,0,0.5,0|0,→,,Tap for {0} <color=#C62416>standard Training</color> (For free this time),SceneUIRoot|HeroUIScene(Clone)|PanelTrainUITpl|Button_train,,,0,0,0
+104005,0,1,0,0.4,0|0,→,,Save developed attribute,SceneUIRoot|HeroUIScene(Clone)|PanelTrainUITpl|Button_save,,,0,0,0
+105001,1,0,0,0.8,0|0,→,-277|167,<color=#C62416>Arena</color> is open,SceneUIRoot|LobbyUIScene(Clone)|Button_main_pk,,,0,0,0
+105002,0,0,0,0.5,0|0,↓,0|350,Tap to enter <color=#C62416>Arena</color>,SceneUIRoot|PvpEntranceUIScene(Clone)|Scene_PvpEntrance_Item_2_Name|Button_enter,,,0,0,0
 105003,0,1,0,0.8,0|0,→,,Tap to challenge,Scene_ArenaChallengeItem_Button_Operatiopn,,160|52,0,0,0
-106001,1,0,0,0.4,0|0,←,216|161,Craft an <color=#FA931AFF>Artifact</color> now,Scene_Lobby_Button_ArmorMake,,,0,0,0
-106002,0,1,0,0.2,0|0,→,100|385,Tap here to craft <color=#FA931AFF>Artifact</color>,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_make,,,0,0,0
-106003,0,1,0,0.3,0|0,↑,-185|-360,Select the <color=#FA931AFF>Artifact</color> to be crafted,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelArmorMakeUITpl|Toggle_special,,260|85,0,0,0
-106004,0,1,0,0.2,0|0,→,0|170,Tap to craft,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelArmorMakeUITpl|Button_make,,,0,0,0
-107001,1,0,0,0.5,0|0,→,-277|167,<color=#FA931AFF>Adventure</color> is open,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
-107002,0,1,0,0.5,0|0,↑,0|-350,Begin <color=#FA931AFF>Adventure</color>,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemRiskUITpl,,720|256,0,0,0
-107003,0,1,0,0.2,,↑,-69|0,Daily <color=#FA931AFF>adventure</color> will refresh every day. Higher adventure stars means better reward.,Scene_Adventure_Item,,,1,1,1
-107004,0,1,0,0.2,0|0,↓,-65|348,Select the highest star <color=#FA931AFF>adventure</color> to get the best reward.,Scene_Adventure_Item,,,0,0,0
-107005,0,1,0,0.2,0|0,↑,-150|-350,Select idle Angels to <color=#FA931AFF>adventure</color>.,Popup_Adventure_Hero_Select,,,0,1,0
-107006,0,1,0,0.2,0|0,↓,-65|348,"<color=#FA931AFF>Adventure</color> has begun, tap to see details.",Scene_Adventure_Item,,,0,0,0
-107007,0,1,0,0.2,0|0,↓,-150|360,"<color=#FA931AFF>Adventure</color> needs some time to finish, you can use <color=#6DCFF6FF>accelerate</color> to finish it right now!",Popup_AdventureEncounter_Button_Speed,,,0,1,0
-107008,0,1,0,0.2,0|0,↓,-55|345,"<color=#FA931AFF>Adventure</color> finished, tap here to get the rewards.",Scene_Adventure_Item,,,0,1,0
-107009,0,1,0,0.2,0|0,↓,133|333,Tap here to <color=#FA931AFF>promote</color> your angels,Scene_Lobby_MainMenu_Hero,,,0,0,0
-107010,0,1,0,0.2,0|0,↑,150|-366,Select the angel you want to <color=#FA931AFF>promote</color>,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-107011,0,1,0,0.2,0|0,↓,-189|379,Enter <color=#FA931AFF>promotion</color>,Scene_Hero_Tab_Raising,,,0,0,0
-107012,0,1,0,0.4,0|0,↓,-124|343,"Tap here to <color=#FA931AFF>send gift</color> to Angels to increase <color=#6DCFF6FF>Angel affinity</color>, Angels will be <color=#FA931AFF>promoted</color> when affinity reaches certain point.",Scene_Hero_Button_Gift,,,0,0,0
-108000,1,0,0,0.2,0|0,↓,-15|333,"Reach over 80% Win Rate to challenge the Boss,and go to next Dungeon",Scene_Lobby_MainMenu_Battle,,,0,0,0
-108001,1,0,0,0.2,0|0,→,-307|149,"Reach over 80% Win Rate to challenge the Boss,and go to next Dungeon",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
-109001,1,0,0,0.2,0|0,←,317|113,Enter the store to buy various items,Scene_Lobby_Button_Shop,,,0,0,0
-110000,1,0,0,0.4,0|0,→,-415|-70,"An Angel can be Synthesized, tap the bag to enter Shard Synthesis Screen",SceneUIRoot||UserCommonInfoTopPlusUITpl(Clone)|Button_right_down,,,0,0,0
-110001,1,0,0,0.4,0|0,→,-415|-70,"An Angel can be Synthesized, tap the bag to enter Shard Synthesis Screen",SceneUIRoot||UserCommonInfoTopPlusUITpl(Clone)|Button_bag,,,0,0,0
-110002,0,1,0,0.2,0|0,↓,-124|336,Tap to open Shard Bag,PopupManager|BagUIDialog(Clone)|Toggle_tab_chip,,,0,0,0
-110003,0,1,0,0.2,0|0,↑,180|-350,Select the Angel Shards,Scene_Bag_Thing_2017_Name,,,0,0,0
-110004,0,1,0,0.2,0|0,↓,,Tap the Summon button,PopupManager|BagPatchDetailUIDialog(Clone)|Button_call,,,0,0,0
-110005,0,0,0,0.3,0|0,↓,0|333,"All shards have been collected, tap to <color=#FA931AFF>Compose Angel</color>",SceneUIRoot|FragmentSummonUIScene(Clone)|Button_compose,,,0,0,0
-111001,1,0,0,0.2,0|0,↓,133|333,"Quick-combat to get a lot of gears, let's put them on~",Scene_Lobby_MainMenu_Hero,,,0,0,0
-112001,1,0,0,0.4,0|0,←,216|161,<color=#FA931AFF>Craft</color> is available now,Scene_Lobby_Button_ArmorMake,,,0,0,0
-112002,0,1,0,0.2,0|0,→,100|385,Tap here to <color=#FA931AFF>craft</color> gear,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_make,,,0,0,0
-112004,0,1,0,0.2,0|0,→,0|170,Tap to <color=#FA931AFF>craft</color> gear,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelArmorMakeUITpl|Button_make,,,0,0,0
+106001,1,0,0,0.6,0|0,←,216|161,Craft an <color=#C62416>Artifact</color> now,Scene_Lobby_Button_ArmorMake,,,0,0,0
+106002,0,1,0,0.4,0|0,→,100|385,Tap here to craft <color=#C62416>Artifact</color>,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_make,,,0,0,0
+106003,0,1,0,0.5,0|0,↑,-185|-360,Select the <color=#C62416>Artifact</color> to be crafted,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelArmorMakeUITpl|Toggle_special,,260|85,0,0,0
+106004,0,1,0,0.4,0|0,→,0|170,Tap to craft,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelArmorMakeUITpl|Button_make,,,0,0,0
+107001,1,0,0,0.5,0|0,→,-277|167,<color=#C62416>Adventure</color> is open,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
+107002,0,1,0,0.5,0|0,↑,0|-350,Begin <color=#C62416>Adventure</color>,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemRiskUITpl,,720|256,0,0,0
+107003,0,1,0,0.4,,↑,160|17,Daily <color=#C62416>adventure</color> will refresh every day. Higher adventure stars means better reward.,Scene_Adventure_Item,,,1,1,1
+107004,0,1,0,0.4,0|0,↓,79|348,Select the highest star <color=#C62416>adventure</color> to get the best reward.,Scene_Adventure_Item,,,0,0,0
+107005,0,1,0,0.4,0|0,↑,-150|-350,Select idle Angels to <color=#C62416>adventure</color>.,Popup_Adventure_Hero_Select,,,0,1,0
+107006,0,1,0,0.4,0|0,↓,89|348,"<color=#C62416>Adventure</color> has begun, tap to see details.",Scene_Adventure_Item,,,0,0,0
+107007,0,1,0,0.4,0|0,↓,-150|360,"<color=#C62416>Adventure</color> needs some time to finish, you can use <color=#6DCFF6FF>accelerate</color> to finish it right now!",Popup_AdventureEncounter_Button_Speed,,,0,1,0
+107008,0,1,0,0.4,0|0,↓,105|345,"<color=#C62416>Adventure</color> finished, tap here to get the rewards.",Scene_Adventure_Item,,,0,1,0
+107009,0,1,0,0.4,0|0,↓,133|333,Tap here to <color=#C62416>promote</color> your angels,Scene_Lobby_MainMenu_Hero,,,0,0,0
+107010,0,1,0,0.4,0|0,↑,150|-366,Select the angel you want to <color=#C62416>promote</color>,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+107011,0,1,0,0.4,0|0,↓,-189|379,Enter <color=#C62416>promotion</color>,Scene_Hero_Tab_Raising,,,0,0,0
+107012,0,1,0,0.4,0|0,↓,-124|343,"Tap here to <color=#C62416>send gift</color> to Angels to increase <color=#6DCFF6FF>Angel affinity</color>, Angels will be <color=#C62416>promoted</color> when affinity reaches certain point.",Scene_Hero_Button_Gift,,,0,0,0
+108000,1,0,0,0.4,0|0,↓,-15|333,"Reach over 80% Win Rate to challenge the Boss,and go to next Dungeon",Scene_Lobby_MainMenu_Battle,,,0,0,0
+108001,1,0,0,0.4,0|0,→,-307|149,"Reach over 80% Win Rate to challenge the Boss,and go to next Dungeon",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
+109001,1,0,0,0.4,0|0,←,317|113,Enter the store to buy various items,Scene_Lobby_Button_Shop,,,0,0,0
+110000,1,0,0,0.4,0|60,→,-415|-70,"An Angel can be Synthesized, tap the bag to enter Shard Synthesis Screen",SceneUIRoot||UserCommonInfoTopPlusUITpl(Clone)|Button_right_down,,,0,0,0
+110001,1,0,0,0.4,0|60,→,-415|-70,"An Angel can be Synthesized, tap the bag to enter Shard Synthesis Screen",SceneUIRoot||UserCommonInfoTopPlusUITpl(Clone)|Button_bag,,,0,0,0
+110002,0,1,0,0.2,-60|-16,↓,-124|336,Tap to open Shard Bag,PopupManager|BagUIDialog(Clone)|Toggle_tab_chip,,,0,0,0
+110003,0,1,0,0.4,0|0,↑,180|-350,Select the Angel Shards,Scene_Bag_Thing_2017_Name,,,0,0,0
+110004,0,1,0,0.4,0|0,↓,,Tap the Summon button,PopupManager|BagPatchDetailUIDialog(Clone)|Button_call,,,0,0,0
+110005,0,0,0,0.5,0|0,↓,0|333,"All shards have been collected, tap to <color=#C62416>Compose Angel</color>",SceneUIRoot|FragmentSummonUIScene(Clone)|Button_compose,,,0,0,0
+111001,1,0,0,0.4,0|0,↓,133|333,"Quick-combat to get a lot of gears, let's put them on~",Scene_Lobby_MainMenu_Hero,,,0,0,0
+112001,1,0,0,0.6,0|0,←,216|161,<color=#C62416>Craft</color> is available now,Scene_Lobby_Button_ArmorMake,,,0,0,0
+112002,0,1,0,0.4,0|0,→,100|385,Tap here to <color=#C62416>craft</color> gear,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_make,,,0,0,0
+112004,0,1,0,0.4,0|0,→,0|170,Tap to <color=#C62416>craft</color> gear,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelArmorMakeUITpl|Button_make,,,0,0,0
 113001,1,0,0,0.5,0|0,→,-250|-233,Quest Rewards Available,SceneUIRoot|UserCommonInfoTopPlusUITpl(Clone)|Button_task,,68|68,0,0,0
-113002,0,1,0,0.2,0|0,↑,-200|-360,<color=#FA931AFF>Quest rewards</color> include massive diamonds and rare items. Claim now~,Scene_Task_Button_Complete,,,0,0,0
-114000,1,0,0,0.2,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,Scene_Lobby_MainMenu_Battle,,,0,0,0
-114001,1,0,0,0.2,0|0,→,-307|149,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
-114002,0,0,0,0.2,0|0,↑,100|-362,Tap to enter the new unlocked dungeon,3D_DungeonNode_4_Name,,100|100,1,1,0
-114003,0,1,0,0.2,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
-115000,1,0,0,0.2,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,Scene_Lobby_MainMenu_Battle,,,0,0,0
-115001,1,0,0,0.2,0|0,→,-307|149,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
-115002,0,0,0,0.2,0|0,↑,213|-362,Tap to enter the new unlocked dungeon,3D_DungeonNode_3_Name,,100|100,1,1,0
-115003,0,1,0,0.2,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
-116001,1,0,0,0.2,0|0,↓,-70|333,You can <color=#FA931AFF>Sweep Boss</color> every day to get powerful gears!,Scene_Lobby_MainMenu_Battle,,,0,0,0
-116002,0,1,0,0.2,0|0,→,-307|149,Tap here to change map and sweep the Boss,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
-116003,0,0,0,0.2,0|0,↓,100|333,<color=#FA931AFF>Sweep</color> the last Boss before current dungeon to get the best reward!,3D_DungeonNode_4_Name,,100|100,1,1,0
-116004,0,1,0,0.2,0|0,→,,点击【BOSS扫荡】按钮,Popup_Map_BossFight,,,0,0,0
-117001,1,0,0,0.2,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
-117002,0,1,0,0.2,0|0,→,-307|149,Quick-combat can immediately get 2 hours reward(free for this time),Scene_Battle_Button_QuickBattle,,,0,0,0
-117003,0,1,0,0.2,0|0,→,,,PopupManager|QuickBattleUIDialog(Clone)|PanelQuickBattleGoldUITpl|Button_confirm,,,0,0,0
-118001,1,0,0,0.4,0|0,→,-320|226,<color=#FA931AFF>Sky-tower</color> is open now!,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
-118002,0,1,0,0.2,0|0,→,,,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemSkyUITpl|Button_enter,,,0,0,0
-119000,1,0,0,0.2,0|0,↓,-15|333,New angel slot unlocked,Scene_Lobby_MainMenu_Battle,,,0,0,0
-119001,1,1,0,0.2,0|0,↓,200|333,New angel slot unlocked,Scene_Lobby_Button_HeroArray,,,0,0,0
-120001,1,0,0,0.3,0|0,↓,133|333,<color=#FA931AFF>Enhance</color> your gear to further improve your Power!,Scene_Lobby_MainMenu_Hero,,,0,0,0
-120002,0,1,0,0.2,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-120003,0,1,0,0.2,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
-120005,0,1,0,0.4,0|0,↑,-200|-350,Tap <color=#FA931AFF>[Enhance]</color> Button to enhance,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_one_key_strengthen,,,0,0,0
-121001,1,0,0,0.2,0|0,→,-320|226,<color=#FA931AFF>Star Trial</color> is open now!,Scene_Lobby_Button_Trial,,,0,0,0
-121002,0,1,0,0.2,0|0,↑,250|-360,Select <color=#FA931AFF>regular</color> difficulty first.,Scene_Trial_Button_Easy,,,0,0,0
-121003,0,1,0,0.2,0|0,↑,,,Popup_Confirm_Button_Confirm,,,0,0,0
-121004,0,1,0,0.2,0|0,↑,-30|-354,Trial first stage.,Scene_Trial_Button_Stage1,,,0,0,0
-121005,0,1,0,0.2,0|0,↑,,,Popup_Trial_Button_Fight,,,0,0,0
-121006,0,1,0,0.2,,↑,-10|450,"Angels battles in rotation in battle, and defeated Angels will not be able to join the battle again. Please arrange your line-up wisely!",Popup_TrialHeroArray_Button_Fight,,,1,1,1
-122001,1,0,0,0.2,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
-1220011,0,1,0,0.2,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
-122002,0,1,0,0.2,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+113002,0,1,0,0.4,0|0,↑,-200|-360,<color=#C62416>Quest rewards</color> include massive diamonds and rare items. Claim now~,Scene_Task_Button_Complete,,,0,0,0
+114000,1,0,0,0.4,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,Scene_Lobby_MainMenu_Battle,,,0,0,0
+114001,1,0,0,0.4,0|0,→,-307|149,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
+114002,0,0,0,0.4,0|0,↑,100|-362,Tap to enter the new unlocked dungeon,3D_DungeonNode_4_Name,,100|100,1,1,0
+114003,0,1,0,0.4,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
+115000,1,0,0,0.4,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,Scene_Lobby_MainMenu_Battle,,,0,0,0
+115001,1,0,0,0.4,0|0,→,-307|149,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
+115002,0,0,0,0.4,0|0,↑,213|-362,Tap to enter the new unlocked dungeon,3D_DungeonNode_3_Name,,100|100,1,1,0
+115003,0,1,0,0.4,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
+116001,1,0,0,0.4,0|0,↓,-70|333,You can <color=#C62416>Sweep Boss</color> every day to get powerful gears!,Scene_Lobby_MainMenu_Battle,,,0,0,0
+116002,0,1,0,0.4,0|0,→,-307|149,Tap here to change map and sweep the Boss,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
+116003,0,0,0,0.4,0|0,↓,100|333,<color=#C62416>Sweep</color> the last Boss before current dungeon to get the best reward!,3D_DungeonNode_4_Name,,100|100,1,1,0
+116004,0,1,0,0.4,0|0,→,,点击【BOSS扫荡】按钮,Popup_Map_BossFight,,,0,0,0
+117001,1,0,0,0.4,0|0,↓,-15|333,Enter the Battleground,Scene_Lobby_MainMenu_Battle,,,0,0,0
+117002,0,1,0,0.4,0|0,→,-307|149,Quick-combat can immediately get 2 hours reward(free for this time),Scene_Battle_Button_QuickBattle,,,0,0,0
+117003,0,1,0,0.4,0|0,→,,,PopupManager|QuickBattleUIDialog(Clone)|PanelQuickBattleGoldUITpl|Button_confirm,,,0,0,0
+118001,1,0,0,0.4,0|0,→,-320|226,<color=#C62416>Sky-tower</color> is open now!,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
+118002,0,1,0,0.4,0|0,→,,,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemSkyUITpl|Button_enter,,,0,0,0
+119000,1,0,0,0.4,0|0,↓,-15|333,New angel slot unlocked,Scene_Lobby_MainMenu_Battle,,,0,0,0
+119001,1,1,0,0.4,0|0,↓,200|333,New angel slot unlocked,Scene_Lobby_Button_HeroArray,,,0,0,0
+120001,1,0,0,0.5,0|0,↓,133|333,<color=#C62416>Enhance</color> your gear to further improve your Power!,Scene_Lobby_MainMenu_Hero,,,0,0,0
+120002,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+120003,0,1,0,0.4,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
+120005,0,1,0,0.4,0|0,↑,-200|-350,Tap <color=#C62416>[Enhance]</color> Button to enhance,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_one_key_strengthen,,,0,0,0
+121001,1,0,0,0.4,0|0,→,-320|226,<color=#C62416>Star Trial</color> is open now!,Scene_Lobby_Button_Trial,,,0,0,0
+121002,0,1,0,0.4,0|0,↑,250|-360,Select <color=#C62416>regular</color> difficulty first.,Scene_Trial_Button_Easy,,,0,0,0
+121003,0,1,0,0.4,0|0,↑,,,Popup_Confirm_Button_Confirm,,,0,0,0
+121004,0,1,0,0.4,0|0,↑,-30|-354,Trial first stage.,Scene_Trial_Button_Stage1,,,0,0,0
+121005,0,1,0,0.4,0|0,↑,,,Popup_Trial_Button_Fight,,,0,0,0
+121006,0,1,0,0.4,,↑,-10|450,"Angels battles in rotation in battle, and defeated Angels will not be able to join the battle again. Please arrange your line-up wisely!",Popup_TrialHeroArray_Button_Fight,,,1,1,1
+122001,1,0,0,0.4,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
+1220011,0,1,0,0.4,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
+122002,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
 122003,0,1,0,0.4,0|0,↓,-200|375,"Pay attention to the small red dot prompt, and replace it with new gear in time!",SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_autoequip,,,0,0,0
 123001,1,0,0,0.4,0|0,→,-320|226,Secret Abyss is unlocked,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
 123002,0,0,0,0.5,0|0,↓,56|333,Enter Secret Abyss,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemAbyssUITpl|Button_enter,,,0,0,0
-123003,1,0,0,0.3,0|0,→,-320|226,Fear Abyss is available now,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
-123004,0,0,0,0.3,0|0,↓,56|333,Enter Abyss,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemAbyssUITpl|Button_enter,,,0,0,0
-123005,0,1,0,0.3,0|0,↑,,,AbysmEntranceUIScene(Clone)|Button_abysm,,,0,0,0
-124001,1,0,0,0.4,0|0,←,320|113,Relic is available now,SceneUIRoot|LobbyUIScene(Clone)|Button_main_relic,,,0,0,0
-124002,0,1,0,0.2,0|0,↓,-180|360,Get relic now,SceneUIRoot|RelicStrengthenUIScene(Clone)|Button_get,,,0,0,0
-124003,0,1,0,0.2,0|0,↓,-110|360,Summon relic 10 times (free this time),SceneUIRoot|SummonNewUIScene(Clone)|PanelSummonRelicUITpl|Button_summon_ten,,,0,1,0
-124004,0,1,0,0.2,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_jump,,,0,0,0
-124005,0,1,0,0.2,0|0,↓,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,0,0
-124006,0,1,0,0.2,0|0,↑,,,SceneUIRoot|SummonNewUIScene(Clone)|Button_close,,,0,0,0
-124007,0,1,0,0.3,0|0,↑,200|-380,Select relic to advance,SceneUIRoot|RelicStrengthenUIScene(Clone)|ScrollView_rect|ItemRelicStrengthenUITpl(Clone),,110|110,0,0,0
-124008,0,1,0,0.2,,↑,0|300,"Relics will be enhanced after advanced, try it now~",SceneUIRoot|RelicStrengthenUIScene(Clone)|Button_strengthen,,,1,1,1
+123003,1,0,0,0.5,0|0,→,-320|226,Fear Abyss is available now,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
+123004,0,0,0,0.5,0|0,↓,56|333,Enter Abyss,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemAbyssUITpl|Button_enter,,,0,0,0
+123005,0,1,0,0.5,0|0,↑,,,AbysmEntranceUIScene(Clone)|Button_abysm,,,0,0,0
+124001,1,0,0,0.6,0|0,←,320|113,Relic is available now,SceneUIRoot|LobbyUIScene(Clone)|Button_main_relic,,,0,0,0
+124002,0,1,0,0.4,0|0,↓,-180|360,Get relic now,SceneUIRoot|RelicStrengthenUIScene(Clone)|Button_get,,,0,0,0
+124003,0,1,0,0.4,0|0,↓,-110|360,Summon relic 10 times (free this time),SceneUIRoot|SummonNewUIScene(Clone)|PanelSummonRelicUITpl|Button_summon_ten,,,0,1,0
+124004,0,1,0,0.4,0|0,↑,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_jump,,,0,0,0
+124005,0,1,0,0.4,0|0,↓,,,SceneUIRoot|SummonRewardUIScene(Clone)|Button_ok,,,0,0,0
+124006,0,1,0,0.4,0|0,↑,,,SceneUIRoot|SummonNewUIScene(Clone)|Button_close,,,0,0,0
+124007,0,1,0,0.5,0|0,↑,200|-380,Select relic to advance,SceneUIRoot|RelicStrengthenUIScene(Clone)|ScrollView_rect|ItemRelicStrengthenUITpl(Clone),,110|110,0,0,0
+124008,0,1,0,0.4,,↑,0|300,"Relics will be enhanced after advanced, try it now~",SceneUIRoot|RelicStrengthenUIScene(Clone)|Button_strengthen,,,1,1,1
 125001,1,0,0,0.4,0|0,↓,133|333,The Attire system is opening,Scene_Lobby_MainMenu_Hero,,,0,0,0
-125002,0,1,0,0.2,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+125002,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
 125003,0,1,0,0.4,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
 125004,0,1,0,0.8,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_hero_dress,,,0,0,0
-125005,0,1,0,0.3,0|0,→,-355|138,We can put all kinds of beautiful Attire on our angels. let’s get the oranment  first,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_get_dress,,,0,0,0
+125005,0,1,0,0.5,0|0,→,-355|138,We can put all kinds of beautiful Attire on our angels. let’s get the oranment  first,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_get_dress,,,0,0,0
 125006,0,1,0,0.4,0|0,↓,0|370,Wish to angels to get a variety of oranment,SceneUIRoot|WishUIScene(Clone)|Button_wish,,,0,1,0
-125007,0,1,0,0.2,0|0,↑,-200|-340,Go to dress your angels,SceneUIRoot|WishUIScene(Clone)|Button_close,,,0,0,0
-125008,0,1,0,0.2,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
+125007,0,1,0,0.4,0|0,↑,-200|-340,Go to dress your angels,SceneUIRoot|WishUIScene(Clone)|Button_close,,,0,0,0
+125008,0,1,0,0.4,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
 125009,0,1,0,0.8,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_hero_dress,,,0,0,0
 125010,0,1,0,0.5,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|ButtonDressUITpl1,,,0,0,0
-200002,0,1,0,0.2,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
-200101,0,0,0,0.2,0|0,↓,-175|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_2,,,1,0,0
-200102,0,0,0,0.2,0|0,↓,185|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_3,,,1,0,0
-200103,0,0,0,0.3,0|0,←,295|-230,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_4,,,1,0,0
-200104,0,0,0,0.2,0|0,→,-50|185,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_5,,,1,0,0
-200105,0,0,0,0.3,0|0,↓,0|370,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_6,,,1,0,0
-200106,0,0,0,0.2,0|0,←,205|195,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_7,,,1,0,0
-200107,0,0,0,0.3,0|0,←,175|165,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_8,,,1,0,0
-200108,0,0,0,0.3,0|0,↑,-205|-385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_9,,,1,0,0
-200109,0,0,0,0.2,0|0,↑,-95|-365,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_10,,,1,0,0
-200110,0,0,0,0.2,0|0,↑,165|-380,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_11,,,1,0,0
-200111,0,0,0,0.2,0|0,→,-200|205,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_12,,,1,0,0
-200112,0,0,0,0.2,0|0,←,240|140,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_13,,,1,0,0
-200113,0,0,0,0.2,0|0,↑,210|-355,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_14,,,1,0,0
-200114,0,0,0,0.2,0|0,↑,-165|-390,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_15,,,1,0,0
-200115,0,0,0,0.2,0|0,→,-270|185,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_16,,,1,0,0
-200116,0,0,0,0.2,0|0,↑,-20|-375,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_17,,,1,0,0
-200117,0,0,0,0.2,0|0,↓,-120|395,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_18,,,1,0,0
-200118,0,0,0,0.2,0|0,↓,-80|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_19,,,1,0,0
-200119,0,0,0,0.2,0|0,↓,55|340,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_20,,,1,0,0
-200120,0,0,0,0.2,0|0,↑,205|-390,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_21,,,1,0,0
-200121,0,0,0,0.2,0|0,↑,210|-385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_22,,,1,0,0
-200122,0,0,0,0.2,0|0,↑,-100|-375,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_23,,,1,0,0
-200123,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_24,,,1,0,0
-200124,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_25,,,1,0,0
-200125,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_26,,,1,0,0
-200126,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_27,,,1,0,0
-200127,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_28,,,1,0,0
-200128,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_29,,,1,0,0
-200129,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_30,,,1,0,0
-200130,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_31,,,1,0,0
-200131,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_32,,,1,0,0
-200132,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_33,,,1,0,0
-200133,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_34,,,1,0,0
-200134,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_35,,,1,0,0
-200135,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_36,,,1,0,0
-200136,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_37,,,1,0,0
-200137,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_38,,,1,0,0
-200138,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_39,,,1,0,0
-200139,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_40,,,1,0,0
-200140,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_41,,,1,0,0
-200141,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_42,,,1,0,0
-200142,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_43,,,1,0,0
-200143,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_44,,,1,0,0
-200144,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_45,,,1,0,0
-200145,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_46,,,1,0,0
-200146,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_47,,,1,0,0
-200147,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_48,,,1,0,0
-200148,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_49,,,1,0,0
-200149,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_50,,,1,0,0
-200150,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_51,,,1,0,0
-200151,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_52,,,1,0,0
-200152,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_53,,,1,0,0
-200153,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_54,,,1,0,0
-200154,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_55,,,1,0,0
-200155,0,0,0,0.2,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_56,,,1,0,0
-200156,0,0,0,0.2,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_57,,,1,0,0
-200157,0,0,0,0.2,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_58,,,1,0,0
-200158,0,0,0,0.2,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_59,,,1,0,0
-200159,0,0,0,0.2,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_60,,,1,0,0
-200160,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_61,,,1,0,0
-200161,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_62,,,1,0,0
-200162,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_63,,,1,0,0
-200163,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_64,,,1,0,0
-200164,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_65,,,1,0,0
-200165,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_66,,,1,0,0
-200166,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_67,,,1,0,0
-200167,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_68,,,1,0,0
-200168,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_69,,,1,0,0
-200169,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_70,,,1,0,0
-200170,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_71,,,1,0,0
-200171,0,0,0,0.2,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_72,,,1,0,0
-200201,0,0,0,0.2,0|0,↓,300|550|1,Enter Dungeon,3D_DungeonNode_1_Name,,100|100,1,1,0
-200202,0,1,0,0.2,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
-201001,1,0,0,0.3,,→,345|850|1,Swipe left to the next page,,,,1,0,0
-300001,0,1,0,0.3,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
-300002,1,0,0,0.3,0|0,↓,133|333,Tap to switch to Angel Screen,Scene_Lobby_MainMenu_Hero,,,0,0,0
-300003,0,1,0,0.3,0|0,↑,0|-377,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_2030_Name,,185|278,0,0,0
-300004,0,1,0,0.3,0|0,↓,169|333,"When you see a red dot, you should equip the new gear to become stronger!",Scene_Hero_ArmorSlot_Weapon,,,0,0,0
-300005,0,1,0,0.3,0|0,↑,-82|-356,Tap <color=#FA931AFF>[Select]</color> button to equip…,Popup_ArmorDetail_Button_Select,,,0,0,0
-300006,0,1,0,0.3,0|0,→,,,Scene_Hero_Button_Back,,,0,1,0
+200002,0,1,0,0.4,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
+200101,0,0,0,0.4,0|0,↓,-175|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_2,,,1,0,0
+200102,0,0,0,0.4,0|0,↓,185|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_3,,,1,0,0
+200103,0,0,0,0.5,0|0,←,295|-230,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_4,,,1,0,0
+200104,0,0,0,0.4,0|0,→,-50|185,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_5,,,1,0,0
+200105,0,0,0,0.5,0|0,↓,0|370,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_6,,,1,0,0
+200106,0,0,0,0.4,0|0,←,205|195,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_7,,,1,0,0
+200107,0,0,0,0.5,0|0,←,175|165,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_8,,,1,0,0
+200108,0,0,0,0.5,0|0,↑,-205|-385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_9,,,1,0,0
+200109,0,0,0,0.4,0|0,↑,-95|-365,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_10,,,1,0,0
+200110,0,0,0,0.4,0|0,↑,165|-380,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_11,,,1,0,0
+200111,0,0,0,0.4,0|0,→,-200|205,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_12,,,1,0,0
+200112,0,0,0,0.4,0|0,←,240|140,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_13,,,1,0,0
+200113,0,0,0,0.4,0|0,↑,210|-355,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_14,,,1,0,0
+200114,0,0,0,0.4,0|0,↑,-165|-390,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_15,,,1,0,0
+200115,0,0,0,0.4,0|0,→,-270|185,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_16,,,1,0,0
+200116,0,0,0,0.4,0|0,↑,-20|-375,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_17,,,1,0,0
+200117,0,0,0,0.4,0|0,↓,-120|395,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_18,,,1,0,0
+200118,0,0,0,0.4,0|0,↓,-80|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_19,,,1,0,0
+200119,0,0,0,0.4,0|0,↓,55|340,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_20,,,1,0,0
+200120,0,0,0,0.4,0|0,↑,205|-390,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_21,,,1,0,0
+200121,0,0,0,0.4,0|0,↑,210|-385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_22,,,1,0,0
+200122,0,0,0,0.4,0|0,↑,-100|-375,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_23,,,1,0,0
+200123,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_24,,,1,0,0
+200124,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_25,,,1,0,0
+200125,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_26,,,1,0,0
+200126,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_27,,,1,0,0
+200127,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_28,,,1,0,0
+200128,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_29,,,1,0,0
+200129,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_30,,,1,0,0
+200130,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_31,,,1,0,0
+200131,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_32,,,1,0,0
+200132,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_33,,,1,0,0
+200133,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_34,,,1,0,0
+200134,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_35,,,1,0,0
+200135,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_36,,,1,0,0
+200136,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_37,,,1,0,0
+200137,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_38,,,1,0,0
+200138,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_39,,,1,0,0
+200139,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_40,,,1,0,0
+200140,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_41,,,1,0,0
+200141,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_42,,,1,0,0
+200142,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_43,,,1,0,0
+200143,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_44,,,1,0,0
+200144,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_45,,,1,0,0
+200145,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_46,,,1,0,0
+200146,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_47,,,1,0,0
+200147,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_48,,,1,0,0
+200148,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_49,,,1,0,0
+200149,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_50,,,1,0,0
+200150,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_51,,,1,0,0
+200151,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_52,,,1,0,0
+200152,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_53,,,1,0,0
+200153,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_54,,,1,0,0
+200154,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_55,,,1,0,0
+200155,0,0,0,0.4,0|0,↓,-165|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_56,,,1,0,0
+200156,0,0,0,0.4,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_57,,,1,0,0
+200157,0,0,0,0.4,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_58,,,1,0,0
+200158,0,0,0,0.4,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_59,,,1,0,0
+200159,0,0,0,0.4,0|0,→,-370|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_60,,,1,0,0
+200160,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_61,,,1,0,0
+200161,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_62,,,1,0,0
+200162,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_63,,,1,0,0
+200163,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_64,,,1,0,0
+200164,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_65,,,1,0,0
+200165,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_66,,,1,0,0
+200166,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_67,,,1,0,0
+200167,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_68,,,1,0,0
+200168,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_69,,,1,0,0
+200169,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_70,,,1,0,0
+200170,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_71,,,1,0,0
+200171,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_72,,,1,0,0
+200201,0,0,0,0.4,0|0,↓,300|550|1,Enter Dungeon,3D_DungeonNode_1_Name,,100|100,1,1,0
+200202,0,1,0,0.4,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
+201001,1,0,0,0.5,,→,345|850|1,Swipe left to the next page,,,,1,0,0
+300001,0,1,0,0.5,0|0,↓,133|333,This is the key to improve your strength.,Scene_Lobby_MainMenu_Hero,,,0,0,0
+300002,1,0,0,0.5,0|0,↓,133|333,Tap to switch to Angel Screen,Scene_Lobby_MainMenu_Hero,,,0,0,0
+300003,0,1,0,0.5,0|0,↑,0|-377,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_2030_Name,,185|278,0,0,0
+300004,0,1,0,0.5,0|0,↓,169|333,"When you see a red dot, you should equip the new gear to become stronger!",Scene_Hero_ArmorSlot_Weapon,,,0,0,0
+300005,0,1,0,0.5,0|0,↑,-82|-356,Tap <color=#C62416>[Select]</color> button to equip…,Popup_ArmorDetail_Button_Select,,,0,0,0
+300006,0,1,0,0.5,0|0,→,,,Scene_Hero_Button_Back,,,0,1,0
 400000,1,0,0,0.4,0|0,↓,-70|333,"An Angel can be Synthesized, tap the bag to enter Shard Synthesis Screen",SceneUIRoot|UserCommonInfoTopPlusUITpl(Clone)|Button_bag,,,0,0,0
-400001,1,0,0,0.4,0|0,←,309|120,"Free <color=#FA931AFF>Summon</color> times remaining,<color=#FA931AFF>Summon</color> has the chance to get angels.",Scene_Lobby_Button_Summon,,,0,0,0
+400001,1,0,0,0.4,0|0,←,309|120,"Free <color=#C62416>Summon</color> times remaining,<color=#C62416>Summon</color> has the chance to get angels.",Scene_Lobby_Button_Summon,,,0,0,0
 400002,1,0,0,0.4,0|0,→,-277|167,Adventure rewards receivable,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
 400003,1,0,0,0.4,0|0,→,-277|167,Encounter adventure available~,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
-400004,1,0,0,0.4,0|0,←,216|161,Bag is full. Gear <color=#FA931AFF>smelting</color> recommended.,Scene_Lobby_Button_ArmorMake,,,0,0,0
+400004,1,0,0,0.4,0|0,←,216|161,Bag is full. Gear <color=#C62416>smelting</color> recommended.,Scene_Lobby_Button_ArmorMake,,,0,0,0
 400005,1,0,0,0.5,0|0,→,-250|-233,Quest Rewards Available,SceneUIRoot|UserCommonInfoTopPlusUITpl(Clone)|Button_task,,68|68,0,0,0
-400006,1,0,0,0.3,0|0,→,-307|149,Quick-combat can immediately get 2 hours reward,Scene_Battle_Button_QuickBattle,,,0,0,0
-400007,1,0,0,0.3,0|0,↓,-15|333,"After defeating the boss, you can enter the next battlefield.",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
-400008,1,0,0,0.3,0|0,↓,-15|333,Challenge the new Boss! Fight now!,Scene_Lobby_MainMenu_Battle,,,0,0,0
-400009,1,0,0,0.3,0|0,↓,133|333,Better gears available!,Scene_Lobby_MainMenu_Hero,,,0,0,0
-400010,1,0,0,0.3,0|0,↓,133|333,Angel Awakening available! <color=#FA931AFF>Awaken</color> an Angel to get a new skill!,Scene_Lobby_MainMenu_Hero,,,0,0,0
-400011,1,0,0,0.3,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,Scene_Lobby_MainMenu_Battle,,,0,0,0
-210001,1,0,0,0.4,0|0,↓,133|333,<color=#FA931AFF>Gem Setting</color> is open,Scene_Lobby_MainMenu_Hero,,,0,0,0
-210002,0,1,0,0.3,0|0,↑,127|-366,Tap to select Angel,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
-210003,0,1,0,0.4,0|0,↓,-189|379,Enter <color=#FA931AFF>Gem</color> interface,HeroUIScene(Clone)|ToggleGroupTabs|Toggle_tab_gem,,,0,0,0
+400006,1,0,0,0.5,0|0,→,-307|149,Quick-combat can immediately get 2 hours reward,Scene_Battle_Button_QuickBattle,,,0,0,0
+400007,1,0,0,0.5,0|0,↓,-15|333,"After defeating the boss, you can enter the next battlefield.",SceneUIRoot|BattleUIScene(Clone)|Button_bosschallenge,,,0,0,0
+400008,1,0,0,0.5,0|0,↓,-15|333,Challenge the new Boss! Fight now!,Scene_Lobby_MainMenu_Battle,,,0,0,0
+400009,1,0,0,0.5,0|0,↓,133|333,Better gears available!,Scene_Lobby_MainMenu_Hero,,,0,0,0
+400010,1,0,0,0.5,0|0,↓,133|333,Angel Awakening available! <color=#C62416>Awaken</color> an Angel to get a new skill!,Scene_Lobby_MainMenu_Hero,,,0,0,0
+400011,1,0,0,0.5,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,Scene_Lobby_MainMenu_Battle,,,0,0,0
+210001,1,0,0,0.4,0|0,↓,133|333,<color=#C62416>Gem Setting</color> is open,Scene_Lobby_MainMenu_Hero,,,0,0,0
+210002,0,1,0,0.5,0|0,↑,127|-366,Tap to select Angel,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
+210003,0,1,0,0.4,0|0,↓,-189|379,Enter <color=#C62416>Gem</color> interface,HeroUIScene(Clone)|ToggleGroupTabs|Toggle_tab_gem,,,0,0,0
 210005,0,1,0,0.5,0|0,↑,180|-350,Unlock a Gem Socket first,Scene_Gem_Panel_Slot_1_Name,,200|86,0,0,0
 210006,0,1,0,0.5,0|0,↑,,确认开孔,Popup_Confirm_Button_Confirm,,220|76,0,0,0
 210007,0,1,0,0.5,0|0,↑,180|-350,Tap the Gem Socket which just unlocked,Scene_Gem_Panel_Slot_1_Name,,200|86,0,0,0
 210008,0,1,0,0.5,0|0,↑,-130|-340,Inlaid an ATK Gem first,PanelGemUIDialog(Clone)|Popup_Gem_Select_1_Name|Button_up,,,0,0,0
 210011,0,0,0,0.5,0|0,↑,180|-350,"When you get 1 more same Lv.1 Gem in bag, you can make this gem level-up",Scene_Gem_Panel_Slot_1_Name,,200|86,0,0,0
-210012,1,0,0,0.4,0|0,→,-277|167,<color=#FA931AFF>World Boss</color> is open,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
-210013,0,0,0,0.3,0|0,↑,0|-305,Enter <color=#FA931AFF>World Boss</color>,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemBossUITpl|Button_enter,,,0,0,0
-210014,0,1,0,0.3,0|0,→,,Tap to challenge,SceneUIRoot|WorldBossPrepareUIScene(Clone)|Button_fight,,,0,0,0
-220001,0,0,0,0.3,0|0,↑,190|-305,Click to select an angel to participate,Dialog_GuildApple_HeroInfo_0_Name,,,0,0,0
-220002,0,1,0,0.3,,↑,130|-220,Registration needs to select 15 angels as a team,Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
-220003,0,1,0,0.3,,↑,130|-220,Each player can select 1 angel in the team to join the fight,Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
-220004,0,1,0,0.3,,↑,130|-220,"Once the angels has been dispatched to battle, she cannot be dispatched again during this tournament",Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
-220005,0,1,0,0.3,,↑,130|-220,Receive Strategic props in first battle and player can check detail information about Strategic props in bag.,Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
-230001,0,0,0,0.3,0|0,→,-180|180,Tap on my team to deploy your team line-up.,SceneUIRoot|CountryWarMapUIScene(Clone)|Button_own_team,,,0,0,0
-230002,0,0,0,0.3,0|0,→,-200|-200,Tap on line-up to edit angels in the team,SceneUIRoot|CountryWarOwnTeamUIScene(Clone)|Scene_Country_War_Team_1|Button_team_up,,,0,0,0
-230003,0,0,0,0.3,0|0,↑,190|-305,Click angel avatar to set deploy,PopupManager|DepthSortUIRoot(Clone)|CommonHeroArrayUIDialog(Clone)|hero_icon_0,,,0,0,0
-240001,0,0,0,0.2,0|0,↓,-200|300,Click into talent system,SceneUIRoot|HeroArchiveUIScene(Clone)|Bottom|Toggle_tab_talent,,,0,0,0
+210012,1,0,0,0.4,0|0,→,-277|167,<color=#C62416>World Boss</color> is open,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
+210013,0,0,0,0.5,0|0,↑,0|-305,Enter <color=#C62416>World Boss</color>,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemBossUITpl|Button_enter,,,0,0,0
+210014,0,1,0,0.5,0|0,→,,Tap to challenge,SceneUIRoot|WorldBossPrepareUIScene(Clone)|Button_fight,,,0,0,0
+220001,0,0,0,0.5,0|0,↑,190|-305,Click to select an angel to participate,Dialog_GuildApple_HeroInfo_0_Name,,,0,0,0
+220002,0,1,0,0.5,,↑,130|-220,Registration needs to select 15 angels as a team,Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
+220003,0,1,0,0.5,,↑,130|-220,Each player can select 1 angel in the team to join the fight,Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
+220004,0,1,0,0.5,,↑,130|-220,"Once the angels has been dispatched to battle, she cannot be dispatched again during this tournament",Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
+220005,0,1,0,0.5,,↑,130|-220,Receive Strategic props in first battle and player can check detail information about Strategic props in bag.,Dialog_GuildApple_HeroInfo_1_Name,,,1,1,1
+230001,0,0,0,0.5,0|0,→,-180|180,Tap on my team to deploy your team line-up.,SceneUIRoot|CountryWarMapUIScene(Clone)|Button_own_team,,,0,0,0
+230002,0,0,0,0.5,0|0,→,-200|-200,Tap on line-up to edit angels in the team,SceneUIRoot|CountryWarOwnTeamUIScene(Clone)|Scene_Country_War_Team_1|Button_team_up,,,0,0,0
+230003,0,0,0,0.5,0|0,↑,190|-305,Click angel avatar to set deploy,PopupManager|DepthSortUIRoot(Clone)|CommonHeroArrayUIDialog(Clone)|hero_icon_0,,,0,0,0
+240001,0,0,0,0.4,-60|-30,↓,-200|300,Click into talent system,SceneUIRoot|HeroArchiveUIScene(Clone)|Bottom|Toggle_tab_talent,,,0,0,0
 250001,1,0,0,0.4,0|0,↓,133|333,The angel favorability is open,LobbyUIScene(Clone)|Button_hero,,,0,0,0
-250002,0,1,0,0.3,0|0,↑,0|-366,Click the angel to view the detail,HeroArchiveUIScene(Clone)|Image_get_content|1,,185|278,0,0,0
-250003,0,1,0,0.3,0|0,→,-270|-170,Click to view the details,HeroUIScene(Clone)|Button_Favorabliity,,,0,0,0
-250004,0,1,0,0.3,,↑,0|-500,"<size=22>Favorability points can be increased by interact with the Angel on the screen, giving gifts and sending them on adventures.</size>",HeroFavorabilityUIDialog(Clone)|hero_info,,,0,0,1
-250005,0,1,0,0.3,0|0,→,-261|-200,Giving gifts to Angels can increase favorability points.,HeroFavorabilityUIDialog(Clone)|btn_show_gifts,,,0,0,0
-260001,0,1,0,0.3,0|0,↓,,,OutlandMainUIScene(Clone)|Building_mszy,,,0,0,0
-260002,0,1,0,0.3,0|0,↓,,,WarcraftCityUIScene(Clone)|btn_summon_once,,,0,0,0
-260101,0,1,0,0.3,0|0,↑,,,OutlandMainUIScene(Clone)|Building_qjzd,,,0,0,0
-260102,0,1,0,0.3,0|0,↓,,,AnimalMapUIScene(Clone)|Content_animal|0,,,0,0,0
-260103,0,1,0,0.3,0|0,↓,,,AnimalUnlockUIScene(Clone)|Button_acquire,,,0,0,0
-260201,0,1,0,0.3,0|0,↓,,,AnimalMapUIScene(Clone)|Content_animal|0,,,0,0,0
-260202,0,1,0,0.3,0|0,→,,,AnimalUIScene(Clone)|Toggle_feed,,,0,0,0
-260203,0,1,0,0.3,0|0,↓,,,AnimalUIScene(Clone)|ItemCosumeGoodsUITpl_1|UIThingUITpl,,,0,0,0
-260301,0,1,0,0.3,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_1|building_icon,,,0,0,0
-260302,0,1,0,0.3,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_1|Obj_res,,,0,0,0
-260401,0,1,0,0.3,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_1|building_icon,,,0,0,0
-260402,0,1,0,0.3,0|0,↑,,,OutlandResBuildingInfoUIDialog(Clone)|Button_ok,,,0,0,0
-260403,0,1,0,0.3,0|0,↓,,,OutlandResBuildingInfoUIDialog(Clone)|ResBuildingWorkerUITpl_1|Button_add,,,0,0,0
-260404,0,1,0,0.3,0|0,↑,,,ResBuildingWorkerUIDialog(Clone)|Content|1|Button_dispatch,,,0,0,0
-260405,0,1,0,0.3,0|0,↑,,,ResBuildingWorkerUIDialog(Clone)|Button_close,,,0,0,0
-260406,0,1,0,0.3,0|0,↑,,,OutlandResBuildingInfoUIDialog(Clone)|Button_close,,,0,0,0
-260407,0,1,0,0.3,0|0,←,,,AnimalMapUIScene(Clone)|Button_Series,,,0,0,0
-260408,0,1,0,0.3,0|0,→,,,AnimalSeriesUIScene(Clone)|Image_4_light,,,0,0,0
-260409,1,0,0,0.3,,→,-169|-260,Swipe left to the next page,OutlandMainUIScene(Clone)|Button_to_map2,,,0,0,0
-260410,0,1,0,0.3,0|0,↑,27|-378,Enter the Trial Palace,OutlandMainUIScene(Clone)|Res_Building_6,,,0,0,0
-260411,0,1,0,0.3,0|0,↑,-20|-394,Claim Trial crystals,OutLandPracticeUIScene(Clone)|PanelTrialStatueUITpl|Button_reward_guide,,,0,0,0
-260412,0,1,0,0.3,0|0,↓,120|363,Enter Trial Field,OutLandPracticeUIScene(Clone)|ButtonList|Viewport|Content_button|Toggle_Practice,,,0,0,0
-260413,0,1,0,0.3,0|0,↑,221|-374,Use Trial crystals to unlock Trial slots,OutLandPracticeUIScene(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,138.5|117.5,0,0,0
-260414,0,1,0,0.3,0|0,↑,,,ConfirmUIDialog(Clone)|Root|Image|ButtonBg|Button_confirm,,,0,0,0
-260415,0,1,0,0.3,0|0,↑,221|-374,Configurate Trial Angels,OutLandPracticeUIScene(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,138.5|117.5,0,0,0
-260416,0,1,0,0.3,0|0,↑,173|-437,"<size=24>Choose Assist Trial Angels (Higher Angels' levels, training, and quality grant a greater bonus)</size>",OutlandPracticeHeroChooseUIDialog(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,90|90,0,0,0
-260417,0,1,0,0.3,0|0,↓,-20|-196,Confirm to complete Configuration,OutlandPracticeHeroChooseUIDialog(Clone)|Root|CenterStretch|Button_ok,,,0,0,0
-260418,1,0,0,0.3,,↑,,,PopupManager|RewardUIDialog(Clone)|Button_close,,720|1280,1,0,0
-260419,0,1,0,0.3,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_6,,,0,0,0
-260501,1,0,0,0.3,0|0,→,-277|167,The entrance of Chaotic Realm is opened,SceneUIRoot|LobbyUIScene(Clone)|Button_outland,,,0,0,0
-260601,0,1,0,0.3,0|0,←,270|-230,View player's personal information,RankUIScene(Clone)|Content_rank|1|Button_head,,,0,0,0
-260602,0,0,0,0.3,0|0,←,270|-230,View player's personal information,RankUIScene(Clone)|Content_rank|2|Button_head,,,0,0,0
-260603,0,0,0,0.3,0|0,→,-244|174,Click to visit the player’s Chaotic Realm,OtherPlayerInfoUIDialog(Clone)|Button_outland,,,0,0,0
+250002,0,1,0,0.5,0|0,↑,0|-366,Click the angel to view the detail,HeroArchiveUIScene(Clone)|Image_get_content|1,,185|278,0,0,0
+250003,0,1,0,0.5,0|0,→,-270|-170,Click to view the details,HeroUIScene(Clone)|Button_Favorabliity,,,0,0,0
+250004,0,1,0,0.5,,↑,0|-500,"<size=22>Favorability points can be increased by interact with the Angel on the screen, giving gifts and sending them on adventures.</size>",HeroFavorabilityUIDialog(Clone)|hero_info,,,0,0,1
+250005,0,1,0,0.5,0|0,→,-261|-200,Giving gifts to Angels can increase favorability points.,HeroFavorabilityUIDialog(Clone)|btn_show_gifts,,,0,0,0
+260001,0,1,0,0.5,0|0,↓,,,OutlandMainUIScene(Clone)|Building_mszy,,,0,0,0
+260002,0,1,0,0.5,0|0,↓,,,WarcraftCityUIScene(Clone)|btn_summon_once,,,0,0,0
+260101,0,1,0,0.5,0|0,↑,,,OutlandMainUIScene(Clone)|Building_qjzd,,,0,0,0
+260102,0,1,0,0.5,0|0,↓,,,AnimalMapUIScene(Clone)|Content_animal|0,,,0,0,0
+260103,0,1,0,0.5,0|0,↓,,,AnimalUnlockUIScene(Clone)|Button_acquire,,,0,0,0
+260201,0,1,0,0.5,0|0,↓,,,AnimalMapUIScene(Clone)|Content_animal|0,,,0,0,0
+260202,0,1,0,0.5,0|0,→,,,AnimalUIScene(Clone)|Toggle_feed,,,0,0,0
+260203,0,1,0,0.5,0|0,↓,,,AnimalUIScene(Clone)|ItemCosumeGoodsUITpl_1|UIThingUITpl,,,0,0,0
+260301,0,1,0,0.5,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_1|building_icon,,,0,0,0
+260302,0,1,0,0.5,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_1|Obj_res,,,0,0,0
+260401,0,1,0,0.5,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_1|building_icon,,,0,0,0
+260402,0,1,0,0.5,0|0,↑,,,OutlandResBuildingInfoUIDialog(Clone)|Button_ok,,,0,0,0
+260403,0,1,0,0.5,0|0,↓,,,OutlandResBuildingInfoUIDialog(Clone)|ResBuildingWorkerUITpl_1|Button_add,,,0,0,0
+260404,0,1,0,0.5,0|0,↑,,,ResBuildingWorkerUIDialog(Clone)|Content|1|Button_dispatch,,,0,0,0
+260405,0,1,0,0.5,0|0,↑,,,ResBuildingWorkerUIDialog(Clone)|Button_close,,,0,0,0
+260406,0,1,0,0.5,0|0,↑,,,OutlandResBuildingInfoUIDialog(Clone)|Button_close,,,0,0,0
+260407,0,1,0,0.5,0|0,←,,,AnimalMapUIScene(Clone)|Button_Series,,,0,0,0
+260408,0,1,0,0.5,0|0,→,,,AnimalSeriesUIScene(Clone)|Image_4_light,,,0,0,0
+260409,1,0,0,0.5,,→,-169|-260,Swipe left to the next page,OutlandMainUIScene(Clone)|Button_to_map2,,,0,0,0
+260410,0,1,0,0.5,0|0,↑,27|-378,Enter the Trial Palace,OutlandMainUIScene(Clone)|Res_Building_6,,,0,0,0
+260411,0,1,0,0.5,0|0,↑,-20|-394,Claim Trial crystals,OutLandPracticeUIScene(Clone)|PanelTrialStatueUITpl|Button_reward_guide,,,0,0,0
+260412,0,1,0,0.5,0|0,↓,120|363,Enter Trial Field,OutLandPracticeUIScene(Clone)|ButtonList|Viewport|Content_button|Toggle_Practice,,,0,0,0
+260413,0,1,0,0.5,0|0,↑,221|-374,Use Trial crystals to unlock Trial slots,OutLandPracticeUIScene(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,138.5|117.5,0,0,0
+260414,0,1,0,0.5,0|0,↑,,,ConfirmUIDialog(Clone)|Root|Image|ButtonBg|Button_confirm,,,0,0,0
+260415,0,1,0,0.5,0|0,↑,221|-374,Configurate Trial Angels,OutLandPracticeUIScene(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,138.5|117.5,0,0,0
+260416,0,1,0,0.5,0|0,↑,173|-437,"<size=24>Choose Assist Trial Angels (Higher Angels' levels, training, and quality grant a greater bonus)</size>",OutlandPracticeHeroChooseUIDialog(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,90|90,0,0,0
+260417,0,1,0,0.5,0|0,↓,-20|-196,Confirm to complete Configuration,OutlandPracticeHeroChooseUIDialog(Clone)|Root|CenterStretch|Button_ok,,,0,0,0
+260418,1,0,0,0.5,,↑,,,PopupManager|RewardUIDialog(Clone)|Button_close,,720|1280,1,0,0
+260419,0,1,0,0.5,0|0,↑,,,OutlandMainUIScene(Clone)|Res_Building_6,,,0,0,0
+260501,1,0,0,0.5,0|0,→,-277|167,The entrance of Chaotic Realm is opened,SceneUIRoot|LobbyUIScene(Clone)|Button_outland,,,0,0,0
+260601,0,1,0,0.5,0|0,←,270|-230,View player's personal information,RankUIScene(Clone)|Content_rank|1|Button_head,,,0,0,0
+260602,0,0,0,0.5,0|0,←,270|-230,View player's personal information,RankUIScene(Clone)|Content_rank|2|Button_head,,,0,0,0
+260603,0,0,0,0.5,0|0,→,-244|174,Click to visit the player’s Chaotic Realm,OtherPlayerInfoUIDialog(Clone)|Button_outland,,,0,0,0
 270001,1,0,0,0.4,0|0,←,216|161,Gear ascend system has been opened,Scene_Lobby_Button_ArmorMake,,,0,0,0
-270002,0,1,0,0.2,0|0,↓,0|385,Gear ascend system has been opened,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_illusion,,,0,0,0
-270003,0,1,0,0.3,0|0,↑,130|-360,Choose the gear that needs to be ascended,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelIllusionUITpl|Button_select,,260|85,0,0,0
-270004,0,1,0,0.3,,↑,0|150,"<size=28>The present is T1 weapon magic stone, please select the corresponding weapon to ascend</size>",ArmorIllusionSelectUIDialog(Clone)|Button_select,,,0,0,1
-270005,0,1,0,0.3,0|0,↓,-30|350,Unlock new phase of Ranks,SceneUIRoot|LobbyUIScene(Clone)|Button_high_level,,,0,0,0
-270006,0,1,0,0.3,0|0,↑,-30|320,Upgrade your Ranks,UserHighLevelUIScene(Clone)|Button_level_up,,,0,0,0
-270007,1,0,0,0.3,0|0,←,320|113,Relic Awakening is available now,SceneUIRoot|LobbyUIScene(Clone)|Button_main_relic,,,0,0,0
-270008,0,1,0,0.3,0|0,↓,-30|320,Relic Awakening is available now,SceneUIRoot|RelicStrengthenUIScene(Clone)|Toggle_tab_awake,,,0,0,0
-280001,0,1,0,0.3,0|0,↓,336|151,Wonderland is open,SceneUIRoot|BattleUIScene(Clone)|button_tower_defense,,,0,0,0
-280002,0,1,0,0.3,0|0,↓,-75|370,Tap one level to challenge,TowerDefenseUIScene(Clone)|PanelTDChapter1UITpl|ItemTDStepUITpl_1,,,0,0,0
-280006,0,1,0,0.3,0|0,↑,0|168,Choose angels and enter the battle,TDStepInfoUIDialog(Clone)|Button_Challenge,,,0,0,0
-280007,0,1,0,0.3,0|0,↑,246|-363,Tap to purchase the angel,TowerDefenseFightUIScene(Clone)|button_guide_hero_1,,,0,0,0
-280008,0,1,0,0.3,0|0,↑,-330|-188,Consume EXP to level up the angel,TowerDefenseFightUIScene(Clone)|BattleHero|Button_guide_uplevel,,,0,0,0
-280009,0,1,0,0.3,0|0,↑,72|-367,Purchase the same angel to level up her star,TowerDefenseFightUIScene(Clone)|button_guide_hero_2,,,0,0,0
-290001,1,0,0,0.3,0|0,→,-320|226,The Angel Dreamland Gameplay is opened,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
-290002,0,0,0,0.3,0|0,↓,56|333,Click the Angel Dreamland,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonURPlusUITpl|Button_enter,,,0,0,0
-290101,0,1,0,0.3,0|0,↓,,,URPlusDungeonMapUIScene(Clone)|Button_fight,,,0,0,0
-290102,0,1,0,0.3,0|0,↓,,,URPlusDungeonInfoUIDialog(Clone)|Button_fight,,,0,0,0
-290103,1,0,0,0.3,,→,-169|-260,The Airship arrived. Go and check it now,OutlandMainUIScene(Clone)|Button_to_map2,,,0,0,0
-290104,0,1,0,0.3,0|0,↑,150|-378,Tap to unlock the Airship,OutlandMainUIScene(Clone)|Building_smsd,,,0,0,0
-290105,0,1,0,0.3,0|0,↑,150|-378,Tap the Airship to check what's new,OutlandMainUIScene(Clone)|Building_smsd,,,0,0,0
-290106,1,0,0,0.3,0|0,↓,315|164,Get your dungeon rewards now,SceneUIRoot|BattleUIScene(Clone)|button_progress_reward,,,0,0,0
-310001,0,1,0,0.3,0|0,↓,-30|450,Tap the Crystal to check the quest; Completing the quest  to destroy it.,SceneUIRoot|UserHighLevelBossUIScene(Clone)|Button_first,,,0,0,0
-310002,0,1,0,0.3,0|0,↓,-124|380,"Look, a rift appeared out of nowhere. Let’s go and check out what happened.",OutlandMainUIScene(Clone)|Building_boss,,,0,0,0
-310100,0,1,0,0.3,0|0,↑,150|-378,Tap to unlock Miracle Temple,OutlandMainUIScene(Clone)|Building_bwg,,,0,0,0
-310101,0,1,0,0.3,0|0,↓,150|-222,Tap to unlock the Treasure Realm,OutlandMainUIScene(Clone)|Building_xbmj,,,0,0,0
-310102,0,1,0,0.3,0|0,↑,-100|-378,Tap the Miracle Card,Guide_Treasure_UITpl,,200|260,0,0,0
-310103,0,1,0,0.3,0|0,↑,10|-378,Tap the dispatching list,OSLDispatchUIScene(Clone)|ScrollView_item|ItemOSDStateUITpl(Clone),,680|275,0,0,0
-310104,0,1,0,0.3,0|0,↑,-14|192,Tap to select a Eudemon,OSLDetailUIDialog(Clone)|ItemOSLAnimalUITpl,,,0,0,0
-310105,0,1,0,0.3,0|0,↑,10|231,Tap to dispatch,OSLDetailUIDialog(Clone)|Button_dispatch,,,0,0,0
-310106,0,1,0,0.3,0|0,↑,,,OutlandMainUIScene(Clone)|Building_bwg,,,0,0,0
-310107,0,1,0,0.3,0|0,↓,,,OutlandMainUIScene(Clone)|Building_xbmj,,,0,0,0
-310108,0,1,0,0.3,0|0,↑,-195|-378,Tap to speed up,OSLDispatchUIScene(Clone)|ScrollView_item|ItemOSDStateUITpl(Clone)|Button_guide_done,,,0,0,0
-310109,0,1,0,0.3,0|0,↑,-322|-410,Tap to return to the Chaotic Realm,OSLDispatchUIScene(Clone)|Button_return,,,0,0,0
-310110,0,1,0,0.3,0|0,↓,10|394,Tap to unlock the Miracle Card,OMTDetailUIDialog(Clone)|Button_levelup,,,0,0,0
-310111,0,1,0,0.3,0|0,↑,-200|228,Ask for Help,DriftingDungeonFightUIDialog(Clone)|Button_help,,,0,0,0
-310112,1,0,0,0.3,0|0,↓,,,Scene_Lobby_MainMenu_Hero,,,0,0,0
-310113,0,1,0,0.3,0|0,↑,,,Hero_Life_Star_First_UR_Hero,,185|278,0,0,0
-310114,0,1,0,0.3,0|0,↑,,,HeroUIScene(Clone)|GameObject_HeroInfo|Button_life_star,,,0,0,0
-310115,0,1,0,0.3,0|0,↓,200|-158,点击显示命星属性										,Hero_Life_Star_First_Star,,,0,0,0
-310116,0,1,0,0.3,0|0,↓,0|400,点击激活命星力量										,HeroLifeStarUIScene(Clone)|PanelMainLifeStarUITpl|panel_attr|Button_levelup,,,0,0,0
-310117,0,1,0,0.3,0|0,↑,-127|-398,点击切换到群星										,HeroLifeStarUIScene(Clone)|ToggleGroupTabs|Toggle_tab_other,,,0,0,0
-310118,0,1,0,0.3,0|0,↑,0|288,主星为女神本体										,HeroLifeStarUIScene(Clone)|PanelOtherLifeStarUITpl|Image_main_hero,,,0,0,0
-310119,0,1,0,0.3,0|0,↓,128|346,伴星为其他女神的主星										,HeroLifeStarUIScene(Clone)|PanelOtherLifeStarUITpl|ItemHeroLifeStarUITpl2,,,0,0,0
-310120,0,1,0,0.3,0|0,↓,161|406,达成一定的条件即可激活群星技能										,HeroLifeStarUIScene(Clone)|PanelOtherLifeStarUITpl|Layout_skills|1,,,0,0,0
-310121,0,1,0,0.3,0|0,↑,192|-396,Select a Eudemon,OSLAnimalChooseUIDialog(Clone)|Button_for_guide,,,0,0,0
-310122,0,1,0,0.3,0|0,↑,0|247,Tap to confirm,OSLAnimalChooseUIDialog(Clone)|Button_ok,,,0,0,0
-310123,0,1,0,0.3,0|0,↓,10|394,Tap to unlock the Miracle Card,OMTDisplayUIDialog(Clone)|Button_up,,,0,0,0
-310124,0,1,0,0.3,0|0,↑,217|-409,Tap to select a location,OSLDetailUIDialog(Clone)|ScrollView_place|content|1,,258|84,0,0,0
-310125,0,1,0,0.3,0|0,↑,118|231,Tap to select a food,OSLDetailUIDialog(Clone)|food_1,,72|72,0,0,0
-320001,1,0,0,0.3,0|0,→,-207|-137,New system unlocks,BattleUIScene(Clone)|Bottom|button_world,,,1,0,0
-320002,0,1,0,0.3,0|0,→,-353|0,Tap to enter Nightmare Battlefield,WorldMapUIScene(Clone)|Bottom|Button_nightmare_small,,,0,0,0
-320003,0,1,0,0.3,0|0,↓,0|311,Tap to return to the battlefield,WorldMapUIScene(Clone)|Bottom|MainMenuUITpl(Clone)|Button_battle,,,0,0,0
-320004,0,1,0,0.3,0|0,↓,163|314,Tap to enter the Line-up interface,BattleUIScene(Clone)|Bottom|Button_team_nightMare,,,0,0,0
-320005,0,1,0,0.3,0|0,→,0|-176,Tap to create your first team,MultHeroArrayUIScene(Clone)|Content_mult|1,,,0,0,0
-320006,0,1,0,0.3,0|0,→,0|-176,Tap to create your second team,MultHeroArrayUIScene(Clone)|Content_mult|2,,,0,0,0
-320100,1,0,0,0.4,0|0,←,216|161,"The Artifact Inventory has been enabled, and you can use the Artifact Resonance feature",Scene_Lobby_Button_ArmorMake,,,0,0,0
-320101,0,1,0,0.2,0|0,↓,-186|380,Click to enter the Artifact Inventory,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_seven_special_armor,,,0,0,0
-320102,0,1,0,0.2,0|0,←,78|-285,This is the target Echo Artifact. It activates when owning 12 sets Artifacts,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide1,,,0,0,0
-320103,0,1,0,0.2,0|0,→,0|-303,This is the next star rating for the current Echo Artifact,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide2,,,0,0,0
-320104,0,1,0,0.2,0|0,←,0|170,This is the unlocking condition for the next star rating,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide3,,,0,0,0
-320105,0,1,0,0.2,0|0,↑,-232|-392,Tap to open the Artifact Inventory to view the artifacts you already own,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Button_armor_bag,,,0,0,0
+270002,0,1,0,0.4,0|0,↓,0|385,Gear ascend system has been opened,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_illusion,,,0,0,0
+270003,0,1,0,0.5,0|0,↑,130|-360,Choose the gear that needs to be ascended,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelIllusionUITpl|Button_select,,260|85,0,0,0
+270004,0,1,0,0.5,,↑,0|150,"<size=28>The present is T1 weapon magic stone, please select the corresponding weapon to ascend</size>",ArmorIllusionSelectUIDialog(Clone)|Button_select,,,0,0,1
+270005,0,1,0,0.5,0|0,↓,-30|350,Unlock new phase of Ranks,SceneUIRoot|LobbyUIScene(Clone)|Button_high_level,,,0,0,0
+270006,0,1,0,0.5,0|0,↑,-30|320,Upgrade your Ranks,UserHighLevelUIScene(Clone)|Button_level_up,,,0,0,0
+270007,1,0,0,0.5,0|0,←,320|113,Relic Awakening is available now,SceneUIRoot|LobbyUIScene(Clone)|Button_main_relic,,,0,0,0
+270008,0,1,0,0.5,0|0,↓,-30|320,Relic Awakening is available now,SceneUIRoot|RelicStrengthenUIScene(Clone)|Toggle_tab_awake,,,0,0,0
+280001,0,1,0,0.5,0|0,↓,336|151,Wonderland is open,SceneUIRoot|BattleUIScene(Clone)|button_tower_defense,,,0,0,0
+280002,0,1,0,0.5,0|0,↓,-75|370,Tap one level to challenge,TowerDefenseUIScene(Clone)|PanelTDChapter1UITpl|ItemTDStepUITpl_1,,,0,0,0
+280006,0,1,0,0.5,0|0,↑,0|168,Choose angels and enter the battle,TDStepInfoUIDialog(Clone)|Button_Challenge,,,0,0,0
+280007,0,1,0,0.5,0|0,↑,246|-363,Tap to purchase the angel,TowerDefenseFightUIScene(Clone)|button_guide_hero_1,,,0,0,0
+280008,0,1,0,0.5,0|0,↑,-330|-188,Consume EXP to level up the angel,TowerDefenseFightUIScene(Clone)|BattleHero|Button_guide_uplevel,,,0,0,0
+280009,0,1,0,0.5,0|0,↑,72|-367,Purchase the same angel to level up her star,TowerDefenseFightUIScene(Clone)|button_guide_hero_2,,,0,0,0
+290001,1,0,0,0.5,0|0,→,-320|226,The Angel Dreamland Gameplay is opened,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
+290002,0,0,0,0.5,0|0,↓,56|333,Click the Angel Dreamland,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonURPlusUITpl|Button_enter,,,0,0,0
+290101,0,1,0,0.5,0|0,↓,,,URPlusDungeonMapUIScene(Clone)|Button_fight,,,0,0,0
+290102,0,1,0,0.5,0|0,↓,,,URPlusDungeonInfoUIDialog(Clone)|Button_fight,,,0,0,0
+290103,1,0,0,0.5,,→,-169|-260,The Airship arrived. Go and check it now,OutlandMainUIScene(Clone)|Button_to_map2,,,0,0,0
+290104,0,1,0,0.5,0|0,↑,150|-378,Tap to unlock the Airship,OutlandMainUIScene(Clone)|Building_smsd,,,0,0,0
+290105,0,1,0,0.5,0|0,↑,150|-378,Tap the Airship to check what's new,OutlandMainUIScene(Clone)|Building_smsd,,,0,0,0
+290106,1,0,0,0.5,0|0,↓,315|164,Get your dungeon rewards now,SceneUIRoot|BattleUIScene(Clone)|button_progress_reward,,,0,0,0
+310001,0,1,0,0.5,0|0,↓,-30|450,Tap the Crystal to check the quest; Completing the quest  to destroy it.,SceneUIRoot|UserHighLevelBossUIScene(Clone)|Button_first,,,0,0,0
+310002,0,1,0,0.5,0|0,↓,-124|380,"Look, a rift appeared out of nowhere. Let’s go and check out what happened.",OutlandMainUIScene(Clone)|Building_boss,,,0,0,0
+310100,0,1,0,0.5,0|0,↑,150|-378,Tap to unlock Miracle Temple,OutlandMainUIScene(Clone)|Building_bwg,,,0,0,0
+310101,0,1,0,0.5,0|0,↓,150|-222,Tap to unlock the Treasure Realm,OutlandMainUIScene(Clone)|Building_xbmj,,,0,0,0
+310102,0,1,0,0.5,0|0,↑,-100|-378,Tap the Miracle Card,Guide_Treasure_UITpl,,200|260,0,0,0
+310103,0,1,0,0.5,0|0,↑,10|-378,Tap the dispatching list,OSLDispatchUIScene(Clone)|ScrollView_item|ItemOSDStateUITpl(Clone),,680|275,0,0,0
+310104,0,1,0,0.5,0|0,↑,-14|192,Tap to select a Eudemon,OSLDetailUIDialog(Clone)|ItemOSLAnimalUITpl,,,0,0,0
+310105,0,1,0,0.5,0|0,↑,10|231,Tap to dispatch,OSLDetailUIDialog(Clone)|Button_dispatch,,,0,0,0
+310106,0,1,0,0.5,0|0,↑,,,OutlandMainUIScene(Clone)|Building_bwg,,,0,0,0
+310107,0,1,0,0.5,0|0,↓,,,OutlandMainUIScene(Clone)|Building_xbmj,,,0,0,0
+310108,0,1,0,0.5,0|0,↑,-195|-378,Tap to speed up,OSLDispatchUIScene(Clone)|ScrollView_item|ItemOSDStateUITpl(Clone)|Button_guide_done,,,0,0,0
+310109,0,1,0,0.5,0|0,↑,-322|-410,Tap to return to the Chaotic Realm,OSLDispatchUIScene(Clone)|Button_return,,,0,0,0
+310110,0,1,0,0.5,0|0,↓,10|394,Tap to unlock the Miracle Card,OMTDetailUIDialog(Clone)|Button_levelup,,,0,0,0
+310111,0,1,0,0.5,0|0,↑,-200|228,Ask for Help,DriftingDungeonFightUIDialog(Clone)|Button_help,,,0,0,0
+310112,1,0,0,0.5,0|0,↓,,,Scene_Lobby_MainMenu_Hero,,,0,0,0
+310113,0,1,0,0.5,0|0,↑,,,Hero_Life_Star_First_UR_Hero,,185|278,0,0,0
+310114,0,1,0,0.5,0|0,↑,,,HeroUIScene(Clone)|GameObject_HeroInfo|Button_life_star,,,0,0,0
+310115,0,1,0,0.5,0|0,↓,200|-158,点击显示命星属性		,Hero_Life_Star_First_Star,,,0,0,0
+310116,0,1,0,0.5,0|0,↓,0|400,点击激活命星力量		,HeroLifeStarUIScene(Clone)|PanelMainLifeStarUITpl|panel_attr|Button_levelup,,,0,0,0
+310117,0,1,0,0.5,0|0,↑,-127|-398,点击切换到群星		,HeroLifeStarUIScene(Clone)|ToggleGroupTabs|Toggle_tab_other,,,0,0,0
+310118,0,1,0,0.5,0|0,↑,0|288,主星为女神本体		,HeroLifeStarUIScene(Clone)|PanelOtherLifeStarUITpl|Image_main_hero,,,0,0,0
+310119,0,1,0,0.5,0|0,↓,128|346,伴星为其他女神的主星		,HeroLifeStarUIScene(Clone)|PanelOtherLifeStarUITpl|ItemHeroLifeStarUITpl2,,,0,0,0
+310120,0,1,0,0.5,0|0,↓,161|406,达成一定的条件即可激活群星技能		,HeroLifeStarUIScene(Clone)|PanelOtherLifeStarUITpl|Layout_skills|1,,,0,0,0
+310121,0,1,0,0.5,0|0,↑,192|-396,Select a Eudemon,OSLAnimalChooseUIDialog(Clone)|Button_for_guide,,,0,0,0
+310122,0,1,0,0.5,0|0,↑,0|247,Tap to confirm,OSLAnimalChooseUIDialog(Clone)|Button_ok,,,0,0,0
+310123,0,1,0,0.5,0|0,↓,10|394,Tap to unlock the Miracle Card,OMTDisplayUIDialog(Clone)|Button_up,,,0,0,0
+310124,0,1,0,0.5,0|0,↑,217|-409,Tap to select a location,OSLDetailUIDialog(Clone)|ScrollView_place|content|1,,258|84,0,0,0
+310125,0,1,0,0.5,0|0,↑,118|231,Tap to select a food,OSLDetailUIDialog(Clone)|food_1,,72|72,0,0,0
+320001,1,0,0,0.5,0|0,→,-207|-137,New system unlocks,BattleUIScene(Clone)|Bottom|button_world,,,1,0,0
+320002,0,1,0,0.5,0|0,→,-353|0,Tap to enter Nightmare Battlefield,WorldMapUIScene(Clone)|Bottom|Button_nightmare_small,,,0,0,0
+320003,0,1,0,0.5,0|0,↓,0|311,Tap to return to the battlefield,WorldMapUIScene(Clone)|Bottom|MainMenuUITpl(Clone)|Button_battle,,,0,0,0
+320004,0,1,0,0.5,0|0,↓,163|314,Tap to enter the Line-up interface,BattleUIScene(Clone)|Bottom|Button_team_nightMare,,,0,0,0
+320005,0,1,0,0.5,0|0,→,0|-176,Tap to create your first team,MultHeroArrayUIScene(Clone)|Content_mult|1,,,0,0,0
+320006,0,1,0,0.5,0|0,→,0|-176,Tap to create your second team,MultHeroArrayUIScene(Clone)|Content_mult|2,,,0,0,0
+320100,1,0,0,0.8,0|0,←,216|161,"The Artifact Inventory has been enabled, and you can use the Artifact Resonance feature",Scene_Lobby_Button_ArmorMake,,,0,0,0
+320101,0,1,0,0.4,0|0,↓,-186|380,Click to enter the Artifact Inventory,SceneUIRoot|ArmorMakeUIScene(Clone)|Toggle_tab_seven_special_armor,,,0,0,0
+320102,0,1,0,0.4,0|0,←,78|-285,This is the target Echo Artifact. It activates when owning 12 sets Artifacts,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide1,,,0,0,0
+320103,0,1,0,0.4,0|0,→,0|-303,This is the next star rating for the current Echo Artifact,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide2,,,0,0,0
+320104,0,1,0,0.4,0|0,←,0|170,This is the unlocking condition for the next star rating,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide3,,,0,0,0
+320105,0,1,0,0.4,0|0,↑,-232|-392,Tap to open the Artifact Inventory to view the artifacts you already own,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Button_armor_bag,,,0,0,0

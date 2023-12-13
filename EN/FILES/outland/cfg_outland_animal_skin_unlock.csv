@@ -10,7 +10,7 @@ id,avatar_name,spine_name,avatar_icon_big,avatar_icon_small,long_image,avatar_qu
 109001000,Undine,SN_SJL,2001_1.png,1009_0.png,img_shouniang9.png,2,9,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
 110001000,Gnome,SN_TJL,2001_1.png,1010_0.png,img_shouniang10.png,2,10,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
 111001000,Salamandra,SN_HJL,2001_1.png,1011_0.png,img_shouniang11.png,2,11,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
-112001000,Hati&Sköll,SN_HT,2001_1.png,1012_0.png,img_shouniang12.png,2,12,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
+112001000,HatiandSköll,SN_HT,2001_1.png,1012_0.png,img_shouniang12.png,2,12,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
 113001000,Nidhogg,SN_NDHG,2001_1.png,1013_0.png,img_shouniang13.png,2,13,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
 114001000,Jormungand,SN_YMJD,2001_1.png,1014_0.png,img_shouniang14.png,2,14,1,0,0,0,Default,1,animal_ui_bg_2.jpg,,,4
 115001000,Finette,SN_ML,2001_1.png,1015_0.png,img_shouniang15.png,2,15,1,0,0,0,Default,1,animal_ui_bg_1.jpg,,,4

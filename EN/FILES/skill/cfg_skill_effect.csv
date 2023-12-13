@@ -1,4 +1,5 @@
 ﻿eid,bundle_anim,bundle_trigger_time,hit_anim,hit_trigger_time,effect_play_delay,shake_target,shake_screen,accumulational_effect_play_delay
+9999,,0,,0,0,0,0,0
 10000,attack_att,0.2,attack_hit,0,0,1,0,0
 10001,attack_att,0.2,attack_hit,0,0,1,0,0
 10002,attack_2_att,0.2,attack_2_hit,0,0,1,0,0
@@ -1367,7 +1368,7 @@
 146802401,SLZM_att,0.5,SLZM_hit,0,1.2,1,0,0
 146802501,SLZM_att,0.5,SLZM_hit,0,1.5,1,0,0
 146802601,SLZM_att,0.5,SLZM_hit,0,1.8,1,0,0
-156801101,LFSQ_att,0.9,LFSQ_hit,0,1,1,0,0
+156801101,LFSQ_att,0.8,LFSQ_hit,0,1,1,0,0
 156802001,,0,,0,0,0,0,0
 156802101,,0,,0,0,0,0,0
 117001101,,0,LHBSJ_hit,0,0,1,1,0

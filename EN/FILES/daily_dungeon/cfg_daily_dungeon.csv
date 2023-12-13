@@ -2,4 +2,4 @@ id,daily_name,daily_des,daily_number,daily_time,unlock_level,bg_path,icon_path,s
 1,Gold Dungeon,Magic immunity,2,0|1|2|3,20,img_daily01,WEJL0,img_daily_bg_gold.jpg,lock_tips
 2,Fashion Dungeon,Physical immunity,2,0|4|5,25,img_daily02,ANBS0,img_daily_bg_exterior.jpg,lock_tips
 3,Angel Dungeon,Challenge yourself,2,0|6,30,img_daily03,ERBS0,img_daily_bg_hero.jpg,lock_tips
-4,Training Dungeon,Dominating ATK & Superb HP Recovery,2,-1,160,img_daily04,BSD2,img_daily_bg_cultivate.jpg,lock_tips
+4,Training Dungeon,Dominating ATK and Superb HP Recovery,2,-1,160,img_daily04,BSD2,img_daily_bg_cultivate.jpg,lock_tips

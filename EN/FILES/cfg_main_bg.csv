@@ -1,7 +1,7 @@
 id,goods_id,name,choose_bg,show_bg
 1,0,Original Background,image_bg_01_1.jpg,image_bg_01_1.jpg
 2,0,Wilderness ruins,img_main3.png,img_job_bg_3.jpg
-3,0,Cityscape,img_main4.png,img_job_bg_1.jpg
+3,0,Cityscape,image_bg_01_0.png,image_bg_01_0.jpg
 4,0,Forest,img_main5.png,img_job_bg_2.jpg
 5,3000099,Romantic Beach,img_haitan_bg.png,img_haitan_bg.jpg
 6,0,Sacred Palace,image_bg_01.jpg,image_bg_01.jpg
