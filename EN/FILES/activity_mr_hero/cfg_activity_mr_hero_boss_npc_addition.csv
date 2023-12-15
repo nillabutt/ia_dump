@@ -1,7 +1,7 @@
 attr_key,attr_additon
 max_hp,50
-min_attack,100
-max_attack,100
+min_attack,10
+max_attack,10
 defend,300
 defend_ignore_level,300
 physc_def,300
@@ -10,3 +10,4 @@ crit,300
 decrit,300
 debuff_resist,1
 bounce_rate,1
+damage_add,1000

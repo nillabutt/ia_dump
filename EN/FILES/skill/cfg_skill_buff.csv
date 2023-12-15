@@ -475,6 +475,15 @@
 158301111,1,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,DMG UP,10
 158302211,2,,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,Increase DMG and reduce DMG taken,0
 158302311,2,,,,Power of War - War Domain,,,,0
+128401211,1,78,,,Curse - Despair Note,PoJia,"Decrease DEF, P.RES and M.RES",Curse,0
+148402211,2,59,,,必定暴击,,,,0
+158401111,1,78,,,Curse - Purgatory Prison,PoJia,"Decrease DEF, P.RES and M.RES",Curse,0
+168401211,1,,,,受到伤害增加,PoJia,,,0
+168411211,1,,,,受到伤害增加,PoJia,,,0
+168421211,1,,,,受到伤害增加,PoJia,,,0
+168431211,1,,,,受到伤害增加,PoJia,,,0
+168441211,1,,,,受到伤害增加,PoJia,,,0
+168451211,1,,,,受到伤害增加,PoJia,,,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0

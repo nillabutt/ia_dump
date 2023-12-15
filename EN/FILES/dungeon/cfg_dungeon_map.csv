@@ -71,3 +71,7 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide
 70,Uganda,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200169,0
 71,Kenya,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200170,0
 72,Tanzania,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200171,0
+73,Djibouti,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200172,1
+74,Saudi Arabia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200173,0
+75,Yemen,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200174,0
+76,Oman,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200175,0

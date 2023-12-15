@@ -60,6 +60,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 1159,Transcending Sword,1125.png,0,1,290,3:44252|4:47916,760,100
 1160,Galactic Sword,1126.png,0,1,295,3:45956|4:49563,770,100
 1161,Cosmic Sword,1127.png,0,1,300,3:47660|4:51210,780,100
+1162,Sword of Destruction,1128.png,0,1,305,3:49364|4:52857,790,100
+1163,Sword of Hope,1129.png,0,1,310,3:51068|4:54504,800,100
 3001,Cloth Cap,3001.png,0,2,1,7:3,4,100
 3002,Blossoms,3002.png,0,2,5,7:13,10,100
 3003,Thick Cap,3003.png,0,2,10,7:33,20,100
@@ -121,6 +123,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 3059,Transcending Helmet,3025.png,0,2,290,7:30459,760,100
 3060,Galactic Helmet,3026.png,0,2,295,7:31659,770,100
 3061,Cosmic Helmet,3027.png,0,2,300,7:32859,780,100
+3062,Helmet of Destruction,3028.png,0,2,305,7:34059,790,100
+3063,Helmet of Hope,3029.png,0,2,310,7:35259,800,100
 5001,Recruit,5001.png,0,4,1,5:3,4,100
 5002,Chaine Armor,5002.png,0,4,5,5:6,10,100
 5003,Hard Armor,5003.png,0,4,10,5:16,20,100
@@ -182,6 +186,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 5059,Transcending Armor,5025.png,0,4,290,5:41042,760,100
 5060,Galactic Armor,5026.png,0,4,295,5:42644,770,100
 5061,Cosmic Armor,5027.png,0,4,300,5:44246,780,100
+5062,Armor of Destruction,5028.png,0,4,305,5:45848,790,100
+5063,Armor of Hope,5029.png,0,4,310,5:47450,800,100
 6001,Flax Belt,6001.png,0,8,1,1:20,4,100
 6002,Hide Belt,6002.png,0,8,5,1:97,10,100
 6003,Sturdy Belt,6003.png,0,8,10,1:392,20,100
@@ -243,6 +249,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 6059,Transcending Belt,6025.png,0,8,290,1:189428,760,100
 6060,Galactic Belt,6026.png,0,8,295,1:197678,770,100
 6061,Cosmic Belt,6027.png,0,8,300,1:205928,780,100
+6062,Belt of Destruction,6028.png,0,8,305,1:214178,790,100
+6063,Belt of Hope,6029.png,0,8,310,1:222428,800,100
 8001,Cloth Shoes,8001.png,0,10,1,6:3,4,100
 8002,Leather Boots,8002.png,0,10,5,6:13,10,100
 8003,Padded Boots,8003.png,0,10,10,6:33,20,100
@@ -304,6 +312,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 8059,Transcending Boots,8025.png,0,10,290,6:30459,760,100
 8060,Galactic Boots,8026.png,0,10,295,6:31659,770,100
 8061,Cosmic Boots,8027.png,0,10,300,6:32859,780,100
+8062,Boots of Destruction,8028.png,0,10,305,6:34059,790,100
+8063,Boots of Hope,8029.png,0,10,310,6:35259,800,100
 14001,Silver Ring,14001.png,0,5,1,17:3,4,100
 14002,Gold Ring,14002.png,0,5,5,17:6,10,100
 14003,Jeweled Ring,14003.png,0,5,10,17:16,20,100
@@ -365,3 +375,5 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,sel
 14059,Transcending Ring,14025.png,0,5,290,17:41042,1080,100
 14060,Galactic Ring,14026.png,0,5,295,17:42644,1110,100
 14061,Cosmic Ring,14027.png,0,5,300,17:44246,1140,100
+14062,Ring of Destruction,14028.png,0,5,305,17:45848,1170,100
+14063,Ring of Hope,14029.png,0,5,310,17:47450,1200,100

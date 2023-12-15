@@ -26,4 +26,5 @@ dungeon_map_id,is_lock,name,memory_goods_id,heroes,task_condition,img_big,img_sm
 25,0,Thor's Dreamland,4000025,150,500025,suoer_bg_big.png,suoer_bg_small.png
 26,0,Loki's Dreamland,4000026,156,500026,luoji_bg_big.png,luoji_bg_small.png
 27,0,Apollo's Dreamland,4000027,162,500027,aboluo_bg_big.png,aboluo_bg_small.png
+28,0,Uriel's Dreamland,4000028,168,500028,wulieer_bg_big.png,wulieer_bg_small.png
 101,1,Stay tuned,3000150,6,500001,hela_bg_big.png,hela_bg_small.png

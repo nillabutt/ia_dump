@@ -244,7 +244,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 1009007,1009008,,,,1,USER_MAIN_CZ,HL0,1,Me,"There's not enough time! Bari, we can do it ourselves!",,0,0
 1009008,1009009,,,,1,WL_CZ,HMDE0,2,Gabriel,"Alright. Siren, take a rest here and we’ll deal with the rest. Where is Tsukuyomi?",,0,0
 1009009,1009010,,,,1,Y0,SDNS0,2,Siren,I’ll send you to her shrine.,,0,0
-1009010,1009011,,{black},,0,,,0,,女神和加百列被传送到了月读神社。,,0,0
+1009010,1009011,,{black},,0,,,0,,Then the Angel and Gabriel are sent to Tsukuyomi’s shrine.,,0,0
 1009011,1009012,,YueDuShenShe,,1,YYJZ0,MJL0,2,Tsukuyomi,Who? Who’s there?,,0,0
 1009012,1009013,,,,1,WL_CZ,HMDE0,2,Gabriel,"Haven't seen you for a long time, Tsukuyomi.",,0,0
 1009013,1009014,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Bari? How dare you come here? I’ll kill you!,,0,0
@@ -4679,6 +4679,94 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34600086,34600087,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Of course, I don't expect you to stay, as you still have a sun to guide.",,0,0
 34600087,34600088,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,I only hope you can stay a few more days so I can truly savor this extraordinary composition.,,0,0
 34600088,-1,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,1,Apollo,"I am delighted to share this moment with you, Hades.",,0,0
+34700001,34700002,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,Who summons me... Uriel? What intentions drive you to summon me to this abyss of iniquity?,,0,0
+34700002,34700003,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"The Apocalypse is imminent, and I need your help to persuade my sisters to stand together in this trying time.",,0,0
+34700003,34700004,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"The Apocalypse? I'm not well-versed in your Hebrew prophecies, but it sounds serious.",,0,0
+34700004,34700005,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"If the Apocalypse descends, the entire world will plunge into Armageddon!",,0,0
+34700005,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Well, if it concerns the entire world, I can assist you. But before that, I need to test you.",,0,0
+34700006,34700007,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"You've passed my test. Now, tell me your plan, and let me prepare accordingly.",,0,0
+34700007,34700008,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"Thank you, Pandora. Some of my sisters are still in conflict with each other, and I must convince them to reunite.",,0,0
+34700008,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"You mean Michael and Lucifer? Hmm, I understand. Convincing them won't be easy; first, we need to find some allies.",,0,0
+34700009,34700010,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Lucifer is a formidable adversary, but not without weaknesses; for instance, Loki can handle her.",,0,0
+34700010,34700011,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,How can we find Loki then?,,0,0
+34700011,34700012,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"She is currently imprisoned on Yggdrasil, and we need to break through the defenses of the Valkyries.",,0,0
+34700012,34700013,,NuwaJingu,,1,WEJL2,HFSTS0,2,Valkyrie,Who dares to intrude upon this Nordic sacred land?,,0,0
+34700013,34700014,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"My apologies, we're only here to borrow someone. She is crucial to us and to the fate of this world!",,0,0
+34700014,-1,,NuwaJingu,,1,WEJL2,HFSTS0,2,Valkyrie,You wish to rescue Loki? Then you must first pass through my challenge!,,0,0
+34700015,34700016,,NuwaJingu,,1,WEJL2,HFSTS0,2,Valkyrie,"Damn! If you're taking her, you better have a valid reason!",,0,0
+34700016,34700017,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"The Apocalypse from the Hebrew legends is imminent, and we need Loki to persuade my people to unite.",,0,0
+34700017,-1,,NuwaJingu,,1,WEJL2,HFSTS0,2,Valkyrie,"Loki is a flake, so I need to accompany you to ensure she won't betray everyone.",,0,0
+34700018,34700019,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Ah, I knew someone would come to set me free.",,0,0
+34700019,34700020,,NuwaJingu,,1,WEJL2,HFSTS0,1,Valkyrie,This isn't about pardoning your crimes; we need your assistance.,,0,0
+34700020,34700021,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,I never said I'd help you unless you can entertain me. I've been stuck here for ages; my muscles are getting stiff.,,0,0
+34700021,34700022,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"Our time is running out, Loki. We can't afford to dawdle any longer.",,0,0
+34700022,34700023,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"That's your time, not ours.",,0,0
+34700023,34700024,,NuwaJingu,,1,WEJL2,HFSTS0,1,Valkyrie,"No worries, Uriel, let's just have some fun with her.",,0,0
+34700024,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"You always get me, Valkyrie.",,0,0
+34700025,34700026,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Stop! Enough, you're hurting me!",,0,0
+34700026,34700027,,NuwaJingu,,1,WEJL2,HFSTS0,1,Valkyrie,"Had enough fun now, Loki?",,0,0
+34700027,34700028,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Had my fill. Hehe. So, what do you guys want?",,0,0
+34700028,34700029,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,I need your help dealing with Lucifer.,,0,0
+34700029,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Oh, the fallen archangel. Sure, I can handle her. Happens we have a bit of history. Lead the way then.",,0,0
+34700030,34700031,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"Pandora, we still need an ally to deal with Michael. She's a stubborn one, hard to persuade.",,0,0
+34700031,34700032,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"Athena excels at manipulating others' thoughts, especially effective against those with strong convictions. Let's seek her help.",,0,0
+34700032,34700033,,NuwaJingu,,1,YKLS0,HFSTS0,2,Icarus,"Foreign goddesses, please stop. Olympus is currently not accepting guests.",,0,0
+34700033,34700034,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"I am no foreign deity; I am Pandora, the goddess of mystery and curiosity. Please let us pass, Icarus.",,0,0
+34700034,34700035,,NuwaJingu,,1,YKLS0,HFSTS0,2,Icarus,But those behind you are.,,0,0
+34700035,34700036,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"Then, how can we convince you to let us in?",,0,0
+34700036,34700037,,NuwaJingu,,1,YKLS0,HFSTS0,2,Icarus,Unless you can demonstrate power convincing enough.,,0,0
+34700037,-1,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,Are you testing my determination? Very well then.,,0,0
+34700038,34700039,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,I believe I've proven myself.,,0,0
+34700039,-1,,NuwaJingu,,1,YKLS0,HFSTS0,2,Icarus,"Indeed, you've shown your strength. The gates of Olympus are open; please enter.",,0,0
+34700040,34700041,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,Are you here to see Athena? She's currently discussing tactics with Ares. I advise against disturbing her.,,0,0
+34700041,34700042,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"The apocalypse is upon us, and I need Athena's assistance to withstand this catastrophe together.",,0,0
+34700042,34700043,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,"Apocalypse? Sorry, I haven't heard of any impending apocalypse recently.",,0,0
+34700043,34700044,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,I've heard the call of the Apocalypse; the Four Horsemen from the Hebrew prophecy are about to descend. Only unity can hope to overcome this crisis!,,0,0
+34700044,-1,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,"But I fail to see how that concerns Athena. Well, if you're in a hurry to go through, then battle me!",,0,0
+34700045,34700046,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,"Alright, I concede. You may proceed.",,0,0
+34700046,34700047,,NuwaJingu,,1,WLE_UR,HFSTS0,1,Uriel,"Thank you, Gemini. If you don't mind, I would appreciate your help in saving this world.",,0,0
+34700047,-1,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,"Really? Well, now I'm interested.",,0,0
+34700048,34700049,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,Who dares to intrude upon my War Council?,,0,0
+34700049,34700050,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,"Noble goddess of wisdom, Athena, I seek your assistance.",,0,0
+34700050,34700051,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,"Speak, what do you want me to help you with?",,0,0
+34700051,34700052,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,"The Apocalypse is imminent, and my sisters are still in conflict. Only you can persuade them to unite and face it together.",,0,0
+34700052,-1,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,"You want me to mediate between Michael and Lucifer? Fine, but you must convince me with strength.",,0,0
+34700053,34700054,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,"Now, do you agree to help?",,0,0
+34700054,-1,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,I will join your cause and stand with you to confront the Apocalypse in Hebrew.,,0,0
+34700055,34700056,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"Cupid, what are you doing here?",,0,0
+34700056,34700057,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,"Just strolling around, you know, because I'm an angel too.",,0,0
+34700057,34700058,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,Have you seen Lucifer and Michael?,,0,0
+34700058,34700059,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,"Of course, you're looking for them? Beat me in a fight, and I'll tell you.",,0,0
+34700059,-1,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,"I'm up for the challenge, Cupid.",,0,0
+34700060,34700061,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,"Now, you can tell us their whereabouts.",,0,0
+34700061,-1,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,"Well, okay, let me guide you.",,0,0
+34700062,34700063,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,Lucifer!,,0,0
+34700063,34700064,,NuwaJingu,,1,LLS2,HFSTS0,2,Lucifer,"Oh, my dear sister, the fallen one, Uriel.",,0,0
+34700064,34700065,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,"You and Michael must cease your endless strife. The Apocalypse is upon us, and only through unity do we stand a chance!",,0,0
+34700065,34700066,,NuwaJingu,,1,LLS2,HFSTS0,2,Lucifer,The Apocalypse is just a lie from the Creator. I'm more interested in understanding the feud between Michael and me.,,0,0
+34700066,-1,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Speaking of lies, that's my specialty. Let me reveal the truth for you!",,0,0
+34700067,34700068,,NuwaJingu,,1,LLS2,HFSTS0,2,Lucifer,"Alright, you've won this round, but convincing me isn't enough. You need to make Michael stop.",,0,0
+34700068,-1,,NuwaJingu,,1,WLE_UR_PLUS,HFSTS0,1,Uriel,Understood. I'll persuade Michael to put aside her grievances with you.,,0,0
+34700069,34700070,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,"Michael, please set aside personal grievances for now and join forces against the impending apocalypse!",,0,0
+34700070,34700071,,NuwaJingu,,1,MJL2,HFSTS0,2,Michael,"It seems you've convinced Lucifer. Good. The feud started with her, and if she can let it go, so can I.",,0,0
+34700071,34700072,,NuwaJingu,,1,MJL2,HFSTS0,2,Michael,"However, she just added a new debt to the old ones. If I can reclaim it, we can call it even.",,0,0
+34700072,34700073,,NuwaJingu,,1,YDN0,HFSTS0,1,Athena,"If you seek repayment from her and create new conflicts, how can your grievances ever end?",,0,0
+34700073,34700074,,NuwaJingu,,1,YDN0,HFSTS0,1,Athena,"Trust me, I've been where you are, in endless battles with my sister Ares, but eventually, we found peace.",,0,0
+34700074,-1,,NuwaJingu,,1,MJL2,HFSTS0,2,Michael,"Well, if you're determined to persuade me, then come and fight me!",,0,0
+34700075,34700076,,NuwaJingu,,0,MJL2,HFSTS0,2,Michael,"I see your determination in your strength, Uriel. I will honor our agreement and temporarily reconcile with Lucifer.",,0,0
+34700076,34700077,,NuwaJingu,,0,MJL2,HFSTS0,2,Michael,"If we're to face the Apocalypse, there's one more matter to settle. Whether or not it needs settling depends on you.",,0,0
+34700077,34700078,,NuwaJingu,,0,WLE_MR,HFSTS0,1,Uriel,Is there a difference?,,0,0
+34700078,-1,58101|58102,NuwaJingu,,0,MJL2,HFSTS0,2,Michael,"There's a fearsome deity lingering in Hebrew. If you can gain her power, it might be helpful in the upcoming apocalypse.",,0,0
+34700079,-1,,NuwaJingu,,1,MJL2,HFSTS0,2,Michael,"I'll take you to her, but be cautious; her emotions are quite unstable.",,0,0
+34700080,-1,,NuwaJingu,,1,MJL2,HFSTS0,2,Michael,"You're right; we don't need overwhelming power. With unity, we can survive the Apocalypse.",,0,0
+34700081,34700082,,NuwaJingu,,1,MJL2,HFSTS0,1,Michael,"She lingers in this place, and anyone who sees her true form falls into fear.",,0,0
+34700082,34700083,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,"I've been in Hell for millennia, I can face fear, let me try to soothe her.",,0,0
+34700083,34700084,,NuwaJingu,,1,MJZ0,HFSTS0,2,Capricornus,Who disturbs my slumber?,,0,0
+34700084,34700085,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,"I am Uriel, the Angel of Hell, seeking your power.",,0,0
+34700085,-1,,NuwaJingu,,1,MJZ0,HFSTS0,2,Capricornus,You seek my power too? Then let's see if your body can withstand this fear!,,0,0
+34700086,34700087,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,"I have endured this fear, now please, bestow your power upon me. I will use it to prevent the Apocalypse.",,0,0
+34700087,34700088,,NuwaJingu,,1,MJZ0,HFSTS0,2,Capricornus,"Fear is like a plague, uncontrollably spreading. Handle it with care.",,0,0
+34700088,-1,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,I understand. I promise to use it for the right purpose.,,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
 40001,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0
