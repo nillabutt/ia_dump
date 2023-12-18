@@ -256,7 +256,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102049004,104,0,0,Sacred Palace,YKLS_HS,YKLS0,2049_HS.png,,2049_0.png,2049_HS.png,2049.png,1,6,2049,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,ykls,hero_ykls,4,1,,img_hunsha_bg,0
 102049200,102,0,0,Newborn Luster,YKLS_UR,YKLS0,2049_UR.png,,2049_0.png,2049_UR.png,2049.png,1,6,2049,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ykls,hero_ykls,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102049300,102,0,0,Flawless Wings - Icarus,YKLS_UR_PLUS,YKLS0,2049_UR_PLUS.png,,2049_0.png,2049_UR_PLUS.png,2049.png,1,6,2049,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,ykls,hero_ykls,4,1,PanDuoLaShenMiao,img_job_bg_1,1
-102049368,102,0,0,雏菊之恋-伊卡璐斯,YKLS_MR,YKLS0,2049_MR.png,,2049_0.png,2049_MR.png,2049.png,1,6,2049,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,ykls,hero_ykls,4,1,PanDuoLaShenMiao,img_job_bg_1,1
+102049368,102,0,0,Charm of Daisy - Icarus,YKLS_MR,YKLS0,2049_MR.png,,2049_0.png,2049_MR.png,2049.png,1,6,2049,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,ykls,hero_ykls,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102050000,0,0,0,Chaos,KES0,YXNM1,2050_0.png,,2046_1.png,2050.png,2046_1.png,0,2,2050,1,0,0,0,0,,111|1,Default,0,kes_yn,hero_kes,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102050001,105,0,0,Chaos,KES1,YXNM1,2050_1.png,,2046_1.png,2050_1.png,2046_1.png,0,3,2050,0,0,3:1:30|3:22:30,2:2000009:60,0,,,Exchange,0,kes_yn,hero_kes,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102050002,105,0,0,Chaos,KES2,YXNM1,2050_2.png,,2046_1.png,2050_2.png,2046_1.png,0,4,2050,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,kes_yn,hero_kes,4,1,PanDuoLaShenMiao,img_job_bg_1,0

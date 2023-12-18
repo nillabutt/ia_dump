@@ -782,7 +782,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 50009003,50009004,,,,1,SN_BRM,HFSTS0,2,Yvette,"For example, I have been studying the Spar Spring for a long time, and I know how it works.",,0,0
 50009004,50009005,,,,1,USER_MAIN_CZ,HL0,1,Me,"Well, I will try my best to seek help from other Eudemons.",,0,0
 50009005,-1,,,,1,SN_BRM,HFSTS0,2,Yvette,"Okay, let's talk about the rest later, I'm going to start work in the ruins, see you later!",,0,0
-51001001,51001002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Huh? Bari, is this a portal? Do you know how to activate it?",,0,0
+51001001,51001002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Huh? Gabriel, is this a portal? Do you know how to activate it?",,0,0
 51001002,51001003,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,How would I know? Why don't you try yelling Open Sesame?,,0,0
 51001003,51001004,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Open Sesame!!! Alright, I knew you were just pulling my leg…",,0,0
 51001004,51001005,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,But you still fell for it- Wait! Why is the portal starting to glow!?,,0,0
@@ -792,30 +792,30 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 51001008,51001009,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"Why are you staring at me so eagerly!? You don't expect me to fix this broken portal, do you?!",,0,0
 51001009,51001010,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"C'mon, honey. Please fix it for me? I'm dying to know! I know you can do it!",,0,0
 51001010,-1,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"Oh my god… How could I, a grand and magnificent Shrine Maiden, be reduced to doing this for you…",,0,0
-51002001,51002002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Bari...has the portal been fixed? You have been fixing it for a week, would you like me to help?",,0,0
+51002001,51002002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel...has the portal been fixed? You have been fixing it for a week, would you like me to help?",,0,0
 51002002,51002003,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"No need! If I ask you for help, this portal will fall apart in seconds!",,0,0
 51002003,51002004,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"I'm not that stupid, am I...? Wait! There seems to be movement in the portal? !",,0,0
 51002004,51002005,,{translucent},,1,SN_BSN,HFSTS0,2,？？？,"It seems to be connected, it's clearer than last time! Can you hear me? Testing! Testing!",,0,0
-51002005,51002006,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Hello? Hello?! Bari, do you know who is that on the other side?!",,0,0
+51002005,51002006,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Hello? Hello?! Gabriel, do you know who is that on the other side?!",,0,0
 51002006,51002007,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"I don’t know, but at least it’s not a monster, otherwise you would be dead by now…",,0,0
 51002007,51002008,,{translucent},,1,SN_BSN,HL0,2,？？？,"Don't worry, this is Chaos Realm, and the monsters dare not come here...",,0,0
-51002008,51002009,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Chaos Realm? Bari, do you know this place?",,0,0
+51002008,51002009,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Chaos Realm? Gabriel, do you know this place?",,0,0
 51002009,51002010,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"It seems to be located outside the realm of God, a place that even the God of Creation can't control…",,0,0
 51002010,51002011,,{translucent},,1,SN_BSN,HFSTS0,2,？？？,"Ah, you are half right, in fact this place is just…",,0,0
-51002011,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Just what? Ah ah ah! It's disconnected! Bari! ! Hurry! Fix the portal! ! !,,0,0
-51003001,51003002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Bari... It's been half a month, I'm dreaming about what's behind the portal…",,0,0
+51002011,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Just what? Ah ah ah! It's disconnected! Gabriel! ! Hurry! Fix the portal! ! !,,0,0
+51003001,51003002,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,"Gabriel... It's been half a month, I'm dreaming about what's behind the portal…",,0,0
 51003002,51003003,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"Don't worry, although it hasn't been completely fixed, it can be opened more or less smoothly.",,0,0
 51003003,51003004,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"This portal seems to only respond to your commands, and you can activate it by putting your hand on the door.",,0,0
 51003004,51003005,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Only respond to my orders? It's really weird... Try it, let's turn it on! !",,0,0
 51003005,51003006,,{translucent},,1,SN_BHJY,HFSTS0,2,？？？,Yo... It's really surprising that two people can complete the repair of the portal.,,0,0
 51003006,51003007,,{translucent},,1,WL_CZ,HL0,1,Gabriel,"You don't have the temperament of a god but you have a godhead...I see, you are an Eudemon, right?",,0,0
 51003007,51003008,,{translucent},,1,SN_BHJY,HFSTS0,2,？？？,"Indeed, as you said, we are Eudemons, exiled by the gods…",,0,0
-51003008,51003009,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Eudemons? Bari, what is Eudemons?",,0,0
+51003008,51003009,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Eudemons? Gabriel, what is Eudemons?",,0,0
 51003009,51003010,,{translucent},,1,WL_CZ,HFSTS0,1,Gabriel,"Servants of the gods, or legendary creatures? I actually don't know much.",,0,0
 51003010,51003011,,{translucent},,1,SN_BHJY,HL0,2,？？？,"No matter what, we all hope to find a way out from here…since...",,0,0
 51003011,-1,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Oh no... the connection is broken again. It seems that we have to fix the portal thoroughly.,,0,0
 51004001,51004002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Ah... the door is broken again. Previously, we could still see the scene on the other side of the door...",,0,0
-51004002,51004003,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Bari is also lazy too! It's so irritating! Open it! Open it! !,,0,0
+51004002,51004003,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Gabriel is also lazy too! It's so irritating! Open it! Open it! !,,0,0
 51004003,51004004,,{translucent},,1,SN_LN,HL0,2,？？？,It's so noisy! Who is yelling out there! Do you want to fight? !,,0,0
 51004004,51004005,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,Sorry... I... I just want to activate the portal and go to the other side to have a look...,,0,0
 51004005,51004006,,{translucent},,1,SN_LN,HL0,2,？？？,Stop dreaming! No one can pass this portal because of the enchantment that prevents crossing!,,0,0
@@ -826,7 +826,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 51004010,51004011,,{translucent},,1,SN_LN,HFSTS0,2,？？？,Besides! Next time if you yell again... I'll bite your head off!,,0,0
 51004011,51004012,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Didn’t you just say that the portal cannot be crossed...,,0,0
 51004012,-1,,{translucent},,1,SN_LN,HFSTS0,2,？？？,Whatever! You are so annoying! I'm going to continue napping! Adiós!,,0,0
-51005001,51005002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Bari! look! I successfully passed through the portal!,,0,0
+51005001,51005002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Gabriel! look! I successfully passed through the portal!,,0,0
 51005002,51005003,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"My God, I think it's a miracle that you, with that desperate character can survive till now.",,0,0
 51005003,51005004,,{translucent},,1,SN_JWH,HL0,2,？？？,"It’s a miracle indeed, this girl is the first human to pass through the portal in hundreds of years.",,0,0
 51005004,51005005,,{translucent},,1,USER_MAIN_CZ,HFSTS0,1,Me,See! And I remember your companion said that no one can pass through this portal.,,0,0

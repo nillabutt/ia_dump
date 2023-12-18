@@ -10,4 +10,4 @@ crit,300
 decrit,300
 debuff_resist,1
 bounce_rate,1
-damage_add,1000
+damage_add,10

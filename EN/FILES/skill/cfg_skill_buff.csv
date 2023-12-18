@@ -40,7 +40,7 @@
 170113111,2,,,,MC Halo,ZhuJue,"Respectively increases ATK, DEF, P.RES, M.RES and Debuff RES.(Neutral Status)",Attributes UP,0
 100102211,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 100105111,0,22,,,Shield Wall,TiaoXin,"In 2 rounds, reduce DMG by 60% and taunts the enemy","Taunt, DMG Taken DOWN",0
-100106111,0,17|27,1006_buff,,Frenzy,BaoZou,All attacks become critical hits for 3 rounds and gain immunity to debuffs,CRIT UP; Debuff Immunity,0
+100106111,0,17|27,1006_buff,,Frenzy,,All attacks become critical hits for 3 rounds and gain immunity to debuffs,CRIT UP; Debuff Immunity,0
 100107111,0,24,,,Fiery Wrath,FenNu,"In 5 rounds, increase DMG by 50% and increase DMG Received by 50%","DMG, DMG Taken UP",0
 100108111,0,15,,,Battle Fury,KuangLuan,"In 3 rounds, increase DMG by 30%, DEF by 90%","DMG, DEF UP",0
 100109211,1,10,,,Bleed,LiuXue,Unable to restore HP for 2 rounds,Unable to recover HP,0
@@ -475,15 +475,15 @@
 158301111,1,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,DMG UP,10
 158302211,2,,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,Increase DMG and reduce DMG taken,0
 158302311,2,,,,Power of War - War Domain,,,,0
-128401211,1,78,,,Curse - Despair Note,PoJia,"Decrease DEF, P.RES and M.RES",Curse,0
+128401211,1,78,,,Curse - Despair Note,ZuZhou,"Decrease DEF, P.RES and M.RES",Curse,0
 148402211,2,59,,,必定暴击,,,,0
-158401111,1,78,,,Curse - Purgatory Prison,PoJia,"Decrease DEF, P.RES and M.RES",Curse,0
-168401211,1,,,,受到伤害增加,PoJia,,,0
-168411211,1,,,,受到伤害增加,PoJia,,,0
-168421211,1,,,,受到伤害增加,PoJia,,,0
-168431211,1,,,,受到伤害增加,PoJia,,,0
-168441211,1,,,,受到伤害增加,PoJia,,,0
-168451211,1,,,,受到伤害增加,PoJia,,,0
+158401111,1,78,,,Curse - Purgatory Prison,ZuZhou,"Decrease DEF, P.RES and M.RES",Curse,0
+168401211,1,,,,受到伤害增加,,,,0
+168411211,1,,,,受到伤害增加,,,,0
+168421211,1,,,,受到伤害增加,,,,0
+168431211,1,,,,受到伤害增加,,,,0
+168441211,1,,,,受到伤害增加,,,,0
+168451211,1,,,,受到伤害增加,,,,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
