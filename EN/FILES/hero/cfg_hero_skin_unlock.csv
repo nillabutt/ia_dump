@@ -22,7 +22,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 101003500,103,1,0,Sprouting Spring,USER_CJXL,HL0,1000_CJXL.png,,2039_0.png,1000_CJXL.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10031:10032,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003600,103,1,0,Sparkling Romance,USER_SYLQ,HL0,1000_SYLQ.png,,2039_0.png,1000_SYLQ.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10033:10034,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003700,103,1,0,Halloween limited,USER_WSJ3,HL0,1000_WSJ3.png,,2039_0.png,1000_WSJ3.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10045:10046,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
-101003800,103,1,0,圣诞宝贝2023,USER_SD2023,HL0,1000_SD2023.png,,2039_0.png,1000_SD2023.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10047:10048,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
+101003800,103,1,0,Christmas Darling,USER_SD2023,HL0,1000_SD2023.png,,2039_0.png,1000_SD2023.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10047:10048,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003888,102,0,0,Radiant Reverie,USER_UR_PLUS,HL0,1000_UR_PLUS.png,,2039_0.png,1000_UR_PLUS.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,1
 100001000,0,0,0,Medusa,MDS_CZ,HL0,2001_CZ.png,,2039_0.png,2001_CZ.png,2039.png,0,2,2001,0,1,0,0,0,,111|1,Default,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
 102001000,0,0,0,Medusa,MDS0,HL0,2001_0.png,,2039_0.png,2001.png,2039.png,0,2,2001,1,0,0,0,0,,111|1,Default,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
@@ -77,7 +77,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 100012000,0,0,0,Gaia,GY_CZ,ERBS0,2012_CZ.png,,2031_0.png,2012_CZ.png,2031.png,0,2,2012,0,1,0,0,0,,111|1,Default,0,gy,hero_gy,4,1,ShenYuanZhiLv,img_job_bg_1,0
 102012000,0,0,0,Gaia,GY0,ERBS0,2012_0.png,,2031_0.png,2012.png,2031.png,0,2,2012,1,0,0,0,0,,111|1,Default,0,gy,hero_gy,4,1,ShenYuanZhiLv,img_job_bg_1,0
 102012001,105,0,0,Gaia,GY1,ERBS0,2012_1.png,,2031_0.png,2012_1.png,2031.png,0,5,2012,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,0,gy,hero_gy,4,1,ShenYuanZhiLv,img_job_bg_1,0
-102012002,103,0,0,Origin of Earth,GY2,ERBS0,2012_2.png,,2031_0.png,2012_2.png,2031.png,1,6,2012,0,0,3:1:100|3:22:450,5:10007:10039,0,,,Buy,1,gy,hero_gy,4,1,,img_haitan_bg,0
+102012002,103,1,0,Origin of Earth,GY2,ERBS0,2012_2.png,,2031_0.png,2012_2.png,2031.png,1,6,2012,0,0,3:1:100|3:22:450,5:10007:10039,0,,,Buy,1,gy,hero_gy,4,1,,img_haitan_bg,0
 102012100,101,0,0,Swimsuit Party,GY_YZ1,ERBS0,2012_YZ1.png,,2031_0.png,2012_YZ1.png,2031.png,1,6,2012,0,0,3:1:100|3:22:450,2:3000031:1,0,,,Exchange,1,gy,hero_gy,4,1,,img_haitan_bg,0
 100013000,0,0,0,Pandora,PDL_CZ,AD0,2013_CZ.png,,2035_0.png,2013_CZ.png,2035.png,0,2,2013,0,1,0,0,0,,111|1,Default,0,pdl,hero_pdl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102013000,0,0,0,Pandora,PDL0,AD0,2013_0.png,,2035_0.png,2013.png,2035.png,0,2,2013,1,0,0,0,0,,111|1,Default,0,pdl,hero_pdl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
@@ -110,7 +110,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102019000,0,0,0,Nemesis,NMXS0,MJZ0,2019_0.png,,2071_0.png,2019.png,2071.png,0,2,2019,1,0,0,0,0,,111|1,Default,0,nmxs,hero_nmxs,4,1,RanShaoLianYu,img_job_bg_1,0
 102019001,105,0,0,Nemesis,NMXS1,MJZ0,2019_1.png,,2071_0.png,2019_1.png,2071.png,0,4,2019,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,nmxs,hero_nmxs,4,1,RanShaoLianYu,img_job_bg_1,0
 102019002,105,0,0,Nemesis,NMXS2,MJZ0,2019_2.png,,2071_0.png,2019_2.png,2071.png,0,5,2019,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,1,nmxs,hero_nmxs,4,1,RanShaoLianYu,img_job_bg_1,0
-102019100,101,0,0,Swimsuit Party,NMXS_YZ,MJZ0,2019_YZ1.png,,2071_0.png,2019_YZ1.png,2071.png,1,6,2019,0,0,3:1:100|3:22:450,5:10006:10038,0,,,Buy,1,nmxs,hero_nmxs,4,1,,img_haitan_bg,0
+102019100,101,1,0,Swimsuit Party,NMXS_YZ,MJZ0,2019_YZ1.png,,2071_0.png,2019_YZ1.png,2071.png,1,6,2019,0,0,3:1:100|3:22:450,5:10006:10038,0,,,Buy,1,nmxs,hero_nmxs,4,1,,img_haitan_bg,0
 100020000,0,0,0,Muse,MS_CZ,LB_UR_SH,2020_CZ.png,,2055_UR_SH.png,2020_CZ.png,2055_UR_SH.png,0,2,2020,0,1,0,0,0,,111|1,Default,0,ms,hero_ms,4,1,RanShaoLianYu,img_job_bg_1,0
 102020000,0,0,0,Muse,MS0,LB_UR_SH,2020_0.png,,2055_UR_SH.png,2020.png,2055_UR_SH.png,0,2,2020,1,0,0,0,0,,111|1,Default,0,ms,hero_ms,4,1,RanShaoLianYu,img_job_bg_1,0
 102020001,105,0,0,Muse,MS1,LB_UR_SH,2020_1.png,,2055_UR_SH.png,2020_1.png,2055_UR_SH.png,0,2,2020,0,0,3:1:10|3:22:10,2:2000009:20,0,,,Exchange,0,ms,hero_ms,4,1,RanShaoLianYu,img_job_bg_1,0
@@ -140,12 +140,12 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102025002,105,0,0,Nuwa,LHFR2,LHFR0,2025_2.png,,2025_0.png,2025_2.png,2025.png,0,4,2025,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,lhfr_yn,hero_lhfr,4,1,NvWaQinGong,img_job_bg_1,0
 102025003,103,0,0,Nuwa,LHFR3,LHFR0,2025_3.png,,2025_0.png,2025_3.png,2025.png,1,5,2025,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,0,lhfr,hero_lhfr,4,1,NvWaQinGong,img_job_bg_1,0
 102025004,103,0,0,Nuwa,LHFR4,LHFR0,2025_4.png,,2025_0.png,2025_4.png,2025.png,1,6,2025,0,0,3:1:100|3:22:450,2:3000031:1,0,,,Exchange,1,lhfr,hero_lhfr,4,1,NvWaQinGong,img_job_bg_1,0
-102025100,101,0,0,Swimsuit Party,LHFR_YZ1,LHFR0,2025_YZ1.png,,2025_0.png,2025_YZ1.png,2025.png,1,6,2025,0,0,3:1:100|3:22:450,5:10005:10037,0,,,Buy,1,lhfr,hero_lhfr,4,1,,img_haitan_bg,0
+102025100,101,1,0,Swimsuit Party,LHFR_YZ1,LHFR0,2025_YZ1.png,,2025_0.png,2025_YZ1.png,2025.png,1,6,2025,0,0,3:1:100|3:22:450,5:10005:10037,0,,,Buy,1,lhfr,hero_lhfr,4,1,,img_haitan_bg,0
 100026000,0,0,0,Fuxi,FX_CZ,USER_HF,2026_CZ.png,,1000_HF1.png,2026_CZ.png,1000_HF1.png,0,2,2026,0,1,0,0,0,,111|1,Default,0,fx,hero_fx,4,1,KunLunTianGong,img_job_bg_1,0
 102026000,0,0,0,Fuxi,FX0,USER_HF,2026_0.png,,1000_HF1.png,2026.png,1000_HF1.png,0,2,2026,1,0,0,0,0,,111|1,Default,0,fx,hero_fx,4,1,KunLunTianGong,img_job_bg_1,0
 102026001,105,0,0,Fuxi,FX1,USER_HF,2026_1.png,,1000_HF1.png,2026_1.png,1000_HF1.png,0,4,2026,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,fx,hero_fx,4,1,KunLunTianGong,img_job_bg_1,0
 102026002,103,0,0,Fuxi,FX2,USER_HF,2026_2.png,,1000_HF1.png,2026_2.png,1000_HF1.png,0,5,2026,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,1,fx,hero_fx,4,1,KunLunTianGong,img_job_bg_1,0
-102026100,101,0,0,Swimsuit Party,FX_YZ,USER_HF,2026_YZ1.png,,1000_0.png,2026_YZ1.png,1000.png,1,6,2026,0,0,3:1:70|3:22:90,5:10003:10035,0,,,Buy,1,fx,hero_fx,4,1,KunLunTianGong,img_haitan_bg,0
+102026100,101,1,0,Swimsuit Party,FX_YZ,USER_HF,2026_YZ1.png,,1000_0.png,2026_YZ1.png,1000.png,1,6,2026,0,0,3:1:70|3:22:90,5:10003:10035,0,,,Buy,1,fx,hero_fx,4,1,KunLunTianGong,img_haitan_bg,0
 100027000,0,0,0,Xiwangmu,XWM_CZ,SYZ0,2027_CZ.png,,2073_0.png,2027_CZ.png,2073.png,0,2,2027,0,1,0,0,0,,111|1,Default,0,xwm,hero_xwm,4,1,KunLunTianGong,img_job_bg_1,0
 102027000,0,0,0,Xiwangmu,XWM0,SYZ0,2027_0.png,,2073_0.png,2027.png,2073.png,0,2,2027,1,0,0,0,0,,111|1,Default,0,xwm,hero_xwm,4,1,KunLunTianGong,img_job_bg_1,0
 102027001,105,0,0,Xiwangmu,XWM1,SYZ0,2027_1.png,,2073_0.png,2027_1.png,2073.png,0,3,2027,0,0,3:1:30|3:22:30,2:2000009:60,0,,,Exchange,0,xwm,hero_xwm,4,1,KunLunTianGong,img_job_bg_1,0
@@ -163,12 +163,12 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102030000,0,0,0,Gabriel,WL0,WL0,2030_0.png,,2030_0.png,2030.png,2030.png,0,2,2030,1,0,0,0,0,,111|1,Default,0,wl,hero_wl,4,1,ShenZhiXiaGu,img_job_bg_1,0
 102030001,105,0,0,Gabriel,WL1,WL0,2030_1.png,,2030_0.png,2030_1.png,2030.png,0,2,2030,0,0,3:1:10|3:22:10,2:2000009:20,0,,,Exchange,0,wl,hero_wl,4,1,ShenZhiXiaGu,img_job_bg_1,0
 102030002,105,0,0,Gabriel,WL2,WL0,2030_2.png,,2030_0.png,2030_2.png,2030.png,1,3,2030,0,0,3:1:30|3:22:30,2:2000009:60,0,,,Exchange,1,wl,hero_wl,4,1,ShenZhiXiaGu,img_job_bg_1,0
-102030100,101,0,0,Swimsuit Party,WL_YZ,WL0,2030_YZ1.png,,2030_0.png,2030_YZ1.png,2030.png,1,4,2030,0,0,3:1:50|3:22:60,5:10008:10040,0,,,Buy,1,wl,hero_wl,4,1,,img_haitan_bg,0
+102030100,101,1,0,Swimsuit Party,WL_YZ,WL0,2030_YZ1.png,,2030_0.png,2030_YZ1.png,2030.png,1,4,2030,0,0,3:1:50|3:22:60,5:10008:10040,0,,,Buy,1,wl,hero_wl,4,1,,img_haitan_bg,0
 100031000,0,0,0,Erebus,ERBS_CZ,ERBS0,2031_CZ.png,,2031_0.png,2031_CZ.png,2031.png,0,2,2031,0,1,0,0,0,,111|1,Default,0,erbs,hero_erbs,4,1,XieShenCangShenChu,img_job_bg_1,0
 102031000,0,0,0,Erebus,ERBS0,ERBS0,2031_0.png,,2031_0.png,2031.png,2031.png,0,2,2031,1,0,0,0,0,,111|1,Default,0,erbs,hero_erbs,4,1,XieShenCangShenChu,img_job_bg_1,0
 102031001,105,0,0,Erebus,ERBS1,ERBS0,2031_1.png,,2031_0.png,2031_1.png,2031.png,0,5,2031,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,0,erbs,hero_erbs,4,1,XieShenCangShenChu,img_job_bg_1,0
 102031002,105,0,0,Erebus,ERBS2,ERBS0,2031_2.png,,2031_0.png,2031_2.png,2031.png,0,6,2031,0,0,3:1:100|3:22:450,2:3000031:1,0,,,Exchange,1,erbs,hero_erbs,4,1,XieShenCangShenChu,img_job_bg_1,0
-102031003,101,0,0,Swimsuit Party,ERBS_YZ,ERBS0,2031_YZ1.png,,2031_0.png,2031_YZ1.png,2031.png,1,5,2031,0,0,3:1:100|3:22:450,5:10004:10036,0,,,Buy,1,erbs,hero_erbs,4,1,,img_haitan_bg,0
+102031003,101,1,0,Swimsuit Party,ERBS_YZ,ERBS0,2031_YZ1.png,,2031_0.png,2031_YZ1.png,2031.png,1,5,2031,0,0,3:1:100|3:22:450,5:10004:10036,0,,,Buy,1,erbs,hero_erbs,4,1,,img_haitan_bg,0
 100032000,0,0,0,Amaterasu,TZDS_CZ,ERBS0,2032_CZ.png,,2031_0.png,2032_CZ.png,2031.png,0,2,2032,0,1,0,0,0,,111|1,Default,0,tzds,hero_tzds,4,1,TianZhaoShenShe-Combined,img_job_bg_1,0
 102032000,0,0,0,Amaterasu,TZDS0,ERBS0,2032_0.png,,2031_0.png,2032.png,2031.png,0,2,2032,1,0,0,0,0,,111|1,Default,0,tzds,hero_tzds,4,1,TianZhaoShenShe-Combined,img_job_bg_1,0
 102032001,105,0,0,Amaterasu,TZDS1,ERBS0,2032_1.png,,2031_0.png,2032_1.png,2031.png,0,5,2032,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,0,tzds,hero_tzds,4,1,TianZhaoShenShe-Combined,img_job_bg_1,0
@@ -212,7 +212,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102039004,103,0,0,Wedding Dress,HL4,HL0,2039_4.png,,2039_0.png,2039_4.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,2:3000031:1,0,,,Exchange,1,hl,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102039005,101,0,0,Swimsuit Party,HL_YZ1,HL0,2039_YZ1.png,,2039_0.png,2039_YZ1.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,2:3000031:1,0,,,Exchange,1,hl,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102039006,104,0,0,Sacred Palace,HL_HS,HL0,2039_HS.png,,2039_0.png,2039_HS.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,hl,hero_hl,4,1,,img_hunsha_bg,0
-102039007,101,0,0,Swimsuit Party,HL_YZ2,HL0,2039_YZ2.png,,2039_0.png,2039_YZ2.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,5:10041:10042,0,,,Buy,1,hl,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
+102039007,101,1,0,Swimsuit Party,HL_YZ2,HL0,2039_YZ2.png,,2039_0.png,2039_YZ2.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,5:10041:10042,0,,,Buy,1,hl,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102039200,102,0,0,Supreme Power-Hera,HL_UR,HL0,2039_UR.png,,2039_0.png,2039_UR.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102039300,102,0,0,Supreme Queen-Hera,HL_UR_PLUS,HL0,2039_UR_PLUS.png,,2039_0.png,2039_UR_PLUS.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102039368,102,0,0,Sacred Roses-Hera,HL_MR,HL0,2039_MR.png,,2039_0.png,2039_MR.png,2039.png,1,6,2039,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,hl_ur,hero_hl,4,1,PanDuoLaShenMiao,img_job_bg_1,1
@@ -328,7 +328,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102067003,104,0,0,Sacred Palace,CE_HS,YKLS0,2067_HS.png,,2049_0.png,2067_HS.png,2049.png,1,6,2067,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,ce,hero_ce,4,1,,img_hunsha_bg,0
 102067200,102,0,0,Shadowless Moonlight-Chang'e,CE_UR,YKLS0,2067_UR.png,,2049_0.png,2067_UR.png,2049.png,1,6,2067,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ce_ur,hero_ce_ur,4,1,NvWaQinGong,img_job_bg_1,0
 102067300,102,0,0,Garden Strolling - Chang'e,CE_UR_PLUS,YKLS0,2067_UR_PLUS.png,,2049_0.png,2067_UR_PLUS.png,2049.png,1,6,2067,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,ce_ur,hero_ce_ur,4,1,NvWaQinGong,img_job_bg_1,1
-102067400,103,0,0,Lunar Radiance,CE3,YKLS0,2067_3.png,,2049_0.png,2067_3.png,2049.png,1,6,2067,0,0,3:1:100|3:22:450,5:10043:10044,0,,,Buy,0,ce,hero_ce,4,1,ShenNvQiSuo,img_job_bg_1,0
+102067400,103,1,0,Lunar Radiance,CE3,YKLS0,2067_3.png,,2049_0.png,2067_3.png,2049.png,1,6,2067,0,0,3:1:100|3:22:450,5:10043:10044,0,,,Buy,0,ce,hero_ce,4,1,ShenNvQiSuo,img_job_bg_1,0
 102068000,0,0,0,Asura,AXL0,YKLS0,2068_0.png,,2049_0.png,2068.png,2049.png,0,2,2068,1,0,0,0,0,,111|1,Default,0,axl,hero_axl,4,1,XieShenCangShenChu,img_job_bg_1,0
 102068001,105,0,0,Asura,AXL1,YKLS0,2068_1.png,,2049_0.png,2068_1.png,2049.png,0,4,2068,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,axl,hero_axl,4,1,XieShenCangShenChu,img_job_bg_1,0
 102068002,105,0,0,Asura,AXL2,YKLS0,2068_2.png,,2049_0.png,2068_2.png,2049.png,0,5,2068,0,0,3:1:70|3:22:90,2:2000011:40,0,,,Exchange,1,axl,hero_axl,4,1,XieShenCangShenChu,img_job_bg_1,0

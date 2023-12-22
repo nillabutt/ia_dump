@@ -9644,7 +9644,7 @@ Anniversary Celebration 9,
 Anniversary Celebration 10,
 week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Potongan harga</size></color>
 week_jindu,<color=#FFFFFF><size=18>Pembelian terbatas</size></color><color=#26F949><size=18>{0}</size></color>
-week_content,7 hari memberikan hadiah<color=#FFF341><size=32>{0}</size></color>
+week_content,14 hari memberikan hadiah<color=#FFF341><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,"Pada periode event bisa menggunakan [Angel Feather] untuk menukar hadiah, setelah event berakhir Angel Feather akan otomatis dikembalikan"
 Hadirah Ranking BOSS Challange,
 WORLD_BOSS_SHOWTEXT_20,"Icarus terlahir kembali di dunia yang baru, dia menggunakan kekuatan mutlaknya untuk menembus pertahanan semua musuhnya."
@@ -12848,7 +12848,7 @@ Membuka seluruh Lucky Box pasti akan mendapatkan semua hadiah,
 Pratinjau hadiah,
 Sudah mendapatkannya,
 Hadiah Tahun Baru,
-Setelah melewati Instance Dungeon2-19 membuka akses SPEED UP 2x,
+Setelah melewati Instance Dungeon2-7 membuka akses SPEED UP 2x,
 "Malam bersalju yang romantis, menunggu kejutan ketika kamu membuka hadiah!",
 player,Kar. Utama
 Dragon Guardian,
@@ -13468,3 +13468,4 @@ Pemimpin para Dewa,
 Enmusubi,
 OK,
 Batal,
+Belum memilih,

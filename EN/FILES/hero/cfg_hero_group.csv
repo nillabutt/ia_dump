@@ -286,5 +286,5 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 292,Celestial Hex,2084|2065,3,1,150,Battle with {0},2084
 293,Divine Accordance,2084|2068,3,2,150,Battle with {0},2084
 294,Ethereal Dirge,2084|2030,3,1,150,Battle with {0},2084
-295,深渊魔域,2084|2048|2050,3,2,200,Battle with {0},2084
+295,Abyssal Sorcery,2084|2048|2050,3,2,200,Battle with {0},2084
 296,Seraphic Covenant,2084|2049|2016|2057,3,1,250,Battle with {0},2084
