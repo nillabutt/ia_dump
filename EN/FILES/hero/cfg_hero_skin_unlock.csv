@@ -200,6 +200,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102037101,104,0,0,Sacred Palace,R_HS,R0,2037_HS.png,,2037_0.png,2037_HS.png,2037.png,1,6,2037,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,r,hero_r,4,1,,img_hunsha_bg,0
 102037200,102,0,0,Sun God,R_UR,R0,2037_UR.png,,2037_0.png,2037_UR.png,2037.png,1,6,2037,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,r,hero_r,4,1,DaJinZiTa,img_job_bg_1,0
 102037300,102,0,0,Blazing Triumph-Ra,R_UR_PLUS,R0,2037_UR_PLUS.png,,2037_0.png,2037_UR_PLUS.png,2037.png,1,6,2037,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,r,hero_r,4,1,DaJinZiTa,img_job_bg_1,1
+102037368,102,0,0,Nightfall Passion - Ra,R_MR,R0,2037_MR.png,,2037_0.png,2037_MR.png,2037.png,1,6,2037,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,r,hero_r,4,1,DaJinZiTa,img_job_bg_1,1
 100038000,0,0,0,Izu Dancer,WN_CZ,WN0,2038_CZ.png,,2038_0.png,2038_CZ.png,2038.png,0,2,2038,0,1,0,0,0,,111|1,Default,0,wn,hero_wn,4,1,ShenNvQiSuo,img_job_bg_1,0
 102038000,0,0,0,Izu Dancer,WN0,WN0,2038_0.png,,2038_0.png,2038.png,2038.png,0,2,2038,1,0,0,0,0,,111|1,Default,0,wn,hero_wn,4,1,ShenNvQiSuo,img_job_bg_1,0
 102038001,105,0,0,Izu Dancer,WN1,WN0,2038_1.png,,2038_0.png,2038_1.png,2038.png,0,3,2038,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,wn,hero_wn,4,1,ShenNvQiSuo,img_job_bg_1,0
@@ -266,6 +267,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102050006,104,0,0,Sacred Palace,KES_HS,YXNM1,2050_HS.png,,2046_1.png,2050_HS.png,2046_1.png,1,6,2050,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,kes,hero_kes,4,1,,img_hunsha_bg,0
 102050200,102,0,0,Original Creation,KES_UR,YXNM1,2050_UR.png,,2046_1.png,2050_UR.png,2046_1.png,1,6,2050,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,kes,hero_kes,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102050300,102,0,0,Primeval Chaos-Chaos,KES_UR_PLUS,YXNM1,2050_UR_PLUS.png,,2046_1.png,2050_UR_PLUS.png,2046_1.png,1,6,2050,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,kes,hero_kes,4,1,PanDuoLaShenMiao,img_job_bg_1,1
+102050368,102,0,0,The Queen's Gambit,KES_MR,YXNM1,2050_MR.png,,2046_1.png,2050_MR.png,2046_1.png,1,6,2050,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,kes,hero_kes,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102051000,0,0,0,Heimdall,HMDE0,YKLS0,2051_0.png,,2049_0.png,2051.png,2049.png,0,2,2051,1,0,0,0,0,,111|1,Default,0,hmde_yn,hero_hmde,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102051001,105,0,0,Heimdall,HMDE1,YKLS0,2051_1.png,,2049_0.png,2051_1.png,2049.png,0,3,2051,0,0,3:1:30|3:22:30,2:2000009:60,0,,,Exchange,0,hmde_yn,hero_hmde,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102051002,105,0,0,Heimdall,HMDE2,YKLS0,2051_2.png,,2049_0.png,2051_2.png,2049.png,0,4,2051,0,0,3:1:50|3:22:60,2:2000010:50,0,,,Exchange,0,hmde_yn,hero_hmde,4,1,PanDuoLaShenMiao,img_job_bg_1,0

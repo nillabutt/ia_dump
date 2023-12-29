@@ -10,3 +10,7 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 109,img_loading_wle_MR.png,Passionate Night - Uriel,-30,350,0.81,WLE_MR,0,LOADING.jpg,2084,0,1
 110,img_loading_ykls_UR_plus.png,Flawless Wings - Icarus,-50,200,0.9,YKLS_UR_PLUS,0,LOADING.jpg,2049,1,0
 111,img_loading_ykls_MR.png,Charm of Daisy - Icarus,-80,280,0.85,YKLS_MR,0,LOADING.jpg,2049,0,1
+112,img_loading_r_UR_plus.png,Blazing Triumph-Ra,-50,250,0.85,R_UR_PLUS,0,LOADING.jpg,2037,1,0
+113,img_loading_r_MR.png,Nightfall Passion - Ra,-80,280,0.85,R_MR,0,LOADING.jpg,2037,0,1
+114,img_loading_kes_UR_plus.png,Primeval Chaos-Chaos,-60,100,0.85,KES_UR_PLUS,0,LOADING.jpg,2050,1,0
+115,img_loading_kes_MR.png,The Queen's Gambit,-80,280,0.85,KES_MR,0,LOADING.jpg,2050,0,1

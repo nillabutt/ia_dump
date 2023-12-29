@@ -247,7 +247,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 1009010,1009011,,{black},,0,,,0,,Then the Angel and Gabriel are sent to Tsukuyomi’s shrine.,,0,0
 1009011,1009012,,YueDuShenShe,,1,YYJZ0,MJL0,2,Tsukuyomi,Who? Who’s there?,,0,0
 1009012,1009013,,,,1,WL_CZ,HMDE0,2,Gabriel,"Haven't seen you for a long time, Tsukuyomi.",,0,0
-1009013,1009014,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Bari? How dare you come here? I’ll kill you!,,0,0
+1009013,1009014,,,,1,YYJZ0,MJL0,2,Tsukuyomi,Gabriel? How dare you come here? I’ll kill you!,,0,0
 1009014,1009015,,,,1,WL_CZ,HMDE0,2,Gabriel,Shut up! A traitor like you has no right to say anything! Where is Amaterasu?,,0,0
 1009015,1009016,,,,1,YYJZ0,MJL0,2,Tsukuyomi,My sword thirsts for blood!,,0,0
 1009016,-1,,,,1,WL_CZ,HMDE0,2,Gabriel,"Haha! Swallow them up, my servants!",,0,0
@@ -272,7 +272,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 1010019,1010020,,,,1,WL_CZ,HMDE0,2,Gabriel,…Where are we?,,0,0
 1010020,1010021,,,,1,USER_MAIN_CZ,HL0,1,Me,It's like a maze…,,0,0
 1010021,1010022,,,,1,WL_CZ,HMDE0,2,Gabriel,We should go to Nyx's temple as soon as possible!,,0,0
-1010022,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Bari! Look out!,,0,0
+1010022,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Gabriel! Look out!,,0,0
 1011001,1011002,,YouAnMiGong,,1,WL_CZ,HMDE0,2,Gabriel,"Phew, this place is a mess too…",,0,0
 1011002,1011003,,,,1,USER_MAIN_CZ,HL0,1,Me,New enemies? They're different from monsters we have met before.,,0,0
 1011003,1011004,,,,1,WL_CZ,HMDE0,2,Gabriel,Yes. They are strange.,,0,0
@@ -362,7 +362,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 1023004,1023005,,{black},,0,,,0,,"Though they managed to stop Nuit's rampage, the Angel was directly exposed to the power of the sun, resulting in her descend to Hell. In order for the Angel to return to the Mortal Realm, she has to obtain permission from the Queen of Hell, Lucifer. Thus, she embark on a long journey to find Lucifer...",,0,0
 1023005,1023006,,RanShaoLianYu,,1,USER_MAIN_CZ,HL0,1,Me,... Where is this…,,0,0
 1023006,1023007,,,,1,WL_CZ,HFSTS0,2,Gabriel,Are you finally awake?,,0,0
-1023007,1023008,,,,1,USER_MAIN_CZ,HL0,1,Me,"Bari, where is this? Why can't I see anything…?",,0,0
+1023007,1023008,,,,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel, where is this? Why can't I see anything…?",,0,0
 1023008,1023009,,,,1,WL_CZ,HFSTS0,2,Gabriel,"Fortunately, we still possess our Angelic powers. Can you hear me clearly?",,0,0
 1023009,1023010,,,,1,USER_MAIN_CZ,HL0,1,Me,I can hear you... Where am I now?,,0,0
 1023010,1023011,,,,1,WL_CZ,HFSTS0,2,Gabriel,Most likely… In Hell…,,0,0
@@ -568,7 +568,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 1045004,1045005,,,,1,WL_CZ,HFSTS0,2,Gabriel,No! What's happening?! Pull yourself together! No!,,0,0
 1045005,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,...,,0,0
 1045006,1045007,,{black},,0,,,0,,"Erebus released a dark energy, eroding the Angel's soul, and the dark demoness Lilith was reborn in the Angel's spiritual world. Meanwhile, the seven deadly sins in her consciousness, 'Pride', 'Envy', 'Wrath', 'Sloth', 'Greed', 'Gluttony', and 'Lust' are infinitely magnified. Can the Angel defeat herself?",,0,0
-1045007,1045008,,ShenYuanZhiLv,,1,USER_MAIN_CZ,HL0,1,Me,"Where is this...Isn't it all over? Bari, Bari…Where are you?",,0,0
+1045007,1045008,,ShenYuanZhiLv,,1,USER_MAIN_CZ,HL0,1,Me,"Where is this...Isn't it all over? Gabriel, Gabriel…Where are you?",,0,0
 1045008,1045009,,,,1,NBLS0,HFSTS0,2,Lilith,It's time to get up~,,0,0
 1045009,1045010,,,,1,USER_MAIN_CZ,HL0,1,Me,Are you… Lilith?,,0,0
 1045010,1045011,,,,1,NBLS0,HFSTS0,2,Lilith,Haha! Thank you for remembering me!,,0,0
@@ -4799,15 +4799,15 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 31000139,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,星空和命运的力量凝聚在了一起，好像赋予了天使们全新的力量。		,,0,0
 31000140,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,作为命星的主体，每位天使都觉醒了全新的力量，需要使用星之沙来激活新的能力。		,,0,0
 31000141,-1,,{translucent},,1,WL_CZ,HL0,1,Gabriel,群星闪耀的力量更加耀眼，当多个女神聚集在一起时，会互相激发各自的力量，获得更加强大群星技能。		,,0,0
-32000001,32000002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Bari, do you see that? There’s a weird portal over there. Should we check it out?",,0,0
+32000001,32000002,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel, do you see that? There’s a weird portal over there. Should we check it out?",,0,0
 32000002,32000003,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Be careful. It looks like another time rift. I have a bad feeling about this. Something terrible might happen.,,0,0
 32000003,32000004,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,Don’t worry. I’m here with you. Nothing can hurt us. But I don’t see anything wrong outside the rift. Maybe we should go in and see for ourselves?,,0,0
 32000004,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,"Hey, slow down! Why are you always so impulsive?",,0,0
-32000011,32000012,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Bari, fire! There’s fire everywhere! The world is on fire!",,0,0
+32000011,32000012,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Gabriel, fire! There’s fire everywhere! The world is on fire!",,0,0
 32000012,32000013,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Watch out! I felt some mysterious source weaken the goddess of time's power when we crossed the rift.,,0,0
 32000013,32000014,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"This is our world. And that place… It’s where we first met, right?",,0,0
 32000014,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Let’s be cautious and figure out what’s going on.,,0,0
-32000031,32000032,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Oh no, Bari! I recognize that thing! We beat it in our first fight!",,0,0
+32000031,32000032,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Oh no, Gabriel! I recognize that thing! We beat it in our first fight!",,0,0
 32000032,32000033,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,And look over there! Those old enemies are back!,,0,0
 32000033,32000034,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Something’s wrong with the order of time. It brought back those monsters we killed and made them stronger.,,0,0
 32000034,32000035,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"But I’m not scared. If we can beat them once, we can beat them again and again.",,0,0
