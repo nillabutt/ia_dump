@@ -241,14 +241,14 @@
 134901211,1,,,,Fragile-Original Rule,YiDong,2回合异常抵抗减少10%（绝对值）,Debuff RES DOWN,0
 144901211,1,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 30% for 2 rounds,Debuff RES DOWN,0
 154901111,2,,,,混沌-混沌侵袭,HunDun,无视20%异常抵抗（绝对状态）,Debuff RES PEN UP,0
-164901111,1,66,,,无援-灵魂裂痕,WuYuan,控制效果（晕眩、冰冻等）被驱散时，有50%几率失败,,0
-164921111,1,66,,,无援-灵魂裂痕,WuYuan,控制效果（晕眩、冰冻等）被驱散时，有50%几率失败,,0
-164921311,1,,,,Rifting Soul,LingHunLieHen,受到伤害提升50%,受到伤害增加,0
-164941111,1,79,,,无援-灵魂裂痕,WuYuan,控制效果（晕眩、冰冻等）被驱散时，有80%几率失败,,0
-164941311,1,,,,Rifting Soul,LingHunLieHen,受到伤害提升50%,受到伤害增加,0
-164951111,1,79,,,无援-灵魂裂痕,WuYuan,控制效果（晕眩、冰冻等）被驱散时，有80%几率失败,,0
-164951311,1,,,,Rifting Soul,LingHunLieHen,受到伤害提升50%,受到伤害增加,0
-164951411,1,,,,Rifting Soul,LingHunLieHen,异常抵抗降低30%,异常抵抗降低,0
+164901111,1,66,,,Helpless - Rifting Soul,WuYuan,"Control effects (Stun, Freeze and etc.) have a 50% chance to resist being dispelled.",,0
+164921111,1,66,,,Helpless - Rifting Soul,WuYuan,"Control effects (Stun, Freeze and etc.) have a 50% chance to resist being dispelled.",,0
+164921311,1,,,,Rifting Soul,LingHunLieHen,Increase DMG taken by 50%.,Increase DMG taken,0
+164941111,1,79,,,Helpless - Rifting Soul,WuYuan,"Control effects (Stun, Freeze and etc.) under [Helpless] have a 80% chance to resist being dispelled.",,0
+164941311,1,,,,Rifting Soul,LingHunLieHen,Increase DMG taken by 50%.,Increase DMG taken,0
+164951111,1,79,,,Helpless - Rifting Soul,WuYuan,"Control effects (Stun, Freeze and etc.) under [Helpless] have a 80% chance to resist being dispelled.",,0
+164951311,1,,,,Rifting Soul,LingHunLieHen,Increase DMG taken by 50%.,Increase DMG taken,0
+164951411,1,,,,Rifting Soul,LingHunLieHen,Decrease Debuff RES by 30%.,Decrease Debuff RES,0
 125201231,0,,,,Soul Mode - Slash 1,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
 125201431,0,,,,Soul Mode - Slash 2,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
 125201631,0,,,,Soul Mode - Slash 3,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
@@ -486,12 +486,12 @@
 128401211,1,78,,,Curse - Despair Note,ZuZhou,"Decrease ATK,DEF, P.RES and M.RES",Curse,0
 148402211,2,59,,,必定暴击,,,,0
 158401111,1,78,,,Curse - Purgatory Prison,ZuZhou,"Decrease ATK,DEF, P.RES and M.RES",Curse,0
-168401211,1,,,,受到伤害增加,,,,0
-168411211,1,,,,受到伤害增加,,,,0
-168421211,1,,,,受到伤害增加,,,,0
-168431211,1,,,,受到伤害增加,,,,0
-168441211,1,,,,受到伤害增加,,,,0
-168451211,1,,,,受到伤害增加,,,,0
+168401211,1,,,,Increase DMG taken,,,,0
+168411211,1,,,,Increase DMG taken,,,,0
+168421211,1,,,,Increase DMG taken,,,,0
+168431211,1,,,,Increase DMG taken,,,,0
+168441211,1,,,,Increase DMG taken,,,,0
+168451211,1,,,,Increase DMG taken,,,,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
