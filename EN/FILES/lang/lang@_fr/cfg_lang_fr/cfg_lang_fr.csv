@@ -9747,7 +9747,7 @@ ACTIVITY_HOLIDAY_EXCHANGE_COIN_CONTENT,
 ,
 week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Remise</size></color>
 week_jindu,
-week_content,Offres totales des 14 jours <color=#FFF341><size=32>{0}</size></color>
+week_content,Offres totales des 7 jours <color=#FFF341><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 ,
 WORLD_BOSS_SHOWTEXT_20,

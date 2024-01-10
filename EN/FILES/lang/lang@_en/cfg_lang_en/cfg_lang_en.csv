@@ -9633,7 +9633,7 @@ The boss has been defeated,
 Rebate,
 Get rewards immediately,
 Weekly card lasts 7 days. The rewards are sent via mail after Daily log-ins.,
-"The cards event lasts for <color=#00ff00>14</color> days, which will be sent to you via email after login",
+"The cards event lasts for <color=#00ff00>7</color> days, which will be sent to you via email after login",
 Limit purchase,
 "Use [Angel Feather] to convert rare items during the event. After the event ends, the system will automatically recycle [Angel Feather].",
 "Reward locked, please redeem the front reward first",
@@ -9697,7 +9697,7 @@ Anniversary 9,
 Anniversary 10,
 week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Value</size></color>
 week_jindu,<color=#FFFFFF><size=18>Limit purchase</size></color><color=#26F949><size=18>{0}</size></color>
-week_content,Get 14 days rewards in total <color=#FFF341><size=32>{0}</size></color>
+week_content,Get 7 days rewards in total <color=#FFF341><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,"Use [Angel Feather] to convert rare items during the event. After the event ends, the system will automatically recycle [Angel Feather]."
 Boss challenge ranking rewards,
 WORLD_BOSS_SHOWTEXT_20,"Icarus, reborn in a new world, uses absolute power to penetrate the defense of all enemies."
@@ -14244,7 +14244,7 @@ Eternity,
 ,
 ,
 ,
-"The cards event lasts for <color=#00ff00>14</color> days, which will be sent to you via email after login",
+"The cards event lasts for <color=#00ff00>7</color> days, which will be sent to you via email after login",
 2nd Anniversary avatar frame,
 2nd Anniversary exclusive avatar frame in 2022,
 2nd Anniversary chat frame,
@@ -14672,8 +14672,8 @@ You used to spoil my plan all the time. I am surprised to meet you again here. Y
 Come on! What I am expecting will always be the toughest trial!,
 USER_BACK_NEW_ENTRY_GIFT_MAIL_CONTENT_LOW_LEVEL,"Welcome back to Idle Angels! To improve your game experience, we have prepared a welcoming gift for your comeback. You can also switch back to the original server by clicking the Change Server. Have fun!"
 USER_BACK_NEW_ENTRY_GIFT_MAIL_TITLE_LOW_LEVEL,Welcome Back
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_TITLE,Spring Festival Souvenir Card Reward
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,Here are today's rewards of the Spring Festival Souvenir Card. Enjoy your treat!
+ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card Rewards
+ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,
 Korean,
 Drop in the Wedding Ceremony event. It can be used to redeem items in the event interface.,
 It can be used to move forward and get rewards in the Lucky Board of the Daily Gift event.,
@@ -17614,7 +17614,7 @@ Spring Summon,
 Waking of Spring Pack,
 Spring Flower Pack 1,
 "Here're today's rewards of the Romantic Souvenir Card. Thanks for your support, and we wish you a sweet Valentine's Day.",
-Anniversary card,Christmas Souvenir Card
+Anniversary card,Ocean Souvenir Card
 2023 Waking of Spring Avatar Frame,
 2023 Waking of Spring Chat Bubble,
 Bedside Roses,
@@ -19695,8 +19695,8 @@ Frigga's Hypocrisy,
 Frigga in the Past,
 3rd Anniversary Avatar Frame,
 3rd Anniversary Limited Avatar Frame,
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Christmas Souvenir Card Reward
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here're today's rewards of the Christmas Souvenir Card. Thanks for your support!
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card Rewards
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,
 3rd Anniversary Limited Chat Bubble,
 Finish the current parade and go back to the beginning,
 Universal Dice*2,
@@ -23064,9 +23064,9 @@ HP & M.RES +10%,
 ATK & HP +15%,
 HP +20%,
 "SPD +30, HP + 30%",
-Chaos gains 75 energy upon entering battle.,
+Chaos gains 50 energy upon entering battle.,
 Deal 10% of Chaos' Max HP as True DMG to all enemies. Enemies in [Stun] state receive 50% increased damage for 2 rounds.,
-Chaos gains 75 energy upon entering battle.,
+Chaos gains 50 energy upon entering battle.,
 "Control effects (Stun, Freeze and etc.) under [Helpless] have a 80% chance to resist being dispelled.",
 "When dealing 10% of Chaos' Max HP as True DMG to all enemies, if the target is not under the [Stun] effect, reduce their Debuff RES by 30% for 2 rounds.",
 Helpless - Rifting Soul,
