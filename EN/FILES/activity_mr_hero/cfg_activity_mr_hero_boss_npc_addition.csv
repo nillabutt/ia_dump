@@ -1,7 +1,7 @@
 attr_key,attr_additon
 max_hp,50
-min_attack,10
-max_attack,10
+min_attack,50
+max_attack,50
 defend,300
 defend_ignore_level,300
 physc_def,300

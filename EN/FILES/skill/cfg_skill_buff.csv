@@ -161,6 +161,22 @@
 155001311,2,,,,Rainbow Sanctuary,,Increases M.RES by 1% of Heimdall’s HP,,0
 155002111,2,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken diverted",Link - DMG Split,0
 155002211,2,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken ",Link - DMG Diverted,0
+165001111,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165001211,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165021111,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165021211,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165021311,0,,,,虹光天幕,HongGuangTianMu,增加伤害减免,增加伤害减免,5
+165031111,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165031211,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165031311,0,,,,虹光天幕,HongGuangTianMu,增加伤害减免、伤害反弹,增加伤害减免、伤害反弹,5
+165041111,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165041211,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165041311,0,,,,虹光天幕,HongGuangTianMu,增加伤害减免、伤害反弹,增加伤害减免、伤害反弹,5
+165041411,0,,,,虹光天幕,HongGuangTianMu,血量上限提升,血量上限提升,0
+165051111,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165051211,0,30,,,链接-虹光天幕,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165051311,0,,,,虹光天幕,HongGuangTianMu,增加伤害减免、伤害反弹,增加伤害减免、伤害反弹,5
+165051411,0,,,,虹光天幕,HongGuangTianMu,血量上限提升,血量上限提升,0
 115102211,1,8|11,,,Smash-Sanction of Light,FenSui,"DEF, P.RES, M.RES decreased by 50% for 3 rounds","DEF, P.RES, M.RES DOWN",0
 115201211,0,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
 115201411,0,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
@@ -169,8 +185,25 @@
 125201411,0,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
 125201611,0,,,,Soul Mode - Slash 3,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
 115202111,1,10,,,Bleed - Mysterious Slash,LiuXue,Cannot receive any healing for 1 round,Unable to recover HP,0
+125201231,0,,,,Soul Mode - Slash 1,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
+125201431,0,,,,Soul Mode - Slash 2,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
+125201631,0,,,,Soul Mode - Slash 3,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
 125202111,1,10,,,Bleed - Extreme Mysterious Slash,LiuXue,Cannot receive any healing for 1 round,Unable to recover HP,0
 1252022011,0,17|27,,,Frenzy - Extreme Mysterious Slash,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",CRIT UP; Debuff Immunity,0
+155201111,2,48,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+155201211,2,49,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+155201311,2,50,,,必暴-神风之刃,,,必定暴击,0
+165201111,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165211111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+165211211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165221111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+165221211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165231111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+165231211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165241111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+165241211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165251111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+165251211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
 115301111,0,,,,Blessing-Affection,YuanFen_JS,Speed increased by 50 for 2 rounds,SPD UP,0
 115301311,0,,,,Blessing-Affection,YuanFen_BJ,CRIT increased by 50% for 2 rounds,CRIT UP,0
 115301511,0,,,,Blessing-Affection,YuanFen_BJSH,Critical DMG increased by 50% for 2 rounds,Crit DMG UP,0
@@ -206,9 +239,6 @@
 155301211,0,,,,Fate - Blessed Encounter,YinYuan,"After her action, boosts allies and herself according to the layer of [Fate]",,999
 155302111,0,,,,Fate - Blessed Encounter,YinYuan,Increase ATK,ATK UP,0
 155302211,0,,,,Fate - Blessed Encounter,YinYuan,Increase DEF,DEF UP,0
-155201111,2,48,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-155201211,2,49,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-155201311,2,50,,,必暴-神风之刃,,,CRIT UP,0
 115501211,1,9,,,Ignite-Ember Dragon Breath,RanShao,"In 4 rounds, lose 6% of current HP in each round",Ignite,0
 115601211,1,8,,,Sunder Armor - Storm Dragon Breath,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
 115602111,0,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 300%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
@@ -249,9 +279,6 @@
 164951111,1,79,,,Helpless - Rifting Soul,WuYuan,"Control effects (Stun, Freeze and etc.) under [Helpless] have a 80% chance to resist being dispelled.",,0
 164951311,1,,,,Rifting Soul,LingHunLieHen,Increase DMG taken by 50%.,Increase DMG taken,0
 164951411,1,,,,Rifting Soul,LingHunLieHen,Decrease Debuff RES by 30%.,Decrease Debuff RES,0
-125201231,0,,,,Soul Mode - Slash 1,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
-125201431,0,,,,Soul Mode - Slash 2,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
-125201631,0,,,,Soul Mode - Slash 3,HunTi_BJ,CRIT increased by 10% for 2 rounds,CRIT UP,0
 116001311,1,,,,Frostbite-Frozen Blister,DongShang,Speed decreased by 30 for 2 rounds,SPD DOWN,0
 116001411,1,10,,,Bleed-Frozen Blister,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
 116002211,0,,,,Shield-Bubble Cure,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0

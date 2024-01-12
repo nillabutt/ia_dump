@@ -14,3 +14,7 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 113,img_loading_r_MR.png,Nightfall Passion - Ra,-80,280,0.85,R_MR,0,LOADING.jpg,2037,0,1
 114,img_loading_kes_UR_plus.png,Primeval Chaos-Chaos,-60,100,0.85,KES_UR_PLUS,0,LOADING.jpg,2050,1,0
 115,img_loading_kes_MR.png,The Queen's Gambit,-80,280,0.85,KES_MR,0,LOADING.jpg,2050,0,1
+116,img_loading_hmde_UR_plus.png,Bird of the Golden Cage - Heimdall,-70,300,0.8,HMDE_UR_PLUS,0,LOADING.jpg,2051,1,0
+117,img_loading_hmde_MR.png,Sacred Maiden - Heimdall,-40,280,0.85,HMDE_MR,0,LOADING.jpg,2051,0,1
+118,img_loading_bmh_UR_plus.png,Sipping Under Moon - Himiko,-60,100,0.85,BMH_UR_PLUS,0,LOADING.jpg,2053,1,0
+119,img_loading_bmh_MR.png,Crimson Slayer - Himiko,-100,280,0.85,BMH_MR,0,LOADING.jpg,2053,0,1
