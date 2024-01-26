@@ -239,6 +239,11 @@
 155301211,0,,,,Fate - Blessed Encounter,YinYuan,"After her action, boosts allies and herself according to the layer of [Fate]",,999
 155302111,0,,,,Fate - Blessed Encounter,YinYuan,Increase ATK,ATK UP,0
 155302211,0,,,,Fate - Blessed Encounter,YinYuan,Increase DEF,DEF UP,0
+165301211,0,,,,祈缘之引,QiYuan,伤害增加30%,伤害增加,0
+165321211,0,,,,祈缘之引,QiYuan,伤害增加30%，暴击伤害增加30%,伤害增加|暴击伤害增加,0
+165331211,0,,,,祈缘之引,QiYuan,伤害增加50%，暴击伤害增加30%,伤害增加|暴击伤害增加,0
+165341211,0,,,,祈缘之引,QiYuan,伤害增加50%，暴击伤害增加30%,伤害增加|暴击伤害增加,0
+165351211,0,,,,祈缘之引,QiYuan,伤害增加50%，暴击伤害增加50%,伤害增加|暴击伤害增加,0
 115501211,1,9,,,Ignite-Ember Dragon Breath,RanShao,"In 4 rounds, lose 6% of current HP in each round",Ignite,0
 115601211,1,8,,,Sunder Armor - Storm Dragon Breath,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
 115602111,0,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 300%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
@@ -312,6 +317,16 @@
 155401111,1,,,,减速-深渊冰狱,,速度降低50点,SPD DOWN,0
 155402201,2,,,,寒冰守护-深渊冰狱,,每次受到伤害时使敌人伤害降低3%,Enemy’s DMG DOWN when taking DMG,0
 155402211,1,,,,DMG Reduced - Frozen Void,ShenYuan,DMG Reduced,DMG Reduced,10
+165401111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165401211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低20%,能量回复效率降低,0
+165421111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165421211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低20%,能量回复效率降低,0
+165431111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165431211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低30%,能量回复效率降低,0
+165441111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165441211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低30%,能量回复效率降低,0
+165451211,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165451311,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低30%,能量回复效率降低,0
 100000111,1,7,,,Strong poison 1,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
 100000112,1,7,,,Strong poison 2,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times. (can not be dispelled）",Poison,5
 100000113,1,7,,,Strong poison 3,ZhongDu,"Apply [poison] until the battle ends, lose 6% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
@@ -519,6 +534,8 @@
 168431211,1,,,,Increase DMG taken,,,,0
 168441211,1,,,,Increase DMG taken,,,,0
 168451211,1,,,,Increase DMG taken,,,,0
+118501111,0,,,,极运-龙威咆哮,JiYun,暴击伤害增加30%，天启神技的伤害增加20%,暴击伤害增加|天启神技伤害增加,0
+118502211,0,6,,,虚弱-龙威咆哮,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0

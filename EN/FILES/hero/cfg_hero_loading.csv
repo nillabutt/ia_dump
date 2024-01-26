@@ -18,3 +18,7 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 117,img_loading_hmde_MR.png,Sacred Maiden - Heimdall,-40,280,0.85,HMDE_MR,0,LOADING.jpg,2051,0,1
 118,img_loading_bmh_UR_plus.png,Sipping Under Moon - Himiko,-60,100,0.85,BMH_UR_PLUS,0,LOADING.jpg,2053,1,0
 119,img_loading_bmh_MR.png,Crimson Slayer - Himiko,-100,280,0.85,BMH_MR,0,LOADING.jpg,2053,0,1
+120,img_loading_lb_UR_plus.png,Glacier Shadow - Frost Dragon,-70,300,0.8,LB_UR_PLUS,0,LOADING.jpg,2055,1,0
+121,img_loading_lb_MR.png,冰域王女-冰霜龙母,-40,280,0.85,LB_MR,0,LOADING.jpg,2055,0,1
+122,img_loading_zrnz_UR_plus.png,Sparkling Affection - Enmusubi,-60,100,0.85,ZRNZ_UR_PLUS,0,LOADING.jpg,2054,1,0
+123,img_loading_zrnz_MR.png,织缘少女-缘结神,-100,280,0.85,ZRNZ_MR,0,LOADING.jpg,2054,0,1

@@ -39,3 +39,4 @@ cfg_id,max_count,quality,restore,function_type,day_limit_count,limit_group,limit
 2000034,999,4,1000,10,0,0,60,30|2,Purple Relic Fragment,1,2000034.png,30 pieces can be used to synthesize a purple Relic.
 2000035,999,5,1000,10,0,0,60,40|3,Orange Relic Fragment,1,2000035.png,40 pieces can be used to synthesize an orange Relic.
 2000036,999,5,1000,7,0,0,120,50|6000030,Destiny Star Piece,1,2000036.png,Collect 50 pieces to synthesize a Destiny Star Optional Chest
+2000037,999,5,1000,12,0,0,90,1|2|3|4|5|6,T1 Magic stone chest,1,2000037.png,使用后可立即获得所有部位的幻化石
