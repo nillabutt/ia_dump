@@ -288,6 +288,6 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 294,Ethereal Dirge,2084|2030,3,1,150,Battle with {0},2084
 295,Abyssal Sorcery,2084|2048|2050,3,2,200,Battle with {0},2084
 296,Seraphic Covenant,2084|2049|2016|2057,3,1,250,Battle with {0},2084
-297,文武双星,2085|2059,3,2,150,Battle with {0},2085
-298,至高之勇,2085|2070,3,1,150,Battle with {0},2085
-299,极运高照,2085|2080,3,1,150,Battle with {0},2085
+297,Dual Stars,2085|2059,3,2,150,Battle with {0},2085
+298,Supreme Valor,2085|2070,3,1,150,Battle with {0},2085
+299,Fortune Apex,2085|2080,3,1,150,Battle with {0},2085

@@ -49,7 +49,7 @@ cfg_id,cost_cfg_id,max_count,quality,restore,day_limit_count,limit_group,limit_l
 1000049,0,999,6,1000,0,0,20,Thanksgiving Gold Chest,1000049.png,"Glittering treasure chest, what good things are hidden inside"
 1000050,0,999,5,1000,0,0,20,Thanksgiving Silver Chest,1000050.png,"Brand new silver chest, looks very valuable"
 1000051,0,999,4,1000,0,0,20,Thanksgiving Bronze Chest,1000051.png,"Dilapidated chest that has been in the dust for a long time, faintly revealing the light of treasures"
-1000052,0,999,4,1000,0,0,100,T1 Magic stone chest,1000052.png,Open to get a random T1 Magic stone
+1000052,0,999,4,1000,0,0,100,T1 Magic Stone Exchange Voucher,1000052.png,Open to get a random T1 Magic stone
 1000053,0,999,5,1000,0,0,100,T2 Magic stone chest,1000053.png,Open to get a random T2 Magic stone
 1000054,0,999,6,1000,0,0,100,T3 Magic stone chest,1000054.png,Open to get a random T3 Magic stone
 1000055,0,999,6,1000,0,0,20,Christmas Gold Chest,1000055.png,"Glittering treasure chest, what good things are hidden inside"

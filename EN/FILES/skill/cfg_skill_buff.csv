@@ -239,11 +239,11 @@
 155301211,0,,,,Fate - Blessed Encounter,YinYuan,"After her action, boosts allies and herself according to the layer of [Fate]",,999
 155302111,0,,,,Fate - Blessed Encounter,YinYuan,Increase ATK,ATK UP,0
 155302211,0,,,,Fate - Blessed Encounter,YinYuan,Increase DEF,DEF UP,0
-165301211,0,,,,祈缘之引,QiYuan,伤害增加30%,伤害增加,0
-165321211,0,,,,祈缘之引,QiYuan,伤害增加30%，暴击伤害增加30%,伤害增加|暴击伤害增加,0
-165331211,0,,,,祈缘之引,QiYuan,伤害增加50%，暴击伤害增加30%,伤害增加|暴击伤害增加,0
-165341211,0,,,,祈缘之引,QiYuan,伤害增加50%，暴击伤害增加30%,伤害增加|暴击伤害增加,0
-165351211,0,,,,祈缘之引,QiYuan,伤害增加50%，暴击伤害增加50%,伤害增加|暴击伤害增加,0
+165301211,0,,,,Destiny's Call,QiYuan,"20% increase in DMG, 30% increase in Crit DMG.",DMG Increase | Crit DMG Increase,0
+165321211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 40% increase in Crit DMG.",DMG Increase | Crit DMG Increase,0
+165331211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 40% increase in Crit DMG, and ignores 5% of DMG reduction.",DMG Increase | Crit DMG Increase | Ignore DMG reduction,0
+165341211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 50% increase in Crit DMG, and ignores 10% of DMG reduction.",DMG Increase | Crit DMG Increase | Ignore DMG reduction,0
+165351211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 50% increase in Crit DMG, and ignores 10% of DMG reduction.",DMG Increase | Crit DMG Increase | Ignore DMG reduction,0
 115501211,1,9,,,Ignite-Ember Dragon Breath,RanShao,"In 4 rounds, lose 6% of current HP in each round",Ignite,0
 115601211,1,8,,,Sunder Armor - Storm Dragon Breath,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
 115602111,0,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 300%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
