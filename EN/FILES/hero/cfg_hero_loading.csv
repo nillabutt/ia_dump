@@ -21,4 +21,4 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 120,img_loading_lb_UR_plus.png,Glacier Shadow - Frost Dragon,0,0,0.8,LB_UR_PLUS,0,LOADING.jpg,2055,1,0
 121,img_loading_lb_MR.png,Frost Queen,0,300,0.82,LB_MR,0,LOADING.jpg,2055,0,1
 122,img_loading_zrnz_UR_plus.png,Sparkling Affection - Enmusubi,0,550,0.72,ZRNZ_UR_PLUS,0,LOADING.jpg,2054,1,0
-123,img_loading_zrnz_MR.png,Fate Stitcher - Enmusubi,-200,480,0.72,ZRNZ_MR,0,LOADING.jpg,2054,0,1
+123,img_loading_zrnz_MR.png,Fate Stitcher - Enmusubi,0,620,0.73,ZRNZ_MR,0,LOADING.jpg,2054,0,1

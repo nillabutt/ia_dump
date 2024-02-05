@@ -6843,7 +6843,7 @@ Abgeschlossen:,
 ,
 CUSTOM_GIFT_NAME_LEVEL1,
 CUSTOM_GIFT_NAME_LEVEL2,Nach vorne
-REACH_LEVEL_UNLOCK_SUMMON,Schalte bei <color=#FFBA00> Lv.{Level} </color> frei
+REACH_LEVEL_UNLOCK_SUMMON,Schalte bei <color=#FFBA00> Lv.{level} </color> frei
 EVENT_GOD_TREASURE_HOUSE_LAYER,Schatzkammer Stockwerk {0}
 Schalte bei Lv.40 frei,
 Schalte bei Lv.70 frei,

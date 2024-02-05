@@ -23,7 +23,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 101003600,103,1,0,Sparkling Romance,USER_SYLQ,HL0,1000_SYLQ.png,,2039_0.png,1000_SYLQ.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10033:10034,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003700,103,1,0,Halloween limited,USER_WSJ3,HL0,1000_WSJ3.png,,2039_0.png,1000_WSJ3.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10045:10046,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003800,103,1,0,Christmas Darling,USER_SD2023,HL0,1000_SD2023.png,,2039_0.png,1000_SD2023.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10047:10048,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
-101003801,103,1,0,Spring Festival 2023,USER_CJ2023,HL0,1000_CJ2023.png,,2039_0.png,1000_CJ2023.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10049:10050,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
+101003801,103,1,0,Spring Festival 2024,USER_CJ2023,HL0,1000_CJ2023.png,,2039_0.png,1000_CJ2023.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,5:10049:10050,0,,,Limited Purchase,1,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,0
 101003888,102,0,0,Radiant Reverie,USER_UR_PLUS,HL0,1000_UR_PLUS.png,,2039_0.png,1000_UR_PLUS.png,2039.png,1,6,1001|1002|1003,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,wu_jiang,hero_user_wu_jiang,3,1,,img_job_bg_1,1
 100001000,0,0,0,Medusa,MDS_CZ,HL0,2001_CZ.png,,2039_0.png,2001_CZ.png,2039.png,0,2,2001,0,1,0,0,0,,111|1,Default,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
 102001000,0,0,0,Medusa,MDS0,HL0,2001_0.png,,2039_0.png,2001.png,2039.png,0,2,2001,1,0,0,0,0,,111|1,Default,0,mds,hero_mds,4,1,RanShaoLianYu,img_job_bg_1,0
@@ -295,7 +295,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102054002,103,1,0,Magic Rain,ZRNZ_YS1,YKLS0,2054_YS1.png,,2049_0.png,2054_YS1.png,2049.png,1,6,2054,0,0,3:2:150|3:22:500,5:10013:10014,0,,,Exchange,1,zrnz,hero_zrnz,4,1,ShenNvQiSuo,img_job_bg_1,0
 102054200,102,0,0,Eternal Affection-Enmusubi,ZRNZ_UR,YKLS0,2054_UR.png,,2049_0.png,2054_UR.png,2049.png,1,6,2054,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,zrnz_ur,hero_zrnz_ur,4,1,,img_job_bg_4,0
 102054300,102,0,0,Sparkling Affection - Enmusubi,ZRNZ_UR_PLUS,YKLS0,2054_UR_PLUS.png,,2049_0.png,2054_UR_PLUS.png,2049.png,1,6,2054,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,zrnz_ur,hero_zrnz_ur,4,1,ShenNvQiSuo,img_job_bg_1,1
-102054368,102,0,0,Fate Stitcher - Enmusubi,ZRNZ_MR111,YKLS0,2054_MR.png,,2049_0.png,2054_MR.png,2049.png,1,6,2054,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,zrnz_ur,hero_zrnz_ur,4,1,ShenNvQiSuo,img_job_bg_1,1
+102054368,102,0,0,Fate Stitcher - Enmusubi,ZRNZ_MR,YKLS0,2054_MR.png,,2049_0.png,2054_MR.png,2049.png,1,6,2054,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,zrnz_ur,hero_zrnz_ur,4,1,ShenNvQiSuo,img_job_bg_1,1
 102055000,0,0,0,Frost Dragon,LB0,YKLS0,2055_0.png,,2049_0.png,2055.png,2049.png,0,2,2055,1,0,0,0,0,,111|1,Default,0,lb,hero_lb,4,1,ShenNvQiSuo,img_job_bg_1,0
 102055001,104,0,0,Sacred Palace,LB_HS,YKLS0,2055_HS.png,,2049_0.png,2055_HS.png,2049.png,1,6,2055,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,lb,hero_lb,4,1,,img_hunsha_bg,0
 102055200,102,0,0,Ice and Snow,LB_UR,YKLS0,2055_UR.png,,2049_0.png,2055_UR.png,2049.png,1,6,2055,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,lb_ur,hero_lb_ur,4,1,ShenNvQiSuo,img_job_bg_1,0
@@ -395,3 +395,4 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102084200,0,0,0,Uriel,WLE_UR,HL0,2084_UR.png,,2039_0.png,2084_UR.png,2039.png,1,6,2084,1,0,3:1:100|3:22:450,0,0,,111|1,Default,0,wle_ur,hero_wle,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102084300,102,0,0,Shadow Fragrance - Uriel,WLE_UR_PLUS,HL0,2084_UR_PLUS.png,,2039_0.png,2084_UR_PLUS.png,2039.png,1,6,2084,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,wle_ur,hero_wle,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102084368,102,0,0,Passionate Night - Uriel,WLE_MR,HL0,2084_MR.png,,2039_0.png,2084_MR.png,2039.png,1,6,2084,0,0,3:1:100|3:22:450,9,0,,,Wonder Waken,0,wle_ur,hero_wle,4,1,PanDuoLaShenMiao,img_job_bg_1,1
+102085000,0,0,0,Zodiac Dragon,CL0,YKLS0,2085_0.png,,2039_0.png,2085.png,2039.png,0,2,2085,1,0,0,0,0,,111|1,Default,0,cl,hero_cl,4,1,PanDuoLaShenMiao,img_job_bg_1,0

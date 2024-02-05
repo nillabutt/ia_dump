@@ -6842,7 +6842,7 @@ Completar:,
 Llave del Rey de Dios,
 CUSTOM_GIFT_NAME_LEVEL1,Valiente
 CUSTOM_GIFT_NAME_LEVEL2,Adelante
-REACH_LEVEL_UNLOCK_SUMMON,Desbloquear en <color=#FFBA00>Niv.{Level}</color>
+REACH_LEVEL_UNLOCK_SUMMON,Desbloquear en <color=#FFBA00>Niv.{level}</color>
 EVENT_GOD_TREASURE_HOUSE_LAYER,Piso de la Casa del Tesoro {0}
 Desbloquear en Niv.40,
 Desbloquear en Niv.70,

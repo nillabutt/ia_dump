@@ -192,18 +192,18 @@
 1252022011,0,17|27,,,Frenzy - Extreme Mysterious Slash,KuangLuan,"Turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds",CRIT UP; Debuff Immunity,0
 155201111,2,48,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
 155201211,2,49,,,Parry - Sacred Wind Blade,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-155201311,2,50,,,必暴-神风之刃,,,必定暴击,0
-165201111,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+155201311,2,50,,,必暴-神风之刃,,,,0
+165201111,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 165211111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-165211211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165211211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 165221111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-165221211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165221211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 165231111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-165231211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165231211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 165241111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-165241211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165241211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 165251111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
-165251211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,必定暴击,0
+165251211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 115301111,0,,,,Blessing-Affection,YuanFen_JS,Speed increased by 50 for 2 rounds,SPD UP,0
 115301311,0,,,,Blessing-Affection,YuanFen_BJ,CRIT increased by 50% for 2 rounds,CRIT UP,0
 115301511,0,,,,Blessing-Affection,YuanFen_BJSH,Critical DMG increased by 50% for 2 rounds,Crit DMG UP,0
@@ -317,16 +317,19 @@
 155401111,1,,,,减速-深渊冰狱,,速度降低50点,SPD DOWN,0
 155402201,2,,,,寒冰守护-深渊冰狱,,每次受到伤害时使敌人伤害降低3%,Enemy’s DMG DOWN when taking DMG,0
 155402211,1,,,,DMG Reduced - Frozen Void,ShenYuan,DMG Reduced,DMG Reduced,10
-165401111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165401211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低20%,能量回复效率降低,0
-165421111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165421211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低20%,能量回复效率降低,0
-165431111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165431211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低30%,能量回复效率降低,0
-165441111,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165441211,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低30%,能量回复效率降低,0
-165451211,1,4,,,冰冻-冰魂绝渊,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165451311,1,,,,冰封-冰魂绝渊,BingFeng,能量回复效率降低30%,能量回复效率降低,0
+165401111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165401211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 30%.,能量回复效率降低,0
+165421111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165421211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 30%.,能量回复效率降低,0
+165431011,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 2 round",Unable to move,0
+165431111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165431211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 40%.,能量回复效率降低,0
+165441011,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 2 round",Unable to move,0
+165441111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165441211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,能量回复效率降低,0
+165451011,1,4,,,Frozen - Frostbite Soul,BingDong,"Frozen for 3 rounds, cannot move.",Unable to move,0
+165451211,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
+165451311,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,能量回复效率降低,0
 100000111,1,7,,,Strong poison 1,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
 100000112,1,7,,,Strong poison 2,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times. (can not be dispelled）",Poison,5
 100000113,1,7,,,Strong poison 3,ZhongDu,"Apply [poison] until the battle ends, lose 6% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
@@ -534,8 +537,8 @@
 168431211,1,,,,Increase DMG taken,,,,0
 168441211,1,,,,Increase DMG taken,,,,0
 168451211,1,,,,Increase DMG taken,,,,0
-118501111,0,,,,极运-龙威咆哮,JiYun,暴击伤害增加30%，天启神技的伤害增加20%,暴击伤害增加|天启神技伤害增加,0
-118502211,0,6,,,虚弱-龙威咆哮,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
+118501111,0,,,,Extreme Luck - Draco Blessing,JiYun,Increases Crit DMG by 30% and DMG dealt by skills by 20%.,Increase Crit DMG | Increase Skill DMG,0
+118502211,0,6,,,Weaken - Mighty Roar,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
