@@ -1,6 +1,6 @@
 task_id,task_type,task_subtype,newbie_day,task_condition,task_value,reward,newbie_active_value,selling_price,name,content,content_param,task_group,task_index,task_id_before
 11000101,11,0,1,2,1,1:2:100,1,,,Login for 1 day,,0,0,0
-11000102,11,0,1,123,60,1:4:50|5:3000006:100,1,,,Obtain 60 VIP EXP in total,,0,0,0
+11000102,11,0,1,123,60,1:4:50|5:3000006:100,1,,,Top up to get 60 VIP EXP,,0,0,0
 11000103,11,1,1,3,20,1:1:60000|5:3000004:1,1,,,Complete Dungeon 2-19,,11000103,0,0
 11000104,11,1,1,3,40,1:1:120000|5:3000004:2,1,,,Complete Dungeon 3-20,,11000103,1,11000103
 11000105,11,1,1,3,60,1:1:180000|5:3000005:1,1,,,Complete Dungeon 4-20,,11000103,2,11000104

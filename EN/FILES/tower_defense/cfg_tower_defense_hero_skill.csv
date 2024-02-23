@@ -1,42 +1,42 @@
 id,name,desc,icon,debuff_icon,cooldown_time,prepare_effect,skill_effect,hit_effect,target_type,target_count,target_rule_type,must_be_crit_type,damage_type,damage_value,change_attribute,control_type,control_value,during_time
-1,普通攻击-1,Deal 100% P.DMG to 1 enemy,1006.png,,0,attack_2_act,attack_att1,attack_2_hit,2,1,1,0,2,1000,0,0,0,0
-2,普通攻击-2,Deal 100% P.DMG to 1 enemy,1006.png,,0,attack_2_act,attack_2_att,attack_2_hit,2,1,1,0,2,1000,0,0,0,0
-3,普通攻击-3,Deal 100% M.DMG to 1 enemy,1006.png,,0,attack_2_act,attack_2_att1,attack_2_hit,2,1,1,0,3,1000,0,0,0,0
-4,Basic Attack,Deal 50% P.DMG to 3 enemies,1006.png,,0,attack_2_yellow_act,attack_2_yellow_att,attack_2_yellow_hit,2,3,1,0,2,500,0,0,0,0
-5,Basic Attack,Deal 60% M.DMG to 2 enemies,1006.png,,0,attack_2_act,attack_2_att,attack_2_hit,2,2,1,0,3,600,0,0,0,0
-6,Basic Attack,Deal 50% M.DMG to 3 enemies,1006.png,,0,attack_2_act,attack_2_att,attack_2_hit,2,3,1,0,3,500,0,0,0,0
-7,Thunderstroke,Deal 300% ATK of P.DMG to 1 enemy,1010.png,,3,SYZZ_act,SYZZ_att,SYZZ_hit,2,1,1,0,2,3000,0,0,0,0
-8,God's Light,Deal 100% ATK of P.DMG to 3 enemy,12901.png,,3,CJST_act,attack_2_att,CJST_hit,2,3,1,0,2,1000,0,0,0,0
-9,Harmonious Shot,Deal 300% ATK of M.DMG to 1 enemy,11901.png,,3,2004_act,2004_att,2004_hit,2,1,1,0,3,3000,0,0,0,0
-10,Bull Rush,Deal 80% ATK of M.DMG to 4 enemy,11701.png,,3,MNCZ_act,attack_2_att,MNCZ_hit,2,4,1,0,3,800,0,0,0,0
-11,Life Harvest,Deal 110% ATK of P.DMG to 3 enemies,10401.png,,3,1004_act,1004_att,1004_hit,2,3,1,0,2,1100,0,0,0,0
-12,Radiant Sword,Deal 150% ATK of P.DMG to 2 enemy,10601.png,,3,GHZJ_act,GHZJ_att,GHZJ_hit,2,2,1,0,2,1500,0,0,0,0
-13,Hand of Hell,Deal 160% ATK of M.DMG to 2 enemy,13301.png,,3,attack_2_act,attack_2_att,DYZS_hit,2,2,1,0,3,1600,0,0,0,0
-14,Mesmerizing Blonde,Inflict [ATK Increase] state to 3 angels that increase the Base ATK by 100% for 5 seconds,12201.png,,3,MRJF_act,MRJF_att,MRJF_hit,1,3,1,0,4,0,4:1000,0,0,5
-15,Seraph,Inflict [Attack Speed Increase] state to 3 angels that increase the Base Attack Speed by 100% for 5 seconds,11602.png,,3,GHGY_act,GHGY_att,GHGY_hit,1,3,1,0,4,0,3:1000,0,0,5
-16,Tsukuyomi,Deal 230% P.DMG and inflict [Stun] state to 1 enemy that disables its action for 2 seconds,10501.png,YunXuan.png,3,attack_2_act,attack_2_att,attack_2_hit,2,1,1,0,2|5,2300,0,1,0,2
-17,Infinite Chaos,Deal 100% M.DMG and inflict [Speed Impair] state to 3 enemies that reduce its moving speed.,10901.png,XuRuo.png,3,attack_2_act,FBLX_att,FBLX_hit,2,3,1,0,3|5,1000,11:500,2,0,2
-18,Fire Annihilation,Deal 120% P.DMG and inflict [Burning] state to 3 enemies that deal 50% ATK of M.DMG for 3 seconds.,13901.png,ZhuoShao.png,3,LYMS_act,attack_2_att,LYMS_hit,2,3,1,0,2|5,1200,0,3,500,3
-19,Poisonous Magic,Deal 100% M.DMG and inflict [Poisoned] state to 3 enemies that lose 4% of current HP per second for 3 seconds.,10701.png,ZhongDu.png,3,1009_act,1009_att,1009_hit,2,3,1,0,3|5,1000,0,4,40,3
-20,Matronage,Deal 120% ATK of P.DMG to 3 enemy,12601.png,,3,MYTX_act,attack_2_att,MYTX_hit,2,3,1,0,2,1200,0,0,0,0
-21,Blazing Brilliance,Deal 120% ATK of M.DMG to 3 enemy,13201.png,,3,YGTJ_act,attack_2_att,YGTJ_hit,2,3,1,0,3,1200,0,0,0,0
-22,Arcane Arrow,Deal 120% ATK of P.DMG to 3 enemy,12001.png,,3,AYZJ_act,AYZJ_att,AYZJ_hit,2,3,1,0,2,1200,0,0,0,0
-23,Trauma,Deal 120% ATK of M.DMG to 3 enemy,12101.png,,3,MYZW_act,MYZW_att,MYZW_hit,2,3,1,0,3,1200,0,0,0,0
-24,Ground-shaking Strike,Deal 180% ATK of P.DMG to 2 enemies,10801.png,,3,attack_2_att,HDCJ_att,HDCJ_hit,2,2,1,0,2,1800,0,0,0,0
-25,Snake Hair,"Deals 100% True DMG to 3 enemies and inflicts [Petrified] state, rendering them unable to move for 4 sec.",10001.png,YunXuan.png,3,SFKW_act,SFKW_att,SFKW_hit,2,3,1,0,1|5,1000,0,1,0,4
-26,Curse of the Abyss,"Deals 120% M.DMG to 3 enemies and inflicts [Speed Impair] state, reducing their SPD by 50% for 3 sec.",10102.png,XuRuo.png,3,SYZZ_act,SYZZ_att,SYZZ_hit,2,3,1,0,3|5,1200,11:500,2,0,3
-27,Divination,"Deals 120% True DMG to 3 enemies; If the target is under [Ignite] state, ensure a critical hit.",10202.png,,3,GHZJ_act,GHZJ_att,GHZJ_hit,2,3,1,2,2,1200,0,0,0,0
-28,Surging Waves,"Deals 120% M.DMG to 3 enemies and inflicts [Poisoned] state, reducing 4% of their current HP per sec for 3 sec.",10301.png,ZhongDu.png,3,JTHL_act,JTHL_att,JTHL_hit,2,3,1,0,3|5,1200,0,4,40,3
-29,Ice world,"Deals 80% M.DMG to 4 enemies and inflicts [Spellbreaker] state, reducing their M.RES by 60% for 3 sec.",11001.png,PoJia.png,3,BTXD_act,BTXD_att,BTXD_hit,2,4,1,0,3|5,800,10:600,6,0,5
-30,Final Stab,"Deals 300% P.DMG to the enemy with the lowest HP; If that target's HP is less than 50%, ensure a critical hit.",11302.png,,3,1004_act,1004_att,1004_hit,2,1,2,1,2,3000,0,0,0,0
-31,Youth Apple,"Deals 120% P.DMG to 3 enemies and inflicts [Ignite] state, receiving M.DMG equals to 60% ATK per sec for 3 sec.",11401.png,ZhuoShao.png,3,QCPG_act,QCPG_att,QCPG_hit,2,3,1,0,2|5,1200,0,3,600,3
-32,Relentless Justice,"Inflicts [ATK Increase] state to 3 teammates, increasing their ATK by 150% for 5 sec.",11801.png,,3,WQZY_act,WQZY_att,WQZY_hit,1,3,1,0,4,0,4:1500,0,0,5
-33,Phantom Arrows,"Inflicts [SPD Increase] state to 3 teammates, increasing their SPD by 150% for 5 sec.",13501.png,,3,SGZM_act,SGZM_att,SGZM_hit,1,3,1,0,4,0,3:1500,0,0,5
-34,Box of Calamity,"Deals 140% M.DMG to 3 enemies and inflicts [Speed Impair]] state, reducing their SPD by 60% for 4 sec.",11201.png,XuRuo.png,3,ZEMH_act,ZEMH_att,ZEMH_hit,2,3,1,0,3|5,1400,11:600,2,0,4
-35,Descending Darkness,"Deals 400% P.DMG to 1 enemy and inflicts [Poisoned] state, reducing 3% of the target's current HP per sec for 4 sec.",12301.png,ZhongDu.png,3,HAJL_act,attack_2_att,HAJL_hit,2,1,1,0,2|5,4000,0,4,70,4
-36,Taichi,Deals 80% M.DMG to 4 enemies and inflicts [Stunned] state that last 4 sec,12501.png,YunXuan.png,3,TJBG_act,TJBG_att,TJBG_hit,2,4,1,0,3|5,800,0,1,0,4
-37,Nether Shot,"Deals 60% P.DMG to 6 enemies and inflicts [Ignite] state, dealing M.DMG equals to 60% ATK per sec for 4 sec.",12701.png,ZhuoShao.png,3,HQSJ_act,HQSJ_att,HQSJ_hit,2,6,1,0,2|5,600,0,3,600,4
-38,Purging Arrow,"Deals 120% P.DMG and inflicts [Sunder Armor] state to 3 enemies, reducing their P.RES by 60% for 4 sec.",13701.png,JiPo.png,3,2007_act,2007_att,2007_hit,2,3,1,0,2|5,1200,9:600,5,0,5
-39,Unbridled Fury,"Deals 60% True DMG to 6 enemies; If the target is under [Ignite] state, ensure a critical hit.",12802.png,,3,3001_act,3001_att,3001_hit,2,6,1,2,1,600,0,0,0,0
-40,Hammer of Chaos,"Deals 60% P.DMG to 6 enemies and inflicts [Poisoned] state, reducing 5% of the target's current HP per sec for 4 sec.",1002.png,ZhongDu.png,3,1002_act,attack_2_att,1002_hit,2,6,1,0,2|5,600,0,4,50,4
-41,Infinite Tsukuyomi,"Deals 300% P.DMG to the enemy with the highest HP and inflicts [Break] state, reducing the target's M.RES and P.RES by 60% for 5 sec.",14501.png,YuanFen_JP.png,3,MMWX_act,MMWX_att,MMWX_hit,2,1,3,0,2|5,3000,9:600|10:600,7,0,5
+1,普通攻击-1,Deal 100% P.DMG to 1 enemy,1006.jpg,,0,attack_2_act,attack_att1,attack_2_hit,2,1,1,0,2,1000,0,0,0,0
+2,普通攻击-2,Deal 100% P.DMG to 1 enemy,1006.jpg,,0,attack_2_act,attack_2_att,attack_2_hit,2,1,1,0,2,1000,0,0,0,0
+3,普通攻击-3,Deal 100% M.DMG to 1 enemy,1006.jpg,,0,attack_2_act,attack_2_att1,attack_2_hit,2,1,1,0,3,1000,0,0,0,0
+4,Basic Attack,Deal 50% P.DMG to 3 enemies,1006.jpg,,0,attack_2_yellow_act,attack_2_yellow_att,attack_2_yellow_hit,2,3,1,0,2,500,0,0,0,0
+5,Basic Attack,Deal 60% M.DMG to 2 enemies,1006.jpg,,0,attack_2_act,attack_2_att,attack_2_hit,2,2,1,0,3,600,0,0,0,0
+6,Basic Attack,Deal 50% M.DMG to 3 enemies,1006.jpg,,0,attack_2_act,attack_2_att,attack_2_hit,2,3,1,0,3,500,0,0,0,0
+7,Thunderstroke,Deal 300% ATK of P.DMG to 1 enemy,1010.jpg,,3,SYZZ_act,SYZZ_att,SYZZ_hit,2,1,1,0,2,3000,0,0,0,0
+8,God's Light,Deal 100% ATK of P.DMG to 3 enemy,12901.jpg,,3,CJST_act,attack_2_att,CJST_hit,2,3,1,0,2,1000,0,0,0,0
+9,Harmonious Shot,Deal 300% ATK of M.DMG to 1 enemy,11901.jpg,,3,2004_act,2004_att,2004_hit,2,1,1,0,3,3000,0,0,0,0
+10,Bull Rush,Deal 80% ATK of M.DMG to 4 enemy,11701.jpg,,3,MNCZ_act,attack_2_att,MNCZ_hit,2,4,1,0,3,800,0,0,0,0
+11,Life Harvest,Deal 110% ATK of P.DMG to 3 enemies,10401.jpg,,3,1004_act,1004_att,1004_hit,2,3,1,0,2,1100,0,0,0,0
+12,Radiant Sword,Deal 150% ATK of P.DMG to 2 enemy,10601.jpg,,3,GHZJ_act,GHZJ_att,GHZJ_hit,2,2,1,0,2,1500,0,0,0,0
+13,Hand of Hell,Deal 160% ATK of M.DMG to 2 enemy,13301.jpg,,3,attack_2_act,attack_2_att,DYZS_hit,2,2,1,0,3,1600,0,0,0,0
+14,Mesmerizing Blonde,Inflict [ATK Increase] state to 3 angels that increase the Base ATK by 100% for 5 seconds,12201.jpg,,3,MRJF_act,MRJF_att,MRJF_hit,1,3,1,0,4,0,4:1000,0,0,5
+15,Seraph,Inflict [Attack Speed Increase] state to 3 angels that increase the Base Attack Speed by 100% for 5 seconds,11602.jpg,,3,GHGY_act,GHGY_att,GHGY_hit,1,3,1,0,4,0,3:1000,0,0,5
+16,Tsukuyomi,Deal 230% P.DMG and inflict [Stun] state to 1 enemy that disables its action for 2 seconds,10501.jpg,YunXuan.png,3,attack_2_act,attack_2_att,attack_2_hit,2,1,1,0,2|5,2300,0,1,0,2
+17,Infinite Chaos,Deal 100% M.DMG and inflict [Speed Impair] state to 3 enemies that reduce its moving speed.,10901.jpg,XuRuo.png,3,attack_2_act,FBLX_att,FBLX_hit,2,3,1,0,3|5,1000,11:500,2,0,2
+18,Fire Annihilation,Deal 120% P.DMG and inflict [Burning] state to 3 enemies that deal 50% ATK of M.DMG for 3 seconds.,13901.jpg,ZhuoShao.png,3,LYMS_act,attack_2_att,LYMS_hit,2,3,1,0,2|5,1200,0,3,500,3
+19,Poisonous Magic,Deal 100% M.DMG and inflict [Poisoned] state to 3 enemies that lose 4% of current HP per second for 3 seconds.,10701.jpg,ZhongDu.png,3,1009_act,1009_att,1009_hit,2,3,1,0,3|5,1000,0,4,40,3
+20,Matronage,Deal 120% ATK of P.DMG to 3 enemy,12601.jpg,,3,MYTX_act,attack_2_att,MYTX_hit,2,3,1,0,2,1200,0,0,0,0
+21,Blazing Brilliance,Deal 120% ATK of M.DMG to 3 enemy,13201.jpg,,3,YGTJ_act,attack_2_att,YGTJ_hit,2,3,1,0,3,1200,0,0,0,0
+22,Arcane Arrow,Deal 120% ATK of P.DMG to 3 enemy,12001.jpg,,3,AYZJ_act,AYZJ_att,AYZJ_hit,2,3,1,0,2,1200,0,0,0,0
+23,Trauma,Deal 120% ATK of M.DMG to 3 enemy,12101.jpg,,3,MYZW_act,MYZW_att,MYZW_hit,2,3,1,0,3,1200,0,0,0,0
+24,Ground-shaking Strike,Deal 180% ATK of P.DMG to 2 enemies,10801.jpg,,3,attack_2_att,HDCJ_att,HDCJ_hit,2,2,1,0,2,1800,0,0,0,0
+25,Snake Hair,"Deals 100% True DMG to 3 enemies and inflicts [Petrified] state, rendering them unable to move for 4 sec.",10001.jpg,YunXuan.png,3,SFKW_act,SFKW_att,SFKW_hit,2,3,1,0,1|5,1000,0,1,0,4
+26,Curse of the Abyss,"Deals 120% M.DMG to 3 enemies and inflicts [Speed Impair] state, reducing their SPD by 50% for 3 sec.",10102.jpg,XuRuo.png,3,SYZZ_act,SYZZ_att,SYZZ_hit,2,3,1,0,3|5,1200,11:500,2,0,3
+27,Divination,"Deals 120% True DMG to 3 enemies; If the target is under [Ignite] state, ensure a critical hit.",10202.jpg,,3,GHZJ_act,GHZJ_att,GHZJ_hit,2,3,1,2,2,1200,0,0,0,0
+28,Surging Waves,"Deals 120% M.DMG to 3 enemies and inflicts [Poisoned] state, reducing 4% of their current HP per sec for 3 sec.",10301.jpg,ZhongDu.png,3,JTHL_act,JTHL_att,JTHL_hit,2,3,1,0,3|5,1200,0,4,40,3
+29,Ice world,"Deals 80% M.DMG to 4 enemies and inflicts [Spellbreaker] state, reducing their M.RES by 60% for 3 sec.",11001.jpg,PoJia.png,3,BTXD_act,BTXD_att,BTXD_hit,2,4,1,0,3|5,800,10:600,6,0,5
+30,Final Stab,"Deals 300% P.DMG to the enemy with the lowest HP; If that target's HP is less than 50%, ensure a critical hit.",11302.jpg,,3,1004_act,1004_att,1004_hit,2,1,2,1,2,3000,0,0,0,0
+31,Youth Apple,"Deals 120% P.DMG to 3 enemies and inflicts [Ignite] state, receiving M.DMG equals to 60% ATK per sec for 3 sec.",11401.jpg,ZhuoShao.png,3,QCPG_act,QCPG_att,QCPG_hit,2,3,1,0,2|5,1200,0,3,600,3
+32,Relentless Justice,"Inflicts [ATK Increase] state to 3 teammates, increasing their ATK by 150% for 5 sec.",11801.jpg,,3,WQZY_act,WQZY_att,WQZY_hit,1,3,1,0,4,0,4:1500,0,0,5
+33,Phantom Arrows,"Inflicts [SPD Increase] state to 3 teammates, increasing their SPD by 150% for 5 sec.",13501.jpg,,3,SGZM_act,SGZM_att,SGZM_hit,1,3,1,0,4,0,3:1500,0,0,5
+34,Box of Calamity,"Deals 140% M.DMG to 3 enemies and inflicts [Speed Impair]] state, reducing their SPD by 60% for 4 sec.",11201.jpg,XuRuo.png,3,ZEMH_act,ZEMH_att,ZEMH_hit,2,3,1,0,3|5,1400,11:600,2,0,4
+35,Descending Darkness,"Deals 400% P.DMG to 1 enemy and inflicts [Poisoned] state, reducing 3% of the target's current HP per sec for 4 sec.",12301.jpg,ZhongDu.png,3,HAJL_act,attack_2_att,HAJL_hit,2,1,1,0,2|5,4000,0,4,70,4
+36,Taichi,Deals 80% M.DMG to 4 enemies and inflicts [Stunned] state that last 4 sec,12501.jpg,YunXuan.png,3,TJBG_act,TJBG_att,TJBG_hit,2,4,1,0,3|5,800,0,1,0,4
+37,Nether Shot,"Deals 60% P.DMG to 6 enemies and inflicts [Ignite] state, dealing M.DMG equals to 60% ATK per sec for 4 sec.",12701.jpg,ZhuoShao.png,3,HQSJ_act,HQSJ_att,HQSJ_hit,2,6,1,0,2|5,600,0,3,600,4
+38,Purging Arrow,"Deals 120% P.DMG and inflicts [Sunder Armor] state to 3 enemies, reducing their P.RES by 60% for 4 sec.",13701.jpg,JiPo.png,3,2007_act,2007_att,2007_hit,2,3,1,0,2|5,1200,9:600,5,0,5
+39,Unbridled Fury,"Deals 60% True DMG to 6 enemies; If the target is under [Ignite] state, ensure a critical hit.",12802.jpg,,3,3001_act,3001_att,3001_hit,2,6,1,2,1,600,0,0,0,0
+40,Hammer of Chaos,"Deals 60% P.DMG to 6 enemies and inflicts [Poisoned] state, reducing 5% of the target's current HP per sec for 4 sec.",1002.jpg,ZhongDu.png,3,1002_act,attack_2_att,1002_hit,2,6,1,0,2|5,600,0,4,50,4
+41,Infinite Tsukuyomi,"Deals 300% P.DMG to the enemy with the highest HP and inflicts [Break] state, reducing the target's M.RES and P.RES by 60% for 5 sec.",14501.jpg,YuanFen_JP.png,3,MMWX_act,MMWX_att,MMWX_hit,2,1,3,0,2|5,3000,9:600|10:600,7,0,5

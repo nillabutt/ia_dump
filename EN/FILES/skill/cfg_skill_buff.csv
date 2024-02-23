@@ -343,6 +343,10 @@
 155501111,1,22,,,Nova Mark,BiaoJi,Enemies with the state will be attacked first.,Taunt,0
 155501211,1,,,,胆怯-灭世新星,,攻击力降低50%,ATK DOWN,0
 155502111,1,105,,,Justice Fire,YeHuo,Enemies with the state will lose 8% of their Max HP. This effect will bypass any Debuff RES.,Nova Mark,0
+165501111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 50%.,ATK UP,0
+165521111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
+165531111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
+165541111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
 125601211,1,8,,,Sunder Armor - Squally Thunderstorm,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
 125602111,0,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"ATK increased by 350%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
 145602111,0,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"Increase ATK by 400% for 2 rounds, all basic attacks will crit, and gain immunity to all debuffs","ATK, CRIT UP | Debuff Immunity",0
@@ -358,6 +362,7 @@
 156403111,2,,,,Dark Shadow - Stellar Twin,AnYing,Increases Gemini’s Debuff RES by 50% and Damage Reduction by 30%(Neutral Status),Debuff RES UP; DMG Taken DOWN,0
 156403211,2,63,,,转护盾-超凡双星,,,,0
 156403311,2,,,,护盾-超凡双星,,,,999
+166401011,2,81,,,免死-暮光华舞,,,,0
 116601111,2,33,,,Moonlight-Lone moon,YueGuang,"Infinite rounds, [Moonlight] Mark caused by Lone moon(Neutral Status)",Moonlight,12
 126601111,2,33,,,Moonlight Sigil,YueGuang,"Infinite rounds, [Moonlight] Mark caused by moonlight sigil(Neutral Status)",Moonlight,18
 126601411,0,,,,Moon God-Moonlight Sigil,YueShen,"Infinite rounds, ATK, CRIT increased by 5%","ATK, CRIT UP",6

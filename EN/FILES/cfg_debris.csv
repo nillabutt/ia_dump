@@ -1,79 +1,79 @@
 cfg_id,position_count,max_count,quality,restore,name,icon,icon_review,description
-2001,40,999,5,5,Medusa Shard,2001.png,2039.png,Collect 40 Medusa Shards to summon Medusa
-2002,40,999,5,5,Poseidon Shard,2002.png,2039.png,Collect 40 Poseidon Shards to summon Poseidon
-2003,40,999,5,5,Jeanne d'Arc Shard,2003.png,2039.png,Collect 40 Jeanne d'Arc Shards to summon Jeanne d'Arc
-2004,40,999,5,5,Siren Shard,2004.png,2039.png,Collect 40 Siren Shards to summon Siren
-2005,30,999,4,2,Nefertis Shard,2005.png,2039.png,Collect 30 Nephthys Shards to summon Nephthys
-2006,20,999,3,1,Tsukuyomi Shard,2006.png,2039.png,Collect 20 Tsukuyomi Shards to summon Tsukuyomi
-2007,20,999,3,1,Ungnyeo Shard,2007.png,2037_1.png,Collect 20 Ungnyeo Shards to summon Ungnyeo
-2008,30,999,4,2,Shennong Shard,2008.png,2042.png,Collect 30 Shennong Shards to summon Shennong
-2009,35,999,4,2,Geb Shard,2009.png,2042.png,Collect 35 Geb Shards to summon Geb
-2010,30,999,4,2,Lilith Shard,2010.png,2042.png,Collect 30 Lilith Shards to summon Lilith
-2011,40,999,5,5,Nuit Shard,2011.png,2042.png,Collect 40 Nuit Shards to summon Nuit
-2012,50,999,6,10,Gaia Shard,2012.png,2042.png,Collect 50 Gaia Shards to summon Gaia
-2013,45,999,5,5,Pandora Shard,2013.png,2035.png,Collect 45 Pandora Shards to summon Pandora
-2014,40,999,5,5,Nike Shard,2014.png,2052.png,Collect 40 Nike Shards to summon Nike
-2015,40,999,5,5,Idun Shard,2015.png,2015.png,Collect 40 Idun Shards to summon Idun
-2016,50,999,6,10,Valkyrie Shard,2016.png,2015.png,Collect 50 Valkyrie Shards to summon Valkyrie
-2017,30,999,4,2,Raphael Shard,2017.png,2054_YS1.png,Collect 30 Raphael Shards to summon Raphael
-2018,20,999,3,1,Minotaur Shard,2018.png,2053_UR_PLUS_SH.png,Collect 20 Minotaur Shards to summon Minotaur
-2019,40,999,5,5,Nemesis Shard,2019.png,2071.png,Collect 40 Nemesis Shards to summon Nemesis
-2020,20,999,3,1,Muse Shard,2020.png,2055_UR_SH.png,Collect 20 Muse Shards to summon Muse
-2021,35,999,4,2,Iris Shard,2021.png,2021.png,Collect 35 Iris Shards to summon Iris
-2022,35,999,4,2,Belldandy Shard,2022.png,2067.png,Collect 35 Belldandy Shards to summon Belldandy
-2023,30,999,4,2,Sif Shard,2023.png,1000_SDSZ_SH.png,Collect 30 Sif Shards to summon Sif
-2024,45,999,5,5,Lucifer Shard,2024.png,1000_GEJ_SH.png,Collect 45 Lucifer Shards to summon Lucifer
-2025,50,999,6,10,Nuwa Shard,2025.png,2025.png,Collect 50 Nuwa Shards to summon Nuwa
-2026,45,999,5,5,Fuxi Shard,2026.png,1000_HF1.png,Collect 45 Fuxi Shards to summon Fuxi
-2027,35,999,4,2,Xiwangmu Shard,2027.png,2073.png,Collect 35 Xiwangmu Shards to summon Xiwangmu
-2028,45,999,5,5,Princess Bari Shard,2028.png,2051.png,Collect 45 Princess Bari Shards to summon Princess Bari
-2029,30,999,4,2,Apep Shard,2029.png,3072.png,Collect 30 Apep Shards to summon Apep
-2030,20,999,3,1,Gabriel Shard,2030.png,2030.png,Collect 20 Gabriel Shards to summon Gabriel
-2031,50,999,6,10,Erebus Shard,2031.png,2031.png,Collect 50 Erebus Shards to summon Erebus
-2032,50,999,6,10,Amaterasu Shard,2032.png,2031.png,Collect 50 Amaterasu Shards to summon Amaterasu
-2033,35,999,4,2,Nyx Shard,2033.png,1000_WSJ_SH.png,Collect 35 Nyx Shards to summon Nyx
-2034,35,999,4,2,Anubis Shard,2034.png,2049.png,Collect 35 Anubis Shards to summon Anubis
-2035,50,999,6,10,Odin Shard,2035.png,2035.png,Collect 50 Odin Shards to summon Odin
-2036,40,999,5,5,Phantasos Shard,2036.png,2025.png,Collect 40 Phantasos Shards to summon Phantasos
-2037,55,999,6,10,Ra Shard,2037.png,2037.png,Collect 55 Ra Shards to summon Ra
-2038,45,999,5,5,Izu Dancer Shard,2038.png,2038.png,Collect 45 Izu Dancer Shards to summon Izu Dancer
-2039,55,999,6,10,Hera Shard,2039.png,2039.png,Collect 55 Hera Shards to summon Hera
-2040,45,999,5,5,Zhu Rong Shard,2040.png,2037_UR_PLUS_SH.png,Collect 45 Zhu Rong Shards to summon Zhu Rong
-2041,45,999,5,5,Hephaestus Shard,2041.png,2041.png,Collect 45 Hephaestus Shards to summon Hephaestus
-2042,50,999,6,10,Xmas Angel Shard,2042.png,2042.png,Collect 50 Xmas Angel Shards to summon Xmas Angel
-2046,45,999,5,5,Izanami Shard,2046.png,2046.png,Collect 45 Izanami Shards to summon Izanami
-2047,55,999,6,10,Cupid Shard,2047.png,2049.png,Collect 55 Cupid Shards to summon Cupid
-2048,50,999,6,10,Hades Shard,2048.png,2049.png,Collect 50 Hades Shards to summon Hades
-2049,55,999,6,10,Icarus Shard,2049.png,2049.png,Collect 55 Icarus Shards to summon Icarus
-2050,55,999,6,10,Chaos Shard,2050.png,2046_1.png,Collect 55 Chaos Shards to summon Chaos
-2051,55,999,6,10,Heimdall Shard,2051.png,2049.png,Collect 55 Heimdall Shards to summon Heimdall
-2052,50,999,6,10,Michael Shard,2052.png,2049.png,Collect 50 Michael Shards to summon Michael
-2053,55,999,6,10,Himiko Shard,2053.png,2049.png,Collect 55 Himiko Shards to summon Himiko
-2054,50,999,6,10,Enmusubi Shard,2054.png,2049.png,Collect 50 Enmusubi Shards to summon Enmusubi
-2055,55,999,6,10,Frost Dragon Shards,2055.png,2049.png,Collect 55 Frost Dragon Shards to summon Frost Dragon
-2056,55,999,6,10,Ember Dragon Shards,2056.png,2049.png,Collect 55 Ember Dragon Shards to summon Ember Dragon
-2057,55,999,6,10,Storm Dragon Shards,2057.png,2049.png,Collect 55 Storm Dragon Shards to summon Storm Dragon
-2059,50,999,6,10,Zodiac Ox Shard,2059.png,2049.png,Collect Zodiac Ox Shards to summon Zodiac Ox
-2060,55,999,6,10,Freyja Shard,2060.png,2049.png,Collect 55 Freyja Shards to summon Freyja
-2058,50,999,6,10,Nekomata Shard,2058.png,2049.png,Collect 50 Nekomata Shards to summon Nekomata
-2061,50,999,6,10,Kingyo Shard,2061.png,2049.png,Collect 50 Kingyo Shards to summon Kingyo
-2062,50,999,6,10,Princess Kaguya Shard,2062.png,2049.png,Collect 50 Princess Kaguya Shards to summon Princess Kaguya
-2063,55,999,6,10,Sim Cheong Shard,2063.png,2049.png,Collect 55 Sim Cheong Shards to summon Sim Cheong
-2065,55,999,6,10,Gemini Shard,2065.png,2049.png,Collect 55 Gemini Shards to summon Gemini
-2067,55,999,6,10,Chang'e Shard,2067.png,2049.png,Collect 55 Chang'e Shards to summon Chang'e
-2068,55,999,6,10,Asura Shard,2068.png,2049.png,Collect 55 Asura Shards to summon Asura
-2069,55,999,6,10,Athena Shard,2069.png,2049.png,Collect 55 Athena Shards to summon Athena
-2070,50,999,6,10,Zodiac Tiger Shard,2070.png,2049.png,Collect 50 Zodiac Tiger Shards to summon Zodiac Tiger
-2071,55,999,6,10,Capricornus Shard,2071.png,2049.png,Collect 55 Capricornus Shards to summon Capricornus
-2073,55,999,6,10,Pisces Shard,2073.png,2049.png,Collect 55 Pisces Shards to summon Pisces
-2074,55,999,6,10,Venus Shard,2074.png,2049.png,Collect 55 Venus Shards to summon Venus
-2075,55,999,6,10,Zeus Shard,2075.png,2049.png,Collect 55 Zeus Shards to summon Zeus
-2076,55,999,6,10,Loki Shard,2076.png,2049.png,Collect 55 Loki Shards to summon Loki!
-2077,55,999,6,10,Thor Shard,2077.png,2049.png,Collect 55 Thor Shards to summon Thor
-2078,55,999,6,10,Apollo Shard,2078.png,2049.png,Collect 55 Apollo Shards to summon Apollo
-2079,55,999,6,10,Sakura Spirit Shard(s),2079.png,2049.png,Collect 55 Sakura Spirit Shards to summon Sakura Spirit
-2080,50,999,6,10,Zodiac Rabbit Shard,2080.png,2049.png,Collect 50 Zodiac Rabbit Shards to summon Zodiac Rabbit
-2081,55,999,6,10,Horus Shard,2081.png,2049.png,Collect 55 Horus Shards to summon Horus
-2082,55,999,6,10,Frigga Shard,2082.png,2049.png,Collect 55 Frigga Shards to summon Frigga
-2083,55,999,6,10,Ares Shard,2083.png,2049.png,Collect 55 Ares Shards to summon Ares
-2085,50,999,6,10,Zodiac Dragon Shards,2085.png,2049.png,Collect 50 Zodiac Dragon Shards to summon Zodiac Dragon
+2001,40,999,5,5,Medusa Shard,2001.jpg,2039.jpg,Collect 40 Medusa Shards to summon Medusa
+2002,40,999,5,5,Poseidon Shard,2002.jpg,2039.jpg,Collect 40 Poseidon Shards to summon Poseidon
+2003,40,999,5,5,Jeanne d'Arc Shard,2003.jpg,2039.jpg,Collect 40 Jeanne d'Arc Shards to summon Jeanne d'Arc
+2004,40,999,5,5,Siren Shard,2004.jpg,2039.jpg,Collect 40 Siren Shards to summon Siren
+2005,30,999,4,2,Nefertis Shard,2005.jpg,2039.jpg,Collect 30 Nephthys Shards to summon Nephthys
+2006,20,999,3,1,Tsukuyomi Shard,2006.jpg,2039.jpg,Collect 20 Tsukuyomi Shards to summon Tsukuyomi
+2007,20,999,3,1,Ungnyeo Shard,2007.jpg,2037_1.jpg,Collect 20 Ungnyeo Shards to summon Ungnyeo
+2008,30,999,4,2,Shennong Shard,2008.jpg,2042.jpg,Collect 30 Shennong Shards to summon Shennong
+2009,35,999,4,2,Geb Shard,2009.jpg,2042.jpg,Collect 35 Geb Shards to summon Geb
+2010,30,999,4,2,Lilith Shard,2010.jpg,2042.jpg,Collect 30 Lilith Shards to summon Lilith
+2011,40,999,5,5,Nuit Shard,2011.jpg,2042.jpg,Collect 40 Nuit Shards to summon Nuit
+2012,50,999,6,10,Gaia Shard,2012.jpg,2042.jpg,Collect 50 Gaia Shards to summon Gaia
+2013,45,999,5,5,Pandora Shard,2013.jpg,2035.jpg,Collect 45 Pandora Shards to summon Pandora
+2014,40,999,5,5,Nike Shard,2014.jpg,2052.jpg,Collect 40 Nike Shards to summon Nike
+2015,40,999,5,5,Idun Shard,2015.jpg,2015.jpg,Collect 40 Idun Shards to summon Idun
+2016,50,999,6,10,Valkyrie Shard,2016.jpg,2015.jpg,Collect 50 Valkyrie Shards to summon Valkyrie
+2017,30,999,4,2,Raphael Shard,2017.jpg,2054_YS1.jpg,Collect 30 Raphael Shards to summon Raphael
+2018,20,999,3,1,Minotaur Shard,2018.jpg,2053_UR_PLUS_SH.jpg,Collect 20 Minotaur Shards to summon Minotaur
+2019,40,999,5,5,Nemesis Shard,2019.jpg,2071.jpg,Collect 40 Nemesis Shards to summon Nemesis
+2020,20,999,3,1,Muse Shard,2020.jpg,2055_UR_SH.jpg,Collect 20 Muse Shards to summon Muse
+2021,35,999,4,2,Iris Shard,2021.jpg,2021.jpg,Collect 35 Iris Shards to summon Iris
+2022,35,999,4,2,Belldandy Shard,2022.jpg,2067.jpg,Collect 35 Belldandy Shards to summon Belldandy
+2023,30,999,4,2,Sif Shard,2023.jpg,1000_SDSZ_SH.jpg,Collect 30 Sif Shards to summon Sif
+2024,45,999,5,5,Lucifer Shard,2024.jpg,1000_GEJ_SH.jpg,Collect 45 Lucifer Shards to summon Lucifer
+2025,50,999,6,10,Nuwa Shard,2025.jpg,2025.jpg,Collect 50 Nuwa Shards to summon Nuwa
+2026,45,999,5,5,Fuxi Shard,2026.jpg,1000_HF1.jpg,Collect 45 Fuxi Shards to summon Fuxi
+2027,35,999,4,2,Xiwangmu Shard,2027.jpg,2073.jpg,Collect 35 Xiwangmu Shards to summon Xiwangmu
+2028,45,999,5,5,Princess Bari Shard,2028.jpg,2051.jpg,Collect 45 Princess Bari Shards to summon Princess Bari
+2029,30,999,4,2,Apep Shard,2029.jpg,3072.jpg,Collect 30 Apep Shards to summon Apep
+2030,20,999,3,1,Gabriel Shard,2030.jpg,2030.jpg,Collect 20 Gabriel Shards to summon Gabriel
+2031,50,999,6,10,Erebus Shard,2031.jpg,2031.jpg,Collect 50 Erebus Shards to summon Erebus
+2032,50,999,6,10,Amaterasu Shard,2032.jpg,2031.jpg,Collect 50 Amaterasu Shards to summon Amaterasu
+2033,35,999,4,2,Nyx Shard,2033.jpg,1000_WSJ_SH.jpg,Collect 35 Nyx Shards to summon Nyx
+2034,35,999,4,2,Anubis Shard,2034.jpg,2049.jpg,Collect 35 Anubis Shards to summon Anubis
+2035,50,999,6,10,Odin Shard,2035.jpg,2035.jpg,Collect 50 Odin Shards to summon Odin
+2036,40,999,5,5,Phantasos Shard,2036.jpg,2025.jpg,Collect 40 Phantasos Shards to summon Phantasos
+2037,55,999,6,10,Ra Shard,2037.jpg,2037.jpg,Collect 55 Ra Shards to summon Ra
+2038,45,999,5,5,Izu Dancer Shard,2038.jpg,2038.jpg,Collect 45 Izu Dancer Shards to summon Izu Dancer
+2039,55,999,6,10,Hera Shard,2039.jpg,2039.jpg,Collect 55 Hera Shards to summon Hera
+2040,45,999,5,5,Zhu Rong Shard,2040.jpg,2037_UR_PLUS_SH.jpg,Collect 45 Zhu Rong Shards to summon Zhu Rong
+2041,45,999,5,5,Hephaestus Shard,2041.jpg,2041.jpg,Collect 45 Hephaestus Shards to summon Hephaestus
+2042,50,999,6,10,Xmas Angel Shard,2042.jpg,2042.jpg,Collect 50 Xmas Angel Shards to summon Xmas Angel
+2046,45,999,5,5,Izanami Shard,2046.jpg,2046.jpg,Collect 45 Izanami Shards to summon Izanami
+2047,55,999,6,10,Cupid Shard,2047.jpg,2049.jpg,Collect 55 Cupid Shards to summon Cupid
+2048,50,999,6,10,Hades Shard,2048.jpg,2049.jpg,Collect 50 Hades Shards to summon Hades
+2049,55,999,6,10,Icarus Shard,2049.jpg,2049.jpg,Collect 55 Icarus Shards to summon Icarus
+2050,55,999,6,10,Chaos Shard,2050.jpg,2046_1.jpg,Collect 55 Chaos Shards to summon Chaos
+2051,55,999,6,10,Heimdall Shard,2051.jpg,2049.jpg,Collect 55 Heimdall Shards to summon Heimdall
+2052,50,999,6,10,Michael Shard,2052.jpg,2049.jpg,Collect 50 Michael Shards to summon Michael
+2053,55,999,6,10,Himiko Shard,2053.jpg,2049.jpg,Collect 55 Himiko Shards to summon Himiko
+2054,50,999,6,10,Enmusubi Shard,2054.jpg,2049.jpg,Collect 50 Enmusubi Shards to summon Enmusubi
+2055,55,999,6,10,Frost Dragon Shards,2055.jpg,2049.jpg,Collect 55 Frost Dragon Shards to summon Frost Dragon
+2056,55,999,6,10,Ember Dragon Shards,2056.jpg,2049.jpg,Collect 55 Ember Dragon Shards to summon Ember Dragon
+2057,55,999,6,10,Storm Dragon Shards,2057.jpg,2049.jpg,Collect 55 Storm Dragon Shards to summon Storm Dragon
+2059,50,999,6,10,Zodiac Ox Shard,2059.jpg,2049.jpg,Collect Zodiac Ox Shards to summon Zodiac Ox
+2060,55,999,6,10,Freyja Shard,2060.jpg,2049.jpg,Collect 55 Freyja Shards to summon Freyja
+2058,50,999,6,10,Nekomata Shard,2058.jpg,2049.jpg,Collect 50 Nekomata Shards to summon Nekomata
+2061,50,999,6,10,Kingyo Shard,2061.jpg,2049.jpg,Collect 50 Kingyo Shards to summon Kingyo
+2062,50,999,6,10,Princess Kaguya Shard,2062.jpg,2049.jpg,Collect 50 Princess Kaguya Shards to summon Princess Kaguya
+2063,55,999,6,10,Sim Cheong Shard,2063.jpg,2049.jpg,Collect 55 Sim Cheong Shards to summon Sim Cheong
+2065,55,999,6,10,Gemini Shard,2065.jpg,2049.jpg,Collect 55 Gemini Shards to summon Gemini
+2067,55,999,6,10,Chang'e Shard,2067.jpg,2049.jpg,Collect 55 Chang'e Shards to summon Chang'e
+2068,55,999,6,10,Asura Shard,2068.jpg,2049.jpg,Collect 55 Asura Shards to summon Asura
+2069,55,999,6,10,Athena Shard,2069.jpg,2049.jpg,Collect 55 Athena Shards to summon Athena
+2070,50,999,6,10,Zodiac Tiger Shard,2070.jpg,2049.jpg,Collect 50 Zodiac Tiger Shards to summon Zodiac Tiger
+2071,55,999,6,10,Capricornus Shard,2071.jpg,2049.jpg,Collect 55 Capricornus Shards to summon Capricornus
+2073,55,999,6,10,Pisces Shard,2073.jpg,2049.jpg,Collect 55 Pisces Shards to summon Pisces
+2074,55,999,6,10,Venus Shard,2074.jpg,2049.jpg,Collect 55 Venus Shards to summon Venus
+2075,55,999,6,10,Zeus Shard,2075.jpg,2049.jpg,Collect 55 Zeus Shards to summon Zeus
+2076,55,999,6,10,Loki Shard,2076.jpg,2049.jpg,Collect 55 Loki Shards to summon Loki!
+2077,55,999,6,10,Thor Shard,2077.jpg,2049.jpg,Collect 55 Thor Shards to summon Thor
+2078,55,999,6,10,Apollo Shard,2078.jpg,2049.jpg,Collect 55 Apollo Shards to summon Apollo
+2079,55,999,6,10,Sakura Spirit Shard(s),2079.jpg,2049.jpg,Collect 55 Sakura Spirit Shards to summon Sakura Spirit
+2080,50,999,6,10,Zodiac Rabbit Shard,2080.jpg,2049.jpg,Collect 50 Zodiac Rabbit Shards to summon Zodiac Rabbit
+2081,55,999,6,10,Horus Shard,2081.jpg,2049.jpg,Collect 55 Horus Shards to summon Horus
+2082,55,999,6,10,Frigga Shard,2082.jpg,2049.jpg,Collect 55 Frigga Shards to summon Frigga
+2083,55,999,6,10,Ares Shard,2083.jpg,2049.jpg,Collect 55 Ares Shards to summon Ares
+2085,50,999,6,10,Zodiac Dragon Shards,2085.jpg,2049.jpg,Collect 50 Zodiac Dragon Shards to summon Zodiac Dragon
