@@ -309,6 +309,11 @@
 156201311,2,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",CRIT DMG Taken DOWN,0
 156201411,2,,,,Lotus Barrier - Lotus Canopy,LianHua,"When receiving a critical hit, reduces received DMG by 10%(Neutral Status)",CRIT DMG Taken DOWN,0
 156201511,2,,,,护盾-莲华天幕,,,,0
+166201211,0,,,,清莲流韵,QingLian,攻击力提高20%,ATK UP,0
+166221211,0,,,,清莲流韵,QingLian,攻击力提高20%,ATK UP,0
+166231211,0,,,,清莲流韵,QingLian,攻击力提高35%,ATK UP,0
+166241211,0,,,,清莲流韵,QingLian,Increases ATK by 50%.,ATK UP,0
+166251211,0,,,,清莲流韵,QingLian,Increases ATK by 50%.,ATK UP,0
 125401411,1,,,,Frostbite-Frozen Blizzard,DongShang,"In 3 rounds, speed reduced by 100, lose 5% of MAX HP in each round",Frostbite | SPD DOWN,0
 125401511,1,,,,Frostbite-Frozen Blizzard,,,,0
 125402211,0,,,,Hibernation-Aegis of Ice,DongMian,"For 2 rounds, cannot act, gain 90% DMG Reduction and restore 20% of Max HP per round",Unable to move | DMG Taken DOWN; Recover HP,0
@@ -529,6 +534,7 @@
 138202211,0,,,,护盾,,,,0
 158201111,1,65,,,Isolated - Heartless Cage,GuLi,Cannot receive any buffs,Cannot receive buffs,0
 158202111,1,,,,Malediction - Heartless Cage,CuiRuo,Increases DMG taken by 1% for each layer,DMG UP,999
+168201111,1,65,,,孤立-绝魂心音,GuLi,Cannot receive any buffs,Cannot receive buffs,0
 128302111,2,831,,,标记,,,,0
 158301111,1,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,DMG UP,10
 158302211,2,,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,Increase DMG and reduce DMG taken,0

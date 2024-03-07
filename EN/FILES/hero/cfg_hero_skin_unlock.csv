@@ -326,6 +326,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102063003,104,0,0,Sacred Palace,SQE_HS,YKLS0,2063_HS.png,,2049_0.png,2063_HS.jpg,2049.jpg,1,6,2063,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,sqe,hero_sqe,4,1,,img_hunsha_bg,0
 102063200,102,0,0,True Love Guardian,SQE_UR,YKLS0,2063_UR.png,,2049_0.png,2063_UR.jpg,2049.jpg,1,6,2063,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,sqe,hero_sqe,4,1,ShenNvQiSuo,img_job_bg_1,0
 102063300,102,0,0,Floating Lotus - Sim Cheong,SQE_UR_PLUS,YKLS0,2063_UR_PLUS.png,,2049_0.png,2063_UR_PLUS.jpg,2049.jpg,1,6,2063,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,sqe,hero_sqe,4,1,ShenNvQiSuo,img_job_bg_1,1
+102063368,102,0,0,蓬莱碧波-沈青儿,SQE_MR,YKLS0,2063_MR.png,,2049_0.png,2063_MR.jpg,2049.jpg,1,6,2063,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,sqe,hero_sqe,4,1,ShenNvQiSuo,img_job_bg_1,1
 102065000,0,0,0,Gemini,YWJ0,YKLS0,2065_0.png,,2049_0.png,2065.jpg,2049.jpg,0,2,2065,1,0,0,0,0,,111|1,Default,0,ywj,hero_ywj,4,1,KunLunTianGong,img_job_bg_1,0
 102065001,104,0,0,Sacred Palace,YWJ_HS,YKLS0,2065_HS.png,,2049_0.png,2065_HS.jpg,2049.jpg,1,6,2065,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,ywj,hero_ywj,4,1,,img_hunsha_bg,0
 102065200,102,0,0,Dimension Breaker-Gemini,YWJ_UR,YKLS0,2065_UR.png,,2049_0.png,2065_UR.jpg,2049.jpg,1,6,2065,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ywj_ur,hero_ywj,4,1,KunLunTianGong,img_job_bg_1,0
@@ -391,6 +392,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102082000,0,0,0,Frigga,FLJ0,YKLS0,2082_0.png,,2049_0.png,2082.jpg,2049.jpg,0,2,2082,1,0,0,0,0,,111|1,Default,0,flj,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,0
 102082200,102,0,0,Sapphire Bloom - Frigga,FLJ_UR,YKLS0,2082_UR.png,,2049_0.png,2082_UR.jpg,2049.jpg,1,6,2082,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,flj_ur,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,0
 102082300,102,0,0,Blush Fantasy - Frigga,FLJ_UR_PLUS,YKLS0,2082_UR_PLUS.png,,2049_0.png,2082_UR_PLUS.jpg,2049.jpg,1,6,2082,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,flj_ur,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,1
+102082368,102,0,0,蔷薇魔女-弗丽嘉,FLJ_MR,YKLS0,2082_MR.png,,2049_0.png,2082_MR.jpg,2049.jpg,1,6,2082,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,flj_ur,hero_flj,4,1,RanShaoLianYu,img_job_bg_1,1
 102083000,0,0,0,Ares,ARS0,YKLS0,2083_0.png,,2049_0.png,2083.jpg,2049.jpg,0,2,2083,1,0,0,0,0,,111|1,Default,0,ars,hero_ars,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102083200,102,0,0,Pyroblade Maiden - Ares,ARS_UR,YKLS0,2083_UR.png,,2049_0.png,2083_UR.jpg,2049.jpg,1,6,2083,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ars_ur,hero_ars_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102083300,102,0,0,Lounge Lady - Ares,ARS_UR_PLUS,YKLS0,2083_UR_PLUS.png,,2049_0.png,2083_UR_PLUS.jpg,2049.jpg,1,6,2083,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,ars_ur,hero_ars_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
