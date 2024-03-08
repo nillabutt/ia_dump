@@ -281,3 +281,7 @@ cfg_id,thing_type,thing_id,content,link_text,link,gift_purchase_id
 280,27,2078,Nightmare,Go,,0
 281,27,2081,Nightmare,Go,,0
 282,27,2082,Nightmare,Go,,0
+283,5,3000238,Quick Combat,Go,4,0
+284,5,3000238,Special Packages,Go,,0
+285,5,3000239,Special Packages,Go,,0
+286,5,3000240,Special Packages,Go,,0
