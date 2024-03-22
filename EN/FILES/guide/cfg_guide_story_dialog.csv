@@ -4767,6 +4767,87 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34700086,34700087,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,"I have endured this fear, now please, bestow your power upon me. I will use it to prevent the Apocalypse.",,0,0
 34700087,34700088,,NuwaJingu,,1,MJZ0,HFSTS0,2,Capricornus,"Fear is like a plague, uncontrollably spreading. Handle it with care.",,0,0
 34700088,-1,,NuwaJingu,,1,WLE_MR,HFSTS0,1,Uriel,I understand. I promise to use it for the right purpose.,,0,0
+34800001,34800002,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,Oh no... I appear to have lost Der Ring des Nibelungen... I promised to lend it to Valkyrie!,,0,0
+34800002,34800003,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Looks like someone's in a bit of a pickle. I am Pandora, the god of knowledge and mystery. May I assist you with anything?",,0,0
+34800003,34800004,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"Pandora? Ah, your name does sound familiar from the stories. They've mentioned that you have a penchant for helping people out of their trouble.",,0,0
+34800004,34800005,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,That's right! It only takes a small price... just a tiny one...,,0,0
+34800005,34800006,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,My cherished Der Ring des Nibelungen has gone missing. Could you help me find it?,,0,0
+34800006,34800007,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Ah, certainly, I'd be delighted to help, ma'am. But it will take some time as I need to divine its location.",,0,0
+34800007,34800008,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,It appears that your lovely little study has been visited by an uninvited guest. Someone has taken your book as a surprise.,,0,0
+34800008,34800009,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"Who would dare to do such a thing? Pandora, please help me to retrieve my books!",,0,0
+34800009,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"No need to hurry. As per my custom, I must first test your abilities. The rules are very simple: spar with me to win my approval.",,0,0
+34800010,34800011,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,I believe I have passed your test.,,0,0
+34800011,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Indeed, you are a powerful Angel. Now, let us embark on your quest to find that book thief!",,0,0
+34800012,34800013,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,Hela? What brings you to Asgard instead of guarding the Helheim?,,0,0
+34800013,34800014,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"I have lost a book of mine, and Pandora divined its last known location to be in Asgard, so I come here to search for it.",,0,0
+34800014,34800015,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,"I haven't seen your book... but coincidentally, I'm a bit bored. If you are up for a fight, I'll help you look for it.",,0,0
+34800015,-1,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"Well, if you want to.",,0,0
+34800016,34800017,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,"What an exhilarating battle! Alright, now it's time to fulfill our pact.",,0,0
+34800017,-1,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"I believe with your assistance, the book thief will have nowhere to hide.",,0,0
+34800018,34800019,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"Freyja, my dear sister, it has been a long time since we last met.",,0,0
+34800019,34800020,,NuwaJingu,,1,FLY2,HFSTS0,2,Freyja,Hela? What are you doing here?,,0,0
+34800020,34800021,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"I've lost Der Ring des Nibelungen, the book which I had promised to lend to Valkyrie.",,0,0
+34800021,34800022,,NuwaJingu,,1,FLY2,HFSTS0,2,Freyja,"No, you should return to your position immediately, or else the Helheim will fall into chaos!",,0,0
+34800022,34800023,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"I must retrieve the book first. You may not be aware, that if the book ends up in the wrong hands, it could lead to even greater catastrophe!",,0,0
+34800023,-1,,NuwaJingu,,1,FLY2,HFSTS0,2,Freyja,"Then I have to persuade you with force, my sister.",,0,0
+34800024,34800025,,NuwaJingu,,1,HLA_UR,HFSTS0,1,Hela,"Der Ring des Nibelungen holds the secret of Valkyries to guide the Einherjars. If it falls into the wrong hands, the Valhalla will suffer immense damage!",,0,0
+34800025,-1,,NuwaJingu,,1,FLY2,HFSTS0,2,Freyja,Maybe you re right! I'll join you in search for its location.,,0,0
+34800026,34800027,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"The Greek Goddess? What are they doing here? What's going on, Pandora?",,0,0
+34800027,34800028,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"That is Chaos, the Angel of chaos and darkness. We have reason to suspect that she's here for dirty secrets.",,0,0
+34800028,34800029,,NuwaJingu,,1,KES2,HFSTS0,2,Chaos,"Pandora, you've made your way to Asgard as well. I heard that Loki is planning a big surprise for everyone, I presume you're here for that too?",,0,0
+34800029,34800030,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,What do you mean by big surprise?,,0,0
+34800030,34800031,,NuwaJingu,,1,KES2,HFSTS0,2,Chaos,"Ah, it seems you are not aware of it. But there is no need for you to know, as I am about to send you into the eternal darkness!",,0,0
+34800031,-1,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"Darkness? Hah... Unfortunately, I'm quite familiar with it.",,0,0
+34800032,34800033,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,It appears your mastery of darkness pales in comparison to mine.,,0,0
+34800033,-1,,NuwaJingu,,1,KES2,HFSTS0,2,Chaos,"Alright then, I will tag along and see how you handle the challenges next.",,0,0
+34800034,34800035,,NuwaJingu,,1,ABL0,HFSTS0,2,Apollo,"Angels, have you all been invited by Loki to appreciate her so-called gift?",,0,0
+34800035,34800036,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"No, Sun Goddess. I'm merely here to retrieve something that I have lost. But why are your Greek Goddesses flocking to the Norse land?",,0,0
+34800036,34800037,,NuwaJingu,,1,ABL0,HFSTS0,2,Apollo,"Loki claims to possess a relic that can summon the Einherjar, the great army of the dead. If it truly exists, we cannot let her have it!",,0,0
+34800037,34800038,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,I believe you're referring to Der Ring des Nibelungen...,,0,0
+34800038,34800039,,NuwaJingu,,1,ABL0,HFSTS0,2,Apollo,"I regret to inform you that until I resolve this matter, you are not allowed to proceed any longer. Otherwise, I won't hesitate to take action!",,0,0
+34800039,-1,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"I sense that she is no longer receptive to my explanations, so let us awaken her from her ignorance.",,0,0
+34800040,34800041,,NuwaJingu,,1,ABL0,HFSTS0,2,Apollo,"Since you insist on going, then let me accompany you to ensure the relic does not fall into the wrong hands.",,0,0
+34800041,-1,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"Well, I can't stop you, can I? You're certainly persistent.",,0,0
+34800042,34800043,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"Ares, the Goddess of War. I've heard that you're fascinated by all sorts of powers, and it seems this time is no different.",,0,0
+34800043,34800044,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,"If the method of summoning Einherjars can be found, then I can form an unbeatable legion!",,0,0
+34800044,34800045,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,You're overestimating it! It's not as formidable as you imagine. I suspect Loki has tricked you all.,,0,0
+34800045,34800046,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,"In any case, it worth a glimpse, isn't it? Perhaps there will be some unexpected rewards?",,0,0
+34800046,-1,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"Well then, I'll have to thoroughly test whether you truly possess the qualifications.",,0,0
+34800047,34800048,,NuwaJingu,,1,HLA_UR_PLUS,HFSTS0,1,Hela,"You truly live up to the title of the Goddess of War. Even against us, you can only be subdued by sheer numbers.",,0,0
+34800048,-1,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,"No matter what you've said, I have lost. But I am still eager to see the so-called relic. Let me follow you and be a witness!",,0,0
+34800049,34800050,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"Sif, are you also intrigued by Der Ring des Nibelungen?",,0,0
+34800050,34800051,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,I have no choice. Loki promised to gift me with lovely hair if I helped her stop you all.,,0,0
+34800051,34800052,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"After all these years, she still resorts to using that against you, huh?",,0,0
+34800052,34800053,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,I can only put up with her games.,,0,0
+34800053,-1,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"Well, then let's have some fun.",,0,0
+34800054,34800055,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"Such a pity. After this battle, you'll have to maintain your hair again.",,0,0
+34800055,-1,,NuwaJingu,,1,XF2,HFSTS0,2,Sif,"It's OK, I'll just snatch it back from Thor anyway.",,0,0
+34800056,34800057,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,I never expected that the great Ordin would become an accomplice to the thief.,,0,0
+34800057,34800058,,NuwaJingu,,1,AD2,HFSTS0,2,Odin,How do you know that the current me isn't Loki's illusion?,,0,0
+34800058,34800059,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,Loki can't replicate... your foolishness.,,0,0
+34800059,34800060,,NuwaJingu,,1,AD2,HFSTS0,2,Odin,"Hahaha, Hela, you know me the best. Even though we haven't seen each other in so many years.",,0,0
+34800060,34800061,,NuwaJingu,,1,AD2,HFSTS0,2,Odin,"But Der Ring des Nibelungen, I demand it!",,0,0
+34800061,-1,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"Sorry, but Valkyrie has already booked it. If you want it, prove yourself!",,0,0
+34800062,34800063,,NuwaJingu,,1,AD2,HFSTS0,2,Odin,"It seems that after all these years, you've improved quite a bit. Well, I suppose I've lost this time.",,0,0
+34800063,-1,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,You're smart enough to know when to back down.,,0,0
+34800064,34800065,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"Loki, your little game is over now. It's time to give back what you took from me.",,0,0
+34800065,34800066,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Don't be in such a hurry, the real show hasn't even begun yet. Just wait until I have guided all the dead from Helheim to Valhalla...",,0,0
+34800066,34800067,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"Enough with the jokes, it's not amusing anymore.",,0,0
+34800067,34800068,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"You're still so boring. But it's okay, you'll soon come to accept it.",,0,0
+34800068,-1,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"I don't think so, Loki.",,0,0
+34800069,34800070,,NuwaJingu,,0,LJ0,HFSTS0,2,Loki,"Huh, you're still as dull as ever with no sense of humor. Fine, I will give you back the stupid book.",,0,0
+34800070,34800071,,NuwaJingu,,0,HLA_MR,HFSTS0,1,Hela,"I'm glad you're coming to your senses. Alright, give it to me, I have other things to do.",,0,0
+34800071,-1,59101|59102,NuwaJingu,,0,LJ0,HFSTS0,2,Loki,"I have a piece of news which can be given to you for free: your book's missing a page. Complete it, and you'll gain even greater power.",,0,0
+34800072,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"I knew you would have said yes! Now let's find out who has the last page!Valkyrie, I knew it was you!",,0,0
+34800073,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,是吗？看来一切如我所料呢，如果你没兴趣，我很乐意替你收下这份意外之礼......,,0,0
+34800074,34800075,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"I knew you would have said yes! Now let's find out who has the last page!Valkyrie, I knew it was you!",,0,0
+34800075,34800076,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Valkyrie, I knew it was you!",,0,0
+34800076,34800077,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"It looks like you have discovered my secret. All I needed was to obtain Der Ring des Nibelungen, absorb the power of the deceased, and ascend.",,0,0
+34800077,34800078,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"Unfortunately, Loki's meddling has disrupted my plan.",,0,0
+34800078,34800079,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,"So, borrowing it from me was just a long-planned scheme?",,0,0
+34800079,-1,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"Exactly. Now that you know everything, the only way to retrieve your book is to defeat me.",,0,0
+34800080,34800081,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"It looks like you are far more formidable than I've imagined. Here, is the last page of that book.",,0,0
+34800081,-1,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,You've made a wise choice. The fate of the deceased can only be controlled by Death.,,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
 40001,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0

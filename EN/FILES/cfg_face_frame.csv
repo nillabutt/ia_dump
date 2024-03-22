@@ -101,6 +101,8 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 4080,4,5,Loki Avatar Frame,0,0,4080.png,Thank you for your contribution in community activities
 4081,4,6,Apollo Avatar Frame,0,0,4081.png,Thank you for your contribution in community activities
 4082,4,5,Apollo Avatar Frame,0,0,4082.png,Thank you for your contribution in community activities
+4083,4,6,弗丽嘉头像框,0,0,4083.png,Thank you for your contribution in community activities
+4084,4,5,弗丽嘉头像框,0,0,4084.png,Thank you for your contribution in community activities
 5001,5,6,Halloween,0,0,5001.png,Limited face frame during Halloween event
 5002,5,6,Merry Christmas,0,0,5002.png,Christmas limited avatar frame
 5003,5,6,Anniversary,0,0,5003.png,Anniversary limited avatar frame
@@ -129,6 +131,7 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 5038,5,6,2023 Thanksgiving Dinner Limited Avatar Frame,0,0,5038.png,2023 Thanksgiving Dinner Limited Avatar Frame
 5039,5,6,2023 Christmas Limited Avatar Frame,0,0,5039.png,2023 Christmas Limited Avatar Frame
 5040,5,6,2024 Spring Festival Limited Avatar Frame,0,0,5040.png,2024 Spring Festival Limited Avatar Frame
+5041,5,6,2024 Easter Limited Avatar Frame,0,0,5041.png,2024 Easter Limited Avatar Frame
 6001,6,6,Sacred Palace,0,0,6001.png,Sacred Palace limited avatar frame
 6002,6,6,Swimsuit Party,0,0,6002.png,Swimsuit Party limited avatar frame
 6003,6,6,Divine Awakening,0,0,6003.png,Divine Awaken limited avatar frame

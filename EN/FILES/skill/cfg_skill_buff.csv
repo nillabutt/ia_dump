@@ -36,6 +36,13 @@
 100112218,0,16,,,Excite-Battle Horn,FenFa,"DMG, DEF, Critic Value increased by 60% for 3 rounds","DEF, CRIT UP",0
 150112217,0,16,,,Excite-Battle Horn,FenFa,3回合伤害、防御力增加60%，暴击值、暴伤增加40%,"DEF, CRIT, CRIT DMG UP",0
 160112218,0,16,,,Excite-Battle Horn,FenFa,"Increases DMG, DEF and Crit by 60%, Crit DMG by 40% for 3 rounds","DEF, CRIT, CRIT DMG UP",0
+160110311,1,1,,,Stun - Luminous Glories,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+160113011,0,,,,护盾-七耀圣辉,,,,0
+160110111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
+160112111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
+160113111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
+160114111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
+160115111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
 170112111,2,,,,Divine Aura,,护盾,,0
 170113111,2,,,,MC Halo,ZhuJue,"Respectively increases ATK, DEF, P.RES, M.RES and Debuff RES.(Neutral Status)",Attributes UP,0
 100102211,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
@@ -362,6 +369,11 @@
 155901111,2,64,,,法连-星影回音,,,,0
 155902111,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s DEF by 80% of Freyja’s DEF,DEF DOWN,0
 155902211,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s FOR by 20% of Freyja’s FOR,FOR DOWN,0
+165901111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次,占星术,0
+165921111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加25%，防御穿透增加15%，暴击值增加25%,占星术,0
+165931111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加30%，防御穿透增加20%，暴击值增加30%,占星术,0
+165941111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加50%，防御穿透增加30%，暴击值增加50%,占星术,0
+165951111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加50%，防御穿透增加30%，暴击值增加50%,占星术,0
 116402511,1,6,,,Weaken-YinandYang,XuRuo,"For 1 round, ATK decreased by 100% of Gemini's ATK",ATK DOWN,0
 156401111,2,,,,Bright Light - Stellar Twin,YaoGuang,Increases CRIT and CRIT DMG by 30%(Neutral Status),CRIT,0
 156403111,2,,,,Dark Shadow - Stellar Twin,AnYing,Increases Gemini’s Debuff RES by 50% and Damage Reduction by 30%(Neutral Status),Debuff RES UP; DMG Taken DOWN,0
@@ -550,6 +562,15 @@
 168451211,1,,,,Increase DMG taken,,,,0
 118501111,0,,,,Extreme Luck - Draco Blessing,JiYun,Increases Crit DMG by 30% and DMG dealt by skills by 20%.,Increase Crit DMG | Increase Skill DMG,0
 118502211,0,6,,,Weaken - Mighty Roar,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
+128601111,0,,,,Vigor - Phantom Favor,EnCi,Max HP UP,Max HP UP,5
+128602111,1,,,,Frail - Phantom Curse,ZhouYin,Reduces the Max HP,Reduces the Max HP,0
+148601111,0,,,,Vigor - Phantom Favor,EnCi,Max HP UP,Max HP UP,5
+148602111,1,,,,Frail - Phantom Curse,ZhouYin,Reduces the Max HP,Reduces the Max HP,0
+158601111,2,83,,,Void - Mortality Circle,XuWu,Immune to DMG,Immune to DMG,0
+168601111,0,86,,,Shadow Shield - Stygian Shield,YingDun,Reduces DMG taken by 8% of Hela's Max HP.,Reduce DMG Taken,0
+168621111,0,85,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 10% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
+168641111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
+168651111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0

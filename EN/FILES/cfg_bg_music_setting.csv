@@ -1,0 +1,3 @@
+id,name,can_choose_music[0],can_choose_music[1]
+1,Hall,bgm_main,bgm_main_old
+2,Battle,bgm_battle,bgm_battle_old
