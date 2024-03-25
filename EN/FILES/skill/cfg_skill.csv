@@ -566,7 +566,7 @@ sid,type,is_normal,init_anger,use_need_anger,kill_enemy_trigger,cause_damage_tri
 128602001,1,0,0,0,0,0,0,0,0,0,300,128602101,1,1,0,YYZY_act,YYZY_att,0,Phantom Curse,18622.jpg,"Deals fixed DMG to each enemy equal to 20% of their Max HP (not exceeding Hela's Max HP), and inflicts [Frail] to them (ignores Debuff RES, undispellable, lasts 2 rounds), reducing their Max HP by 20% (up to a maximum reduction equal to Hela's Max HP).",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 148601001,1,0,0,0,0,0,0,0,0,0,200,148601101,1,1,0,YYEC_act,YYEC_att,0,Phantom Favor,18621.jpg,"Additionally, grants Hela the [Vigor].",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 148602001,1,0,0,0,0,0,0,0,0,0,300,148602101,1,1,0,YYZY_act,YYZY_att,0,Phantom Curse,18622.jpg,"Increases DMG dealt by 10% of the Max HP, and reduces the Max HP by an additional 10% for the enemy under the [Frail].",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
-158601001,1,0,0,0,0,0,1,0,0,0,0,158601101,1,1,0,,,0,Mortality Circle,18666.jpg,"When entering battle, grants the highest-attack ally with [Void] (Neutral Status, undispellable) which negates damage for 1 round. When Hela is in action, if any allies are in [Soul] state, dispel it and heal them to full health.",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
+158601001,1,0,0,0,0,0,1,0,0,0,0,158601101,1,1,0,,,0,Mortality Circle,18666.jpg,"When entering battle, grants the highest-attack ally with [Void] (Neutral Status, undispellable) which negates damage for 1 round. When Hela is in action, if any allies are in [Soul] state, dispel it and heal them to full health.\n\n(When UR+ Horus is deployed, she will apply the [Vengeance] status to allies. If an ally with the [Vengeance] status receives fatal damage, they will continue to act as a [Soul].)",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 158602001,1,0,0,0,0,0,0,1,0,0,0,158602101,1,1,0,,,0,Mortality Circle,18666.jpg,子技能,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 168601001,1,0,0,200,0,0,0,0,0,0,0,168601101,1,1,0,MHSD_act,MHSD_att,0,Stygian Shield,18671.jpg,"Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 8% of Hela's Max HP each time they are attacked for 2 rounds.",,"Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 8% of Hela's Max HP each time they are attacked for 2 rounds.",img_mr_2086.png,1
 168611001,1,0,150,200,0,0,0,0,0,0,0,168601101,1,1,0,MHSD_act,MHSD_att,0,Stygian Shield,18672.jpg,"Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 8% of Hela's Max HP each time they are attacked for 2 rounds.","HP +5%, Healing Effect +10%","When entering the battle, gain 150 Energy",img_mr_2086.png,1
@@ -933,6 +933,11 @@ sid,type,is_normal,init_anger,use_need_anger,kill_enemy_trigger,cause_damage_tri
 225912001,2,0,0,0,0,0,0,0,0,0,0,225912101,1,1,0,,,0,Coquettish Cat EX,15942.jpg,P.RES +25%\nM.RES +25%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 225913001,2,0,0,0,0,0,0,0,0,0,0,225913101,1,1,0,,,0,Heron Feather EX,15943.jpg,Max HP +35%\nLeech +15%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 225914001,2,0,0,0,0,0,0,0,0,0,0,225914101,1,1,0,,,0,Battle Stance EX,15944.jpg,ATK +50%\nCRIT +10%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
+235911001,2,0,0,0,0,0,0,0,0,0,0,235911101,1,1,0,,,0,芙蕾雅MR被动1,18444.jpg,芙蕾雅MR被动1,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
+235921001,2,0,0,0,0,0,0,0,0,0,0,235921101,1,1,0,,,0,芙蕾雅MR被动2,18444.jpg,芙蕾雅MR被动2,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
+235931001,2,0,0,0,0,0,0,0,0,0,0,235931101,1,1,0,,,0,芙蕾雅MR被动3,18444.jpg,芙蕾雅MR被动3,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
+235941001,2,0,0,0,0,0,0,0,0,0,0,235941101,1,1,0,,,0,芙蕾雅MR被动4,18444.jpg,芙蕾雅MR被动4,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
+235951001,2,0,0,0,0,0,0,0,0,0,0,235951101,1,1,0,,,0,芙蕾雅MR被动5,18444.jpg,芙蕾雅MR被动5,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,1
 215711001,2,0,0,0,0,0,0,0,0,0,0,215711101,1,1,0,,,0,Cat Ears,15711.jpg,"HP+5%, ATK+5%",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 215712001,2,0,0,0,0,0,0,0,0,0,0,215712101,1,1,0,,,0,Lovable,15712.jpg,P.RES +10%\nM.RES +10%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 215713001,2,0,0,0,0,0,0,0,0,0,0,215713101,1,1,0,,,0,Docile,15713.jpg,"DEF+15%, EVA+15%",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0

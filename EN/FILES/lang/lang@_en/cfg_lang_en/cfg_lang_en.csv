@@ -17617,7 +17617,7 @@ Spring Summon,
 Waking of Spring Pack,
 Spring Flower Pack 1,
 "Here're today's rewards of the Romantic Souvenir Card. Thanks for your support, and we wish you a sweet Valentine's Day.",
-Anniversary card,Ocean Souvenir Card
+Anniversary card,Easter Souvenir Card
 2023 Waking of Spring Avatar Frame,
 2023 Waking of Spring Chat Bubble,
 Bedside Roses,
@@ -19698,8 +19698,8 @@ Frigga's Hypocrisy,
 Frigga in the Past,
 3rd Anniversary Avatar Frame,
 3rd Anniversary Limited Avatar Frame,
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card Rewards
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Easter Souvenir Card Reward
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are today's rewards of the Easter Souvenir Card. Enjoy your treat!
 3rd Anniversary Limited Chat Bubble,
 Finish the current parade and go back to the beginning,
 Universal Dice*2,
@@ -23691,7 +23691,7 @@ Special items for the Easter Egg event can be used to cause xx DMG to the Easter
 "Deals fixed DMG to each enemy equal to 20% of their Max HP (not exceeding Hela's Max HP), and inflicts [Frail] to them (ignores Debuff RES, undispellable, lasts 2 rounds), reducing their Max HP by 20% (up to a maximum reduction equal to Hela's Max HP).",
 "Additionally, grants Hela the [Vigor].",
 "Increases DMG dealt by 10% of the Max HP, and reduces the Max HP by an additional 10% for the enemy under the [Frail].",
-"When entering battle, grants the highest-attack ally with [Void] (Neutral Status, undispellable) which negates damage for 1 round. When Hela is in action, if any allies are in [Soul] state, dispel it and heal them to full health.",
+"When entering battle, grants the highest-attack ally with [Void] (Neutral Status, undispellable) which negates damage for 1 round. When Hela is in action, if any allies are in [Soul] state, dispel it and heal them to full health.\n\n(When UR+ Horus is deployed, she will apply the [Vengeance] status to allies. If an ally with the [Vengeance] status receives fatal damage, they will continue to act as a [Soul].)",
 "Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 8% of Hela's Max HP each time they are attacked for 2 rounds.",
 "Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 10% of Hela's Max HP each time they are attacked and increasing their ATK by 3% of Hela's Max HP.",
 "Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 12% of Hela's Max HP each time they are attacked and increasing their ATK by 5% of Hela's Max HP.",
