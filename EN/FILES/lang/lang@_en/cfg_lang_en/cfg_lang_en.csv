@@ -14675,8 +14675,8 @@ You used to spoil my plan all the time. I am surprised to meet you again here. Y
 Come on! What I am expecting will always be the toughest trial!,
 USER_BACK_NEW_ENTRY_GIFT_MAIL_CONTENT_LOW_LEVEL,"Welcome back to Idle Angels! To improve your game experience, we have prepared a welcoming gift for your comeback. You can also switch back to the original server by clicking the Change Server. Have fun!"
 USER_BACK_NEW_ENTRY_GIFT_MAIL_TITLE_LOW_LEVEL,Welcome Back
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_TITLE,Spring Festival Souvenir Card Reward
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,Here are today's rewards of the Spring Festival Souvenir Card. Enjoy your treat!
+ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_TITLE,Easter Souvenir Card Reward
+ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,Here are today's rewards of the Easter Souvenir Card. Enjoy your treat!
 Korean,
 Drop in the Wedding Ceremony event. It can be used to redeem items in the event interface.,
 It can be used to move forward and get rewards in the Lucky Board of the Daily Gift event.,
@@ -19670,7 +19670,7 @@ Receive 10% less DMG from skills and increase 10% Debuff RES,
 Increases Healing Received and Shield Received by 20%,
 Increases Basic Attributes by 5%,
 Increases Healing Effect by 30% and Debuff RES by 10%,
-"When taking damgae, restore 10% of the lost HP value.",
+"When taking damgae, restores 10% of the lost HP value.",
 "When taking action, restores 10% of the HP of the ally with the lowest HP.",
 Ignores 10% of the enemy's Debuff RES and reduces Skill DMG taken by 10%,
 "When taking damage, increases self Effect ACC by 3% until the end of the battle (can be stacked up to 10 layers).",
@@ -19772,7 +19772,6 @@ Time,
 Gratitude,
 Hammer of the Wish Breaker,
 "A powerful metal formed from the blood of ancient dragons, one day it will bring about the destruction of the gods...",
-"When damaged, recover 10% of lost HP.",
 Your chosen goddess' Star Mark has already reached the max level. Do you confirm?,
 Star Wish Rewards,
 Summon Star,
@@ -23737,7 +23736,7 @@ Smashing Boost 1,
 Smashing Boost 2,
 Smashing Boost 3,
 Smashing Boost 4,
-Use the hammer to cause DMG to the Egg and win the Grand Prize,
+<size=12>Use hammers to smash the egg for the Grand Prize</size>,
 easter_egg_good_damage,DMG: {0}
 Consecutive Unlocks,
 ACTIVITY_HOLIDAY_COPY_EASTER_EGG_TIPS,DMG overflow cannot be inherited to the next Egg

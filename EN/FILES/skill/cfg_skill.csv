@@ -629,7 +629,7 @@ sid,type,is_normal,init_anger,use_need_anger,kill_enemy_trigger,cause_damage_tri
 999931001,2,0,0,0,0,0,0,0,0,0,0,999931101,1,1,0,,,0,Starprint - Canopy,99931.jpg,Increases Healing Received and Shield Received by 20%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 999932001,2,0,0,0,0,0,0,0,0,0,0,999932101,1,1,0,,,0,Starprint - Blessing,99932.jpg,Receive 10% less DMG from skills and increase 10% Debuff RES,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 999933001,2,0,0,0,0,0,0,0,0,0,0,999933101,1,1,0,,,0,Starprint - Spirit,99933.jpg,Increases Basic Attributes by 5%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
-999941001,1,0,0,0,0,0,1,0,0,0,0,999941101,1,1,0,,,0,Starprint - Soul,99941.jpg,"When taking damgae, restore 10% of the lost HP value.",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
+999941001,1,0,0,0,0,0,1,0,0,0,0,999941101,1,1,0,,,0,Starprint - Soul,99941.jpg,"When taking damgae, restores 10% of the lost HP value.",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 999942001,2,0,0,0,0,0,0,0,0,0,0,999942101,1,1,0,,,0,Starprint - Rebirth,99942.jpg,Increases Healing Effect by 30% and Debuff RES by 10%,策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 999943001,1,0,0,0,0,0,0,1,0,0,0,999943101,1,1,0,,,0,Starprint - Redemption,99943.jpg,"When taking action, restores 10% of the HP of the ally with the lowest HP.",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0
 999951001,1,0,0,0,0,0,1,0,0,0,0,999951101,1,1,0,,,0,Starprint - Chaos,99951.jpg,"When taking damage, increases self Effect ACC by 3% until the end of the battle (can be stacked up to 10 layers).",策划配置：MR技能增加的属性,策划配置：MR觉醒技能强化描述,,0

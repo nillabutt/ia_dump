@@ -4839,7 +4839,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34800070,34800071,,NuwaJingu,,0,HLA_MR,HFSTS0,1,Hela,"I'm glad you're coming to your senses. Alright, give it to me, I have other things to do.",,0,0
 34800071,-1,59101|59102,NuwaJingu,,0,LJ0,HFSTS0,2,Loki,"I have a piece of news which can be given to you for free: your book's missing a page. Complete it, and you'll gain even greater power.",,0,0
 34800072,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"I knew you would have said yes! Now let's find out who has the last page!Valkyrie, I knew it was you!",,0,0
-34800073,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,是吗？看来一切如我所料呢，如果你没兴趣，我很乐意替你收下这份意外之礼......,,0,0
+34800073,-1,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Really? It seems everything is going as I expected. If you're not interested, I'd gladly accept this unexpected gift on your behalf...",,0,0
 34800074,34800075,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"I knew you would have said yes! Now let's find out who has the last page!Valkyrie, I knew it was you!",,0,0
 34800075,34800076,,NuwaJingu,,1,LJ0,HFSTS0,1,Loki,"Valkyrie, I knew it was you!",,0,0
 34800076,34800077,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"It looks like you have discovered my secret. All I needed was to obtain Der Ring des Nibelungen, absorb the power of the deceased, and ascend.",,0,0
