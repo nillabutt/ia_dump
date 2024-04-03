@@ -32,6 +32,6 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 131,img_loading_hla_UR_plus.png,Secret Pact,-50,420,0.77,HLA_UR_PLUS,0,LOADING.jpg,2086,1,0
 132,img_loading_hla_MR.png,Eternal Queen,-80,480,0.73,HLA_MR,0,LOADING.jpg,2086,0,1
 133,img_loading_fly_UR_plus.png,Starry Fantasy - Freyja,-100,450,0.82,FLY_UR_PLUS,0,LOADING.jpg,2060,1,0
-134,img_loading_fly_MR.png,星宫幻夜-芙蕾雅,-80,420,0.73,FLY_MR,0,LOADING.jpg,2060,0,1
+134,img_loading_fly_MR.png,星宫幻夜-芙蕾雅,-80,620,0.78,FLY_MR,0,LOADING.jpg,2060,0,1
 135,img_loading_user_UR_plus.png,Radiant Reverie,-50,240,0.82,USER_UR_PLUS,0,LOADING.jpg,1001,1,0
 136,img_loading_user_MR.png,Supreme Elect,-170,430,0.73,USER_MR,0,LOADING.jpg,1001,0,1

@@ -369,11 +369,12 @@
 155901111,2,64,,,法连-星影回音,,,,0
 155902111,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s DEF by 80% of Freyja’s DEF,DEF DOWN,0
 155902211,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s FOR by 20% of Freyja’s FOR,FOR DOWN,0
-165901111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次,占星术,0
-165921111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加25%，防御穿透增加15%，暴击值增加25%,占星术,0
-165931111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加30%，防御穿透增加20%，暴击值增加30%,占星术,0
-165941111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加50%，防御穿透增加30%，暴击值增加50%,占星术,0
-165951111,0,82,ZXHS_hit,,占星术-众星化身,ZhanXing,自身必定法术连击2次，攻击力增加50%，防御穿透增加30%，暴击值增加50%,占星术,0
+165901111,0,82,ZXHS_hit1,,占星术-众星化身,ZhanXing,【星影回音】触发连击的概率提升至100%，有70%概率额外再次连击，且第三次攻击不会暴击但伤害增加100%,占星术,0
+165921111,0,82,ZXHS_hit1,,占星术-众星化身,ZhanXing,【星影回音】触发连击的概率提升至100%，有70%概率额外再次连击，且第三次攻击不会暴击但伤害增加100%,占星术,0
+165931111,0,82,ZXHS_hit1,,占星术-众星化身,ZhanXing,无视伤害减免10%，【星影回音】触发连击的概率提升至100%，有70%概率额外再次连击，且第三次攻击不会暴击但伤害增加100%,占星术,0
+165941111,0,82,ZXHS_hit1,,占星术-众星化身,ZhanXing,无视伤害减免10%，暴击值增加50%，【星影回音】触发连击的概率提升至100%，有70%概率额外再次连击，且第三次攻击不会暴击但伤害增加100%,占星术,0
+165951111,0,82,ZXHS_hit1,,占星术-众星化身,ZhanXing,无视伤害减免10%，暴击值增加50%，法术伤害增加20%，【星影回音】触发连击的概率提升至100%，有70%概率额外再次连击，且第三次攻击不会暴击但伤害增加100%,占星术,0
+165951211,2,120,,,不暴击但是伤害增加,,,,0
 116402511,1,6,,,Weaken-YinandYang,XuRuo,"For 1 round, ATK decreased by 100% of Gemini's ATK",ATK DOWN,0
 156401111,2,,,,Bright Light - Stellar Twin,YaoGuang,Increases CRIT and CRIT DMG by 30%(Neutral Status),CRIT,0
 156403111,2,,,,Dark Shadow - Stellar Twin,AnYing,Increases Gemini’s Debuff RES by 50% and Damage Reduction by 30%(Neutral Status),Debuff RES UP; DMG Taken DOWN,0
