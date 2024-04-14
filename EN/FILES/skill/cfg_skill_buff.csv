@@ -369,11 +369,11 @@
 155901111,2,64,,,法连-星影回音,,,,0
 155902111,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s DEF by 80% of Freyja’s DEF,DEF DOWN,0
 155902211,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s FOR by 20% of Freyja’s FOR,FOR DOWN,0
-165901111,0,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Increase the chance of triggering [Shadow Echo] combos to 100%, with an additional 70% chance of another combo (cannot crit). If the third combo is triggered, deals 100% increased DMG.",Astrology,0
-165921111,0,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Increase the chance of triggering [Shadow Echo] combos to 100%, with an additional 70% chance of another combo (cannot crit). If the third combo is triggered, deals 100% increased DMG.",Astrology,0
-165931111,0,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, and increases the chance of triggering [Shadow Echo] combos to 100%, with an additional 70% chance of another combo (cannot crit). If the third combo is triggered, deals 100% increased DMG.",Astrology,0
-165941111,0,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, increases CRIT by 50% and the chance of triggering [Shadow Echo] combos to 100%, with an additional 70% chance of another combo (cannot crit). If the third combo is triggered, deals 100% increased DMG.",Astrology,0
-165951111,0,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, increases CRIT by 50%, M.DMG by 20%, and the chance of triggering [Shadow Echo] combos to 100%, with an additional 70% chance of another combo (cannot crit). If the third combo is triggered, deals 100% increased DMG.",Astrology,0
+165901111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
+165921111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
+165931111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction and increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
+165941111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, increases CRIT by 50% and increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
+165951111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, increases CRIT by 50% and M.DMG by 20%, and increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
 165951211,2,120,,,不暴击但是伤害增加,,,,0
 116402511,1,6,,,Weaken-YinandYang,XuRuo,"For 1 round, ATK decreased by 100% of Gemini's ATK",ATK DOWN,0
 156401111,2,,,,Bright Light - Stellar Twin,YaoGuang,Increases CRIT and CRIT DMG by 30%(Neutral Status),CRIT,0
@@ -491,6 +491,15 @@
 157602413,0,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 55% of Loki's ATK and DEF by 70% of Loki's DEF,Increase ATK and DEF,0
 157602513,0,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 50% of Loki's ATK and DEF by 60% of Loki's DEF,Increase ATK and DEF,0
 157602613,0,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 45% of Loki's ATK and DEF by 50% of Loki's DEF,Increase ATK and DEF,0
+167601111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
+167601211,0,88,,,幻影-幻惑魔音,HuanYing,每受到3次伤害，免疫下一次伤害,,0
+167621111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
+167621211,0,89,,,幻影-幻惑魔音,HuanYing,每受到2次伤害，免疫下一次伤害,,0
+167631111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
+167631211,0,89,,,幻影-幻惑魔音,HuanYing,每受到2次伤害，免疫下一次伤害,,0
+167651111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
+167651211,0,90,,,幻影-幻惑魔音,HuanYing,每受到2次伤害，免疫下一次伤害,,0
+167651311,0,,,,幻惑魔音,,伤害增加,DMG UP,0
 127701211,0,,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points","ATK, DEF PEN | DEF PEN UP",2
 137702211,1,43|105,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
 147702211,1,43|105,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0

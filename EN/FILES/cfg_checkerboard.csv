@@ -45,7 +45,7 @@ cfg_id,type,minutes,level_low,level_high,weight,reward_str,releation_cfg_id,if_o
 104100201,4,60,1,999,80,1:2:20,0,0,"A mysterious treasure chest, what's inside?"
 104110101,4,30,1,999,120,1:2:50,0,0,"A mysterious treasure chest, what's inside?"
 104110201,4,60,1,999,40,1:2:50,0,0,"A mysterious treasure chest, what's inside?"
-104120101,4,30,1,999,80,1:2:100.,0,1,"A mysterious treasure chest, what's inside?"
+104120101,4,30,1,999,80,1:2:100,0,1,"A mysterious treasure chest, what's inside?"
 104120201,4,60,1,999,40,1:2:100,0,1,"A mysterious treasure chest, what's inside?"
 104130101,4,30,60,999,20,5:2000005:10,0,1,"A mysterious treasure chest, what's inside?"
 104130201,4,60,60,999,10,5:2000005:10,0,1,"A mysterious treasure chest, what's inside?"

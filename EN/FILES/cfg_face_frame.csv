@@ -168,3 +168,4 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 9005,9,6,Rank 5 Angel Avatar Frame,0,0,9005.png,Rank 5 Angel Avatar Frame
 9006,9,6,Rank 6 Angel Avatar Frame,0,0,9006.png,Rank 6 Angel Avatar Frame
 100001,9,6,限时头像框测试,0,60,9003.png,限时头像框测试
+100002,10,6,PVP Master Limited-time Avatar Frame,1,2592000,100002.png,PVP Master Limited-time Avatar Frame

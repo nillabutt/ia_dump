@@ -24,7 +24,7 @@ cfg_id,optional_id,max_count,quality,restore,day_limit_count,limit_group,limit_l
 6000023,7:2067:1|17:2067:1|24:2067:1|5:3000027:1,99999,6,1,0,0,0,Chang'e's Shard Optional Box,6000023.png,Open the box and choose Chang'e's Shards of any quality
 6000024,25:1001:1|25:1002:1|25:1003:1|25:1004:1|25:1005:1|25:1006:1|25:1007:1|25:1008:1|25:1009:1|25:1010:1|25:1011:1|25:1012:1,99999,6,1,0,0,0,Common Miracle Card Pieces,6000024.png,Open to choose any Common Miracle Card piece
 6000025,25:2001:1|25:2002:1|25:2003:1|25:2004:1|25:2005:1|25:2006:1|25:2007:1|25:2008:1|25:2009:1|25:2010:1,99999,6,1,0,0,0,Rare Miracle Card Pieces,6000025.png,Open to choose any Rare Miracle Card piece
-6000026,25:3008:1|25:3001:1|25:3002:1|25:3003:1|25:3004:1|25:3005:1|25:3006:1|25:3007:1|25:3012:1|25:3013:1|25:3014:1,99999,6,1,0,0,0,Optional Epic Miracle Card Pieces,6000026.png,Open to choose any Epic Miracle Card piece
+6000026,25:3008:1|25:3001:1|25:3002:1|25:3003:1|25:3004:1|25:3005:1|25:3006:1|25:3007:1|25:3012:1|25:3013:1|25:3014:1|25:3015:1|25:3016:1,99999,6,1,0,0,0,Optional Epic Miracle Card Pieces,6000026.png,Open to choose any Epic Miracle Card piece
 6000027,7:2065:1|17:2065:1|24:2065:1|5:3000027:1,99999,6,1,0,0,0,Gemini’s Shard Optional Box,6000027.png,Open the box and choose Gemini's Shards of any quality
 6000028,7:2060:1|17:2060:1|24:2060:1|5:3000027:1,99999,6,1,0,0,0,Freyja’s Shard Optional Box,6000028.png,Open the box and choose Freyja's Shards of any quality
 6000029,7:2082:1|17:2082:1|24:2082:1|5:3000027:1,99999,6,1,0,0,0,Frigga’s Shard Optional Box,6000029.png,Open the box and choose Frigga's Shards of any quality
