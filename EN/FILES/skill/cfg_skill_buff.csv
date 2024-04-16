@@ -168,22 +168,22 @@
 155001311,2,,,,Rainbow Sanctuary,,Increases M.RES by 1% of Heimdall’s HP,,0
 155002111,2,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken diverted",Link - DMG Split,0
 155002211,2,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken ",Link - DMG Diverted,0
-165001111,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
-165001211,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
-165021111,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
-165021211,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
-165021311,0,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction,Increase DMG Reduction,5
-165031111,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
-165031211,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
-165031311,0,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
-165041111,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
-165041211,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
-165041311,0,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
-165041411,0,,,,Rainbow Haven,HongGuangTianMu,Increase Max HP,Increase Max HP,0
-165051111,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
-165051211,0,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
-165051311,0,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
-165051411,0,,,,Rainbow Haven,HongGuangTianMu,Increase Max HP,Increase Max HP,0
+165001111,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165001211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165021111,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165021211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165021311,2,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction,Increase DMG Reduction,5
+165031111,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165031211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165031311,2,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
+165041111,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165041211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165041311,2,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
+165041411,2,,,,Rainbow Haven,HongGuangTianMu,Increase Max HP,Increase Max HP,0
+165051111,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
+165051211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
+165051311,2,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
+165051411,2,,,,Rainbow Haven,HongGuangTianMu,Increase Max HP,Increase Max HP,0
 115102211,1,8|11,,,Smash-Sanction of Light,FenSui,"DEF, P.RES, M.RES decreased by 50% for 3 rounds","DEF, P.RES, M.RES DOWN",0
 115201211,0,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
 115201411,0,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
@@ -355,10 +355,10 @@
 155501111,1,22,,,Nova Mark,BiaoJi,Enemies with the state will be attacked first.,Taunt,0
 155501211,1,,,,胆怯-灭世新星,,攻击力降低50%,ATK DOWN,0
 155502111,1,105,,,Justice Fire,YeHuo,Enemies with the state will lose 8% of their Max HP. This effect will bypass any Debuff RES.,Nova Mark,0
-165501111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 50%.,ATK UP,0
-165521111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
-165531111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
-165541111,0,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
+165501111,2,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 50%.,ATK UP,0
+165521111,2,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
+165531111,2,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
+165541111,2,,,,Dragon’s Might - Heavenly Roar,LongWei,Increases ATK by 100%.,ATK UP,0
 125601211,1,8,,,Sunder Armor - Squally Thunderstorm,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
 125602111,0,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"ATK increased by 350%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
 145602111,0,17|27,,,Thunderstorm-Storm Surge,LeiBao1,"Increase ATK by 400% for 2 rounds, all basic attacks will crit, and gain immunity to all debuffs","ATK, CRIT UP | Debuff Immunity",0
