@@ -491,15 +491,9 @@
 157602413,0,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 55% of Loki's ATK and DEF by 70% of Loki's DEF,Increase ATK and DEF,0
 157602513,0,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 50% of Loki's ATK and DEF by 60% of Loki's DEF,Increase ATK and DEF,0
 157602613,0,16,,,Encourage - Divine Luck,GuWu,Increase ATK by 45% of Loki's ATK and DEF by 50% of Loki's DEF,Increase ATK and DEF,0
-167601111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
-167601211,0,88,,,幻影-幻惑魔音,HuanYing,每受到3次伤害，免疫下一次伤害,,0
-167621111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
-167621211,0,89,,,幻影-幻惑魔音,HuanYing,每受到2次伤害，免疫下一次伤害,,0
-167631111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
-167631211,0,89,,,幻影-幻惑魔音,HuanYing,每受到2次伤害，免疫下一次伤害,,0
-167651111,0,87,,,神运-幻惑魔音,ShenYun,掷出骰子必定是6,,0
-167651211,0,90,,,幻影-幻惑魔音,HuanYing,每受到2次伤害，免疫下一次伤害,,0
-167651311,0,,,,幻惑魔音,,伤害增加,DMG UP,0
+167621211,0,,,,Illusionary Chant - Divine Fortune,MingYun,"Increases ATK, DEF, and DMG Increase by 5%.","Increases ATK, DEF, and DMG",10
+167641011,2,88,,,Illusionary Chant - Illusion,HuanYing,Immune to the next damage after receiving damage 3 times.,,0
+167651011,2,89,,,Illusionary Chant - Illusion,HuanYing,Immune to the next damage after receiving damage 2 times.,,0
 127701211,0,,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points","ATK, DEF PEN | DEF PEN UP",2
 137702211,1,43|105,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
 147702211,1,43|105,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
