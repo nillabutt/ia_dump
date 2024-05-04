@@ -39,3 +39,7 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 138,img_loading_lj_MR.png,Tender Holidays-Loki,-80,400,0.88,LJ_MR,0,LOADING.jpg,2076,0,1
 139,img_loading_ce_UR_plus.png,Garden Strolling - Chang'e,-70,380,0.82,CE_UR_PLUS,0,LOADING.jpg,2067,1,0
 140,img_loading_ce_MR.png,Spring Moonlight - Chang'e,-50,400,0.77,CE_MR,0,LOADING.jpg,2067,0,1
+141,img_loading_axl_UR_plus.png,Eternal Fiend - Asura,-30,550,0.74,AXL_UR_PLUS,0,LOADING.jpg,2068,1,0
+142,img_loading_axl_MR.png,Grand Sovereign - Asura,-80,430,0.77,AXL_MR,0,LOADING.jpg,2068,0,1
+143,img_loading_ars_UR_plus.png,Lounge Lady - Ares,-50,360,0.74,ARS_UR_PLUS,0,LOADING.jpg,2083,1,0
+144,img_loading_ars_MR.png,Sanctum Blade - Ares,-50,400,0.75,ARS_MR,0,LOADING.jpg,2083,0,1

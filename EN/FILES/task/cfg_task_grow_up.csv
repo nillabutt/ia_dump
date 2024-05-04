@@ -97,7 +97,11 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200079,4,1,200001,95,200078,3,4760,5:3000027:10,Level Up Achievements,Complete all dungeons in Uganda,,4
 200080,4,1,200001,96,200079,3,4860,5:3000027:10,Level Up Achievements,Complete all dungeons in Kenya,,4
 200081,4,1,200001,97,200080,3,4960,5:3000027:10,Level Up Achievements,Complete all dungeons in Tanzania,,4
-200082,4,1,200001,98,200081,3,5060,5:3000027:10,Level Up Achievements,Complete all dungeons in Djibouti,,
-200083,4,1,200001,99,200082,3,5160,5:3000027:10,Level Up Achievements,Complete all dungeons in Saudi Arabia,,
-200084,4,1,200001,100,200083,3,5260,5:3000027:10,Level Up Achievements,Complete all dungeons in Yemen,,
-200085,4,1,200001,101,200084,3,5360,5:3000027:10,Level Up Achievements,Complete all dungeons in Oman,,
+200082,4,1,200001,98,200081,3,5060,5:3000027:10,Level Up Achievements,Complete all dungeons in Djibouti,,4
+200083,4,1,200001,99,200082,3,5160,5:3000027:10,Level Up Achievements,Complete all dungeons in Saudi Arabia,,4
+200084,4,1,200001,100,200083,3,5260,5:3000027:10,Level Up Achievements,Complete all dungeons in Yemen,,4
+200085,4,1,200001,101,200084,3,5360,5:3000027:10,Level Up Achievements,Complete all dungeons in Oman,,4
+200086,4,1,200001,102,200085,3,5460,5:3000027:10,Level Up Achievements,Complete all dungeons in Tunisia,,4
+200087,4,1,200001,103,200086,3,5560,5:3000027:10,Level Up Achievements,Complete all dungeons in Morocco,,4
+200088,4,1,200001,104,200087,3,5660,5:3000027:10,Level Up Achievements,Complete all dungeons in Portugal,,4
+200089,4,1,200001,105,200088,3,5760,5:3000027:10,Level Up Achievements,Complete all dungeons in Spain,,4

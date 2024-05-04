@@ -350,6 +350,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102068004,104,0,0,Sacred Palace,AXL_HS,YKLS0,2068_HS.png,,2049_0.png,2068_HS.jpg,2049.jpg,1,6,2068,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,axl,hero_axl,4,1,,img_hunsha_bg,0
 102068200,102,0,0,Master of Their Own Destiny-Asura,AXL_UR,YKLS0,2068_UR.png,,2049_0.png,2068_UR.jpg,2049.jpg,1,6,2068,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,axl_ur,hero_axl_ur,4,1,XieShenCangShenChu,img_job_bg_1,0
 102068300,102,0,0,Eternal Fiend - Asura,AXL_UR_PLUS,YKLS0,2068_UR_PLUS.png,,2049_0.png,2068_UR_PLUS.jpg,2049.jpg,1,6,2068,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,axl_ur,hero_axl_ur,4,1,XieShenCangShenChu,img_job_bg_1,1
+102068368,102,0,0,Grand Sovereign - Asura,AXL_MR,YKLS0,2068_MR.png,,2049_0.png,2068_MR.jpg,2049.jpg,1,6,2068,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,axl_ur,hero_axl_ur,4,1,XieShenCangShenChu,img_job_bg_1,1
 102069000,0,0,0,Athena,YDN0,YKLS0,2069_0.png,,2049_0.png,2069.jpg,2049.jpg,0,2,2069,1,0,0,0,0,,111|1,Default,0,ydn,hero_ydn,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102069001,104,0,0,Sacred Palace,YDN_HS,YKLS0,2069_HS.png,,2049_0.png,2069_HS.jpg,2049.jpg,1,6,2069,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,ydn,hero_ydn,4,1,,img_hunsha_bg,0
 102069200,102,0,0,Divine Glory - Athena,YDN_UR,YKLS0,2069_UR.png,,2049_0.png,2069_UR.jpg,2049.jpg,1,6,2069,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ydn_ur,hero_ydn_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0
@@ -401,6 +402,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102083000,0,0,0,Ares,ARS0,YKLS0,2083_0.png,,2049_0.png,2083.jpg,2049.jpg,0,2,2083,1,0,0,0,0,,111|1,Default,0,ars,hero_ars,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102083200,102,0,0,Pyroblade Maiden - Ares,ARS_UR,YKLS0,2083_UR.png,,2049_0.png,2083_UR.jpg,2049.jpg,1,6,2083,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,ars_ur,hero_ars_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102083300,102,0,0,Lounge Lady - Ares,ARS_UR_PLUS,YKLS0,2083_UR_PLUS.png,,2049_0.png,2083_UR_PLUS.jpg,2049.jpg,1,6,2083,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,ars_ur,hero_ars_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
+102083368,102,0,0,Sanctum Blade - Ares,ARS_MR,YKLS0,2083_MR.png,,2049_0.png,2083_MR.jpg,2049.jpg,1,6,2083,0,0,3:1:100|3:22:450,9,0,,,Divinity Ascend,0,ars_ur,hero_ars_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102084200,0,0,0,Uriel,WLE_UR,HL0,2084_UR.png,,2039_0.png,2084_UR.jpg,2039.jpg,1,6,2084,1,0,3:1:100|3:22:450,0,0,,111|1,Default,0,wle_ur,hero_wle,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102084300,102,0,0,Shadow Fragrance - Uriel,WLE_UR_PLUS,HL0,2084_UR_PLUS.png,,2039_0.png,2084_UR_PLUS.jpg,2039.jpg,1,6,2084,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,wle_ur,hero_wle,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102084368,102,0,0,Passionate Night - Uriel,WLE_MR,HL0,2084_MR.png,,2039_0.png,2084_MR.jpg,2039.jpg,1,6,2084,0,0,3:1:100|3:22:450,9,0,,,Wonder Waken,0,wle_ur,hero_wle,4,1,PanDuoLaShenMiao,img_job_bg_1,1

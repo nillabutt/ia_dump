@@ -417,6 +417,9 @@
 156701111,1,,,,Shuraba Barrier - Shuraba Purgatory,XiuLuoChang_D,Reduce CRIT DMG dealt by all enemies for 2 rounds,CRIT DMG DOWN,0
 156702111,1,,,,Asura’s Snap (e) - Shuraba Purgatory,LianYu,"Decrease ATK, P.RES, and M.RES by 10% of Asura's attributes for each layer.","ATK, P.RES, M.RES DOWN",4
 156702211,0,,,,Asura’s Snap (a) - Shuraba Purgatory,ZhuanSheng,"Increase ATK, P.RES, and M.RES by 5% of Asura's attributes for each layer.","ATK, P.RES, M.RES UP",4
+166731211,1,,,,森罗幻灭,SenLuo,受到伤害增加20%，造成的伤害降低20%,受伤增加 伤害降低,0
+166741211,1,,,,森罗幻灭,SenLuo,受到伤害增加20%，造成的伤害降低20%,受伤增加 伤害降低,0
+166751211,1,,,,森罗幻灭,SenLuo,受到伤害增加30%，造成的伤害降低30%,受伤增加 伤害降低,0
 116801211,0,27,,,God of War-Pure Sacred Body,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
 116801411,0,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 20%",DMG UP,999
 126801211,0,27,,,战神-纯灵神体,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
