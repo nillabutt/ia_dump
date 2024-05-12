@@ -23,3 +23,9 @@ cfg_id,armor_part,illusion_level,attr_permillage,name,icon
 22,10,4,800,Meteorite Boots,D4.png
 23,8,4,900,Meteorite Belt,D5.png
 24,4,4,750,Meteorite Battle Armor,D6.png
+25,1,5,1000,Molten Longsword,E1.png
+26,5,5,750,Molten Bracers,E2.png
+27,2,5,1000,Molten Cap,E3.png
+28,10,5,1000,Molten Boots,E4.png
+29,8,5,1100,Molten Belt,E5.png
+30,4,5,950,Molten Armor,E6.png

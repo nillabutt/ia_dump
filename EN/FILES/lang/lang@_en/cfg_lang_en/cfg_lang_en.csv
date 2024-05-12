@@ -17617,7 +17617,7 @@ Spring Summon,
 Waking of Spring Pack,
 Spring Flower Pack 1,
 "Here're today's rewards of the Romantic Souvenir Card. Thanks for your support, and we wish you a sweet Valentine's Day.",
-Anniversary card,Bonfire Souvenir Card
+Anniversary card,Ocean Souvenir Card
 2023 Waking of Spring Avatar Frame,
 2023 Waking of Spring Chat Bubble,
 Bedside Roses,
@@ -19698,8 +19698,8 @@ Frigga's Hypocrisy,
 Frigga in the Past,
 3rd Anniversary Avatar Frame,
 3rd Anniversary Limited Avatar Frame,
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Easter Souvenir Card Reward
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,Here are today's rewards of the Easter Souvenir Card. Enjoy your treat!
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Ocean Souvenir Card Rewards
+ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,
 3rd Anniversary Limited Chat Bubble,
 Finish the current parade and go back to the beginning,
 Universal Dice*2,
@@ -21591,7 +21591,7 @@ Ares swings her twin swords and attacks all enemies twice. The first attack deal
 "Deal 600% P.DMG to one enemy. If the enemy is not killed, chase and attack again, up to 2 times.",
 Ares swings her twin swords and attacks all enemies twice. The first attack deals 120% P.DMG and doubles the damage against enemies with higher current HP percentage than herself. The second attack deals 120% P.DMG and doubles the damage against enemies with lower Max ATK than herself.,
 "Deal 700% P.DMG to one enemy and splash 20% of damage as True DMG to all other enemies. If the enemy is not killed, chase and attack again, up to 3 times.",
-"After dealing damage, Ares inflicts one layer of [War Mark] to the target (ignores Debuff RES, cannot be dispelled, stacks up to 10 layers) for 2 rounds which increases DMG Taken (max increase 100% DMG Taken). When in action, Ares burns 20% of all allies' current HP and grants them the [Power of War] (cannot be dispelled) for 2 rounds.\n\n[War Mark]: Increases DMG Taken by 10%.\n[Power of War]: For every 1% of Missing HP, increase DMG Increase by 1% and DMG Reduction by 0.5%.",
+"After each attack, Ares inflicts one layer of [War Mark] to the target (ignores Debuff RES, cannot be dispelled, stacks up to 10 layers) for 2 rounds which increases DMG Taken (max increase 100% DMG Taken). When in action, Ares burns 20% of all allies' current HP and grants them the [Power of War] (cannot be dispelled) for 2 rounds.\n\n[War Mark]: Increases DMG Taken by 10%.\n[Power of War]: For every 1% of Missing HP, increase DMG Increase by 1% and DMG Reduction by 0.5%.",
 Insufficient Artifacts,
 Converting... Unavailable now,
 War Mark - War Domain,
@@ -23888,11 +23888,11 @@ Bonfire Special 2,
 Bonfire Special 3,
 Bonfire Special 4,
 Gathering Boost,
-Deals 220% P.DMG on all enemies and deals 40% True DMG for every 3 stacks of present on the target (up to 3 times).,
-Deals 220% P.DMG to all enemies and deals 60% True DMG for every 3 stacks of present on the target (up to 3 times).,
-"Deals 220% P.DMG to all enemies and inflicts 3 stacks of to the target (up to 18 stacks, ignoring Debuff RES and undispellable). At the same time, deals 60% True DMG every 3 stacks of present on the target (up to 3 times).",
-"Deals 220% P.DMG to all enemies and applies 3 stacks of to the target (up to 18 stacks, ignoring Debuff RES and undispellable). At the same time, deals 60% True DMG every 3 stacks of present on the target (up to 6 times).",
-"Deals 220% P.DMG to all enemies (does not trigger counterattack effects or rebound damage) and applies 3 stacks of to the target (up to 18 stacks, ignoring Debuff RES and undispellable). At the same time, deals 60% True DMG every 3 stacks of present on the target (up to 6 times, does not trigger DMG Reflection or Counterattack).",
+Deals 220% P.DMG on all enemies and deals 40% True DMG for every 3 stacks of [Moonlight] present on the target (up to 3 times).,
+Deals 220% P.DMG to all enemies and deals 60% True DMG for every 3 stacks of [Moonlight] present on the target (up to 3 times).,
+"Deals 220% P.DMG to all enemies and inflicts 3 stacks of [Moonlight] to the target (up to 18 stacks, ignoring Debuff RES and undispellable). At the same time, deals 60% True DMG every 3 stacks of [Moonlight] present on the target (up to 3 times).",
+"Deals 220% P.DMG to all enemies and applies 3 stacks of [Moonlight] to the target (up to 18 stacks, ignoring Debuff RES and undispellable). At the same time, deals 60% True DMG every 3 stacks of [Moonlight] present on the target (up to 6 times).",
+"Deals 220% P.DMG to all enemies (does not trigger counterattack effects or rebound damage) and applies 3 stacks of [Moonlight] to the target (up to 18 stacks, ignoring Debuff RES and undispellable). At the same time, deals 60% True DMG every 3 stacks of [Moonlight] present on the target (up to 6 times, does not trigger DMG Reflection or Counterattack).",
 "ATK +5%, Leech +5%",
 "P.RES +10%, CRIT +10%",
 "M.RES +15%, ATK +15%",
@@ -23962,3 +23962,106 @@ FAIR_ARENA_STEP_ERROR,Entered the next stage.
 Divnity Pack,
 Conditions for receiving not met.,
 Sold Out,
+ANGER_SKILL_DAMAGE_ADD,Revelation Skill DMG Increase
+ANGER_SKILL_DAMAGE_MINUS,Revelation Skill DMG Reduction
+Gear Ascend,
+Gear Evolution,
+ILLUSION_STEP_TIP,Phrase {0}
+NUMBER1,1
+NUMBER2,2
+NUMBER3,3
+NUMBER4,4
+NUMBER5,5
+NUMBER6,6
+NUMBER7,7
+NUMBER8,8
+NUMBER9,9
+ARMOR_NO_AWAKE,Not Evolved
+ARMOR_AWAKE_STEP,Evolution Phrase {0}
+ARMOR_AWAKE_ATTRIBUTE_LEFT,Gear Main Attributes: +{0}%
+ARMOR_AWAKE_ATTRIBUTE_RIGHT,Gear Main Attributes: {0}+<color=#4CF254>{1}%</color>
+ARMOR_ILLUSION_AWAKE_STEP_MAX,Gear fully evolved.
+ARMOR_ILLUSION_AWAKE_NOT_SELECT,Evolving gear not selected.
+ARMOR_ILLUSION_AWAKE_ITEM_NOT_SELECT,No EXP items selected for evolving.
+NUM_REACH_LIMIT,Quantity limit reached.
+ARMOR_ILLUSION_CRYSTAL,Magic Crystal
+ARMOR_AWAKE_ATTRIBUTE_GREEN,Gear Main Attributes: <color=#4CF254>+{0}%</color>
+ARMOR_AWAKE_ATTRIBUTE_TOTAL,(Total Bonus: +{0}%)
+ARMOR_ILLUSION_LEVEL_LIMIT,Please evolve gear to T5 first.
+Use Magic Stones to boost T5 gear ascending progress.,
+Evolution Bonus,
+Current gear fully evolved.,
+Select materials,
+No EXP items available.,
+ARMOR_AWAKE_STONE_TIPS,This evolving will consume Advanced Magic Stones. Continue evolving?
+ARMOR_AWAKE_EXP_OVERFLOW,Overflow EXP points by {0} this time. Confirm evolving?
+Selet the gear for evolving.,
+Only T5 gear can be selected.,
+Player,
+T5 Magic stone-Weapon,
+T5 Magic stone-Armor,
+T5 Magic stone-Helmet,
+T5 Magic stone-Belt,
+T5 Magic stone-Boots,
+T5 Magic stone-Ring,
+Materials needed to ascend Weapon to T5,
+Materials needed to ascend Armor to T5,
+Materials needed to ascend Helmet to T5,
+Materials needed to ascend Belt to T5,
+Materials needed to ascend Shoes to T5,
+Materials needed to ascend Ring to T5,
+T5 Magic Stone Optional Chest,
+Open the chest and select the T5 Magic stone for any slot,
+T5 Magic Stone Chest,
+Open to get a random T5 Magic Stone,
+Gear main attribute:,
+Magic Crystal,
+Maid Fashion Choice Box,
+Open the chest and select any maid fashion.,
+Sub attributes,
+Evolving progress:,
+Molten Heart,
+Molten Longsword,
+Molten Bracers,
+Molten Helmet,
+Molten Boots,
+Molten Belt,
+Molten Armor,
+Astral Smash,
+"Ares deals 3 instances of 120% P.DMG to all enemies, followed by 3 instances of 80% True DMG to the enemy with the highest ATK.\nPassive Effect: When entering a battle, Ares gains a layer of [Ambition of War] (neutral status, undispellable, lasting until the end of the battle) for each enemy present. When receiving fatal damage, one layer of [Ambition of War] is consumed to negate the damage. Additionally, one layer of [Ambition of War] is consumed for each enemy killed by Ares.",
+"Ares deals 3 instances of 120% P.DMG to all enemies, inflicting a layer of [War Mark] with each hit. Then targets the enemy with the highest ATK, dealing 3 instances of 80% True DMG.\nPassive Effect: When entering a battle, Ares gains a layer of [Ambition of War] (neutral status, undispellable, lasting until the end of the battle) for each enemy present. When receiving fatal damage, one layer of [Ambition of War] is consumed to negate the damage. Additionally, one layer of [Ambition of War] is consumed for each enemy killed by Ares.",
+"Ares deals 3 instances of 120% physical damage that ignores shields to all enemies, inflicting a layer of [War Mark] with each hit. Then targets the enemy with the highest ATK, dealing 3 instances of 80% True DMG.\nPassive Effect: When entering a battle, Ares gains a layer of [Ambition of War] (neutral status, undispellable, lasting until the end of the battle) for each enemy present. When receiving fatal damage, one layer of [Ambition of War] is consumed to negate the damage. Additionally, one layer of [Ambition of War] is consumed for each enemy killed by Ares.",
+"Ares deals 3 instances of 150% physical damage that ignores shields to all enemies, inflicting a layer of [War Mark] with each hit. Then targets the enemy with the highest ATK, dealing 3 instances of 100% True DMG.\nPassive Effect: When entering a battle, Ares gains a layer of [Ambition of War] (neutral status, undispellable, lasting until the end of the battle) for each enemy present. When receiving fatal damage, one layer of [Ambition of War] is consumed to negate the damage. Additionally, one layer of [Ambition of War] is consumed for each enemy killed by Ares.",
+"Ares deals 3 instances of 150% physical damage that ignores shields to all enemies, inflicting two layers of [War Mark] with each hit. Then targets the enemy with the highest ATK, dealing 3 instances of 100% True DMG.\nPassive Effect: When entering a battle, Ares gains a layer of [Ambition of War] (neutral status, undispellable, lasting until the end of the battle) for each enemy present. When receiving fatal damage, one layer of [Ambition of War] is consumed to negate the damage. Additionally, one layer of [Ambition of War] is consumed for each enemy killed by Ares.",
+"ATK +5%, Leech +5%",
+"DEF +10%, HP +10%",
+"CRIT +20%, HP +15%",
+"ATK +20%, Crit DMG +30%",
+ATK +30%,
+Ares gains 150 energy upon entering battle.,
+"Deals 3 instances of P.DMG to all enemies, inflicting a layer of [War Mark] with each hit.",
+Deals 3 instances of P.DMG that ignores shields to all enemies.,
+Increases P.DMG by 30% and True DMG by 20%.,
+"Deals 3 instances of P.DMG to all enemies, inflicting two layers of [War Mark] with each hit.",
+Myriads Annihilation,
+"Asura drains 10% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies.",
+"Asura drains 15% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies.",
+"Asura drains 15% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
+"Asura drains 20% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
+"Asura drains 20% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 100% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 30% damage and their damage dealt will be reduced by 30% (ignores Debuff RES, lasts for 2 rounds).",
+"ATK +5%, Leech +5%",
+"P.RES +10%, CRIT +15%",
+"M.RES +15%, Crit DMG +20%",
+"ATK +20%, Crit DMG +30%",
+DMG Reduction +10%,
+Asura gains 150 energy upon entering battle.,
+Increases energy absorbing by 5%.,
+"If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
+Increases energy absorbing by 5%.,
+"Increases True DMG by 20%. If the target has no energy, they will suffer an additional 10% increase in damage and their damage dealt will be reduced by 10% (ignores Debuff RES, lasts for 2 rounds).",
+Ambition of War,
+Immune to fatal damage once,
+Myriads Annihilation,
+Increases damage taken by 20% and reduces damage dealt by 20%.,
+Increases damage taken by 30% and reduces damage dealt by 30%.,
+Increases DMG Taken and reduces DMG,

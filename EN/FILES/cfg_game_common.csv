@@ -1,2 +1,2 @@
-gem_slot1_coin_cost,gem_slot2_coin_cost,gem_slot3_coin_cost,gem_slot4_coin_cost,event_ssr_pool_open_remain_days
-100000,200000,300000,400000,7
+gem_slot1_coin_cost,gem_slot2_coin_cost,gem_slot3_coin_cost,gem_slot4_coin_cost,event_ssr_pool_open_remain_days,armor_illusion_crystal_exp,armor_illusion_awake_level,armor_illusion_awake_auto_select,armor_illusion_awake_stone_max
+100000,200000,300000,400000,7,10,5,2,999

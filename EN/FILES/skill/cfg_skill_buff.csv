@@ -417,9 +417,9 @@
 156701111,1,,,,Shuraba Barrier - Shuraba Purgatory,XiuLuoChang_D,Reduce CRIT DMG dealt by all enemies for 2 rounds,CRIT DMG DOWN,0
 156702111,1,,,,Asura’s Snap (e) - Shuraba Purgatory,LianYu,"Decrease ATK, P.RES, and M.RES by 10% of Asura's attributes for each layer.","ATK, P.RES, M.RES DOWN",4
 156702211,0,,,,Asura’s Snap (a) - Shuraba Purgatory,ZhuanSheng,"Increase ATK, P.RES, and M.RES by 5% of Asura's attributes for each layer.","ATK, P.RES, M.RES UP",4
-166731211,1,,,,森罗幻灭,SenLuo,受到伤害增加20%，造成的伤害降低20%,受伤增加 伤害降低,0
-166741211,1,,,,森罗幻灭,SenLuo,受到伤害增加20%，造成的伤害降低20%,受伤增加 伤害降低,0
-166751211,1,,,,森罗幻灭,SenLuo,受到伤害增加30%，造成的伤害降低30%,受伤增加 伤害降低,0
+166731211,1,,,,Myriads Annihilation,SenLuo,Increases damage taken by 20% and reduces damage dealt by 20%.,Increases DMG Taken and reduces DMG,0
+166741211,1,,,,Myriads Annihilation,SenLuo,Increases damage taken by 20% and reduces damage dealt by 20%.,Increases DMG Taken and reduces DMG,0
+166751211,1,,,,Myriads Annihilation,SenLuo,Increases damage taken by 30% and reduces damage dealt by 30%.,Increases DMG Taken and reduces DMG,0
 116801211,0,27,,,God of War-Pure Sacred Body,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
 116801411,0,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 20%",DMG UP,999
 126801211,0,27,,,战神-纯灵神体,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
@@ -558,6 +558,7 @@
 158301111,1,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,DMG UP,10
 158302211,2,,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,Increase DMG and reduce DMG taken,0
 158302311,2,,,,Power of War - War Domain,,,,0
+168301011,2,,,,Ambition of War,ZhanShenYiZhi,Immune to fatal damage once,Ambition of War,6
 128401211,1,78,,,Curse - Despair Note,ZuZhou,"Decrease ATK,DEF, P.RES and M.RES",Curse,0
 148402211,2,59,,,必定暴击,,,,0
 158401111,1,78,,,Curse - Purgatory Prison,ZuZhou,"Decrease ATK,DEF, P.RES and M.RES",Curse,0
