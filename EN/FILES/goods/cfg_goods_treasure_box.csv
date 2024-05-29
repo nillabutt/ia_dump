@@ -68,4 +68,4 @@ cfg_id,cost_cfg_id,max_count,quality,restore,day_limit_count,limit_group,limit_l
 1000068,0,999,5,1000,0,0,20,Rare Miracle Card Chest,1000068.png,Open to get a random Rare Miracle Card
 1000069,0,999,6,1000,0,0,20,Epic Miracle Card Chest,1000069.png,Open to get a random Epic Miracle Card
 1000070,0,999,6,1000,0,0,20,Random SSR+ Angel,3000178.png,1 Random SSR+ Angel
-1000071,0,999,6,1000,0,0,100,T5 Magic Stone Chest,1000063.png,Open to get a random T5 Magic Stone
+1000071,0,999,6,1000,0,0,100,T5 Magic Stone Chest,1000071.png,Open to get a random T5 Magic Stone

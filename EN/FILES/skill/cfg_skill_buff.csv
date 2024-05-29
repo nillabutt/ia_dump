@@ -330,18 +330,18 @@
 155402201,2,,,,寒冰守护-深渊冰狱,,每次受到伤害时使敌人伤害降低3%,Enemy’s DMG DOWN when taking DMG,0
 155402211,1,,,,DMG Reduced - Frozen Void,ShenYuan,DMG Reduced,DMG Reduced,10
 165401111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165401211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 30%.,能量回复效率降低,0
+165401211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 30%.,Reduces the efficiency of energy recovery.,0
 165421111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165421211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 30%.,能量回复效率降低,0
+165421211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 30%.,Reduces the efficiency of energy recovery.,0
 165431011,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 2 round",Unable to move,0
 165431111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165431211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 40%.,能量回复效率降低,0
+165431211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 40%.,Reduces the efficiency of energy recovery.,0
 165441011,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 2 round",Unable to move,0
 165441111,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165441211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,能量回复效率降低,0
+165441211,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,Reduces the efficiency of energy recovery.,0
 165451011,1,4,,,Frozen - Frostbite Soul,BingDong,"Frozen for 3 rounds, cannot move.",Unable to move,0
 165451211,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
-165451311,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,能量回复效率降低,0
+165451311,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,Reduces the efficiency of energy recovery.,0
 100000111,1,7,,,Strong poison 1,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
 100000112,1,7,,,Strong poison 2,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times. (can not be dispelled）",Poison,5
 100000113,1,7,,,Strong poison 3,ZhongDu,"Apply [poison] until the battle ends, lose 6% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5

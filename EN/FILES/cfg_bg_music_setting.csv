@@ -1,3 +1,7 @@
-id,name,can_choose_music[0],can_choose_music[1]
-1,Hall,bgm_main,bgm_main_old
-2,Battle,bgm_battle,bgm_battle_old
+id,name,can_choose_music[0],can_choose_music[1],can_choose_music[2],can_choose_music[3],can_choose_music[4],can_choose_music[5],can_choose_music[6]
+1,Hall,bgm_main,bgm_main_old,Random,,,,
+2,Battle,bgm_battle,bgm_battle_old,Random,,,,
+3,PVE,bgm_zhandou,BGM_battle_boss01,Random,,,,
+4,PVP,bgm_zhandou,BGM_battle_PVP,Random,,,,
+5,Chaotic\nRealm,bgm_OutlandMain,BGM_battle_outland,Random,,,,
+6,Wonderland,bgm_zhandou,BGM_battle_tower,Random,,,,

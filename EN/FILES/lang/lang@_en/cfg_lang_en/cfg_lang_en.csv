@@ -136,7 +136,7 @@ PURPLE,Purple
 ORANGE,Orange
 RED,Red
 SUMMON_FREE_COUNT,Free Chances ({0}/{1})
-SUMMON_BUTTON_LABEL,Summon {0} Times
+SUMMON_BUTTON_LABEL,Summon {0}
 NOT_ENOUGH,Insufficient
 BATTLE_REPORT_ENEMY_APPEAR,"Enemy spotted! Lv.{level}, {name}, HP: {hp}"
 BATTLE_REPORT_VICTORY,Victory!
@@ -2589,7 +2589,7 @@ Cycle of Magic,
 Magic Barrier,
 Fire Storm,
 Snake Hair,
-Peterifying Gaze,
+Petrifying Gaze,
 Curse of the Abyss,
 Heavenly Revelation,
 Divination,
@@ -23494,7 +23494,7 @@ Ethereal Wraith,
 Requiescat Dirge,
 Celestial Domination,
 Valkyrie's Descent,
-"She departed Asgard in ancient times, ascending as the ruler of the underworld. Yet, unlike other grim reapers, she willingly engages with the living./nIn heaven, she has even established her own enchanted tower, where occasional seekers are welcomed to explore the secrets of life and death under her guidance.",
+"She departed Asgard in ancient times, ascending as the ruler of the underworld. Yet, unlike other grim reapers, she willingly engages with the living.\nIn heaven, she has even established her own enchanted tower, where occasional seekers are welcomed to explore the secrets of life and death under her guidance.",
 "In the name of the Lord of the Dead, I am willing to reach your soul, to forge an eternal pact, to cross the curtains of life and death, and to reach the distant shore on the other side...",
 Death Tome,
 "If the end of life could be foreseen, what choices would people make when confronted with the inevitability of departure?",
@@ -23694,7 +23694,7 @@ Special items for the Easter Egg event can be used to cause xx DMG to the Easter
 "Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 8% of Hela's Max HP each time they are attacked for 2 rounds.",
 "Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 10% of Hela's Max HP each time they are attacked and increasing their ATK by 3% of Hela's Max HP.",
 "Grant all allies [Shadow Shield] (undispellable, lasts 2 rounds), reducing DMG taken by 12% of Hela's Max HP each time they are attacked and increasing their ATK by 5% of Hela's Max HP.",
-,
+"Grant all allies [Shadow Shield] (undispellable, lasts 3 rounds), reducing DMG taken by 12% of Hela's Max HP each time they are attacked and increasing their ATK by 5% of Hela's Max HP.",
 gains 150 energy upon entering battle.,
 [Shadow Shield] additionally reduces DMG taken by an extra 2% of Hela's Max HP and increases ATK by 3% of Hela's Max HP.,
 Hela gains 50 energy upon entering battle.,
@@ -24044,12 +24044,11 @@ Deals 3 instances of P.DMG that ignores shields to all enemies.,
 Increases P.DMG by 30% and True DMG by 20%.,
 "Deals 3 instances of P.DMG to all enemies, inflicting two layers of [War Mark] with each hit.",
 Myriads Annihilation,
-"Asura drains 10% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies.",
-"Asura drains 15% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies.",
-"Asura drains 15% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
-"Asura drains 20% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
-"Asura drains 20% of the current energy from each enemy to replenish herself, then inflicts True DMG equal to 100% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 30% damage and their damage dealt will be reduced by 30% (ignores Debuff RES, lasts for 2 rounds).",
-"ATK +5%, Leech +5%",
+"Asura drains 20% of the current energy from each enemy (excluding those already in the queue for releasing their Revelation Skill) to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies.",
+"Asura drains 25% of the current energy from each enemy (excluding those already in the queue for releasing their Revelation Skill) to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies.",
+"Asura drains 25% of the current energy from each enemy (excluding those already in the queue for releasing their Revelation Skill) to replenish herself, then inflicts True DMG equal to 80% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
+"Asura drains 30% of the current energy from each enemy (excluding those already in the queue for releasing their Revelation Skill) to replenish herself, then inflicts True DMG equal to 100% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
+"Asura drains 30% of the current energy from each enemy (excluding those already in the queue for releasing their Revelation Skill) to replenish herself, then inflicts True DMG equal to 100% of her current energy percentage on all enemies. If the target has no energy, they will suffer an additional 30% damage and their damage dealt will be reduced by 30% (ignores Debuff RES, lasts for 2 rounds).",
 "P.RES +10%, CRIT +15%",
 "M.RES +15%, Crit DMG +20%",
 "ATK +20%, Crit DMG +30%",
@@ -24065,3 +24064,95 @@ Myriads Annihilation,
 Increases damage taken by 20% and reduces damage dealt by 20%.,
 Increases damage taken by 30% and reduces damage dealt by 30%.,
 Increases DMG Taken and reduces DMG,
+Reduces the efficiency of energy recovery.,
+Asura gains 100 energy upon entering battle.,
+Increases energy absorbing by 5%.,
+"If the target has no energy, they will suffer an additional 20% damage and their damage dealt will be reduced by 20% (ignores Debuff RES, lasts for 2 rounds).",
+Increases energy absorbing by 5% and True DMG dealt by 20%.,
+"If the target has no energy, they will suffer an additional 10% increase in damage and their damage dealt will be reduced by 10% (ignores Debuff RES, lasts for 2 rounds).",
+Power-Up Guide,
+Tips,
+FAQ,
+Key Resources,
+Recommended Angels,
+Spending Guide,
+Upgrade Levels,
+Star-up Artifacts,
+Resource,
+Angel Development,
+Summon Scrolls,
+Beginner PVE Angels,
+Beginner PVP Angels,
+Advanced PVE Angels,
+Advanced PVP Angels,
+Late Game PVE Angels,
+Late Game PVP Angels,
+strengthen_q_1,Q1: Which angels should I prioritize development?
+strengthen_q_cont_1,"SSR+ Angels > SSR Angels> SR+ Angels> SR Angels> R+ Angels> R Angels> N Angels\nPrioritize training higher-quality angels. You can confidently train the angels you obtain early on. If you later acquire higher-quality angels, you can transfer the training progress from previously trained angels to the new ones.\nNote: The MC cannot undergo inheritance."
+strengthen_q_2,Q2: How can I quickly level up?
+strengthen_q_cont_2,"Leveling up requires a significant amount of [Player EXP]. The battlefield is the only source of [Player EXP]. When battlefield stages become too challenging due to CR limits, you can use Quick Battle and Idle Rewards to gain [Player EXP]. The higher the stage you reach, the more [Player EXP] you can earn from idling."
+strengthen_q_3,Q3: How can I quickly obtain development resources?
+strengthen_q_cont_3,"Quick Battle allows you to obtain basic development resources. For detailed information on how to acquire various development resources, refer to the Power-Up Guide feature. It provides comprehensive details on the sources of various angels training resources!"
+strengthen_q_4,Q4: How can I create the most effective team combinations?
+strengthen_q_cont_4,"You can refer to the Power-Up Guide feature, specifically the Beginners Tips and Angel Recommendations sections. These sections provide various team combinations, ensuring that you can find a lineup suitable for your currently trained angels."
+strengthen_q_5,Q5: What gear should I choose and how to deal with them?
+strengthen_q_cont_5,
+strengthen_q_6,"Q6: How can I increase an angel's favorability, and what are the benefits?"
+strengthen_q_cont_6,"You can increase an angel's favorability by sending her on <color=#FFE869>[Adventures]</color> and giving her [Gifts], which can be obtained from gift boxes found during <color=#FFE869>[Adventures]</color>. Increasing an angel's favorability grants attribute boosts. When the affection level is high enough, you can use a [Magic Star Ring] to form a vow with the angel, providing significant bonuses."
+Primary currency. Can be spent to purchase rare resources to boost your CR.,
+RESOURCE_DESC1,
+Core items. Can be used to summon angels to improve the team's power!,
+RESOURCE_DESC2,"Summoning scrolls can be obtained through Main Story Quests, Stage Rewards, Wonderland, Limited Event, Diamond Store, Sapphire Store, Daily Gift, Gift Pack, etc.\nSummoning scrolls are divided into [Standard Summon Scroll], [Advanced Summon Scroll], [Legend Summon Scroll], [Superior Summon Scroll]. [Standard Summon Scroll] and [Advanced Summon Scroll] can be used at will, and [Legend Summon Scroll] and [Superior Summon Scroll] can be stored in large quantities and used together with the Luck Rebate event.\n\n[Recommended Summon Scroll Consumption]\n<color=#FFE869>[Beginner's Luck]</color>: <color=#FFE869>[Beginner's Luck]</color> is a summon event designed for new players, offering extremely high rebate rates! The event provides the main angel card pool in the early stage. Through summoning, you can get the angel of your wish at a super low cost!\n<color=#FFE869>[Wish Pool]</color>: <color=#FFE869>[Wish Pool]</color> is a long-term rotating angel summon event. A batch of angel card pools are replaced every week, and the rebate multiples are gratifying! Its value is exceptionally high, especially when combined with the weekly festival events, allowing you to summon your desired angel at a low cost.\n<color=#FFE869>[Divinity Ascend]</color>: <color=#FFE869>[Divinity Ascend]</color> is a limited-time rotation event for the angel card pool, and one angel is replaced each time. The event allows players to summon high-quality MR angels. At the same time, players can also receive a certain amount of [Superior Summon Scrolls] through the corresponding summon rebate event, which can significantly reduce the cost of obtaining MR quality angels.\n<color=#FFE869>[Destiny Star]</color>: Summon the destiny star to improve the attributes and passive skill effects of the corresponding angel, and quickly improve your CR!"
+strengthen_q_consume_1,Casual Contributor
+strengthen_q_consume_cont_1,"New players must buy this three-piece set to help you quickly widen the level gap!\n<color=#FFE869>[Beginner's Choice]</color>: You can directly obtain a SSR quality angel, and the map clearance speed will be doubled!\n<color=#FFE869>[Angel Blessings]</color>: It can increase the upper limit of Quick Combat Scroll and significantly boosts resource drop rates, accelerating level progression.\n<color=#FFE869>[Monthly Card]</color>: Get more player EXP and [Diamonds], and quickly widen the level gap."
+strengthen_q_consume_2,Generous Benefactor
+strengthen_q_consume_cont_2,"Extremely cost-effective items! Get the most benefits at the lowest cost!\n<color=#FFE869>[Beginner's Choice]</color>: You can directly obtain a SSR quality angel, and the map clearance speed will be doubled!\n<color=#FFE869>[Angel Blessings]</color>: It can increase the upper limit of Quick Combat Scroll and significantly boosts resource drop rates, accelerating level progression.\n<color=#FFE869>[Legend Monthly Card]</color>: Get more player EXP and resources such as [Legend Summon Scroll]. You can get 60 [Legend Summon Scrolls] eventually. It is very cost-effective!\n<color=#FFE869>[Beginner's Luck Summon Pack]</color>: Directly purchase to obtain [Legend Summon Scroll] and [Superior Summon Scroll], and obtain your desired angel at one time, widening the gap in CR and dungeon progress.\n<color=#FFE869>[Daily Gift]</color>: Purchase a 10-day daily gift package with one tap, and you can receive high-level rare resources and dice every day. Use the dice in the <color=#FFE869>[Lucky Board]</color>, and you can also get a large number of rich training resources, [Superior Summon Scroll], [Legend Summon Scroll] and precious items such as [Classic Angel Shard Optional Box] and [SSR+ Angels' Relic].\n<color=#FFE869>[Privilege Battle Pass]</color>: After purchasing the Battle Passes such as Supply House, Gem Hunter, Core Hunter, Growth Encourage, Dungeon Brave, and Sky Chaser, you can obtain a large number of resources, diamonds, summon scrolls, and rich angel training resources, further speeding up the development progress and dungeon advancing speed."
+strengthen_q_consume_3,Ultimate Patron
+strengthen_q_consume_cont_3,"Under any spending conditions,\nif the budget is sufficient, both types of paid recommendations can be purchased. If there is a shortage of development resources, you can also directly purchase gift packs containing the corresponding development resources to quickly maximize the training of angels."
+EXP_DESC,"Angel EXP is a resource for upgrading the angel level. The higher the angel level, the higher the CR;\nMain output: <color=#FFE869>[Quick Combat]</color>, <color=#FFE869>[Gift Package]</color>"
+ARMOR_DESC,"Wearing gear can improve the angels' CR. The higher the quality and level of the gear, the greater the CR improvement. \nMain output: <color=#FFE869>[Dungeon Battle]</color>, <color=#FFE869>[Idle Rewards]</color>, <color=#FFE869>[Quick Combat]</color>, <color=#FFE869>[Mystery Store]</color>, <color=#FFE869>[World Boss]</color>."
+SHARD_DESC,
+HOLY_CORE_DESC,"The Holy Core is a special item for breaking through the angel level. The higher the angel level, the higher the CR; \nMain output: <color=#FFE869>[Quick Combat]</color>, <color=#FFE869>[Guild Store]</color>, <color=#FFE869>[Package Purchase]</color>"
+ENHANCE_ESSENCE_DESC,"Enhancement Essence is the main resource for equipment enhancement. The higher the gear enhancement level, the greater the CR improvement brought by the geart. \nMain output: <color=#FFE869>[Sky Tower]</color>, <color=#FFE869>[Sapphire Store]</color>, <color=#FFE869>[Buy Pack]</color>, <color=#FFE869>[Sky Chaser]</color>"
+TRAINING_DESC,"Training Vials are divided into [Supreme Training Vial], [Advanced Training Vial], [Platinum Training Vial], and [Supreme Training Vial]. \nEach type of training vial is used for corresponding types of training, randomly changing the four-dimensional basic attributes of the angel. For example, [Standard Training Vial] are used for common training of the angel, and [Platinum Training Vial] are used for more advanced training of the angel. \nMain outputs <color=#FFE869>[Sky Tower]</color>, <color=#FFE869>[Weekly Gift]</color>, <color=#FFE869>[Buy Pack]</color>"
+ARTIFACT_DESC,
+RUNE_ESSENCE_DESC,"Rune Essence is a resource used to improve the talent level of all angels. The higher the talent level, the higher the attribute bonus for all angels. \n To improve the talent level of the mage angels, you need mage runes, to improve the talent level of the archer angels, you need archer runes, and to improve the talent level of the warrior angels, you need warrior runes. \nMain output: <color=#FFE869>[Glaive Tower]</color>, <color=#FFE869>[Magic Tower]</color>, <color=#FFE869>[Arrow Tower]</color>, <color=#FFE869>[Weekly Gift]</color>"
+GEM_DESC,"Gems are important auxiliary equipment for angels to improve their CR. They are divided into four types: ATK Gem, HP Gem, DEF Gem, DEF.PEN Gem. The higher the level of the gems, the greater the CR bonus they provide. \nMain output: <color=#FFE869>[Star Trial]</color>, <color=#FFE869>[Weekly Gift]</color>, <color=#FFE869>[Diamond Store]</color>, <color=#FFE869>[Buy Pack]</color>, <color=#FFE869>[Gem Hunter]</color>"
+Current Deployed Angel Levels,
+"Current Angel Quality, Stars, and Awaken Status",
+Current Angel Gear,
+Current Angel Training,
+Current Angel Artifacts,
+Power up,
+strengthen_cur_equip,Current CR: {0}
+strengthen_target_equip,Target CR:
+strengthen_cur_gem,Current Gem Level: {0}
+strengthen_target_gem,Target Gem Level
+strengthen_cur_hero_cultivate,Current Training Level: {0}
+strengthen_target_hero_cultivate,Increase Training to
+strengthen_cur_up_artifact,Total Artifact Stars: {0}
+strengthen_target_up_artifact,Target Star
+strengthen_cur_up_hero_level,Current Level: {0}
+strengthen_target_up_hero_level,Increase Level to
+strengthen_cur_quality,Current Star
+strengthen_target_quality,Target Star
+Current Deployed Angel Gem,
+Angel EXP,
+Training Vial,
+Boss Battlefield,
+Normal Battle,
+PVP Battle,
+Wonderland,
+"[Reason for Recommendation]: Hephaestus can effectively withstand boss damage, providing output space for Odin and the Zhu Rong.",
+"[Reason for Recommendation]: Cupid provides damage reduction for the team, while Hera can greatly increase the Atk of Himiko. Himiko then deals extremely high burst damage to instantly defeat bosses.",
+"[Reason for Recommendation]: Hera can greatly increase the ATK of Himiko, who then deals extremely high burst damage to defeat bosses instantly.",
+"[Reason for Recommendation]: Hera can greatly increase the ATK of Freyja, who then deals massive AoE damage to crush opponents.",
+"[Reason for Recommendation]: Cupid provides damage reduction for the team, while Hera can greatly increase the ATK of Freyja. Freyja then deals massive AoE damage to crush opponents.",
+"[Reason for Recommendation]: Cupid, Hera, Sim Cheong, Hela, and Horus enhance the team's survival and output capabilities. The longer Icarus survives, the higher the damage, ultimately defeating opponents in one fell swoop!",
+bgm_zhandou,Battlefield BGM 3
+BGM_battle_normal,Battlefield BGM 4
+BGM_battle_boss01,Battlefield BGM 5
+BGM_battle_PVP,Battlefield BGM 6
+BGM_battle_outland,Outland BGM 2
+BGM_battle_tower,Wonderland BGM
+bgm_OutlandMain,Outland BGM 1
