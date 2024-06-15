@@ -367,3 +367,18 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 320103,0,1,0,0.4,0|0,→,0|-303,This is the next star rating for the current Echo Artifact,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide2,,,0,0,0
 320104,0,1,0,0.4,0|0,←,0|170,This is the unlocking condition for the next star rating,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Guide3,,,0,0,0
 320105,0,1,0,0.4,0|0,↑,-232|-392,Tap to open the Artifact Inventory to view the artifacts you already own,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Button_armor_bag,,,0,0,0
+330001,1,0,0,0.5,0|0,→,,Illusion Corridor Available,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
+330002,0,0,0,0.5,0|0,↓,56|333,Tap to enter the Illusion Corridor.,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemWareGameUITpl|Button_enter,,,0,0,0
+330003,0,0,0,0.5,0|0,↓,-300|333,Tap to enter the Blessing Land.,WareGameUIScene(Clone)|WareGameReadyPanelUITpl|BottomRight|Button_summon_bless,,,0,0,0
+330004,0,0,0,0.5,0|0,↓,-100|333,Tap to draw a Blessing.,WareSummonUIScene(Clone)|Button_summon_ten,,,0,0,0
+330005,0,0,0,0.5,0|0,↓,100|333,Confirm the received Blessing.,WareBlessRewardUIScene(Clone)|Button_ok,,,0,0,0
+330006,0,0,0,0.5,0|0,↑,,,WareSummonUIScene(Clone)|Button_return,,,0,0,0
+330007,0,0,0,0.5,0|0,↑,56|-333,Tap to select a Genesis Essence.,WareGameUIScene(Clone)|WareGameReadyPanelUITpl|Middle|Button_ware,,,0,0,0
+330008,0,0,0,0.5,0|0,↓,100|-300,Select any Genesis Essence.,WareGameSelectWareUIDialog(Clone)|ButtonWareUITpl,,,0,0,0
+330009,0,0,0,0.5,0|0,↓,56|333,Each Genesis Essence has different abilities.,WareGameSelectWareUIDialog(Clone)|guide_click,,,0,0,0
+330010,0,0,0,0.5,0|0,↓,,,WareGameSelectWareUIDialog(Clone)|Button_confirm,,,0,0,0
+330011,0,0,0,0.5,0|0,↓,100|333,Tap to select a Blessing.,WareGameUIScene(Clone)|Middle|WareBlessItemReadyUITpl_1,,,0,0,0
+330012,0,0,0,0.5,0|0,↓,100|-220,"Select whether or not to use the Blessing, up to three Blessings.",WareGameBlessSelectUIDialog(Clone)|ScrollView_list_CellGroupPrefab(Clone)|WareBlessItemSelectUITpl,,,0,0,0
+330100,0,0,0,0.5,0|0,↓,56|333,The system-provided angels will join your adventure squad.,WareGameInitHeroUIDialog(Clone)|Button_confirm,,,0,0,0
+330101,0,0,0,0.5,0|0,↓,56|333,Tap to head ahead and start your adventure.,WareGameUIScene(Clone)|WareGameRunningPanelUITpl|Bottom|Button_continue,,,0,0,0
+330102,0,0,0,0.5,0|0,↓,56|333,Deploy your angels and prepare for battle.,WareGameUIScene(Clone)|WareGameRunningPanelUITpl|WareGameTriggerNpcUITpl|Button_click,,,0,0,0

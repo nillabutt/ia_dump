@@ -4848,6 +4848,94 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34800079,-1,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"Exactly. Now that you know everything, the only way to retrieve your book is to defeat me.",,0,0
 34800080,34800081,,NuwaJingu,,1,WEJL0,HFSTS0,2,Valkyrie,"It looks like you are far more formidable than I've imagined. Here, is the last page of that book.",,0,0
 34800081,-1,,NuwaJingu,,1,HLA_MR,HFSTS0,1,Hela,You've made a wise choice. The fate of the deceased can only be controlled by Death.,,0,0
+34900001,34900002,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Pandora, I call upon you. Break my chains and restore my freedom...",,0,0
+34900002,34900003,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Oh my, Prometheus, the thief of heavenly fire, the last Titan. So, have you finally decided to break Zeus's bonds?",,0,0
+34900003,34900004,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,I feel Zeus's hold on me weakening. Perhaps it is time to escape this eternal prison.,,0,0
+34900004,34900005,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"Oh, of course, of course. But before that, I must test you. If you pass, I'll set you free.",,0,0
+34900005,-1,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Very well, I've endured many trials before. One more won't hurt.",,0,0
+34900006,34900007,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,It seems I've passed your so-called trial.,,0,0
+34900007,34900008,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"I underestimated you. Even bound by Zeus's chains, your power is formidable.",,0,0
+34900008,34900009,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"So, what will you do next? Confront Zeus and settle old scores?",,0,0
+34900009,34900010,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Yes, but first, I need to find two allies. Will you help as well? Once it's done, I'll reward you handsomely.",,0,0
+34900010,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"It's a deal, my future Titan queen.",,0,0
+34900011,34900012,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Do you remember me, Prometheus?",,0,0
+34900012,34900013,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,Gemini! You... how?,,0,0
+34900013,34900014,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"I’m back, thanks to Pandora's help. I've regained my freedom. So, what do you say? Want to join me in seeking justice from Zeus?",,0,0
+34900014,34900015,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,I have a new divine role now and can't help you take down Zeus... But if I were to accidentally become your captive...,,0,0
+34900015,-1,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Heh, are you suggesting I defeat you first? Alright then, if that's what you want.",,0,0
+34900016,34900017,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,You've lost a lot of strength. It seems millennia of imprisonment have weakened you. Zeus... that cowardly tyrant!,,0,0
+34900017,-1,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,I have no regrets about my past decisions. I just want to seek justice from Zeus.,,0,0
+34900018,34900019,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"My dear Cupid, we meet again.",,0,0
+34900019,34900020,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,Prometheus? I thought we’d never see each other again!,,0,0
+34900020,34900021,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,Fate is always unpredictable. But I’m glad to see you again.,,0,0
+34900021,34900022,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,"I’m happy to see you too, Prometheus. But you look like you've been through a lot. Where are you headed?",,0,0
+34900022,34900023,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"I’m going to see Zeus and settle some unfinished business. How about it, will you join me?",,0,0
+34900023,34900024,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,"Shh! Keep it down. I’m a sentinel for Zeus now! But if you manage to defeat me, I might be forced to join your cause.",,0,0
+34900024,-1,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Heh, you know me well.",,0,0
+34900025,34900026,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Cupid, were you holding back in the fight? That’s not good.",,0,0
+34900026,34900027,,NuwaJingu,,1,QBT0,HFSTS0,2,Cupid,"Hehe, you’re still weak. Let me be your support and fight for you!",,0,0
+34900027,-1,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"Even though you've found two powerful allies, you're still too weak to face Zeus. How about I take you to gather some strength first?",,0,0
+34900028,34900029,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,It looks like our charger is already here waiting for us.,,0,0
+34900029,34900030,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,Who are you calling a charger?,,0,0
+34900030,34900031,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"This girl is brimming with lightning power. If I absorb her static electricity, I can regain half of my former strength.",,0,0
+34900031,34900032,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,My electrical power isn’t easy to absorb. You might end up burning yourself!,,0,0
+34900032,34900033,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,It’s alright. I’ve endured greater burns than that. A little static won’t bother me.,,0,0
+34900033,-1,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,"Haha, alright then. If you can handle my electricity, I don’t mind letting you absorb some.",,0,0
+34900034,34900035,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,Your electricity has restored a significant amount of my energy.,,0,0
+34900035,-1,,NuwaJingu,,1,SE0,HFSTS0,2,Thor,This is the first time I’ve seen someone absorb another’s energy to recharge themselves. I think I’ll stick around and see just how interesting you are.,,0,0
+34900036,34900037,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,"Ah, look who we have here! The thief of fire, eternally bound to the rock, the last Titan—Prometheus.",,0,0
+34900037,34900038,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"I remember you. When Zeus imprisoned me, you were just a little girl. What should I call you now? Ares, the God of War, protector of Greece?",,0,0
+34900038,34900039,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,"So, the ghost of the past has broken free from its cage, returning from the underworld for vengeance?",,0,0
+34900039,34900040,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,I’m not seeking revenge. I just want justice from Zeus.,,0,0
+34900040,34900041,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,"Heh, justice? Well, you’ll have to get past me first. Watch out, I’m not just some goddess with half-baked skills.",,0,0
+34900041,-1,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,Perfect. I can absorb your energy to restore my divine power.,,0,0
+34900042,34900043,,NuwaJingu,,1,ARS0,HFSTS0,2,Ares,You! Why does my power not only fail to harm you but instead gets absorbed and used against me?,,0,0
+34900043,-1,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"It’s just the manifestation of my divine nature. Alright, if you agree to come with me to see Zeus, I’ll return your power to you when the time comes.",,0,0
+34900044,34900045,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"Loki, it’s good to see you, but please step aside. I need to pass through here.",,0,0
+34900045,34900046,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Prometheus, I’ve heard of you. You’re a giant from Greek mythology, the last of your kind… or should I call you a Titan?",,0,0
+34900046,34900047,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"Call me whatever you like, but I must warn you, you’re blocking my path.",,0,0
+34900047,34900048,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Yes, yes, I just wanted to catch a glimpse of the legendary fire thief. And then… then I’d like to offer my help in causing some chaos on Olympus!",,0,0
+34900048,-1,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"Heh, you’re quite amusing. Very well, let’s see what you’ve got.",,0,0
+34900049,34900050,,NuwaJingu,,1,LJ0,HFSTS0,2,Loki,"Ah, my power is being drained by you!",,0,0
+34900050,-1,,NuwaJingu,,1,PLMXS_UR_PLUS,HFSTS0,1,Prometheus,"Since you’ve had the honor of meeting me, it’s only fair I take a little gift, don’t you think? Don’t worry, I’ll return it to you once things are settled with Zeus.",,0,0
+34900051,34900052,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"Ah, the Pantheon. How many centuries have I been away from here?",,0,0
+34900052,34900053,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,Prometheus? How… how did you get back here?,,0,0
+34900053,34900054,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"It seems Zeus's will has weakened, loosening his control over me. That allowed me to summon Pandora.",,0,0
+34900054,34900055,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,Pandora again! Don’t you know she’s the greatest threat to our divine realm?,,0,0
+34900055,34900056,,NuwaJingu,,1,PDL2,HFSTS0,1,Pandora,"From what I know, Prometheus is no threat. In fact, she is even more beloved by mortals than Zeus.",,0,0
+34900056,-1,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,"Very well, I’ll consider you intruders and throw you out of Olympus together!",,0,0
+34900057,34900058,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"It seems you’ve failed to stop my plan, Athena.",,0,0
+34900058,-1,,NuwaJingu,,1,YDN0,HFSTS0,2,Athena,No matter. There are more powerful goddesses ahead waiting for you!,,0,0
+34900059,34900060,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"I heard Athena’s call—someone has invaded Olympus... But I never expected it to be you, Prometheus.",,0,0
+34900060,34900061,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"Long time no see, Hades. You were part of the plan that put me in that cage.",,0,0
+34900061,34900062,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"So, are you here for revenge?",,0,0
+34900062,34900063,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,I’m not as narrow-minded as you think. I don’t want trouble with you; I just want to have a chat with Zeus.,,0,0
+34900063,34900064,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Just a chat? I don’t believe you. Though I have my issues with Zeus, I will always uphold her order!",,0,0
+34900064,-1,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"Alright then, let’s see how much you’ve improved over these millennia.",,0,0
+34900065,34900066,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,It seems you’ve spent your years scheming rather than strengthening your power.,,0,0
+34900066,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Unlike some goddesses, I don’t just borrow power from others to boost my own confidence.",,0,0
+34900067,34900068,,NuwaJingu,,1,ZS0,HFSTS0,2,Zeus,"You’ve finally arrived, Prometheus.",,0,0
+34900068,34900069,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"What, no refreshments for an old friend’s visit?",,0,0
+34900069,34900070,,NuwaJingu,,1,ZS0,HFSTS0,2,Zeus,"Of course, I’ve prepared a feast with all your old favorites.",,0,0
+34900070,34900071,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,I doubt it’ll be that easy to enjoy this meal.,,0,0
+34900071,34900072,,NuwaJingu,,1,ZS0,HFSTS0,2,Zeus,"Naturally, if you’re willing to release the energy you’ve absorbed from the other goddesses and take a seat in the chair I’ve prepared for you…",,0,0
+34900072,-1,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,I see. You want to disarm me and shackle me again. I won’t fall for your tricks!,,0,0
+34900073,34900074,,NuwaJingu,,0,PLMXS_MR,HFSTS0,1,Prometheus,It seems you’ve weakened significantly. You can’t even defeat a prisoner who just escaped.,,0,0
+34900074,34900075,,NuwaJingu,,0,ZS0,HFSTS0,2,Zeus,That’s because I never intended to fight you. I just want to mend our old relationship.,,0,0
+34900075,34900076,,NuwaJingu,,0,PLMXS_MR,HFSTS0,1,Prometheus,Why?,,0,0
+34900076,34900077,,NuwaJingu,,0,ZS0,HFSTS0,2,Zeus,I’ve realized my mistakes. I shouldn’t have banished you or doubted your decisions.,,0,0
+34900077,-1,60101|60102,NuwaJingu,,0,ZS0,HFSTS0,2,Zeus,Let go of your grudges. Let’s work together again to protect Olympus.,,0,0
+34900078,-1,,NuwaJingu,,1,ZS0,HFSTS0,2,Zeus,Then please release the power you’ve absorbed and return it.,,0,0
+34900079,-1,,NuwaJingu,,1,ZS0,HFSTS0,2,Zeus,"Very well, I sort of expected that... you're free to leave now.",,0,0
+34900080,-1,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"I will return these powers... Goddesses, it seems our contract has ended. It’s time to return these gifts to you.",,0,0
+34900081,34900082,,NuwaJingu,,1,PLMXS_MR,HFSTS0,2,Prometheus (Fake),"Ah, why give up my beauty? Haven’t I brought you enough fulfillment?",,0,0
+34900082,34900083,,NuwaJingu,,1,PLMXS_MR,HFSTS0,2,Prometheus (Fake),"Since you refuse to wield the power of revenge, let me take your place and become the new Prometheus!",,0,0
+34900083,34900084,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,This power has taken on a physical form!,,0,0
+34900084,34900085,,NuwaJingu,,1,ZS0,HFSTS0,1,Zeus,"It seems this power has been tainted by your resentment, becoming a vengeful manifestation. You must deal with her!",,0,0
+34900085,34900086,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"In the end, you’re the one who caused this trouble, yet you want me to clean up the mess.",,0,0
+34900086,-1,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"Alright, let's see who truly deserves to be called Prometheus.",,0,0
+34900087,34900088,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,"Fortunately, impostors can never become real.",,0,0
+34900088,-1,,NuwaJingu,,1,PLMXS_MR,HFSTS0,1,Prometheus,Please don't misunderstand. I didn't escape from the cage for revenge. I wanted to witness the joy people experience after gaining fire.,,0,0
 40000,40001,,{translucent},,1,,,2,,"The rift has opened, my brothers! Burn everything and take the spoils!",,0,0
 40001,-1,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"Stop, monsters! As long as I'm here, you can't take another step forward!",,0,0
 40002,40003,,{translucent},,1,,,2,,"Now that the rift has opened, nothing can stop us! Bow down and surrender. Haha!!!",,0,0
@@ -4893,3 +4981,4 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 32000033,32000034,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Something’s wrong with the order of time. It brought back those monsters we killed and made them stronger.,,0,0
 32000034,32000035,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"But I’m not scared. If we can beat them once, we can beat them again and again.",,0,0
 32000035,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Alright then. Let’s grab our weapons and keep fighting!,,0,0
+41000001,-1,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"A mysterious ancient realm, where countless great souls are sealed. Collect these shattered powers here.",,0,0

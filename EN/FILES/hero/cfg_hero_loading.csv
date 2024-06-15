@@ -43,3 +43,9 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 142,img_loading_axl_MR.png,Grand Sovereign - Asura,-80,430,0.77,AXL_MR,0,LOADING.jpg,2068,0,1
 143,img_loading_ars_UR_plus.png,Lounge Lady - Ares,-50,360,0.74,ARS_UR_PLUS,0,LOADING.jpg,2083,1,0
 144,img_loading_ars_MR.png,Sanctum Blade - Ares,-50,400,0.75,ARS_MR,0,LOADING.jpg,2083,0,1
+145,img_loading_zs_UR_plus.png,Carefree Enchantment - Zeus,0,420,0.74,ZS_UR_PLUS,0,LOADING.jpg,2075,1,0
+146,img_loading_zs_MR.png,Divine Covenant - Zeus,-50,400,0.75,ZS_MR,0,LOADING.jpg,2075,0,1
+147,img_loading_hls_UR_plus.png,Twilight Divinity - Horus,-90,240,0.88,HLS_UR_PLUS,0,LOADING.jpg,2081,1,0
+148,img_loading_hls_MR.png,Frenzied Nocturne - Horus,-110,540,0.75,HLS_MR,0,LOADING.jpg,2081,0,1
+149,img_loading_plmxs_UR_plus.png,Mirror Fragrance - Prometheus,-90,610,0.7,PLMXS_UR_PLUS,0,LOADING.jpg,2087,1,0
+150,img_loading_plmxs_MR.png,Radiant Queen - Prometheus,-110,360,0.71,PLMXS_MR,0,LOADING.jpg,2087,0,1

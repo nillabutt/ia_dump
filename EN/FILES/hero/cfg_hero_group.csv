@@ -296,3 +296,8 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 302,Requiescat Dirge,2086|2052,3,2,150,Battle with {0},2086
 303,Celestial Domination,2086|2075|2049,3,1,200,Battle with {0},2086
 304,Valkyrie's Descent,2086|2016|2076|2077,3,2,250,Battle with {0},2086
+305,Eternity Echoes,2087|2075,3,1,150,Battle with {0},2087
+306,Luminous Vault,2087|2078,3,2,150,Battle with {0},2087
+307,Abyssal Blaze,2087|2048,3,2,150,Battle with {0},2087
+308,Sacred Descend,2087|2049|2009,3,1,200,Battle with {0},2087
+309,Celestial Sentinel,2087|2011|2077|2047,3,1,250,Battle with {0},2087

@@ -1,0 +1,21 @@
+type,name,desc,icon,quality_level,weight
+1,Divine Blessing: Legacy,Gain an additional slot for Essences in this round and receive an extra Divine Mark used for upgrading Essence Skills at the end of the battle.,2001.png,3,1
+2,Divine Blessing: Glory,The probability of obtaining a Gold Divine Mark or higher-quality one from defeating a boss is increased by 100% in this round.,2002.png,3,5
+3,Divine Blessing: Conquest,The probability of obtaining an attack-boosting Divine Mark from defeating a boss is doubled in this round.,2003.png,3,20
+4,Divine Blessing: Authority,Receive an extra Divine Mark for each boss you defeated in this round.,2004.png,3,1
+5,Divine Blessing: Clarity,"When obtaining a Gold Divine Mark or higher-quality one in this round, there is a 10% chance to receive a duplicate Divine Mark.",2005.png,3,20
+6,Divine Blessing: Shield,The probability of obtaining a defense-boosting Divine Mark is doubled in this round.,2006.png,3,20
+7,Divine Blessing: Grace,The probability of obtaining a support-type Divine Mark is doubled in this round.,2007.png,3,20
+8,Divine Blessing: Artisan,"When obtaining a Divine Mark from defeating a boss in this round, there is a 10% chance to upgrade its quality by one tier.",2008.png,3,13
+9,Supreme Blessing: Legacy,"Receive an extra Divine Mark for each 3 stages completed, with its quality depending on the current stage reached.",2101.png,2,1
+10,Supreme Blessing: Shield,The probability of obtaining a defense-boosting Divine Mark is increased by 50% in this round.,2102.png,2,1
+11,Supreme Blessing: Grace,The probability of obtaining a support-type Divine Mark is increased by 50% in this round.,2103.png,2,1
+12,Supreme Blessing: Conquest,The probability of obtaining an attack-boosting Divine Mark is increased by 50% in this round.,2104.png,2,1
+13,Supreme Blessing: Clarity,"When obtaining a Divine Mark in this round, there is a 5% chance to receive an extra Divine Mark of the same quality.",2105.png,2,1
+14,Supreme Blessing: Abundance,"Receive 5 extra Divine Marks at the end of the game, with their quality depending on the final stage reached.",2106.png,2,1
+15,Impressive Blessing: Conquest,The probability of obtaining an attack-boosting Divine Mark is increased by 10% in this round.,2201.png,1,1
+16,Impressive Blessing: Legacy,"Receive an extra Divine Mark for each 5 stages completed, with its quality depending on the current stage reached.",2202.png,1,1
+17,Impressive Blessing: Abundance,"Receive 2 extra Divine Marks at the end of the game, with their quality depending on the final stage reached.",2203.png,1,1
+18,Impressive Blessing: Clarity,"When obtaining a Divine Mark in this round, there is a 3% chance to receive an extra Divine Mark of the same quality.",2204.png,1,1
+19,Impressive Blessing: Grace,The probability of obtaining a support-type Divine Mark is increased by 10% in this round.,2205.png,1,1
+20,Impressive Blessing: Shield,The probability of obtaining a defense-type Divine Mark is increased by 10% in this round.,2206.png,1,1

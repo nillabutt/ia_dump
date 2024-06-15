@@ -1,0 +1,10 @@
+cfg_id,name,quality_level,attribute_label,basic_skill_id,upgrade_skill_id,basic_slot,icon
+1,Infernal Spirit,5,1,77771101,77771201,7,1001.png
+2,Blazing Soul,5,1,77772101,77772201,7,1002.png
+3,Fearless Warrior,5,1,77773101,77773201,7,1003.png
+4,Invisible Guardian,5,2,77774101,77774201,7,1004.png
+5,Sanctuary Maiden,5,2,77775101,77775201,7,1005.png
+6,Nature's Guardian,5,2,77776101,77776201,7,1006.png
+7,Immortal Bones,5,3,77777101,77777201,7,1007.png
+8,Void Shadow,5,3,77778101,77778201,7,1008.png
+9,Otherworld Sage,5,3,77779101,77779201,7,1009.png

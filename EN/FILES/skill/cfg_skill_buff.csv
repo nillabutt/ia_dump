@@ -537,6 +537,7 @@
 158101111,2,58,,,Vengeance - Avenging Angel,FuChou,"When defeated, enters the soul state.(Neutral Status)",Act in the state of a soul when receiving fatal damage,0
 158102111,0,,,,复仇-属性加成,,属性增加,Attributes UP,0
 158102211,2,10,FCTS_hit,,Bleed,,,Unable to recover HP,0
+168101113,0,,,,护盾,,,,0
 118201111,1,7,,,Poison - Thorny Sting,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 118201211,1,9,,,Ignite - Thorny Sting,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
 118201311,1,8,,,Sunder Armor - Thorny Sting,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
@@ -579,6 +580,11 @@
 168621111,0,85,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 10% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 168641111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 168651111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
+128701211,2,91,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
+148701211,2,91|92,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
+158701111,2,91|92,,,Lock - Scorching Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
+158701211,2,93,,,追击,,,,0
+158701311,1,,,,Scorching Sigil,SYLY,Each layer increases own True DMG by 5%.,True DMG Boost,999
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
@@ -591,3 +597,23 @@
 55552611,2,,,,Frenzy,,,,0
 55552711,2,,,,倍攻,,,,0
 55552811,2,,,,Ruthless,,,,0
+77771111,2,,,,物理伤害增加,,物理伤害增加,物理伤害增加,0
+77771211,2,,,,物理伤害增加,,物理伤害增加,物理伤害增加,0
+77772111,2,,,,魔法伤害增加,,魔法伤害增加,魔法伤害增加,0
+77772211,2,,,,魔法伤害增加,,魔法伤害增加,魔法伤害增加,0
+77773111,2,,,,True DMG Boost,,True DMG Boost,True DMG Boost,0
+77773211,2,,,,True DMG Boost,,True DMG Boost,True DMG Boost,0
+77774111,2,,,,普攻伤害增加,,普攻伤害增加,普攻伤害增加,0
+77774211,2,94,,,普攻伤害增加,,普攻伤害增加,普攻伤害增加,0
+77775111,2,,,,Counterattack when taking DMG,,Counterattack when taking DMG,,0
+77775211,2,,,,Counterattack when taking DMG,,Counterattack when taking DMG,,0
+77775212,1,105,,,重伤-荆棘护盾,,受到治疗效果降低50%,,0
+77776111,2,,,,增益效果增加,,增益效果增加,,0
+77776211,2,,,,增益效果增加,,增益效果增加,,0
+77777111,2,,,,增益效果降低,,增益效果降低,,0
+77777211,2,,,,增益效果降低,,增益效果降低,,0
+77778111,2,,,,自身debuff,,自身debuff,,0
+77778112,2,,,,队友buff,,队友buff,,999
+77778211,2,,,,自身debuff,,自身debuff,,0
+77778212,2,,,,队友buff,,队友buff,,999
+77779211,0,,,,护盾,,,,0
