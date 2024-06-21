@@ -1,6 +1,6 @@
 type,name,desc,icon,quality_level,weight
 1,Divine Blessing: Legacy,Gain an additional slot for Essences in this round and receive an extra Divine Mark used for upgrading Essence Skills at the end of the battle.,2001.png,3,1
-2,Divine Blessing: Glory,The probability of obtaining a Gold Divine Mark or higher-quality one from defeating a boss is increased doubled in this round.,2002.png,3,5
+2,Divine Blessing: Glory,The probability of obtaining a Gold Divine Mark or higher-quality one from defeating a boss in this round is doubled.,2002.png,3,5
 3,Divine Blessing: Conquest,The probability of obtaining an attack-boosting Divine Mark from defeating a boss is doubled in this round.,2003.png,3,20
 4,Divine Blessing: Authority,Receive an extra Divine Mark for each boss you defeated in this round.,2004.png,3,1
 5,Divine Blessing: Clarity,"When obtaining a Gold Divine Mark or higher-quality one in this round, there is a 10% chance to receive a duplicate Divine Mark.",2005.png,3,20

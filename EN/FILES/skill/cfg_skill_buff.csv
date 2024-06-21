@@ -537,7 +537,8 @@
 158101111,2,58,,,Vengeance - Avenging Angel,FuChou,"When defeated, enters the soul state.(Neutral Status)",Act in the state of a soul when receiving fatal damage,0
 158102111,0,,,,复仇-属性加成,,属性增加,Attributes UP,0
 158102211,2,10,FCTS_hit,,Bleed,,,Unable to recover HP,0
-168101113,0,,,,护盾,,,,0
+168101113,0,,,,Damage Reduction,,,,0
+168101115,0,,,,Damage Reduction,,,,0
 118201111,1,7,,,Poison - Thorny Sting,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 118201211,1,9,,,Ignite - Thorny Sting,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
 118201311,1,8,,,Sunder Armor - Thorny Sting,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
@@ -598,14 +599,14 @@
 55552611,2,,,,Frenzy,,,,0
 55552711,2,,,,倍攻,,,,0
 55552811,2,,,,Ruthless,,,,0
-77771111,2,,,,物理伤害增加,,物理伤害增加,物理伤害增加,0
-77771211,2,,,,物理伤害增加,,物理伤害增加,物理伤害增加,0
-77772111,2,,,,魔法伤害增加,,魔法伤害增加,魔法伤害增加,0
-77772211,2,,,,魔法伤害增加,,魔法伤害增加,魔法伤害增加,0
+77771111,2,,,,Increased P.DMG,,Increased P.DMG,Increased P.DMG,0
+77771211,2,,,,Increased P.DMG,,Increased P.DMG,Increased P.DMG,0
+77772111,2,,,,Increased M.DMG,,Increased M.DMG,Increased M.DMG,0
+77772211,2,,,,Increased M.DMG,,Increased M.DMG,Increased M.DMG,0
 77773111,2,,,,True DMG Boost,,True DMG Boost,True DMG Boost,0
 77773211,2,,,,True DMG Boost,,True DMG Boost,True DMG Boost,0
-77774111,2,,,,普攻伤害增加,,普攻伤害增加,普攻伤害增加,0
-77774211,2,94,,,普攻伤害增加,,普攻伤害增加,普攻伤害增加,0
+77774111,2,,,,Increased Basic Attack DMG,,Increased Basic Attack DMG,Increased Basic Attack DMG,0
+77774211,2,94,,,Increased Basic Attack DMG,,Increased Basic Attack DMG,Increased Basic Attack DMG,0
 77775111,2,,,,Counterattack when taking DMG,,Counterattack when taking DMG,,0
 77775211,2,,,,Counterattack when taking DMG,,Counterattack when taking DMG,,0
 77775212,1,105,,,重伤-荆棘护盾,,受到治疗效果降低50%,,0

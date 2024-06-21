@@ -4858,8 +4858,8 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34900008,34900009,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"So, what will you do next? Confront Zeus and settle old scores?",,0,0
 34900009,34900010,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Yes, but first, I need to find two allies. Will you help as well? Once it's done, I'll reward you handsomely.",,0,0
 34900010,-1,,NuwaJingu,,1,PDL2,HFSTS0,2,Pandora,"It's a deal, my future Titan queen.",,0,0
-34900011,34900012,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Do you remember me, Prometheus?",,0,0
-34900012,34900013,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,Gemini! You... how?,,0,0
+34900011,34900012,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Do you remember me, Gemini?",,0,0
+34900012,34900013,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,Prometheus! You... how?,,0,0
 34900013,34900014,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"I’m back, thanks to Pandora's help. I've regained my freedom. So, what do you say? Want to join me in seeking justice from Zeus?",,0,0
 34900014,34900015,,NuwaJingu,,1,YWJ0,HFSTS0,2,Gemini,I have a new divine role now and can't help you take down Zeus... But if I were to accidentally become your captive...,,0,0
 34900015,-1,,NuwaJingu,,1,PLMXS_UR,HFSTS0,1,Prometheus,"Heh, are you suggesting I defeat you first? Alright then, if that's what you want.",,0,0
