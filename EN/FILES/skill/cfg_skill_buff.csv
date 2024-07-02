@@ -584,7 +584,7 @@
 128701211,2,91,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 148701211,2,91|92,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 158701111,2,91|92,,,Lock - Scorching Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
-158701112,1,,,,Lock - Scorching Sigil,,DMG Reduced,,0
+158701112,1,,,,Lock - Scorching Sigil,SuoDing,DMG Reduced,DMG Reduced,0
 158701211,2,93,,,追击,,,,0
 158701311,1,,,,Scorching Sigil,SYLY,Each layer increases own True DMG by 5%.,True DMG Boost,999
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
