@@ -369,7 +369,7 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 320105,0,1,0,0.4,0|0,↑,-232|-392,Tap to open the Artifact Inventory to view the artifacts you already own,SceneUIRoot|ArmorMakeUIScene(Clone)|PanelSevenSpecialArmorUITpl|Button_armor_bag,,,0,0,0
 330001,1,0,0,0.5,0|0,→,,Illusion Corridor Available,SceneUIRoot|LobbyUIScene(Clone)|Button_main_daily_dungeon,,,0,0,0
 330002,0,0,0,0.5,0|0,↓,56|333,Tap to enter the Illusion Corridor.,SceneUIRoot|DailyDungeonUIScene(Clone)|DailyDungeonItemWareGameUITpl|Button_enter,,,0,0,0
-330003,0,0,0,0.5,0|0,↓,-300|333,Tap to enter the Blessing Land.,WareGameUIScene(Clone)|WareGameReadyPanelUITpl|BottomRight|Button_summon_bless,,,0,0,0
+330003,0,0,0,0.5,0|0,↓,-300|333,Tap to enter the Blessing Land.,WareGameUIScene(Clone)|WareGameReadyPanelUITpl|Bottom|Button_summon_bless,,,0,0,0
 330004,0,0,0,0.5,0|0,↓,-100|333,Tap to draw a Blessing.,WareSummonUIScene(Clone)|Button_summon_ten,,,0,0,0
 330005,0,0,0,0.5,0|0,↓,100|333,Confirm the received Blessing.,WareBlessRewardUIScene(Clone)|Button_ok,,,0,0,0
 330006,0,0,0,0.5,0|0,↑,,,WareSummonUIScene(Clone)|Button_return,,,0,0,0

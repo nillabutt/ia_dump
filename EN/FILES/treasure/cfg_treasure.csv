@@ -15,26 +15,28 @@
 2002,Original Fire,0,0,30,4,Battle,"Prometheus gifted humanity with the earliest kindling, and the resulting fire symbolized civilization and wisdom. The flame burns eternally, even without fuel.",0
 2003,Summer Drinks,0,0,30,4,Battle,"What a nice weather, let’s go surfing together, I don’t need to work on iron today.",1
 2004,The Eye of Horus,0,0,30,4,Battle,"This elaborate artifact, made from gold and gemstones, is a symbol of protection and well-being. It once belonged to the Egyptian god of kingship. Staring at it may give one the eerie feeling that it is staring back at you.",0
-2005,Time Hourglass,0,8,30,4,增益,"In ancient Egypt, this object was prized for their ability to accurately measure time. During temple worship, they helped priests mark the day's passing.",0
+2005,Time Hourglass,0,8,30,4,Bonus,"In ancient Egypt, this object was prized for their ability to accurately measure time. During temple worship, they helped priests mark the day's passing.",0
 2006,Holy Grail,0,0,30,4,Battle,This elusive gold cup purportedly has miraculous healing powers and the ability to grant immortality.,0
 2007,Dessert House,0,0,30,4,Battle,"Master, would you like to try some desserts I made?",1
 2008,Cherry Hunting,0,0,30,4,Battle,"This is the best time to hunt when the cherry blossoms are in full bloom, don’t you think?",1
 2009,Come and visit us!,0,0,30,4,Battle,"Welcome, what can I get you…hmm? Are you looking for me?",1
 2010,Make a Wish,0,4,30,4,Battle,Make a wish! Maybe I can make it come true.,1
 3001,Laevateinn,0,7,50,5,Privilege,"The sword, crafted from the molten lava at the heart of a volcano, was once wielded by the fire giant Surtr, who ravaged his enemies in battle on the Rainbow Bridge. Legend has it that each swing of the sword could ignite parts of the sky, leaving a trail of flames in its wake.",0
-3002,The Collapsible Ship,0,6,50,5,增益,"Skidbladnir is a magnificent ship crafted by a skilled Nordic dwarf for Freyr, the god of fertility and sunlight. It is capable of carrying all the Nordic gods at once, yet it can also be folded and stored in a pocket. This divine vessel is a treasured means of transportation for the gods, carrying them into battle during the fateful Twilight of the Gods.",0
-3003,Fireworks Festival,0,5,50,5,增益,"The fireworks tonight are so splendid, just like that year.",1
+3002,The Collapsible Ship,0,6,50,5,Bonus,"Skidbladnir is a magnificent ship crafted by a skilled Nordic dwarf for Freyr, the god of fertility and sunlight. It is capable of carrying all the Nordic gods at once, yet it can also be folded and stored in a pocket. This divine vessel is a treasured means of transportation for the gods, carrying them into battle during the fateful Twilight of the Gods.",0
+3003,Fireworks Festival,0,5,50,5,Bonus,"The fireworks tonight are so splendid, just like that year.",1
 3004,Jump to Dragonhood,0,3,50,5,Battle,"I believe that as long as you work hard, everyone can achieve their dreams.",1
 3005,Nekomata Cafe,0,0,50,5,Battle,"Nice to meet you! I am a cat…cat again, nice to know you.",1
 3006,Good Harvest,0,2,50,5,Battle,"With such a bountiful harvest, no one will go hungry anymore.",1
 3007,Ruyi Bang,0,0,50,5,Battle,"Forged by Emperor Haotian, it was given to King Yu to support the pillar of the East Sea. It was huge and incredibly heavy, called the Divine Needle of the Settled Sea. In order to enable King Yu and other mortals to move it, the Emperor of the Skies applied a wish-fulfilling spell, which, when recited, could freely enlarge or shrink it.",0
-3008,Fighting Tournament,0,1,50,5,增益,"Come and fight me, the moves will speak for themselves!",1
-3009,1st Anniversary Celebration,1,0,50,5,增益,1st Anniversary Celebration Miracle Card,1
-3010,2nd Anniversary Celebration,1,0,50,5,增益,2nd Anniversary Celebration Miracle Card,1
-3011,3rd Anniversary Celebration,1,0,50,5,增益,3rd Anniversary Celebration Miracle Card,1
-3012,Sakura Demon,0,9,50,5,增益,Naa~ Do you want to see me dancing?,1
-3013,Pounding Rice Cakes,0,10,50,5,增益,"Hey-ho~hey-ho~ I love rice cakes, and rice cakes love me!",1
-3014,Luminous Scarab,0,11,50,5,增益,"Symbol of the Egyptian Royal Guard, a sacred beetle-shaped talisman crafted from various rare gemstones. It is said that the scarab propels the sun, so holding it feels like experiencing the scorching power emanating from within.",0
-3015,Scarlet Whispers,0,12,50,5,增益,My heart belongs to the little bear... and to you.,1
-3016,Lotus Lantern,0,13,50,5,增益,"If this long night persists, let me illuminate it for you.",1
-3017,4th Anniversary Souvenir,1,0,50,5,增益,4th Anniversary Celebration Miracle Card,1
+3008,Fighting Tournament,0,1,50,5,Bonus,"Come and fight me, the moves will speak for themselves!",1
+3009,1st Anniversary Celebration,1,0,50,5,Bonus,1st Anniversary Celebration Miracle Card,1
+3010,2nd Anniversary Celebration,1,0,50,5,Bonus,2nd Anniversary Celebration Miracle Card,1
+3011,3rd Anniversary Celebration,1,0,50,5,Bonus,3rd Anniversary Celebration Miracle Card,1
+3012,Sakura Demon,0,9,50,5,Bonus,Naa~ Do you want to see me dancing?,1
+3013,Pounding Rice Cakes,0,10,50,5,Bonus,"Hey-ho~hey-ho~ I love rice cakes, and rice cakes love me!",1
+3014,Luminous Scarab,0,11,50,5,Bonus,"Symbol of the Egyptian Royal Guard, a sacred beetle-shaped talisman crafted from various rare gemstones. It is said that the scarab propels the sun, so holding it feels like experiencing the scorching power emanating from within.",0
+3015,Scarlet Whispers,0,12,50,5,Bonus,My heart belongs to the little bear... and to you.,1
+3016,Lotus Lantern,0,13,50,5,Bonus,"If this long night persists, let me illuminate it for you.",1
+3017,4th Anniversary Souvenir,1,0,50,5,Bonus,4th Anniversary Celebration Miracle Card,1
+3018,Palace Beauty,0,14,50,5,Bonus,I long to meet you and share this endless time together.,1
+3019,Ancient Laurels,0,15,50,5,Bonus,"Come, I allow you to sit by my side.",1

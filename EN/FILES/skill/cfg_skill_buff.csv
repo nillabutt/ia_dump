@@ -1,6 +1,6 @@
 ﻿bid,buff_effect,lst_state,buff_anim,buff_trigger_anim,name,icon,info,show_name,stack_count_max
 9999,2,,,,首领,ShenLi,无视所有异常状态，能够无视异常抵抗的状态除外,Power of Leader,0
-66662211,2,,,,Mind of Resolute,,护盾,,0
+66662211,2,,,,Mind of Resolute,,Shield,,0
 66662311,2,,,,Mind of Bravery,,30%伤害,,0
 66663311,2,44,,,Strength of Tactician,,Class Effect increases by 50%,,0
 66663411,2,,,,Strength of Mastermind,,提升我方全体5%攻击力,,6
@@ -43,7 +43,7 @@
 160113111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
 160114111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
 160115111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
-170112111,2,,,,Divine Aura,,护盾,,0
+170112111,2,,,,Divine Aura,,Shield,,0
 170113111,2,,,,MC Halo,ZhuJue,"Respectively increases ATK, DEF, P.RES, M.RES and Debuff RES.(Neutral Status)",Attributes UP,0
 100102211,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 100105111,0,22,,,Shield Wall,TiaoXin,"In 2 rounds, reduce DMG by 60% and taunts the enemy","Taunt, DMG Taken DOWN",0
@@ -459,7 +459,7 @@
 127401112,0,38,,,魅惑-狂乱烙印（隐藏）,,,,0
 127402113,0,37,,,Mercy-Blessing Kiss,ShenJuan,Resist Damage Once,Resist Damage,0
 127402114,0,27,,,Mercy-Blessing Kiss,ShenJuan,Be Immune From Debuff,Debuff Immunity,0
-137402113,0,,,,护盾,,,,0
+137402113,0,,,,Shield,,,,0
 137401111,1,41|102,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 137401112,0,40,,,魅惑-迷乱魔纹（隐藏）,,,,0
 147401111,1,41|104,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
@@ -476,6 +476,13 @@
 157501211,2,68,,,免死CD-毁灭化身,,,,0
 157502211,2,,,,攻击力-毁灭化身,,,,0
 157502311,0,,,,属性增加-毁灭化身,,,,2
+167501211,2,,,,Raijin - Thunderous Strike,LeiYu,retaliate against enemy when taking DMG,Counterattack,0
+167531111,0,,,,护盾-天雷碎击,,,,0
+167531211,2,,,,Raijin - Thunderous Strike,LeiYu,retaliate against enemy when taking DMG,Counterattack,0
+167541111,0,,,,护盾-天雷碎击,,,,0
+167541211,2,,,,Raijin - Thunderous Strike,LeiYu,retaliate against enemy when taking DMG,Counterattack,0
+167551111,0,,,,护盾-天雷碎击,,,,0
+167551211,2,,,,Raijin - Thunderous Strike,LeiYu,retaliate against enemy when taking DMG,Counterattack,0
 117601211,1,,,,Blind-Phantom Spell,ZhiMang,Decrease ACC Value,ACC DOWN,0
 117601311,0,20,,,Invisibility-Phantom Spell,YinShen,Immune from individual skills,Immune from individual skills,0
 127601211,1,,,,Blind-The Art of Invisibility,ZhiMang,Decrease ACC Value,ACC DOWN,0
@@ -525,15 +532,15 @@
 128101311,1,,,,Weaken - Divine Judgment,XuRuo,ATK reduced by 20% of Horus's ATK,ATK DOWN,5
 128101411,1,,,,DMG Reduced,ShenYuan,DMG Reduced,DMG Reduced,0
 128102011,2,56,,,转护盾,,,,0
-128102211,0,,,,护盾,,,,0
+128102211,0,,,,Shield,,,,0
 138101211,0,52,,,Judgment - Judgment Claw,ShenPan,"When defeated, decreases the target's ATK by 15% of Horus's Max ATK and 5% of the target's current ATK.",Reduce ATK of the Killer,0
 138101311,1,,,,Weaken - Judgment Claw,XuRuo,ATK reduced by 15% of Horus's ATK and 5% of self ATK,ATK DOWN,3
-138102311,0,,,,护盾,,,,0
+138102311,0,,,,Shield,,,,0
 148101211,0,54,,,UR Judgment - Divine Judgment,ShenPan,"When defeated, decreases the target's ATK by 20% of Horus's Max ATK and 5% of the target's current ATK.",Reduce ATK of the Killer,0
 148101311,1,,,,Weaken - Divine Judgment,XuRuo,ATK reduced by 20% of Horus's ATK and 5% of self ATK,ATK DOWN,5
 148102011,2,57,,,转护盾,,,,0
-148102211,0,,,,护盾,,,,0
-148102311,0,,,,护盾,,,,0
+148102211,0,,,,Shield,,,,0
+148102311,0,,,,Shield,,,,0
 158101111,2,58,,,Vengeance - Avenging Angel,FuChou,"When defeated, enters the soul state.(Neutral Status)",Act in the state of a soul when receiving fatal damage,0
 158102111,0,,,,复仇-属性加成,,属性增加,Attributes UP,0
 158102211,2,10,FCTS_hit,,Bleed,,,Unable to recover HP,0
@@ -552,7 +559,7 @@
 128201611,1,1,,,Stun - Waltz of Thorns,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 128201711,1,4,,,Freeze - Waltz of Thorns,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
 138201011,2,,,,Ignore Debuff RES,,,Ignore Debuff RES,0
-138202211,0,,,,护盾,,,,0
+138202211,0,,,,Shield,,,,0
 158201111,1,65,,,Isolated - Heartless Cage,GuLi,Cannot receive any buffs,Cannot receive buffs,0
 158202111,1,,,,Malediction - Heartless Cage,CuiRuo,Increases DMG taken by 1% for each layer,DMG UP,999
 168201111,1,65,,,Isolated - Ethereal Echo,GuLi,Cannot receive any buffs,Cannot receive buffs,0
@@ -581,6 +588,7 @@
 168621111,0,85,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 10% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 168641111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 168651111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
+168600011,2,,,,复活后标记,,,,0
 128701211,2,91,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 148701211,2,91|92,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 158701111,2,91|92,,,Lock - Scorching Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
@@ -618,4 +626,4 @@
 77778112,2,,,,队友buff,,队友buff,,999
 77778211,2,,,,自身debuff,,自身debuff,,0
 77778212,2,,,,队友buff,,队友buff,,999
-77779211,0,,,,护盾,,,,0
+77779211,0,,,,Shield,,,,0

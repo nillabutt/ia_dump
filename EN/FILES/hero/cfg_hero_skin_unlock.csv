@@ -383,6 +383,7 @@ id,collect_id,is_activity_charge,hide_in_normal_charge,avatar_name,spine_name,re
 102075001,104,0,0,Sacred Palace,ZS_HS,YKLS0,2075_HS.png,,2049_0.png,2075_HS.jpg,2049.jpg,1,6,2075,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,zs,hero_zs,4,1,,img_hunsha_bg,0
 102075200,102,0,0,Supreme Deity- Zeus,ZS_UR,YKLS0,2075_UR.png,,2049_0.png,2075_UR.jpg,2049.jpg,1,6,2075,0,0,3:1:100|3:22:450,6,0,,,Divine Awakening,0,zs_ur,hero_zs_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102075300,102,0,0,Carefree Enchantment - Zeus,ZS_UR_PLUS,YKLS0,2075_UR_PLUS.png,,2049_0.png,2075_UR_PLUS.jpg,2049.jpg,1,6,2075,0,0,3:1:100|3:22:450,8,0,,,Wonder Waken,0,zs_ur,hero_zs_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
+102075368,102,0,0,Divine Covenant - Zeus,ZS_MR,YKLS0,2075_MR.png,,2049_0.png,2075_MR.jpg,2049.jpg,1,6,2075,0,0,3:1:100|3:22:450,9,0,,,Wonder Waken,0,zs_ur,hero_zs_ur,4,1,PanDuoLaShenMiao,img_job_bg_1,1
 102076000,0,0,0,Loki,LJ0,YKLS0,2076_0.png,,2049_0.png,2076.jpg,2049.jpg,0,2,2076,1,0,0,0,0,,111|1,Default,0,lj,hero_lj,4,1,PanDuoLaShenMiao,img_job_bg_1,0
 102076001,104,0,0,Sacred Palace,LJ_HS,YKLS0,2076_HS.png,,2049_0.png,2076_HS.jpg,2049.jpg,1,6,2076,0,0,3:1:100|3:22:450,2:3000148:1,0,,,Vow to obtain,0,lj,hero_lj,4,1,,img_hunsha_bg,0
 102076008,0,1,0,Maiden Gala Master,LJ_NP,YKLS0,2076_NP.png,,2049_0.png,2076_NP.jpg,2049.jpg,1,6,2076,0,0,3:1:100|3:22:450,5:10059:10060,0,,,Buy,1,lj,hero_lj,4,1,PanDuoLaShenMiao,img_job_bg_1,1
