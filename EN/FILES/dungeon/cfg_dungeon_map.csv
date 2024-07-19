@@ -1,81 +1,85 @@
-dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide
-1,Seoul,00078_bg_memory_bg_memory.png,0,0
-2,Tokyo,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200101,0
-3,Athens,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200102,1
-4,Sparta,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200103,0
-5,The Great Pyramid,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200104,0
-6,The Nile,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200105,0
-7,Hell,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200106,1
-8,Scarlet Castle,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200107,0
-9,Asgard,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200108,0
-10,Purgatory,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200109,0
-11,Nuwa Palace,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200110,1
-12,Kunlun Mountains,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200111,0
-13,Godban Gorge,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200112,1
-14,God Valley,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200113,0
-15,Abyss,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200114,0
-16,Shadow Sea,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200115,0
-17,Milan,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200116,1
-18,Rome,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200117,0
-19,Sicily,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200118,0
-20,Napoli,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200119,0
-21,Realm,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200120,1
-22,Aegean Sea,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200121,0
-23,Kefalonia,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200122,0
-24,Volcano,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200123,0
-25,Sky City,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200124,1
-26,Spirit Canyon,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200125,0
-27,Snowland,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200126,0
-28,Temple,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200127,0
-29,Mississippi,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200128,1
-30,Alabama,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200129,0
-31,Bermuda,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200130,0
-32,Seabed,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200131,0
-33,Babylon,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200132,1
-34,Caspian,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200133,0
-35,Sacred land,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200134,0
-36,Shrine,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200135,0
-37,Kilimanjaro,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200136,1
-38,East African Rift Valley,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200137,0
-39,Crimson Sea,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200138,0
-40,sahara desert,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200139,0
-41,Novosibirsk,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200140,1
-42,Saint Petersburg,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200141,0
-43,Lake Baikal,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200142,0
-44,Yekaterinburg,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200143,0
-45,Chukchi,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200144,1
-46,Wales,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200145,0
-47,Tera,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200146,0
-48,Nome,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200147,0
-49,Savoonga,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200148,1
-50,Stebbins,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200149,0
-51,Emmonak,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200150,0
-52,Hooper Bay,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200151,0
-53,Huston,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200152,1
-54,Miami,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200153,0
-55,Mexico City,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200154,0
-56,Tulum,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200155,0
-57,Havana,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200156,1
-58,Managua,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200157,0
-59,Portland,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200158,0
-60,Port-au-Prince,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200159,0
-61,Lisbon,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200160,1
-62,Madrid,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200161,0
-63,Rabat,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200162,0
-64,Algiers,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200163,0
-65,Zambia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200164,1
-66,Mozambique,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200165,0
-67,South Africa,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200166,0
-68,Madagascar,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200167,0
-69,Somalia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200168,1
-70,Uganda,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200169,0
-71,Kenya,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200170,0
-72,Tanzania,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200171,0
-73,Djibouti,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200172,1
-74,Saudi Arabia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200173,0
-75,Yemen,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200174,0
-76,Oman,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200175,0
-77,Tunisia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200176,1
-78,Morocco,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200177,0
-79,Portugal,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200178,0
-80,Spain,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200179,0
+dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
+1,Seoul,00078_bg_memory_bg_memory.png,0,0,0
+2,Tokyo,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200101,0,0
+3,Athens,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200102,1,0
+4,Sparta,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200103,0,0
+5,The Great Pyramid,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200104,0,0
+6,The Nile,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200105,0,0
+7,Hell,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200106,1,0
+8,Scarlet Castle,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200107,0,0
+9,Asgard,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200108,0,0
+10,Purgatory,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200109,0,0
+11,Nuwa Palace,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200110,1,0
+12,Kunlun Mountains,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200111,0,0
+13,Godban Gorge,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200112,1,0
+14,God Valley,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200113,0,0
+15,Abyss,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200114,0,0
+16,Shadow Sea,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200115,0,0
+17,Milan,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200116,1,0
+18,Rome,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200117,0,0
+19,Sicily,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200118,0,0
+20,Napoli,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200119,0,0
+21,Realm,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200120,1,0
+22,Aegean Sea,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200121,0,0
+23,Kefalonia,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200122,0,0
+24,Volcano,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200123,0,0
+25,Sky City,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200124,1,0
+26,Spirit Canyon,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200125,0,0
+27,Snowland,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200126,0,0
+28,Temple,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200127,0,0
+29,Mississippi,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200128,1,0
+30,Alabama,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200129,0,0
+31,Bermuda,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200130,0,0
+32,Seabed,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200131,0,0
+33,Babylon,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200132,1,0
+34,Caspian,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200133,0,0
+35,Sacred land,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200134,0,0
+36,Shrine,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200135,0,0
+37,Kilimanjaro,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200136,1,0
+38,East African Rift Valley,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200137,0,0
+39,Crimson Sea,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200138,0,0
+40,sahara desert,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200139,0,0
+41,Novosibirsk,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200140,1,0
+42,Saint Petersburg,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200141,0,0
+43,Lake Baikal,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200142,0,0
+44,Yekaterinburg,00077_bg_jiangyin_memory_bg_jiangyin_memory.png,200143,0,0
+45,Chukchi,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200144,1,0
+46,Wales,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200145,0,0
+47,Tera,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200146,0,0
+48,Nome,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200147,0,0
+49,Savoonga,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200148,1,0
+50,Stebbins,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200149,0,0
+51,Emmonak,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200150,0,0
+52,Hooper Bay,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200151,0,0
+53,Huston,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200152,1,0
+54,Miami,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200153,0,0
+55,Mexico City,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200154,0,0
+56,Tulum,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200155,0,0
+57,Havana,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200156,1,0
+58,Managua,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200157,0,0
+59,Portland,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200158,0,0
+60,Port-au-Prince,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200159,0,0
+61,Lisbon,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200160,1,0
+62,Madrid,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200161,0,0
+63,Rabat,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200162,0,0
+64,Algiers,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200163,0,0
+65,Zambia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200164,1,0
+66,Mozambique,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200165,0,0
+67,South Africa,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200166,0,0
+68,Madagascar,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200167,0,0
+69,Somalia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200168,1,0
+70,Uganda,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200169,0,0
+71,Kenya,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200170,0,0
+72,Tanzania,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200171,0,0
+73,Djibouti,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200172,1,0
+74,Yemen,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200173,0,0
+75,Saudi Arabia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200174,0,0
+76,Oman,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200175,0,0
+77,Tunisia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200176,1,0
+78,Morocco,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200177,0,0
+79,Portugal,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200178,0,0
+80,Spain,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200179,0,0
+81,Romania,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200180,1,0
+82,Serbia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200181,0,0
+83,Bulgaria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200182,0,1
+84,Austria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200183,0,1

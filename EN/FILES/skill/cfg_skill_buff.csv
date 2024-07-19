@@ -10,8 +10,8 @@
 66665111,2,45,,,Law of Eternity,,免疫死亡,,0
 66665211,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,,0
 66665411,2,,,,吸血-协调之律,,增加吸血,,0
-66665412,2,,,,增伤-协调之律,,伤害增加,,0
-999911111,2,,,,输出1,,伤害增加,,2
+66665412,2,,,,增伤-协调之律,,DMG Increase,,0
+999911111,2,,,,输出1,,DMG Increase,,2
 999913111,2,,,,输出3,,增加攻击、吸血,,3
 999923111,2,,,,肉3,,增加防御、伤害反弹,,3
 999941111,2,,,,奶1,,受到攻击治疗,,0
@@ -427,6 +427,8 @@
 136801411,0,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
 146801411,0,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
 156802111,0,27,,,God of War - Gale Lance,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
+166841111,2,59,,,必定暴击,,,,0
+166851111,2,59,,,必定暴击,,,,0
 117001211,1,8,,,Sunder Armor-Fierce Tiger Roar,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
 117001311,1,1,,,Stun-Fierce Tiger Roar,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 117002111,0,15,,,Excite-Tiger with Wings,FenFa,"Increase ATK, Crit, Crit DMG by 25% for 3 rounds","ATK, CRIT, CRIT DMG UP",0
@@ -444,6 +446,15 @@
 157101311,2,,,,Capricorn - Radiant Starsoul,MoJie,"When receiving damage, heal all allies except herself and increase their DEF. The excess healing will increase the target’s Max HP until the end of the battle.",Heal allies when taking DMG,0
 157101313,2,,,,Capricorn - Radiant Starsoul,,提升防御,DEF UP,0
 157101411,2,42,,,Capricorn - Radiant Starsoul,,易伤,DMG UP,0
+167101111,2,96,,,Illusory Dream - Illusory Healing,HuanMeng,Restore HP when taking damage and increase energy gain from taking damage.,Healing from DMG|Increased energy gain from DMG,0
+167121111,2,96,,,Illusory Dream - Illusory Healing,HuanMeng,"Restore HP when taking damage, increase energy gain from taking damage, and reduce the first instance of damage taken.",Healing from DMG|Increased energy gain from DMG,0
+167121211,2,98,,,Illusory Dream - Illusory Healing,,首次受到伤害降低,,0
+167131111,2,97,,,Illusory Dream - Illusory Healing,HuanMeng,"Restore HP when taking damage, increase energy gain from taking damage, and reduce the first instance of damage taken.",Healing from DMG|Increased energy gain from DMG,0
+167131211,2,98,,,Illusory Dream - Illusory Healing,,首次受到伤害降低,,0
+167141111,2,97,,,Illusory Dream - Illusory Healing,HuanMeng,"Restore HP when taking damage, increase energy gain from taking damage, and reduce the first instance of damage taken.",Healing from DMG|Increased energy gain from DMG,0
+167141211,2,98,,,Illusory Dream - Illusory Healing,,首次受到伤害降低,,0
+167151211,2,97,,,Illusory Dream - Illusory Healing,HuanMeng,"Restore HP when taking damage, increase energy gain from taking damage, and reduce the first instance of damage taken.",Healing from DMG|Increased energy gain from DMG,0
+167151311,2,98,,,Illusory Dream - Illusory Healing,,首次受到伤害降低,,0
 117301111,1,36,,,Slumber-Drowning Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
 127301111,1,36,,,Slumber-Abyss Nightmare,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
 127302111,1,36,,,Slumber-Cold-blooded Eyes,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0

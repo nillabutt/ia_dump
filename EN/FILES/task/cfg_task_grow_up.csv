@@ -105,3 +105,7 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200087,4,1,200001,103,200086,3,5560,5:3000027:10,Level Up Achievements,Complete all dungeons in Morocco,,4
 200088,4,1,200001,104,200087,3,5660,5:3000027:10,Level Up Achievements,Complete all dungeons in Portugal,,4
 200089,4,1,200001,105,200088,3,5760,5:3000027:10,Level Up Achievements,Complete all dungeons in Spain,,4
+200090,4,1,200001,106,200089,3,5860,5:3000027:10,Level Up Achievements,Complete all dungeons in Romania,,4
+200091,4,1,200001,107,200090,3,5960,5:3000027:10,Level Up Achievements,Complete all dungeons in Serbia,,4
+200092,4,1,200001,108,200091,3,6060,5:3000027:10,Level Up Achievements,Complete all dungeons in Bulgaria,,4
+200093,4,1,200001,109,200092,3,6160,5:3000027:10,Level Up Achievements,Complete all dungeons in Austria,,4

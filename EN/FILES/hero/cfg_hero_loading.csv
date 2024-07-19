@@ -49,3 +49,7 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 148,img_loading_hls_MR.png,Frenzied Nocturne - Horus,-110,540,0.75,HLS_MR,0,LOADING.jpg,2081,0,1
 149,img_loading_plmxs_UR_plus.png,Mirror Fragrance - Prometheus,-90,610,0.7,PLMXS_UR_PLUS,0,LOADING.jpg,2087,1,0
 150,img_loading_plmxs_MR.png,Radiant Queen - Prometheus,-110,360,0.71,PLMXS_MR,0,LOADING.jpg,2087,0,1
+151,img_loading_ydn_UR_plus.png,Wings of War - Athena,-90,280,0.88,YDN_UR_PLUS,0,LOADING.jpg,2069,1,0
+152,img_loading_ydn_MR.png,Holiday Aura - Athena,0,400,0.8,YDN_MR,0,LOADING.jpg,2069,0,1
+153,img_loading_mjz_UR_plus.png,Aqua Starlight - Capricornus,-90,610,0.77,MJZ_UR_PLUS,0,LOADING.jpg,2071,1,0
+154,img_loading_mjz_MR.png,Summer Mirage - Capricornus,-110,420,0.78,MJZ_MR,0,LOADING.jpg,2071,0,1
