@@ -427,6 +427,7 @@
 136801411,0,,,,God of War EX-Pure Sacred Body,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
 146801411,0,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
 156802111,0,27,,,God of War - Gale Lance,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
+166801311,2,680,,,斩杀cd,,,,0
 166841111,2,59,,,必定暴击,,,,0
 166851111,2,59,,,必定暴击,,,,0
 117001211,1,8,,,Sunder Armor-Fierce Tiger Roar,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
@@ -464,6 +465,11 @@
 157301211,1,1,,,Nightmare - Phantom Nightmare,,,,0
 157301311,1,42,,,Nightmare - Phantom Nightmare,,易伤,DMG UP,0
 157301411,2,70,,,噩梦CD-惊梦魅影,,,,0
+167301111,1,1,,,噩梦-噩梦缚攻,EMeng,Unable to move,Unable to move,0
+167321111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低50%,无法行动|回能效率降低,0
+167331111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低50%，受到伤害提升30%,无法行动|回能效率降低|受伤提升,0
+167341111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低75%，受到伤害提升30%,无法行动|回能效率降低|受伤提升,0
+167351111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低100%，受到伤害提升50%,无法行动|回能效率降低|受伤提升,0
 117401111,1,39|101,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 117401112,0,38,,,魅惑-迷乱魔纹（隐藏）,,,,0
 127401111,1,39|103,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0

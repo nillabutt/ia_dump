@@ -81,5 +81,5 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
 80,Spain,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200179,0,0
 81,Romania,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200180,1,0
 82,Serbia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200181,0,0
-83,Bulgaria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200182,0,1
-84,Austria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200183,0,1
+83,Bulgaria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200182,0,0
+84,Austria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200183,0,0

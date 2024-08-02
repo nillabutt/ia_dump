@@ -386,3 +386,4 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 330100,0,0,0,0.5,0|0,↓,56|333,The system-provided angels will join your adventure squad.,WareGameInitHeroUIDialog(Clone)|Button_confirm,,,0,0,0
 330101,0,0,0,0.5,0|0,↓,56|333,Tap to head ahead and start your adventure.,WareGameUIScene(Clone)|WareGameRunningPanelUITpl|Bottom|Button_continue,,,0,0,0
 330102,0,0,0,0.5,0|0,↓,56|333,Deploy your angels and prepare for battle.,WareGameUIScene(Clone)|WareGameRunningPanelUITpl|WareGameTriggerNpcUITpl|Button_click,,,0,0,0
+331001,0,1,0,0.5,0|0,↓,-317|296,Meteor Trial are now open. Click to switch challenges.,TrialUIScene(Clone)|Root|GameObject_diff_select|Switch_button,,,0,0,0
