@@ -65,11 +65,11 @@ cid,default_super_common_skill_index,des,name,is_advance,is_super,is_mr,skin_cid
 2065,0|0|2|2|1|0,Group M.DMG Output\nShield Breaker,Gemini,1,1,1,102065368
 2067,0|0|2|2|1|0,Multi-hit Single-target Output\nCounter High-HP Enemies,Chang'e,1,1,1,102067368
 2068,0|1|1|3|2|0,"Buff Allies, Debuff Enemies\nEnergy Drain",Asura,1,1,1,102068368
-2069,0|0|2|2|1|0,Single-target Execution\nIgnore Mechanics,Athena,1,1,1,102069300
+2069,0|0|2|2|1|0,Single-target Execution\nIgnore Mechanics,Athena,1,1,1,102069368
 2070,,ACTIVITY_SUMMON_DESC_57,Zodiac Tiger,0,0,0,102070000
-2071,0|1|1|3|2|0,Group Healing\nIncrease Max HP,Capricornus,1,1,1,102071300
+2071,0|1|1|3|2|0,Group Healing\nIncrease Max HP,Capricornus,1,1,1,102071368
 3072,,,SP Gabriel,0,0,0,103072000
-2073,0|1|1|0|2|0,Unique Sleep Control,Pisces,1,1,0,102073300
+2073,0|1|1|0|2|0,Unique Sleep Control,Pisces,1,1,1,102073300
 2074,0|1|1|3|2|0,DMG Mitigation\nReduce Enemy Regeneration,Venus,1,1,0,102074300
 2075,0|0|1|3|1|0,"Low HP, Boost ATK\nHigh Burst AoE DMG",Zeus,1,1,1,102075368
 2076,0|1|1|3|2|0,Group Buff\nDispel Enemy Buffs,Loki,1,1,1,102076368

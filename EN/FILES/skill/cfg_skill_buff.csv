@@ -465,11 +465,19 @@
 157301211,1,1,,,Nightmare - Phantom Nightmare,,,,0
 157301311,1,42,,,Nightmare - Phantom Nightmare,,易伤,DMG UP,0
 157301411,2,70,,,噩梦CD-惊梦魅影,,,,0
-167301111,1,1,,,噩梦-噩梦缚攻,EMeng,Unable to move,Unable to move,0
-167321111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低50%,无法行动|回能效率降低,0
-167331111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低50%，受到伤害提升30%,无法行动|回能效率降低|受伤提升,0
-167341111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低75%，受到伤害提升30%,无法行动|回能效率降低|受伤提升,0
-167351111,1,1,,,噩梦-噩梦缚攻,EMeng,无法行动，回能效率降低100%，受到伤害提升50%,无法行动|回能效率降低|受伤提升,0
+167300111,2,70,,,噩梦CD-梦魇囚笼,,,,0
+167300211,1,1,,,眩晕-梦魇囚笼,EMeng,Unable to move,Unable to move,0
+167300311,2,730,,,眩晕CD-梦魇囚笼,,,,0
+167301111,1,36,,,[Slumber] - Nightmare Cage,ShuiMian,Unable to move,Unable to move,0
+167301211,1,,,,[Drowsy] - Nightmare Cage,MengYan,Reduce buffs effect,Reduce buffs effect,0
+167321111,1,36,,,[Slumber] - Nightmare Cage,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+167321211,1,,,,[Drowsy] - Nightmare Cage,MengYan,Reduce buffs effect,Reduce buffs effect,0
+167331111,1,36,,,[Slumber] - Nightmare Cage,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+167331211,1,,,,[Drowsy] - Nightmare Cage,MengYan,Reduce buffs effect and increase damage taken,Buff effect reduced | Damage taken increased,0
+167341111,1,36,,,[Slumber] - Nightmare Cage,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+167341211,1,,,,[Drowsy] - Nightmare Cage,MengYan,Reduce buffs effect and increase damage taken,Buff effect reduced | Damage taken increased,0
+167351111,1,36,,,[Slumber] - Nightmare Cage,ShuiMian,"Cannot attack. After being attacked, the enemy can remove the state of [Slumber].",Unable to move (Removed after being attacked),0
+167351211,1,,,,[Drowsy] - Nightmare Cage,MengYan,Reduce buffs effect and increase damage taken,Buff effect reduced | Damage taken increased,0
 117401111,1,39|101,,,Enchant-Intricate Pattern,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
 117401112,0,38,,,魅惑-迷乱魔纹（隐藏）,,,,0
 127401111,1,39|103,,,Enchant-Frenzied Imprint,MeiHuo,"Damage divided equally, reduce recovering HP effect",Share DMG; Recovery DOWN,0
@@ -538,6 +546,8 @@
 157801111,2,74,,,阿波罗标记,,,,0
 157802111,1,,,,Heartburn - Blazing Star,ZhuoXin,Recieves a certain amount of DMG for each round,Heartburn,999
 157803101,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+167800011,2,1,,,晕眩-烈焰炽星,,,,0
+167800111,2,10|27,XYZX_buff,,超新星-烈焰炽星,HengXing,持续到战斗结束,超新星,99
 117901211,0,,,,护盾-旋樱舞步,,1回合增加樱花妖最大攻击100%的不可驱散护盾,,0
 117902211,0,,,,护盾-樱花飞舞,,1回合增加樱花妖最大攻击70%的不可驱散护盾,,0
 117902311,0,19,,,Charge - Sakura Flurry,XuLi,[Charge] increases target's ATK by 50% of Sakura Spirit’s ATK for 2 rounds.,ATK UP,0

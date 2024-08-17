@@ -54,4 +54,6 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 153,img_loading_mjz_UR_plus.png,Aqua Starlight - Capricornus,-90,610,0.77,MJZ_UR_PLUS,0,LOADING.jpg,2071,1,0
 154,img_loading_mjz_MR.png,Summer Mirage - Capricornus,-110,420,0.78,MJZ_MR,0,LOADING.jpg,2071,0,1
 155,img_loading_syz_UR_plus.png,Galaxy Dancer - Pisces,-140,500,0.7,SYZ_UR_PLUS,0,LOADING.jpg,2073,1,0
-156,img_loading_syz_MR.png,xxxx-双鱼座,-130,420,0.76,SYZ_MR,0,LOADING.jpg,2073,0,1
+156,img_loading_syz_MR.png,Abyssal Whimsy - Pisces,-130,420,0.76,SYZ_MR,0,LOADING.jpg,2073,0,1
+157,img_loading_abl_UR_plus.png,Luminous Lyre-Apollo,-140,630,0.74,ABL_UR_PLUS,0,LOADING.jpg,2078,1,0
+158,img_loading_abl_MR.png,Sunny Afternoon - Apollo,-100,560,0.76,ABL_MR,0,LOADING.jpg,2078,0,1

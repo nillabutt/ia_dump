@@ -3546,7 +3546,7 @@ LEVEL_OPEN__AREAN_INFO,Level Buka
 FAST_FIGHT_COUNT_MAX,Max Jatah Battle Cepat
 Jumlah jatah Battle yg dapat dibeli setiap hari <color=#00FF00>0</color> \nJumlah jatah Tantang BOSS yg dapat dibeli setiap hari <color=#00FF00>0</color> \nJumlah Koin yg dapat dibeli setiap hari <color=#00FF00>0</color> \nEkstra slot Item Tingkat tinggi di Toko <color=#00FF00>0</color> \nMaks Train Angel <color=#00FF00>xx Train</color> \nAuto Ikut World/Guild BOSS Gratis <color=#00FF00>Buka</color>,
 Jumlah jatah Battle Cepat yg dapat dibeli setiap hari <color=#00FF00>2</color>\nJumlah jatah Tantang BOSS yg dapat dibeli setiap hari <color=#00FF00>1</color> \nJumlah Koin yg dapat dibeli setiap hari <color=#00FF00>3</color> \nMaks Train Angel <color=#00FF00>Train Tingkat Tinggi</color> \nJatah Adventure Angel <color=#00FF00>2</color>\nSlot Item Tingkat tinggi di Toko <color=#00FF00>0</color>,
-Jumlah jatah Battle Cepat yg dapat dibeli setiap hari <color=#00FF00>4</color>\nJumlah jatah Tantang BOSS yg dapat dibeli setiap hari <color=#00FF00>2</color> \nJumlah Koin yg dapat dibeli setiap hari <color=#00FF00>6</color> \nMaks Train Angel <color=#00,
+Jumlah jatah Battle Cepat yg dapat dibeli setiap hari <color=#00FF00>4</color>\nJumlah jatah Tantang BOSS yg dapat dibeli setiap hari <color=#00FF00>2</color> \nJumlah Koin yg dapat dibeli setiap hari <color=#00FF00>6</color> \nMaks Train Angel <color=#00FF00>1</color>,
 Sentuh di sini untuk Summon,
 Sentuh untuk Summon,
 Sentuh untuk ke antarmuka Angel,
@@ -4475,7 +4475,7 @@ Scroll yang digunakan untuk ditukar dengan kostum tingkat tinggi \n10 Appearance
 Scroll yang digunakan untuk ditukar dengan kostum platinum,
 Berhasil buka,
 Berhasil Level Up,
-"Saat formula berikut terpenuhi, otomatis menghapus hasil Train kali ini\nPerubahan Atribut Utama x <color=#ff0>Prioritas</color> + Perubahan Atribut Lainnya < 0",
+"Saat formula berikut terpenuhi, otomatis menghapus hasil Train kali ini\nPerubahan Atribut Utama x <color=#FFFF00>Prioritas</color> + Perubahan Atribut Lainnya < 0",
 Pindahkan Atribut Artefak,
 TRIAL_STAGE_CLEAR,Tingkat kesulitan ini sudah selesai. Sentuh tombol [Reset] di bawah untuk memilih ulang tingkat kesulitan!
 TRIAL_REFRESH_COUNT_MAX_VIP_0_5,Jatah reset sudah habis. VIP 6 ke atas memiliki 1x jatah reset tambahan setiap hari
@@ -4484,7 +4484,7 @@ TRIAL_DIFFICULTY_1,Mudah
 TRIAL_DIFFICULTY_2,Ketua
 TRIAL_DIFFICULTY_3,Nightmare
 TRIAL_DIFFICULTY_4,Neraka
-TRAIN_SETTING_DESC,"Saat formula berikut terpenuhi, otomatis menghapus hasil Train kali ini\nPerubahan Atribut Utama x <color=#ff0>Prioritas</color> + Perubahan Atribut Lainnya < 0"
+TRAIN_SETTING_DESC,"Saat formula berikut terpenuhi, otomatis menghapus hasil Train kali ini\nPerubahan Atribut Utama x <color=#FFFF00>Prioritas</color> + Perubahan Atribut Lainnya < 0"
 Permintaan Teman sudah dikirim,
 FRIEND_REQUEST_REPEAT,Sudah mengirim Permintaan Teman
 NOTICE_10001001,Orang yang sangat beruntung!  <color=#25c1e9>{0}</color> mendapatkan <color=#FF3838FF>{1}</color> !
@@ -12848,6 +12848,7 @@ Membuka seluruh Lucky Box pasti akan mendapatkan semua hadiah,
 Pratinjau hadiah,
 Sudah mendapatkannya,
 Hadiah Tahun Baru,
+Setelah melewati Instance Dungeon2-7 membuka akses SPEED UP 2x,
 Setelah melewati Instance Dungeon2-7 membuka akses SPEED UP 2x,
 "Malam bersalju yang romantis, menunggu kejutan ketika kamu membuka hadiah!",
 player,Kar. Utama
