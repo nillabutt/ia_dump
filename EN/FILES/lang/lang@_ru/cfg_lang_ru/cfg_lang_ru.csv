@@ -99,7 +99,7 @@ HIGH_QUALITY_RATE,
 ARMOR_ATTR_PART1,
 ARMOR_ATTR_PART1_ITEM,<size=25><color=#FFFFFF>{text}</color></size>
 ARMOR_ATTR_PART2,
-ARMOR_ATTR_PART2_ITEM,<size=25><color=#FF882C>{text}</color></size>
+ARMOR_ATTR_PART2_ITEM,<size=25><color=#FFBF72>{text}</color></size>
 ARMOR_ATTR_PART3,
 ARMOR_ATTR_PART3_ITEM,<size=25><color=#FF0000>{text}</color></size>
 TIME_SECOND,
@@ -9688,7 +9688,7 @@ ACTIVITY_HOLIDAY_EXCHANGE_COIN_CONTENT,
 ,
 ,
 ,
-week_title,<color=#E63512><size=34>3000%</size> </color> <color=#4B2217> <size=34>Rebate</size> </color>
+week_title,<color=#F37C4C><size=34>3000%</size> </color> <color=#926655> <size=34>Rebate</size> </color>
 week_jindu,
 week_content,
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,

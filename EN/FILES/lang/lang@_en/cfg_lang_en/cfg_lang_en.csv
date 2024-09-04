@@ -25,7 +25,7 @@ DUPLICATE_NAME,Name is taken
 ILLEGAL_NAME_LENGTH,Invalid Name Length
 ILLEGAL_NAME,The name includes invalid characters
 PASSPORT_CANT_BE_NULL,Account cannot be blank
-CONFIRM_REPLACE_ARMOR,"You have already worn one gear, do you want to wear it <color=#00ff00>{name}</color>?"
+CONFIRM_REPLACE_ARMOR,"You have already worn one gear, do you want to wear it <color=#00FF00>{name}</color>?"
 USER_LEVEL_INVALID,Invalid Level
 ARMOR_SCORE_FORMAT,Eqpt. Score: {score}
 ARMOR_LEVEL_FORMAT,Eqpt. Lv.: {level}
@@ -99,14 +99,14 @@ HIGH_QUALITY_RATE,Gears Drop
 ARMOR_ATTR_PART1,<size=30><color=#FFFF00>Basic Attributes:</color></size>
 ARMOR_ATTR_PART1_ITEM,<size=25><color=#FFFFFF>{text}</color></size>
 ARMOR_ATTR_PART2,<size=30><color=#FFFF00>Additional attributes:</color></size>
-ARMOR_ATTR_PART2_ITEM,<size=25><color=#FF882C>{text}</color></size>
+ARMOR_ATTR_PART2_ITEM,<size=25><color=#FFBF72>{text}</color></size>
 ARMOR_ATTR_PART3,<size=30><color=#FF0000>Artifact Attribute:</color></size>
 ARMOR_ATTR_PART3_ITEM,<size=25><color=#FF0000>{text}</color></size>
 TIME_SECOND,s
 TIME_MINUTE,m
 TIME_HOUR,h
 STRENGTHEN_LEVEL_MAX,Enhance Lv. cannot go higher than Player's Lv.
-CONFIRM_INHERIT_AND_REPLACE_ARMOR,"Do you want to inherit and replace it with <color=#00ff00>{name}</color>? (Enhance Lv., Artifact Attributes and Gems will be retained after inheritance)"
+CONFIRM_INHERIT_AND_REPLACE_ARMOR,"Do you want to inherit and replace it with <color=#00FF00>{name}</color>? (Enhance Lv., Artifact Attributes and Gems will be retained after inheritance)"
 ARMOR_FULL,Gear is Full
 HERO_FULL_IN_BATTLE,You have reached the max number of deployed Angels
 HERO_IN_ADVENTURE,"The Angel is in an Adventure, unable to fight"
@@ -145,8 +145,8 @@ BATTLE_REPORT_AWARD,Get {name}*{count}
 BATTLE_REPORT_SEARCH_ENEMY,Exploring
 BATTLE_REPORT_ROUND_BEGIN,Round {count} start
 ARENA_TARGET_USER_ERROR,Target player data error
-ARENA_REPORT_SUBTITLE_1,"Challenged by <color=#ffd43e>{0}</color>, and {1}. {2}"
-ARENA_REPORT_SUBTITLE_2,"Challenged <color=#ffd43e>{0}</color>, and {1}. {2}"
+ARENA_REPORT_SUBTITLE_1,"Challenged by <color=#FFEA86>{0}</color>, and {1}. {2}"
+ARENA_REPORT_SUBTITLE_2,"Challenged <color=#FFEA86>{0}</color>, and {1}. {2}"
 ARENA_RANK,Ranking
 CONFIRM_SIGN_UP_HONOR_ARENA,Are you sure you want to participate qualifying with current Line-up? You can't reset your Line-up in qualifying stage
 NOT_CHANGE,Unchanged
@@ -447,7 +447,7 @@ CHARGE_MONTH_FIRST_LABEL,First
 CHARGE_VIP_LV_TIPS,Purchase another {num} Diamonds to upgrade to VIP{viplv}
 VIP_BUBBLE_TEXT,Upgrade your VIP Level to get more privileges
 VIP_PRIVILEGE_TITLE,VIP {viplv} Privilege
-VIP_PRIVILEGE_CONTENT_1,Purchase a total of <color=#FFBA00>{num}</color> Diamonds and get <color=#FFBA00>VIP {viplv} </color> Privileges
+VIP_PRIVILEGE_CONTENT_1,Purchase a total of <color=#FFDC00>{num}</color> Diamonds and get <color=#FFDC00>VIP {viplv} </color> Privileges
 VIP_PRIVILEGE_CONTENT,
 VIP_PRIVILEGE_UNIT,hero_train_type_open:0:Standard:Advanced:Platinum:Supreme:Highest|skip_battle:Unavailable:Available
 VIP_GIFT_TITLE,hero_train_type_open:0:Standard:Advanced:Platinum:Supreme:Highest|skip_battle:Unavailable:Available|world_guild_boss_auto_join:Unavailable:Available
@@ -472,7 +472,7 @@ LOST_LANDS_MINE_NAME_9,Large Fine Iron Mine
 LOST_LANDS_MINE_NAME_10,Large Gold Mine
 LOST_LANDS_MINE_NAME_11,Large Gem Mine
 LOST_LANDS_MINE_NAME_12,Large Ruin
-LOST_LANDS_DEFENSE_INVITATION_MSG,I have just discovered <color=#E88E05>{mine_name}</color>! Tap here to mine it together and get {num}{reward_name} every {unit_time}!
+LOST_LANDS_DEFENSE_INVITATION_MSG,I have just discovered <color=#F4C32A>{mine_name}</color>! Tap here to mine it together and get {num}{reward_name} every {unit_time}!
 GUIDE_NEWBIE_UNKNOWN_BOSS_NAME,Unknown Boss
 GUIDE_NEWBIE_USER_NAME,Player
 SHOP_BUY_MAX,Purchase limit exceeded
@@ -547,7 +547,7 @@ GUILD_INPUT_GUILD_NAME,Please enter Guild Name
 SHOP_SCENE_BUBBLE_MYSTICAL,Refreshes at 12:00 & 18:00 everyday or when all items are bought. Higher Luck attribute leads to higher quality items.
 SHOP_SCENE_BUBBLE_COIN,Upgrade your VIP Level to increase daily purchase limits Tap [Buy All] to complete all purchases.
 SHOP_SCENE_BUBBLE_GEM,You can buy Gems with Gem Scrolls.Inserting gems to gear can increase gear Attributes
-SHOP_SCENE_BUBBLE_RUBY,Recharge Diamonds to get VIP EXP which can increase VIP Level.<color=#FA931AFF>(First recharge for double Diamonds refreshes on the 1st of every month)</color>
+SHOP_SCENE_BUBBLE_RUBY,Recharge Diamonds to get VIP EXP which can increase VIP Level.<color=#FCC65AFF>(First recharge for double Diamonds refreshes on the 1st of every month)</color>
 SHOP_SCENE_BUBBLE_SUMMON,Sapphire can be converted from Angel Shards. You can trade it for items in the Sapphire Store.
 PRODUCT_CANNOT_BE_PURCHASED_NOW,This item cannot be purchased currently
 WORLD_BOSS_ACTIVITY_TIME_END,You have missed the World Boss. Come again next time
@@ -591,7 +591,7 @@ ACTIVITY_ONLINE_RECEIVE_REPEAT,Repeat collection
 ACTIVITY_ONLINE_TIME_TIPS,Claimable in {0}
 STRONGER_TITLE,Exceeded <color=#00FFFFFF>{0}</color> players of the same level
 GET_DEBRIS,Get Shard
-GODDESS_BLESS_TIME_TIPS,Remaining: <color=#00FF56FF>{0}</color> day(s)
+GODDESS_BLESS_TIME_TIPS,Remaining: <color=#00FF9BFF>{0}</color> day(s)
 SERVER_TIME,Server time: {0}
 CHANGE_NAME_FREE_TIPS,Free for first time
 CHANGE_NAME_COST_TIPS,Changing costs {0}
@@ -1049,7 +1049,7 @@ Mystery,
 text text,Text text
 Next,
 SUMMON_TEN,Summon 10
-Purchase a total of <color=#FFBA00>{num}</color> Diamonds and get <color=#FFBA00>VIP {viplv} </color> Privileges,
+Purchase a total of <color=#FFDC00>{num}</color> Diamonds and get <color=#FFDC00>VIP {viplv} </color> Privileges,
 Confirm Selection,
 Adv. Auto-Combat,
 Auto-Join,
@@ -3561,69 +3561,69 @@ Tap to switch to Angel Screen,
 Tap on Angel avatar to adjust,
 Tap the gear which you want to enhance,
 Tap here to enhance,
-Tap here to set the Angel to <color=#C62416>[Fighting]</color>,
+Tap here to set the Angel to <color=#E36853>[Fighting]</color>,
 Tap here to enter the Battleground,
 Select the Weapon,
 ,
 Your Power has increased dramatically,
 Enter the Battleground,
-Reach over <color=#FA931AFF>80%</color> Win Rate to <color=#FA931AFF>challenge the Boss</color>,
+Reach over <color=#FCC65AFF>80%</color> Win Rate to <color=#FCC65AFF>challenge the Boss</color>,
 Defeat the Boss to unlock the next dungeon,
 Tap to challenge the Boss,
 Tap Awaken Board,
 Tap here repeatedly to send gifts to the Angel to increase Affinity Level,
 Reach required Star-Lv. to awake the Angel,
-Perform <color=#FA931AFF>Quick Combat</color> to get 2 hour earnings instantly (for free this time),
+Perform <color=#FCC65AFF>Quick Combat</color> to get 2 hour earnings instantly (for free this time),
 ,
 Select the gear you just equipped,
 Enhance your gear to further improve your Power!,
-Tap <color=#C62416>[Enhance]</color> Button to enhance,
-Tap <color=#FA931AFF>[Enhance]</color> button again to continue enhancing gears,
-Perform one last <color=#FA931AFF>[Enhancement]</color>,
+Tap <color=#E36853>[Enhance]</color> Button to enhance,
+Tap <color=#FCC65AFF>[Enhance]</color> button again to continue enhancing gears,
+Perform one last <color=#FCC65AFF>[Enhancement]</color>,
 Force tapping the close gear button,
 Force tapping the return button,
 The next dungeon is unlocked after defeating the Boss. Tap here to switch map,
 Tap to enter the new unlocked dungeon,
 Force the player to tap [Begin Idling Button],
-Bag is full. Gear <color=#C62416>smelting</color> recommended.,
-There are some unnecessary gear. It is recommended to carry out gear <color=#C62416>smelting</color>.,
-New <color=#C62416>Skill</color> Unlocked,
+Bag is full. Gear <color=#E36853>smelting</color> recommended.,
+There are some unnecessary gear. It is recommended to carry out gear <color=#E36853>smelting</color>.,
+New <color=#E36853>Skill</color> Unlocked,
 Tap to view the skills,
 Tap here to set the skills,
 Tap here to set the skills for the dungeon,
 Tap to select skill sequence slot,
 Tap to select skill,
-<color=#C62416>Guild</color> is unlocked,
-Complete <color=#C62416>Training</color> will greatly improve your Angel Power,
+<color=#E36853>Guild</color> is unlocked,
+Complete <color=#E36853>Training</color> will greatly improve your Angel Power,
 Tap to select Angel,
-Tap to start <color=#C62416>Training</color>,
-Tap for {0} <color=#C62416>standard Training</color> (For free this time),
+Tap to start <color=#E36853>Training</color>,
+Tap for {0} <color=#E36853>standard Training</color> (For free this time),
 Save developed attribute,
-<color=#C62416>Arena</color> is open,
-Tap to enter <color=#C62416>Arena</color>,
+<color=#E36853>Arena</color> is open,
+Tap to enter <color=#E36853>Arena</color>,
 Tap to challenge,
-Craft an <color=#C62416>Artifact</color> now,
-Tap here to craft <color=#C62416>Artifact</color>,
-Select the <color=#C62416>Artifact</color> to be crafted,
+Craft an <color=#E36853>Artifact</color> now,
+Tap here to craft <color=#E36853>Artifact</color>,
+Select the <color=#E36853>Artifact</color> to be crafted,
 Tap to craft,
-<color=#C62416>Adventure</color> is open,
-Begin <color=#C62416>Adventure</color>,
-Tap to select <color=#FA931AFF>Adventure Stage</color>,
+<color=#E36853>Adventure</color> is open,
+Begin <color=#E36853>Adventure</color>,
+Tap to select <color=#FCC65AFF>Adventure Stage</color>,
 Enter the store to buy various items,
 "An Angel can be Synthesized, tap the bag to enter Shard Synthesis Screen",
 Tap to open Shard Bag,
 Select the Angel Shards,
 Tap the Summon button,
-"All shards have been collected, tap to <color=#C62416>Compose Angel</color>",
-<color=#C62416>Craft</color> is available now,
-Tap here to <color=#C62416>craft</color> gear,
-Tap here to refresh the gear you want to <color=#FA931AFF>craft</color>.,
-Tap to <color=#C62416>craft</color> gear,
-<color=#C62416>Sky-tower</color> is open now!,
+"All shards have been collected, tap to <color=#E36853>Compose Angel</color>",
+<color=#E36853>Craft</color> is available now,
+Tap here to <color=#E36853>craft</color> gear,
+Tap here to refresh the gear you want to <color=#FCC65AFF>craft</color>.,
+Tap to <color=#E36853>craft</color> gear,
+<color=#E36853>Sky-tower</color> is open now!,
 New angel slot unlocked,
-<color=#C62416>Enhance</color> your gear to further improve your Power!,
-<color=#C62416>Star Trial</color> is open now!,
-Select <color=#C62416>regular</color> difficulty first.,
+<color=#E36853>Enhance</color> your gear to further improve your Power!,
+<color=#E36853>Star Trial</color> is open now!,
+Select <color=#E36853>regular</color> difficulty first.,
 Trial first stage.,
 "Angels battles in rotation in battle, and defeated Angels will not be able to join the battle again. Please arrange your line-up wisely!",
 Come on! I shall send you monsters to hell before I die!,
@@ -3782,9 +3782,9 @@ Archer B,
 Mage C,
 Witch,
 Horus,
-New Angel has been deployed to fight beside you. Try it in <color=#FA931AFF>Battleground</color>,
+New Angel has been deployed to fight beside you. Try it in <color=#FCC65AFF>Battleground</color>,
 This is the key to improve your strength.,
-"When you see <color=#FA931AFF>red dot</color>, you should equip new gear to get stronger!",
+"When you see <color=#FCC65AFF>red dot</color>, you should equip new gear to get stronger!",
 Your Combat Rating increased dramatically after you equipping and enhancing your gears. Try them out on the Battleground,
 "After defeating the boss, you can enter the next battlefield.",
 You are very powerful. Focus and direct your power!,
@@ -3888,8 +3888,8 @@ Adventure,
 Open Treasure Chest,
 FAST_FIGHT_FREE,Quick Combat for 2 hours is free now. Continue? (You are VIP{0} and you can purchase {1} more time(s) today)
 Unavailable,
-"Different types of <color=#C62416>Summon</color> can be made here, try it now ~",
-Here you can make different types of <color=#C62416>Summon</color> and get various rewards. Try it now ~,
+"Different types of <color=#E36853>Summon</color> can be made here, try it now ~",
+Here you can make different types of <color=#E36853>Summon</color> and get various rewards. Try it now ~,
 Anklet,
 REFRESH,Refresh
 REFRESH_FREE,Free refresh
@@ -3903,7 +3903,7 @@ Valor Sword,
 Skill is not configured,
 Ok.,
 Awake can improve Angel attributes and has the chance to get Skill.Try now~,
-<color=#C62416>Quest rewards</color> include massive diamonds and rare items. Claim now~,
+<color=#E36853>Quest rewards</color> include massive diamonds and rare items. Claim now~,
 Sweep the current highest level Boss that can be swept.,
 Tap here to change map and sweep the Boss,
 Sweeping Boss in the pre`vious dungeon is more likely to get better gear!,
@@ -3914,7 +3914,7 @@ Increases self Max HP by 12% and increases ATK by 20%,
 Increases self ATK by 22% and increases CRIT by 26%,
 HERO_AWAKE_FULL,Reached {0}'s Max awakening level
 SUMMON_HERO_HAVE,Converted to {0} Shards when you already owned the Angel.\nThe shards can be used to awake Angels to get skills.
-HERO_ARRAY_FIGHT_VALUE,<color=#ffffff><size=24>Combat Rating:</size></color>{0}
+HERO_ARRAY_FIGHT_VALUE,<color=#FFFFFF><size=24>Combat Rating:</size></color>{0}
 HERO_ARRAY_FIGHT_COUNT,In fight:{0}/{1}
 HERO_ARRAY_OPEN_NEED_LEVEL,Lv.{0} to unlock
 HERO_ARRAY_FIGHT_COUNT_MAX_LIMIT,Deploy up to 12 Angels
@@ -3955,7 +3955,7 @@ Yes. She will help you to destroy the monsters!,
 ,
 It's the task God had delegated you. Now let's go and fight alongside Gabriel!,
 "Reach over 80% Win Rate to challenge the Boss, beat the Boss, we can go to next Dungeon",
-Tap here to edit Angels' <color=#C62416>Line-up</color>,
+Tap here to edit Angels' <color=#E36853>Line-up</color>,
 Gabriel is indeed powerful! It seems effortless for her to destroy all the monsters.,
 "Yes! And since you are the master of Gabriel, you are more powerful.",
 You will encounter more monsters as you venture down this road. You must vanquish them all!,
@@ -4000,11 +4000,11 @@ How can it be so easy? We need to find the Angel Shards first. Come with me!,
 ,
 ,
 "Well, I'll try it right away!",
-You have enough Angel Shards and now you can <color=#FA931AFF>awake</color> the Angel,
-Select the Angel you want to <color=#FA931AFF>Awake</color>,
-Tap here to <color=#C62416>Awake</color> Angels,
-Click <color=#C62416>[Awaken]</color> button,
-You have enough Angel Shards and click <color=#FA931AFF>[awaken]</color> to awaken the Angel,
+You have enough Angel Shards and now you can <color=#FCC65AFF>awake</color> the Angel,
+Select the Angel you want to <color=#FCC65AFF>Awake</color>,
+Tap here to <color=#E36853>Awake</color> Angels,
+Click <color=#E36853>[Awaken]</color> button,
+You have enough Angel Shards and click <color=#FCC65AFF>[awaken]</color> to awaken the Angel,
 God of Present! Take control of everything!,
 Great! Is that the power of awakening?,
 Go! Let's go on cleaning up the monsters in Japan!,
@@ -4013,19 +4013,19 @@ Sure. I can feel the power surging in her body!,
 ,
 "Use your heart to feel your connection with Angels, and nurture her with your divine power.",
 Me,
-"Free <color=#C62416>Summon</color> times remaining,<color=#C62416>Summon</color> has the chance to get angels.",
+"Free <color=#E36853>Summon</color> times remaining,<color=#E36853>Summon</color> has the chance to get angels.",
 Adventure rewards receivable,
 HERO_AWAKE_NOT_ENOUGH,Awake level not enough
-Daily <color=#C62416>adventure</color> will refresh every day. Higher adventure stars means better reward.,
-Select the highest star <color=#C62416>adventure</color> to get the best reward.,
-Select idle Angels to <color=#C62416>adventure</color>.,
-"<color=#C62416>Adventure</color> has begun, tap to see details.",
-"<color=#C62416>Adventure</color> needs some time to finish, you can use <color=#6DCFF6FF>accelerate</color> to finish it right now!",
-"<color=#C62416>Adventure</color> finished, tap here to get the rewards.",
-Tap here to <color=#C62416>promote</color> your angels,
-Select the angel you want to <color=#C62416>promote</color>,
-Enter <color=#C62416>promotion</color>,
-"Tap here to <color=#C62416>send gift</color> to Angels to increase <color=#6DCFF6FF>Angel affinity</color>, Angels will be <color=#C62416>promoted</color> when affinity reaches certain point.",
+Daily <color=#E36853>adventure</color> will refresh every day. Higher adventure stars means better reward.,
+Select the highest star <color=#E36853>adventure</color> to get the best reward.,
+Select idle Angels to <color=#E36853>adventure</color>.,
+"<color=#E36853>Adventure</color> has begun, tap to see details.",
+"<color=#E36853>Adventure</color> needs some time to finish, you can use <color=#ADE7FAFF>accelerate</color> to finish it right now!",
+"<color=#E36853>Adventure</color> finished, tap here to get the rewards.",
+Tap here to <color=#E36853>promote</color> your angels,
+Select the angel you want to <color=#E36853>promote</color>,
+Enter <color=#E36853>promotion</color>,
+"Tap here to <color=#E36853>send gift</color> to Angels to increase <color=#ADE7FAFF>Angel affinity</color>, Angels will be <color=#E36853>promoted</color> when affinity reaches certain point.",
 Adventure,
 Remaining: {0},
 Encounter adventure available~,
@@ -4039,10 +4039,10 @@ Owned,
 Not owned,
 Promotion success,
 Maximum,
-Tap here to <color=#C62416>Summon</color>,
-Can't beat the monsters? Try to <color=#C62416>change gears</color> to get stronger!,
-You can <color=#C62416>Sweep Boss</color> every day to get powerful gears!,
-<color=#C62416>Sweep</color> the last Boss before current dungeon to get the best reward!,
+Tap here to <color=#E36853>Summon</color>,
+Can't beat the monsters? Try to <color=#E36853>change gears</color> to get stronger!,
+You can <color=#E36853>Sweep Boss</color> every day to get powerful gears!,
+<color=#E36853>Sweep</color> the last Boss before current dungeon to get the best reward!,
 4 star,
 Challenge the new Boss! Fight now!,
 Better gears available!,
@@ -4067,14 +4067,14 @@ SKY_STONE,Sky-tower key
 SKY_STONE_DESC,Sky-tower key is used to sweep cleared stories
 HERO_GROUP_LOCK,(Locked)
 HERO_GROUP_UNLOCK,Unlock
-HERO_GROUP_LEVEL,(LV.<color=#E5E485>{0}</color>)
+HERO_GROUP_LEVEL,(LV.<color=#F2F2BD>{0}</color>)
 HERO_GROUP_FULL_LEVEL,Reached max level
 HERO_GROUP_UPGRADE,Level up
 HERO_GROUP_NEXT_LEVEL_INFO,Next LV.:{0}
 HERO_GROUP_UPGRADE_CONDTION_HAD,(Own angels)
-HERO_GROUP_UPGRADE_CONDTION_AWAKE,(All angels awake to <color=#E5E485>{0}</color> stars)
-HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(All angels promote to <color=#E5E485>+{0}</color>)
-HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,(All angels' Combat Rating reach <color=#E5E485>{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_AWAKE,(All angels awake to <color=#F2F2BD>{0}</color> stars)
+HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(All angels promote to <color=#F2F2BD>+{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,(All angels' Combat Rating reach <color=#F2F2BD>{0}</color>)
 Fate,
 Fate attribute,
 VIP_EXP_DESC,VIP EXP increases VIP levels
@@ -4104,9 +4104,9 @@ Diamond discount,
 Limited buying,
 Claimed today,
 Special package I,
-<size=32>Get <b><color=#FA931AFF>60</color></b> diamonds</size> \nGet <b><color=#FF0909FF>588</color></b> diamonds package,
-<size=32>Get <b><color=#FA931AFF>80</color></b> diamonds</size> \nGet <b><color=#FF0909FF>988</color></b> diamonds package,
-<size=32>Get <b><color=#FA931AFF>120</color></b> diamonds</size> \nGet <b><color=#FF0909FF>1588</color></b> diamonds package,
+<size=32>Get <b><color=#FCC65AFF>60</color></b> diamonds</size> \nGet <b><color=#FF3737FF>588</color></b> diamonds package,
+<size=32>Get <b><color=#FCC65AFF>80</color></b> diamonds</size> \nGet <b><color=#FF3737FF>988</color></b> diamonds package,
+<size=32>Get <b><color=#FCC65AFF>120</color></b> diamonds</size> \nGet <b><color=#FF3737FF>1588</color></b> diamonds package,
 Get 10 diamonds \nGet 188 diamonds pack,
 Angel Growth,
 Weekly Card,
@@ -4154,7 +4154,7 @@ Snake Guards' P.RES is very troublesome!,
 Tomb Priests will hit fritening damage!,
 "Can you resist the spread of zombies? Frenzy Zombies has extremely high crit, and very high P.DMG and M.DMG!",
 They are guilty of the blood of crime! Frenzy Zombies has suberb P.PEN!,
-Angel Awakening available! <color=#C62416>Awaken</color> an Angel to get a new skill!,
+Angel Awakening available! <color=#E36853>Awaken</color> an Angel to get a new skill!,
 ACTIVITY_SUMMON_DESC_LIMIT,Limited Summon  <size=26>Can get</size>
 ACTIVITY_SUMMON_HERO_STAR,{0} star angel
 ACTIVITY_SUMMON_REWARD_PREVIEW,Rewards Preview
@@ -4533,25 +4533,25 @@ NOTICE_10001001,
 NOTICE_10002001,
 NOTICE_10003001,
 NOTICE_10004001,
-NOTICE_10005001,<color=#25c1e9>{0}</color>  synthesized a Lv.{1} gem! Congratulations!
-NOTICE_10006001,<color=#25c1e9>{0}</color>  smelted a dual-attribute artifact successfully! Congratulations!
+NOTICE_10005001,<color=#6AE0F4>{0}</color>  synthesized a Lv.{1} gem! Congratulations!
+NOTICE_10006001,<color=#6AE0F4>{0}</color>  smelted a dual-attribute artifact successfully! Congratulations!
 NOTICE_10007001,
 NOTICE_10008001,
 NOTICE_10009001,
 NOTICE_10010001,
 NOTICE_10010002,
 NOTICE_10103001,Round of Top 8 in Clash of Guilds ended. Guild members can check the result on guild interface now.
-NOTICE_10104001,"Semi-finals in Clash of Guilds ended. Congrats to those 4 guilds: <color=#49ff31>{0}</color>,<color=#49ff31>{1}</color>,<color=#49ff31>{2}</color>,<color=#49ff31>{3}</color>"
-NOTICE_10105001,Congrats to  <color=#49ff31>{0}</color>  for winning second place of Clash of Guilds in this season!
+NOTICE_10104001,"Semi-finals in Clash of Guilds ended. Congrats to those 4 guilds: <color=#90FF78>{0}</color>,<color=#90FF78>{1}</color>,<color=#90FF78>{2}</color>,<color=#90FF78>{3}</color>"
+NOTICE_10105001,Congrats to  <color=#90FF78>{0}</color>  for winning second place of Clash of Guilds in this season!
 NOTICE_10106001,
 NOTICE_10201001,"Guild Boss has opened. Come on, everyone!"
-NOTICE_10301001,This is the end! <color=#49ff31>{0}</color> made the final blow to World Boss and defeated it!
+NOTICE_10301001,This is the end! <color=#90FF78>{0}</color> made the final blow to World Boss and defeated it!
 NOTICE_10302001,
-NOTICE_10401001,Winner take all!  <color=#25c1e9>{0}</color>  kicked  <color=#25c1e9>{1}</color>  and stood at NO.1 in the rankings.
-NOTICE_10401002,The champion changed!  <color=#25c1e9>{0}</color>  defeated  <color=#25c1e9>{1}</color>  easily and became the new king!
-NOTICE_10402001,<color=#25c1e9>{0}</color>  climbed to the top and win victory after suffering innumerable setbacks!
+NOTICE_10401001,Winner take all!  <color=#6AE0F4>{0}</color>  kicked  <color=#6AE0F4>{1}</color>  and stood at NO.1 in the rankings.
+NOTICE_10401002,The champion changed!  <color=#6AE0F4>{0}</color>  defeated  <color=#6AE0F4>{1}</color>  easily and became the new king!
+NOTICE_10402001,<color=#6AE0F4>{0}</color>  climbed to the top and win victory after suffering innumerable setbacks!
 NOTICE_10403001,There's not much time left for arena settlement. Who will have the last laugh?
-NOTICE_10501001,Congrats! <color=#25c1e9>{0}</color>  becomes the first brave man to pass {1} in Sky Tower.
+NOTICE_10501001,Congrats! <color=#6AE0F4>{0}</color>  becomes the first brave man to pass {1} in Sky Tower.
 NOTICE_10601001,Glory Arena top {0} battle for top {1} game in progress!
 NOTICE_20001001,World Boss Fight will open soon. Get ready!
 NOTICE_20002001,
@@ -4847,10 +4847,10 @@ DEBRIS_NOT_SELECT,None selected Shards
 DEBRIS_SELL_CONFIRM,This Angel hasn't awake to max star. Do you still want to convert the Shard(s) to sapphire?
 MYSTICAL_SHOP_BUY_CONFIRM_STAR_STONE,Are you sure you want to cost {0} sapphire to purchase {1}?
 WORLD_BOSS_OPENGING,In battle
-<color=#C62416>Gem Setting</color> is open,
+<color=#E36853>Gem Setting</color> is open,
 Tap to select Angel,
 Then select gear which you want to set Gems,
-Begin  <color=#FA931AFF>Gem Setting</color>,
+Begin  <color=#FCC65AFF>Gem Setting</color>,
 Unlock a Gem Socket first,
 Tap the Gem Socket which just unlocked,
 "STR(strength) is Warriors' main attribute, STR Gem is recommended",
@@ -4871,7 +4871,7 @@ Quick Combat Reward,
 Quick Combat Scroll usage limit,
 Days Blessings,
 Blessing:,
-Blessing time remaining <color=#00FF56FF>30</color> day(s),
+Blessing time remaining <color=#00FF9BFF>30</color> day(s),
 Blessing,
 In Blessing,
 Buy 10,
@@ -4917,7 +4917,7 @@ ACCOUNT_CHANGE_SUCC_CONTENT,The game info is switched successfully. Please click
 ACTIVITY_HOLIDAY_SUMMON_SCORE_NEED,Summon Points: {0}
 ACTIVITY_HOLIDAY_SUMMON_SCORE_PROGRESS,Progress: {0}%
 ACTIVITY_HOLIDAY_MY_SUMMON_SCORE,My point: {0}
-ACTIVITY_HOLIDAY_SUMMON_EXCHANGE_INFO,Get 1 point in single Epic\Legend\Limited Summon during event(<color=#6DCFF6FF>{0}</color>)(Server time). Claim the event rewards when reaching specific points.
+ACTIVITY_HOLIDAY_SUMMON_EXCHANGE_INFO,Get 1 point in single Epic\Legend\Limited Summon during event(<color=#ADE7FAFF>{0}</color>)(Server time). Claim the event rewards when reaching specific points.
 ACTIVITY_HOLIDAY_LOGIN_TASK_NAME,Login {0} day(s)
 ACTIVITY_HOLIDAY_LOGIN_DAY_RECORD,
 ACTIVITY_HOLIDAY_LOGIN_NOT_ENOUGH,Insufficient login days
@@ -4954,11 +4954,11 @@ Login <color=#00FF00>{0}</color> day(s),
 Progress: <color=#00FF00>{0}</color>,
 Value Holiday Package,
 Limited Supply,
-During event <color=#6DCFF6FF>(9.24-9.30)</color>\nBattle idle have chance to drop\n<color=#FF67FFFF>[Petal]</color> and <color=#FA931AFF>[Olive branch]</color>,
+During event <color=#ADE7FAFF>(9.24-9.30)</color>\nBattle idle have chance to drop\n<color=#FFA8FFFF>[Petal]</color> and <color=#FCC65AFF>[Olive branch]</color>,
 Exchange Reminder,
 Exchanged,
 Remaining:,
-Get 1 point for each Limited\nSummon during event<color=#6DCFF6FF>(2.13-2.19)</color>.\nClaim the rewards when\nreached specified points,
+Get 1 point for each Limited\nSummon during event<color=#ADE7FAFF>(2.13-2.19)</color>.\nClaim the rewards when\nreached specified points,
 ,
 Summon point:,
 Festival Carnival,
@@ -5613,7 +5613,7 @@ Enhance all,
 Awakened to Max,
 Rome,
 Rutland,
-Enter <color=#C62416>Gem</color> interface,
+Enter <color=#E36853>Gem</color> interface,
 Clash of Guild not open yet. Stay tuned~,
 Trainning:,
 Gem,
@@ -5710,7 +5710,7 @@ New Year limit 1,
 New Year limit 2,
 New Year limit 3,
 SKY_STONE_MAX,Sky-tower key reached max
-COIN_SHOP_BUY_ALL_CONFIRM,Are you sure you want to spend <color=#FA931AFF>{0}</color> diamonds to buy <color=#FA931AFF>{1}</color> coins?
+COIN_SHOP_BUY_ALL_CONFIRM,Are you sure you want to spend <color=#FCC65AFF>{0}</color> diamonds to buy <color=#FCC65AFF>{1}</color> coins?
 Spring Festival 1,
 Spring Festival 2,
 Spring Festival 3,
@@ -5990,7 +5990,7 @@ CUSTOM_GIFT_NAME_LOGIN1,THE KING
 CUSTOM_GIFT_NAME_LOGIN2,HAS RETURN
 CUSTOM_GIFT_NAME_TRAIN1,ESSENTIAL
 CUSTOM_GIFT_NAME_TRAIN2,FOR GROWTH
-CUSTOM_GIFT_CONTENT,Limited time offer\nWorth more than  <color=#FA931AFF>{0}</color>  diamonds!!!
+CUSTOM_GIFT_CONTENT,Limited time offer\nWorth more than  <color=#FCC65AFF>{0}</color>  diamonds!!!
 ,
 AD_LOGIN_OFFLINE_DES,30min Idling Rewards
 point,Limited Point
@@ -6077,7 +6077,7 @@ Easter 2,
 Easter 3,
 Easter 4,
 Advent of Hades,
-BATTLE_ARRAY_CONTENT,"If <color=#FA931AFF>{0}</color> Angels survive the battle, all Angels get attributes bonus."
+BATTLE_ARRAY_CONTENT,"If <color=#FCC65AFF>{0}</color> Angels survive the battle, all Angels get attributes bonus."
 DAMAGE_ADD,DMG Increase
 DAMAGE_MINUS,DMG Reduction
 Gift redemption,
@@ -6759,7 +6759,7 @@ Freeze-Winterland,
 SELL OUT,SOLD OUT
 SELL_OUT,SOLD OUT
 Guild Boss,
-CHARGE_VIP_LV_TIPS_TWO,Requires <color=#FFBA00>{num}</color> VIP EXP to upgrade to <color=#FFBA00>VIP {viplv} </color>
+CHARGE_VIP_LV_TIPS_TWO,Requires <color=#FFDC00>{num}</color> VIP EXP to upgrade to <color=#FFDC00>VIP {viplv} </color>
 Rank rewards,
 Open Gem Pouch,
 EVENT_SHOP_DAILY,Daily discount
@@ -6792,7 +6792,7 @@ Complete:,
 King of Gods key,
 CUSTOM_GIFT_NAME_LEVEL1,March
 CUSTOM_GIFT_NAME_LEVEL2,Forward
-REACH_LEVEL_UNLOCK_SUMMON,Unlock at <color=#FFBA00>Lv.{level}</color>
+REACH_LEVEL_UNLOCK_SUMMON,Unlock at <color=#FFDC00>Lv.{level}</color>
 EVENT_GOD_TREASURE_HOUSE_LAYER,Story {0} of Treasure House
 Unlock at Lv.40,
 Unlock at Lv.70,
@@ -7009,7 +7009,7 @@ Upgrade any angel once,
 HERO_SKIN_EXPIRE,This angel's Fashion has expired
 Please calibrate the local time,
 CONTENT_CONTAIN_SHIELD_WORD,The content contains sensitive words please re-enter!
-WORLD_BOSS_CHALLENGE_NUM,Remaining today: <color=#4FFF4FFF>{0}</color> times
+WORLD_BOSS_CHALLENGE_NUM,Remaining today: <color=#95FF95FF>{0}</color> times
 SERVER_CAN_NOT_LOGIN,Your client version is too old to join this game
 Community,
 WORLD_BOSS_SHOWTEXT_1,"Judgement Day's horn has been sounded. Gabriel, the one true Seraphim, descends to destroy all that is wicked on the Mortal Realm."
@@ -7051,8 +7051,8 @@ It is the first time that someone can compete with me who possesses the power of
 "It's not over yet, the ability and energy of my body is fully liberated. My power is exploded with the ability to exceed the limit of God.",
 "You are worth to defeat, let's do our best in this battle to complete our missions.",
 "Will I lose? Gods can not predict everything. Until the last moment, I will still fight with you.",
-<color=#C62416>World Boss</color> is open,
-Enter <color=#C62416>World Boss</color>,
+<color=#E36853>World Boss</color> is open,
+Enter <color=#E36853>World Boss</color>,
 2h Holy Core,
 2h Coins,
 2h Angel EXP,
@@ -7252,7 +7252,7 @@ Peace & Love 2,
 Peace & Love 3,
 Peace & Love 4,
 CHAT_LIMIT,The maximum number of characters you can input is 300 or 12 lines
-GOODS_EXCHANGE_TEXT_CONTENT,During the event <color=#6DCFF6FF>({0})</color>\nDungeon battles have a chance to drop <color=#FF67FFFF>[{1}]</color> and <color=#FA931AFF>[ {2}]</color>. You can use them to redeem multiple rewards.
+GOODS_EXCHANGE_TEXT_CONTENT,During the event <color=#ADE7FAFF>({0})</color>\nDungeon battles have a chance to drop <color=#FFA8FFFF>[{1}]</color> and <color=#FCC65AFF>[ {2}]</color>. You can use them to redeem multiple rewards.
 GEM_HUNTER_GOODS_COUNT,Gem Essence: {0}
 GEM_HUNTER_PROFICIENCY,Gem Hunter Proficiency: {0}
 GEM_HUNTER_AWARD,Gem Hunter Rewards
@@ -7447,7 +7447,7 @@ JP,
 Relic bag,
 Advance,
 Get relic,
-RELIC_SUMMON_TIP,<size=30>Summoning 10 at a time will guarantee a<color=#D638EF>R</color> or <color=#FDAD2F>SR</color> Relic</size>
+RELIC_SUMMON_TIP,<size=30>Summoning 10 at a time will guarantee a<color=#EB80F7>R</color> or <color=#FED576>SR</color> Relic</size>
 All angels' ATK increases [n],
 All angels' HP increases [n],
 All angels' leech increases [n],
@@ -7711,7 +7711,7 @@ Season record,
 Top 8,
 Top 16,
 Top 32,
-GUILD_WAR_SIGN_UP_NOTIFY_MESSAGE,Come and join Clash of Guild! <a href=1><color=#FA931AFF>[go go go>>>]</color></a>
+GUILD_WAR_SIGN_UP_NOTIFY_MESSAGE,Come and join Clash of Guild! <a href=1><color=#FCC65AFF>[go go go>>>]</color></a>
 Angel Guardian,
 Victory Heart,
 King's Outset,
@@ -7780,8 +7780,8 @@ GUILD_WAR_ROUND,Match {0}
 GUILD_WAR_BATTLE_REPORT_1,
 Progress,
 GUILD_WAR_BATTLE_REPORT_2,
-KorAgreement,Please read the Privacy Policy & Term Of Service and you can start game after accepted and agreed the term\n<a href=http://mujoy.sg/pc/policy.html><color=#87CEFA><Privacy Policy & Term Of Service></color></a>
-COMMON_AGREEMENT,Please read the Privacy Policy & Term Of Service and you can start game after accepted and agreed the term\n<a href=http://mujoy.sg/pc/policy.html><color=#87CEFA><Privacy Policy & Term Of Service></color></a>
+KorAgreement,Please read the Privacy Policy & Term Of Service and you can start game after accepted and agreed the term\n<a href=http://mujoy.sg/pc/policy.html><color=#BEE7FC><Privacy Policy & Term Of Service></color></a>
+COMMON_AGREEMENT,Please read the Privacy Policy & Term Of Service and you can start game after accepted and agreed the term\n<a href=http://mujoy.sg/pc/policy.html><color=#BEE7FC><Privacy Policy & Term Of Service></color></a>
 Clash of Guild Special,
 Special treasure chest obtained in Clash of Guild containing a lot of precious items,
 Soul Heaven Slash,
@@ -8049,7 +8049,7 @@ Attribute:\n,Attribute:\n
 Death sacrifice,
 ,
 Magic Rain,
-GUILD_APPLE_MEMBER_FIGHT,<color=#c0c0c0>Participants:</color>{0}
+GUILD_APPLE_MEMBER_FIGHT,<color=#E0E0E0>Participants:</color>{0}
 "Using the Fashion interface, you can exchange for the Enmusubi-Magic Rain.",
 Magic Rain Credit,
 Christmas Special 4,
@@ -8187,7 +8187,7 @@ It seems to be the place where Hera and Zeus used to live. I heard there are gol
 "No, golden apples can only be given to the angels with the highest charm.",
 "In recently Hera and Zeus are going to hold a charm competition, you can join it and get the golden apples.",
 "Got you, I am ready to participate immediately~~ Bari, do you think I can be the most attractive angel?",
-HOT_ACTIVITY_SCORE,<color=#A0A5ABFF>Points</color>{0}
+HOT_ACTIVITY_SCORE,<color=#CED1D4FF>Points</color>{0}
 Recharge Rewards,
 ACTIVE_RECHRAGE_TASK_ALL,Top up during the event to get {0} VIP EXP
 ACTIVE_RECHRAGE_BUTTON_TIPS_ALL,You need get {0} VIP experience to receive rewards
@@ -8521,7 +8521,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_8,Your guild stopped in the top 8 during Oly
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_4,Your guild stopped in the top 4 during Olympus Legend season {0}. Hope you can achieve better results in next season! You will get the following rewards:
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,Your guild won the second in Olympus Legend season {0}! Get the following rewards:
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,Your guild won the championship in Olympus Legend season {0}! Get the following rewards:
-GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,Come and participate in Olympus Legend. We are waiting for you~<a href=2><color=#FA931AFF>[click here to enter]>>></color></a>
+GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,Come and participate in Olympus Legend. We are waiting for you~<a href=2><color=#FCC65AFF>[click here to enter]>>></color></a>
 GUILD_ASPL_CAN_NOT_SIGN_UP,Request the top {0} guilds in the previous Clash of Guild to register
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,Top {0} guilds of Clash of Guild in this season can register after the countdown ends.
 HERO_PALACE_NEXT_CONDITION_TIPS,Points to next level: {0}
@@ -9169,9 +9169,9 @@ COUNTRY_WAR_DESC_25,
 COUNTRY_WAR_DESC_26,
 COUNTRY_WAR_DESC_27,Horns are not available currently
 COUNTRY_WAR_USE_GOODS_POWER_TIPS,Only guild master and assists can use item
-COUNTRY_WAR_MESSAGE_DECLARED,{0}-<color=#6A8AF5>{1}</color> declared war on <color=#2CB51E>{2}</color>
-COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#6A8AF5>{0}</color> was declared war by <color=#E93830>{1}</color>
-COUNTRY_WAR_MESSAGE_USE_GOODS,{0}-<color=#6A8AF5>{1}</color> used horn <color=#2CB51E>{3}</color> on <color=#FFC64D>{2}</color>
+COUNTRY_WAR_MESSAGE_DECLARED,{0}-<color=#ABC0FA>{1}</color> declared war on <color=#72DA60>{2}</color>
+COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#ABC0FA>{0}</color> was declared war by <color=#F48077>{1}</color>
+COUNTRY_WAR_MESSAGE_USE_GOODS,{0}-<color=#ABC0FA>{1}</color> used horn <color=#72DA60>{3}</color> on <color=#FFE393>{2}</color>
 COUNTRY_WAR_CLOSE,The system is closed now.
 COUNTRY_WAR_HAS_NOT_SIGIUP,Not registered
 COUNTRY_WAR_NOT_OPEN,Waiting for the season to start
@@ -9199,7 +9199,7 @@ COUNTRY_WAR_SET_TEAM_SUCCESS,Dispatch successfully
 COUNTRY_WAR_NOT_IN_SIGNUP_STEP,"Currently not in the registration time, unable to operate"
 COUNTRY_WAR_NOT_IN_BATTLE_STEP,"Currently not in the city grab time, unable to operate"
 COUNTRY_WAR_NOT_IN_MOBAI_STEP,"Currently not in the worship time, unable to operate"
-COUNTRY_WAR_SIGN_UP_PVE_NOTIFY_MESSAGE,Your guild master has already registered in Gods Twilight PvE mode. Please enter on time.<a href=3><color=#FA931AFF>[click here to enter]>>></color></a>
+COUNTRY_WAR_SIGN_UP_PVE_NOTIFY_MESSAGE,Your guild master has already registered in Gods Twilight PvE mode. Please enter on time.<a href=3><color=#FCC65AFF>[click here to enter]>>></color></a>
 COUNTRY_WAR_SIGN_UP_PVP_NOTIFY_MESSAGE,Your guild has registered in Gods Twilight PVP mode
 COUNTRY_WAR_XUAN_ZHAN_NOTIFY_MESSAGE,Your guild declared war on {0} city in Gods Twilight.
 COUNTRY_WAR_USE_GOODS_NOTIFY_MESSAGE,Your guild used {1} horn on {0} city in Gods Twilight.
@@ -9295,18 +9295,18 @@ ABYSS_GOODS_USE_HERO_EMPTY,No angels need to recover
 DRESS_STRENGTHEN_EMPTY,Currently no material to choose from
 COPY_SUCCESS,Copy success
 None,
-<color=#6570a2><size=20>No gear available to smelt</size></color>,
-<color=#6570a2><size=20>No gear available</size></color>,
+<color=#A7AFCF><size=20>No gear available to smelt</size></color>,
+<color=#A7AFCF><size=20>No gear available</size></color>,
 [2 activation],
-<color=#6570a2><size=20>No attire available</size></color>,
+<color=#A7AFCF><size=20>No attire available</size></color>,
 No attire available to select,
 HP,
-<color=#6570a2><size=20>There are no items in the bag now~</size></color>,
-<color=#6570a2><size=20>No shard available right now</size></color>,
+<color=#A7AFCF><size=20>There are no items in the bag now~</size></color>,
+<color=#A7AFCF><size=20>No shard available right now</size></color>,
 chat bubble,
 default bubble,
 default,
-<color=#6570a2><size=20>Too quiet. No one has spoken yet~</size></color>,
+<color=#A7AFCF><size=20>Too quiet. No one has spoken yet~</size></color>,
 Read,
 Report,
 Dispatch option,
@@ -9376,7 +9376,7 @@ City occupied: {0},
 Countdown <color=#00FF00>{0}</color>,
 Get \n1 point for each summon during event. \rClaim the rewards when\nreached specified points.,
 Star Trial rewards x2 during the event,
-<color=#A0A5ABFF>points</color>1000/1000,
+<color=#CED1D4FF>points</color>1000/1000,
 Craft and synthesize artifacts to earn points,
 Extra Rewards,
 Consume 2000 diamonds,
@@ -9386,10 +9386,10 @@ Collect 50 Shards to synthesize SSR angel,
 Original Price:,
 Battle experience +10%\nFree quick-combat +1\nFree Mystery Store refresh +1\nWorld BOSS Auto_combat +1\nGear bag extra slots +30,
 30min Idling Rewards,
-<color=#6570a2><size=20>You don't have any friends~</size></color>,
-<color=#6570a2><size=20>No friend requests</size></color>,
-<color=#6570a2><size=20>No player in the blacklist</size></color>,
-<color=#6570a2><size=20>There is no new announcements</size></color>,
+<color=#A7AFCF><size=20>You don't have any friends~</size></color>,
+<color=#A7AFCF><size=20>No friend requests</size></color>,
+<color=#A7AFCF><size=20>No player in the blacklist</size></color>,
+<color=#A7AFCF><size=20>There is no new announcements</size></color>,
 From: Clash of Guild,
 Limit time:,
 General,
@@ -9397,11 +9397,11 @@ Time limit,
 Server,
 Guild daily,
 Server Announcement,
-<color=#6570a2><size=20>No mail currently</size></color>,
+<color=#A7AFCF><size=20>No mail currently</size></color>,
 Quick combat,
 Agree,
-<color=#6570a2><size=20>No relic can be auto advanced currently</size></color>,
-<color=#6570a2><size=20>No relic yet</size></color>,
+<color=#A7AFCF><size=20>No relic can be auto advanced currently</size></color>,
+<color=#A7AFCF><size=20>No relic yet</size></color>,
 Increase DMG to mage,
 Egyptian mummy,
 Unlock conditions,
@@ -9426,7 +9426,7 @@ Valkyrie's Phantom,
 Idun's Phantom,
 Sif's Phantom,
 Sentry Guard,
-<color=#6570a2><size=20>No private message currently</size></color>,
+<color=#A7AFCF><size=20>No private message currently</size></color>,
 Advent Pack-Daily discount,
 Advent Pack 1,
 Advent Pack 2,
@@ -9489,7 +9489,7 @@ Team:,
 Attack Information,
 Stationed information,
 No info yet,
-<color=#FFC64D>Apocalypse Guard</color>,
+<color=#FFE393>Apocalypse Guard</color>,
 Event is opened,
 Apocalypse Guard,
 Juggernaut,
@@ -9506,19 +9506,19 @@ Trial Palace,
 "Registration time has passed, come back next season",
 Click angel avatar to set deploy,
 "After the line-up is complete, you can join the battle!",
-<color=#FFC64D>Sanctuary Juggernaut</color>,
-<color=#FFC64D>Sanctuary Elite</color>,
-<color=#FFC64D>Sanctuary Duke</color>,
-<color=#FFC64D>Sanctuary Guard</color>,
-<color=#FFC64D>Sanctuary Castellan</color>,
-<color=#FFC64D>Sanctuary Soldier</color>,
-<color=#6DCFF6FF><color=#FFC64D>Apocalypse Guard</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Sanctuary Juggernaut</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Sanctuary Elite</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Sanctuary Duke</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Sanctuary Guard</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Sanctuary Castellan</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Sanctuary Soldier</color></color>,
+<color=#FFE393>Sanctuary Juggernaut</color>,
+<color=#FFE393>Sanctuary Elite</color>,
+<color=#FFE393>Sanctuary Duke</color>,
+<color=#FFE393>Sanctuary Guard</color>,
+<color=#FFE393>Sanctuary Castellan</color>,
+<color=#FFE393>Sanctuary Soldier</color>,
+<color=#ADE7FAFF><color=#FFE393>Apocalypse Guard</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Sanctuary Juggernaut</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Sanctuary Elite</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Sanctuary Duke</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Sanctuary Guard</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Sanctuary Castellan</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Sanctuary Soldier</color></color>,
 No angel needs to heal currently,
 ACTIVE_SUMMON_FIRSTWEEK_BOSS_CHALLENGER,No challengers currently
 ACTIVE_SUMMON_FIRSTWEEK_BOSS_DMG,Highest DMG:{0}
@@ -9636,7 +9636,7 @@ The boss has been defeated,
 Rebate,
 Get rewards immediately,
 Weekly card lasts 7 days. The rewards are sent via mail after Daily log-ins.,
-"The cards event lasts for <color=#00ff00>7</color> days, which will be sent to you via email after login",
+"The cards event lasts for <color=#00FF00>7</color> days, which will be sent to you via email after login",
 Limit purchase,
 "Use [Angel Feather] to convert rare items during the event. After the event ends, the system will automatically recycle [Angel Feather].",
 "Reward locked, please redeem the front reward first",
@@ -9698,9 +9698,9 @@ Anniversary 7,
 Anniversary 8,
 Anniversary 9,
 Anniversary 10,
-week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Value</size></color>
-week_jindu,<color=#FFFFFF><size=18>Limit purchase</size></color><color=#26F949><size=18>{0}</size></color>
-week_content,Get 7 days rewards in total <color=#FFF341><size=32>{0}</size></color>
+week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Value</size></color>
+week_jindu,<color=#FFFFFF><size=18>Limit purchase</size></color><color=#6BFC90><size=18>{0}</size></color>
+week_content,Get 7 days rewards in total <color=#FFF988><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,"Use [Angel Feather] to convert rare items during the event. After the event ends, the system will automatically recycle [Angel Feather]."
 Boss challenge ranking rewards,
 WORLD_BOSS_SHOWTEXT_20,"Icarus, reborn in a new world, uses absolute power to penetrate the defense of all enemies."
@@ -9801,7 +9801,7 @@ Give warrior bonus attributes,
 Give mage bonus attributes,
 Give archer bonus attributes,
 Ice and Snow,
-PROFRESSION_BATTLE_NUM,Challenge times: <color=#0BFF00>{0}</color>
+PROFRESSION_BATTLE_NUM,Challenge times: <color=#3DFF00>{0}</color>
 PROFRESSION_BATTLE_ZERO_NUM,Challenge times: <color=#FF0000>0</color>
 PROFRESSION_NUM_NO,Insufficient challenge times
 PROFRESSION_TIME_ERROR,Not in the opening time
@@ -11972,15 +11972,15 @@ Increase Xiyu's favorability by 50 points,
 Chang'e,
 Mid-Autumn Festival Angel Redemption,
 Can be assisted {0}/{1},
-<color=#00ff00>productivity +{0}%</color>,
+<color=#00FF00>productivity +{0}%</color>,
 Remaining:,
 Remaining {0}/{1} times,
-You <color=#00ff00>liked</color> {0} once,
-You <color=#00ff00>assisted</color> {0} once,
+You <color=#00FF00>liked</color> {0} once,
+You <color=#00FF00>assisted</color> {0} once,
 OUTLAND_VISIT_NOT_FRIEND,"You are not a friend of the player, cannot assist"
 OUTLAND_NOT_OPEN,Chaotic Realm feature has not yet enabled
-{0}<color=#00ff00>liked you</color> once,
-{0}<color=#00ff00>assisted you</color> once,
+{0}<color=#00FF00>liked you</color> once,
+{0}<color=#00FF00>assisted you</color> once,
 ,
 Already liked this player today,
 Already assisted this player today,
@@ -12125,9 +12125,9 @@ Heh... It seems that fighting with you is indeed an addictive thing.,
 "What a satisfying battle, but unfortunately you are not the strongest in my ideals.",
 There is someone I think you will be interested in. She is the commander and leader of the gods.,
 Is that the human girl in the rumor? I should enjoy fighting with her...,
-Assisting this friend will grant you a <color=#00ff00>15 minutes</color> production reward. Comfirm to Assist?,
-{0}<color=#00ff00>Liked</color> {1} once,
-{0}<color=#00ff00>aiisited</color> {1} once,
+Assisting this friend will grant you a <color=#00FF00>15 minutes</color> production reward. Comfirm to Assist?,
+{0}<color=#00FF00>Liked</color> {1} once,
+{0}<color=#00FF00>aiisited</color> {1} once,
 NWHC_TOTAL_SCORE,Agg. score: {0}
 NWHC_ONCE_SCORE_MAX,Best: {0}
 NWHC_ONCE_SCORE_NOW,Score: {0} {1}
@@ -12542,7 +12542,7 @@ What kind of person is she? Will she be your confidant? Or... will she be your e
 Hmm...White represents purity and tenderness. It seems that you like pure and cute girls!,
 "Maybe it really doesn't make much sense. After all, we are all real, so why separate each other?",
 Choose payment method,
-PAY_SELECT_VIRTUAL_COIN,<color=#6aff5a>{0}</color>(Remaining: {1})
+PAY_SELECT_VIRTUAL_COIN,<color=#ABFF9E>{0}</color>(Remaining: {1})
 The Package has been sold out,
 Sure to purchase the package?,
 "Well well, ever since we were exiled to the Eastern Continent, we have never remembered the past.",
@@ -12800,7 +12800,7 @@ Match ending:,
 Conqueror of Legends,
 Honor,
 Insufficient challenges,
-NOTICE_10012001,"Goddess bless, <color=#25c1e9>{0}</color> just opened the <color=#FF3838FF>{1}</color> gift box and obtained <color=#25c1e9>{2}</color>."
+NOTICE_10012001,"Goddess bless, <color=#6AE0F4>{0}</color> just opened the <color=#FF8080FF>{1}</color> gift box and obtained <color=#6AE0F4>{2}</color>."
 ACTIVITY_HOLIDAY_BLIND_BOX_SCORE_RANK_REWARD_MAIL_CONTENT,Congratulations on your ranking {0} in the lucky gift box points ranking. The following are your rewards:
 Grand Prize,
 BLIND_BOX_CONSUME_DIAMOLD,Consume {0} Diamonds
@@ -12941,7 +12941,7 @@ Apply Successfully,
 Logout_Tishi,"After confirming, all your accounts in {0} servers will be disabled after 72 hours."
 Please enter the reason for disabling,
 unregister logout,"<size=18>Do you confirm to cancel the disabling account application? If not, your account will be auto-disabled after {0} days {1}. \nThe gap time of the two applications should be over 24 hours.</size>"
-XUYUAN_COUNT_TIPS,Pray <color=#14F16F>{0}</color> times for a guaranteed <color=orange>{1}</color>
+XUYUAN_COUNT_TIPS,Pray <color=#50F8AE>{0}</color> times for a guaranteed <color=orange>{1}</color>
 My Wish Stone:,
 Pray 1,
 Pray 10,
@@ -13027,11 +13027,11 @@ Magic Circle DMG Reduction +15%  Magic Circle DMG Increase +12%,Magic Circle DMG
 Magic Circle DMG Reduction +10%  Magic Circle DMG Increase +9%,Magic Circle DMG Reduction +10%  Magic Circle DMG Increase +9%
 Magic Circle DMG Reduction +5%  Magic Circle DMG Increase +6%,Magic Circle DMG Reduction +5%  Magic Circle DMG Increase +6%
 Magic Circle DMG Increase +3%,Magic Circle DMG Increase +3%
-"2 Angels remain in battle, all Angels get attributes bonus:","If <color=#FA931AFF>2</color> Angels survive the battle, all Angels get attributes bonus:"
-"3 Angels remain in battle, all Angels get attributes bonus:","If <color=#FA931AFF>3</color> Angels survive the battle, all Angels get attributes bonus:"
-"4 Angels remain in battle, all Angels get attributes bonus:","If <color=#FA931AFF>4</color> Angels survive the battle, all Angels get attributes bonus:"
-"5 Angels remain in battle, all Angels get attributes bonus:","If <color=#FA931AFF>5</color> Angels survive the battle, all Angels get attributes bonus:"
-"6 Angels remain in battle, all Angels get attributes bonus:","If <color=#FA931AFF>6</color> Angels survive the battle, all Angels get attributes bonus:"
+"2 Angels remain in battle, all Angels get attributes bonus:","If <color=#FCC65AFF>2</color> Angels survive the battle, all Angels get attributes bonus:"
+"3 Angels remain in battle, all Angels get attributes bonus:","If <color=#FCC65AFF>3</color> Angels survive the battle, all Angels get attributes bonus:"
+"4 Angels remain in battle, all Angels get attributes bonus:","If <color=#FCC65AFF>4</color> Angels survive the battle, all Angels get attributes bonus:"
+"5 Angels remain in battle, all Angels get attributes bonus:","If <color=#FCC65AFF>5</color> Angels survive the battle, all Angels get attributes bonus:"
+"6 Angels remain in battle, all Angels get attributes bonus:","If <color=#FCC65AFF>6</color> Angels survive the battle, all Angels get attributes bonus:"
 Spring Festival limited chat frame,
 2022 Spring Festival limited chat frame,
 Spring Festival limited avatar frame,
@@ -13276,7 +13276,7 @@ Doomsday Baptism,
 Rose Dancer,
 Blazing Emissary,
 GO_TO_BUY_ANGLE_COIN,Go to purchase AC
-PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Remaining: <color=#FF0909FF>{1}</color>)
+PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Remaining: <color=#FF3737FF>{1}</color>)
 TTPW_CURRENT_ATTACK_TEAM,Attack: Line-up {0}
 TTPW_CHOOSE_TEAM_NAME,Line-up {0}
 Unlock when reaching Challenger,
@@ -14131,7 +14131,7 @@ Comeback pack 2,
 Comeback pack 3,
 Comeback pack 4,
 login to claim rewards,
-VIP_PRECENT,Complete quests to get <color=#F7D86F>100%</color> recharge VIP Exp
+VIP_PRECENT,Complete quests to get <color=#FBECAE>100%</color> recharge VIP Exp
 Free,Free
 Train any angel {0} times,
 Adventure {0} times,
@@ -14151,8 +14151,8 @@ Comeback pool,
 DEFAULT_DESCRIBE,A limited-time increase in the chance of getting Angels Shards in the Comeback pool
 Display setttings,
 VIP Exp,
-"You haven't logged in for <color=#F7D86F>{0}</color> days, welcome back!",
-"You haven't logged in for <color=#F7D86F>{0}</color> days, get <color=#F7D86F>{1}</color> Superior Summon Scrolls at most",
+"You haven't logged in for <color=#FBECAE>{0}</color> days, welcome back!",
+"You haven't logged in for <color=#FBECAE>{0}</color> days, get <color=#FBECAE>{1}</color> Superior Summon Scrolls at most",
 SUMMON_TYPE_DESC_50,1 SSR+ Shards probability: {0}
 SUMMON_TYPE_DESC_51,2 SSR+ Shards probability: {0}
 SUMMON_TYPE_DESC_52,5 SSR+ Shards probability: {0}
@@ -14197,7 +14197,7 @@ Insufficient Retry Times,
 No need to Retry as you have passed all the levels,
 All angels are in the line-up,
 ACTIVITY_CAKE_UNLOCK_GIFT_NEED,Consume {0} Arcane Dust to unlock package of this level
-half_month_content,You'll be granted <color=#FFF341><size=32>{0}</size></color> within <color=#00ff00>7</color> days
+half_month_content,You'll be granted <color=#FFF988><size=32>{0}</size></color> within <color=#00FF00>7</color> days
 ACTIVITY_CAKE_EXCHANGE_COIN_TITLE,Recycled Arcane Dust automatically
 ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,The Smelt Master event is ended. The Arcane Dust you owned are automatically transfered to diamonds!
 2nd Anniversary,
@@ -14249,7 +14249,7 @@ Eternity,
 ,
 ,
 ,
-"The cards event lasts for <color=#00ff00>14</color> days, which will be sent to you via email after login",
+"The cards event lasts for <color=#00FF00>14</color> days, which will be sent to you via email after login",
 2nd Anniversary avatar frame,
 2nd Anniversary exclusive avatar frame in 2022,
 2nd Anniversary chat frame,
@@ -14268,7 +14268,7 @@ Anniversary pack 2,
 Sweetheart Always,
 Anniversary login,
 Anniversary pack,
-ACTIVITY_HOLIDAY_DROP_SUMMON_TIPS,Consume Smelt Potion to get the resonance gem. Every <color=#00ff00>10</color> potion consumed guarantees the reward of Arcane Dust and other mysterious gifts.
+ACTIVITY_HOLIDAY_DROP_SUMMON_TIPS,Consume Smelt Potion to get the resonance gem. Every <color=#00FF00>10</color> potion consumed guarantees the reward of Arcane Dust and other mysterious gifts.
 Loki,
 Sweetheart Always - Loki,
 The bond of friendship,
@@ -15096,17 +15096,17 @@ ACTIVITY_UR_PLUS_HERO_LOGIN_REWARD_REPEAT,Cannot be claimed again
 "After deployed, the battle will automatically begin at 20:00",
 You can only assign one Conqueror,
 You can only assign one Commander,
-COUNTRY_WAR_GUILD_SET_WAR_COMMANDER,{0} is assigned as Commander by Guild Master. <a href=4><color=#FA931AFF>[Check now]>></color></a>
-COUNTRY_WAR_GUILD_SET_GOD_OF_WAR,{0} is assigned as Conqueror by Guild Master. <a href=4><color=#FA931AFF>[Check now]>></color></a>
-COUNTRY_WAR_NOTIFY_DISPATCH,{0} reminds {1} to deploy teams in Gods Twilight in time. <a href=4><color=#FA931AFF>[Go now]>></color></a>
+COUNTRY_WAR_GUILD_SET_WAR_COMMANDER,{0} is assigned as Commander by Guild Master. <a href=4><color=#FCC65AFF>[Check now]>></color></a>
+COUNTRY_WAR_GUILD_SET_GOD_OF_WAR,{0} is assigned as Conqueror by Guild Master. <a href=4><color=#FCC65AFF>[Check now]>></color></a>
+COUNTRY_WAR_NOTIFY_DISPATCH,{0} reminds {1} to deploy teams in Gods Twilight in time. <a href=4><color=#FCC65AFF>[Go now]>></color></a>
 COUNTRY_WAR_COMMANDER_COUNT,
 COUNTRY_WAR_GOD_OF_WAR_COUNT,
 GUILD_MEMBER_POSTION__LEADER,Master
 GUILD_MEMBER_POSTION__VICE_LEADER,Assist
 GUILD_COUNTRY_WAR_POSTION__WAR_COMMANDER,Commander
 GUILD_COUNTRY_WAR_POSTION__GOD_OF_WAR,Matchless Conqueror
-COUNTRY_WAR_BAST_GOD_OF_WAR,Unstoppable! Defeated <color=#FF7C51>{0}</color> team(s)
-COUNTRY_WAR_CITY_MAX_BATTLE_COUNT,<color=#FF7C51>{1}</color> battle(s) at <color=#F4C67D>{0}</color>
+COUNTRY_WAR_BAST_GOD_OF_WAR,Unstoppable! Defeated <color=#FFB797>{0}</color> team(s)
+COUNTRY_WAR_CITY_MAX_BATTLE_COUNT,<color=#FFB797>{1}</color> battle(s) at <color=#F9E3B8>{0}</color>
 Matchless Conqueror,
 OUTLAND_AIRSHIP_BUY_SALY_TOAST,"<size=24>Using the Discount Chance, you can get a random discount on current items and packages. Do you confirm to use?\n\nCurrent Discount Available Item:{0} Package:{1}</size>"
 White Promise,
@@ -19266,7 +19266,7 @@ Freyja's Doubt,
 ,
 ,
 Sunder Armor - Shadow Echo,
-ANNIVERSARY_LETTER_OPENNING,"<color=#fe8cc0>June</color> <color=#fe8cc0>18</color>, <color=#fe8cc0>2020</color>, marked the official launch of Idle Angels.By <color=#fe8cc0>Feburary</color> <color=#fe8cc0>11</color>, <color=#fe8cc0>2021</color>, <color=#fe8cc0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#fe8cc0>June</color> <color=#fe8cc0>17</color>, <color=#fe8cc0>2023</color>, an impressive <color=#fe8cc0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
+ANNIVERSARY_LETTER_OPENNING,"<color=#FEC2E0>June</color> <color=#FEC2E0>18</color>, <color=#FEC2E0>2020</color>, marked the official launch of Idle Angels.By <color=#FEC2E0>Feburary</color> <color=#FEC2E0>11</color>, <color=#FEC2E0>2021</color>, <color=#FEC2E0>1 million</color> Angels had descended upon our world.\nFast forward to <color=#FEC2E0>June</color> <color=#FEC2E0>17</color>, <color=#FEC2E0>2023</color>, an impressive <color=#FEC2E0>10 million</color> angels have embarked on their adventure.\nTogether, we've made great progress in exploring the mysterious world."
 ANNIVERSARY_LETTER_STARTING,"{0}\nA holy light descended, bringing [{1}] the world with hope.\nRemember Princess Bari? She journeyed through this world with you."
 ANNIVERSARY_LETTER_TIME,"Over the last year, \nyou spent {0} dedicated days battling alongside the angels.\nYour total playtime in the game is {1} hours. Time spent with you always seems to fly by."
 ANNIVERSARY_LETTER_HONOR,"Amidst our shared journey, you competed with fellow adventurers.\nYou earned the championship title of the Clash of Titans {0} times.\nYou emerged victorious in the Glory Arena {1} times.\nYou were bestowed the title of Lord of Gods {2\} times.\n"
@@ -22353,8 +22353,8 @@ Initial Energy Point: {0},
 Energy Required: {0},
 Activate {0}-star effect after awakening,
 Awakened {0} Star,
-NOTICE_10010005,The Chosen One! <color=#25c1e9>{0}</color> Ascends <color=#FF3838FF>MR-{1}</color> to <color=#25c1e9>{2}</color> Star!
-NOTICE_10010006,<color=#25c1e9>{0}</color> synthesizes <color=#FF3838FF>MR-{1}</color>!
+NOTICE_10010005,The Chosen One! <color=#6AE0F4>{0}</color> Ascends <color=#FF8080FF>MR-{1}</color> to <color=#6AE0F4>{2}</color> Star!
+NOTICE_10010006,<color=#6AE0F4>{0}</color> synthesizes <color=#FF8080FF>MR-{1}</color>!
 Thanksgiving Gacha,
 Thanksgiving Banquet,
 Thanksgiving Banquet Limited Item Recycling,
@@ -23981,13 +23981,13 @@ NUMBER9,9
 ARMOR_NO_AWAKE,Not Evolved
 ARMOR_AWAKE_STEP,Evolution Phrase {0}
 ARMOR_AWAKE_ATTRIBUTE_LEFT,Gear Main Attributes: +{0}%
-ARMOR_AWAKE_ATTRIBUTE_RIGHT,Gear Main Attributes: {0}+<color=#4CF254>{1}%</color>
+ARMOR_AWAKE_ATTRIBUTE_RIGHT,Gear Main Attributes: {0}+<color=#93F999>{1}%</color>
 ARMOR_ILLUSION_AWAKE_STEP_MAX,Gear fully evolved.
 ARMOR_ILLUSION_AWAKE_NOT_SELECT,Evolving gear not selected.
 ARMOR_ILLUSION_AWAKE_ITEM_NOT_SELECT,No EXP items selected for evolving.
 NUM_REACH_LIMIT,Quantity limit reached.
 ARMOR_ILLUSION_CRYSTAL,Magic Crystal
-ARMOR_AWAKE_ATTRIBUTE_GREEN,Gear Main Attributes: <color=#4CF254>+{0}%</color>
+ARMOR_AWAKE_ATTRIBUTE_GREEN,Gear Main Attributes: <color=#93F999>+{0}%</color>
 ARMOR_AWAKE_ATTRIBUTE_TOTAL,(Total Bonus: +{0}%)
 ARMOR_ILLUSION_LEVEL_LIMIT,Please evolve gear to T5 first.
 Use Magic Stones to boost T5 gear ascending progress.,
@@ -24100,26 +24100,26 @@ strengthen_q_cont_4,"You can refer to the Power-Up Guide feature, specifically t
 strengthen_q_5,Q5: What gear should I choose and how to deal with them?
 strengthen_q_cont_5,
 strengthen_q_6,"Q6: How can I increase an angel's favorability, and what are the benefits?"
-strengthen_q_cont_6,"You can increase an angel's favorability by sending her on <color=#FFE869>[Adventures]</color> and giving her [Gifts], which can be obtained from gift boxes found during <color=#FFE869>[Adventures]</color>. Increasing an angel's favorability grants attribute boosts. When the affection level is high enough, you can use a [Magic Star Ring] to form a vow with the angel, providing significant bonuses."
+strengthen_q_cont_6,"You can increase an angel's favorability by sending her on <color=#FFF4AA>[Adventures]</color> and giving her [Gifts], which can be obtained from gift boxes found during <color=#FFF4AA>[Adventures]</color>. Increasing an angel's favorability grants attribute boosts. When the affection level is high enough, you can use a [Magic Star Ring] to form a vow with the angel, providing significant bonuses."
 Primary currency. Can be spent to purchase rare resources to boost your CR.,
 RESOURCE_DESC1,
 Core items. Can be used to summon angels to improve the team's power!,
-RESOURCE_DESC2,"Summoning scrolls can be obtained through Main Story Quests, Stage Rewards, Wonderland, Limited Event, Diamond Store, Sapphire Store, Daily Gift, Gift Pack, etc.\nSummoning scrolls are divided into [Standard Summon Scroll], [Advanced Summon Scroll], [Legend Summon Scroll], [Superior Summon Scroll]. [Standard Summon Scroll] and [Advanced Summon Scroll] can be used at will, and [Legend Summon Scroll] and [Superior Summon Scroll] can be stored in large quantities and used together with the Luck Rebate event.\n\n[Recommended Summon Scroll Consumption]\n<color=#FFE869>[Beginner's Luck]</color>: <color=#FFE869>[Beginner's Luck]</color> is a summon event designed for new players, offering extremely high rebate rates! The event provides the main angel card pool in the early stage. Through summoning, you can get the angel of your wish at a super low cost!\n<color=#FFE869>[Wish Pool]</color>: <color=#FFE869>[Wish Pool]</color> is a long-term rotating angel summon event. A batch of angel card pools are replaced every week, and the rebate multiples are gratifying! Its value is exceptionally high, especially when combined with the weekly festival events, allowing you to summon your desired angel at a low cost.\n<color=#FFE869>[Divinity Ascend]</color>: <color=#FFE869>[Divinity Ascend]</color> is a limited-time rotation event for the angel card pool, and one angel is replaced each time. The event allows players to summon high-quality MR angels. At the same time, players can also receive a certain amount of [Superior Summon Scrolls] through the corresponding summon rebate event, which can significantly reduce the cost of obtaining MR quality angels.\n<color=#FFE869>[Destiny Star]</color>: Summon the destiny star to improve the attributes and passive skill effects of the corresponding angel, and quickly improve your CR!"
+RESOURCE_DESC2,"Summoning scrolls can be obtained through Main Story Quests, Stage Rewards, Wonderland, Limited Event, Diamond Store, Sapphire Store, Daily Gift, Gift Pack, etc.\nSummoning scrolls are divided into [Standard Summon Scroll], [Advanced Summon Scroll], [Legend Summon Scroll], [Superior Summon Scroll]. [Standard Summon Scroll] and [Advanced Summon Scroll] can be used at will, and [Legend Summon Scroll] and [Superior Summon Scroll] can be stored in large quantities and used together with the Luck Rebate event.\n\n[Recommended Summon Scroll Consumption]\n<color=#FFF4AA>[Beginner's Luck]</color>: <color=#FFF4AA>[Beginner's Luck]</color> is a summon event designed for new players, offering extremely high rebate rates! The event provides the main angel card pool in the early stage. Through summoning, you can get the angel of your wish at a super low cost!\n<color=#FFF4AA>[Wish Pool]</color>: <color=#FFF4AA>[Wish Pool]</color> is a long-term rotating angel summon event. A batch of angel card pools are replaced every week, and the rebate multiples are gratifying! Its value is exceptionally high, especially when combined with the weekly festival events, allowing you to summon your desired angel at a low cost.\n<color=#FFF4AA>[Divinity Ascend]</color>: <color=#FFF4AA>[Divinity Ascend]</color> is a limited-time rotation event for the angel card pool, and one angel is replaced each time. The event allows players to summon high-quality MR angels. At the same time, players can also receive a certain amount of [Superior Summon Scrolls] through the corresponding summon rebate event, which can significantly reduce the cost of obtaining MR quality angels.\n<color=#FFF4AA>[Destiny Star]</color>: Summon the destiny star to improve the attributes and passive skill effects of the corresponding angel, and quickly improve your CR!"
 strengthen_q_consume_1,Casual Contributor
-strengthen_q_consume_cont_1,"New players must buy this three-piece set to help you quickly widen the level gap!\n<color=#FFE869>[Beginner's Choice]</color>: You can directly obtain a SSR quality angel, and the map clearance speed will be doubled!\n<color=#FFE869>[Angel Blessings]</color>: It can increase the upper limit of Quick Combat Scroll and significantly boosts resource drop rates, accelerating level progression.\n<color=#FFE869>[Monthly Card]</color>: Get more player EXP and [Diamonds], and quickly widen the level gap."
+strengthen_q_consume_cont_1,"New players must buy this three-piece set to help you quickly widen the level gap!\n<color=#FFF4AA>[Beginner's Choice]</color>: You can directly obtain a SSR quality angel, and the map clearance speed will be doubled!\n<color=#FFF4AA>[Angel Blessings]</color>: It can increase the upper limit of Quick Combat Scroll and significantly boosts resource drop rates, accelerating level progression.\n<color=#FFF4AA>[Monthly Card]</color>: Get more player EXP and [Diamonds], and quickly widen the level gap."
 strengthen_q_consume_2,Generous Benefactor
-strengthen_q_consume_cont_2,"Extremely cost-effective items! Get the most benefits at the lowest cost!\n<color=#FFE869>[Beginner's Choice]</color>: You can directly obtain a SSR quality angel, and the map clearance speed will be doubled!\n<color=#FFE869>[Angel Blessings]</color>: It can increase the upper limit of Quick Combat Scroll and significantly boosts resource drop rates, accelerating level progression.\n<color=#FFE869>[Legend Monthly Card]</color>: Get more player EXP and resources such as [Legend Summon Scroll]. You can get 60 [Legend Summon Scrolls] eventually. It is very cost-effective!\n<color=#FFE869>[Beginner's Luck Summon Pack]</color>: Directly purchase to obtain [Legend Summon Scroll] and [Superior Summon Scroll], and obtain your desired angel at one time, widening the gap in CR and dungeon progress.\n<color=#FFE869>[Daily Gift]</color>: Purchase a 10-day daily gift package with one tap, and you can receive high-level rare resources and dice every day. Use the dice in the <color=#FFE869>[Lucky Board]</color>, and you can also get a large number of rich training resources, [Superior Summon Scroll], [Legend Summon Scroll] and precious items such as [Classic Angel Shard Optional Box] and [SSR+ Angels' Relic].\n<color=#FFE869>[Privilege Battle Pass]</color>: After purchasing the Battle Passes such as Supply House, Gem Hunter, Core Hunter, Growth Encourage, Dungeon Brave, and Sky Chaser, you can obtain a large number of resources, diamonds, summon scrolls, and rich angel training resources, further speeding up the development progress and dungeon advancing speed."
+strengthen_q_consume_cont_2,"Extremely cost-effective items! Get the most benefits at the lowest cost!\n<color=#FFF4AA>[Beginner's Choice]</color>: You can directly obtain a SSR quality angel, and the map clearance speed will be doubled!\n<color=#FFF4AA>[Angel Blessings]</color>: It can increase the upper limit of Quick Combat Scroll and significantly boosts resource drop rates, accelerating level progression.\n<color=#FFF4AA>[Legend Monthly Card]</color>: Get more player EXP and resources such as [Legend Summon Scroll]. You can get 60 [Legend Summon Scrolls] eventually. It is very cost-effective!\n<color=#FFF4AA>[Beginner's Luck Summon Pack]</color>: Directly purchase to obtain [Legend Summon Scroll] and [Superior Summon Scroll], and obtain your desired angel at one time, widening the gap in CR and dungeon progress.\n<color=#FFF4AA>[Daily Gift]</color>: Purchase a 10-day daily gift package with one tap, and you can receive high-level rare resources and dice every day. Use the dice in the <color=#FFF4AA>[Lucky Board]</color>, and you can also get a large number of rich training resources, [Superior Summon Scroll], [Legend Summon Scroll] and precious items such as [Classic Angel Shard Optional Box] and [SSR+ Angels' Relic].\n<color=#FFF4AA>[Privilege Battle Pass]</color>: After purchasing the Battle Passes such as Supply House, Gem Hunter, Core Hunter, Growth Encourage, Dungeon Brave, and Sky Chaser, you can obtain a large number of resources, diamonds, summon scrolls, and rich angel training resources, further speeding up the development progress and dungeon advancing speed."
 strengthen_q_consume_3,Ultimate Patron
 strengthen_q_consume_cont_3,"Under any spending conditions,\nif the budget is sufficient, both types of paid recommendations can be purchased. If there is a shortage of development resources, you can also directly purchase gift packs containing the corresponding development resources to quickly maximize the training of angels."
-EXP_DESC,"Angel EXP is a resource for upgrading the angel level. The higher the angel level, the higher the CR;\nMain output: <color=#FFE869>[Quick Combat]</color>, <color=#FFE869>[Gift Package]</color>"
-ARMOR_DESC,"Wearing gear can improve the angels' CR. The higher the quality and level of the gear, the greater the CR improvement. \nMain output: <color=#FFE869>[Dungeon Battle]</color>, <color=#FFE869>[Idle Rewards]</color>, <color=#FFE869>[Quick Combat]</color>, <color=#FFE869>[Mystery Store]</color>, <color=#FFE869>[World Boss]</color>."
+EXP_DESC,"Angel EXP is a resource for upgrading the angel level. The higher the angel level, the higher the CR;\nMain output: <color=#FFF4AA>[Quick Combat]</color>, <color=#FFF4AA>[Gift Package]</color>"
+ARMOR_DESC,"Wearing gear can improve the angels' CR. The higher the quality and level of the gear, the greater the CR improvement. \nMain output: <color=#FFF4AA>[Dungeon Battle]</color>, <color=#FFF4AA>[Idle Rewards]</color>, <color=#FFF4AA>[Quick Combat]</color>, <color=#FFF4AA>[Mystery Store]</color>, <color=#FFF4AA>[World Boss]</color>."
 SHARD_DESC,
-HOLY_CORE_DESC,"The Holy Core is a special item for breaking through the angel level. The higher the angel level, the higher the CR; \nMain output: <color=#FFE869>[Quick Combat]</color>, <color=#FFE869>[Guild Store]</color>, <color=#FFE869>[Package Purchase]</color>"
-ENHANCE_ESSENCE_DESC,"Enhancement Essence is the main resource for equipment enhancement. The higher the gear enhancement level, the greater the CR improvement brought by the geart. \nMain output: <color=#FFE869>[Sky Tower]</color>, <color=#FFE869>[Sapphire Store]</color>, <color=#FFE869>[Buy Pack]</color>, <color=#FFE869>[Sky Chaser]</color>"
-TRAINING_DESC,"Training Vials are divided into [Supreme Training Vial], [Advanced Training Vial], [Platinum Training Vial], and [Supreme Training Vial]. \nEach type of training vial is used for corresponding types of training, randomly changing the four-dimensional basic attributes of the angel. For example, [Standard Training Vial] are used for common training of the angel, and [Platinum Training Vial] are used for more advanced training of the angel. \nMain outputs <color=#FFE869>[Sky Tower]</color>, <color=#FFE869>[Weekly Gift]</color>, <color=#FFE869>[Buy Pack]</color>"
+HOLY_CORE_DESC,"The Holy Core is a special item for breaking through the angel level. The higher the angel level, the higher the CR; \nMain output: <color=#FFF4AA>[Quick Combat]</color>, <color=#FFF4AA>[Guild Store]</color>, <color=#FFF4AA>[Package Purchase]</color>"
+ENHANCE_ESSENCE_DESC,"Enhancement Essence is the main resource for equipment enhancement. The higher the gear enhancement level, the greater the CR improvement brought by the geart. \nMain output: <color=#FFF4AA>[Sky Tower]</color>, <color=#FFF4AA>[Sapphire Store]</color>, <color=#FFF4AA>[Buy Pack]</color>, <color=#FFF4AA>[Sky Chaser]</color>"
+TRAINING_DESC,"Training Vials are divided into [Supreme Training Vial], [Advanced Training Vial], [Platinum Training Vial], and [Supreme Training Vial]. \nEach type of training vial is used for corresponding types of training, randomly changing the four-dimensional basic attributes of the angel. For example, [Standard Training Vial] are used for common training of the angel, and [Platinum Training Vial] are used for more advanced training of the angel. \nMain outputs <color=#FFF4AA>[Sky Tower]</color>, <color=#FFF4AA>[Weekly Gift]</color>, <color=#FFF4AA>[Buy Pack]</color>"
 ARTIFACT_DESC,
-RUNE_ESSENCE_DESC,"Rune Essence is a resource used to improve the talent level of all angels. The higher the talent level, the higher the attribute bonus for all angels. \n To improve the talent level of the mage angels, you need mage runes, to improve the talent level of the archer angels, you need archer runes, and to improve the talent level of the warrior angels, you need warrior runes. \nMain output: <color=#FFE869>[Glaive Tower]</color>, <color=#FFE869>[Magic Tower]</color>, <color=#FFE869>[Arrow Tower]</color>, <color=#FFE869>[Weekly Gift]</color>"
-GEM_DESC,"Gems are important auxiliary equipment for angels to improve their CR. They are divided into four types: ATK Gem, HP Gem, DEF Gem, DEF.PEN Gem. The higher the level of the gems, the greater the CR bonus they provide. \nMain output: <color=#FFE869>[Star Trial]</color>, <color=#FFE869>[Weekly Gift]</color>, <color=#FFE869>[Diamond Store]</color>, <color=#FFE869>[Buy Pack]</color>, <color=#FFE869>[Gem Hunter]</color>"
+RUNE_ESSENCE_DESC,"Rune Essence is a resource used to improve the talent level of all angels. The higher the talent level, the higher the attribute bonus for all angels. \n To improve the talent level of the mage angels, you need mage runes, to improve the talent level of the archer angels, you need archer runes, and to improve the talent level of the warrior angels, you need warrior runes. \nMain output: <color=#FFF4AA>[Glaive Tower]</color>, <color=#FFF4AA>[Magic Tower]</color>, <color=#FFF4AA>[Arrow Tower]</color>, <color=#FFF4AA>[Weekly Gift]</color>"
+GEM_DESC,"Gems are important auxiliary equipment for angels to improve their CR. They are divided into four types: ATK Gem, HP Gem, DEF Gem, DEF.PEN Gem. The higher the level of the gems, the greater the CR bonus they provide. \nMain output: <color=#FFF4AA>[Star Trial]</color>, <color=#FFF4AA>[Weekly Gift]</color>, <color=#FFF4AA>[Diamond Store]</color>, <color=#FFF4AA>[Buy Pack]</color>, <color=#FFF4AA>[Gem Hunter]</color>"
 Current Deployed Angel Levels,
 "Current Angel Quality, Stars, and Awaken Status",
 Current Angel Gear,
@@ -24789,8 +24789,8 @@ Free Gift on Login,
 Unused,
 Currently unused,
 Currently using,
-"During the event, use the discount coupon in the Wish Pool with <color=#FFE869>Superior Summon Scrolls</color>. A 10-summon costs only 8 <color=#FFE869>Superior Summon Scrolls</color>. Unused coupons will be reclaimed after the event.",
-"During the event, use the discount coupon in the Wish Pool with <color=#FFE869>Superior Summon Scrolls</color>. A 10-summon costs only 8 <color=#FFE869>Superior Summon Scrolls</color>. Unused coupons will be reclaimed after the event.",
+"During the event, use the discount coupon in the Wish Pool with <color=#FFF4AA>Superior Summon Scrolls</color>. A 10-summon costs only 8 <color=#FFF4AA>Superior Summon Scrolls</color>. Unused coupons will be reclaimed after the event.",
+"During the event, use the discount coupon in the Wish Pool with <color=#FFF4AA>Superior Summon Scrolls</color>. A 10-summon costs only 8 <color=#FFF4AA>Superior Summon Scrolls</color>. Unused coupons will be reclaimed after the event.",
 "Detected a Wish Pool 10-Summon Coupon in your bag, currently unused. Proceed with summoning?",
 Go & Use,
 Discount coupons,
@@ -25834,3 +25834,25 @@ Random UR Angel,
 Randomly receive 60 UR shards of a single angel,
 Random UR+ Angel,
 Randomly receive 65 UR+ shards of a single angel,
+Starbound Hex,
+"Applies 1 stack of [Heartburn] to all enemies, then randomly attacks 2 times. Each attack deals 100% True DMG to a random enemy and applies 1 stack of [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova (lasts until the end of battle) which becomes immune to debuffs and will only inflict [Heartburn] when in action. After receiving damage 6 times, Supernova ends.",
+"Applies 1 stack of [Heartburn] to all enemies, then randomly attacks 3 times. Each attack deals 100% True DMG to a random enemy and applies 1 stack of [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova (lasts until the end of battle) which becomes immune to debuffs and will only inflict [Heartburn] when in action. After receiving damage 6 times, Supernova ends.",
+"Applies 1 stack of [Heartburn] to all enemies, then randomly attacks 3 times. Each attack deals 100% True DMG to a random enemy and applies 1 stack of [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova (lasts until the end of battle) which becomes immune to debuffs and will only inflict [Heartburn] when in action. After receiving damage 8 times, Supernova ends.",
+"Applies 2 stacks of [Heartburn] to all enemies, then randomly attacks 3 times. Each attack deals 100% True DMG to a random enemy and applies 1 stack of [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova (lasts until the end of battle) which becomes immune to debuffs and will only inflict [Heartburn] when in action. After receiving damage 10 times, Supernova ends.",
+"Applies 2 stacks of [Heartburn] to all enemies, then randomly attacks 4 times. Each attack deals 100% True DMG to a random enemy and applies 1 stack of [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova (lasts until the end of battle) which becomes immune to debuffs and will only inflict [Heartburn] when in action. After receiving damage 12 times, Supernova ends.",
+"Applies [Heartburn] to all enemies, then randomly attacks 2 times. Each attack deals DMG to a random enemy and applies [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova and will only inflict [Heartburn] when in action.",
+"Applies [Heartburn] to all enemies, then randomly attacks 3 times. Each attack deals DMG to a random enemy and applies [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova and will only inflict [Heartburn] when in action.",
+"Applies [Heartburn] to all enemies, then randomly attacks 4 times. Each attack deals DMG to a random enemy and applies [Heartburn] to the target.\nPassive Effect: If Apollo dies and no allies are left, she transforms into a Supernova and will only inflict [Heartburn] when in action.",
+"ATK +5%, Debuff RES +5%",
+"M.RES +10%, HP +10%",
+"HP +15%, Leech +15%",
+"ATK +20%, DEF +20%",
+ATK +30%,
+Apollo gains 150 energy upon entering battle.,
+Attacks an additional time.,
+[Supernova] can withstand 2 extra hits before being destroyed.,
+Applies an additional stack of [Heartburn] to all enemies. [Supernova] can endure 2 more attacks before being destroyed.,
+"Attacks an additional time, and [Supernova] can withstand 2 extra hits before being destroyed.",
+Supernova - Blazing Star,
+Lasts until the end of battle,
+Supernova,

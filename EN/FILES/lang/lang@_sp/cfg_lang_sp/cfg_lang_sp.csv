@@ -99,7 +99,7 @@ HIGH_QUALITY_RATE,
 ARMOR_ATTR_PART1,
 ARMOR_ATTR_PART1_ITEM,<size=25><color=#FFFFFF>{text}</color></size>
 ARMOR_ATTR_PART2,<size=30><color=#FFFF00>Atributos Adicionales:</color></size>
-ARMOR_ATTR_PART2_ITEM,<size=25><color=#FF882C>{text}</color></size>
+ARMOR_ATTR_PART2_ITEM,<size=25><color=#FFBF72>{text}</color></size>
 ARMOR_ATTR_PART3,<size=30><color=#FF0000>Atributo Artefacto:</color></size>
 ARMOR_ATTR_PART3_ITEM,<size=25><color=#FF0000>{text}</color></size>
 TIME_SECOND,s
@@ -145,8 +145,8 @@ BATTLE_REPORT_AWARD,Obtener {name}*{count}
 BATTLE_REPORT_SEARCH_ENEMY,Explorando
 BATTLE_REPORT_ROUND_BEGIN,La {count} ronda empieza
 ARENA_TARGET_USER_ERROR,Error de datos del jugador objetivo
-ARENA_REPORT_SUBTITLE_1,"Desafiado por <color=#ffd43e>{0}</color>, y {1}. {2}"
-ARENA_REPORT_SUBTITLE_2,"Desafiado <color=#ffd43e>{0}</color>, y {1}. {2}"
+ARENA_REPORT_SUBTITLE_1,"Desafiado por <color=#FFEA86>{0}</color>, y {1}. {2}"
+ARENA_REPORT_SUBTITLE_2,"Desafiado <color=#FFEA86>{0}</color>, y {1}. {2}"
 ARENA_RANK,
 CONFIRM_SIGN_UP_HONOR_ARENA,
 NOT_CHANGE,Sin cambios
@@ -592,7 +592,7 @@ ACTIVITY_ONLINE_RECEIVE_REPEAT,
 ACTIVITY_ONLINE_TIME_TIPS,Reclamable en {0}
 STRONGER_TITLE,Se superaron los <color=#00FFFFFF>{0}</color> jugadores del mismo nivel
 GET_DEBRIS,Obtener fragmento
-GODDESS_BLESS_TIME_TIPS,Restante: <color=#00FF56FF>{0}</color>Dia(s)
+GODDESS_BLESS_TIME_TIPS,Restante: <color=#00FF9BFF>{0}</color>Dia(s)
 SERVER_TIME,Hora del servidor: {0}
 CHANGE_NAME_FREE_TIPS,Gratis por esta vez
 CHANGE_NAME_COST_TIPS,Requiere {0} diamantes
@@ -1050,7 +1050,7 @@ Tienda Misteriosa,
 text text,texto texto
 Siguiente,
 SUMMON_TEN,Invocar 10 veces
-Comprar un total de <color=#FFBA00>{num}</color> Diamantes y obtener <color=#FFBA00>VIP {viplv} </color> Privilegios,
+Comprar un total de <color=#FFDC00>{num}</color> Diamantes y obtener <color=#FFDC00>VIP {viplv} </color> Privilegios,
 ,
 Auto-Combate Avanzado,
 ,
@@ -3585,9 +3585,9 @@ Forzar volviendo,
 ,
 Toca para ingresar a la mazmorra desbloqueada reciente,
 ,
-El bolso esta llena. Se recomienda <color=#C62416>forjar equipamiento</color>.,
-Hay algunos equipamientos innecesarios. Se recomienda llevar al equipamiento para <color=#C62416>forjar</color>.,
-Nueva <color=#C62416>Habilidad</color> Desbloqueada,
+El bolso esta llena. Se recomienda <color=#E36853>forjar equipamiento</color>.,
+Hay algunos equipamientos innecesarios. Se recomienda llevar al equipamiento para <color=#E36853>forjar</color>.,
+Nueva <color=#E36853>Habilidad</color> Desbloqueada,
 Toca para ver las habilidades,
 ,
 ,
@@ -3596,29 +3596,29 @@ Toca para seleccionar habilidad,
 ,
 ,
 ,
-Toca para comenzar <color=#C62416>Entrenamiento</color>,
+Toca para comenzar <color=#E36853>Entrenamiento</color>,
 ,
 Guardar atributo desarrollado,
 ,
-Toca para entrar a <color=#C62416>Arena</color>,
+Toca para entrar a <color=#E36853>Arena</color>,
 Toca para desafiar,
-Forja un <color=#C62416>Artefacto</color> ahora,
+Forja un <color=#E36853>Artefacto</color> ahora,
 ,
-Selecciona el <color=#C62416>Artefacto</color> para forjar,
+Selecciona el <color=#E36853>Artefacto</color> para forjar,
 Toca para crear,
 ,
-Comienza <color=#C62416>Aventura</color>,
-Toca para seleccionar <color=#FA931AFF>Etapa de aventura </color>,
+Comienza <color=#E36853>Aventura</color>,
+Toca para seleccionar <color=#FCC65AFF>Etapa de aventura </color>,
 ,
 ,
 Toca para abrir la bolsa de fragmentos,
 ,
 ,
 ,
-<color=#C62416>Forja</color> una pieza de equipamiento ahora,
+<color=#E36853>Forja</color> una pieza de equipamiento ahora,
 ,
 ,
-Toca para <color=#C62416>forjar</color> equipamiento,
+Toca para <color=#E36853>forjar</color> equipamiento,
 ,
 ,
 ,
@@ -3904,7 +3904,7 @@ Espada del Valor,
 ,
 Ok.,
 ,
-<color=#C62416>Las recompensas de misiones</color> incluyen Diamantes enormes y objetos raros. Reclamar ahora ~,
+<color=#E36853>Las recompensas de misiones</color> incluyen Diamantes enormes y objetos raros. Reclamar ahora ~,
 ,
 ,
 ,
@@ -3915,7 +3915,7 @@ HERO_FEELING_MAX,
 "Incrementa ATQ en 22%, Crit en 26%",
 HERO_AWAKE_FULL,
 SUMMON_HERO_HAVE,
-HERO_ARRAY_FIGHT_VALUE,<color=#ffffff><size=24>Poder:</size></color>{0}
+HERO_ARRAY_FIGHT_VALUE,<color=#FFFFFF><size=24>Poder:</size></color>{0}
 HERO_ARRAY_FIGHT_COUNT,En lucha:{0}/{1}
 HERO_ARRAY_OPEN_NEED_LEVEL,Niv.{0} para desbloquear
 HERO_ARRAY_FIGHT_COUNT_MAX_LIMIT,
@@ -4021,7 +4021,7 @@ HERO_AWAKE_NOT_ENOUGH,Despertar no es suficiente
 ,
 ,
 ,
-"<color=#C62416>Aventura</color> necesita algo de tiempo para terminar, puedes usar <color=#6DCFF6FF>acelerar</color> para terminarlo ahora mismo.",
+"<color=#E36853>Aventura</color> necesita algo de tiempo para terminar, puedes usar <color=#ADE7FAFF>acelerar</color> para terminarlo ahora mismo.",
 ,
 ,
 ,
@@ -4068,7 +4068,7 @@ SKY_STONE,Llave del rascacielo
 SKY_STONE_DESC,La llave del rascacielo se usa para aniquilar plantas despejadas
 HERO_GROUP_LOCK,(Bloqueado)
 HERO_GROUP_UNLOCK,Desbloquear
-HERO_GROUP_LEVEL,(Niv.<color=#E5E485>{0}</color>)
+HERO_GROUP_LEVEL,(Niv.<color=#F2F2BD>{0}</color>)
 HERO_GROUP_FULL_LEVEL,
 HERO_GROUP_UPGRADE,Nivel Actualizado
 HERO_GROUP_NEXT_LEVEL_INFO,Siguiente Niv.:{0}
@@ -4105,9 +4105,9 @@ Descuento de Diamantes,
 Compra limitada,
 Reclamado hoy,
 Paquete especial I,
-<size=32>Obtener <b><color=#FA931AFF>60</color></b> Diamantes</size> \nObtener paquete de <b><color=#FF0909FF>588</color></b> Diamantes,
-<size=32>Obtener <b><color=#FA931AFF>80</color></b> Diamantes</size> \nObtener Paquete de <b><color=#FF0909FF>988</color></b> Diamantes,
-<size=32>Obtener <b><color=#FA931AFF>120</color></b> Diamantes</size> \nObtener paquete de <b><color=#FF0909FF>1588</color></b> Diamantes,
+<size=32>Obtener <b><color=#FCC65AFF>60</color></b> Diamantes</size> \nObtener paquete de <b><color=#FF3737FF>588</color></b> Diamantes,
+<size=32>Obtener <b><color=#FCC65AFF>80</color></b> Diamantes</size> \nObtener Paquete de <b><color=#FF3737FF>988</color></b> Diamantes,
+<size=32>Obtener <b><color=#FCC65AFF>120</color></b> Diamantes</size> \nObtener paquete de <b><color=#FF3737FF>1588</color></b> Diamantes,
 Obtener 10 Diamantes \nObtener paquete de 188 Diamantes,
 ,
 Tarjeta Semanal,
@@ -4542,7 +4542,7 @@ NOTICE_10009001,
 NOTICE_10010001,
 NOTICE_10010002,
 NOTICE_10103001,
-NOTICE_10104001,"Las semifinales en Choque de Gremios terminaron. Felicidades a esos 4 gremios: <color=#49ff31>{0}</color>,<color=#49ff31>{1}</color>,<color=#49ff31>{2}</color>,<color=#49ff31>{3}</color>"
+NOTICE_10104001,"Las semifinales en Choque de Gremios terminaron. Felicidades a esos 4 gremios: <color=#90FF78>{0}</color>,<color=#90FF78>{1}</color>,<color=#90FF78>{2}</color>,<color=#90FF78>{3}</color>"
 NOTICE_10105001,
 NOTICE_10106001,
 NOTICE_10201001,
@@ -6809,7 +6809,7 @@ Congelado - Tierra de Invierno,
 SELL OUT,AGOTADO
 SELL_OUT,AGOTADO
 Boss del Gremio,
-CHARGE_VIP_LV_TIPS_TWO,Requiere <color=#FFBA00>{num}</color>VIP EXP para actualizar a <color=#FFBA00>VIP {viplv} </color>
+CHARGE_VIP_LV_TIPS_TWO,Requiere <color=#FFDC00>{num}</color>VIP EXP para actualizar a <color=#FFDC00>VIP {viplv} </color>
 Recompensas de Rango,
 Bolsa de Gemas Abierta,
 EVENT_SHOP_DAILY,Descuento Diario
@@ -6842,7 +6842,7 @@ Completar:,
 Llave del Rey de Dios,
 CUSTOM_GIFT_NAME_LEVEL1,Valiente
 CUSTOM_GIFT_NAME_LEVEL2,Adelante
-REACH_LEVEL_UNLOCK_SUMMON,Desbloquear en <color=#FFBA00>Niv.{level}</color>
+REACH_LEVEL_UNLOCK_SUMMON,Desbloquear en <color=#FFDC00>Niv.{level}</color>
 EVENT_GOD_TREASURE_HOUSE_LAYER,Piso de la Casa del Tesoro {0}
 Desbloquear en Niv.40,
 Desbloquear en Niv.70,
@@ -7052,14 +7052,14 @@ Apoyo,
 ,
 ,
 ,
-<color=#4FFF4FFF>Restante hoy:</color>5 veces,
+<color=#95FF95FF>Restante hoy:</color>5 veces,
 ,
 ,
 ,
 HERO_SKIN_EXPIRE,
 Calibre la hora local,
 CONTENT_CONTAIN_SHIELD_WORD,"El contenido contiene palabras sensibles, por favor, vuelva a ingresar."
-WORLD_BOSS_CHALLENGE_NUM,Restante hoy: <color=#4FFF4FFF>{0}</color>veces
+WORLD_BOSS_CHALLENGE_NUM,Restante hoy: <color=#95FF95FF>{0}</color>veces
 SERVER_CAN_NOT_LOGIN,
 Comunidad,
 WORLD_BOSS_SHOWTEXT_1,
@@ -7301,7 +7301,7 @@ Paz & Amor 1,
 Paz & Amor 2,
 Paz & Amor 3,
 Paz & Amor 4,
-GOODS_EXCHANGE_TEXT_CONTENT,Durante el evento <color=#6DCFF6FF>({0})</color>\nLas batallas de mazmorras tienen la posibilidad de dejar caer <color=#FF67FFFF>[{1}]</color> y <color=#FA931AFF>[{2}]</color>\nPuedes usarlos para canjear recompensas.
+GOODS_EXCHANGE_TEXT_CONTENT,Durante el evento <color=#ADE7FAFF>({0})</color>\nLas batallas de mazmorras tienen la posibilidad de dejar caer <color=#FFA8FFFF>[{1}]</color> y <color=#FCC65AFF>[{2}]</color>\nPuedes usarlos para canjear recompensas.
 GEM_HUNTER_GOODS_COUNT,Esencia de Gema: {0}
 GEM_HUNTER_PROFICIENCY,Competencia de Cazador de Gemas: {0}
 GEM_HUNTER_AWARD,Recompensas de Cazador de Gemas
@@ -7496,7 +7496,7 @@ JP,
 Bolsa de Reliquia,
 Avanzar,
 Obtener Reliquia,
-RELIC_SUMMON_TIP,Diez invocaciones deben tener Reliquias <color=#D638EF>R</color> o <color=#FDAD2F>SR</color>
+RELIC_SUMMON_TIP,Diez invocaciones deben tener Reliquias <color=#EB80F7>R</color> o <color=#FED576>SR</color>
 ,
 ,
 ,
@@ -8098,7 +8098,7 @@ Attribute:\n,Atributo:\n
 Sacrificio de Muerte,
 ,
 ,
-GUILD_APPLE_MEMBER_FIGHT,<color=#c0c0c0>Participantes:</color>{0}
+GUILD_APPLE_MEMBER_FIGHT,<color=#E0E0E0>Participantes:</color>{0}
 ,
 ,
 Exclusivo de Navidad 4,
@@ -8236,7 +8236,7 @@ GUILD_APPLE_COIN,Manzana Dorada
 ,
 "Recientemente, Hera y Zeus van a realizar un concurso de amuletos, puedes unirte y conseguir las manzanas doradas.",
 ,
-HOT_ACTIVITY_SCORE,<color=#A0A5ABFF>Puntos</color>{0}
+HOT_ACTIVITY_SCORE,<color=#CED1D4FF>Puntos</color>{0}
 Recompensas de Recarga,
 ACTIVE_RECHRAGE_TASK_ALL,Acumulando {0} experiencia VIP durante el evento
 ACTIVE_RECHRAGE_BUTTON_TIPS_ALL,Necesita obtener {0} experiencia VIP para recibir recompensas
@@ -9214,12 +9214,12 @@ COUNTRY_WAR_DESC_21,No posee la presente ciudad
 COUNTRY_WAR_DESC_22,No se puede llegar a esta ciudad
 COUNTRY_WAR_DESC_23,Ciudades insuficientes
 COUNTRY_WAR_DESC_24,
-COUNTRY_WAR_DESC_25,"[{0}] En la batalla contra <color=#E93830>{1}</color>, logramos derrotar a nuestro oponente y ocupar la ciudad <color=#6A8AF5>{2}</color>."
+COUNTRY_WAR_DESC_25,"[{0}] En la batalla contra <color=#F48077>{1}</color>, logramos derrotar a nuestro oponente y ocupar la ciudad <color=#ABC0FA>{2}</color>."
 COUNTRY_WAR_DESC_26,
 COUNTRY_WAR_DESC_27,Actualmente no se puede usar cuerno
 COUNTRY_WAR_USE_GOODS_POWER_TIPS,Solo el administrador del gremio puede usar el utensilio
 COUNTRY_WAR_MESSAGE_DECLARED,
-COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#6A8AF5>{0}</color>fue declarado guerra por <color=#E93830>{1}</color>
+COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#ABC0FA>{0}</color>fue declarado guerra por <color=#F48077>{1}</color>
 COUNTRY_WAR_MESSAGE_USE_GOODS,
 COUNTRY_WAR_CLOSE,Sistema cerrado
 COUNTRY_WAR_HAS_NOT_SIGIUP,No inscrito
@@ -9252,7 +9252,7 @@ COUNTRY_WAR_SIGN_UP_PVE_NOTIFY_MESSAGE,
 COUNTRY_WAR_SIGN_UP_PVP_NOTIFY_MESSAGE,
 COUNTRY_WAR_XUAN_ZHAN_NOTIFY_MESSAGE,
 COUNTRY_WAR_USE_GOODS_NOTIFY_MESSAGE,
-COUNTRY_WAR_BATTLE_RESULT_NOTIFY_MESSAGE,"[{0}] En batalla con {1}, nuestro {2}, <a href=4><color=#FA931AFF>[Haz clic para ir]>>></color></a>"
+COUNTRY_WAR_BATTLE_RESULT_NOTIFY_MESSAGE,"[{0}] En batalla con {1}, nuestro {2}, <a href=4><color=#FCC65AFF>[Haz clic para ir]>>></color></a>"
 SEASON_NO,Temporada{0}
 PVP_ENTRANCE_COUNTRY_WAR,
 COUNTRY_WAR_USE_GOODS_TIPS,
@@ -9343,13 +9343,13 @@ ABYSS_GOODS_USE_HERO_EMPTY,No hay diosas para restaurar
 DRESS_STRENGTHEN_EMPTY,No material disponible
 COPY_SUCCESS,Copiado
 No disponible,
-<color=#6570a2><size=20>No equipos disponibles para forjar actualmente</size></color>,
-<color=#6570a2><size=20>No hay equipos disponibles actualmente</size></color>,
+<color=#A7AFCF><size=20>No equipos disponibles para forjar actualmente</size></color>,
+<color=#A7AFCF><size=20>No hay equipos disponibles actualmente</size></color>,
 [Activar dos],
 ,
 ,
 Vida,
-<color=#6570a2><size=20>No fragmento disponible</size></color>,
+<color=#A7AFCF><size=20>No fragmento disponible</size></color>,
 Marco de charla,
 Marco predeterminado,
 Predeterminado,
@@ -9422,7 +9422,7 @@ Has ocupado {0} ciudades,
 ,
 ,
 ,
-<color=#A0A5ABFF>Puntos</color>1000/1000,
+<color=#CED1D4FF>Puntos</color>1000/1000,
 ,
 Disfruta de recompensas adicionales,
 Por cada 2000 diamantes gastados,
@@ -9432,9 +9432,9 @@ Se necesitan 50 fragmentos para formar una diosa de nivel SSR,
 Precio original:,
 ,
 30 minutos de ganancias de combate,
-<color=#6570a2><size=20>No solicitud de amistad</size></color>,
-<color=#6570a2><size=20>No jugador en la lista negra</size></color>,
-<color=#6570a2><size=20>No comunicado nuevo</size></color>,
+<color=#A7AFCF><size=20>No solicitud de amistad</size></color>,
+<color=#A7AFCF><size=20>No jugador en la lista negra</size></color>,
+<color=#A7AFCF><size=20>No comunicado nuevo</size></color>,
 Origen:Choque de gremios,
 Tiempo limitado:,
 Normal,
@@ -9442,11 +9442,11 @@ Tiempo limitado,
 Servidor,
 Diario de gremio,
 Anuncio del presente servidor,
-<color=#6570a2><size=20>No correo</size></color>,
+<color=#A7AFCF><size=20>No correo</size></color>,
 ,
 De acuerdo,
-<color=#6570a2><size=20>No reliquia que puede ascender con celeridad</size></color>,
-<color=#6570a2><size=20>No reliquia</size></color>,
+<color=#A7AFCF><size=20>No reliquia que puede ascender con celeridad</size></color>,
+<color=#A7AFCF><size=20>No reliquia</size></color>,
 ,
 Momias egipcias,
 Condiciones para desbloquear,
@@ -9455,7 +9455,7 @@ Condiciones para la compra limitada,
 Renunciar recompensas\n,
 Cada semana,
 Esta semana\nGrado de actividad,
-<color=#6570a2><size=20>No Informe de guerra</size></color>,
+<color=#A7AFCF><size=20>No Informe de guerra</size></color>,
 Pasillo de la Valhalla,
 SUMMON_TYPE_DESC_111,Probabilidad de fragmento de diosa SSR+: {0}
 SUMMON_TYPE_DESC_112,
@@ -9470,7 +9470,7 @@ Fantasma de Valkyrie,
 Fantasma de Idun,
 Fantasma de Sif,
 Guardia de vigilancia,
-<color=#6570a2><size=20>No existe charla privada</size></color>,
+<color=#A7AFCF><size=20>No existe charla privada</size></color>,
 Paquete de venida-rebajas diarias,
 Paquete de venida 1,
 Paquete de venida 2,
@@ -9533,7 +9533,7 @@ Mandado ofensivo,
 ,
 ,
 No disponible,
-<color=#FFC64D>Guardia de la Ciudad de Cielo</color>,
+<color=#FFE393>Guardia de la Ciudad de Cielo</color>,
 ,
 Guardia de la Ciudad de Cielo,
 ,
@@ -9552,17 +9552,17 @@ Haz clic en el icono de la Diosa para definir la diosa para el combate,
 ,
 ,
 ,
-<color=#FFC64D>Duque la Tierra Sagrada</color>,
-<color=#FFC64D>Guardia la Tierra Sagrada</color>,
+<color=#FFE393>Duque la Tierra Sagrada</color>,
+<color=#FFE393>Guardia la Tierra Sagrada</color>,
 ,
-<color=#FFC64D>Soldado de la Tierra Sagrada</color>,
-<color=#6DCFF6FF><color=#FFC64D>Guardia de la Ciudad de Cielo</color></color>,
+<color=#FFE393>Soldado de la Tierra Sagrada</color>,
+<color=#ADE7FAFF><color=#FFE393>Guardia de la Ciudad de Cielo</color></color>,
 ,
 ,
-<color=#6DCFF6FF><color=#FFC64D>Duque la Tierra Sagrada</color></color>,
-<color=#6DCFF6FF><color=#FFC64D>Guardia la Tierra Sagrada</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Duque la Tierra Sagrada</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Guardia la Tierra Sagrada</color></color>,
 ,
-<color=#6DCFF6FF><color=#FFC64D>Soldado de la Tierra Sagrada</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Soldado de la Tierra Sagrada</color></color>,
 Actualmente no hay diosas para restaurar,
 ACTIVE_SUMMON_FIRSTWEEK_BOSS_CHALLENGER,No desafiador por ahora
 ACTIVE_SUMMON_FIRSTWEEK_BOSS_DMG,
@@ -9741,8 +9741,8 @@ Aniversario 7,
 Aniversario 8,
 Aniversario 9,
 Aniversario 10,
-week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Rebajas</size></color>
-week_jindu,<color=#FFFFFF><size=18>Restricciones a las compras</size></color><color=#26F949><size=18>{0}</size></color>
+week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Rebajas</size></color>
+week_jindu,<color=#FFFFFF><size=18>Restricciones a las compras</size></color><color=#6BFC90><size=18>{0}</size></color>
 week_content,
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 Recompensas para el ranking de desafiar el Boss,
@@ -12015,15 +12015,15 @@ Aumenta la favorabilidad de Xiyu en 50 puntos,
 Diosa-Chang'e,
 ,
 Puede ser asistido {0}/{1},
-<color=#00ff00>velocidad de producir+{0}%</color>,
+<color=#00FF00>velocidad de producir+{0}%</color>,
 Restante :,
 Restante{0}/{1}veces,
-Te <color=#00ff00>ha gustado</color> una vez,
+Te <color=#00FF00>ha gustado</color> una vez,
 ,
 OUTLAND_VISIT_NOT_FRIEND,No eres amigo del jugador y no puedes asistir
 OUTLAND_NOT_OPEN,
-{0}<color=#00ff00>has gustado</color> una vez,
-{0}<color=#00ff00>te ha asistido</color> una vez,
+{0}<color=#00FF00>has gustado</color> una vez,
+{0}<color=#00FF00>te ha asistido</color> una vez,
 ,
 Hoy ya me ha gustado este jugador,
 Hoy ya ha asistido a este jugador,
@@ -12169,8 +12169,8 @@ Uy... Parece que luchar contra ti es algo adictivo.,
 ,
 ,
 ,
-{0}<color=#00ff00>dar likes a</color> {1}vez,
-{0}<color=#00ff00>asistir</color> {1}vez,
+{0}<color=#00FF00>dar likes a</color> {1}vez,
+{0}<color=#00FF00>asistir</color> {1}vez,
 NWHC_TOTAL_SCORE,Puntos acumulados:{0}
 NWHC_ONCE_SCORE_MAX,
 NWHC_ONCE_SCORE_NOW,Puntos:{0} {1}
@@ -12571,7 +12571,7 @@ Parece que no tiene sentido...,
 ,
 ,
 ,
-PAY_SELECT_VIRTUAL_COIN,<color=#6aff5a>{0}</color>(Resto {1})
+PAY_SELECT_VIRTUAL_COIN,<color=#ABFF9E>{0}</color>(Resto {1})
 Los paquetes se han agotado,
 ,
 "Bueno, desde que nos exiliaron al continente oriental, nunca hemos recordado las cosas del pasado.",
@@ -13055,11 +13055,11 @@ Magic Circle DMG Reduction +15%  Magic Circle DMG Increase +12%,
 Magic Circle DMG Reduction +10%  Magic Circle DMG Increase +9%,
 Magic Circle DMG Reduction +5%  Magic Circle DMG Increase +6%,
 Magic Circle DMG Increase +3%,
-"2 Angels remain in battle, all Angels get attributes bonus:","<color=#FA931AFF>2</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
-"3 Angels remain in battle, all Angels get attributes bonus:","<color=#FA931AFF>3</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
-"4 Angels remain in battle, all Angels get attributes bonus:","<color=#FA931AFF>4</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
-"5 Angels remain in battle, all Angels get attributes bonus:","<color=#FA931AFF>5</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
-"6 Angels remain in battle, all Angels get attributes bonus:","<color=#FA931AFF>6</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
+"2 Angels remain in battle, all Angels get attributes bonus:","<color=#FCC65AFF>2</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
+"3 Angels remain in battle, all Angels get attributes bonus:","<color=#FCC65AFF>3</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
+"4 Angels remain in battle, all Angels get attributes bonus:","<color=#FCC65AFF>4</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
+"5 Angels remain in battle, all Angels get attributes bonus:","<color=#FCC65AFF>5</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
+"6 Angels remain in battle, all Angels get attributes bonus:","<color=#FCC65AFF>6</color> diosas sobreviven en la batalla, todas las diosas obtienen bonus de atributos:"
 Marco de charla limitado para la Fiesta de Primavera,
 Marco de charla limitado para la Fiesta de Primavera de 2022,
 Icono limitado de la Festiva de Primavera,
@@ -13304,7 +13304,7 @@ Vendaval de guerra,
 Bailarina de rosas,
 Emisaria ardiente,
 GO_TO_BUY_ANGLE_COIN,A comprar AC
-PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Restante: <color=#FF0909FF>{1}</color>)
+PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Restante: <color=#FF3737FF>{1}</color>)
 TTPW_CURRENT_ATTACK_TEAM,
 TTPW_CHOOSE_TEAM_NAME,
 Se desbloquea al llegar al nivel de rey,

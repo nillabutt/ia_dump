@@ -99,14 +99,14 @@ HIGH_QUALITY_RATE,
 ARMOR_ATTR_PART1,<size=30><color=#FFFF00>Grundattribute:</color></size>
 ARMOR_ATTR_PART1_ITEM,<size=25><color=#FFFFFF>{text}</color></size>
 ARMOR_ATTR_PART2,
-ARMOR_ATTR_PART2_ITEM,<size=25><color=#FF882C>{text}</color></size>
+ARMOR_ATTR_PART2_ITEM,<size=25><color=#FFBF72>{text}</color></size>
 ARMOR_ATTR_PART3,<size=30><color=#FF0000>Artefakte Attribute:</color></size>
 ARMOR_ATTR_PART3_ITEM,<size=25><color=#FF0000>{text}</color></size>
 TIME_SECOND,Sek
 TIME_MINUTE,Min
 TIME_HOUR,Std
 STRENGTHEN_LEVEL_MAX,
-CONFIRM_INHERIT_AND_REPLACE_ARMOR,"Willst du erben und durch <color=#00ff00>{name}</color> ersetzen? (Verbesserte Lv., ArteFakt Attribute und Juwelen bleiben gleich nach Erben)"
+CONFIRM_INHERIT_AND_REPLACE_ARMOR,"Willst du erben und durch <color=#00FF00>{name}</color> ersetzen? (Verbesserte Lv., ArteFakt Attribute und Juwelen bleiben gleich nach Erben)"
 ARMOR_FULL,
 HERO_FULL_IN_BATTLE,Du hast die maximale Anzahl der eingesetzten Engeln erreicht
 HERO_IN_ADVENTURE,
@@ -145,8 +145,8 @@ BATTLE_REPORT_AWARD,Hol dir {Name} * {Anzahl}
 BATTLE_REPORT_SEARCH_ENEMY,Erkunden
 BATTLE_REPORT_ROUND_BEGIN,Runde {count} Start
 ARENA_TARGET_USER_ERROR,Datenfehler des Zielspielers
-ARENA_REPORT_SUBTITLE_1,Herausgefordert von <color=#ffd43e>{0}</color> und {1}. {2}
-ARENA_REPORT_SUBTITLE_2,<color=#ffd43e>{0}</color> und {1}. {2} herausgefordert
+ARENA_REPORT_SUBTITLE_1,Herausgefordert von <color=#FFEA86>{0}</color> und {1}. {2}
+ARENA_REPORT_SUBTITLE_2,<color=#FFEA86>{0}</color> und {1}. {2} herausgefordert
 ARENA_RANK,Rangfolge
 CONFIRM_SIGN_UP_HONOR_ARENA,
 NOT_CHANGE,
@@ -447,7 +447,7 @@ CHARGE_MONTH_FIRST_LABEL,Zuerst
 CHARGE_VIP_LV_TIPS,
 VIP_BUBBLE_TEXT,
 VIP_PRIVILEGE_TITLE,VIP {viplv} Privileg
-VIP_PRIVILEGE_CONTENT_1,Kauf insgesamt <color=#FFBA00> {num} </color> Diamanten und erhalte <color=#FFBA00> VIP {viplv} </color> -Privilegien
+VIP_PRIVILEGE_CONTENT_1,Kauf insgesamt <color=#FFDC00> {num} </color> Diamanten und erhalte <color=#FFDC00> VIP {viplv} </color> -Privilegien
 VIP_PRIVILEGE_CONTENT,
 VIP_PRIVILEGE_UNIT,
 VIP_GIFT_TITLE,
@@ -472,7 +472,7 @@ LOST_LANDS_MINE_NAME_9,
 LOST_LANDS_MINE_NAME_10,
 LOST_LANDS_MINE_NAME_11,
 LOST_LANDS_MINE_NAME_12,
-LOST_LANDS_DEFENSE_INVITATION_MSG,"Ich habe gerade <color=#E88E05> {mine_name} </color> entdeckt! Tippe hier, um es zusammen abzubauen und bekomme {num} {reward_name} alle {unit_time}!"
+LOST_LANDS_DEFENSE_INVITATION_MSG,"Ich habe gerade <color=#F4C32A> {mine_name} </color> entdeckt! Tippe hier, um es zusammen abzubauen und bekomme {num} {reward_name} alle {unit_time}!"
 GUIDE_NEWBIE_BACK_STORY,
 GUIDE_NEWBIE_UNKNOWN_BOSS_NAME,Unbekannter Boss
 GUIDE_NEWBIE_USER_NAME,Spieler
@@ -1050,7 +1050,7 @@ Geheimladen,
 text text,Text Text
 ,
 SUMMON_TEN,
-Kauf insgesamt <color=#FFBA00> {num} </color> Diamanten und erhalte<color=#FFBA00> VIP {viplv} </color>-Privilegien,
+Kauf insgesamt <color=#FFDC00> {num} </color> Diamanten und erhalte<color=#FFDC00> VIP {viplv} </color>-Privilegien,
 ,
 Fortge. Autokampf,
 Auto. Mitmachen,
@@ -3568,7 +3568,7 @@ Tippe hier,
 ,
 Deine Kraft hat dramatisch zugenommen,
 Betritt das Kampffeld,
-"Die Gewinnrate<color=#FA931AFF>80% </color> erreicht, um <color=#FA931AFF> den Boss herauszufordern </color>",
+"Die Gewinnrate<color=#FCC65AFF>80% </color> erreicht, um <color=#FCC65AFF> den Boss herauszufordern </color>",
 ,
 "Tippe, um den Boss herauszufordern",
 ,
@@ -3578,7 +3578,7 @@ Erforderliche Stern-Lv erreicht. Den Engel erwecken,
 ,
 ,
 ,
-Tipp auf <color=#C62416>[Verbessern]</color> um zu verbessern,
+Tipp auf <color=#E36853>[Verbessern]</color> um zu verbessern,
 ,
 ,
 ,
@@ -3594,28 +3594,28 @@ Tipp auf <color=#C62416>[Verbessern]</color> um zu verbessern,
 ,
 ,
 ,
-<color=#C62416> Gilde</color> ist freigeschaltet,
+<color=#E36853> Gilde</color> ist freigeschaltet,
 ,
 ,
-"Tipp hier, um das <color=#C62416> Training</color> zu starten",
+"Tipp hier, um das <color=#E36853> Training</color> zu starten",
 ,
 Entwickeltes Attribut speichern,
 ,
-"Tippe hier, um die <color=#C62416> Arena</color> aufzurufen",
+"Tippe hier, um die <color=#E36853> Arena</color> aufzurufen",
 "Tippe, um herauszufordern",
-Stelle jetzt ein <color=#C62416> Artefakt</color> her,
-"Tippe hier, um <color=#C62416> Artefakt</color> herzustellen",
+Stelle jetzt ein <color=#E36853> Artefakt</color> her,
+"Tippe hier, um <color=#E36853> Artefakt</color> herzustellen",
 ,
 Tippe zum Basteln,
 ,
-Beginne das <color=#C62416> Abenteuer</color>,
+Beginne das <color=#E36853> Abenteuer</color>,
 ,
 "Betritt den Laden, um verschiedene Artikel zu kaufen",
 "Ein Engel kann komponiert werden. Tippee auf die Tasche, um das Scherbe-Synthetisieren aufzurufen",
 ,
 ,
 ,
-Alle Scherben wurden gesammelt. Tippe auf<color=#C62416> Engel komponieren</color>,
+Alle Scherben wurden gesammelt. Tippe auf<color=#E36853> Engel komponieren</color>,
 ,
 ,
 ,
@@ -3916,7 +3916,7 @@ HERO_FEELING_MAX,
 ,
 HERO_AWAKE_FULL,Die maximale Erweckungsstufe von {0} erreicht
 SUMMON_HERO_HAVE,
-HERO_ARRAY_FIGHT_VALUE,<color=#ffffff><size=24> Kraft: </size></color>{0}
+HERO_ARRAY_FIGHT_VALUE,<color=#FFFFFF><size=24> Kraft: </size></color>{0}
 HERO_ARRAY_FIGHT_COUNT,Im Kampf: {0}/{1}
 HERO_ARRAY_OPEN_NEED_LEVEL,Lv. {0} zum Freischalten
 HERO_ARRAY_FIGHT_COUNT_MAX_LIMIT,Setze bis zu 12 Engel ein
@@ -4002,11 +4002,11 @@ Herrin?? Du nennst mich Herrin?,
 "Huh? Es scheint, dass ich ein paar Belldandy Scherben gefunden zu habe. Was mache ich damit?",
 "Du kannst genug Scherben sammeln, um die bereits besessenen Engel zu erwecken. Gib dein Bestes, um sie zu erwecken!",
 "Nun, ich werde es sofort versuchen!",
-Du hast genug Engelsscherben und jetzt kannst du <color=#FA931AFF> den Engel </color> erwecken,
+Du hast genug Engelsscherben und jetzt kannst du <color=#FCC65AFF> den Engel </color> erwecken,
 ,
-"Tippe hier, um Engel zu <color=#C62416>erwecken</color>",
+"Tippe hier, um Engel zu <color=#E36853>erwecken</color>",
 ,
-"Du hast genug Engelsscherben und klicke auf <color=#FA931AFF> [erwachen] </color>, um den Engel zu erwecken",
+"Du hast genug Engelsscherben und klicke auf <color=#FCC65AFF> [erwachen] </color>, um den Engel zu erwecken",
 Gott der Gegenwart kontrolliert alles auf der Welt!,
 ,
 ,
@@ -4021,9 +4021,9 @@ HERO_AWAKE_NOT_ENOUGH,Erwachenstufe nicht genug
 ,
 ,
 ,
-"<color=#C62416> Abenteuer </color> gestartet, tippe, um Details anzuzeigen.",
+"<color=#E36853> Abenteuer </color> gestartet, tippe, um Details anzuzeigen.",
 ,
-"<color=#C62416> Abenteuer </color> abgeschlossen. Tippe hier, um deine Belohnungen zu holen. (Nicht auf das Tageslimit angerechnet)",
+"<color=#E36853> Abenteuer </color> abgeschlossen. Tippe hier, um deine Belohnungen zu holen. (Nicht auf das Tageslimit angerechnet)",
 ,
 ,
 ,
@@ -4044,7 +4044,7 @@ Maximum,
 ,
 ,
 ,
-"<color=#C62416> Liquidieren </color> den letzten BOSS vor dem aktuellen Dungeon, um die beste Belohnung zu erhalten!",
+"<color=#E36853> Liquidieren </color> den letzten BOSS vor dem aktuellen Dungeon, um die beste Belohnung zu erhalten!",
 4 Sterne,
 ,
 ,
@@ -4069,14 +4069,14 @@ SKY_STONE,
 SKY_STONE_DESC,
 HERO_GROUP_LOCK,(Gesperrt)
 HERO_GROUP_UNLOCK,Freischalten
-HERO_GROUP_LEVEL,(LV.<color=#E5E485>{0}</color>)
+HERO_GROUP_LEVEL,(LV.<color=#F2F2BD>{0}</color>)
 HERO_GROUP_FULL_LEVEL,Maximale Stufe erreicht
 HERO_GROUP_UPGRADE,Aufleveln
 HERO_GROUP_NEXT_LEVEL_INFO,
 HERO_GROUP_UPGRADE_CONDTION_HAD,(Besessene Engel)
-HERO_GROUP_UPGRADE_CONDTION_AWAKE,(Alle Engel erwachen auf <color=#E5E485>{0}</color> Sternen)
-HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(Alle Engel verbessert auf<color=#E5E485>+{0}</color>)
-HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,(Kampfkraft aller Engel erreicht <color=#E5E485>{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_AWAKE,(Alle Engel erwachen auf <color=#F2F2BD>{0}</color> Sternen)
+HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(Alle Engel verbessert auf<color=#F2F2BD>+{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,(Kampfkraft aller Engel erreicht <color=#F2F2BD>{0}</color>)
 Schicksal,
 Schicksalsattribut,
 VIP_EXP_DESC,
@@ -4106,9 +4106,9 @@ Diamant Rabatt,
 Limitkauf,
 Heute geholt,
 Spezialpaket I.,
-<size=32> Hol dir<b> <color=#FA931AFF>60 </color> </b> Diamanten </size> \nHol <b> <color=#FF0909FF> 588 </color> <b> Diamanten-Paket,
-<size=32> Hol dir <b> <color=#FA931AFF>80 </color> </b> Diamanten </size> \nHol dir<b> <color=#FF0909FF> 988 </color> <b> Diamanten-Paket,
-<size=32> Hol dir <b> <color=#FA931AFF> 120 </color> </b> Diamanten </size> \nHol dir<b> <color=#FF0909FF> 1588 </color> </b> Diamanten-Paket,
+<size=32> Hol dir<b> <color=#FCC65AFF>60 </color> </b> Diamanten </size> \nHol <b> <color=#FF3737FF> 588 </color> <b> Diamanten-Paket,
+<size=32> Hol dir <b> <color=#FCC65AFF>80 </color> </b> Diamanten </size> \nHol dir<b> <color=#FF3737FF> 988 </color> <b> Diamanten-Paket,
+<size=32> Hol dir <b> <color=#FCC65AFF> 120 </color> </b> Diamanten </size> \nHol dir<b> <color=#FF3737FF> 1588 </color> </b> Diamanten-Paket,
 Hol dir 10 Diamanten \nHol dir 188 Diamanten-Paket,
 Engelswachstum,
 Wochenkarte,
@@ -4532,9 +4532,9 @@ TRAIN_SETTING_DESC,
 Freundschaftsanfrage wurde gesendet,
 FRIEND_REQUEST_REPEAT,Bereits gesendete Freundschaftsanfrage
 NOTICE_10001001,
-NOTICE_10002001,Gottes Segen! <color=#25c1e9> {0} </color> gewinnt <color=#FA931AFF> {1} </color>! Mach weiter!
+NOTICE_10002001,Gottes Segen! <color=#6AE0F4> {0} </color> gewinnt <color=#FCC65AFF> {1} </color>! Mach weiter!
 NOTICE_10003001,
-NOTICE_10004001,Gottes Segen! <color=#25c1e9> {0} </color> synthetisiert <color=#FA931AFF> {1} </color>! Mach weiter!
+NOTICE_10004001,Gottes Segen! <color=#6AE0F4> {0} </color> synthetisiert <color=#FCC65AFF> {1} </color>! Mach weiter!
 NOTICE_10005001,
 NOTICE_10006001,
 NOTICE_10007001,
@@ -4549,7 +4549,7 @@ NOTICE_10106001,
 NOTICE_10201001,Gildenboss wurde freigeschaltet. Auf geht's!
 NOTICE_10301001,
 NOTICE_10302001,
-NOTICE_10401001,Der Gewinner bekommt alles! <color=#25c1e9>{0}</color> hat <color=#25c1e9>{1}</color> gekickt und stand auf Platz 1 der Rangliste.
+NOTICE_10401001,Der Gewinner bekommt alles! <color=#6AE0F4>{0}</color> hat <color=#6AE0F4>{1}</color> gekickt und stand auf Platz 1 der Rangliste.
 NOTICE_10401002,
 NOTICE_10402001,
 NOTICE_10403001,
@@ -4885,10 +4885,10 @@ DEBRIS_NOT_SELECT,
 DEBRIS_SELL_CONFIRM,Dieser Engel ist nicht zu max. Stern erwacht. Willst du die Scherbe (n) immer noch in Saphir umwandeln?
 MYSTICAL_SHOP_BUY_CONFIRM_STAR_STONE,"Bist du sicher, dass du {0} Saphir ausgeben willst, um {1} zu kaufen?"
 WORLD_BOSS_OPENGING,Im Kampf
-<color=#C62416> Juwelen einsetzen</color> ist freigeschaltet,
+<color=#E36853> Juwelen einsetzen</color> ist freigeschaltet,
 ,
 ,
-Beginne mit der <color=#FA931AFF> Juweleinstellung </color>,
+Beginne mit der <color=#FCC65AFF> Juweleinstellung </color>,
 Schalte zuerst eine Juwelenbuchse frei,
 "Tippe auf Juwelenbuchse, die gerade freigeschaltet wurde",
 ,
@@ -4909,7 +4909,7 @@ Schnellkampfbelohnung,
 Schnellkampfrollen Nutzungslimit,
 Tagessegen,
 Segen Belohnungen:,
-Verbleibende Segenzeit <color=#00FF56FF> 30 </color> Tag (e),
+Verbleibende Segenzeit <color=#00FF9BFF> 30 </color> Tag (e),
 Segen,
 Im Segen,
 Kauf 10,
@@ -6039,7 +6039,7 @@ CUSTOM_GIFT_NAME_LOGIN1,Sieger
 CUSTOM_GIFT_NAME_LOGIN2,
 CUSTOM_GIFT_NAME_TRAIN1,Fortschritt
 CUSTOM_GIFT_NAME_TRAIN2,Notwendig
-CUSTOM_GIFT_CONTENT,Limitiertes Paket\nMindestens <color=#FA931AFF>{0}</color> Diamanten wert\nVerpasse es nicht!
+CUSTOM_GIFT_CONTENT,Limitiertes Paket\nMindestens <color=#FCC65AFF>{0}</color> Diamanten wert\nVerpasse es nicht!
 Nuits Geschenke,
 AD_LOGIN_OFFLINE_DES,30 min Leerlaufbelohnung
 point,Punkte
@@ -6843,7 +6843,7 @@ Abgeschlossen:,
 ,
 CUSTOM_GIFT_NAME_LEVEL1,
 CUSTOM_GIFT_NAME_LEVEL2,Nach vorne
-REACH_LEVEL_UNLOCK_SUMMON,Schalte bei <color=#FFBA00> Lv.{level} </color> frei
+REACH_LEVEL_UNLOCK_SUMMON,Schalte bei <color=#FFDC00> Lv.{level} </color> frei
 EVENT_GOD_TREASURE_HOUSE_LAYER,Schatzkammer Stockwerk {0}
 Schalte bei Lv.40 frei,
 Schalte bei Lv.70 frei,
@@ -7053,14 +7053,14 @@ Community,Community
 ,
 Gildenboss DMG-Rang,
 Herausforderung,
-<color=#4FFF4FFF> Heute verbleibend: </color> 5 Mal,
+<color=#95FF95FF> Heute verbleibend: </color> 5 Mal,
 ,
 ,
 Verbessere einen Engel einmal,
 HERO_SKIN_EXPIRE,Die Mode dieses Engels ist abgelaufen
 Bitte kalibriere die Ortszeit,
 CONTENT_CONTAIN_SHIELD_WORD,
-WORLD_BOSS_CHALLENGE_NUM,Heute verbleibend: <color=#4FFF4FFF>{0}</color> mal
+WORLD_BOSS_CHALLENGE_NUM,Heute verbleibend: <color=#95FF95FF>{0}</color> mal
 SERVER_CAN_NOT_LOGIN,"Ihre Client-Version ist zu alt, um an diesem Spiel teilzunehmen"
 Community,
 WORLD_BOSS_SHOWTEXT_1,
@@ -8099,7 +8099,7 @@ Attribute:\n,Attribut:\n
 Todesopfer,
 "Wegen {SKILL_NAME} [blutet] {TARGET_NAME} und ist nicht in der Lage, HP in 2 Runden wiederherzustellen.",
 Enmusubi-Magischer Regen,
-GUILD_APPLE_MEMBER_FIGHT,<color=#c0c0c0> Teilnehmer:</color>{0}
+GUILD_APPLE_MEMBER_FIGHT,<color=#E0E0E0> Teilnehmer:</color>{0}
 Auf der Mode-Seite kannst du gegen den Anzug Enmusubi-Magischen Regen tauschen.,
 Magischer Regen Token,
 Exklusiv zu Weihnachten 4,
@@ -8237,7 +8237,7 @@ GUILD_APPLE_COIN,goldener Apfel
 ,
 ,
 "Okey. Ich bin bereit sofort teilzunehmen ~~ Bari, denkst du, ich kann der attraktivste Engel sein?",
-HOT_ACTIVITY_SCORE,<color=#A0A5ABFF>Punkte</color>{0}
+HOT_ACTIVITY_SCORE,<color=#CED1D4FF>Punkte</color>{0}
 Aufladebelohnung,
 ACTIVE_RECHRAGE_TASK_ALL,
 ACTIVE_RECHRAGE_BUTTON_TIPS_ALL,
@@ -8571,7 +8571,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_8,
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_4,
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,Deine Gilde hat den zweiten Platz im Gildenkampf der Saison {0} gewonnen! Erhalte die folgenden Belohnungen:
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,Deine Gilde hat die Meisterschaft in der Gildenkampf-Saison {0} gewonnen! Erhalte die folgenden Belohnungen:
-GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,"Kommen Sie und nehmen Sie an dem Olymp-Kampf teil. Wir warten auf Sie~<a href=2><color=#FA931AFF>[hier klicken, um einzutreten]>>></color></a>"
+GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,"Kommen Sie und nehmen Sie an dem Olymp-Kampf teil. Wir warten auf Sie~<a href=2><color=#FCC65AFF>[hier klicken, um einzutreten]>>></color></a>"
 GUILD_ASPL_CAN_NOT_SIGN_UP,"Fordern Sie die besten {0} Gilden des vorherigen Kampf der Gilde auf, sich zu registrieren"
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,
 HERO_PALACE_NEXT_CONDITION_TIPS,
@@ -9431,10 +9431,10 @@ Countdown zum Event <Farbe=#00FF00>{0}</Farbe>,
 ,
 ,
 Auflegeeffizienz in 30 Minuten,
-<color=#6570a2><size=20>Es gibt derzeit keine Anfragen von Freunden</size></color>,
-<color=#6570a2><size=20>Es gibt derzeit keine Anfragen von Freunden</size></color>,
-<color=#6570a2><size=20>Keine Spieler sind auf der schwarzen Liste</size></color>,
-<color=#6570a2><size=20>Keine Spieler sind auf der schwarzen Liste</size></color>,
+<color=#A7AFCF><size=20>Es gibt derzeit keine Anfragen von Freunden</size></color>,
+<color=#A7AFCF><size=20>Es gibt derzeit keine Anfragen von Freunden</size></color>,
+<color=#A7AFCF><size=20>Keine Spieler sind auf der schwarzen Liste</size></color>,
+<color=#A7AFCF><size=20>Keine Spieler sind auf der schwarzen Liste</size></color>,
 Quelle: Gildenkrieg,
 Begrenzte Zeit:,
 konventionell,
@@ -9442,11 +9442,11 @@ zeitlich begrenzt,
 Server,
 Tageszeitung der Gilde,
 Extraausgabe des Servers,
-<color=#6570a2><size=20>Es gibt derzeit keine E-Mails</size></color>,
+<color=#A7AFCF><size=20>Es gibt derzeit keine E-Mails</size></color>,
 Schneller Kampf,
 zustimmen,
 ,
-<color=#6570a2><size=20>Es gibt derzeit keine heiligen Reliquien</size></color>,
+<color=#A7AFCF><size=20>Es gibt derzeit keine heiligen Reliquien</size></color>,
 ,
 ,
 Entsperrbedingung,
@@ -9455,8 +9455,8 @@ Entsperrbedingung,
 Auf Belohnungen verzichten\n,
 ,
 ,
-<color=#6570a2><size=20>Der Schrank ist noch leer~</size></color>,
-<color=#6570a2><size=20>Es gibt noch keinen Kampfbericht</size</color>,
+<color=#A7AFCF><size=20>Der Schrank ist noch leer~</size></color>,
+<color=#A7AFCF><size=20>Es gibt noch keinen Kampfbericht</size</color>,
 Durchgang der Walhalla,
 SUMMON_TYPE_DESC_111,
 SUMMON_TYPE_DESC_112,SSR + Engel Wahrscheinlichkeit: {0}
@@ -9471,7 +9471,7 @@ Heimdalls Phantom,
 Edens Phantom,
 Sifs Phantom,
 Wachposten,
-<color=#6570a2><size=20>Es gibt derzeit keine privaten Chats</size></color>,
+<color=#A7AFCF><size=20>Es gibt derzeit keine privaten Chats</size></color>,
 Advents-Geschenkpaket-Tagesangebot,
 Adventsgeschenkpaket 1,
 Adventsgeschenkpaket 2,
@@ -9742,9 +9742,9 @@ erobert sein,
 ,
 ,
 ,
-week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Rabatte</size></color>
-week_jindu,<color=#FFFFFF><size=18>Begrenzter Kauf</size></color><color=#26F949><size=18>{0}</size></color>
-week_content,Gesamtlieferungin 14 Tagen<color=#FFF341><size=32>{0}</size></color>
+week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Rabatte</size></color>
+week_jindu,<color=#FFFFFF><size=18>Begrenzter Kauf</size></color><color=#6BFC90><size=18>{0}</size></color>
+week_content,Gesamtlieferungin 14 Tagen<color=#FFF988><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 Ranglisten-Belohnung zur Boss-Herausforderung,
 WORLD_BOSS_SHOWTEXT_20,"Icarus, in einer neuen Welt wiedergeboren, nutzt absolute Macht, um die Verteidigung aller Feinde zu durchdringen."
@@ -12019,11 +12019,11 @@ Chang'e,
 ,
 verbleibend:,
 die verbleibenden{0}/{1}Mal,
-Du hast einmal {0} <color=#00ff00>gemocht</color>,
+Du hast einmal {0} <color=#00FF00>gemocht</color>,
 ,
 OUTLAND_VISIT_NOT_FRIEND,
 OUTLAND_NOT_OPEN,Die chaotische Reich-Funktion wurde noch nicht aktiviert
-{0}<color=#00ff00>hat dich einmal gemocht</color>,
+{0}<color=#00FF00>hat dich einmal gemocht</color>,
 ,
 Die chaotische Reich-Funktion des Spielers wurde noch nicht aktiviert,
 Habe diesen Spieler heute schon gemocht,
@@ -12573,7 +12573,7 @@ Ist das so? Vielleicht ist ein anderes Selbst in deinem Herzen noch nicht erwach
 ,
 ,
 ,
-PAY_SELECT_VIRTUAL_COIN,<color=#6aff5a>{0}</color>(Rest: {1})
+PAY_SELECT_VIRTUAL_COIN,<color=#ABFF9E>{0}</color>(Rest: {1})
 Das Geschenkpaket ist ausverkauft,
 ,
 ,
@@ -13303,7 +13303,7 @@ Orkan des Krieges,
 ,
 ,
 GO_TO_BUY_ANGLE_COIN,Gehe zu AC kaufen
-PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Verbleibend: <color=#FF0909FF>{1}</color>)
+PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Verbleibend: <color=#FF3737FF>{1}</color>)
 TTPW_CURRENT_ATTACK_TEAM,Angriff: Aufstellung {0}
 TTPW_CHOOSE_TEAM_NAME,Aufstellung {0}
 "Wird freigeschaltet, wenn der Herausforderer erreicht wird.",
@@ -14267,7 +14267,7 @@ Ewigkeit,
 ,
 ,
 ,
-Das Karten-Event dauert <color=#00ff00>14</color> Tage und wird dir nach dem Login per E-Mail zugesandt.,
+Das Karten-Event dauert <color=#00FF00>14</color> Tage und wird dir nach dem Login per E-Mail zugesandt.,
 Avatar-Rahmen zum 2. Jahrestag,
 Exklusiver Avatar-Rahmen zum 2. Jahrestag in 2022,
 Chat-Rahmen zum 2. Jahrestag,
@@ -14286,7 +14286,7 @@ Jahrestagspaket 2,
 ,
 Jahrestag-Login,
 Jahrestagspaket,
-ACTIVITY_HOLIDAY_DROP_SUMMON_TIPS,"Konsumiere den Trank, um den Resonanzstein zu erhalten. Jeder <color=#00ff00>10.</color> konsumierte Trank garantiert dir als Belohnung Arkanstaub und andere geheimnisvolle Geschenke."
+ACTIVITY_HOLIDAY_DROP_SUMMON_TIPS,"Konsumiere den Trank, um den Resonanzstein zu erhalten. Jeder <color=#00FF00>10.</color> konsumierte Trank garantiert dir als Belohnung Arkanstaub und andere geheimnisvolle Geschenke."
 Loki,
 ,
 Das Band der Freundschaft,
@@ -15100,8 +15100,8 @@ ACTIVITY_UR_PLUS_HERO_LOGIN_REWARD_REPEAT,Kann nicht erneut eingefordert werden
 Nach dem Einsatz beginnt der Kampf automatisch um 20:00 Uhr,
 Du kannst nur einen Eroberer zuweisen,
 Du kannst nur einen Kommandanten zuweisen,
-COUNTRY_WAR_GUILD_SET_WAR_COMMANDER,{0} wird vom Gildenmeister als Kommandant zugewiesen. <a href=4><color=#FA931AFF>[Jetzt ansehen]>></color></a>
-COUNTRY_WAR_GUILD_SET_GOD_OF_WAR,{0} wird vom Gildenmeister als Eroberer zugewiesen. <a href=4><color=#FA931AFF>[Jetzt ansehen]>></color></a>
+COUNTRY_WAR_GUILD_SET_WAR_COMMANDER,{0} wird vom Gildenmeister als Kommandant zugewiesen. <a href=4><color=#FCC65AFF>[Jetzt ansehen]>></color></a>
+COUNTRY_WAR_GUILD_SET_GOD_OF_WAR,{0} wird vom Gildenmeister als Eroberer zugewiesen. <a href=4><color=#FCC65AFF>[Jetzt ansehen]>></color></a>
 COUNTRY_WAR_NOTIFY_DISPATCH,
 COUNTRY_WAR_COMMANDER_COUNT,Kommandant: {0}
 COUNTRY_WAR_GOD_OF_WAR_COUNT,Eroberer: {0}
@@ -15109,7 +15109,7 @@ GUILD_MEMBER_POSTION__LEADER,Meister
 GUILD_MEMBER_POSTION__VICE_LEADER,Assistieren
 GUILD_COUNTRY_WAR_POSTION__WAR_COMMANDER,Kommandant
 GUILD_COUNTRY_WAR_POSTION__GOD_OF_WAR,Beispielloser Eroberer
-COUNTRY_WAR_BAST_GOD_OF_WAR,Unaufhaltsam! <color=#FF7C51>{0}</color> Team(s) besiegt
+COUNTRY_WAR_BAST_GOD_OF_WAR,Unaufhaltsam! <color=#FFB797>{0}</color> Team(s) besiegt
 COUNTRY_WAR_CITY_MAX_BATTLE_COUNT,
 Beispielloser Eroberer,
 OUTLAND_AIRSHIP_BUY_SALY_TOAST,

@@ -177,7 +177,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 10002,10003,,,,1,USER_MAIN_CZ,HL0,1,Me,Why go to all the trouble?,,0,0
 10003,10004,,,,1,WL_CZ,HMDE0,2,Gabriel,What do you care more about? Trouble or death?,,0,0
 10004,-1,,,,1,USER_MAIN_CZ,HL0,1,Me,Emm...death.,,0,0
-2001001,-1,,{translucent},,0,YDN_UR,HMDE0,2,Athena,Here you can make different types of <color=#C62416>Summon</color> and get various rewards. Try it now ~,blgz_9,0,0
+2001001,-1,,{translucent},,0,YDN_UR,HMDE0,2,Athena,Here you can make different types of <color=#E36853>Summon</color> and get various rewards. Try it now ~,blgz_9,0,0
 2002001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"Your power soared! Do not underestimate your gear, cause every piece of gear brings you a quantum leap!",,0,0
 2003001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,Awake can improve Angel attributes and has the chance to get Skill.Try now~,,0,0
 2004001,-1,,{translucent},,0,WL_CZ,HFSTS0,2,Gabriel,"As long as we keep exploring, monsters will continue to appear, and our Angels will fight to destroy them automatically!",,0,0

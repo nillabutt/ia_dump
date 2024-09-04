@@ -25,7 +25,7 @@ DUPLICATE_NAME,Nama sudah terpakai
 ILLEGAL_NAME_LENGTH,Panjang nama invalid
 ILLEGAL_NAME,Nama mengandung karakter invalid
 PASSPORT_CANT_BE_NULL,Akun tidak boleh kosong
-CONFIRM_REPLACE_ARMOR,"Kamu sudah mengenakan Equipment, ingin pakai <color=#00ff00>{name}</color>?"
+CONFIRM_REPLACE_ARMOR,"Kamu sudah mengenakan Equipment, ingin pakai <color=#00FF00>{name}</color>?"
 USER_LEVEL_INVALID,Level invalid
 ARMOR_SCORE_FORMAT,Skor Equipment: {score}
 ARMOR_LEVEL_FORMAT,Lv. Equipment: {level}
@@ -99,14 +99,14 @@ HIGH_QUALITY_RATE,Equipment Terjatuh
 ARMOR_ATTR_PART1,<size=30><color=#FFFF00>Atribut Dasar:</color></size>
 ARMOR_ATTR_PART1_ITEM,<size=25><color=#FFFFFF>{text}</color></size>
 ARMOR_ATTR_PART2,<size=30><color=#FFFF00>Atribut Tambahan:</color></size>
-ARMOR_ATTR_PART2_ITEM,<size=25><color=#FF882C>{text}</color></size>
+ARMOR_ATTR_PART2_ITEM,<size=25><color=#FFBF72>{text}</color></size>
 ARMOR_ATTR_PART3,<size=30><color=#FF0000>Atribut Artefak:</color></size>
 ARMOR_ATTR_PART3_ITEM,<size=25><color=#FF0000>{text}</color></size>
 TIME_SECOND,d
 TIME_MINUTE,m
 TIME_HOUR,j
 STRENGTHEN_LEVEL_MAX,Lv. Enhance tidak dapat melebihi Lv. Hero
-CONFIRM_INHERIT_AND_REPLACE_ARMOR,"Konfirmasi Inherit dan ganti dengan <color=#00ff00>{name}</color>? (Inherit Lv. Enhance, Atribut Artefak dan Gem awal Equipment)"
+CONFIRM_INHERIT_AND_REPLACE_ARMOR,"Konfirmasi Inherit dan ganti dengan <color=#00FF00>{name}</color>? (Inherit Lv. Enhance, Atribut Artefak dan Gem awal Equipment)"
 ARMOR_FULL,Equipment sudah penuh
 HERO_FULL_IN_BATTLE,Angel yang keluar Battle sudah maks
 HERO_IN_ADVENTURE,"Angel sedang dalam Adventure, tidak dapat Battle"
@@ -145,8 +145,8 @@ BATTLE_REPORT_AWARD,Memperoleh {name} x{count}
 BATTLE_REPORT_SEARCH_ENEMY,Sedang menjelajah
 BATTLE_REPORT_ROUND_BEGIN,Ronde {count} dimulai
 ARENA_TARGET_USER_ERROR,Data pemain target error
-ARENA_REPORT_SUBTITLE_1,"Ditantang oleh <color=#ffd43e>{0}</color>, Battle {1}. {2}"
-ARENA_REPORT_SUBTITLE_2,"Telah menantang <color=#ffd43e>{0}</color>, Battle {1}. {2}"
+ARENA_REPORT_SUBTITLE_1,"Ditantang oleh <color=#FFEA86>{0}</color>, Battle {1}. {2}"
+ARENA_REPORT_SUBTITLE_2,"Telah menantang <color=#FFEA86>{0}</color>, Battle {1}. {2}"
 ARENA_RANK,Ranking
 CONFIRM_SIGN_UP_HONOR_ARENA,Di babak kualifikasi tidak dapat mengubah Formasi! Yakin mengikuti babak kualifikasi dengan Formasi saat ini?
 NOT_CHANGE,Tak berubah
@@ -440,7 +440,7 @@ CHARGE_MONTH_FIRST_LABEL,Top Up Perdana
 CHARGE_VIP_LV_TIPS,Beli {num} Diamond lagi untu naik menjadi VIP {viplv}
 VIP_BUBBLE_TEXT,Tingkatkan level VIP untuk memperoleh lebih banyak keuntungan
 VIP_PRIVILEGE_TITLE,Keuntungan VIP {viplv}
-VIP_PRIVILEGE_CONTENT_1,"Akumulasi beli <color=#FFBA00>{num}</color> Diamond, dapatkan keuntungan <color=#FFBA00>VIP {viplv} </color>"
+VIP_PRIVILEGE_CONTENT_1,"Akumulasi beli <color=#FFDC00>{num}</color> Diamond, dapatkan keuntungan <color=#FFDC00>VIP {viplv} </color>"
 VIP_PRIVILEGE_CONTENT,Jumlah quick combat yang bisa dibeli setiap harinya :{0}| Jumlah koin yang bisa dibeli setiap harinya :{0}|Jumlah Field level tinggi di toko misteri:{0}| Penjelajahan Goddess :{0}| Melewati pertarungan dengan boss:{0}| Jumlah pertarungan Guild BOSS:{0}| Jumlah pembelian Sky key:{0}| Jumlah pengulangan star trial:{0}| Field item tingkat tinggi:{0}| Jumlah pertarungan World Boss:{0}|Jumlah energi pencarian monster yang bisa dibeli setiap hari:{0}
 VIP_PRIVILEGE_UNIT,hero_train_type_open:0:Train Biasa:Train Tingkat Tinggi:Train Platinum:Train Supreme:Train Angel Tertinggi|skip_battle:Nihil:Terbuka
 VIP_GIFT_TITLE,hero_train_type_open:0:Train Biasa:Train Tingkat Tinggi:Train Platinum:Train Supreme:Train Angel Tertinggi|skip_battle:Nihil:Terbuka|world_guild_boss_auto_join:Nihil:Terbuka
@@ -465,7 +465,7 @@ LOST_LANDS_MINE_NAME_9,Tambang Besi (L)
 LOST_LANDS_MINE_NAME_10,Tambang Emas (L)
 LOST_LANDS_MINE_NAME_11,Tambang Gem (L)
 LOST_LANDS_MINE_NAME_12,Ruin (L)
-LOST_LANDS_DEFENSE_INVITATION_MSG,"Dalam Penjelajahan aku baru saja menemukan <color=#E88E05>{mine_name}</color>! Sentuh di sini, mari menambangnya bersama, setiap {unit_time} dapat memperoleh {num} {reward_name}!"
+LOST_LANDS_DEFENSE_INVITATION_MSG,"Dalam Penjelajahan aku baru saja menemukan <color=#F4C32A>{mine_name}</color>! Sentuh di sini, mari menambangnya bersama, setiap {unit_time} dapat memperoleh {num} {reward_name}!"
 GUIDE_NEWBIE_UNKNOWN_BOSS_NAME,Unknown BOSS
 GUIDE_NEWBIE_USER_NAME,Kar. Utama
 SHOP_BUY_MAX,Jumlah beli melebihi maks
@@ -540,7 +540,7 @@ GUILD_INPUT_GUILD_NAME,Silakan masukkan nama Guild
 SHOP_SCENE_BUBBLE_MYSTICAL,"Otomatis refresh setiap hari jam 12:00 dan 18:00, membeli semua item juga akan merefresh daftar. Luck lebih tinggi akan membuat item berkualitas tinggi mudah muncul."
 SHOP_SCENE_BUBBLE_COIN,Tingkatkan level VIP untuk menambah jatah beli harian. Sentuh [Beli Semua] untuk selesai beli semuanya.
 SHOP_SCENE_BUBBLE_GEM,Gunakan Tiket Gem untuk membeli Gem. Pasang Gem pada Equipment untuk meningkatkan Atribut Equipment.
-SHOP_SCENE_BUBBLE_RUBY,"Beli Diamond untuk memperoleh EXP VIP dan meningkatkan level VIP. <color=#FA931AFF>(Top Up Perdana akan memberikan Diamond dobel, refresh setiap tanggal 1)</color>"
+SHOP_SCENE_BUBBLE_RUBY,"Beli Diamond untuk memperoleh EXP VIP dan meningkatkan level VIP. <color=#FCC65AFF>(Top Up Perdana akan memberikan Diamond dobel, refresh setiap tanggal 1)</color>"
 SHOP_SCENE_BUBBLE_SUMMON,"Batu Bintang dapat diperoleh dengan mengubah Kepingan Angel, dan dapat ditukarkan dengan item di Toko Batu Bintang."
 PRODUCT_CANNOT_BE_PURCHASED_NOW,Saat ini tidak dapat membeli item ini
 WORLD_BOSS_ACTIVITY_TIME_END,"World BOSS sudah berakhir, BOSS belum dikalahkan! Hadiah World BOSS kali ini akan dikirim melalui Email, jangan lupa diambil~"
@@ -584,7 +584,7 @@ ACTIVITY_ONLINE_RECEIVE_REPEAT,Ambil ulang
 ACTIVITY_ONLINE_TIME_TIPS,Dapat diambil dalam {0}
 STRONGER_TITLE,Kamu telah mengalahkan <color=#00FFFFFF>{0}</color> pemain dengan level sama
 GET_DEBRIS,Dapatkan Kepingan
-GODDESS_BLESS_TIME_TIPS,Durasi tersisa <color=#00FF56FF>{0}</color> hari
+GODDESS_BLESS_TIME_TIPS,Durasi tersisa <color=#00FF9BFF>{0}</color> hari
 SERVER_TIME,Waktu server: {0}
 CHANGE_NAME_FREE_TIPS,Mengubah kali ini gratis
 CHANGE_NAME_COST_TIPS,Perbaikan memerlukan {0} diamond
@@ -1042,7 +1042,7 @@ Toko Misterius,
 text text,Teks teks
 Lanjut,
 SUMMON_TEN,Summon 10 kali
-"Akumulasi beli <color=#FFBA00>{num}</color> Diamond, dapatkan keuntungan <color=#FFBA00>VIP {viplv} </color>",
+"Akumulasi beli <color=#FFDC00>{num}</color> Diamond, dapatkan keuntungan <color=#FFDC00>VIP {viplv} </color>",
 Konfirmasi Pilihan,
 Auto Battle Tingkat Tinggi,
 Auto Gabung,
@@ -3559,65 +3559,65 @@ Pilih senjata utama,
 ,
 Power telah meningkat drastis,
 Masuk Battlefield,
-Capai Win Rate <color=#FA931AFF>80%</color> untuk dapat <color=#FA931AFF>Tantang BOSS</color>,
+Capai Win Rate <color=#FCC65AFF>80%</color> untuk dapat <color=#FCC65AFF>Tantang BOSS</color>,
 Kalahkan BOSS untuk membuka Dungeon selanjutnya,
-Sentuh untuk mulai <color=#C62416> Tantang BOSS</color>,
+Sentuh untuk mulai <color=#E36853> Tantang BOSS</color>,
 Sentuh tombol Awaken,
 "Sentuh berkali-kali di sini untuk mengirim Hadiah pada Angel, tingkatkan level Afinitas",
 Capai syarat Star untuk Awaken Angel,
-Gunakan <color=#FA931AFF>Battle Cepat</color> untuk memperoleh penghasilan 2 jam secara cepat (kali ini gratis),
-Gunakan <color=#FA931AFF>Battle Cepat</color> untuk memperoleh penghasilan 2 jam secara cepat! Level up dengan cepat akan membantumu memenangkan BOSS!,
+Gunakan <color=#FCC65AFF>Battle Cepat</color> untuk memperoleh penghasilan 2 jam secara cepat (kali ini gratis),
+Gunakan <color=#FCC65AFF>Battle Cepat</color> untuk memperoleh penghasilan 2 jam secara cepat! Level up dengan cepat akan membantumu memenangkan BOSS!,
 Pilih Equipment yang baru saja kamu pakai,
 Enhance Equipment untuk meningkatkan Power!,
-Sentuh tombol <color=#C62416>[Enhance]</color> untuk melakukan Enhance,
-Sentuh lagi tombol <color=#FA931AFF>[Enhance]</color> untuk melanjutkan Enhance,
-Lakukan lagi <color=#FA931AFF>[Enhance]</color> terakhir,
+Sentuh tombol <color=#E36853>[Enhance]</color> untuk melakukan Enhance,
+Sentuh lagi tombol <color=#FCC65AFF>[Enhance]</color> untuk melanjutkan Enhance,
+Lakukan lagi <color=#FCC65AFF>[Enhance]</color> terakhir,
 Tekan tombol tutup Equipment,
 Tekan tombol kembali,
-"Setelah mengalahkan BOSS, Dungeon selanjutnya akan terbuka. Sentuh di sini untuk <color=#C62416>menukar peta</color>",
+"Setelah mengalahkan BOSS, Dungeon selanjutnya akan terbuka. Sentuh di sini untuk <color=#E36853>menukar peta</color>",
 Sentuh untuk masuk Dungeon yang baru terbuka,
 Paksa pemain tekan [Tombol Mulai Idle],
-"Equipment penuh, disarankan melakukan <color=#C62416>Smelt</color>",
-Disarankan melakukan <color=#C62416>Smelt</color> untuk Equipment yang tidak digunakan,
-<color=#C62416>Skill</color> baru terbuka,
+"Equipment penuh, disarankan melakukan <color=#E36853>Smelt</color>",
+Disarankan melakukan <color=#E36853>Smelt</color> untuk Equipment yang tidak digunakan,
+<color=#E36853>Skill</color> baru terbuka,
 Sentuh untuk lihat Skill,
 Sentuh di sini untuk mengatur Skill,
 Sentuh di sini untuk mengatur Skill dalam Dungeon,
 Sentuh untuk memilih slot urutan Skill,
 Sentuh untuk pilih Skill,
-Fungsi <color=#C62416>Guild</color> sudah terbuka,
-<color=#C62416>Train</color> Angel untuk meningkatkan Power,
+Fungsi <color=#E36853>Guild</color> sudah terbuka,
+<color=#E36853>Train</color> Angel untuk meningkatkan Power,
 Sentuh untuk pilih Angel,
-Sentuh untuk mulai <color=#C62416>Train</color>,
-Sentuh untuk melakukan 1 kali <color=#C62416>Train Biasa</color> (kali ini gratis),
+Sentuh untuk mulai <color=#E36853>Train</color>,
+Sentuh untuk melakukan 1 kali <color=#E36853>Train Biasa</color> (kali ini gratis),
 Simpan atribut setelah Train,
-<color=#C62416>Arena</color> sudah terbuka,
-Sentuh untuk masuk <color=#C62416>Arena</color>,
+<color=#E36853>Arena</color> sudah terbuka,
+Sentuh untuk masuk <color=#E36853>Arena</color>,
 Sentuh Tantang,
-Buat sebuah <color=#C62416>Artefak</color> sekarang,
-Sentuh di sini untuk mulai membuat <color=#C62416>Artefak</color>,
-Pilih <color=#C62416>Artefak</color> yang mau dibuat,
+Buat sebuah <color=#E36853>Artefak</color> sekarang,
+Sentuh di sini untuk mulai membuat <color=#E36853>Artefak</color>,
+Pilih <color=#E36853>Artefak</color> yang mau dibuat,
 Sentuh Buat,
-<color=#C62416>Adventure</color> sudah terbuka,
-Mulai <color=#C62416>Adventure</color>,
-Sentuh untuk pilih <color=#FA931AFF>Stage Adventure</color>,
+<color=#E36853>Adventure</color> sudah terbuka,
+Mulai <color=#E36853>Adventure</color>,
+Sentuh untuk pilih <color=#FCC65AFF>Stage Adventure</color>,
 Masuk ke Toko untuk membeli berbagai macam barang,
 "Ada Angel yang dapat digabungkan, sentuh Tas untuk masuk ke antarmuka Fusion Kepingan",
 Sentuh untuk masuk Tas Kepingan,
 Pilih Angel yang mau digabungkan,
 Sentuh tombol Summon,
-"Kepingan lengkap, sentuh untuk <color=#C62416>Fusion Angel</color>",
-<color=#C62416>Buat</color> 1 buah Equipment sekarang,
-Sentuh di sini untuk mulai <color=#C62416>Buat</color> Equipment,
-Sentuh di sini untuk refresh Equipment yang mau <color=#FA931AFF>Buat</color>,
-Sentuh untuk <color=#C62416>Buat</color> Equipment,
-<color=#C62416>Tower Langit</color> sudah terbuka,
-Slot <color=#C62416>Deploy</color> Angel ketiga sudah terbuka,
-<color=#C62416>Enhance</color> Equipment untuk meningkatkan Power dengan cepat!,
-<color=#C62416>Star Trial</color> sudah terbuka,
-Pilih tingkat kesulitan <color=#C62416>Mudah</color>,
+"Kepingan lengkap, sentuh untuk <color=#E36853>Fusion Angel</color>",
+<color=#E36853>Buat</color> 1 buah Equipment sekarang,
+Sentuh di sini untuk mulai <color=#E36853>Buat</color> Equipment,
+Sentuh di sini untuk refresh Equipment yang mau <color=#FCC65AFF>Buat</color>,
+Sentuh untuk <color=#E36853>Buat</color> Equipment,
+<color=#E36853>Tower Langit</color> sudah terbuka,
+Slot <color=#E36853>Deploy</color> Angel ketiga sudah terbuka,
+<color=#E36853>Enhance</color> Equipment untuk meningkatkan Power dengan cepat!,
+<color=#E36853>Star Trial</color> sudah terbuka,
+Pilih tingkat kesulitan <color=#E36853>Mudah</color>,
 Masuk tahap pertama,
-"Battle menggunakan sistem putar, Angel yang dikalahkan tidak akan dapat bergabung dalam Battle lagi. Silakan <color=#C62416>atur Formasi</color> dengan baik",
+"Battle menggunakan sistem putar, Angel yang dikalahkan tidak akan dapat bergabung dalam Battle lagi. Silakan <color=#E36853>atur Formasi</color> dengan baik",
 "Datanglah! Aku akan mengirimkan kalian, para monster, menuju neraka!",
 Siren! Kami datang membantumu!,
 Putri Bari? ! Kenapa kalian bisa di sini? !,
@@ -3774,9 +3774,9 @@ Archer B,
 Mage C,
 Witch,
 Horus,
-Sudah mengirim Angel baru untuk bertempur di sampingmu. Pergilah ke <color=#FA931AFF>Battlefield</color> untuk mencobanya,
+Sudah mengirim Angel baru untuk bertempur di sampingmu. Pergilah ke <color=#FCC65AFF>Battlefield</color> untuk mencobanya,
 Ini adalah kunci untuk meningkatkan Power!,
-"Setelah mengalahkan monster, akan ada Equipment acak yang terjatuh. Saat melihat <color=#FA931AFF>Titik Merah</color>, segeralah <color=#FA931AFF>tukar Equipment baru</color>, dengan begitu kamu akan jadi lebih kuat!",
+"Setelah mengalahkan monster, akan ada Equipment acak yang terjatuh. Saat melihat <color=#FCC65AFF>Titik Merah</color>, segeralah <color=#FCC65AFF>tukar Equipment baru</color>, dengan begitu kamu akan jadi lebih kuat!",
 "Setelah ditukar dan Enhance, Power telah meningkat drastis. Pergi dan cobalah di Battlefield",
 Kalahkan BOSS baru dapat menuju stage berikutnya,
 Kamu bisa menjadi sangat kuat jika kamu fokus!,
@@ -3793,7 +3793,7 @@ Kamu lebih takut masalah atau kematian?,
 "Gabriel, kau luar biasa! Tolong jangan tinggalkan sisiku!",
 "Kekuatan Kuno? Hm, kenapa aku merasa keberuntunganku telah habis?",
 "Gunakan hati untuk merasakan koneksi dengan Gabriel, dan bimbing dia dengan Kekuatan Kuno",
-"Setelah mengalahkan monster, akan ada Equipment acak yang terjatuh. Saat melihat Titik Merah, segeralah <color=#C62416>tukar Equipment baru</color>, dengan begitu kamu akan jadi lebih kuat!",
+"Setelah mengalahkan monster, akan ada Equipment acak yang terjatuh. Saat melihat Titik Merah, segeralah <color=#E36853>tukar Equipment baru</color>, dengan begitu kamu akan jadi lebih kuat!",
 Geser ke kiri untuk ke halaman selanjutnya,
 "Kuil Yunani selalu dijaga oleh para dewa. Nyx, sang penjaga Athens berhasil mengalahkan Giant Soulreaver, merampas intinya dan mengirimkannya ke Pandora untuk dijaga. Ketika Elise menyerahkan kotaknya pada Pandora, Pandora tak bisa menahan diri dan membuka kotak tersebut...",
 Vibrating Jade Charm,
@@ -3901,7 +3901,7 @@ HERO_FEELING_MAX,Angel telah mencapai tingkat maks
 "ATK diri sendiri meningkat 22%, Crit meningkat 26%",
 HERO_AWAKE_FULL,{0} telah mencapai level Awaken maks
 SUMMON_HERO_HAVE,"Sudah memiliki Angel ini, otomatis diubah menjadi {0} Kepingan\nDapat digunakan untuk Awaken Angel dan memperoleh Skill"
-HERO_ARRAY_FIGHT_VALUE,<color=#ffffff><size=24>Power:</size></color>{0}
+HERO_ARRAY_FIGHT_VALUE,<color=#FFFFFF><size=24>Power:</size></color>{0}
 HERO_ARRAY_FIGHT_COUNT,Deploy: {0}/{1}
 HERO_ARRAY_OPEN_NEED_LEVEL,Dibuka di Lv. {0}
 HERO_ARRAY_FIGHT_COUNT_MAX_LIMIT,Maks Deploy 12 Angel
@@ -3938,7 +3938,7 @@ Ikut aku? Keren!,
 ,
 Ini adalah tanggug jawab yang diberikan dewa untukmu. Bawalah Gabriel bertarung.,
 ,
-Sentuh untuk ke antarmuka <color=#C62416>Formasi</color>,
+Sentuh untuk ke antarmuka <color=#E36853>Formasi</color>,
 Gabriel memang hebat! Monster tadi dengan mudah dikalahkan begitu saja.,
 "Ya, tapi kamu adalah tuannya Gabriel, jadi kamu lebih hebat lagi!",
 "Selanjutnya, selama perjalananmu, kamu akan terus menemui monster. Tolong basmi mereka!",
@@ -3981,11 +3981,11 @@ Mana semudah itu? Kita harus mencari dahulu Kepingan yang dibutuhkan untuk Awake
 "Eh? Sepertinya aku mendapatkan beberapa Kepingan Dewi Takdir, bagaimana cara menggunakannya?",
 Kamu dapat mengumpulkan Kepingan untuk Awaken Angel yang sudah pernah kamu dapatkan. Gunakanlah kepingan ini untuk Awaken Angel!,
 Baik! Akan kucoba!,
-"Kepingan sudah cukup, sekarang dapat <color=#FA931AFF>Awaken</color> Angel",
-Sentuh untuk pilih target Angel yang mau <color=#FA931AFF>Awaken</color>,
-Sentuh untuk masuk antarmuka <color=#C62416>Awaken</color>,
-Sentuh tombol <color=#C62416>Awaken</color>,
-"Jumlah kepingan sudah cukup, sentuh tombol <color=#FA931AFF>[Awaken]</color> untuk Awaken Angel",
+"Kepingan sudah cukup, sekarang dapat <color=#FCC65AFF>Awaken</color> Angel",
+Sentuh untuk pilih target Angel yang mau <color=#FCC65AFF>Awaken</color>,
+Sentuh untuk masuk antarmuka <color=#E36853>Awaken</color>,
+Sentuh tombol <color=#E36853>Awaken</color>,
+"Jumlah kepingan sudah cukup, sentuh tombol <color=#FCC65AFF>[Awaken]</color> untuk Awaken Angel",
 Dewa Masa mengontrol segalanya!,
 "Hebat sekali, inikah kekuatan Awaken?",
 Ayo! Lanjut membasmi monster di Jepang!,
@@ -3996,16 +3996,16 @@ Ayo! Lanjut membasmi monster di Jepang!,
 Saya,
 Ada hadiah Adventure yang bisa diambil!,
 HERO_AWAKE_NOT_ENOUGH,Level Awaken Angel tidak cukup
-"Di sini, setiap hari akan refresh <color=#C62416>Adventure</color> dengan level bintang berbeda. Semakin tinggi bintangnya, semakin baik hadiahnya",
-Pilih stage <color=#C62416>Adventure</color> dengan bintang tertinggi untuk memperoleh hadiah terbaik,
-Pilih Angle yang sedang idle untuk <color=#C62416>Adventure</color>,
-<color=#C62416>Adventure</color> sudah dimulai. Sentuh untuk lihat info detail,
-Setiap kali <color=#C62416>Adventure</color> akan memerlukan beberapa waktu untuk selesai. Gunakan fungsi <color=#6DCFF6FF>Akselerasi</color> untuk langsung mendapatkan hadiah (<color=#6DCFF6FF>Akselerasi</color> kali ini gratis),
-"<color=#C62416>Adventure</color>sudah diselesaikan, klik di sini untuk mengambil hadiah (Adventure kali ini tidak termasuk dalam batasan harian)",
-"Masuk antarmuka Angel, gunakan <color=#6DCFF6FF>Tears of Angel </color> yang didapat dari <color=#C62416>Adventure</color> untuk <color=#C62416>Beri Hadiah</color> pada Angel dan melakukan <color=#C62416>Promosi</color>",
-Sentuh untuk pilih target <color=#C62416>Promosi</color>,
-Sentuh untuk masuk ke antarmuka <color=#C62416>Promosi</color>,
-"Sentuh <color=#6DCFF6FF>Tears of Angel </color> untuk <color=#C62416>Beri Hadiah</color> pada Angel dan meningkatkan <color=#6DCFF6FF>Afinitas</color>. Saat <color=#6DCFF6FF>Afinitas</color> mencapai jumlah tertentu, Angel dapat <color=#C62416>Promosi",
+"Di sini, setiap hari akan refresh <color=#E36853>Adventure</color> dengan level bintang berbeda. Semakin tinggi bintangnya, semakin baik hadiahnya",
+Pilih stage <color=#E36853>Adventure</color> dengan bintang tertinggi untuk memperoleh hadiah terbaik,
+Pilih Angle yang sedang idle untuk <color=#E36853>Adventure</color>,
+<color=#E36853>Adventure</color> sudah dimulai. Sentuh untuk lihat info detail,
+Setiap kali <color=#E36853>Adventure</color> akan memerlukan beberapa waktu untuk selesai. Gunakan fungsi <color=#ADE7FAFF>Akselerasi</color> untuk langsung mendapatkan hadiah (<color=#ADE7FAFF>Akselerasi</color> kali ini gratis),
+"<color=#E36853>Adventure</color>sudah diselesaikan, klik di sini untuk mengambil hadiah (Adventure kali ini tidak termasuk dalam batasan harian)",
+"Masuk antarmuka Angel, gunakan <color=#ADE7FAFF>Tears of Angel </color> yang didapat dari <color=#E36853>Adventure</color> untuk <color=#E36853>Beri Hadiah</color> pada Angel dan melakukan <color=#E36853>Promosi</color>",
+Sentuh untuk pilih target <color=#E36853>Promosi</color>,
+Sentuh untuk masuk ke antarmuka <color=#E36853>Promosi</color>,
+"Sentuh <color=#ADE7FAFF>Tears of Angel </color> untuk <color=#E36853>Beri Hadiah</color> pada Angel dan meningkatkan <color=#ADE7FAFF>Afinitas</color>. Saat <color=#ADE7FAFF>Afinitas</color> mencapai jumlah tertentu, Angel dapat <color=#E36853>Promosi",
 Adventure,
 Encounter akan hilang dalam {0},
 ,
@@ -4019,10 +4019,10 @@ Sudah Punya,
 Belum Punya,
 Promosi Berhasil,
 Maks Train,
-Masuk antarmuka <color=#C62416>Summon</color>,
-<color=#C62416>Ganti Equipment</color> untuk meningkatkan Power dan coba lagi!,
-"Setiap hari dapat melakukan <color=#C62416>Sweep BOSS</color>, dapatkan banyak Equipment langka!",
-"<color=#C62416>Sweep</color> BOSS di dungeon sebelumnya, ada kesempatan besar memperoleh Equipment yang lebih baik!",
+Masuk antarmuka <color=#E36853>Summon</color>,
+<color=#E36853>Ganti Equipment</color> untuk meningkatkan Power dan coba lagi!,
+"Setiap hari dapat melakukan <color=#E36853>Sweep BOSS</color>, dapatkan banyak Equipment langka!",
+"<color=#E36853>Sweep</color> BOSS di dungeon sebelumnya, ada kesempatan besar memperoleh Equipment yang lebih baik!",
 Gratis Angel Orange,
 Ada BOSS baru yang dapat ditantang! Segera lawan dia!,
 "Ada Equipment yang lebih kuat, segera ganti!",
@@ -4047,14 +4047,14 @@ SKY_STONE,Kunci Sky
 SKY_STONE_DESC,Kunci Sky adalah item yang digunakan untuk tantang dan Sweep Tower Langit
 HERO_GROUP_LOCK,(Terkunci)
 HERO_GROUP_UNLOCK,Buka
-HERO_GROUP_LEVEL,(Lv.<color=#EED144FF>{0}</color>)
+HERO_GROUP_LEVEL,(Lv.<color=#F7E88BFF>{0}</color>)
 HERO_GROUP_FULL_LEVEL,Level sudah maks
 HERO_GROUP_UPGRADE,Level Up
 HERO_GROUP_NEXT_LEVEL_INFO,Lv. selanjutnya: {0}
 HERO_GROUP_UPGRADE_CONDTION_HAD,(Angel yg dimiliki)
-HERO_GROUP_UPGRADE_CONDTION_AWAKE,(Awaken semua Angel hingga bintang <color=#EED144FF>{0}</color>)
-HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(Promosi semua Angel hingga <color=#EED144FF>+{0}</color>)
-HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,(Power semua Angel mencapai <color=#EED144FF>{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_AWAKE,(Awaken semua Angel hingga bintang <color=#F7E88BFF>{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(Promosi semua Angel hingga <color=#F7E88BFF>+{0}</color>)
+HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,(Power semua Angel mencapai <color=#F7E88BFF>{0}</color>)
 Fate,
 Atribut Fate,
 VIP_EXP_DESC,Exp VIP meningkatkan level VIP
@@ -4084,9 +4084,9 @@ Rabat Diamond,
 Beli Terbatas,
 Sudah Ambil,
 Paket Diskon!,
-<size=32>Langsung mendapat <b><color=#FA931AFF>60</color></b>Diamond</size>\n serta Paket Super Value senilai <b><color=#FF0909FF>588</color></b> Diamond,
-<size=32>Langsung mendapat <b><color=#FA931AFF>80</color></b>Diamond</size>\n serta Paket Super Value senilai <b><color=#FF0909FF>988</color></b> Diamond,
-<size=32>Langsung mendapat <b><color=#FA931AFF>120</color></b>Diamond</size>\n serta Paket Super Value senilai <b><color=#FF0909FF>1588</color></b> Diamond,
+<size=32>Langsung mendapat <b><color=#FCC65AFF>60</color></b>Diamond</size>\n serta Paket Super Value senilai <b><color=#FF3737FF>588</color></b> Diamond,
+<size=32>Langsung mendapat <b><color=#FCC65AFF>80</color></b>Diamond</size>\n serta Paket Super Value senilai <b><color=#FF3737FF>988</color></b> Diamond,
+<size=32>Langsung mendapat <b><color=#FCC65AFF>120</color></b>Diamond</size>\n serta Paket Super Value senilai <b><color=#FF3737FF>1588</color></b> Diamond,
 Langsung mendapat 10 Diamond\n serta Paket Super Value senilai 188 Diamond,
 Angel Growth,
 Paket Kartu Mingguan,
@@ -4487,29 +4487,29 @@ TRIAL_DIFFICULTY_4,Neraka
 TRAIN_SETTING_DESC,"Saat formula berikut terpenuhi, otomatis menghapus hasil Train kali ini\nPerubahan Atribut Utama x <color=#FFFF00>Prioritas</color> + Perubahan Atribut Lainnya < 0"
 Permintaan Teman sudah dikirim,
 FRIEND_REQUEST_REPEAT,Sudah mengirim Permintaan Teman
-NOTICE_10001001,Orang yang sangat beruntung!  <color=#25c1e9>{0}</color> mendapatkan <color=#FF3838FF>{1}</color> !
-NOTICE_10002001,Berkah dari Dewa!  <color=#25c1e9>{0}</color> mendapatkan <color=#FA931AFF>{1}</color>! Selamat menikmati!
-NOTICE_10003001,Orang yang sangat beruntung!  <color=#25c1e9>{0}</color> telah Fusion <color=#FF3838FF>{1}</color> !
-NOTICE_10004001,Berkah dari Dewa!  <color=#25c1e9>{0}</color> telah Fusion <color=#FA931AFF>{1}</color>! Selamat menikmati~
-NOTICE_10005001,Selamat! <color=#25c1e9>{0}</color> telah fusion Gem Lv.{1}!
-NOTICE_10006001,Selamat! <color=#25c1e9>{0}</color> berhasil Smelt Artefak Dual Atribut!
-NOTICE_10007001,Sang terpilih! <color=#25c1e9>{0}</color> telah Awaken <color=#FF3838FF>{1}</color> menjadi bintang <color=#25c1e9>{2}</color>!
-NOTICE_10008001,Bintang keberuntungan bersinar! <color=#25c1e9>{0}</color> telah Awaken <color=#FA931AFF>{1}</color> menjadi bintan <color=#25c1e9>{2}</color>!
+NOTICE_10001001,Orang yang sangat beruntung!  <color=#6AE0F4>{0}</color> mendapatkan <color=#FF8080FF>{1}</color> !
+NOTICE_10002001,Berkah dari Dewa!  <color=#6AE0F4>{0}</color> mendapatkan <color=#FCC65AFF>{1}</color>! Selamat menikmati!
+NOTICE_10003001,Orang yang sangat beruntung!  <color=#6AE0F4>{0}</color> telah Fusion <color=#FF8080FF>{1}</color> !
+NOTICE_10004001,Berkah dari Dewa!  <color=#6AE0F4>{0}</color> telah Fusion <color=#FCC65AFF>{1}</color>! Selamat menikmati~
+NOTICE_10005001,Selamat! <color=#6AE0F4>{0}</color> telah fusion Gem Lv.{1}!
+NOTICE_10006001,Selamat! <color=#6AE0F4>{0}</color> berhasil Smelt Artefak Dual Atribut!
+NOTICE_10007001,Sang terpilih! <color=#6AE0F4>{0}</color> telah Awaken <color=#FF8080FF>{1}</color> menjadi bintang <color=#6AE0F4>{2}</color>!
+NOTICE_10008001,Bintang keberuntungan bersinar! <color=#6AE0F4>{0}</color> telah Awaken <color=#FCC65AFF>{1}</color> menjadi bintan <color=#6AE0F4>{2}</color>!
 NOTICE_10009001,"Cinta {0} pada {1} bersinar terang, ia Train hingga level {2}!"
-NOTICE_10010001,Sang terpilih! <color=#25c1e9>{0}</color> telah Awaken <color=#FF3838FF>UR-{1}</color> menjadi bintang <color=#25c1e9>{2}</color>!
-NOTICE_10010002,Orang yang sangat beruntung!  <color=#25c1e9>{0}</color> telah Fusion <color=#FF3838FF>UR-{1}</color> !
+NOTICE_10010001,Sang terpilih! <color=#6AE0F4>{0}</color> telah Awaken <color=#FF8080FF>UR-{1}</color> menjadi bintang <color=#6AE0F4>{2}</color>!
+NOTICE_10010002,Orang yang sangat beruntung!  <color=#6AE0F4>{0}</color> telah Fusion <color=#FF8080FF>UR-{1}</color> !
 NOTICE_10103001,Guild War Top 8 sudah selesai. Para anggota Guild dapat memeriksa hasilnya di antarmuka Guild.
-NOTICE_10104001,"Guild War Top 4 sudah selesai. Mari kita beri selamat 4 Guild berikut:  <color=#49ff31>{0}</color>, <color=#49ff31>{1}</color>, <color=#49ff31>{2}</color>, <color=#49ff31>{3}</color>"
-NOTICE_10105001,Selamat kepada <color=#49ff31>{0}</color> telah menjadi Runner Up pada Guild War kali ini!
-NOTICE_10106001,Selamat! Penguasa baru telah muncul!  <color=#49ff31>{0}</color> berhasil meraih kemenangan dan maju memimpin dunia!
+NOTICE_10104001,"Guild War Top 4 sudah selesai. Mari kita beri selamat 4 Guild berikut:  <color=#90FF78>{0}</color>, <color=#90FF78>{1}</color>, <color=#90FF78>{2}</color>, <color=#90FF78>{3}</color>"
+NOTICE_10105001,Selamat kepada <color=#90FF78>{0}</color> telah menjadi Runner Up pada Guild War kali ini!
+NOTICE_10106001,Selamat! Penguasa baru telah muncul!  <color=#90FF78>{0}</color> berhasil meraih kemenangan dan maju memimpin dunia!
 NOTICE_10201001,"Guild BOSS sudah dibuka, semangat!"
-NOTICE_10301001,Saatnya bertempur!  <color=#25c1e9>{0}</color> memberikan pukulan terakhir pada World BOSS dan mengalahkannya
+NOTICE_10301001,Saatnya bertempur!  <color=#6AE0F4>{0}</color> memberikan pukulan terakhir pada World BOSS dan mengalahkannya
 NOTICE_10302001,"World BOSS telah selesai. Ketiga pemenangnya adalah {0}, {1}, {2}"
-NOTICE_10401001,Yang menang menjadi penguasa!  <color=#25c1e9>{0}</color>  telah mengalahkan  <color=#25c1e9>{1}</color> dan memimpin di singgasana.
-NOTICE_10401002,Pemenangnya telah berubah!  <color=#25c1e9>{0}</color> dengan mudah mengalahkan <color=#25c1e9>{1}</color> dan menjadi pemenang baru!
-NOTICE_10402001,"<color=#25c1e9>{0}</color> berjuang keras, mengalahkan banyak orang, dan menuju yang teratas"
+NOTICE_10401001,Yang menang menjadi penguasa!  <color=#6AE0F4>{0}</color>  telah mengalahkan  <color=#6AE0F4>{1}</color> dan memimpin di singgasana.
+NOTICE_10401002,Pemenangnya telah berubah!  <color=#6AE0F4>{0}</color> dengan mudah mengalahkan <color=#6AE0F4>{1}</color> dan menjadi pemenang baru!
+NOTICE_10402001,"<color=#6AE0F4>{0}</color> berjuang keras, mengalahkan banyak orang, dan menuju yang teratas"
 NOTICE_10403001,"Waktu selesai Arena sudah dekat, siapakah yang akan jadi pemenangnya?"
-NOTICE_10501001,"<color=#25c1e9>{0}</color> sang pemberani, menjadi orang pertama yang berhasil melewati {1} di Tower Langit"
+NOTICE_10501001,"<color=#6AE0F4>{0}</color> sang pemberani, menjadi orang pertama yang berhasil melewati {1} di Tower Langit"
 NOTICE_10601001,Glory Arena Top {0} ke Top {1} telah dimulai!
 NOTICE_20001001,"World BOSS akan segera dimulai, bersiap-siaplah!"
 NOTICE_20002001,"World BOSS sudah dimulai. Para pejuang, serbu!"
@@ -4826,7 +4826,7 @@ Hadiah Battle Cepat,
 Maks Pakai Tiket Battle Cepat,
 Karunia Angel,
 Perolehan Berdoa:,
-Durasi tersisa <color=#00FF56FF>{0}</color> hari,
+Durasi tersisa <color=#00FF9BFF>{0}</color> hari,
 Berdoa,
 Sudah Berdoa,
 Beli 10 kali,
@@ -4913,7 +4913,7 @@ Suplai Terbatas,
 Pengingat Penukaran,
 Tukar,
 Sisa jatah beli:,
-"Periode event (<color=#6DCFF6FF>2.13-2.19</color> \nMelakukan Summon dengan Tiket Summon Terbatas \nakan memperoleh \r1 poin, dapatkan \rhadiah setelah mencapai \npoin tertentu.",
+"Periode event (<color=#ADE7FAFF>2.13-2.19</color> \nMelakukan Summon dengan Tiket Summon Terbatas \nakan memperoleh \r1 poin, dapatkan \rhadiah setelah mencapai \npoin tertentu.",
 Poin saya,
 Summon mencapai,
 Carnival\n,
@@ -5945,7 +5945,7 @@ CUSTOM_GIFT_NAME_LOGIN1,King
 CUSTOM_GIFT_NAME_LOGIN2,Kembali
 CUSTOM_GIFT_NAME_TRAIN1,Bertumbuh
 CUSTOM_GIFT_NAME_TRAIN2,Persiapan
-CUSTOM_GIFT_CONTENT,Hadiah limited\nHarganya melebihi<color=#FA931AFF>{0}</color>diamond\nJangan sampai kelewatan!
+CUSTOM_GIFT_CONTENT,Hadiah limited\nHarganya melebihi<color=#FCC65AFF>{0}</color>diamond\nJangan sampai kelewatan!
 Hadiah dari Nut,
 AD_LOGIN_OFFLINE_DES,Buffs Idling selama 30 menit
 point,Poin
@@ -6033,7 +6033,7 @@ Hadiah Easter 2,
 Hadiah Easter 3,
 Hadiah Easter 4,
 Kedatangan Hades,
-BATTLE_ARRAY_CONTENT,"Bertahan hidup dalam pertarungan<color=#FA931AFF>{0}</color>nama Goddess, membuat seluruh Goddess mendapatkan atribut tambahan:"
+BATTLE_ARRAY_CONTENT,"Bertahan hidup dalam pertarungan<color=#FCC65AFF>{0}</color>nama Goddess, membuat seluruh Goddess mendapatkan atribut tambahan:"
 DAMAGE_ADD,Damage bertambah
 DAMAGE_MINUS,Damage berkurang
 Penukaran hadiah,
@@ -6713,7 +6713,7 @@ Freeze-Frigid Land,
 SELL OUT,Telah terjual habis
 SELL_OUT,Telah terjual habis
 BOSS GUILD,
-CHARGE_VIP_LV_TIPS_TWO,Require <color=#FFBA00>{num}</color> VIP EXP to upgrade to <color=#FFBA00>VIP {viplv} </color>
+CHARGE_VIP_LV_TIPS_TWO,Require <color=#FFDC00>{num}</color> VIP EXP to upgrade to <color=#FFDC00>VIP {viplv} </color>
 Hadiah Ranking,
 Membuka akses kantong Gem,
 EVENT_SHOP_DAILY,Diskon harian
@@ -6746,7 +6746,7 @@ Menyelesaikan:,
 God King Key,
 CUSTOM_GIFT_NAME_LEVEL1,Berani
 CUSTOM_GIFT_NAME_LEVEL2,Maju
-REACH_LEVEL_UNLOCK_SUMMON,Membuka akses setelah mencapai level <color=#FFBA00>{level}</color>
+REACH_LEVEL_UNLOCK_SUMMON,Membuka akses setelah mencapai level <color=#FFDC00>{level}</color>
 EVENT_GOD_TREASURE_HOUSE_LAYER,God King Treasury lantai ke{0}
 Membuka akses ketika mencapai level 40,
 Membuka akses ketika mencapai level 70,
@@ -6962,7 +6962,7 @@ Upgrade Goddess sebanyak 1 kali,
 HERO_SKIN_EXPIRE,Masa berlaku Skin Goddess telah kedaluwarsa
 Silakan menyesuaikan waktu setempat,
 CONTENT_CONTAIN_SHIELD_WORD,"Terdapat kosakata sensitif, silakan mengetik ulang!"
-WORLD_BOSS_CHALLENGE_NUM,Hari ini tersisa: <color=#4FFF4FFF>{0} </color> kali
+WORLD_BOSS_CHALLENGE_NUM,Hari ini tersisa: <color=#95FF95FF>{0} </color> kali
 SERVER_CAN_NOT_LOGIN,"Versi Klien terlalu rendah, tidak bisa masuk ke server"
 Komunitas,
 WORLD_BOSS_SHOWTEXT_1,"Horn penghakiman akhir dunia telah bergema, satu-satunya Serafim yang resmi, Gabirel, akan memusnahkan segala hal yang keji di dunia manusia."
@@ -7662,7 +7662,7 @@ Laporan pertandingan season ini,
 Pertandingan 8 besar,
 Pertandingan 16 besar,
 Pertandingan 32 besar,
-GUILD_WAR_SIGN_UP_NOTIFY_MESSAGE,"Ayo cepat berpartisipasi dalam Guild War, masih kurang satu lagi, yaitu kamu~, <a href=1><color=#FA931AFF>[Klik untuk info lebih lanjut]>>></color></a>"
+GUILD_WAR_SIGN_UP_NOTIFY_MESSAGE,"Ayo cepat berpartisipasi dalam Guild War, masih kurang satu lagi, yaitu kamu~, <a href=1><color=#FCC65AFF>[Klik untuk info lebih lanjut]>>></color></a>"
 Angel Guard,
 Heart of Victory,
 King Starting Point,
@@ -7731,8 +7731,8 @@ GUILD_WAR_ROUND,Pertarungan ke-{0}
 GUILD_WAR_BATTLE_REPORT_1,
 Situasi pertarungan,
 GUILD_WAR_BATTLE_REPORT_2,
-KorAgreement,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://mujoy.sg/pc/policy.html><color=#87CEFA><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
-COMMON_AGREEMENT,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://mujoy.sg/pc/policy.html><color=#87CEFA><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
+KorAgreement,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://mujoy.sg/pc/policy.html><color=#BEE7FC><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
+COMMON_AGREEMENT,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://mujoy.sg/pc/policy.html><color=#BEE7FC><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
 Guild War Treasure Chest,
 Di dalam Treasure Chest dari hadiah Guild War sepertinya ada beberapa harta karun berharga yang tersembunyi.,
 Spirit: Heaven Slash,
@@ -8137,7 +8137,7 @@ Pemilik dari Golden Apple yang cantik bisa menukarkan item yang bagus pada toko 
 "Kamu mengejutkanku! Gaia, aku juga ingin Golden Apple, berikan satu buah untukku.",
 "Tidak boleh, Golden Apple hanya boleh diberikan kepada Goddess dengan Charm Points tertinggi.",
 "Kebetulan Zeus dan Hera akan mengadakan pertandingan Cham Points, kamu bisa berpartisipasi dan mendapatkan Golden Apple milikmu.",
-HOT_ACTIVITY_SCORE,<color=#A0A5ABFF>Points</color>{0}
+HOT_ACTIVITY_SCORE,<color=#CED1D4FF>Points</color>{0}
 Hadiah Top up,
 ACTIVE_RECHRAGE_TASK_ALL,Mengumpulkan poin pada periode event akan mendapatkan VIP Experience sebanyak{0}
 ACTIVE_RECHRAGE_BUTTON_TIPS_ALL,Hanya dengan top up bisa mendapatkan VIP Experience sebanyak{0} dan bisa mengambil hadiah
@@ -8471,7 +8471,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_8,Guild Anda terhenti pada 8 besar di Olympu
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_4,Guild Anda terhenti pada 4 besar di Olympus War Season {0}. Ayo lebih semangat dan ciptakan prestasi yang lebih baik lagi! Mendapatkan hadiah di bawah ini:
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,Guild Anda menjadi Runner-up di Olympus War Season {0}! Terus tingkatkan kekuatan tempur dan menjadi Juara di pertandingan berikutnya!  Mendapatkan hadiah di bawah ini:
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,Guild Anda menjadi Juara di Olympus War Season {0}! Mendapatkan hadiah di bawah ini:
-GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,"Ayo cepat berpartisipasi dalam Olympus War, masih kurang satu lagi, yaitu kamu~, <a href=2><color=#FA931AFF>[Klik untuk info lebih lanjut]>>></color></a>"
+GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,"Ayo cepat berpartisipasi dalam Olympus War, masih kurang satu lagi, yaitu kamu~, <a href=2><color=#FCC65AFF>[Klik untuk info lebih lanjut]>>></color></a>"
 GUILD_ASPL_CAN_NOT_SIGN_UP,Guild dengan peringkat{0}teratas pada Guild War sebelumnya bisa mendaftar
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,Guild dengan peringkat{0}teratas pada Guild War kali ini bisa mendaftar setelah waktu perhitungan mundur berakhir
 HERO_PALACE_NEXT_CONDITION_TIPS,Jarak dari target selanjutnya: {0}
@@ -9120,8 +9120,8 @@ COUNTRY_WAR_DESC_26,
 COUNTRY_WAR_DESC_27,Saat ini tidak bisa menggunakan Horn
 COUNTRY_WAR_USE_GOODS_POWER_TIPS,Hanya pengelola Guild yang bisa menggunakan item ini
 COUNTRY_WAR_MESSAGE_DECLARED,
-COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#6A8AF5>{0}</color>diserang oleh<color=#E93830>{1}</color>
-COUNTRY_WAR_MESSAGE_USE_GOODS,{0}-<color=#6A8AF5>{1}</color>kepada<color=#2CB51E>{2}</color>menggunakan<color=#FFC64D>{3}</color>
+COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#ABC0FA>{0}</color>diserang oleh<color=#F48077>{1}</color>
+COUNTRY_WAR_MESSAGE_USE_GOODS,{0}-<color=#ABC0FA>{1}</color>kepada<color=#72DA60>{2}</color>menggunakan<color=#FFE393>{3}</color>
 COUNTRY_WAR_CLOSE,Sedang dalam penutupan sistem
 COUNTRY_WAR_HAS_NOT_SIGIUP,Belum daftar
 COUNTRY_WAR_NOT_OPEN,Menunggu pertandiangan season dimulai
@@ -9149,8 +9149,8 @@ COUNTRY_WAR_SET_TEAM_SUCCESS,Dispatch berhasil
 COUNTRY_WAR_NOT_IN_SIGNUP_STEP,Untuk saat ini masih belum pada tahap pendaftaran sehingga tidak bisa melakukan pendaftaran
 COUNTRY_WAR_NOT_IN_BATTLE_STEP,"Saat ini masih belum tahap merebut kota, tidak bisa melakukan aktivitas ini"
 COUNTRY_WAR_NOT_IN_MOBAI_STEP,"Saat ini masih belum pada tahap Worship, tidak bisa melakukan Worship"
-COUNTRY_WAR_SIGN_UP_PVE_NOTIFY_MESSAGE,"Ketua Guild Anda sudah mendaftar pada event Gods Twilight mode PVE kali ini, silakan berpartisipasi dengan tepat waktu, <a href=3><color=#FA931AFF>[klik untuk lebih lanjut]>>></color></a>"
-COUNTRY_WAR_SIGN_UP_PVP_NOTIFY_MESSAGE,"Ketua Guild Anda sudah mendaftar pada event Gods Twilight mode PVP kali ini, silakan berpartisipasi dengan tepat waktu, <a href=3><color=#FA931AFF>[klik untuk lebih lanjut]>>></color></a>"
+COUNTRY_WAR_SIGN_UP_PVE_NOTIFY_MESSAGE,"Ketua Guild Anda sudah mendaftar pada event Gods Twilight mode PVE kali ini, silakan berpartisipasi dengan tepat waktu, <a href=3><color=#FCC65AFF>[klik untuk lebih lanjut]>>></color></a>"
+COUNTRY_WAR_SIGN_UP_PVP_NOTIFY_MESSAGE,"Ketua Guild Anda sudah mendaftar pada event Gods Twilight mode PVP kali ini, silakan berpartisipasi dengan tepat waktu, <a href=3><color=#FCC65AFF>[klik untuk lebih lanjut]>>></color></a>"
 COUNTRY_WAR_XUAN_ZHAN_NOTIFY_MESSAGE,
 COUNTRY_WAR_USE_GOODS_NOTIFY_MESSAGE,
 COUNTRY_WAR_BATTLE_RESULT_NOTIFY_MESSAGE,
@@ -9244,13 +9244,13 @@ ABYSS_GOODS_USE_HERO_EMPTY,Tidak ada Goddess yang perlu dipulihkan
 DRESS_STRENGTHEN_EMPTY,Saat ini tidak ada bahan yang bisa dipilih
 COPY_SUCCESS,Penyalinan berhasil
 Tidak ada,
-<color=#6570a2><size=20>Saat ini tidak ada Gear yang bisa dilakukan Smelt</size></color>,
-<color=#6570a2><size=20>Saat ini tidak ada Gear yang bisa dipakai</size></color>,
+<color=#A7AFCF><size=20>Saat ini tidak ada Gear yang bisa dilakukan Smelt</size></color>,
+<color=#A7AFCF><size=20>Saat ini tidak ada Gear yang bisa dipakai</size></color>,
 [2 Set Aktif],
-<color=#6570a2><size=20> Saat ini tidak ada Accessories yang bisa dipakai </size></color>,
-<color=#6570a2><size=20>Saat ini tidak ada Accessories yang bisa dipilih</size></color>,
+<color=#A7AFCF><size=20> Saat ini tidak ada Accessories yang bisa dipakai </size></color>,
+<color=#A7AFCF><size=20>Saat ini tidak ada Accessories yang bisa dipilih</size></color>,
 Kehidupan,
-<color=#6570a2><size=20>Saat ini belum ada Shard yang bisa digunakan</size></color>,
+<color=#A7AFCF><size=20>Saat ini belum ada Shard yang bisa digunakan</size></color>,
 Chat bubble,
 Chat bubble default,
 Default,
@@ -9323,7 +9323,7 @@ Saat ini menduduki{0}kota,
 Waktu perhitungan mundur event dimulai <color=#00FF00>{0}</color>,
 "Melakukan summon menggunakan Summon Coupon pada periode event bisa\vmendapatkan\n1 poin, bila mencapai poin tertentu bisa\vmengambil hadiah\n",
 "Pada periode event, hadiah dari Star Trial menjadi dua kali lipat",
-<color=#A0A5ABFF>Points</color>1000/1000,
+<color=#CED1D4FF>Points</color>1000/1000,
 Craft dan Synthesize Artifact bisa mendapatkan poin,
 Mendapatkan hadiah tambahan,
 Setiap menggunakan 2000 diamond,
@@ -9335,7 +9335,7 @@ Quick Combat Experience+10%\n Jumlah gratis quick combat+1\nJumlah gratis refres
 30 menit buff quick combat,
 ,
 ,
-<color=#6570a2><size=20>Saat ini tidak ada pemberitahuan baru</size></color>,
+<color=#A7AFCF><size=20>Saat ini tidak ada pemberitahuan baru</size></color>,
 Sumber: Guild War,
 Batas waktu:,
 Peraturan,
@@ -9343,11 +9343,11 @@ Batas waktu,
 Server,
 Berita Guild,
 Server Extra,
-<color=#6570a2><size=20>Saat ini tidak ada mail</size></color>,
+<color=#A7AFCF><size=20>Saat ini tidak ada mail</size></color>,
 Quick combat,
 Setuju,
-<color=#6570a2><size=20>Saat ini tidak ada Relic yang bisa dilakukan Quick Advance</size></color>,
-<color=#6570a2><size=20>Saat ini masih belum mempunyai Relic</size></color>,
+<color=#A7AFCF><size=20>Saat ini tidak ada Relic yang bisa dilakukan Quick Advance</size></color>,
+<color=#A7AFCF><size=20>Saat ini masih belum mempunyai Relic</size></color>,
 Damage kepada Mage bertambah,
 Mumi Mesir,
 Persyaratan membuka akses,
@@ -9356,7 +9356,7 @@ Peluang summon,
 Tidak mengambil hadiah\n,
 Setiap minggu,
 Active Points\nMinggu ini,
-<color=#6570a2><size=20>Saat ini belum ada laporan pertarungan</size></color>,
+<color=#A7AFCF><size=20>Saat ini belum ada laporan pertarungan</size></color>,
 Jalan menuju Valhalla,
 SUMMON_TYPE_DESC_111,Peluang SSR+ Goddess Shard: {0}
 SUMMON_TYPE_DESC_112,Peluang SSR+ Goddess: {0}
@@ -9371,7 +9371,7 @@ Valkyrie Phantom,
 Idun Phantom,
 Sif Phantom,
 Post Guardian,
-<color=#6570a2><size=20>Saat ini belum ada private chat</size></color>,
+<color=#A7AFCF><size=20>Saat ini belum ada private chat</size></color>,
 Descend Package-Daily Discount,
 Descend Package 1,
 Descend Package 2,
@@ -9434,7 +9434,7 @@ Jumlah Tim penyerang:,
 Informasi penyerangan:,
 Informasi BAse,
 Sementara waktu tidak ada,
-<color=#FFC64D> Apocalypse Guardian </color>,
+<color=#FFE393> Apocalypse Guardian </color>,
 Event sudah dimulai,
 Apocalypse Guardian,
 God Domain Dominator,
@@ -9451,19 +9451,19 @@ Goddess Trial,
 "Telah melewati tahap pendaftaran, datang lagi pada season berikutnya",
 "Klik avatar Goddess, mengatur Goddess yang akan bertarung",
 "Setelah mengatur Line-up, bisa segera berpartisipasi dalam pertarungan!",
-<color=#FFC64D> God Domain Dominator </color>,
-<color=#FFC64D> God Domain Elite </color>,
-<color=#FFC64D> God Domain Duke </color>,
-<color=#FFC64D> God Domain Guardian </color>,
-<color=#FFC64D> God Domain Castellan </color>,
-<color=#FFC64D> God Domain Soldier </color>,
-<color=#6DCFF6FF><color=#FFC64D>Apocalypse Guardian</color></color>,
-<color=#6DCFF6FF><color=#FFC64D> God Domain Dominator </color></color>,
-<color=#6DCFF6FF><color=#FFC64D> God Domain Elite </color></color>,
-<color=#6DCFF6FF><color=#FFC64D> God Domain Duke </color></color>,
-<color=#6DCFF6FF><color=#FFC64D> God Domain Guardian </color></color>,
-<color=#6DCFF6FF><color=#FFC64D> God Domain Castellan </color></color>,
-<color=#6DCFF6FF><color=#FFC64D> God Domain Soldier </color></color>,
+<color=#FFE393> God Domain Dominator </color>,
+<color=#FFE393> God Domain Elite </color>,
+<color=#FFE393> God Domain Duke </color>,
+<color=#FFE393> God Domain Guardian </color>,
+<color=#FFE393> God Domain Castellan </color>,
+<color=#FFE393> God Domain Soldier </color>,
+<color=#ADE7FAFF><color=#FFE393>Apocalypse Guardian</color></color>,
+<color=#ADE7FAFF><color=#FFE393> God Domain Dominator </color></color>,
+<color=#ADE7FAFF><color=#FFE393> God Domain Elite </color></color>,
+<color=#ADE7FAFF><color=#FFE393> God Domain Duke </color></color>,
+<color=#ADE7FAFF><color=#FFE393> God Domain Guardian </color></color>,
+<color=#ADE7FAFF><color=#FFE393> God Domain Castellan </color></color>,
+<color=#ADE7FAFF><color=#FFE393> God Domain Soldier </color></color>,
 Saat ini tidak ada Goddess yang perlu dipulihkan,
 ACTIVE_SUMMON_FIRSTWEEK_BOSS_CHALLENGER,Saat ini masih belum ada penantang
 ACTIVE_SUMMON_FIRSTWEEK_BOSS_DMG,Damage tertinggi: {0}
@@ -9642,9 +9642,9 @@ Anniversary Celebration 7,
 Anniversary Celebration 8,
 Anniversary Celebration 9,
 Anniversary Celebration 10,
-week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Potongan harga</size></color>
-week_jindu,<color=#FFFFFF><size=18>Pembelian terbatas</size></color><color=#26F949><size=18>{0}</size></color>
-week_content,14 hari memberikan hadiah<color=#FFF341><size=32>{0}</size></color>
+week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Potongan harga</size></color>
+week_jindu,<color=#FFFFFF><size=18>Pembelian terbatas</size></color><color=#6BFC90><size=18>{0}</size></color>
+week_content,14 hari memberikan hadiah<color=#FFF988><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,"Pada periode event bisa menggunakan [Angel Feather] untuk menukar hadiah, setelah event berakhir Angel Feather akan otomatis dikembalikan"
 Hadirah Ranking BOSS Challange,
 WORLD_BOSS_SHOWTEXT_20,"Icarus terlahir kembali di dunia yang baru, dia menggunakan kekuatan mutlaknya untuk menembus pertahanan semua musuhnya."
@@ -9745,7 +9745,7 @@ Semua Atribut Warrior Hero bertambah,
 Semua Atribut Mage Hero bertambah,
 Semua Atribut Marksman Hero bertambah,
 Frigid Land-Frost Dragon,
-PROFRESSION_BATTLE_NUM,Kuota Challange:<color=#0BFF00>{0}</color>kali
+PROFRESSION_BATTLE_NUM,Kuota Challange:<color=#3DFF00>{0}</color>kali
 PROFRESSION_BATTLE_ZERO_NUM,Kuota Challange:<color=#FF0000>0</color>kali
 PROFRESSION_NUM_NO,Kuota challange tidak mencukupi
 PROFRESSION_TIME_ERROR,Belum waktunya dimulai
@@ -11916,15 +11916,15 @@ Menambah 50 Xiyu Favorability Point,
 ,
 "Mengagumi bulan di pertengahan musim gugur, menukar Goddess",
 Bisa diassist {0}/{1},
-<color=#00ff00>Kecepatan produksi+{0}%</color>,
+<color=#00FF00>Kecepatan produksi+{0}%</color>,
 Tersisa:,
 {0}Tersisa{1}kali,
-Kamu<color=#00ff00>sudah memberi like</color>{0}sekali,
-Kamu<color=#00ff00>sudah assist</color>{0}sekali,
+Kamu<color=#00FF00>sudah memberi like</color>{0}sekali,
+Kamu<color=#00FF00>sudah assist</color>{0}sekali,
 OUTLAND_VISIT_NOT_FRIEND,"Kamu bukan teman pemain ini, tidak bisa memberinya assist"
 OUTLAND_NOT_OPEN,Fitur Chaotic Realm belum dibuka
-{0}<color=#00ff00>memberimu like</color>sekali,
-{0}<color=#00ff00>assist kamu</color>sekali,
+{0}<color=#00FF00>memberimu like</color>sekali,
+{0}<color=#00FF00>assist kamu</color>sekali,
 Akses Chaotic Realm pemain ini belum dibuka,
 Hari ini sudah memberi like kepada pemain ini,
 Hari ini sudah memberi assist kepada pemain ini,
@@ -12070,8 +12070,8 @@ Kekuatannya terlalu berbahaya! Kita lebih baik memberitahu Dewa yang lain dari e
 "Ada seseorang yang mungkin akan membuatmu tertarik, dia merupakan komandan dan pemimpin para Dewa.",
 ,
 ,
-{0}<color=#00ff00>like</color>{1}sekali,
-{0}<color=#00ff00>assist</color>{1}sekali,
+{0}<color=#00FF00>like</color>{1}sekali,
+{0}<color=#00FF00>assist</color>{1}sekali,
 NWHC_TOTAL_SCORE,Akumulasi nilai:{0}
 NWHC_ONCE_SCORE_MAX,Nilai tertinggi:{0}
 NWHC_ONCE_SCORE_NOW,Nilai:{0} {1}
@@ -12472,7 +12472,7 @@ Apakah seperti itu? Mungkin itu hanya dirimu yang berbeda dan belum terbangun sa
 ,
 "Mungkin memang tidak ada artinya, bagaimanapun juga kita adalah keberadaan yang nyata, untuk apa memisahkan satu sama lain?",
 Memilih metode pembayaran,
-PAY_SELECT_VIRTUAL_COIN,<color=#6aff5a>{0}</color>(Tersisa {1})
+PAY_SELECT_VIRTUAL_COIN,<color=#ABFF9E>{0}</color>(Tersisa {1})
 Paket hadiah sudah dibeli!,
 Apa yakin ingin membeli paket hadiah?,
 "Ngomong-ngomong, sejak turun ke daratan timur, kami tidak bisa mengingat masa lalu kami.",
@@ -12870,7 +12870,7 @@ Pengajuan penangguhan berhasil,
 Logout_Tishi,"Setelah mengonfirmasi penangguhan, dalam waktu 72 jam akan menangguhkan{0}akun di seluruh server"
 Silakan masukan alasan penangguhan,
 unregister logout,"Apa yakin ingin membatalkan pengajuan penangguhan akun? Kalau tidak dibatalkan, Akun Anda akan otomotasi ditangguhkan pada{0}hari{1} kemudian. \nNote: 2 kali permintaan penangguhan akun setidaknya berjarak 24 jam"
-XUYUAN_COUNT_TIPS,"Setelah Pray sebanyak<color=#14F16F>{0}</color>kali, pasti akan mendapatkan<color=orange>{1}</color>"
+XUYUAN_COUNT_TIPS,"Setelah Pray sebanyak<color=#50F8AE>{0}</color>kali, pasti akan mendapatkan<color=orange>{1}</color>"
 Wish Stone milikku:,
 Prayx1,
 Prayx10,
@@ -12956,11 +12956,11 @@ Magic Circle DMG Reduction +15%  Magic Circle DMG Increase +12%,Magic Circle DMG
 Magic Circle DMG Reduction +10%  Magic Circle DMG Increase +9%,Magic Circle DMG Reduction +10%  Magic Circle DMG+9%
 Magic Circle DMG Reduction +5%  Magic Circle DMG Increase +6%,Magic Circle DMG Reduction +5%  Magic Circle DMG+6%
 Magic Circle DMG Increase +3%,Magic Circle DMG+3%
-"2 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FA931AFF>2</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
-"3 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FA931AFF>3</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
-"4 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FA931AFF>4</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
-"5 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FA931AFF>5</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
-"6 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FA931AFF>6</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
+"2 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FCC65AFF>2</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
+"3 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FCC65AFF>3</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
+"4 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FCC65AFF>4</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
+"5 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FCC65AFF>5</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
+"6 Angels remain in battle, all Angels get attributes bonus:","Bila di pertarungan ada<color=#FCC65AFF>6</color>Goddess, membuat seluruh Goddess mendapatkan Atribut Bonus:"
 Chat bubble Chinese New Year Festival Limited Edition,
 Chat bubble Chinese New Year Festical 2022 Limited Edition,
 Bingkai avatar Chinese New Year Limited Edition,
@@ -13203,7 +13203,7 @@ Doomsday Baptism,
 Rose Dancer,
 Blazing Emissary,
 GO_TO_BUY_ANGLE_COIN,Pergi untuk membeli AC
-PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Tersisa<color=#FF0909FF> {1}</color>)
+PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(Tersisa<color=#FF3737FF> {1}</color>)
 TTPW_CURRENT_ATTACK_TEAM,Melakukan penyerangan : Line-up{0}
 TTPW_CHOOSE_TEAM_NAME,Line-up{0}
 Membuka akses ketika mencapai peringkat King of Honor,
@@ -13416,8 +13416,8 @@ ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_TITLE,Hadiah kartu ucapan Thanksgiving Fe
 ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,"Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!"
 Korea,
 Bahasa Jepang,
-NOTICE_10010003,Sang terpilih! <color=#25c1e9>{0}</color> telah Awaken <color=#FF3838FF>UR+-{1}</color> menjadi bintang <color=#25c1e9>{2}</color>!
-NOTICE_10010004,Orang yang sangat beruntung!  <color=#25c1e9>{0}</color> telah Fusion <color=#FF3838FF>UR+-{1}</color> !
+NOTICE_10010003,Sang terpilih! <color=#6AE0F4>{0}</color> telah Awaken <color=#FF8080FF>UR+-{1}</color> menjadi bintang <color=#6AE0F4>{2}</color>!
+NOTICE_10010004,Orang yang sangat beruntung!  <color=#6AE0F4>{0}</color> telah Fusion <color=#FF8080FF>UR+-{1}</color> !
 "Flame Affinity: Ketika masuk ke Lava Pool, meningkatkan jumlah produksi Enhance Essence.",
 Mengumpulkan 55 Chaos Shard bisa summon Chaos,
 Limited summon,

@@ -99,7 +99,7 @@ HIGH_QUALITY_RATE,Queda de equipamentos
 ARMOR_ATTR_PART1,
 ARMOR_ATTR_PART1_ITEM,<size=25><color=#FFFFFF>{text}</color> </size>
 ARMOR_ATTR_PART2,<size=30> <color=#FFFF00> Atributos adicionais: </color> </size>
-ARMOR_ATTR_PART2_ITEM,<size=25><color=#FF882C>{text}</color> </size>
+ARMOR_ATTR_PART2_ITEM,<size=25><color=#FFBF72>{text}</color> </size>
 ARMOR_ATTR_PART3,<size=30> <color=#FF0000> Atributo do artefato: </color> </size>
 ARMOR_ATTR_PART3_ITEM,<size=25><color=#FF0000>{text}</color> </size>
 TIME_SECOND,s
@@ -145,8 +145,8 @@ BATTLE_REPORT_AWARD,Obtenha {name} * {count}
 BATTLE_REPORT_SEARCH_ENEMY,Explorando
 BATTLE_REPORT_ROUND_BEGIN,
 ARENA_TARGET_USER_ERROR,Erro nos dados do jogador alvo
-ARENA_REPORT_SUBTITLE_1,Desafiado por <color=#ffd43e>{0}</color> e {1}. {2}
-ARENA_REPORT_SUBTITLE_2,Desafiou <color=#ffd43e>{0}</color> e {1}. {2}
+ARENA_REPORT_SUBTITLE_1,Desafiado por <color=#FFEA86>{0}</color> e {1}. {2}
+ARENA_REPORT_SUBTITLE_2,Desafiou <color=#FFEA86>{0}</color> e {1}. {2}
 ARENA_RANK,Ranking
 CONFIRM_SIGN_UP_HONOR_ARENA,
 NOT_CHANGE,Inalterado
@@ -472,7 +472,7 @@ LOST_LANDS_MINE_NAME_9,Mina Grande de Ferro Fino
 LOST_LANDS_MINE_NAME_10,Grande mina de ouro
 LOST_LANDS_MINE_NAME_11,Large Gem Mine
 LOST_LANDS_MINE_NAME_12,
-LOST_LANDS_DEFENSE_INVITATION_MSG,Acabei de descobrir <color=#E88E05> {mine_name} </color>! Toque aqui para juntar tudo e obter {num} {nome_da_ recompensa} a cada {tempo_de_unidade}!
+LOST_LANDS_DEFENSE_INVITATION_MSG,Acabei de descobrir <color=#F4C32A> {mine_name} </color>! Toque aqui para juntar tudo e obter {num} {nome_da_ recompensa} a cada {tempo_de_unidade}!
 GUIDE_NEWBIE_BACK_STORY,
 GUIDE_NEWBIE_UNKNOWN_BOSS_NAME,Chefe desconhecido
 GUIDE_NEWBIE_USER_NAME,Jogador
@@ -592,7 +592,7 @@ ACTIVITY_ONLINE_RECEIVE_REPEAT,
 ACTIVITY_ONLINE_TIME_TIPS,
 STRONGER_TITLE,
 GET_DEBRIS,Obter Shard
-GODDESS_BLESS_TIME_TIPS,Restante: <color=#00FF56FF>{0}</color> dia(s)
+GODDESS_BLESS_TIME_TIPS,Restante: <color=#00FF9BFF>{0}</color> dia(s)
 SERVER_TIME,Hora do servidor: {0}
 CHANGE_NAME_FREE_TIPS,
 CHANGE_NAME_COST_TIPS,Requer {0} diamantes
@@ -3562,13 +3562,13 @@ Toque para mudar para Tela de anjo,
 Toque no avatar para ajustar o anjo,
 ,
 Toque para melhorar,
-Toque para definir o anjo como <color=#C62416> [Fighting] </color>,
+Toque para definir o anjo como <color=#E36853> [Fighting] </color>,
 Toque aqui para entrar no campo de batalha,
 ,
 ,
 Seu poder aumentou dramaticamente,
 Entre no campo de batalha,
-Atinja mais de <color=#FA931AFF> 80% </color> Taxa de ganhos para <color=#FA931AFF> desafiar o chefe </color>,
+Atinja mais de <color=#FCC65AFF> 80% </color> Taxa de ganhos para <color=#FCC65AFF> desafiar o chefe </color>,
 ,
 Toque para desafiar o chefe,
 Toque para despertar,
@@ -3588,7 +3588,7 @@ Toque para entrar na masmorra desbloqueada recente,
 Force o jogador a tocar em [Begin Idling Button],
 ,
 ,
-Nova habilidade <color=#C62416> </color> desbloqueada,
+Nova habilidade <color=#E36853> </color> desbloqueada,
 Toque para ver as habilidades,
 Toque aqui para definir as habilidades,
 Toque aqui para definir as habilidades para a masmorra,
@@ -3597,34 +3597,34 @@ Toque para selecionar a habilidade,
 ,
 ,
 Toque para selecionar Anjo,
-Toque para iniciar o <color=#C62416> Treinamento </color>,
+Toque para iniciar o <color=#E36853> Treinamento </color>,
 ,
 Salvar atributo desenvolvido,
 ,
-Toque para entrar na <color=#C62416> Arena </color>,
+Toque para entrar na <color=#E36853> Arena </color>,
 Toque para desafiar,
-Crie um <color=#C62416> Artefato </color> agora,
-Toque aqui para criar <color=#C62416> Artefato </color>,
-Selecione o <color=#C62416> Artefato </color> a ser criado,
+Crie um <color=#E36853> Artefato </color> agora,
+Toque aqui para criar <color=#E36853> Artefato </color>,
+Selecione o <color=#E36853> Artefato </color> a ser criado,
 Toque para criar,
 ,
-Comece <color=#C62416> Aventura </color>,
-Toque para selecionar <color=#FA931AFF> Adventure Stage </color>,
+Comece <color=#E36853> Aventura </color>,
+Toque para selecionar <color=#FCC65AFF> Adventure Stage </color>,
 ,
 ,
 Toque para abrir o Shard Bag,
 ,
 ,
-"Todos os fragmentos foram coletados, toque em <color=#C62416> Compor anjo </color>",
-<color=#C62416> Crie </color> agora um equipamento,
-Toque para <color=#C62416> criar </color> equipamentos,
+"Todos os fragmentos foram coletados, toque em <color=#E36853> Compor anjo </color>",
+<color=#E36853> Crie </color> agora um equipamento,
+Toque para <color=#E36853> criar </color> equipamentos,
 ,
-Toque para <color=#C62416> fabricar equipamentos </color>,
+Toque para <color=#E36853> fabricar equipamentos </color>,
 ,
 Novo slot anjo desbloqueado,
-<color=#C62416> Melhore </color> seu equipamento para melhorar ainda mais seu poder!,
+<color=#E36853> Melhore </color> seu equipamento para melhorar ainda mais seu poder!,
 ,
-Selecione <color=#C62416> dificuldade normal </color> primeiro.,
+Selecione <color=#E36853> dificuldade normal </color> primeiro.,
 Trilha primeira etapa.,
 ,
 "Venha, enviarei monstros para o inferno antes de morrer!",
@@ -3783,7 +3783,7 @@ Arqueiro B,
 Mago C,
 Bruxa,
 Horus,
-Novo Anjo foi implantado para lutar ao seu lado. Experimente em <color=#FA931AFF> campo de batalha </color>.,
+Novo Anjo foi implantado para lutar ao seu lado. Experimente em <color=#FCC65AFF> campo de batalha </color>.,
 ,
 ,
 ,
@@ -3916,7 +3916,7 @@ Aumenta o auto Max HP em 12% e aumenta o ATK em 20%,
 "Aumentar ATK em 22%, Crit em 26%",
 HERO_AWAKE_FULL,
 SUMMON_HERO_HAVE,
-HERO_ARRAY_FIGHT_VALUE,<color=#ffffff><size=24>Poder:</size> </color> {0}
+HERO_ARRAY_FIGHT_VALUE,<color=#FFFFFF><size=24>Poder:</size> </color> {0}
 HERO_ARRAY_FIGHT_COUNT,Na luta: {0} / {1}
 HERO_ARRAY_OPEN_NEED_LEVEL,lv. {0} para desbloquear
 HERO_ARRAY_FIGHT_COUNT_MAX_LIMIT,
@@ -3957,7 +3957,7 @@ Me siga? Impressionante!,
 ,
 ,
 ,
-Toque aqui para editar a linha <color=#C62416> de Angels </color>,
+Toque aqui para editar a linha <color=#E36853> de Angels </color>,
 ,
 ,
 ,
@@ -4004,7 +4004,7 @@ Parece que precisamos de um poder divino mais forte!,
 "Bem, vou tentar imediatamente!",
 ,
 ,
-Toque aqui para <color=#C62416> acordado </color> Anjos,
+Toque aqui para <color=#E36853> acordado </color> Anjos,
 ,
 ,
 Deus do presente controla tudo no mundo!,
@@ -4019,13 +4019,13 @@ Eu,
 ,
 HERO_AWAKE_NOT_ENOUGH,
 ,
-Selecione a estrela <color=#C62416> aventura </color> mais alta para obter a melhor recompensa.,
-Selecione Anjos inativos para <color=#C62416> aventura </color>.,
-"<color=#C62416> Aventura </color> iniciado, toque para ver detalhes.",
+Selecione a estrela <color=#E36853> aventura </color> mais alta para obter a melhor recompensa.,
+Selecione Anjos inativos para <color=#E36853> aventura </color>.,
+"<color=#E36853> Aventura </color> iniciado, toque para ver detalhes.",
 ,
 ,
-"<color=#C62416> Aventura </color> terminado, toque aqui para receber a recompensa e <color=#C62416> promover </color> seus anjos.",
-Toque aqui para escolher seu anjo <color=#C62416> promover </color>,
+"<color=#E36853> Aventura </color> terminado, toque aqui para receber a recompensa e <color=#E36853> promover </color> seus anjos.",
+Toque aqui para escolher seu anjo <color=#E36853> promover </color>,
 ,
 ,
 Aventura,
@@ -4041,7 +4041,7 @@ TUDO,
 ,
 ,
 ,
-Toque aqui para <color=#C62416> Convocar </color>,
+Toque aqui para <color=#E36853> Convocar </color>,
 ,
 ,
 ,
@@ -4074,8 +4074,8 @@ HERO_GROUP_FULL_LEVEL,
 HERO_GROUP_UPGRADE,
 HERO_GROUP_NEXT_LEVEL_INFO,
 HERO_GROUP_UPGRADE_CONDTION_HAD,
-HERO_GROUP_UPGRADE_CONDTION_AWAKE,(Todos os anjos acordam com <color=#E5E485> {0} </color> estrelas)
-HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(Todos os anjos promovem para <color=#E5E485> + {0} </color>)
+HERO_GROUP_UPGRADE_CONDTION_AWAKE,(Todos os anjos acordam com <color=#F2F2BD> {0} </color> estrelas)
+HERO_GROUP_UPGRADE_CONDTION_UPGRADE,(Todos os anjos promovem para <color=#F2F2BD> + {0} </color>)
 HERO_GROUP_UPGRADE_CONDTION_FIGHT_VALUE,
 Destino,
 Atributo Destino,
@@ -4106,9 +4106,9 @@ Desconto de diamante,
 Compra limitada,
 Reivindicado hoje,
 Pacote especial I,
-<size=32> Obtenha <b><color=#FA931AFF>60</color> </b> diamantes </size> \ nObter <b><color=#FF0909FF>588</color> </b> diamantes pacote,
-<size=32> Obtenha <b><color=#FA931AFF>80</color> </b> diamantes </size> \ nObter <b><color=#FF0909FF>988</color> </b> diamantes pacote,
-<size=32> Obtenha <b><color=#FA931AFF>120</color> </b> diamantes </size> \ nObter <b><color=#FF0909FF>1588</color> </b> diamantes pacote,
+<size=32> Obtenha <b><color=#FCC65AFF>60</color> </b> diamantes </size> \ nObter <b><color=#FF3737FF>588</color> </b> diamantes pacote,
+<size=32> Obtenha <b><color=#FCC65AFF>80</color> </b> diamantes </size> \ nObter <b><color=#FF3737FF>988</color> </b> diamantes pacote,
+<size=32> Obtenha <b><color=#FCC65AFF>120</color> </b> diamantes </size> \ nObter <b><color=#FF3737FF>1588</color> </b> diamantes pacote,
 Obter 10 diamantes \ nO pacote 188 de diamantes,
 Crescimento do anjo,
 ,
@@ -4547,9 +4547,9 @@ NOTICE_10104001,
 NOTICE_10105001,
 NOTICE_10106001,
 NOTICE_10201001,
-NOTICE_10301001,"Foi o que ele disse, estava na hora de lutar! <color=#49ff31>{0}</color>  deu o golpe final no CHEFE Mundial e o derrotou!"
+NOTICE_10301001,"Foi o que ele disse, estava na hora de lutar! <color=#90FF78>{0}</color>  deu o golpe final no CHEFE Mundial e o derrotou!"
 NOTICE_10302001,
-NOTICE_10401001,O vencedor leva tudo! <color=#25c1e9>{0}</color>  golpeou  <color=#25c1e9>{1}</color> e ficou como NO.1 nos rankings.
+NOTICE_10401001,O vencedor leva tudo! <color=#6AE0F4>{0}</color>  golpeou  <color=#6AE0F4>{1}</color> e ficou como NO.1 nos rankings.
 NOTICE_10401002,
 NOTICE_10402001,
 NOTICE_10403001,
@@ -6810,7 +6810,7 @@ Congelado - Winterland,
 SELL OUT,ESGOTADO
 SELL_OUT,ESGOTADO
 Chefe da Guilda,
-CHARGE_VIP_LV_TIPS_TWO,Precisa de <color=#FFBA00>{num}</color> VIP EXP para atualizar para <color=#FFBA00>VIP {viplv} </color>
+CHARGE_VIP_LV_TIPS_TWO,Precisa de <color=#FFDC00>{num}</color> VIP EXP para atualizar para <color=#FFDC00>VIP {viplv} </color>
 Recompensas de ranking,
 Abrir saco de gemas,
 EVENT_SHOP_DAILY,
@@ -7053,14 +7053,14 @@ Suporte,
 ,
 Ranking de Dano de Chefe da Guilda,
 Desafio,
-<color=#4FFF4FFF>Restante hoje: </color>5 vezes,
+<color=#95FF95FF>Restante hoje: </color>5 vezes,
 ,
 ,
 Atualize qualquer anjo uma vez,
 HERO_SKIN_EXPIRE,A Moda deste anjo expirou
 ,
 CONTENT_CONTAIN_SHIELD_WORD,
-WORLD_BOSS_CHALLENGE_NUM,Restante hoje: <color=#4FFF4FFF>{0}</color> vezes
+WORLD_BOSS_CHALLENGE_NUM,Restante hoje: <color=#95FF95FF>{0}</color> vezes
 SERVER_CAN_NOT_LOGIN,
 Comunidade,
 WORLD_BOSS_SHOWTEXT_1,
@@ -8099,7 +8099,7 @@ Attribute:\n,Atributo:\n
 ,
 ,
 ,
-GUILD_APPLE_MEMBER_FIGHT,<color=#c0c0c0>Participantes:</color>{0}
+GUILD_APPLE_MEMBER_FIGHT,<color=#E0E0E0>Participantes:</color>{0}
 ,
 ,
 Exclusivo de Natal 4,
@@ -8237,7 +8237,7 @@ GUILD_APPLE_COIN,
 ,
 ,
 ,
-HOT_ACTIVITY_SCORE,<color=#A0A5ABFF>Pontos</color>{0}
+HOT_ACTIVITY_SCORE,<color=#CED1D4FF>Pontos</color>{0}
 Carregar Recompensas,
 ACTIVE_RECHRAGE_TASK_ALL,
 ACTIVE_RECHRAGE_BUTTON_TIPS_ALL,
@@ -9215,13 +9215,13 @@ COUNTRY_WAR_DESC_21,
 COUNTRY_WAR_DESC_22,
 COUNTRY_WAR_DESC_23,
 COUNTRY_WAR_DESC_24,
-COUNTRY_WAR_DESC_25,"[{0}] Na batalha com <color=#E93830>{1}</color>, minha parte derrotou com sucesso a rival e ocupou a cidade <color=#6A8AF5>{2}</color>."
-COUNTRY_WAR_DESC_26,"[{0}] Na batalha com <color=#E93830>{1}</color>, minha parte <color=red>falhou</color>."
+COUNTRY_WAR_DESC_25,"[{0}] Na batalha com <color=#F48077>{1}</color>, minha parte derrotou com sucesso a rival e ocupou a cidade <color=#ABC0FA>{2}</color>."
+COUNTRY_WAR_DESC_26,"[{0}] Na batalha com <color=#F48077>{1}</color>, minha parte <color=red>falhou</color>."
 COUNTRY_WAR_DESC_27,
 COUNTRY_WAR_USE_GOODS_POWER_TIPS,
-COUNTRY_WAR_MESSAGE_DECLARED,{0}-<color=#6A8AF5>{1}</color> declarou guerra para <color=#2CB51E>{2}</color>
-COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#6A8AF5>{0}</color> foi declarada guerra por <color=#E93830>{1}</color>
-COUNTRY_WAR_MESSAGE_USE_GOODS,{0}-<color=#6A8AF5>{1}</color> usou <color=#FFC64D>{3}</color> contra <color=#2CB51E>{2}</color>
+COUNTRY_WAR_MESSAGE_DECLARED,{0}-<color=#ABC0FA>{1}</color> declarou guerra para <color=#72DA60>{2}</color>
+COUNTRY_WAR_MESSAGE_BE_DECLARED,<color=#ABC0FA>{0}</color> foi declarada guerra por <color=#F48077>{1}</color>
+COUNTRY_WAR_MESSAGE_USE_GOODS,{0}-<color=#ABC0FA>{1}</color> usou <color=#FFE393>{3}</color> contra <color=#72DA60>{2}</color>
 COUNTRY_WAR_CLOSE,O sistema fechando
 COUNTRY_WAR_HAS_NOT_SIGIUP,
 COUNTRY_WAR_NOT_OPEN,
@@ -9253,7 +9253,7 @@ COUNTRY_WAR_SIGN_UP_PVE_NOTIFY_MESSAGE,
 COUNTRY_WAR_SIGN_UP_PVP_NOTIFY_MESSAGE,
 COUNTRY_WAR_XUAN_ZHAN_NOTIFY_MESSAGE,
 COUNTRY_WAR_USE_GOODS_NOTIFY_MESSAGE,
-COUNTRY_WAR_BATTLE_RESULT_NOTIFY_MESSAGE,"[{0}] Durante a batalha com {1}, minha parte {2}, <a href=4><color=#FA931AFF>[clique para ir]>>></color></a>"
+COUNTRY_WAR_BATTLE_RESULT_NOTIFY_MESSAGE,"[{0}] Durante a batalha com {1}, minha parte {2}, <a href=4><color=#FCC65AFF>[clique para ir]>>></color></a>"
 SEASON_NO,Temporada {0}
 PVP_ENTRANCE_COUNTRY_WAR,
 COUNTRY_WAR_USE_GOODS_TIPS,
@@ -9425,7 +9425,7 @@ Atualmente ocupa {0},
 ,
 ,
 ,
-<color=#A0A5ABFF>Pontos</color>1000/1000,
+<color=#CED1D4FF>Pontos</color>1000/1000,
 Construa e sintetize artefatos e pode obter pontos,
 Obter recompensas extras agora,
 Cada consumo de 2000 diamantes,
@@ -9538,7 +9538,7 @@ Despacho de ataque,
 ,
 ,
 ,
-<color=#FFC64D>Guarda do Apocalipse</color>,
+<color=#FFE393>Guarda do Apocalipse</color>,
 ,
 Guarda do Apocalipse,
 ,
@@ -9561,7 +9561,7 @@ Clique no avatar da deusa para definir a deusa para combate,
 ,
 ,
 ,
-<color=#6DCFF6FF><color=#FFC64D>Guarda do Apocalipse</color></color>,
+<color=#ADE7FAFF><color=#FFE393>Guarda do Apocalipse</color></color>,
 ,
 ,
 ,
@@ -9746,8 +9746,8 @@ Conquistou,
 ,
 ,
 ,
-week_title,<color=#E63512><size=34>3000%</size></color><color=#4B2217> <size=34>Retorno de lucro</size></color>
-week_jindu,<color=#FFFFFF><size=18>Compra limitada</size></color><color=#26F949><size=18>{0}</size></color>
+week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Retorno de lucro</size></color>
+week_jindu,<color=#FFFFFF><size=18>Compra limitada</size></color><color=#6BFC90><size=18>{0}</size></color>
 week_content,
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 ,
@@ -12027,8 +12027,8 @@ Restante :,
 ,
 OUTLAND_VISIT_NOT_FRIEND,
 OUTLAND_NOT_OPEN,
-{0}<color=#00ff00>curtiu-lhe</color> uma vez,
-{0}<color=#00ff00>ajudou-lhe</color> uma vez,
+{0}<color=#00FF00>curtiu-lhe</color> uma vez,
+{0}<color=#00FF00>ajudou-lhe</color> uma vez,
 ,
 ,
 ,
@@ -12174,8 +12174,8 @@ Pular,
 ,
 A garota humana do boato? Eu deveria gostar muito de ter uma luta com ela...,
 ,
-{0}<color=#00ff00>dou uma curtida</color>{1},
-{0}<color=#00ff00>assistiu</color>{1}uma vez,
+{0}<color=#00FF00>dou uma curtida</color>{1},
+{0}<color=#00FF00>assistiu</color>{1}uma vez,
 NWHC_TOTAL_SCORE,
 NWHC_ONCE_SCORE_MAX,
 NWHC_ONCE_SCORE_NOW,
@@ -12576,7 +12576,7 @@ Gosto de branco.,
 ,
 "Talvez, de fato, haja pouco sentido; afinal, somos todos reais, por que nos separarmos?",
 ,
-PAY_SELECT_VIRTUAL_COIN,<color=#6aff5a>{0}</color>(restante {1})
+PAY_SELECT_VIRTUAL_COIN,<color=#ABFF9E>{0}</color>(restante {1})
 Foi comprado o pacote de presente!,
 Quer comprar um pacote de presente?,
 ,
@@ -13307,7 +13307,7 @@ Vento Forte do Campo de Batalha,
 ,
 Caminhante de Chama Ardente,
 GO_TO_BUY_ANGLE_COIN,Ir para comprar AC
-PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(restante<color=#FF0909FF> {1}</color>)
+PAY_SELECT_VIRTUAL_COIN_NOT_ENOUGH,{0}(restante<color=#FF3737FF> {1}</color>)
 TTPW_CURRENT_ATTACK_TEAM,
 TTPW_CHOOSE_TEAM_NAME,
 ,
