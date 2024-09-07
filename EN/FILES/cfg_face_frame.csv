@@ -139,6 +139,7 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 5041,5,6,2024 Easter Limited Avatar Frame,0,0,5041.png,2024 Easter Limited Avatar Frame
 5042,5,6,Bonfire Gathering,0,0,5042.png,Bonfire Gathering Limited Avatar Frame
 5043,5,6,2024 4th Anniversary Avatar Frame,0,0,5043.png,2024 4th Anniversary Souvenir Avatar Frame
+5044,5,6,2024中秋节头像框,0,0,5044.png,2024中秋节限定头像框
 6001,6,6,Sacred Palace,0,0,6001.png,Sacred Palace limited avatar frame
 6002,6,6,Swimsuit Party,0,0,6002.png,Swimsuit Party limited avatar frame
 6003,6,6,Divine Awakening,0,0,6003.png,Divine Awaken limited avatar frame
@@ -166,8 +167,8 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 8111,8,6,Summit Clash Champion Avatar Frame,1,5184000,8111.png,COL Champion Exclusive Avatar Frame (Expires in 60 days)
 8112,8,6,Summit Clash Runner-up Avatar Frame,1,5184000,8112.png,COL Runner-up Exclusive Avatar Frame (Expires in 60 days)
 8113,8,6,Summit Clash Top 4 Avatar Frame,1,5184000,8113.png,COL Top 4 Exclusive Avatar Frame (Expires in 60 days)
-8114,8,6,Summit Clash Top 8 Avatar Frame,0,5184000,8114.png,COL Top 8 Exclusive Avatar Frame (Expires in 60 days)
-8115,8,6,Summit Clash Top 16 Avatar Frame,0,5184000,8115.png,COL Top 16 Exclusive Avatar Frame (Expires in 60 days)
+8114,8,6,Summit Clash Top 8 Avatar Frame,0,5184000,8114.png,
+8115,8,6,Summit Clash Top 16 Avatar Frame,0,5184000,8115.png,COL Top 8 Exclusive Avatar Frame (Expires in 60 days)
 9001,9,6,Angel Rank 1 Avatar Frame,0,0,9001.png,Angel Rank 1 Avatar Frame
 9002,9,6,Angel Rank 2 Avatar Frame,0,0,9002.png,Angel Rank 2 Avatar Frame
 9003,9,6,Angel Rank 3 Avatar Frame,0,0,9003.png,Angel Rank 3 Avatar Frame
@@ -176,3 +177,7 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 9006,9,6,Rank 6 Angel Avatar Frame,0,0,9006.png,Rank 6 Angel Avatar Frame
 100001,9,6,限时头像框测试,0,60,9003.png,限时头像框测试
 100002,10,6,PVP Master Limited-time Avatar Frame,1,2592000,100002.png,PVP Master Limited-time Avatar Frame
+110001,11,6,传奇竞技场冠军头像框,0,5184000,110001.png,传奇竞技场冠军头像框
+110002,11,6,传奇竞技场亚军头像框,0,5184000,110002.png,传奇竞技场亚军头像框
+110003,11,6,传奇竞技场4强头像框,0,5184000,110003.png,传奇竞技场4强头像框
+110004,11,6,传奇竞技场8强头像框,0,5184000,110004.png,传奇竞技场8强头像框

@@ -83,3 +83,7 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
 82,Serbia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200181,0,0
 83,Bulgaria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200182,0,0
 84,Austria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200183,0,0
+85,挪威,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200184,1,0
+86,瑞典,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200185,0,0
+87,芬兰,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200186,0,0
+88,爱沙尼亚,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200187,0,0
