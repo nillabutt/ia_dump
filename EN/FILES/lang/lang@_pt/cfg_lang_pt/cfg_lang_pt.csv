@@ -392,6 +392,7 @@ HONOR_AREANA_GUESS_MAIL_TITLE,
 HONOR_AREANA_GUESS_MAIL_CONTENT,
 HONOR_ARENA_IN_PROGRESS,
 HONOR_ARENA_FINISH,
+HONOR_ARENA_ACHIEVEMENT_128,Top 128
 HONOR_ARENA_ACHIEVEMENT_64,Top 64
 HONOR_ARENA_ACHIEVEMENT_32,Top 32
 HONOR_ARENA_ACHIEVEMENT_16,Top 16
@@ -6120,7 +6121,6 @@ Rei do fantasma,
 Mestre da agonia,
 Senhor do Mundo Inferior,
 Coelho,
-Presunto,
 ,
 ,
 ,
@@ -12782,7 +12782,6 @@ Armadura Brilhante,
 ,
 ,
 ,
-,
 ARMOR_ILLUSION_GROUP,
 ARMOR_ILLUSION_NOT_SELECT,Nenhum equipamento selecionado
 ARMOR_ILLUSION_STONE_NOT_ENOUGH,
@@ -12802,6 +12801,7 @@ ACTIVITY_HOLIDAY_COPY_COIN,Pena de Anjo
 Luta pela Hegemonia das Deusas,
 Batalha sangrenta de todo o servidor  Estar a ponto de estalar,
 Luta pela Hegemonia das Deusas,
+,
 Jogo de Luta pela Hegemonia das Deusas,
 ,
 Principais Atributos do Equipamento,

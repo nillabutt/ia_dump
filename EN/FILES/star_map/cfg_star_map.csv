@@ -119,123 +119,123 @@ id,map_type,pre_map_type,index,pre_index,star_type,is_permill,add_attr,is_pvp,co
 118,5,4,22,12,2,0,2:18:50,0,30,30,Source of Chaos,img_XT_xingtu5
 119,5,4,23,15,2,0,2:30:50,1,30,30,Source of Chaos,img_XT_xingtu5
 120,5,4,24,18,2,0,2:31:50,1,30,30,Source of Chaos,img_XT_xingtu5
-121,6,5,1,0,1,0,2:17:3500,0,70,0,不灭之源,img_XT_xingtu6
-122,6,5,2,1,1,0,2:17:4000,0,80,0,不灭之源,img_XT_xingtu6
-123,6,5,3,2,1,0,2:17:4500,0,90,0,不灭之源,img_XT_xingtu6
-124,6,5,4,0,1,0,2:5:3500,0,70,0,不灭之源,img_XT_xingtu6
-125,6,5,5,4,1,0,2:5:4000,0,80,0,不灭之源,img_XT_xingtu6
-126,6,5,6,5,1,0,2:5:4500,0,90,0,不灭之源,img_XT_xingtu6
-127,6,5,7,0,1,0,2:6:3500,0,70,0,不灭之源,img_XT_xingtu6
-128,6,5,8,7,1,0,2:6:4000,0,80,0,不灭之源,img_XT_xingtu6
-129,6,5,9,8,1,0,2:6:4500,0,90,0,不灭之源,img_XT_xingtu6
-130,6,5,10,0,1,0,2:7:3500,0,70,0,不灭之源,img_XT_xingtu6
-131,6,5,11,10,1,0,2:7:4000,0,80,0,不灭之源,img_XT_xingtu6
-132,6,5,12,11,1,0,2:7:4500,0,90,0,不灭之源,img_XT_xingtu6
-133,6,5,13,0,1,0,2:1:70000,0,70,0,不灭之源,img_XT_xingtu6
-134,6,5,14,13,1,0,2:1:80000,0,80,0,不灭之源,img_XT_xingtu6
-135,6,5,15,14,1,0,2:1:90000,0,90,0,不灭之源,img_XT_xingtu6
-136,6,5,16,0,1,0,2:3:3000,0,70,0,不灭之源,img_XT_xingtu6
-137,6,5,17,16,1,0,2:3:3500,0,80,0,不灭之源,img_XT_xingtu6
-138,6,5,18,17,1,0,2:3:4000,0,90,0,不灭之源,img_XT_xingtu6
-139,6,5,19,3,2,0,3:1:100,0,40,40,不灭之源,img_XT_xingtu6
-140,6,5,20,6,2,0,3:2:100,0,40,40,不灭之源,img_XT_xingtu6
-141,6,5,21,9,2,0,2:47:30,0,40,45,不灭之源,img_XT_xingtu6
-142,6,5,22,12,2,0,2:43:100,0,40,30,不灭之源,img_XT_xingtu6
-143,6,5,23,15,2,0,2:38:150,1,40,50,不灭之源,img_XT_xingtu6
-144,6,5,24,18,2,0,2:39:150,1,40,50,不灭之源,img_XT_xingtu6
-145,7,6,1,0,1,0,2:17:3500,0,70,0,均衡之源,img_XT_xingtu7
-146,7,6,2,1,1,0,2:17:4000,0,80,0,均衡之源,img_XT_xingtu7
-147,7,6,3,2,1,0,2:17:4500,0,90,0,均衡之源,img_XT_xingtu7
-148,7,6,4,1,1,0,2:5:3500,0,70,0,均衡之源,img_XT_xingtu7
-149,7,6,5,4,1,0,2:5:4000,0,80,0,均衡之源,img_XT_xingtu7
-150,7,6,6,5,1,0,2:5:4500,0,90,0,均衡之源,img_XT_xingtu7
-151,7,6,7,1,1,0,2:6:3500,0,70,0,均衡之源,img_XT_xingtu7
-152,7,6,8,7,1,0,2:6:4000,0,80,0,均衡之源,img_XT_xingtu7
-153,7,6,9,8,1,0,2:6:4500,0,90,0,均衡之源,img_XT_xingtu7
-154,7,6,10,0,1,0,2:7:3500,0,70,0,均衡之源,img_XT_xingtu7
-155,7,6,11,10,1,0,2:7:4000,0,80,0,均衡之源,img_XT_xingtu7
-156,7,6,12,11,1,0,2:7:4500,0,90,0,均衡之源,img_XT_xingtu7
-157,7,6,13,10,1,0,2:1:70000,0,70,0,均衡之源,img_XT_xingtu7
-158,7,6,14,13,1,0,2:1:80000,0,80,0,均衡之源,img_XT_xingtu7
-159,7,6,15,14,1,0,2:1:90000,0,90,0,均衡之源,img_XT_xingtu7
-160,7,6,16,10,1,0,2:3:3000,0,70,0,均衡之源,img_XT_xingtu7
-161,7,6,17,16,1,0,2:3:3500,0,80,0,均衡之源,img_XT_xingtu7
-162,7,6,18,17,1,0,2:3:4000,0,90,0,均衡之源,img_XT_xingtu7
-163,7,6,19,6,2,0,3:1:100,0,40,40,均衡之源,img_XT_xingtu7
-164,7,6,20,3,2,0,3:2:100,0,40,40,均衡之源,img_XT_xingtu7
-165,7,6,21,9,2,0,3:13:100,0,40,40,均衡之源,img_XT_xingtu7
-166,7,6,22,15,2,0,3:14:100,0,40,40,均衡之源,img_XT_xingtu7
-167,7,6,23,12,2,0,2:36:150,1,40,50,均衡之源,img_XT_xingtu7
-168,7,6,24,18,2,0,2:37:150,1,40,50,均衡之源,img_XT_xingtu7
-169,8,7,1,0,1,0,2:17:3500,0,70,0,神谕之源,img_XT_xingtu8
-170,8,7,2,1,1,0,2:17:4000,0,80,0,神谕之源,img_XT_xingtu8
-171,8,7,3,2,1,0,2:17:4500,0,90,0,神谕之源,img_XT_xingtu8
-172,8,7,4,0,1,0,2:5:3500,0,70,0,神谕之源,img_XT_xingtu8
-173,8,7,5,4,1,0,2:5:4000,0,80,0,神谕之源,img_XT_xingtu8
-174,8,7,6,5,1,0,2:5:4500,0,90,0,神谕之源,img_XT_xingtu8
-175,8,7,7,0,1,0,2:6:3500,0,70,0,神谕之源,img_XT_xingtu8
-176,8,7,8,7,1,0,2:6:4000,0,80,0,神谕之源,img_XT_xingtu8
-177,8,7,9,8,1,0,2:6:4500,0,90,0,神谕之源,img_XT_xingtu8
-178,8,7,10,0,1,0,2:7:3500,0,70,0,神谕之源,img_XT_xingtu8
-179,8,7,11,10,1,0,2:7:4000,0,80,0,神谕之源,img_XT_xingtu8
-180,8,7,12,11,1,0,2:7:4500,0,90,0,神谕之源,img_XT_xingtu8
-181,8,7,13,0,1,0,2:1:70000,0,70,0,神谕之源,img_XT_xingtu8
-182,8,7,14,13,1,0,2:1:80000,0,80,0,神谕之源,img_XT_xingtu8
-183,8,7,15,14,1,0,2:1:90000,0,90,0,神谕之源,img_XT_xingtu8
-184,8,7,16,0,1,0,2:3:3000,0,70,0,神谕之源,img_XT_xingtu8
-185,8,7,17,16,1,0,2:3:3500,0,80,0,神谕之源,img_XT_xingtu8
-186,8,7,18,17,1,0,2:3:4000,0,90,0,神谕之源,img_XT_xingtu8
-187,8,7,19,3,2,0,3:1:100,0,40,55,神谕之源,img_XT_xingtu8
-188,8,7,20,6,2,0,3:2:100,0,40,55,神谕之源,img_XT_xingtu8
-189,8,7,21,9,2,0,3:7:100,0,40,40,神谕之源,img_XT_xingtu8
-190,8,7,22,12,2,0,3:5:100,0,40,40,神谕之源,img_XT_xingtu8
-191,8,7,23,15,2,0,3:8:150,1,40,55,神谕之源,img_XT_xingtu8
-192,8,7,24,18,2,0,3:23:150,1,40,55,神谕之源,img_XT_xingtu8
-193,9,8,1,0,1,0,2:17:3500,0,70,0,进化之源,img_XT_xingtu9
-194,9,8,2,1,1,0,2:17:4000,0,80,0,进化之源,img_XT_xingtu9
-195,9,8,3,2,1,0,2:17:4500,0,90,0,进化之源,img_XT_xingtu9
-196,9,8,4,2,1,0,2:5:3500,0,70,0,进化之源,img_XT_xingtu9
-197,9,8,5,4,1,0,2:5:4000,0,80,0,进化之源,img_XT_xingtu9
-198,9,8,6,5,1,0,2:5:4500,0,90,0,进化之源,img_XT_xingtu9
-199,9,8,7,2,1,0,2:6:3500,0,70,0,进化之源,img_XT_xingtu9
-200,9,8,8,7,1,0,2:6:4000,0,80,0,进化之源,img_XT_xingtu9
-201,9,8,9,8,1,0,2:6:4500,0,90,0,进化之源,img_XT_xingtu9
-202,9,8,10,0,1,0,2:7:3500,0,70,0,进化之源,img_XT_xingtu9
-203,9,8,11,10,1,0,2:7:4000,0,80,0,进化之源,img_XT_xingtu9
-204,9,8,12,11,1,0,2:7:4500,0,90,0,进化之源,img_XT_xingtu9
-205,9,8,13,11,1,0,2:1:70000,0,70,0,进化之源,img_XT_xingtu9
-206,9,8,14,13,1,0,2:1:80000,0,80,0,进化之源,img_XT_xingtu9
-207,9,8,15,14,1,0,2:1:90000,0,90,0,进化之源,img_XT_xingtu9
-208,9,8,16,11,1,0,2:3:3000,0,70,0,进化之源,img_XT_xingtu9
-209,9,8,17,16,1,0,2:3:3500,0,80,0,进化之源,img_XT_xingtu9
-210,9,8,18,17,1,0,2:3:4000,0,90,0,进化之源,img_XT_xingtu9
-211,9,8,19,6,2,0,3:1:100,0,40,55,进化之源,img_XT_xingtu9
-212,9,8,20,3,2,0,3:2:100,0,40,55,进化之源,img_XT_xingtu9
-213,9,8,21,9,2,0,2:52:100,0,40,55,进化之源,img_XT_xingtu9
-214,9,8,22,15,2,0,2:51:100,0,40,55,进化之源,img_XT_xingtu9
-215,9,8,23,12,2,0,2:40:150,1,40,55,进化之源,img_XT_xingtu9
-216,9,8,24,18,2,0,2:41:150,1,40,55,进化之源,img_XT_xingtu9
-217,10,9,1,0,1,0,2:17:3500,0,70,0,轮回之源,img_XT_xingtu10
-218,10,9,2,1,1,0,2:17:4000,0,80,0,轮回之源,img_XT_xingtu10
-219,10,9,3,2,1,0,2:17:4500,0,90,0,轮回之源,img_XT_xingtu10
-220,10,9,4,1,1,0,2:5:3500,0,70,0,轮回之源,img_XT_xingtu10
-221,10,9,5,4,1,0,2:5:4000,0,80,0,轮回之源,img_XT_xingtu10
-222,10,9,6,5,1,0,2:5:4500,0,90,0,轮回之源,img_XT_xingtu10
-223,10,9,7,1,1,0,2:6:3500,0,70,0,轮回之源,img_XT_xingtu10
-224,10,9,8,7,1,0,2:6:4000,0,80,0,轮回之源,img_XT_xingtu10
-225,10,9,9,8,1,0,2:6:4500,0,90,0,轮回之源,img_XT_xingtu10
-226,10,9,10,0,1,0,2:7:3500,0,70,0,轮回之源,img_XT_xingtu10
-227,10,9,11,10,1,0,2:7:4000,0,80,0,轮回之源,img_XT_xingtu10
-228,10,9,12,11,1,0,2:7:4500,0,90,0,轮回之源,img_XT_xingtu10
-229,10,9,13,10,1,0,2:1:70000,0,70,0,轮回之源,img_XT_xingtu10
-230,10,9,14,13,1,0,2:1:80000,0,80,0,轮回之源,img_XT_xingtu10
-231,10,9,15,14,1,0,2:1:90000,0,90,0,轮回之源,img_XT_xingtu10
-232,10,9,16,10,1,0,2:3:3000,0,70,0,轮回之源,img_XT_xingtu10
-233,10,9,17,16,1,0,2:3:3500,0,80,0,轮回之源,img_XT_xingtu10
-234,10,9,18,17,1,0,2:3:4000,0,90,0,轮回之源,img_XT_xingtu10
-235,10,9,19,6,2,0,3:1:100,0,40,55,轮回之源,img_XT_xingtu10
-236,10,9,20,3,2,0,3:2:100,0,40,55,轮回之源,img_XT_xingtu10
-237,10,9,21,9,2,0,3:21:500,0,40,40,轮回之源,img_XT_xingtu10
-238,10,9,22,15,2,0,2:18:50,0,40,55,轮回之源,img_XT_xingtu10
-239,10,9,23,12,2,0,2:30:150,1,40,60,轮回之源,img_XT_xingtu10
-240,10,9,24,18,2,0,2:31:150,1,40,60,轮回之源,img_XT_xingtu10
+121,6,5,1,0,1,0,2:17:3500,0,70,0,Immortal Source,img_XT_xingtu6
+122,6,5,2,1,1,0,2:17:4000,0,80,0,Immortal Source,img_XT_xingtu6
+123,6,5,3,2,1,0,2:17:4500,0,90,0,Immortal Source,img_XT_xingtu6
+124,6,5,4,0,1,0,2:5:3500,0,70,0,Immortal Source,img_XT_xingtu6
+125,6,5,5,4,1,0,2:5:4000,0,80,0,Immortal Source,img_XT_xingtu6
+126,6,5,6,5,1,0,2:5:4500,0,90,0,Immortal Source,img_XT_xingtu6
+127,6,5,7,0,1,0,2:6:3500,0,70,0,Immortal Source,img_XT_xingtu6
+128,6,5,8,7,1,0,2:6:4000,0,80,0,Immortal Source,img_XT_xingtu6
+129,6,5,9,8,1,0,2:6:4500,0,90,0,Immortal Source,img_XT_xingtu6
+130,6,5,10,0,1,0,2:7:3500,0,70,0,Immortal Source,img_XT_xingtu6
+131,6,5,11,10,1,0,2:7:4000,0,80,0,Immortal Source,img_XT_xingtu6
+132,6,5,12,11,1,0,2:7:4500,0,90,0,Immortal Source,img_XT_xingtu6
+133,6,5,13,0,1,0,2:1:70000,0,70,0,Immortal Source,img_XT_xingtu6
+134,6,5,14,13,1,0,2:1:80000,0,80,0,Immortal Source,img_XT_xingtu6
+135,6,5,15,14,1,0,2:1:90000,0,90,0,Immortal Source,img_XT_xingtu6
+136,6,5,16,0,1,0,2:3:3000,0,70,0,Immortal Source,img_XT_xingtu6
+137,6,5,17,16,1,0,2:3:3500,0,80,0,Immortal Source,img_XT_xingtu6
+138,6,5,18,17,1,0,2:3:4000,0,90,0,Immortal Source,img_XT_xingtu6
+139,6,5,19,3,2,0,3:1:100,0,40,40,Immortal Source,img_XT_xingtu6
+140,6,5,20,6,2,0,3:2:100,0,40,40,Immortal Source,img_XT_xingtu6
+141,6,5,21,9,2,0,2:47:30,0,40,45,Immortal Source,img_XT_xingtu6
+142,6,5,22,12,2,0,2:43:100,0,40,30,Immortal Source,img_XT_xingtu6
+143,6,5,23,15,2,0,2:38:150,1,40,50,Immortal Source,img_XT_xingtu6
+144,6,5,24,18,2,0,2:39:150,1,40,50,Immortal Source,img_XT_xingtu6
+145,7,6,1,0,1,0,2:17:3500,0,70,0,Balance Source,img_XT_xingtu7
+146,7,6,2,1,1,0,2:17:4000,0,80,0,Balance Source,img_XT_xingtu7
+147,7,6,3,2,1,0,2:17:4500,0,90,0,Balance Source,img_XT_xingtu7
+148,7,6,4,1,1,0,2:5:3500,0,70,0,Balance Source,img_XT_xingtu7
+149,7,6,5,4,1,0,2:5:4000,0,80,0,Balance Source,img_XT_xingtu7
+150,7,6,6,5,1,0,2:5:4500,0,90,0,Balance Source,img_XT_xingtu7
+151,7,6,7,1,1,0,2:6:3500,0,70,0,Balance Source,img_XT_xingtu7
+152,7,6,8,7,1,0,2:6:4000,0,80,0,Balance Source,img_XT_xingtu7
+153,7,6,9,8,1,0,2:6:4500,0,90,0,Balance Source,img_XT_xingtu7
+154,7,6,10,0,1,0,2:7:3500,0,70,0,Balance Source,img_XT_xingtu7
+155,7,6,11,10,1,0,2:7:4000,0,80,0,Balance Source,img_XT_xingtu7
+156,7,6,12,11,1,0,2:7:4500,0,90,0,Balance Source,img_XT_xingtu7
+157,7,6,13,10,1,0,2:1:70000,0,70,0,Balance Source,img_XT_xingtu7
+158,7,6,14,13,1,0,2:1:80000,0,80,0,Balance Source,img_XT_xingtu7
+159,7,6,15,14,1,0,2:1:90000,0,90,0,Balance Source,img_XT_xingtu7
+160,7,6,16,10,1,0,2:3:3000,0,70,0,Balance Source,img_XT_xingtu7
+161,7,6,17,16,1,0,2:3:3500,0,80,0,Balance Source,img_XT_xingtu7
+162,7,6,18,17,1,0,2:3:4000,0,90,0,Balance Source,img_XT_xingtu7
+163,7,6,19,6,2,0,3:1:100,0,40,40,Balance Source,img_XT_xingtu7
+164,7,6,20,3,2,0,3:2:100,0,40,40,Balance Source,img_XT_xingtu7
+165,7,6,21,9,2,0,3:13:100,0,40,40,Balance Source,img_XT_xingtu7
+166,7,6,22,15,2,0,3:14:100,0,40,40,Balance Source,img_XT_xingtu7
+167,7,6,23,12,2,0,2:36:150,1,40,50,Balance Source,img_XT_xingtu7
+168,7,6,24,18,2,0,2:37:150,1,40,50,Balance Source,img_XT_xingtu7
+169,8,7,1,0,1,0,2:17:3500,0,70,0,Oracle Source,img_XT_xingtu8
+170,8,7,2,1,1,0,2:17:4000,0,80,0,Oracle Source,img_XT_xingtu8
+171,8,7,3,2,1,0,2:17:4500,0,90,0,Oracle Source,img_XT_xingtu8
+172,8,7,4,0,1,0,2:5:3500,0,70,0,Oracle Source,img_XT_xingtu8
+173,8,7,5,4,1,0,2:5:4000,0,80,0,Oracle Source,img_XT_xingtu8
+174,8,7,6,5,1,0,2:5:4500,0,90,0,Oracle Source,img_XT_xingtu8
+175,8,7,7,0,1,0,2:6:3500,0,70,0,Oracle Source,img_XT_xingtu8
+176,8,7,8,7,1,0,2:6:4000,0,80,0,Oracle Source,img_XT_xingtu8
+177,8,7,9,8,1,0,2:6:4500,0,90,0,Oracle Source,img_XT_xingtu8
+178,8,7,10,0,1,0,2:7:3500,0,70,0,Oracle Source,img_XT_xingtu8
+179,8,7,11,10,1,0,2:7:4000,0,80,0,Oracle Source,img_XT_xingtu8
+180,8,7,12,11,1,0,2:7:4500,0,90,0,Oracle Source,img_XT_xingtu8
+181,8,7,13,0,1,0,2:1:70000,0,70,0,Oracle Source,img_XT_xingtu8
+182,8,7,14,13,1,0,2:1:80000,0,80,0,Oracle Source,img_XT_xingtu8
+183,8,7,15,14,1,0,2:1:90000,0,90,0,Oracle Source,img_XT_xingtu8
+184,8,7,16,0,1,0,2:3:3000,0,70,0,Oracle Source,img_XT_xingtu8
+185,8,7,17,16,1,0,2:3:3500,0,80,0,Oracle Source,img_XT_xingtu8
+186,8,7,18,17,1,0,2:3:4000,0,90,0,Oracle Source,img_XT_xingtu8
+187,8,7,19,3,2,0,3:1:100,0,40,55,Oracle Source,img_XT_xingtu8
+188,8,7,20,6,2,0,3:2:100,0,40,55,Oracle Source,img_XT_xingtu8
+189,8,7,21,9,2,0,3:7:100,0,40,40,Oracle Source,img_XT_xingtu8
+190,8,7,22,12,2,0,3:5:100,0,40,40,Oracle Source,img_XT_xingtu8
+191,8,7,23,15,2,0,3:8:150,1,40,55,Oracle Source,img_XT_xingtu8
+192,8,7,24,18,2,0,3:23:150,1,40,55,Oracle Source,img_XT_xingtu8
+193,9,8,1,0,1,0,2:17:3500,0,70,0,Evolution Source,img_XT_xingtu9
+194,9,8,2,1,1,0,2:17:4000,0,80,0,Evolution Source,img_XT_xingtu9
+195,9,8,3,2,1,0,2:17:4500,0,90,0,Evolution Source,img_XT_xingtu9
+196,9,8,4,2,1,0,2:5:3500,0,70,0,Evolution Source,img_XT_xingtu9
+197,9,8,5,4,1,0,2:5:4000,0,80,0,Evolution Source,img_XT_xingtu9
+198,9,8,6,5,1,0,2:5:4500,0,90,0,Evolution Source,img_XT_xingtu9
+199,9,8,7,2,1,0,2:6:3500,0,70,0,Evolution Source,img_XT_xingtu9
+200,9,8,8,7,1,0,2:6:4000,0,80,0,Evolution Source,img_XT_xingtu9
+201,9,8,9,8,1,0,2:6:4500,0,90,0,Evolution Source,img_XT_xingtu9
+202,9,8,10,0,1,0,2:7:3500,0,70,0,Evolution Source,img_XT_xingtu9
+203,9,8,11,10,1,0,2:7:4000,0,80,0,Evolution Source,img_XT_xingtu9
+204,9,8,12,11,1,0,2:7:4500,0,90,0,Evolution Source,img_XT_xingtu9
+205,9,8,13,11,1,0,2:1:70000,0,70,0,Evolution Source,img_XT_xingtu9
+206,9,8,14,13,1,0,2:1:80000,0,80,0,Evolution Source,img_XT_xingtu9
+207,9,8,15,14,1,0,2:1:90000,0,90,0,Evolution Source,img_XT_xingtu9
+208,9,8,16,11,1,0,2:3:3000,0,70,0,Evolution Source,img_XT_xingtu9
+209,9,8,17,16,1,0,2:3:3500,0,80,0,Evolution Source,img_XT_xingtu9
+210,9,8,18,17,1,0,2:3:4000,0,90,0,Evolution Source,img_XT_xingtu9
+211,9,8,19,6,2,0,3:1:100,0,40,55,Evolution Source,img_XT_xingtu9
+212,9,8,20,3,2,0,3:2:100,0,40,55,Evolution Source,img_XT_xingtu9
+213,9,8,21,9,2,0,2:52:100,0,40,55,Evolution Source,img_XT_xingtu9
+214,9,8,22,15,2,0,2:51:100,0,40,55,Evolution Source,img_XT_xingtu9
+215,9,8,23,12,2,0,2:40:150,1,40,55,Evolution Source,img_XT_xingtu9
+216,9,8,24,18,2,0,2:41:150,1,40,55,Evolution Source,img_XT_xingtu9
+217,10,9,1,0,1,0,2:17:3500,0,70,0,Reincarnation Source,img_XT_xingtu10
+218,10,9,2,1,1,0,2:17:4000,0,80,0,Reincarnation Source,img_XT_xingtu10
+219,10,9,3,2,1,0,2:17:4500,0,90,0,Reincarnation Source,img_XT_xingtu10
+220,10,9,4,1,1,0,2:5:3500,0,70,0,Reincarnation Source,img_XT_xingtu10
+221,10,9,5,4,1,0,2:5:4000,0,80,0,Reincarnation Source,img_XT_xingtu10
+222,10,9,6,5,1,0,2:5:4500,0,90,0,Reincarnation Source,img_XT_xingtu10
+223,10,9,7,1,1,0,2:6:3500,0,70,0,Reincarnation Source,img_XT_xingtu10
+224,10,9,8,7,1,0,2:6:4000,0,80,0,Reincarnation Source,img_XT_xingtu10
+225,10,9,9,8,1,0,2:6:4500,0,90,0,Reincarnation Source,img_XT_xingtu10
+226,10,9,10,0,1,0,2:7:3500,0,70,0,Reincarnation Source,img_XT_xingtu10
+227,10,9,11,10,1,0,2:7:4000,0,80,0,Reincarnation Source,img_XT_xingtu10
+228,10,9,12,11,1,0,2:7:4500,0,90,0,Reincarnation Source,img_XT_xingtu10
+229,10,9,13,10,1,0,2:1:70000,0,70,0,Reincarnation Source,img_XT_xingtu10
+230,10,9,14,13,1,0,2:1:80000,0,80,0,Reincarnation Source,img_XT_xingtu10
+231,10,9,15,14,1,0,2:1:90000,0,90,0,Reincarnation Source,img_XT_xingtu10
+232,10,9,16,10,1,0,2:3:3000,0,70,0,Reincarnation Source,img_XT_xingtu10
+233,10,9,17,16,1,0,2:3:3500,0,80,0,Reincarnation Source,img_XT_xingtu10
+234,10,9,18,17,1,0,2:3:4000,0,90,0,Reincarnation Source,img_XT_xingtu10
+235,10,9,19,6,2,0,3:1:100,0,40,55,Reincarnation Source,img_XT_xingtu10
+236,10,9,20,3,2,0,3:2:100,0,40,55,Reincarnation Source,img_XT_xingtu10
+237,10,9,21,9,2,0,3:21:500,0,40,40,Reincarnation Source,img_XT_xingtu10
+238,10,9,22,15,2,0,2:18:50,0,40,55,Reincarnation Source,img_XT_xingtu10
+239,10,9,23,12,2,0,2:30:150,1,40,60,Reincarnation Source,img_XT_xingtu10
+240,10,9,24,18,2,0,2:31:150,1,40,60,Reincarnation Source,img_XT_xingtu10

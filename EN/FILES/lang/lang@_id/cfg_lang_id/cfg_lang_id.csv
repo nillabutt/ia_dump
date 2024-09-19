@@ -385,6 +385,7 @@ HONOR_AREANA_GUESS_MAIL_TITLE,Hadiah Kuis Glory Arena
 HONOR_AREANA_GUESS_MAIL_CONTENT,"Kamu berhasil menebak hasil Turnamen Glory Arena, hadiah telah dikirimkan."
 HONOR_ARENA_IN_PROGRESS,"Sedang dalam proses, silakan tunggu"
 HONOR_ARENA_FINISH,Turnamen sudah berakhir
+HONOR_ARENA_ACHIEVEMENT_128,Top 128
 HONOR_ARENA_ACHIEVEMENT_64,Top 64
 HONOR_ARENA_ACHIEVEMENT_32,Top 32
 HONOR_ARENA_ACHIEVEMENT_16,Top 16
@@ -6026,7 +6027,6 @@ God of Plague,
 Agony Dominator,
 Netherworld Master,
 Rabbit,
-Ham,
 "Drop item quick combat, challange atau sweep boss pada periode event Easter Festival bisa ditukarkan dengan item pada antarmuka event.",
 Hadiah Easter 1,
 Hadiah Easter 2,
@@ -12678,7 +12678,6 @@ T3 Magic Stone Treasure Chest,
 Setelah membukanya akan mendapatkan 1 buah random T1 Magic Stone,
 Setelah membukanya akan mendapatkan 1 buah random T2 Magic Stone,
 Setelah membukanya akan mendapatkan 1 buah random T3 Magic Stone,
-Nomor 1,
 ARMOR_ILLUSION_GROUP,{0}set
 ARMOR_ILLUSION_NOT_SELECT,Belum memilih Gear
 ARMOR_ILLUSION_STONE_NOT_ENOUGH,Kekurangan bahan untuk melakukan Ascend
@@ -12698,6 +12697,7 @@ Hadiah Ranking Conqueror of Legends season ke-{0},
 Conqueror of Legends,
 "Seluruh server penuh dengan peperangan, segera berangkat ke medan perang",
 Conqueror of Legends,
+Nomor 1,
 Conqueror of Legends,
 Sementara waktu belum ada Ranking,
 Atribut utama Gear,

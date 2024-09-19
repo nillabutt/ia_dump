@@ -58,6 +58,6 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 157,img_loading_abl_UR_plus.png,Luminous Lyre-Apollo,-140,630,0.74,ABL_UR_PLUS,0,LOADING.jpg,2078,1,0
 158,img_loading_abl_MR.png,Sunny Afternoon - Apollo,-100,560,0.76,ABL_MR,0,LOADING.jpg,2078,0,1
 159,img_loading_wns_UR_plus.png,Moonlight Maiden - Venus,-140,530,0.84,WNS_UR_PLUS,0,LOADING.jpg,2074,1,0
-160,img_loading_wns_MR.png,花间游梦-维纳斯,-130,420,0.76,WNS_MR,0,LOADING.jpg,2074,0,1
+160,img_loading_wns_MR.png,Floral Dream - Venus,-130,420,0.74,WNS_MR,0,LOADING.jpg,2074,0,1
 161,img_loading_ll_UR_plus.png,Graceful Wind - Storm Dragon,0,280,0.74,LL_UR_PLUS,0,LOADING.jpg,2057,1,0
-162,img_loading_ll_MR.png,幽谷暗香-风暴之龙,-110,660,0.74,LL_MR,0,LOADING.jpg,2057,0,1
+162,img_loading_ll_MR.png,Hidden Fragrance - Storm Dragon,-110,660,0.74,LL_MR,0,LOADING.jpg,2057,0,1

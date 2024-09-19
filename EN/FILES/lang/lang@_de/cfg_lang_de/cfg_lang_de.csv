@@ -392,6 +392,7 @@ HONOR_AREANA_GUESS_MAIL_TITLE,
 HONOR_AREANA_GUESS_MAIL_CONTENT,Du hast das Ergebnis der Ruhm Arena erfolgreich erraten . Hier sind die Belohnungen.
 HONOR_ARENA_IN_PROGRESS,"Spiele im Gange, bitte warten ..."
 HONOR_ARENA_FINISH,Das Spiel in der Ruhm Arena endet
+HONOR_ARENA_ACHIEVEMENT_128,Top 128
 HONOR_ARENA_ACHIEVEMENT_64,Top 64
 HONOR_ARENA_ACHIEVEMENT_32,Top 32
 HONOR_ARENA_ACHIEVEMENT_16,Top 16
@@ -12779,7 +12780,6 @@ T3 Magische Steinkiste,
 ,
 ,
 ,
-Unvergleichlich,
 ARMOR_ILLUSION_GROUP,{0} in Set
 ARMOR_ILLUSION_NOT_SELECT,
 ARMOR_ILLUSION_STONE_NOT_ENOUGH,Mangel an Aufstiegsmaterial
@@ -12799,6 +12799,7 @@ ACTIVITY_HOLIDAY_COPY_COIN,Engelsfeder
 Eroberer der Legenden,
 ,
 Eroberer der Legenden,
+Unvergleichlich,
 Eroberer der Legenden,
 Noch nicht rangiert,
 ,

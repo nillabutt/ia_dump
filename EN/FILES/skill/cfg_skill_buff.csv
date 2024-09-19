@@ -366,21 +366,21 @@
 125601411,0,,,,Shelter-Squally Thunderstorm,BiHu,"In 1 round, increase FOR by 50%",FOR UP,0
 155601111,2,51,,,Windfury - Hurricane Flash,,Each normal attack can strike twice.,Windfury,0
 155602111,2,17|27,,,Thunderstorm - Hurricane Flash,LeiBao,Increases ATK by 100% and immunes to all debuffs.(Neutral Status),ATK UP; Debuff Immunity,0
-165601111,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165601211,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165601311,0,121,,,真龙-龙威神域,ZhenLong,普通攻击目标变为敌方全体,真龙,0
-165621111,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165621211,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165621311,0,121,,,真龙-龙威神域,ZhenLong,普通攻击目标变为敌方全体,真龙,0
-165631111,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165631211,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165631311,0,121,,,真龙-龙威神域,ZhenLong,普通攻击目标变为敌方全体，防御提升,真龙,0
-165641111,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165641211,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165641311,0,121,,,真龙-龙威神域,ZhenLong,普通攻击目标变为敌方全体，暴击伤害、防御提升,真龙,0
-165651111,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165651211,2,,,,风暴-龙威神域,FengBao,技能伤害降低，普通攻击伤害提高,技能伤害降低|普通攻击伤害提高,0
-165651311,0,121,,,真龙-龙威神域,ZhenLong,普通攻击目标变为敌方全体，暴击伤害、防御提升,真龙,0
+165601111,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165601211,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165601311,0,121,,,True Dragon - Tempest Domain,ZhenLong,Basic attacks target all enemies.,True Dragon,0
+165621111,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165621211,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165621311,0,121,,,True Dragon - Tempest Domain,ZhenLong,Basic attacks target all enemies.,True Dragon,0
+165631111,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165631211,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165631311,0,121,,,True Dragon - Tempest Domain,ZhenLong,Basic attacks target all enemies; increases Leech.,True Dragon,0
+165641111,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165641211,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165641311,0,121,,,True Dragon - Tempest Domain,ZhenLong,Basic attacks target all enemies; increases Leech and DMG Reduction,True Dragon,0
+165651111,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165651211,2,,,,Storm - Tempest Domain,FengBao,Reduces received skill damage; increases basic attack damage.,Skill DMG recieved reduced | Basic DMG Increased,0
+165651311,0,121,,,True Dragon - Tempest Domain,ZhenLong,Basic attacks target all enemies; increases Leech and DMG Reduction,True Dragon,0
 155901111,2,64,,,法连-星影回音,,,,0
 155902111,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s DEF by 80% of Freyja’s DEF,DEF DOWN,0
 155902211,1,8,,,Sunder Armor - Shadow Echo,PoJia,Reduces the bearer’s FOR by 20% of Freyja’s FOR,FOR DOWN,0
@@ -507,17 +507,17 @@
 157401111,2,72,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
 157401211,2,,,,无视异抗-圣洁圣域,,增加50%无视异常抵抗,Ignores Debuff RES UP,0
 157402111,2,72,,,Pristine Haven-Divine Haven,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167401111,2,122,,,神佑-神佑辉光,ShenYou,Resist Damage Once,抵挡伤害,0
-167421111,2,122,,,神佑-神佑辉光,ShenYou,Resist Damage Once,抵挡伤害,0
-167421211,2,123,,,神佑-神佑辉光,ShenYou,Resist Damage Once,抵挡伤害,0
-167431111,2,122,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167431211,2,123,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167441111,2,122,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167441211,2,123,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167441311,2,124,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167451111,2,122,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167451211,2,123,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
-167451311,2,124,,,神佑-神佑辉光,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167401111,2,122,,,Divine Haven - Divine Radiance,ShenYou,Resist Damage Once,DMG Absorbed,0
+167421111,2,122,,,Divine Haven - Divine Radiance,ShenYou,Resist Damage Once,DMG Absorbed,0
+167421211,2,123,,,Divine Haven - Divine Radiance,ShenYou,Resist Damage Once,DMG Absorbed,0
+167431111,2,122,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167431211,2,123,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167441111,2,122,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167441211,2,123,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167441311,2,124,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167451111,2,122,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167451211,2,123,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
+167451311,2,124,,,Divine Haven - Divine Radiance,ShenYou,Absorb 1 attack and increase ATK by 20%,Resist Damage; ATK UP,0
 117501112,0,,,,Zeus' Rule -Lightning Field,ShenWang,Auto attack all enemies in each round,Automatically attack all enemies,0
 127501113,0,,,,Zeus' Rule -Thunder Sanctuary,ShenWang,Auto attack all enemies in each round,Automatically attack all enemies,0
 127501115,0,,,,Thunder Shield-Thunder Sanctuary,LeiDun,retaliate against enemy when taking DMG,Counterattack when taking DMG,0

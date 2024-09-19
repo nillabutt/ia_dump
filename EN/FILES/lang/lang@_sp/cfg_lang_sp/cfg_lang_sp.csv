@@ -392,6 +392,7 @@ HONOR_AREANA_GUESS_MAIL_TITLE,Recompensas del concurso de Arena de Gloria
 HONOR_AREANA_GUESS_MAIL_CONTENT,
 HONOR_ARENA_IN_PROGRESS,"Partidos en progreso, por favor espera ..."
 HONOR_ARENA_FINISH,El partido de Arena de Gloria ha terminado
+HONOR_ARENA_ACHIEVEMENT_128,Top 128
 HONOR_ARENA_ACHIEVEMENT_64,Top 64
 HONOR_ARENA_ACHIEVEMENT_32,Top 32
 HONOR_ARENA_ACHIEVEMENT_16,Top 16
@@ -12777,7 +12778,6 @@ Materiales necesarios para ascender el anillo a T3,
 ,
 ,
 ,
-Invencible,
 ARMOR_ILLUSION_GROUP,{0} unidad
 ARMOR_ILLUSION_NOT_SELECT,No ha elegido el equipo
 ARMOR_ILLUSION_STONE_NOT_ENOUGH,Falta de material de ascenso
@@ -12797,6 +12797,7 @@ ACTIVITY_HOLIDAY_COPY_COIN,
 Conquistador de Leyendas,
 ,
 Conquistador de Leyendas,
+Invencible,
 Conquistador de Leyendas,
 ,
 Atributo principal del equipo,
