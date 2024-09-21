@@ -55,7 +55,7 @@ cid,default_super_common_skill_index,des,name,is_advance,is_super,is_mr,skin_cid
 2054,0|1|1|3|2|0,Group Buff\nHigh Energy Return on Single Target,Enmusubi,1,1,1,102054368
 2055,0|1|1|0|2|0,Group Control\n Reduce Enemy SPD and Energy Recover,Frost Dragon,1,1,1,102055368
 2056,0|0|2|2|1|0,"Group Output,\nCounter High-HP Enemies",Ember Dragon,1,1,1,102056368
-2057,0|0|2|2|1|0,Multiple Normal Attacks\nHigh DMG Output,Storm Dragon,1,1,0,102057300
+2057,0|0|2|2|1|0,Multiple Normal Attacks\nHigh DMG Output,Storm Dragon,1,1,1,102057368
 2058,,ACTIVITY_SUMMON_DESC_30,Nekomata,0,0,0,102058000
 2059,,ACTIVITY_SUMMON_DESC_27,Zodiac Ox,0,0,0,102059000
 2060,0|0|2|2|1|0,"Group M.DMG Output\nSpell Combo, Chase After Kill",Freyja,1,1,1,102060368

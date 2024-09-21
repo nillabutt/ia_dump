@@ -124,7 +124,7 @@
 123802311,0,,,,Illuminated-Supreme Glory,ZhaoYao,Increased Heal by 20% for 1 round,Healing UP,0
 133801211,0,16,,,Encourage-Song of War,GuWu,"All teammates increase DEF by 100% of Hera’s DEF , ATK by 60%, Crit DMG by 10%, FOR by 10%,  for 3 rounds","DEF, ATK UP | CRIT DMG, FOR UP",0
 143801211,0,16,,,Encourage-Hero Hymn,GuWu,"All teammates increase DEF by 100% of Hera’s DEF, ATK by 70%, M.RES and P.RES by 30%, Crit DMG and FOR by 10%, for 3 rounds","DEF, ATK UP | P.RES, M.RES UP | CRIT DMG, FOR UP",0
-153801111,2,,,,Soul Calming Wind,,增加10%攻击力和防御，并且每次行动时，随机选择一名我方女神驱散所有负面状态。,"ATK, DEF UP | Dispel Debuffs",0
+153801111,2,,,,Soul Calming Wind,,增加10%攻击力和防御，并且每次行动时，随机选择一名我方女神驱散所有负面状态。,,0
 163801111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
 163811111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
 163821111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase DEF, received buff effect",Celestial Domain,0
@@ -132,6 +132,18 @@
 163841111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase ATK, DEF, and received buff effect",Celestial Domain,0
 163851111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase ATK, DEF, and received buff effect",Celestial Domain,0
 163851211,0,27,,,Celestial Domain,,Be Immune From Debuff,Debuff Immunity,0
+183801111,0,,,,圣佑庇临,,,,0
+183801211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
+183811111,0,,,,圣佑庇临,,,,0
+183811211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
+183821111,0,,,,圣佑庇临,,,,0
+183821211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
+183831111,0,,,,圣佑庇临,,,,0
+183831211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
+183841111,0,,,,圣佑庇临,,,,0
+183841211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
+183851111,0,,,,圣佑庇临,,,,0
+183851211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
 113901311,1,9,,,Ignite-Firelord’s Wrath,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
 114001111,0,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
 114001211,0,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
@@ -279,6 +291,20 @@
 164651211,0,75,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
 164651311,0,76,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
 164651411,0,77,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
+184601111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
+184601211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
+184611111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
+184611211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
+184611311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
+184631111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
+184631211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
+184631311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
+184641111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
+184641211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
+184641311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
+184651111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
+184651211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
+184651311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
 124901211,1,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 20% for 2 rounds,Debuff RES DOWN,0
 134901211,1,,,,Fragile-Original Rule,YiDong,2回合异常抵抗减少10%（绝对值）,Debuff RES DOWN,0
 144901211,1,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 30% for 2 rounds,Debuff RES DOWN,0

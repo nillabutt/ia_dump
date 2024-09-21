@@ -1,0 +1,2 @@
+fight_stamina_cost,npc_stamina_cost,treasure_stamina_cost,stamina_recover_interval,stamina_upper_limit,stamina_start,detect_fog_range,fight_max_round,resource_stamina_cost
+10,10,10,600,300,300,2,30,10

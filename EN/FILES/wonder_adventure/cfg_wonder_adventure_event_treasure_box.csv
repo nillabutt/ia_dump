@@ -1,0 +1,5 @@
+box_name,box_type,need_condition,unlock_condition,reward
+C1001-M1-G1-r1,1,1,39|40|42|43,1:2:1000
+C1001-M1-G1-r2,2,0,0,1:2:1000
+C1001-M1-G1-r3,1,0,0,1:2:1000
+C1001-M1-G1-r4,2,0,0,1:2:1000

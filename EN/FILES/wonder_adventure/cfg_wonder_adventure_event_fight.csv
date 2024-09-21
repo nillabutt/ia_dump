@@ -1,0 +1,8 @@
+event_name,enemy_type,enemy_group_index,before_challenge_dialog_id,challenge_success_dialog_id,is_give_key,drop
+C1001-M1-G1-b1,1,101001,0,0,0,1:2:50
+C1001-M1-G1-b2,2,101003,0,0,0,1:2:50
+C1001-M1-G1-b3,1,101001,0,0,0,1:2:50
+C1001-M1-G1-b4,1,101002,0,0,0,1:2:50
+C1001-M1-G1-b5,1,101001,0,0,0,1:2:50
+C1001-M1-G1-b6,2,101003,0,0,0,1:2:50
+C1001-M1-G1-b7,2,101003,0,0,0,1:2:50

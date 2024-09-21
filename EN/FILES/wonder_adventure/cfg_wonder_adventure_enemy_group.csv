@@ -1,0 +1,4 @@
+id,chapter_id,group_index,play_type,weight,fight_value,enemy_id_group,enemy_show_id,desc
+101001,1001,101001,1,100,489600,10101|10101|10101|10101|10101|10101,10101,Creatures born from unknown chaotic energy.
+101002,1001,101002,1,100,489600,10201,10201,Creatures born from unknown chaotic energy.
+101003,1001,101003,2,100,489600,13501|13502|13503|13504|13505|13506,10201,Creatures born from unknown chaotic energy.
