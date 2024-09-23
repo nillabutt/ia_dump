@@ -139,12 +139,12 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 125001,1,0,0,0.4,0|0,↓,133|333,The Attire system is opening,Scene_Lobby_MainMenu_Hero,,,0,0,0
 125002,0,1,0,0.4,0|0,↑,127|-366,Tap on Angel avatar to adjust,Scene_HeroArchive_HeroInfo_main_Name,,185|278,0,0,0
 125003,0,1,0,0.4,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
-125004,0,1,0,0.8,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_hero_dress,,,0,0,0
+125004,0,1,0,1.0,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_hero_dress,,,0,0,0
 125005,0,1,0,0.5,0|0,→,-355|138,We can put all kinds of beautiful Attire on our angels. let’s get the oranment  first,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_get_dress,,,0,0,0
 125006,0,1,0,0.4,0|0,↓,0|370,Wish to angels to get a variety of oranment,SceneUIRoot|WishUIScene(Clone)|Button_wish,,,0,1,0
 125007,0,1,0,0.4,0|0,↑,-200|-340,Go to dress your angels,SceneUIRoot|WishUIScene(Clone)|Button_close,,,0,0,0
 125008,0,1,0,0.4,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|Toggle_tab_armor,,,0,0,0
-125009,0,1,0,0.8,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_hero_dress,,,0,0,0
+125009,0,1,0,1.0,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|Button_hero_dress,,,0,0,0
 125010,0,1,0,0.5,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|ButtonDressUITpl1,,,0,0,0
 200002,0,1,0,0.4,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
 200101,0,0,0,0.4,0|0,↓,-175|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_2,,,1,0,0
