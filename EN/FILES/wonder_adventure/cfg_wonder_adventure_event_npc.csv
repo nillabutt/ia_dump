@@ -1,8 +1,8 @@
 npc_name,npc_type,avatar_path,option_id
-C1001-M1-G1-n1,1,2078_MR.png,1
-C1001-M1-G1-n2,1,2078_MR.png,2
-C1001-M1-G1-n3,1,2078_MR.png,3
-C1001-M1-G1-n4,1,2078_MR.png,4
-C1001-M1-G1-n5,1,2078_MR.png,5
-C1001-M1-G1-n6,1,2078_MR.png,6
-C1001-M1-G1-n7,1,2078_MR.png,7
+C1-M1-G1-n1,1,2076_MR.jpg,1
+C1-M1-G1-n2,1,2078_MR.jpg,2
+C1-M1-G1-n3,1,2047_MR.jpg,3
+C1-M1-G1-n4,1,2049_MR.jpg,4
+C1-M1-G1-n5,1,2077_UR_PLUS.jpg,5
+C1-M1-G1-n7,1,2055_MR.jpg,6
+C1-M1-G1-n8,1,2056_MR.jpg,7

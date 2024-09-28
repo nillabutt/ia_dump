@@ -85,5 +85,5 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
 84,Austria,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200183,0,0
 85,Norway,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200184,1,0
 86,Sweden,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200185,0,0
-87,Finland,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200186,0,1
-88,Estonia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200187,0,1
+87,Finland,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200186,0,0
+88,Estonia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200187,0,0

@@ -4982,52 +4982,52 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 32000034,32000035,,{translucent},,1,USER_MAIN_CZ,HL0,1,Me,"But I’m not scared. If we can beat them once, we can beat them again and again.",,0,0
 32000035,-1,,{translucent},,1,WL_CZ,HL0,2,Gabriel,Alright then. Let’s grab our weapons and keep fighting!,,0,0
 41000001,-1,,{translucent},,1,WL_CZ,HFSTS0,2,Gabriel,"A mysterious ancient realm, where countless great souls are sealed. Collect these shattered powers here.",,0,0
-60100001,60100002,,NuwaJingu,,1,HL_UR,HL0,1,Hera,I seem to have had a dream—a vision of my future. But where exactly was that place?,,0,0
-60100002,60100003,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"Noble Queen Hera, please forgive my sudden intrusion. Allow me a moment to introduce myself…",,0,0
-60100003,60100004,,NuwaJingu,,1,HL_UR,HL0,1,Hera,Ah! Who are you? Appearing out of nowhere like that is quite alarming!,,0,0
-60100004,60100005,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"I am Loki, known as the “God of Deception.” I apologize for eavesdropping on your musings. It just so happens that I know the location of the place you dreamed of.",,0,0
-60100005,60100006,,NuwaJingu,,1,HL_UR,HL0,1,Hera,Really? Then please take me there.,,0,0
-60100006,60100007,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"That is precisely why I’m here. However… I need to test your strength first. After all, I can’t guarantee I’ll be able to protect you once we get there.",,0,0
-60100007,-1,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"You want to have a contest? Fine, let’s do it your way.",,0,0
-60100008,60100009,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"Queen Hera, this is the place you dreamed of—the Sanctum of the Founders. Ah… I must say, that last blow really hurt.",,0,0
-60100009,60100010,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"It’s the price one must pay for challenging the authority of a chief deity. By the way, what exactly is this place? Why does it feel so familiar?",,0,0
-60100010,60100011,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,Because this is where the gods were born.,,0,0
-60100011,60100012,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,2,Apollo,She’s right. This is the place where the Creator bestowed upon us our divine essences.,,0,0
-60100012,60100013,,NuwaJingu,,1,HL_UR,HL0,1,Hera,Feel free to let me know if you need any more changes!,,0,0
-60100013,60100014,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,2,Apollo,"I prophesied your revival, Hera. Right here, right now, you have gained that primordial power. However, I cannot allow you to bring such power back to our world!",,0,0
-60100014,60100015,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Why not? I simply want to understand what I saw in my dream… Besides, I have no interest in this so-called revival you speak of.",,0,0
-60100015,-1,,NuwaJingu,,1,ABL_UR_PLUS,HFSTS0,2,Apollo,"It’s too late. Your dream itself is a guide, and you are already on the path to revival. I’m sorry, but I must use force to expel you from this Sanctum!",,0,0
-60100016,60100017,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Apollo has retreated, but I sense that this isn’t over. There will be others waiting for us ahead.",,0,0
-60100017,60100018,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Loki, tell me the truth—what does Apollo mean by “revival”?",,0,0
-60100018,60100019,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"It is the primal force of creation, the original form of us goddesses. To possess it is to have the power to create worlds… Be cautious, someone is coming.",,0,0
-60100019,60100020,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"What a pleasure, my Queen Hera. I didn’t expect to see you even in a place like this.",,0,0
-60100020,60100021,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Hades, what are you doing here?",,0,0
-60100021,60100022,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,"Did you think you were the only one to dream of this place? Hmm? I’d wager that little one beside you also had a dream. Watch your back, or you might end up being someone else’s cover.",,0,0
-60100022,60100023,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Keep your distance, or I’ll be forced to use violence!",,0,0
-60100023,-1,,NuwaJingu,,1,HDS2,HFSTS0,2,Hades,Why should I move? Do you think this secret is yours alone to know?,,0,0
-60100024,60100025,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"The environment is starting to change. What’s happening, Loki?",,0,0
-60100025,60100026,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"We must have reached a new area. There’s light ahead, indicating that someone arrived before us.",,0,0
-60100026,60100027,,NuwaJingu,,1,QBT_UR_PLUS,HFSTS0,2,Cupid,"Hello, Queen Hera. I’ve been waiting for you here for quite some time.",,0,0
-60100027,60100028,,NuwaJingu,,1,HL_UR,HL0,1,Hera,Did you come here because of the dream as well?,,0,0
-60100028,60100029,,NuwaJingu,,1,QBT_UR_PLUS,HFSTS0,2,Cupid,I didn’t have any dreams. Someone offered a substantial reward for me to wait here for you.,,0,0
-60100029,60100030,,NuwaJingu,,1,HL_UR,HL0,1,Hera,Oh? And who asked you to wait for me?,,0,0
-60100030,-1,,NuwaJingu,,1,QBT_UR_PLUS,HFSTS0,2,Cupid,That’s a secret. You’ll have to guess for yourself.,,0,0
-60100031,60100032,,NuwaJingu,,1,HL_UR,HL0,1,Hera,It looks like Cupid has been enchanted or deceived. Let’s proceed and see if other goddesses have also been lured here.,,0,0
-60100032,60100033,,NuwaJingu,,1,HL_UR,HL0,1,Hera,That’s… Icarus.,,0,0
-60100033,60100034,,NuwaJingu,,1,YKLS_UR_PLUS,HL0,2,Icarus,"Greetings, Queen Hera. I trust you’re well.",,0,0
-60100034,60100035,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Are you here to obstruct me as well, having been similarly deceived?",,0,0
-60100035,60100036,,NuwaJingu,,1,YKLS_UR_PLUS,HL0,2,Icarus,"Deceived? I came here of my own volition. My wings can carry me to various worlds, and this is just one of them.",,0,0
-60100036,60100037,,NuwaJingu,,1,HL_UR,HL0,1,Hera,What brings you here?,,0,0
-60100037,60100038,,NuwaJingu,,1,YKLS_UR_PLUS,HL0,2,Icarus,I’ve heard there’s a treasure here that can enhance flying abilities. I intend to acquire it.,,0,0
-60100038,60100039,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"I suppose if I want to get past here, I’ll have to go through you?",,0,0
-60100039,-1,,NuwaJingu,,1,YKLS_UR_PLUS,HL0,2,Icarus,Indeed. The treasure I seek won’t be handed over easily.,,0,0
-60100040,60100041,,NuwaJingu,,1,HL_UR,HL0,1,Hera,Is this the end? I don’t see how this place is any different from the others.,,0,0
-60100041,60100042,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"If your hands are empty, you might see nothing. But with the blood of a chief deity, things change.",,0,0
-60100042,60100043,,NuwaJingu,,1,HL_UR,HL0,1,Hera,What do you mean?,,0,0
-60100043,60100044,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"I’m sorry, Queen Hera, but I deceived you. I lured you here and even made a deal with Cupid to obtain your blood and reveal the secrets of the Seventh Divine Realm!",,0,0
-60100044,60100045,,NuwaJingu,,1,HL_UR,HL0,1,Hera,The Seventh Divine Realm!,,0,0
-60100045,60100046,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"Indeed. Now, let’s see how you, the trapped lamb, will struggle to survive!",,0,0
-60100046,60100047,,NuwaJingu,,1,HL_UR,HL0,1,Hera,It seems Hades was right—you indeed have sinister intentions… It’s rare for him to be accurate.,,0,0
-60100047,60100048,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"I’ve been prepared for your betrayal. I’m eager to see how you, a defeated foe, will try to turn the tide!",,0,0
-60100048,60100049,,NuwaJingu,,1,LJ_UR_PLUS,HFSTS0,2,Loki,"No, this can’t be happening! My puppets, come forth! I need your assistance!",,0,0
-60100049,-1,,NuwaJingu,,1,HL_UR,HL0,1,Hera,"Calling for help when you’re outmatched? Very well, let everyone witness the power of creation I’ve obtained!",,0,0
+60100001,60100002,,{translucent},,1,HL0,HL0,1,Hera,I seem to have had a dream—a vision of my future. But where exactly was that place?,,0,0
+60100002,60100003,,{translucent},,1,LJ0,HFSTS0,2,Loki,"Noble Queen Hera, please forgive my sudden intrusion. Allow me a moment to introduce myself…",,0,0
+60100003,60100004,,{translucent},,1,HL0,HL0,1,Hera,Ah! Who are you? Appearing out of nowhere like that is quite alarming!,,0,0
+60100004,60100005,,{translucent},,1,LJ0,HFSTS0,2,Loki,"I am Loki, known as the “God of Deception.” I apologize for eavesdropping on your musings. It just so happens that I know the location of the place you dreamed of.",,0,0
+60100005,60100006,,{translucent},,1,HL0,HL0,1,Hera,Really? Then please take me there.,,0,0
+60100006,60100007,,{translucent},,1,LJ0,HFSTS0,2,Loki,"That is precisely why I’m here. However… I need to test your strength first. After all, I can’t guarantee I’ll be able to protect you once we get there.",,0,0
+60100007,-1,,{translucent},,1,HL0,HL0,1,Hera,"You want to have a contest? Fine, let’s do it your way.",,0,0
+60100008,60100009,,{translucent},,1,LJ0,HFSTS0,2,Loki,"Queen Hera, this is the place you dreamed of—the Sanctum of the Founders. Ah… I must say, that last blow really hurt.",,0,0
+60100009,60100010,,{translucent},,1,HL0,HL0,1,Hera,"It’s the price one must pay for challenging the authority of a chief deity. By the way, what exactly is this place? Why does it feel so familiar?",,0,0
+60100010,60100011,,{translucent},,1,LJ0,HFSTS0,2,Loki,Because this is where the gods were born.,,0,0
+60100011,60100012,,{translucent},,1,ABL0,HFSTS0,2,Apollo,She’s right. This is the place where the Creator bestowed upon us our divine essences.,,0,0
+60100012,60100013,,{translucent},,1,HL0,HL0,1,Hera,Feel free to let me know if you need any more changes!,,0,0
+60100013,60100014,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"I prophesied your revival, Hera. Right here, right now, you have gained that primordial power. However, I cannot allow you to bring such power back to our world!",,0,0
+60100014,60100015,,{translucent},,1,HL0,HL0,1,Hera,"Why not? I simply want to understand what I saw in my dream… Besides, I have no interest in this so-called revival you speak of.",,0,0
+60100015,-1,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"It’s too late. Your dream itself is a guide, and you are already on the path to revival. I’m sorry, but I must use force to expel you from this Sanctum!",,0,0
+60100016,60100017,,{translucent},,1,HL0,HL0,1,Hera,"Apollo has retreated, but I sense that this isn’t over. There will be others waiting for us ahead.",,0,0
+60100017,60100018,,{translucent},,1,HL0,HL0,1,Hera,"Loki, tell me the truth—what does Apollo mean by “revival”?",,0,0
+60100018,60100019,,{translucent},,1,LJ0,HFSTS0,2,Loki,"It is the primal force of creation, the original form of us goddesses. To possess it is to have the power to create worlds… Be cautious, someone is coming.",,0,0
+60100019,60100020,,{translucent},,1,HDS2,HFSTS0,2,Hades,"What a pleasure, my Queen Hera. I didn’t expect to see you even in a place like this.",,0,0
+60100020,60100021,,{translucent},,1,HL0,HL0,1,Hera,"Hades, what are you doing here?",,0,0
+60100021,60100022,,{translucent},,1,HDS2,HFSTS0,2,Hades,"Did you think you were the only one to dream of this place? Hmm? I’d wager that little one beside you also had a dream. Watch your back, or you might end up being someone else’s cover.",,0,0
+60100022,60100023,,{translucent},,1,HL0,HL0,1,Hera,"Keep your distance, or I’ll be forced to use violence!",,0,0
+60100023,-1,,{translucent},,1,HDS2,HFSTS0,2,Hades,Why should I move? Do you think this secret is yours alone to know?,,0,0
+60100024,60100025,,{translucent},,1,HL0,HL0,1,Hera,"The environment is starting to change. What’s happening, Loki?",,0,0
+60100025,60100026,,{translucent},,1,LJ0,HFSTS0,2,Loki,"We must have reached a new area. There’s light ahead, indicating that someone arrived before us.",,0,0
+60100026,60100027,,{translucent},,1,QBT0,HFSTS0,2,Cupid,"Hello, Queen Hera. I’ve been waiting for you here for quite some time.",,0,0
+60100027,60100028,,{translucent},,1,HL0,HL0,1,Hera,Did you come here because of the dream as well?,,0,0
+60100028,60100029,,{translucent},,1,QBT0,HFSTS0,2,Cupid,I didn’t have any dreams. Someone offered a substantial reward for me to wait here for you.,,0,0
+60100029,60100030,,{translucent},,1,HL0,HL0,1,Hera,Oh? And who asked you to wait for me?,,0,0
+60100030,-1,,{translucent},,1,QBT0,HFSTS0,2,Cupid,That’s a secret. You’ll have to guess for yourself.,,0,0
+60100031,60100032,,{translucent},,1,HL0,HL0,1,Hera,It looks like Cupid has been enchanted or deceived. Let’s proceed and see if other goddesses have also been lured here.,,0,0
+60100032,60100033,,{translucent},,1,HL0,HL0,1,Hera,That’s… Icarus.,,0,0
+60100033,60100034,,{translucent},,1,YKLS0,HL0,2,Icarus,"Greetings, Queen Hera. I trust you’re well.",,0,0
+60100034,60100035,,{translucent},,1,HL0,HL0,1,Hera,"Are you here to obstruct me as well, having been similarly deceived?",,0,0
+60100035,60100036,,{translucent},,1,YKLS0,HL0,2,Icarus,"Deceived? I came here of my own volition. My wings can carry me to various worlds, and this is just one of them.",,0,0
+60100036,60100037,,{translucent},,1,HL0,HL0,1,Hera,What brings you here?,,0,0
+60100037,60100038,,{translucent},,1,YKLS0,HL0,2,Icarus,I’ve heard there’s a treasure here that can enhance flying abilities. I intend to acquire it.,,0,0
+60100038,60100039,,{translucent},,1,HL0,HL0,1,Hera,"I suppose if I want to get past here, I’ll have to go through you?",,0,0
+60100039,-1,,{translucent},,1,YKLS0,HL0,2,Icarus,Indeed. The treasure I seek won’t be handed over easily.,,0,0
+60100040,60100041,,{translucent},,1,HL0,HL0,1,Hera,Is this the end? I don’t see how this place is any different from the others.,,0,0
+60100041,60100042,,{translucent},,1,LJ0,HFSTS0,2,Loki,"If your hands are empty, you might see nothing. But with the blood of a chief deity, things change.",,0,0
+60100042,60100043,,{translucent},,1,HL0,HL0,1,Hera,What do you mean?,,0,0
+60100043,60100044,,{translucent},,1,LJ0,HFSTS0,2,Loki,"I’m sorry, Queen Hera, but I deceived you. I lured you here and even made a deal with Cupid to obtain your blood and reveal the secrets of the Seventh Divine Realm!",,0,0
+60100044,60100045,,{translucent},,1,HL0,HL0,1,Hera,The Seventh Divine Realm!,,0,0
+60100045,60100046,,{translucent},,1,LJ0,HFSTS0,2,Loki,"Indeed. Now, let’s see how you, the trapped lamb, will struggle to survive!",,0,0
+60100046,60100047,,{translucent},,1,HL0,HL0,1,Hera,It seems Hades was right—you indeed have sinister intentions… It’s rare for him to be accurate.,,0,0
+60100047,60100048,,{translucent},,1,HL0,HL0,1,Hera,"I’ve been prepared for your betrayal. I’m eager to see how you, a defeated foe, will try to turn the tide!",,0,0
+60100048,60100049,,{translucent},,1,LJ0,HFSTS0,2,Loki,"No, this can’t be happening! My puppets, come forth! I need your assistance!",,0,0
+60100049,-1,,{translucent},,1,HL0,HL0,1,Hera,"Calling for help when you’re outmatched? Very well, let everyone witness the power of creation I’ve obtained!",,0,0

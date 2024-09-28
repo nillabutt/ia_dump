@@ -1,5 +1,7 @@
-story_id,charpt_id,is_first,next_story_id,title,desc,node_id_list,unlock_desc,dialog_id
-101,1001,1,102,主线任务1,主线任务-描述1,20,解锁描述1,101001
-102,1001,0,103,主线任务2,主线任务-描述2,24,解锁描述2,101008
-103,1001,0,104,主线任务3,主线任务-描述3,29,解锁描述3,101016
-104,1001,0,-1,主线任务4,主线任务-描述4,38|44,解锁描述4,101024
+story_id,charpt_id,is_first,next_story_id,title,desc,node_id_list,doing_des,unlock_desc,dialog_id
+101,1,1,102,Hera's Revival PathⅠ,"Hera dreamed of a vision, and Loki appeared, offering assistance.",30,Defeat Loki,Unlocked after completing Hera’s  Revival Path I,60100001
+102,1,0,103,Hera's Revival PathⅡ,"Hera moved forward and encountered Apollo, who had been blocking her way all along.",66,Defeat Apollo,Unlocked after completing Hera’s  Revival Path II,60100008
+103,1,0,104,Hera's Revival PathⅢ,"After getting rid of Apollo, Hades followed closely behind.",72,Defeat Hades,Unlocked after completing Hera’s Revival Path III,60100016
+104,1,0,105,Hera's Revival PathⅣ,"Hera and Loki arrived at a new location, where they found Cupid waiting for them.",126,Defeat Cupid,Unlocked after completing Hera’s Revival Path IV,60100024
+105,1,0,106,Hera's Revival PathⅤ,"Hera discovered that Icarus had also arrived, intending to seize a treasure, leading to a competition between them.",143,Defeat Icarus,Unlocked after completing Hera’s  Revival Path V,60100031
+106,1,0,-1,Hera's Revival PathⅥ,Loki finally revealed her true intentions; she wanted to take Hera's blood to unlock the Seventh Divine Realm.,206,Defeat Thor,Unlocked after completing Hera’s Revival Path VI,60100040

@@ -132,18 +132,18 @@
 163841111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase ATK, DEF, and received buff effect",Celestial Domain,0
 163851111,0,,,,Celestial Light - Celestial Domain,TianHui,"Increase ATK, DEF, and received buff effect",Celestial Domain,0
 163851211,0,27,,,Celestial Domain,,Be Immune From Debuff,Debuff Immunity,0
-183801111,0,,,,圣佑庇临,,,,0
-183801211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
-183811111,0,,,,圣佑庇临,,,,0
-183811211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
-183821111,0,,,,圣佑庇临,,,,0
-183821211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
-183831111,0,,,,圣佑庇临,,,,0
-183831211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
-183841111,0,,,,圣佑庇临,,,,0
-183841211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
-183851111,0,,,,圣佑庇临,,,,0
-183851211,2,125,,,圣光-圣佑庇临,ShengGuang,受到攻击时不会立即结算伤害,Light,0
+183801111,0,,,,Sanctified Blessing,,,,0
+183801211,2,125,,,Holy Light - Sanctified Blessing,ShengGuang,Damage from attacks is not immediately applied.,Light,0
+183811111,0,,,,Sanctified Blessing,,,,0
+183811211,2,125,,,Holy Light - Sanctified Blessing,ShengGuang,Damage from attacks is not immediately applied.,Light,0
+183821111,0,,,,Sanctified Blessing,,,,0
+183821211,2,125,,,Holy Light - Sanctified Blessing,ShengGuang,Damage from attacks is not immediately applied.,Light,0
+183831111,0,,,,Sanctified Blessing,,,,0
+183831211,2,125,,,Holy Light - Sanctified Blessing,ShengGuang,Damage from attacks is not immediately applied.,Light,0
+183841111,0,,,,Sanctified Blessing,,,,0
+183841211,2,125,,,Holy Light - Sanctified Blessing,ShengGuang,Damage from attacks is not immediately applied.,Light,0
+183851111,0,,,,Sanctified Blessing,,,,0
+183851211,2,125,,,Holy Light - Sanctified Blessing,ShengGuang,Damage from attacks is not immediately applied.,Light,0
 113901311,1,9,,,Ignite-Firelord’s Wrath,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
 114001111,0,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
 114001211,0,14,,,Bolster-Fully Armed,YuanHu,"DMG Taken decreased by 50%, DMG Reflect increases by 20% for 2 rounds",DMG Taken DOWN; DMG Reflect UP,0
