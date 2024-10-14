@@ -1,2 +1,4 @@
 index,chapter_id,map_type,layer,name,map_bg,show_name,length,height,spawn_location,spawn_dialog_id
 0,1,1,1,C1-M1-G1,map_bg_snow.png,Hera's Revival Path,26,8,5:1,0
+1,2,1,1,C2-M1-G1,map_bg_snow.png,Cupid‘s Revival Path,26,8,5:1,0
+2,3,1,1,C3-M1-G1,map_bg_snow.png,Ra's Revival Path,26,8,3:8,0

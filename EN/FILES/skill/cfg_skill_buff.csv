@@ -291,20 +291,24 @@
 164651211,0,75,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
 164651311,0,76,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
 164651411,0,77,,,Sweet Favors - Perfect Idol,QiangHua,Reduce a high-DMG hit and increase the DMG dealt,Reduce the DMG takn and increase the DMG dealt,0
-184601111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
-184601211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
-184611111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
-184611211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
-184611311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
-184631111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
-184631211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
-184631311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
-184641111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
-184641211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
-184641311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
-184651111,2,126,,,对决-羁绊之箭,DuiJue,DMG Increase,对决,0
-184651211,2,126,,,对决-羁绊之箭,DuiJue,DMG Reduced,对决,0
-184651311,2,,,,羁绊之箭,,,受到普通攻击伤害降低,0
+184601111,2,126,,,Duel - Entwined Shot,DuiJue,DMG Increase,Duel,0
+184601211,2,126,,,Duel - Entwined Shot,DuiJue,DMG Reduced,Duel,0
+184601311,2,,,,Duel,,每回合神圣伤害,,0
+184621111,2,126,,,Duel - Entwined Shot,DuiJue,DMG Increase,Duel,0
+184621211,2,126,,,Duel - Entwined Shot,DuiJue,DMG Reduced,Duel,0
+184621311,2,,,,Duel,,每回合神圣伤害,,0
+184631111,2,126,,,Duel - Entwined Shot,DuiJue,DMG Increase,Duel,0
+184631211,2,126,,,Duel - Entwined Shot,DuiJue,DMG Reduced,Duel,0
+184631311,2,,,,Duel,,每回合神圣伤害,,0
+184631411,1,127,,,Hatred - Entwined Shot,ZengHen,Buffs and healing effects reduced,Hatred,0
+184641111,2,126,,,Duel - Entwined Shot,DuiJue,DMG Increase,Duel,0
+184641211,2,126,,,Duel - Entwined Shot,DuiJue,DMG Reduced,Duel,0
+184641311,2,,,,Duel,,每回合神圣伤害,,0
+184641411,1,127,,,Hatred - Entwined Shot,ZengHen,Buffs and healing effects reduced,Hatred,0
+184651111,2,126,,,Duel - Entwined Shot,DuiJue,DMG Increase,Duel,0
+184651211,2,126,,,Duel - Entwined Shot,DuiJue,DMG Reduced,Duel,0
+184651311,2,,,,Duel,,每回合神圣伤害,,0
+184651411,1,127,,,Hatred - Entwined Shot,ZengHen,Buffs and healing effects reduced,Hatred,0
 124901211,1,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 20% for 2 rounds,Debuff RES DOWN,0
 134901211,1,,,,Fragile-Original Rule,YiDong,2回合异常抵抗减少10%（绝对值）,Debuff RES DOWN,0
 144901211,1,,,,Fragile-Original Rule,YiDong,Decrease enemies'  Debuff RES by 30% for 2 rounds,Debuff RES DOWN,0
