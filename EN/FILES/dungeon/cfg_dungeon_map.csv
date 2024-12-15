@@ -87,3 +87,11 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
 86,Sweden,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200185,0,0
 87,Finland,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200186,0,0
 88,Estonia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200187,0,0
+89,Tír na nÓg,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200188,1,0
+90,Avalon,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200189,0,0
+91,Valhalla,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200190,0,0
+92,Jotun-heim,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200191,0,0
+93,新奧勒松,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200192,1,0
+94,皮拉米登,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200193,0,0
+95,朗伊尔城,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200194,0,1
+96,巴伦支堡,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200195,0,1

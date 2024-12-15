@@ -1,0 +1,11 @@
+attr_key,attr_additon
+max_hp,1
+min_attack,0.5
+max_attack,0.5
+defend,1
+defend_ignore_level,2
+physc_def,2
+magic_def,2
+crit,2
+decrit,2
+debuff_resist,1

@@ -1,0 +1,10 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,name,content,content_param,link
+22000101,22,0,0,0,123,60,5:2000006:1|1:2:60,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,60,105|1
+22000102,22,0,0,0,123,500,5:3000006:300|5:2000020:1,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,500,105|1
+22000103,22,0,0,0,123,1000,1:4:5000|1:1:100000,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,1000,105|1
+22000104,22,0,0,0,123,3000,5:3000006:2000|5:2000011:50,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,3000,105|1
+22000105,22,0,0,0,123,5000,5:3000007:200|5:3000008:100,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,5000,105|1
+22000106,22,0,0,0,123,10000,5:2000005:60|5:3000011:10,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,10000,105|1
+22000107,22,0,0,0,123,15000,5:3000064:20|5:2000035:40,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,15000,105|1
+22000108,22,0,0,0,123,20000,5:3000008:300|5:3000009:50,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,20000,105|1
+22000109,22,0,0,0,123,30000,5:3000005:50|5:3000006:5000,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,30000,105|1

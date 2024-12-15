@@ -1,0 +1,76 @@
+task_id,task_type,task_group,task_index,task_id_before,task_subtype,task_condition,task_value,reward,qmkh_active_value,name,content,content_param
+20000101,20,20000101,0,0,0,112,5,3:1102:5,1,Angel Carnival,Any angel with full purple gear reaches Lv.{0},5
+20000102,20,20000101,1,20000101,0,112,10,3:1103:5,1,Angel Carnival,Any angel with full purple gear reaches Lv.{0},10
+20000103,20,20000101,2,20000102,0,112,15,3:1104:5,1,Angel Carnival,Any angel with full purple gear reaches Lv.{0},15
+20000104,20,20000101,3,20000103,0,112,20,3:1105:5,1,Angel Carnival,Any angel with full purple gear reaches Lv.{0},20
+20000105,20,20000101,4,20000104,0,113,25,3:1106:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},25
+20000106,20,20000101,5,20000105,0,113,30,3:1107:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},30
+20000107,20,20000101,6,20000106,0,113,35,3:1108:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},35
+20000108,20,20000101,7,20000107,0,113,40,3:1109:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},40
+20000109,20,20000101,8,20000108,0,113,45,3:1110:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},45
+20000110,20,20000101,9,20000109,0,113,50,3:1111:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},50
+20000111,20,20000101,10,20000110,0,113,55,3:1112:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},55
+20000112,20,20000101,11,20000111,0,113,60,3:1113:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},60
+20000113,20,20000101,12,20000112,0,113,65,3:1114:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},65
+20000114,20,20000101,13,20000113,0,113,70,3:1115:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},70
+20000115,20,20000101,14,20000114,0,113,75,3:1116:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},75
+20000116,20,20000101,15,20000115,0,113,80,3:1117:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},80
+20000117,20,20000101,16,20000116,0,113,85,3:1118:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},85
+20000118,20,20000101,17,20000117,0,113,90,3:1119:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},90
+20000119,20,20000101,18,20000118,0,113,95,3:1120:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},95
+20000120,20,20000101,19,20000119,0,113,100,3:1121:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},100
+20000121,20,20000101,20,20000120,0,113,105,3:1122:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},105
+20000122,20,20000101,21,20000121,0,113,110,3:1123:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},110
+20000123,20,20000101,22,20000122,0,113,115,3:1124:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},115
+20000124,20,20000101,23,20000123,0,113,120,3:1125:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},120
+20000125,20,20000101,24,20000124,0,113,125,3:1126:6,1,Angel Carnival,Any angel with full orange gear reaches Lv.{0},125
+20000126,20,20000102,0,0,0,22,10,1:4:100,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},10
+20000127,20,20000102,1,20000126,0,22,15,1:4:200,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},15
+20000128,20,20000102,2,20000127,0,22,20,1:4:350,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},20
+20000129,20,20000102,3,20000128,0,22,25,1:4:600,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},25
+20000130,20,20000102,4,20000129,0,22,30,1:4:1050,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},30
+20000131,20,20000102,5,20000130,0,22,35,1:4:1800,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},35
+20000132,20,20000102,6,20000131,0,22,40,1:4:2750,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},40
+20000133,20,20000102,7,20000132,0,22,45,1:4:4000,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},45
+20000134,20,20000102,8,20000133,0,22,50,1:4:5250,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},50
+20000135,20,20000102,9,20000134,0,22,55,1:4:6500,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},55
+20000136,20,20000102,10,20000135,0,22,60,1:4:7750,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},60
+20000137,20,20000102,11,20000136,0,22,65,1:4:9000,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},65
+20000138,20,20000102,12,20000137,0,22,70,1:4:10250,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},70
+20000139,20,20000102,13,20000138,0,22,75,1:4:11500,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},75
+20000140,20,20000102,14,20000139,0,22,80,1:4:13250,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},80
+20000141,20,20000102,15,20000140,0,22,85,1:4:15750,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},85
+20000142,20,20000102,16,20000141,0,22,90,1:4:18250,1,Angel Carnival,Any angel with fully enhanced gear reaches Lv.{0},90
+20000143,20,20000103,0,0,0,202,500,5:3000007:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,500
+20000144,20,20000103,1,20000143,0,202,1000,5:3000007:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,1000
+20000145,20,20000103,2,20000144,0,202,1500,5:3000007:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,1500
+20000146,20,20000103,3,20000145,0,202,2000,5:3000007:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,2000
+20000147,20,20000103,4,20000146,0,202,2500,5:3000007:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,2500
+20000148,20,20000103,5,20000147,0,202,3000,5:3000007:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,3000
+20000149,20,20000103,6,20000148,0,202,3500,5:3000008:10,1,Angel Carnival,Any angel's avg. training reaches {0} points,3500
+20000150,20,20000103,7,20000149,0,202,4000,5:3000008:10,1,Angel Carnival,Any angel's avg. training reaches {0} points,4000
+20000151,20,20000103,8,20000150,0,202,4500,5:3000008:10,1,Angel Carnival,Any angel's avg. training reaches {0} points,4500
+20000152,20,20000103,9,20000151,0,202,5000,5:3000008:10,1,Angel Carnival,Any angel's avg. training reaches {0} points,5000
+20000153,20,20000103,10,20000152,0,202,5500,5:3000008:10,1,Angel Carnival,Any angel's avg. training reaches {0} points,5500
+20000154,20,20000103,11,20000153,0,202,6000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,6000
+20000155,20,20000103,12,20000154,0,202,7000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,7000
+20000156,20,20000103,13,20000155,0,202,8000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,8000
+20000157,20,20000103,14,20000156,0,202,9000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,9000
+20000158,20,20000103,15,20000157,0,202,10000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,10000
+20000159,20,20000103,16,20000158,0,202,11000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,11000
+20000160,20,20000103,17,20000159,0,202,12000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,12000
+20000161,20,20000103,18,20000160,0,202,13000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,13000
+20000162,20,20000103,19,20000161,0,202,14000,5:3000008:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,14000
+20000163,20,20000103,20,20000162,0,202,15000,5:3000009:20,1,Angel Carnival,Any angel's avg. training reaches {0} points,15000
+20000164,20,20000104,0,0,0,34,1,5:2000005:10,1,Angel Carnival,Any angel with full artifact reaches Lv.{0},1
+20000165,20,20000104,1,20000164,0,34,2,5:2000005:30,1,Angel Carnival,Any angel with full artifact reaches Lv.{0},2
+20000166,20,20000104,2,20000165,0,34,3,5:3000011:1,1,Angel Carnival,Any angel with full artifact reaches Lv.{0},3
+20000167,20,20000104,3,20000166,0,34,4,5:3000011:2,1,Angel Carnival,Any angel with full artifact reaches Lv.{0},4
+20000168,20,20000104,4,20000167,0,34,5,5:3000011:3,1,Angel Carnival,Any angel with full artifact reaches Lv.{0},5
+20000169,20,20000105,0,0,0,200,4,5:1000008:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},4
+20000170,20,20000105,1,20000169,0,200,5,5:1000009:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},5
+20000171,20,20000105,2,20000170,0,200,6,5:1000010:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},6
+20000172,20,20000105,3,20000171,0,200,7,5:1000011:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},7
+20000173,20,20000105,4,20000172,0,200,8,5:1000012:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},8
+20000174,20,20000105,5,20000173,0,200,9,5:1000013:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},9
+20000175,20,20000105,6,20000174,0,200,10,5:1000014:1,1,Angel Carnival,Any angel with full gems reaches Lv.{0},10

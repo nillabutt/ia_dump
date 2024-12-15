@@ -1,0 +1,71 @@
+cfg_id,cost_cfg_id,max_count,quality,restore,day_limit_count,limit_group,limit_level,name,icon,description
+1000001,0,99,3,1000,0,0,20,Copper Treasure Chest,1000001.png,This copper chest seems to contain treasures
+1000002,0,99,4,1000,0,0,20,Silver Treasure Chest,1000002.png,This copper chest seems to contain high quality treasures
+1000003,0,99,5,1000,0,0,20,Gold Treasure Chest,1000003.png,This gold chest seems to contain rare treasures
+1000004,0,99,3,1000,0,0,70,Lv.1 Gem Pouch,1000004.png,Use it to randomly get 1 Lv.1 Gem
+1000005,0,99,3,1000,0,0,70,Lv.2 Gem Pouch,1000005.png,Use it to randomly get 1 Lv.2 Gem
+1000006,0,99,3,1000,0,0,70,Lv.3 Gem Pouch,1000006.png,Use it to randomly get 1 Lv.3 Gem
+1000007,0,99,4,1000,0,0,70,Lv.4 Gem Pouch,1000007.png,Use it to randomly get 1 Lv.4 Gem
+1000008,0,99,4,1000,0,0,70,Lv.5 Gem Pouch,1000008.png,Use it to randomly get 1 Lv.5 Gem
+1000009,0,99,4,1000,0,0,70,Lv.6 Gem Pouch,1000009.png,Use it to randomly get 1 Lv.6 Gem
+1000010,0,99,4,1000,0,0,70,Lv.7 Gem Pouch,1000010.png,Use it to randomly get 1 Lv.7 Gem
+1000011,0,99,5,1000,0,0,70,Lv.8 Gem Pouch,1000011.png,Use it to randomly get 1 Lv.8 Gem
+1000012,0,99,5,1000,0,0,70,Lv.9 Gem Pouch,1000012.png,Use it to randomly get 1 Lv.9 Gem
+1000013,0,99,5,1000,0,0,70,Lv.10 Gem Pouch,1000013.png,Use it to randomly get 1 Lv.10 Gem
+1000014,0,99,5,1000,0,0,70,Lv.11 Gem Pouch,1000014.png,Use it to randomly get 1 Lv.11 Gem
+1000015,0,99,6,1000,0,0,70,Lv.12 Gem Pouch,1000015.png,Use it to randomly get 1 Lv.12 Gem
+1000016,0,99,6,1000,0,0,70,Lv.13 Gem Pouch,1000016.png,Use it to randomly get 1 Lv.13 Gem
+1000017,0,99,6,1000,0,0,70,Lv.14 Gem Pouch,1000017.png,Use it to randomly get 1 Lv.14 Gem
+1000018,0,99,6,1000,0,0,70,Lv.15 Gem Pouch,1000018.png,Use it to randomly get 1 Lv.15 Gem
+1000019,0,99,4,1000,0,0,0,Purple Angel Shard Box,1000019.png,Use it to acquire 1 Purple Angel Shard randomly
+1000020,0,99,5,1000,0,0,0,Orange Angel Shard Box,1000020.png,Use it to acquire 1 Orange Angel Shard randomly
+1000021,0,99,6,1000,0,0,0,Super gift,1000021.png,"Random get one of the following rewards: 1~5 Odin Shard(s), 1 Adv. Summon scroll, 3 Standard Summon Scrolls, 100 diamonds"
+1000022,0,99,6,1000,0,0,0,QA专用宝石袋,1000004.png,QA专用宝石袋
+1000023,0,99,3,1000,0,0,12,Basic Guild Box,1000001.png,A treasure chest containing mysterious items
+1000024,0,99,4,1000,0,0,12,Adv. Guild Box,1000002.png,A treasure chest containing rare items
+1000025,0,99,5,1000,0,0,12,Platinum Guild Box,1000003.png,A treasure chest containing a lot of precious items
+1000026,0,99,6,1000,0,0,12,Clash of Guild Special,1000026.png,Special treasure chest obtained in Clash of Guild containing a lot of precious items
+1000027,0,99,4,1000,0,0,0,Adv. Summon Scroll Treasure,1000027.png,"Get random number of Adv. Summon scrolls, probability: 2 scrolls(30%); 3 scrolls(44%); 5 scrolls(20%); 10 scrolls(5%); 20 scrolls(1%)"
+1000028,0,99,5,1000,0,0,0,Epic Summon Scroll Treasure,1000028.png,"Get random number of Epic Summon scrolls, probability: 2 scrolls(30%); 3 scrolls(44%); 5 scrolls(20%); 10 scrolls(5%); 20 scrolls(1%)"
+1000029,0,99,6,1000,0,0,0,Legend Summon Scroll Treasure,1000029.png,"Get random number of Legend Summon scrolls, probability: 2 scrolls(30%); 3 scrolls(44%); 5 scrolls(20%); 10 scrolls(5%); 20 scrolls(1%)"
+1000030,0,99,6,1000,0,0,0,Superior Summon Scroll Treasure,1000030.png,"Get random number of Superior Summon scrolls, probability: 2 scrolls(30%); 3 scrolls(44%); 5 scrolls(20%); 10 scrolls(5%); 20 scrolls(1%)"
+1000031,0,99,3,1000,0,0,100,Blue Attire treasure chest,1000031.png,Get 1  blue Attire at random
+1000032,0,99,4,1000,0,0,100,Purple Attire treasure chest,1000032.png,Get 1 purple Attire at random
+1000033,0,99,5,1000,0,0,100,Orange Attire treasure chest,1000033.png,Get 1 orange Attire at random
+1000034,0,99,5,1000,0,0,10,Limited Relic Treasure Chest,1000034.png,Randomly obtain 1 angel's limited relic
+1000035,0,99,6,1000,0,0,10,Olympus Chest,1000026.png,The chest from olympus legend seems to contain some precious treasures.
+1000036,0,99,6,1000,0,0,0,QA专用宝石袋2,1000004.png,QA专用宝石袋2
+1000037,0,99,6,1000,0,0,20,Celebration chest,1000037.png,Drop during the event in battle. Open it and you can get precious items randomly.
+1000038,0,99,3,1000,0,0,30,Normal Gift Chest,1000038.png,Open to get a normal gift
+1000039,0,99,4,1000,0,0,30,Intermediate Gift Chest,1000039.png,Open to get an intermediate gift
+1000040,0,99,5,1000,0,0,30,Advanced Gift Chest,1000040.png,Open to get an advanced gift
+1000041,0,99,6,1000,0,0,30,Deluxe Gift Chest,1000041.png,Open to get a deluxe gift
+1000042,0,999,6,1000,0,0,20,Mid-Autumn gold chest,1000003.png,Holy moly! the treasure chest can no longer hide the shiny treasure in it
+1000043,0,999,5,1000,0,0,20,Mid-Autumn silver chest,1000002.png,"Jade hare always hides this kind of chest in a secret corner, what's in it"
+1000044,0,999,4,1000,0,0,20,Mid-Autumn bronze chest,1000001.png,"A simple Mid-Autumn Festival chest, but the light of the treasure contrasts with its appearance"
+1000045,0,999,6,1000,0,0,20,Halloween gold chest,1000045.png,"Glittering treasure chest, what good things are hidden inside"
+1000046,0,999,5,1000,0,0,20,Halloween silver chest,1000046.png,"Brand new silver chest, looks very valuable"
+1000047,0,999,4,1000,0,0,20,Halloween bronze chest,1000047.png,"Dilapidated chest that has been in the dust for a long time, faintly revealing the light of treasures"
+1000049,0,999,6,1000,0,0,20,Thanksgiving Gold Chest,1000049.png,"Glittering treasure chest, what good things are hidden inside"
+1000050,0,999,5,1000,0,0,20,Thanksgiving Silver Chest,1000050.png,"Brand new silver chest, looks very valuable"
+1000051,0,999,4,1000,0,0,20,Thanksgiving Bronze Chest,1000051.png,"Dilapidated chest that has been in the dust for a long time, faintly revealing the light of treasures"
+1000052,0,999,4,1000,0,0,100,T1 Magic Stone Exchange Voucher,1000052.png,Open to get a random T1 Magic stone
+1000053,0,999,5,1000,0,0,100,T2 Magic stone chest,1000053.png,Open to get a random T2 Magic stone
+1000054,0,999,6,1000,0,0,100,T3 Magic stone chest,1000054.png,Open to get a random T3 Magic stone
+1000055,0,999,6,1000,0,0,20,Christmas Gold Chest,1000055.png,"Glittering treasure chest, what good things are hidden inside"
+1000056,0,999,5,1000,0,0,20,Christmas Silver Chest,1000056.png,"Brand new silver chest, looks very valuable"
+1000057,0,999,4,1000,0,0,20,Christmas Bronze Chest,1000057.png,"Dilapidated chest that has been in the dust for a long time, faintly revealing the light of treasures"
+1000058,0,999,6,1000,0,0,20,Supreme Chest,1000058.png,Let's figure out what priceless treasure is hidden in the rare supreme chest.
+1000059,0,999,5,1000,0,0,20,Advanced Chest,1000059.png,The glittering advanced chest must be very valuable.
+1000060,0,999,4,1000,0,0,20,Standard Chest,1000060.png,"It seems like an ordinary chest, but the treasure hidden in it is gleaming."
+1000061,0,99,6,1000,0,0,0,QA专用宝石袋3,1000011.png,QA专用宝石袋3
+1000062,0,99,6,1000,0,0,0,QA专用宝石袋4,1000011.png,QA专用宝石袋4
+1000063,0,999,6,1000,0,0,100,T4 Magic Stone Chest,1000063.png,Open to get a random T4 Magic Stone
+1000064,0,999,4,1000,0,0,20,Random Common Miracle Card Pieces,1000064.png,Open to get a random Common Miracle Card piece
+1000065,0,999,5,1000,0,0,20,Random Rare Miracle Card Pieces,1000065.png,Open to get a random Rare Miracle Card piece
+1000066,0,999,6,1000,0,0,20,Random Epic Miracle Card Pieces,1000066.png,Open to get a random Epic Miracle Card piece
+1000067,0,999,4,1000,0,0,20,Common Miracle Card Chest,1000067.png,Open to get a random Common Miracle Card
+1000068,0,999,5,1000,0,0,20,Rare Miracle Card Chest,1000068.png,Open to get a random Rare Miracle Card
+1000069,0,999,6,1000,0,0,20,Epic Miracle Card Chest,1000069.png,Open to get a random Epic Miracle Card
+1000070,0,999,6,1000,0,0,20,Random SSR+ Angel,3000178.png,1 Random SSR+ Angel
+1000071,0,999,6,1000,0,0,100,T5 Magic Stone Chest,1000071.png,Open to get a random T5 Magic Stone

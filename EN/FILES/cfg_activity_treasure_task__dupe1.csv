@@ -1,0 +1,8 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,selling_price,name,content,content_param,link
+47000101,36,47000101,1,0,46,1,5:3000208:3,2:300|2:600,,Diamond Discount,,
+47000102,36,47000101,2,47000101,46,1,5:3000208:3,2:300|2:600,,Diamond Discount,,
+47000103,36,47000103,0,0,2,1,5:3000208:3,,,Daily Login,,
+47000104,36,47000104,0,0,48,2,5:3000208:4,,,Sweep Sky-tower 2 times,,
+47000105,36,47000105,0,0,25,2,5:3000208:4,,,Quick-Combat 2 times,,
+47000106,36,47000106,0,0,26,3,5:3000208:4,,,Challenge the Arena 3 times,,
+47000107,36,47000107,0,0,114,1,5:3000208:4,,,Challenge the World Boss successfully 1 time,,

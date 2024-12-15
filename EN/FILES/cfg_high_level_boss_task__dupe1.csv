@@ -1,0 +1,6 @@
+task_id,task_type,task_pos,task_condition,task_value,active_value,reward,name,content,content_param,link,level_min_need,step
+30000001,34,1,60001,3,0,,累计登录,Login {0} days,3,,200,1
+30000002,34,2,60002,90,0,,累计扫荡天空塔,Sweep Sky Tower {0} times,90,,200,1
+30000003,34,3,60003,10000,0,,累计消耗钻石,Consume {0} Diamonds,10000,,200,1
+30000004,34,4,60004,15,0,,累计成功挑战世界boss,Challenge World Boss {0} times successfully,15,,200,1
+30000005,34,5,60005,300,0,,累计快速挂机,Quick-combat {0} times,300,,200,1

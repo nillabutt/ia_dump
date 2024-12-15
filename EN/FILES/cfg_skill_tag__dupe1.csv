@@ -1,0 +1,11 @@
+id,tag,color_index
+1,DMG,1
+2,Control,3
+3,Debuff,3
+4,Bonus,2
+5,Healing,2
+6,Recovery,2
+7,Shield,2
+8,Special Effects,4
+9,Dispel Buff,3
+10,Dispel Debuff,2

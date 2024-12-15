@@ -1,0 +1,18 @@
+cfg_id,illusion_level,dress_count,attr_type_type,attr_type,attr_value,name
+1,1,2,3,1,50,Amethyst Heart
+2,1,4,3,7,50,Amethyst Heart
+3,1,6,3,10,200,Amethyst Heart
+4,2,2,3,1,100,Mithril Heart
+5,2,4,3,7,100,Mithril Heart
+6,2,6,3,10,325,Mithril Heart
+7,3,2,3,1,150,Glittering Heart
+8,3,4,3,7,200,Glittering Heart
+9,3,6,3,10,500,Glittering Heart
+10,4,2,3,1,200,Heart of Meteorite
+11,4,4,3,7,300,Heart of Meteorite
+12,4,6,3,10,700,Heart of Meteorite
+13,5,2,3,1,250,Molten Heart
+14,5,3,2,52,100,Molten Heart
+15,5,4,3,7,400,Molten Heart
+16,5,5,2,51,100,Molten Heart
+17,5,6,3,10,800,Molten Heart

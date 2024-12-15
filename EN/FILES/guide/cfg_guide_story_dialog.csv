@@ -4634,7 +4634,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 34600041,-1,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"No problem, please, go ahead and showcase your skills.",,0,0
 34600042,34600043,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"Your lyre playing is unmatched, Apollo. I concede.",,0,0
 34600043,-1,,NuwaJingu,,1,ABL_UR,HFSTS0,1,Apollo,"You're not bad yourself, Horus.",,0,0
-34600044,34600045,,NuwaJingu,,1,HLS_UR,HL0,2,Horus,"If this melody truly hails from the underworld, then I believe only Lord Hades can unveil the origin behind the veil of the River Styx.",,0,0
+34600044,34600045,,NuwaJingu,,1,HLS0,HL0,2,Horus,"If this melody truly hails from the underworld, then I believe only Lord Hades can unveil the origin behind the veil of the River Styx.",,0,0
 34600045,34600046,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"Indeed, I have crossed the Styx three times, and I can guide you on this path.",,0,0
 34600046,34600047,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"Crossing the River Styx is no easy feat, Apollo, especially for one as radiant as you. But I have a trial...",,0,0
 34600047,34600048,,NuwaJingu,,1,R_UR,HFSTS0,2,Ra,"If you pass this trial, I will bestow a spell upon you, one that will temporarily disguise you as a departed soul. The ferryman Charon will then transport you across.",,0,0
@@ -5031,3 +5031,343 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 60100047,60100048,,{translucent},,1,HL0,HL0,1,Hera,"I’ve been prepared for your betrayal. I’m eager to see how you, a defeated foe, will try to turn the tide!",,0,0
 60100048,60100049,,{translucent},,1,LJ0,HFSTS0,2,Loki,"No, this can’t be happening! My puppets, come forth! I need your assistance!",,0,0
 60100049,-1,,{translucent},,1,HL0,HL0,1,Hera,"Calling for help when you’re outmatched? Very well, let everyone witness the power of creation I’ve obtained!",,0,0
+60200001,60200002,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Where is this place? I was just in the little garden a second ago—how did I end up here?,,0,0
+60200002,60200003,,{translucent},,1,YKLS0,HFSTS0,2,Icarus,"I didn’t expect to see you, Cupid.",,0,0
+60200003,60200004,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Ah… Icarus? What is this place?,,0,0
+60200004,60200005,,{translucent},,1,YKLS0,HFSTS0,2,Icarus,"Don’t you know? This is the Sanctum of the Creator, the birthplace of the goddesses. So, you’re here in pursuit of that divine power too?",,0,0
+60200005,60200006,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"Sanctum of the Creator? Sorry, but this is the first I’ve heard of such a place.",,0,0
+60200006,60200007,,{translucent},,1,YKLS0,HFSTS0,2,Icarus,"Since you’re here, it would be a shame not to compete for this power. How about a little challenge?",,0,0
+60200007,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"Hehe, if you want a duel, don’t say I didn’t warn you!",,0,0
+60200008,60200009,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"That guy is so petty! What was supposed to be a friendly spar turned serious right away, and after losing, he ran off without admitting defeat.",,0,0
+60200009,60200010,,{translucent},,1,YWJ0,HFSTS0,2,Gemini,"Cupid, who are you complaining about this time?",,0,0
+60200010,60200011,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"I’m not complaining about anyone. She just went on about a bunch of rules, and then… Wait, Gemini? What are you doing here?",,0,0
+60200011,60200012,,{translucent},,1,YWJ0,HFSTS0,2,Gemini,"I’m here waiting for you, of course.",,0,0
+60200012,60200013,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Why wait for me? Are you longing for love?,,0,0
+60200013,60200014,,{translucent},,1,YWJ0,HFSTS0,2,Gemini,I have no interest in that kind of love. What I want is your power of creation.,,0,0
+60200014,60200015,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Power of creation? Me? Don’t joke around—there’s no way I have something like that!,,0,0
+60200015,60200016,,{translucent},,1,YWJ0,HFSTS0,2,Gemini,That’s why you’re here in the Sanctum of Creation; it’s your destiny.,,0,0
+60200016,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"I see! You’re here to rob me! Hmph, if that’s the case, I won’t hold back!",,0,0
+60200017,60200018,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Isn’t that Cupid? You’ve come here to seek the Ancient Holy Fire, haven’t you?",,0,0
+60200018,60200019,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Ancient Holy Fire? What’s that?,,0,0
+60200019,60200020,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,It’s the last ember left from the Creator God’s crafting of this world’s embryo.,,0,0
+60200020,60200021,,{translucent},,1,QBT0,HFSTS0,1,Cupid,What would I even do with something like that?,,0,0
+60200021,60200022,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"For example, you could create a world you desire or reshape your own divinity.",,0,0
+60200022,60200023,,{translucent},,1,QBT0,HFSTS0,1,Cupid,That sounds intriguing.,,0,0
+60200023,60200024,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Hehehe, that’s exactly my purpose here—those who seek the fire must undergo my trial.",,0,0
+60200024,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,So you want to spar with me? Just make sure you don’t back out if you lose!,,0,0
+60200025,60200026,,{translucent},,1,KES1,HFSTS0,2,Chaos,It seems the chosen one has finally arrived.,,0,0
+60200026,60200027,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Chaos? Don’t tell me you’re also here for that so-called Creator’s power.,,0,0
+60200027,60200028,,{translucent},,1,KES1,HFSTS0,2,Chaos,You guessed it right. I’m quite interested in the fate that originally belonged to you.,,0,0
+60200028,60200029,,{translucent},,1,QBT0,HFSTS0,1,Cupid,That’s some thievery.,,0,0
+60200029,60200030,,{translucent},,1,KES1,HFSTS0,2,Chaos,I don’t care how you see it; it’s not like this is the first time.,,0,0
+60200030,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"You’re surprisingly honest. Fine, if you’re eager for a fight, then let my arrows have some fun with you.",,0,0
+60200031,60200032,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"How boring. You won’t last long with just a few hits; I expected more of a challenge. Sigh, I might as well venture deeper and see if anything more interesting comes up.",,0,0
+60200032,60200033,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"Oh, what’s that glowing thing up ahead? It looks intriguing; I should check it out!",,0,0
+60200033,60200034,,{translucent},,1,MJL2,HFSTS0,2,Michael,"What little wings are fluttering around… Ah, it’s Cupid.",,0,0
+60200034,60200035,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Michael? Don’t tell me you’re also…,,0,0
+60200035,60200036,,{translucent},,1,MJL2,HFSTS0,2,Michael,"Looking for the Creator’s power? I’m not that ambitious. Besides, this Creator’s Sanctum is exclusive to you. Even a god like me can’t steal power from another’s illusion.",,0,0
+60200036,60200037,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"So, you’re here to test me?",,0,0
+60200037,60200038,,{translucent},,1,MJL2,HFSTS0,2,Michael,Not exactly. I just lost something in another dimension and accidentally ended up here while crossing worlds.,,0,0
+60200038,60200039,,{translucent},,1,MJL2,HFSTS0,2,Michael,"But speaking of trials, I’m quite interested in that. After all, it’s my duty to traverse various worlds and provide trials to different beings.",,0,0
+60200039,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"Hehe, perfect! I need a strong opponent to sharpen my archery skills!",,0,0
+60200040,60200041,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Finally reached my destination! Let’s see what treasure is glowing!,,0,0
+60200041,60200042,,{translucent},,1,QBT0,HFSTS0,1,Cupid,What? You… it’s you?!,,0,0
+60200042,60200043,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Haha, surprise! It’s quite the coincidence that as your destined moment approaches, you can't escape facing your fate with me.",,0,0
+60200043,60200044,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"Ugh, fine. What do you want this time?",,0,0
+60200044,60200045,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Before you obtain the Creator's power, let’s have another archery match.",,0,0
+60200045,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"I knew you were still sore about losing last time in the dreamland! If you want another round, I’m all in!",,0,0
+60200046,60200047,,{translucent},,1,QBT0,HFSTS0,1,Cupid,"Haha, didn’t expect me to win again, did you? So, are you convinced now?",,0,0
+60200047,60200048,,{translucent},,1,ABL0,HFSTS0,2,Apollo,It doesn’t matter; I’ve achieved my goal.,,0,0
+60200048,60200049,,{translucent},,1,QBT0,HFSTS0,1,Cupid,Goal? What goal?,,0,0
+60200049,60200050,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"I saw that Creator's power that belongs to you. I planted my light within it, and when it bears fruit, I’ll share in that power.",,0,0
+60200050,60200051,,{translucent},,1,QBT0,HFSTS0,1,Cupid,You really… I can’t even comment on you anymore.,,0,0
+60200051,60200052,,{translucent},,1,ABL0,HFSTS0,2,Apollo,That’s how it is! Enjoy your revival.,,0,0
+60200052,-1,,{translucent},,1,QBT0,HFSTS0,1,Cupid,I don’t feel any joy at all; you’ve ruined my good mood for the day!,,0,0
+60300001,60300002,,{translucent},,1,R0,HFSTS0,1,Ra,Is this the Creator’s realm I saw in my meditation? I seem to have a hazy memory of it… It feels like I’ve been here a long time ago.,,0,0
+60300002,60300003,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Yes, this is where the Creator God fashioned the first goddesses, where we were all born.",,0,0
+60300003,60300004,,{translucent},,1,R0,HFSTS0,1,Ra,Why are you here too?,,0,0
+60300004,60300005,,{translucent},,1,KES1,HFSTS0,2,Chaos,Of course! This is also my birthplace. Shouldn’t I come to see it?,,0,0
+60300005,60300006,,{translucent},,1,R0,HFSTS0,1,Ra,"Wherever you go, misfortune follows. I suggest you vanish while you can.",,0,0
+60300006,60300007,,{translucent},,1,KES1,HFSTS0,2,Chaos,"No need to be so fierce. My puppets will play with you first. Come on, Apollo, the time has come to claim the sun’s rightful legacy!",,0,0
+60300007,60300008,,{translucent},,1,R0,HFSTS0,1,Ra,What have you done to these goddesses?,,0,0
+60300008,-1,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Hehe, just wait and see.",,0,0
+60300009,60300010,,{translucent},,1,KES1,HFSTS0,2,Chaos,"What a pity, you’ve won again.",,0,0
+60300010,-1,,{translucent},,1,R0,HFSTS0,1,Ra,I advise you to stop scheming against me and leave.,,0,0
+60300011,60300012,,{translucent},,1,R0,HFSTS0,1,Ra,What is this place? I feel like…,,0,0
+60300012,60300013,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Are you remembering our past? We used to play here, running around, hiding… just like real sisters.",,0,0
+60300013,60300014,,{translucent},,1,R0,HFSTS0,1,Ra,Haven’t I already commanded you to leave?,,0,0
+60300014,60300015,,{translucent},,1,KES1,HFSTS0,2,Chaos,"We are one, just like light and shadow…",,0,0
+60300015,60300016,,{translucent},,1,KES1,HFSTS0,2,Chaos,Let me know if you need any adjustments or further assistance!,,0,0
+60300016,60300017,,{translucent},,1,WNS0,HFSTS0,2,Venus,Lord Chaos…,,0,0
+60300017,60300018,,{translucent},,1,R0,HFSTS0,1,Ra,I won’t be fooled by the illusions you create.,,0,0
+60300018,-1,,{translucent},,1,KES1,HFSTS0,2,Chaos,Then strike her down! Eliminate your closest companion!,,0,0
+60300019,60300020,,{translucent},,1,KES1,HFSTS0,2,Chaos,Your heart is truly hardened; you’re willing to sever ties with even those you hold dear.,,0,0
+60300020,60300021,,{translucent},,1,R0,HFSTS0,1,Ra,"Such tricks might work on those little goddesses, but I am a major deity—determined, strong, and decisive!",,0,0
+60300021,-1,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Alright, alright, I’ll find a way to break your defenses eventually.",,0,0
+60300022,60300023,,{translucent},,1,R0,HFSTS0,1,Ra,Are you still following me?,,0,0
+60300023,60300024,,{translucent},,1,KES1,HFSTS0,2,Chaos,"This place is also my birthplace. You can’t just expel me from my own home, can you?",,0,0
+60300024,60300025,,{translucent},,1,R0,HFSTS0,1,Ra,Then I’ll just tag along.,,0,0
+60300025,60300026,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Looks like I’m not the only one following you. Look, we have a visitor coming.",,0,0
+60300026,60300027,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Greetings, dear Ra—Lord of Egyptian Radiance.",,0,0
+60300027,60300028,,{translucent},,1,KES1,HFSTS0,2,Chaos,What brings you here?,,0,0
+60300028,60300029,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,I am the guardian of the Creator’s Sanctum and the keeper of this forbidden flame. I’m here to give everyone who walks this path a trial.,,0,0
+60300029,-1,,{translucent},,1,R0,HFSTS0,1,Ra,"A trial? Haha, I’ve always been the one giving trials to others… Well, let me see what your trial entails.",,0,0
+60300030,60300031,,{translucent},,1,R0,HFSTS0,1,Ra,So this is your trial? It seems I’ve passed.,,0,0
+60300031,-1,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Indeed, a true deity is unmatched in strength. Now, please accept my blessing!",,0,0
+60300032,60300033,,{translucent},,1,KES1,HFSTS0,2,Chaos,I didn’t realize how far we’ve come.,,0,0
+60300033,60300034,,{translucent},,1,R0,HFSTS0,1,Ra,"If you weren’t in my way, I might have had an easier time.",,0,0
+60300034,60300035,,{translucent},,1,KES1,HFSTS0,2,Chaos,The path to the throne is always filled with hardships and bitterness for a hero; don’t lose heart.,,0,0
+60300035,60300036,,{translucent},,1,R0,HFSTS0,1,Ra,What trick do you have up your sleeve this time?,,0,0
+60300036,60300037,,{translucent},,1,KES1,HFSTS0,2,Chaos,"I’ve prepared a gift for you… Horus, come forth!",,0,0
+60300037,60300038,,{translucent},,1,HLS0,HFSTS0,2,Horus,"At your service, Lord Chaos.",,0,0
+60300038,60300039,,{translucent},,1,R0,HFSTS0,1,Ra,You’re being a bit excessive.,,0,0
+60300039,-1,,{translucent},,1,KES1,HFSTS0,2,Chaos,Isn’t this just a perfect display of your leadership qualities?,,0,0
+60300040,60300041,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Oh, I didn’t expect you to go so hard on Horus—though he’s just an illusion.",,0,0
+60300041,-1,,{translucent},,1,R0,HFSTS0,1,Ra,"Next time you provoke me, think carefully about what the consequences will be!",,0,0
+60300042,60300043,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"You’ve finally arrived, Lady Ra. I’ve been waiting for you for quite some time.",,0,0
+60300043,60300044,,{translucent},,1,R0,HFSTS0,1,Ra,Amaterasu?,,0,0
+60300044,60300045,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,Our fates converge here… The sun not only illuminates your path but also mine.,,0,0
+60300045,60300046,,{translucent},,1,R0,HFSTS0,1,Ra,"It seems we must settle our long-standing differences here, although I wish I could delay it a bit longer.",,0,0
+60300046,60300047,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,That’s exactly what I was thinking.,,0,0
+60300047,60300048,,{translucent},,1,KES1,HFSTS0,2,Chaos,"It’s over; even if I don’t seek trouble, it finds me anyway.",,0,0
+60300048,-1,,{translucent},,1,R0,HFSTS0,1,Ra,Shut up!,,0,0
+60300049,60300050,,{translucent},,1,R0,HFSTS0,1,Ra,I believe we’ve determined the victor.,,0,0
+60300050,60300051,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"Since the sun’s light shines upon you, I need not say more. Until we meet again.",,0,0
+60300051,-1,,{translucent},,1,KES1,HFSTS0,2,Chaos,You’ve cleared another obstacle—aren’t you pleased? Don’t get too comfortable; there will be even more exciting challenges ahead!,,0,0
+60300052,60300053,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Congratulations, my queen! Congratulations on finally reaching this ultimate moment!",,0,0
+60300053,60300054,,{translucent},,1,R0,HFSTS0,1,Ra,What’s this? Are you finally dropping the act and ready to officially sever ties with me?,,0,0
+60300054,60300055,,{translucent},,1,KES1,HFSTS0,2,Chaos,You really have a knack for jokes. Our relationship was decided the moment we were born here. It’s either me consuming you or you annihilating me!,,0,0
+60300055,60300056,,{translucent},,1,R0,HFSTS0,1,Ra,"The Creator intended for you and me to maintain balance in the world, but your desire for my destruction is purely personal.",,0,0
+60300056,-1,,{translucent},,1,KES1,HFSTS0,2,Chaos,"After all these years of hearing your “lessons,” it’s time for you to be silenced forever!",,0,0
+60300057,60300058,,{translucent},,1,R0,HFSTS0,1,Ra,"You’ve plotted so much, yet in the end, you still failed.",,0,0
+60300058,60300059,,{translucent},,1,KES1,HFSTS0,2,Chaos,"Damn the Creator… even at this point, they still stand by your side! Fine, you’ve won. Now you can kill me and ascend!",,0,0
+60300059,60300060,,{translucent},,1,R0,HFSTS0,1,Ra,I think you misunderstand. My ascension doesn’t require anyone as a stepping stone. I inherit a power of peace—a force that nurtures and saves all.,,0,0
+60300060,60300061,,{translucent},,1,R0,HFSTS0,1,Ra,"This world still needs you. A night sky is incomplete without darkness, and the merciless sun will scorch everything on the ground.",,0,0
+60300061,-1,,{translucent},,1,R0,HFSTS0,1,Ra,"Now, return! Join me in witnessing the birth of a new world!",,0,0
+60400001,60400002,,{translucent},,1,KES1,HFSTS0,1,Chaos,"I never expected it would take so long to unlock the gates of the Seventh Divine Realm, but no matter—soon, the Creator’s legacy will be mine.",,0,0
+60400002,60400003,,{translucent},,1,ARS0,HFSTS0,2,Ares,"Don’t speak too soon, Chaos. You’ll have to get through me first if you want the Creator’s power!",,0,0
+60400003,60400004,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Isn’t this the troublemaker of the Greek pantheon? I must say, I didn’t expect to see you here.",,0,0
+60400004,60400005,,{translucent},,1,ARS0,HFSTS0,2,Ares,"Surprised? I thought, as the goddess of chaos, there wasn’t much left that could surprise you.",,0,0
+60400005,60400006,,{translucent},,1,KES1,HFSTS0,1,Chaos,"In a place where only great wisdom grants an audience with the Creator, it’s rare to find someone who prefers to settle things with their fists.",,0,0
+60400006,-1,,{translucent},,1,ARS0,HFSTS0,2,Ares,"Enough talk. Rather than boasting, let’s prove with sword and steel who’s truly worthy of the Creator’s favor!",,0,0
+60400007,60400008,,{translucent},,1,ARS0,HFSTS0,2,Ares,"In the end, I can’t believe I lost to you… Your abilities have grown significantly since entering the Seventh Divine Realm.",,0,0
+60400008,60400009,,{translucent},,1,KES1,HFSTS0,1,Chaos,But your rebellious spirit hasn’t changed a bit. Maybe bringing you along to meet the Creator will make things more interesting.,,0,0
+60400009,60400010,,{translucent},,1,ARS0,HFSTS0,2,Ares,Hmph… Don’t expect much loyalty from me. You may regret this.,,0,0
+60400010,-1,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Heh… I thrive on uncertainty, especially the kind that brings danger.",,0,0
+60400011,60400012,,{translucent},,1,QBT0,HFSTS0,2,Cupid,Chaos? Don’t tell me you’re also here for that so-called Creator’s power.,,0,0
+60400012,60400013,,{translucent},,1,KES1,HFSTS0,1,Chaos,You guessed right. I have a keen interest in the fate that was once destined for the gods.,,0,0
+60400013,60400014,,{translucent},,1,QBT0,HFSTS0,2,Cupid,That’s the behavior of a thief.,,0,0
+60400014,60400015,,{translucent},,1,KES1,HFSTS0,1,Chaos,I don’t care how you see it; it’s not like this is the first time.,,0,0
+60400015,-1,,{translucent},,1,QBT0,HFSTS0,2,Cupid,"You’re surprisingly honest. Fine, if you’re eager for a fight, then let my arrows have some fun with you.",,0,0
+60400016,60400017,,{translucent},,1,QBT0,HFSTS0,2,Cupid,"Stop, stop! You really don’t hold back, do you?",,0,0
+60400017,60400018,,{translucent},,1,KES1,HFSTS0,1,Chaos,Of course not. I wouldn’t want the Creator’s power falling into the hands of a reckless brat like you.,,0,0
+60400018,60400019,,{translucent},,1,QBT0,HFSTS0,2,Cupid,"Even if I lose, I’ll keep my eyes on you until I figure out what kind of trouble you plan to stir with that power!",,0,0
+60400019,-1,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Whatever. If I decide to cause trouble, I’ll do it out in the open.",,0,0
+60400020,60400021,,{translucent},,1,HL0,HFSTS0,2,Hera,"Where are you headed, Chaos? This is the Queen’s garden.",,0,0
+60400021,60400022,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Relax, Hera, I’m just passing through.",,0,0
+60400022,60400023,,{translucent},,1,HL0,HFSTS0,2,Hera,"You’re going to see the Creator, aren’t you? Such a threat to divine authority is too dangerous. I can’t open the path to the Creator’s altar for you.",,0,0
+60400023,60400024,,{translucent},,1,KES1,HFSTS0,1,Chaos,"My dear, I pave my own path. The only difference is how many obstacles I blast away with divine power along the way.",,0,0
+60400024,-1,,{translucent},,1,HL0,HFSTS0,2,Hera,"Very well, let’s see if you can.",,0,0
+60400025,60400026,,{translucent},,1,KES1,HFSTS0,1,Chaos,"The battle’s over, Hera. I hope you don’t mind the little hole I put in your garden wall during our fight.",,0,0
+60400026,-1,,{translucent},,1,HL0,HFSTS0,2,Hera,...,,0,0
+60400027,60400028,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"Chaos, it’s time to settle the old scores between the generations of Greek gods.",,0,0
+60400028,60400029,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Ah, the last person I wanted to see has arrived.",,0,0
+60400029,60400030,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"The Creator’s power in the Seventh Divine Realm rightfully belongs to the current rulers, not you.",,0,0
+60400030,60400031,,{translucent},,1,KES1,HFSTS0,1,Chaos,Oh really? You and Hera would only waste such immense power on trivial pursuits that serve nothing but your vanity.,,0,0
+60400031,60400032,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"Isn’t that rich, coming from you? As the eldest daughter of Chaos, didn’t you once wield great power for nothing more than your own amusement?",,0,0
+60400032,60400033,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Heh… The old power was just for fun, but the Creator’s legacy? That, I intend to use for something earth-shattering.",,0,0
+60400033,-1,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"That sounds dangerous. As the reigning king of gods, I’m afraid I’ll have to stop you.",,0,0
+60400034,60400035,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"You’ve won. So, tell me, what do you plan to do with the Creator’s power? Seize my divine authority, or throw Olympus into chaos once again?",,0,0
+60400035,60400036,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Honestly, I have no interest in divine authority. For someone who values freedom like I do, it’s more of a burden than anything.",,0,0
+60400036,60400037,,{translucent},,1,ZS0,HFSTS0,2,Zeus,Then what is it that you want? You’re so unpredictable—always leaving us guessing what mischief you have in mind…,,0,0
+60400037,-1,,{translucent},,1,KES1,HFSTS0,1,Chaos,"I’m not sure yet. But maybe, once I have the Creator’s power, I’ll finally have an answer.",,0,0
+60400038,60400039,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Halt! Chaos, the Seventh Divine Realm has no place for beings like you!",,0,0
+60400039,60400040,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Apollo, I figured you’d be standing like a stone, blocking the path to the altar. Do you really find it that entertaining to constantly oppose me?",,0,0
+60400040,60400041,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"A powerful being like you, acting without warning… The thought of you obtaining the Creator’s power is terrifying.",,0,0
+60400041,60400042,,{translucent},,1,KES1,HFSTS0,1,Chaos,"So, as the guardian of order, you’re destined to stop me. Am I wrong?",,0,0
+60400042,60400043,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Since you already know, prepare to face your fate.",,0,0
+60400043,-1,,{translucent},,1,KES1,HFSTS0,1,Chaos,You’ll soon see exactly how I face fate.,,0,0
+60400044,60400045,,{translucent},,1,ABL0,HFSTS0,2,Apollo,How is this possible… Could the Creator really be willing to entrust their power to a dangerous god like you?,,0,0
+60400045,60400046,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Nothing is ever certain, my dear. Who knows, maybe the Creator has a sense of humor.",,0,0
+60400046,60400047,,{translucent},,1,ABL0,HFSTS0,2,Apollo,I won’t believe it until I see the Creator’s power handed over to you with my own eyes.,,0,0
+60400047,-1,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Then why don’t you come with me, and we can ask them ourselves?",,0,0
+60400048,60400049,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Save your strength, Goddess of Wisdom. You should know that with your power alone, you can’t activate this altar!",,0,0
+60400049,60400050,,{translucent},,1,YDN0,HFSTS0,2,Athena,"It seems you know more than I anticipated, Chaos.",,0,0
+60400050,60400051,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Just like me, you’ve defeated countless goddesses to earn the right to stand before this altar.",,0,0
+60400051,60400052,,{translucent},,1,YDN0,HFSTS0,2,Athena,"And the way to activate it and claim the Creator’s power… is by defeating you, right?",,0,0
+60400052,60400053,,{translucent},,1,KES1,HFSTS0,1,Chaos,"You’ve only guessed half of it, because the one who’ll fall here is you.",,0,0
+60400053,-1,,{translucent},,1,YDN0,HFSTS0,2,Athena,Interesting. Let’s see who the Creator’s power truly chooses as its rightful heir!,,0,0
+60400054,60400055,,{translucent},,1,KES1,HFSTS0,1,Chaos,"Give it up, Athena. You’re not the Chosen One in this timeline. Here, you’re merely one of the Creator’s apostles, helping me fulfill my destiny.",,0,0
+60400055,60400056,,{translucent},,1,YDN0,HFSTS0,2,Athena,It seems that’s true. There’s no need for me to linger any longer.,,0,0
+60400056,60400057,,{translucent},,1,KES1,HFSTS0,1,Chaos,Go seek your own world in other timelines; my intuition tells me… you’ll find it eventually.,,0,0
+60400057,60400058,,{translucent},,1,YDN0,HFSTS0,2,Athena,"Before we part, I’m curious about what you plan to do with the Creator’s power?",,0,0
+60400058,60400059,,{translucent},,1,KES1,HFSTS0,1,Chaos,Heh… I’m a spontaneous person. Perhaps I’ll spend a few centuries pondering that question first.,,0,0
+60400059,60400060,,{translucent},,1,YDN0,HFSTS0,2,Athena,I hope you find your own purpose and don’t let the Creator’s expectations go unmet.,,0,0
+60400060,-1,,{translucent},,1,KES1,HFSTS0,1,Chaos,"As you say, Goddess of Wisdom.",,0,0
+60500001,60500002,,{translucent},,1,YKLS0,HL0,1,Icarus,"The gate of the Seventh Divine Realm, a sanctuary buried in truth, finally welcoming me with open doors.",,0,0
+60500002,60500003,,{translucent},,1,YDN0,HFSTS0,2,Athena,"Icarus, halt your steps! The truth you seek will only lead to your destruction. Its searing blaze will melt your wings, casting you back into the abyss.",,0,0
+60500003,60500004,,{translucent},,1,YKLS0,HL0,1,Icarus,"Athena, it’s too late for words now; you know my resolve is unwavering.",,0,0
+60500004,60500005,,{translucent},,1,YDN0,HFSTS0,2,Athena,"The truth you chase is not worth another sacrifice. True knowledge does not mean perishing in its pursuit, but rather finding life in its revelation.",,0,0
+60500005,60500006,,{translucent},,1,YKLS0,HL0,1,Icarus,That path is not mine to follow. I would rather burn out than cling to an incomplete light. You are the guardian of seekers—why do you try to bar my way?,,0,0
+60500006,60500007,,{translucent},,1,YDN0,HFSTS0,2,Athena,Because I can see further. Your spirit cannot bear the weight of the truth.,,0,0
+60500007,60500008,,{translucent},,1,YKLS0,HL0,1,Icarus,Then let me prove to you that truth is worth any cost.,,0,0
+60500008,60500009,,{translucent},,1,YDN0,HFSTS0,2,Athena,"Very well… if you can best me, I shall acknowledge your conviction and aid you in claiming the Creator’s legacy. Are you prepared to face me?",,0,0
+60500009,-1,,{translucent},,1,YKLS0,HL0,1,Icarus,I have been prepared for a long time.,,0,0
+60500010,60500011,,{translucent},,1,YDN0,HFSTS0,2,Athena,"I thought my understanding of truth had transcended the mundane… yet, I still lost to you.",,0,0
+60500011,60500012,,{translucent},,1,YKLS0,HL0,1,Icarus,What I possess is merely an unwavering conviction. Today’s victory comes only because truth has accepted me.,,0,0
+60500012,60500013,,{translucent},,1,YDN0,HFSTS0,2,Athena,"Perhaps so. I once saw your life as a fleeting spark, but it seems I was mistaken.",,0,0
+60500013,-1,,{translucent},,1,YKLS0,HL0,1,Icarus,"I hope you will accompany me, to witness the moment when my soul stands before the truth.",,0,0
+60500014,60500015,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"You’re in the wrong place, Icarus. In the name of the Creator’s will, I shall end your journey here.",,0,0
+60500015,60500016,,{translucent},,1,YKLS0,HL0,1,Icarus,"Prometheus, you once brought fire to humanity. Wasn’t your flame meant to carry truth as well?",,0,0
+60500016,60500017,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,And yet I regret it. The price of flame is beyond what mortals can bear. Truth only leads them down a path of destruction.,,0,0
+60500017,60500018,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"I understand your resolve, but perhaps you’ve forgotten what it was to fly toward the sun. Don’t you remember how that journey ended?",,0,0
+60500018,60500019,,{translucent},,1,YKLS0,HL0,1,Icarus,"I won’t fear it, nor will the humans who struggle in the darkness.",,0,0
+60500019,60500020,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,Your craving for truth is merely an impulsive reach into the unknown. Have you ever considered whether humanity can truly withstand its blazing light?,,0,0
+60500020,60500021,,{translucent},,1,YKLS0,HL0,1,Icarus,"The divine realm has fallen into despair, and the gods are fractured. Only by claiming the Creator’s truth can I hope to save it all!",,0,0
+60500021,-1,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"If that’s your choice, then let me see if your resolve can burn as eternally as my flames.",,0,0
+60500022,60500023,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"I underestimated your resolve and your relentless pursuit of truth. Fire once brought hope to humanity; perhaps your light can, too…",,0,0
+60500023,60500024,,{translucent},,1,YKLS0,HL0,1,Icarus,"I don’t expect everyone, mortal or god, to understand me. But I am prepared to burn once more for this truth.",,0,0
+60500024,-1,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Then let the will of the flame guide you forward. Just remember—where the light shines brightest, shadows deepen…",,0,0
+60500025,60500026,,{translucent},,1,FLY2,HFSTS0,2,Freyja,"Icarus of Greece, I’ve heard your name. You don’t belong to this land, yet you’ve crossed realms in search of the power of truth.",,0,0
+60500026,60500027,,{translucent},,1,FLY2,HFSTS0,2,Freyja,But do you truly understand that truth isn’t just radiant light? It brings boundless chaos and destruction as well.,,0,0
+60500027,60500028,,{translucent},,1,YKLS0,HL0,1,Icarus,"I don’t fear chaos, Freya. What I seek is not destruction, but to rekindle the light across the realms of gods and mortals.",,0,0
+60500028,60500029,,{translucent},,1,FLY2,HFSTS0,2,Freyja,"Do you really believe truth can be serene, like a still mirror? The gods once pursued it too, only to find chaos and conflict in its wake… especially now that even the Creator has vanished.",,0,0
+60500029,60500030,,{translucent},,1,FLY2,HFSTS0,2,Freyja,Truth unchecked will only shatter order—just as we see happening now.,,0,0
+60500030,60500031,,{translucent},,1,YKLS0,HL0,1,Icarus,"Then let me be the one to restore that order! If you doubt my strength, allow me to prove my worth through battle.",,0,0
+60500031,-1,,{translucent},,1,FLY2,HFSTS0,2,Freyja,"I admire your resolve, but determination alone is insufficient. If you truly deserve the Creator’s power, then you’ll prove it by defeating me.",,0,0
+60500032,60500033,,{translucent},,1,FLY2,HFSTS0,2,Freyja,"You indeed have the strength to pursue truth, but strength alone is not enough. Only restraint brings true salvation.",,0,0
+60500033,-1,,{translucent},,1,YKLS0,HL0,1,Icarus,"I understand, Norse goddess of magic and war. If I truly gain the Creator’s power, I will not forget my duty to uphold order.",,0,0
+60500034,60500035,,{translucent},,1,R0,HFSTS0,2,Ra,"Icarus, do you truly understand what lies ahead? Your determination is admirable, but no god will let you pass so easily.",,0,0
+60500035,60500036,,{translucent},,1,YKLS0,HL0,1,Icarus,"I am fully aware of the path I’ve chosen and the trials ahead. Yet, I believe that my conviction will see me through any obstacle.",,0,0
+60500036,60500037,,{translucent},,1,R0,HFSTS0,2,Ra,"Conviction is only the beginning. True truth demands courage, compassion, and wisdom to wield it. The Creator has set these trials for you, and I am one of them.",,0,0
+60500037,60500038,,{translucent},,1,YKLS0,HL0,1,Icarus,"Courage, you say? When I flew toward the sun, I fell, but I never regretted it. If this path demands a price, then so be it—it’s my destiny.",,0,0
+60500038,-1,,{translucent},,1,R0,HFSTS0,2,Ra,"Before you face the other embodiments of the sun and light, let me be the first to test your courage…",,0,0
+60500039,60500040,,{translucent},,1,R0,HFSTS0,2,Ra,It seems you truly possess all that I require. Let’s go then—take this courage and face the remaining embodiments of the sun.,,0,0
+60500040,-1,,{translucent},,1,YKLS0,HL0,1,Icarus,Thank you for your approval. I will hold fast to the light within me and honor the Creator’s trials today.,,0,0
+60500041,60500042,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"Icarus, you’ve pressed forward, fighting for truth and redemption. But when truth is misused, it often becomes a source of calamity.",,0,0
+60500042,60500043,,{translucent},,1,YKLS0,HL0,1,Icarus,"I understand your doubts, Lady Amaterasu. Many who have sought to wield truth with pride have ultimately been lost to the power it brings.",,0,0
+60500043,60500044,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"You say you won’t misuse the Creator’s power, but do you truly understand the essence of compassion?",,0,0
+60500044,60500045,,{translucent},,1,YKLS0,HL0,1,Icarus,"I do. Compassion means setting aside selfish desires and aligning with the fate of all things. If I cannot prove this, then I am unworthy of approaching the truth.",,0,0
+60500045,-1,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"Then let me witness your resolve. If you can remain uncorrupted by this power in battle, I shall acknowledge your determination.",,0,0
+60500046,60500047,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"It seems my doubts were unfounded. You stayed true to your heart, showing restraint even in battle—a testament to your unwavering belief in compassion.",,0,0
+60500047,-1,,{translucent},,1,YKLS0,HL0,1,Icarus,"As you said, I will hold compassion at my core and illuminate the path ahead for both humanity and the gods.",,0,0
+60500048,60500049,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Icarus, I admire your commitment to what you call ‘truth,’ but what you possess is merely fearless courage and blind determination.",,0,0
+60500049,60500050,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Only wisdom can allow you to hold onto yourself in the face of truth. Tell me, in your eyes, what is wisdom?”",,0,0
+60500050,60500051,,{translucent},,1,YKLS0,HL0,1,Icarus,True wisdom isn’t just knowledge or judgment. It’s courage without chaos and resolve without rashness.,,0,0
+60500051,60500052,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"You speak well, but to me, these are just words. Many gods once believed themselves wise, only to become slaves to desire and meet their end.",,0,0
+60500052,60500053,,{translucent},,1,YKLS0,HL0,1,Icarus,"As you said, true wisdom should guide justice and hope, not be lost in the allure of power.",,0,0
+60500053,-1,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Words alone don’t constitute wisdom; only through trial can wisdom be proven. If you truly understand, you’ll survive my test!",,0,0
+60500054,60500055,,{translucent},,1,ABL0,HFSTS0,2,Apollo,Your courage is not as blind as I thought… Perhaps you’re closer to truth than I imagined.,,0,0
+60500055,60500056,,{translucent},,1,YKLS0,HL0,1,Icarus,"Wisdom should serve to establish order, not personal desire. Without this clarity, truth would be meaningless to me.",,0,0
+60500056,60500057,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"I acknowledge that you’ve passed the test. Your wisdom, refined by perseverance, has lifted you beyond mere determination.",,0,0
+60500057,60500058,,{translucent},,1,YKLS0,HL0,1,Icarus,"I will remember your words and wield the Creator’s power with courage, compassion, and wisdom.",,0,0
+60500058,-1,,{translucent},,1,ABL0,HFSTS0,2,Apollo,Then ignite the flames of the altar and accept the Creator’s legacy. But know this—the trials of fate are only beginning…,,0,0
+60600001,60600002,,{translucent},,1,HYJ0,HFSTS0,2,Princess Kaguya,"So, you’ve come. A shame, for fate never guided you here.",,0,0
+60600002,60600003,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"‘Fate’ is nothing more than a cruel joke. My land is cursed, my people cry out in suffering. Do you expect me to simply stand by and watch?",,0,0
+60600003,60600004,,{translucent},,1,HYJ0,HFSTS0,2,Princess Kaguya,But power is never granted without condition. Redemption… is never simple. There are always costs.,,0,0
+60600004,60600005,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"I understand the cost. From the moment I took this position, I was prepared. Kaguya, you know my resolve—don’t try to stop me again.",,0,0
+60600005,60600006,,{translucent},,1,HYJ0,HFSTS0,2,Princess Kaguya,"Forgive my insolence. If you insist on moving forward, then… be ready to face the consequences.",,0,0
+60600006,-1,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Consequences are no longer mine to choose. The path I walk leads only forward—there is no turning back.,,0,0
+60600007,60600008,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Now, you’ve seen my determination. My people cannot wait any longer.",,0,0
+60600008,-1,,{translucent},,1,HYJ0,HFSTS0,2,Princess Kaguya,"Victory is not an end, but a beginning. Good luck to you.",,0,0
+60600009,60600010,,{translucent},,1,LH0,HFSTS0,2,Ember Dragon,"You can’t even break free from the illusion before you, yet you dare to dream of saving your kingdom?",,0,0
+60600010,60600011,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Who are you? Why are you here?,,0,0
+60600011,60600012,,{translucent},,1,LH0,HFSTS0,2,Ember Dragon,"That doesn’t matter. If you wish to be a savior, then show your courage. Defeat me, and prove you’re worthy of wielding this divine power.",,0,0
+60600012,-1,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Illusion or specter, whatever stands in my way will be shattered!",,0,0
+60600013,60600014,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Ember Dragon… it’s you!,,0,0
+60600014,60600015,,{translucent},,1,LH0,HFSTS0,2,Ember Dragon,"So, you’ve finally remembered. It seems this battle has awakened you from your nightmare.",,0,0
+60600015,60600016,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Thank you! Both in the past and now, you’ve guided me whenever I lost my way.",,0,0
+60600016,-1,,{translucent},,1,LH0,HFSTS0,2,Ember Dragon,"Go forth, Himiko. No matter how dark the path ahead… I will always be here.",,0,0
+60600017,60600018,,{translucent},,1,MY0,HFSTS0,2,Nekomata,"Lady Himiko, you’re not allowed to go any further—unless you’ve brought me some dried fish.",,0,0
+60600018,60600019,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Nekomata, step aside. I don’t have time for your games!",,0,0
+60600019,60600020,,{translucent},,1,MY0,HFSTS0,2,Nekomata,"Oh my, so cold-hearted. But it was you who invited me here, wasn’t it?",,0,0
+60600020,-1,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Hmph… I know that everything in this sacred realm is a fantasy born of my will. And that means I’m free to teach you a lesson here.,,0,0
+60600021,60600022,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Ah… perhaps I went a little too hard on you, little cat.",,0,0
+60600022,60600023,,{translucent},,1,MY0,HFSTS0,2,Nekomata,"You do realize that borrowing divine power comes with a heavy price, don’t you?",,0,0
+60600023,60600024,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Fate has pushed me this far, leaving no room to turn back. And I will not falter!",,0,0
+60600024,-1,,{translucent},,1,MY0,HFSTS0,2,Nekomata,Lady Himiko… you’re as hopelessly stubborn as ever.,,0,0
+60600025,60600026,,{translucent},,1,R0,HFSTS0,2,Ra,"Do not approach the Creator’s power. It is beyond your control, and the cost of touching it far exceeds what you can bear.",,0,0
+60600026,60600027,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"My land has fallen into the abyss, my people suffer endlessly. To save them, I am willing to give everything.",,0,0
+60600027,60600028,,{translucent},,1,R0,HFSTS0,2,Ra,"Everyone who seeks divine power says the same, but such power is never given freely. Show me your resolve.",,0,0
+60600028,60600029,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"I do not fear trials. Be it gods or destiny, whatever stands in my way will be crushed.",,0,0
+60600029,-1,,{translucent},,1,R0,HFSTS0,2,Ra,Then come. Let the light bear witness to your determination.,,0,0
+60600030,60600031,,{translucent},,1,R0,HFSTS0,2,Ra,"You have proven your resolve, but never forget—divine power is like fire. It can illuminate the darkness, but it can also consume everything. Do not let your desires devour you.",,0,0
+60600031,60600032,,{translucent},,1,BMH0,HFSTS0,1,Himiko,I understand. Redemption is never easy. I will hold true to my purpose.,,0,0
+60600032,-1,,{translucent},,1,R0,HFSTS0,2,Ra,May the light guide you… until the very end.,,0,0
+60600033,60600034,,{translucent},,1,HMDE2,HFSTS0,2,Heimdall,This ends here. Such power is not meant for mortals to wield.,,0,0
+60600034,60600035,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Mortals? Gods are nothing more than powerful humans. Can’t you see through that hollow boundary?,,0,0
+60600035,60600036,,{translucent},,1,HMDE2,HFSTS0,2,Heimdall,"Is your arrogance the fuel for your journey, or the chains that bind you?",,0,0
+60600036,60600037,,{translucent},,1,BMH0,HFSTS0,1,Himiko,I believe it’s the former! Nothing in this world has ever shackled me—not even the Creator will succeed!,,0,0
+60600037,60600038,,{translucent},,1,HMDE2,HFSTS0,2,Heimdall,The Creator’s power is impartial and unyielding. It can bring greatness but also lead to ruin.,,0,0
+60600038,-1,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Then I will use this power to restore the greatness of my kingdom and my will!,,0,0
+60600039,60600040,,{translucent},,1,HMDE2,HFSTS0,2,Heimdall,"Remember this: true strength lies in protecting all, not in destruction.",,0,0
+60600040,-1,,{translucent},,1,BMH0,HFSTS0,1,Himiko,Protection and destruction are two sides of the same coin. The path I walk is mine alone to choose.,,0,0
+60600041,60600042,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"Stop right there, Himiko! If you take on the Creator’s power, you’ll be like a moth drawn to flame—what emerges will never be the same. Are you truly prepared for this?",,0,0
+60600042,60600043,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"Darkness has consumed my land. Crops have withered, sickness spreads unchecked… only the Creator’s power can dispel this curse.",,0,0
+60600043,60600044,,{translucent},,1,BMH0,HFSTS0,1,Himiko,"If I must become the fire, then I will burn until the earth is reborn.",,0,0
+60600044,-1,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,Very well. Then prove it. Awaken this power with your resolve—let the heavens witness whether your conviction is truly unshakable.,,0,0
+60600045,60600046,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,Divine power favors no one and bends to no desires. Never forget your original purpose.,,0,0
+60600046,60600047,,{translucent},,1,BMH0,HFSTS0,1,Himiko,I will wield the Creator’s power to banish this darkness forever!,,0,0
+60600047,60600048,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,"Go, Himiko. Let this light become a blazing fire, scorching away every shadow on the barren fields of destiny.",,0,0
+60600048,-1,,{translucent},,1,BMH0,HFSTS0,1,Himiko,I will not betray your trust.,,0,0
+60700001,60700002,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"This is the entrance to the Seventh Divine Realm. Even though I have lost much of my divine power, the Creator has not abandoned me.",,0,0
+60700002,60700003,,{translucent},,1,MJL0,HFSTS0,2,Michael,"Raphael? What are you doing here, and… has your angelic power been restored?",,0,0
+60700003,60700004,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"I can sense the Creator’s call, guiding me to inherit His power and bring redemption and a new order to this world.",,0,0
+60700004,60700005,,{translucent},,1,MJL0,HFSTS0,2,Michael,"However, you still need to reach the altar deep within the divine realm to claim the Creator’s legacy. There are many strong enemies waiting for you along the way…",,0,0
+60700005,60700006,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,I believe I now possess the strength to face them.,,0,0
+60700006,-1,,{translucent},,1,MJL0,HFSTS0,2,Michael,Very well… I can feel your resolve. Let me see how much your power has returned.,,0,0
+60700007,60700008,,{translucent},,1,MJL0,HFSTS0,2,Michael,"To be able to overcome me, fighting with all my might, means your strength far exceeds that of an average angel…",,0,0
+60700008,60700009,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"As part of the angelic order, I may not be a perfect arbiter on the battlefield, but I will undoubtedly be a steadfast protector.",,0,0
+60700009,60700010,,{translucent},,1,MJL0,HFSTS0,2,Michael,"Let me accompany you to the altar. After all, no matter the challenge, you’ll always need the aid of an ally, won’t you?",,0,0
+60700010,-1,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"As you say, it would be an honor.",,0,0
+60700011,60700012,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,The Gatekeeper of Purgatory… Uriel? Are you here to stop me from obtaining the Creator’s legacy?,,0,0
+60700012,60700013,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"Your tolerance and peace are too weak. You wish to redeem this world, yet you fail to understand that once a sin is committed, it cannot be erased.",,0,0
+60700013,60700014,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,Those sinners do not deserve forgiveness. They must face punishment to ensure justice for all.,,0,0
+60700014,60700015,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"Your version of justice is nothing but punishment. It may instill fear, but it cannot heal the wounds of the world. Without mercy and redemption, the world will forever spiral in this cycle of decay.",,0,0
+60700015,60700016,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,Your so-called redemption cannot make sinners repent. Only punishment can make them truly remember what is forbidden and what is just.,,0,0
+60700016,-1,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"I understand your doubts, but this does not restore true order. If you believe violence is the only solution, then show me your weapon!",,0,0
+60700017,60700018,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"I have never seen someone so steadfast… You remain unmoved in such a fierce battle. You don’t seem like a redeemer at all, hehe…",,0,0
+60700018,60700019,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,I am not without the ability to punish. It’s just that what I believe in is a different path—one of tolerance and change.,,0,0
+60700019,-1,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"I always thought that without the power of an angel, you could never rise again. But you are more resolute than I imagined… I’ll accept your choice.",,0,0
+60700020,60700021,,{translucent},,1,HMDE0,HFSTS0,2,Heimdall,"Halt, Archangel. I do not believe you are worthy of inheriting the Creator’s legacy.",,0,0
+60700021,60700022,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"Heimdall, Asgard’s mightiest guardian, our ideals do not conflict. Why stand in my way?",,0,0
+60700022,60700023,,{translucent},,1,HMDE0,HFSTS0,2,Heimdall,"Raphael, your faith may be noble, but it is too broad. Not everyone is deserving of sympathy.",,0,0
+60700023,60700024,,{translucent},,1,HMDE0,HFSTS0,2,Heimdall,"Protection is not indiscriminate charity. As an angel who once lost your powers, you lack the strength to save the entire world.",,0,0
+60700024,60700025,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"No… Everything I’ve sacrificed was to uphold my ideals. If you deem it foolish, let my actions prove otherwise.",,0,0
+60700025,-1,,{translucent},,1,HMDE0,HFSTS0,2,Heimdall,A battle with me will show you that no one’s strength is infinite. To strive for equal salvation for all will ultimately mean saving no one.,,0,0
+60700026,60700027,,{translucent},,1,HMDE0,HFSTS0,2,Heimdall,"Though I may not fully agree with your ideals, I must admit, no one has ever broken through my defenses so effortlessly.",,0,0
+60700027,60700028,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"I do not seek your approval, only your understanding. I fight for this world’s future, for the countless lives yet unprotected, and for hopes still beyond reach.",,0,0
+60700028,-1,,{translucent},,1,HMDE0,HFSTS0,2,Heimdall,"Words and actions are not the same. Yet, I will grant you this chance to see if you truly have what it takes to inherit the Creator’s power and reshape this world.",,0,0
+60700029,60700030,,{translucent},,1,HLS0,HFSTS0,2,Horus,"Archangel Raphael, the Creator has willed me to end your cycle of life and death.",,0,0
+60700030,60700031,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"The supreme guardian of Egypt… Horus? As the god who governs life, death, and truth, I suspected you’d stand in my way.",,0,0
+60700031,60700032,,{translucent},,1,HLS0,HFSTS0,2,Horus,"The world’s order is built upon the cycle of life and death. Without death or suffering, salvation loses its meaning.",,0,0
+60700032,60700033,,{translucent},,1,HLS0,HFSTS0,2,Horus,"Every life that begins inevitably leads to death—this is the law of the universe. You seek to overturn it, but can you truly bear the consequences of such power?",,0,0
+60700033,60700034,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,The wars among the gods have shattered the world. Death has already engulfed the land. I am confident I can end this chaos and bring salvation.,,0,0
+60700034,-1,,{translucent},,1,HLS0,HFSTS0,2,Horus,"Interesting. If you are indeed the one capable of breaking this endless cycle of life and death, bringing miracles to this world, then you must prove yourself worthy by overcoming me!",,0,0
+60700035,60700036,,{translucent},,1,HLS0,HFSTS0,2,Horus,"You’ve truly surprised me, Raphael. Had I not faced you personally, I would never have believed anyone could defeat Egypt’s supreme guardian.",,0,0
+60700036,60700037,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"Horus, the cycle of life and death is indeed a natural law. I do not intend to destroy it but to create a world without violence or strife.",,0,0
+60700037,60700038,,{translucent},,1,HLS0,HFSTS0,2,Horus,"You’ve proven to me that you are ready to shoulder this responsibility. I hope that once you inherit the Creator’s power, you will fulfill your promise.",,0,0
+60700038,-1,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,I will not falter.,,0,0
+60700039,60700040,,{translucent},,1,BMH0,HFSTS0,2,Himiko,"Raphael, leader of the archangels, your path of salvation ends here. The Creator’s legacy cannot fall into your hands.",,0,0
+60700040,60700041,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"The greatest exorcist miko of Yamato… I have no desire to fight you, but I hope you understand the gravity of my mission.",,0,0
+60700041,60700042,,{translucent},,1,BMH0,HFSTS0,2,Himiko,"Your ideals may seem noble, but they are too weak. Justice cannot be achieved through mere endurance—it naturally arises as evil is eradicated.",,0,0
+60700042,60700043,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"Eliminating evil may temporarily banish darkness, but it cannot prevent its rebirth.",,0,0
+60700043,60700044,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"We must change the hearts of sinners; otherwise, we are merely removing weeds without planting new seeds. Peace will remain a hollow dream.",,0,0
+60700044,-1,,{translucent},,1,BMH0,HFSTS0,2,Himiko,"That’s because you lack the strength to confront the darkness. If we cannot reach an understanding, let us prove our beliefs through action.",,0,0
+60700045,60700046,,{translucent},,1,BMH0,HFSTS0,2,Himiko,"To think there exists something my blade cannot cut… You’ve truly surprised me, Archangel. It seems you were not fighting me with your full strength.",,0,0
+60700046,60700047,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,Everything I’ve done is to pull this world back from the abyss. I only wanted to demonstrate my resolve to you.,,0,0
+60700047,-1,,{translucent},,1,BMH0,HFSTS0,2,Himiko,"I still believe that thoroughly eradicating evil will bring a faster dawn, but now, I’m willing to see if your will can truly earn the Creator’s recognition.",,0,0
+60700048,60700049,,{translucent},,1,AXL0,HFSTS0,2,Asura,"Savior of all creation, Archangel Raphael, the Warlord of Purgatory welcomes your arrival.",,0,0
+60700049,60700050,,{translucent},,1,AXL0,HFSTS0,2,Asura,"But your mission ends here, for true strength is forged through the crucible of war, the trials of blood and fire—not salvation and peace.",,0,0
+60700050,60700051,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"Asura, the strength born of destruction is fleeting. A world built on war is doomed to collapse.",,0,0
+60700051,60700052,,{translucent},,1,AXL0,HFSTS0,2,Asura,"You are too naive. Survival of the fittest is the law of nature, the foundation of true order. Your ideals only serve to stagnate the world.",,0,0
+60700052,60700053,,{translucent},,1,AXL0,HFSTS0,2,Asura,"Only through the forge of war and the rise of the victor can a new future be created. You lack the will to fight, clinging to fragile beliefs!",,0,0
+60700053,60700054,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"If you think the “might makes right” philosophy can reshape the world, I’ll defeat you on your terms.",,0,0
+60700054,-1,,{translucent},,1,AXL0,HFSTS0,2,Asura,Good. Show me how you can prevail in battle without the will to destroy!,,0,0
+60700055,60700056,,{translucent},,1,AXL0,HFSTS0,2,Asura,"…Impossible. You fight without rage, yet you wield such overwhelming power.",,0,0
+60700056,60700057,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"I may not have your destructive might on the battlefield, but the Creator has answered my resolve to save the world. You cannot overcome me.",,0,0
+60700057,60700058,,{translucent},,1,AXL0,HFSTS0,2,Asura,"Incredible… Even without enduring the horrors of war, you’ve grown stronger through your conviction alone, changing everything in your path.",,0,0
+60700058,60700059,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,True strength does not stem from destruction or domination but from protection and salvation. Victory without conflict is the ultimate power.,,0,0
+60700059,60700060,,{translucent},,1,AXL0,HFSTS0,2,Asura,Hmph. Don’t think I’ll easily accept your ideals just because I’ve lost this battle.,,0,0
+60700060,60700061,,{translucent},,1,ZTSLFE_MR,HFSTS0,1,Raphael,"One day, you may come to understand me. Perhaps we’ll meet on the battlefield again.",,0,0
+60700061,-1,,{translucent},,1,AXL0,HFSTS0,2,Asura,"Heh… I look forward to that day, Asura. Until then, may your path lead you to clarity.",,0,0

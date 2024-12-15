@@ -1,0 +1,7 @@
+id,effect_type,hero_cid,add_attr,skill_id,desc,icon
+1,1,999,3:8:1000,0,Angels' Crit DMG is increased by 100%.,BiaoJi.png
+2,1,2087|2086|2084|2083|2082|2081|2079|2078|2077|2076|2075|2074|2073|2071|2069|2068|2067|2065|2063|2060|2057|2056|2055|2053|2051|2050|2049|2047|2039|2037																|1001,,44442101,Angels with Creator's Will restore 1 points of Will Power per round.,WuYuan.png
+3,2,0,,44445101,"This season, all monsters will dispel enemy buffs (including undispellable ones) every 4 rounds.",YuanFen_XR.png
+4,2,0,,44446401,"In this season, nonsters deal 50% True DMG to the highest-ATK enemy each round, ignoring shields.",YuanFen_XR.png
+5,1,999,,44446501,"In this season, Angels with Revelation Skill recover 100 Energy points each round.",WuYuan.png
+6,1,999,2:55:500,0,"In this season, Angels with Creator's Will have a 50% increase in DMG dealt by their Creator's Will.",BiaoJi.png

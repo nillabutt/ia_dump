@@ -1,0 +1,6 @@
+﻿cfg_id,god_summon_place_id,god_debris,god_free_reward,chapter_id,job_text,percent
+1,149,30:2047:10,6:2047:1,2,Heal,10
+2,152,30:2049:10,6:2049:1,5,AoE,10
+3,148,30:2039:10,6:2039:1,1,Support,55
+4,150,30:2037:10,6:2037:1,3,ST,20
+5,151,30:2050:10,6:2050:1,4,Control,5

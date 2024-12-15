@@ -1,0 +1,5 @@
+cfg_id,max_count,quality,restore,feeling,day_limit_count,limit_group,limit_level,name,show_in_bag,icon,description
+4000001,999,2,1,100,0,0,0,Tears of Angel I,1,4000001.png,Use it in Angel Promotion Tab to increase Affinity by 100
+4000002,999,3,1,200,0,0,0,Tears of Angel Ⅱ,1,4000002.png,Use it in Angel Promotion Tab to increase Affinity by 200
+4000003,999,4,1,400,0,0,0,Tears of Angel Ⅲ,1,4000003.png,Use it in Angel Promotion Tab to increase Affinity by 400
+4000004,999,5,1,1000,0,0,0,Tears of Angel IV,1,4000004.png,Use it in Angel Promotion Tab to increase Affinity by 1000

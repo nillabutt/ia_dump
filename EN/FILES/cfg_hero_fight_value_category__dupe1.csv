@@ -1,0 +1,21 @@
+id,name,sort_id,multiply,divide
+1,Angels,1,0,2.8
+2,Training,7,2.3,0
+3,Relic,9,7,0
+4,Gear,2,0,2.5
+5,Artifact,8,1.25,0
+6,Attire,12,1.85,0
+7,Gem,10,1.75,0
+8,Temple,5,4,0
+9,Fashion,4,10,0
+10,Fate,3,9,0
+11,Affinity,6,25,0
+12,Talent,11,1.6,0
+13,Eudemons,14,0,0
+14,Trial Palace,13,2,0
+15,Rank,15,0,0
+16,Miracle Card,16,2,0
+17,Destiny Star,17,0,0
+18,Angel Hall,18,0,0
+19,Divine Hall,19,0,0
+20,Resonance,20,1248,0

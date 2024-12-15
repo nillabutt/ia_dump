@@ -234,6 +234,14 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 200185,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_86,,,1,0,0
 200186,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_87,,,1,0,0
 200187,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_88,,,1,0,0
+200188,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_89,,,1,0,0
+200189,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_90,,,1,0,0
+200190,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_91,,,1,0,0
+200191,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_92,,,1,0,0
+200192,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_93,,,1,0,0
+200193,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_94,,,1,0,0
+200194,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_95,,,1,0,0
+200195,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_96,,,1,0,0
 200201,0,0,0,0.4,0|0,↓,300|550|1,Enter Dungeon,3D_DungeonNode_1_Name,,100|100,1,1,0
 200202,0,1,0,0.4,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
 201001,1,0,0,0.5,,→,345|850|1,Swipe left to the next page,,,,1,0,0

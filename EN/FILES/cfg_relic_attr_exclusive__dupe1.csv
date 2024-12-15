@@ -1,0 +1,63 @@
+id,job,hero,attr_type_type,attr_type,attr_value,desc
+1,1,0,3,17,50,Exclusive Limited: Warrior
+2,3,0,2,15,20,Exclusive Limited: Mage
+3,2,0,2,27,30,Exclusive Limited: Archer
+4,3,0,2,19,30,Exclusive Limited: Mage
+5,2,0,2,15,20,Exclusive Limited: Archer
+6,3,0,2,29,60,Exclusive Limited: Mage
+7,2,0,3,2,40,Exclusive Limited: Archer
+8,3,0,3,15,40,Exclusive Limited: Mage
+9,1,0,2,28,100,Exclusive Limited: Warrior
+10,1,0,3,8,60,Exclusive Limited: Warrior
+11,2,0,2,20,50,Exclusive Limited: Archer
+12,1,0,2,29,60,Exclusive Limited: Warrior
+13,1,0,3,2,40,Exclusive Limited: Warrior
+14,2,0,2,27,60,Exclusive Limited: Archer
+15,2,0,2,15,40,Exclusive Limited: Archer
+16,3,0,2,27,60,Exclusive Limited: Mage
+17,1,0,2,15,40,Exclusive Limited: Warrior
+18,3,0,2,15,40,Exclusive Limited: Mage
+19,3,0,2,28,100,Exclusive Limited: Mage
+20,0,2035,2,28,200,Exclusive Limited: Odin
+21,0,2031,3,17,100,Exclusive Limited: Erebus
+22,0,2012,3,8,100,Exclusive Limited: Gaia
+23,0,2025,2,29,100,Exclusive Limited: Nuwa
+24,2,0,2,19,50,Exclusive Limited: Archer
+25,0,2016,2,27,100,Exclusive Limited: Valkyrie
+26,0,2032,2,27,80,Exclusive Limited: Amaterasu
+27,0,2037,2,15,60,Exclusive Limited: Ra
+1001,0,1001,2,3,2000,Exclusive Limited: Main angel
+28,0,2039,3,1,60,Exclusive Limited: Hera
+29,0,2047,2,29,100,Exclusive Limited: Cupid
+30,0,2051,3,16,10,Exclusive Limited: Heimdall
+31,0,2050,3,2,80,Exclusive Limited: Chaos
+32,0,2053,3,8,120,Exclusive Limited: Himiko
+33,0,2049,2,15,60,Exclusive Limited: Icarus
+34,0,2055,2,27,100,Exclusive Limited: Frost Dragon
+35,0,2054,2,27,100,Exclusive Limited: Enmusubi
+36,0,2042,3,8,100,Exclusive Limited: Xmas Angel
+37,0,2048,3,21,150,Exclusive Limited: Hades
+38,0,2052,3,8,100,Exclusive Limited: Michael
+39,0,2056,2,28,100,Exclusive Limited: Ember Dragon
+40,0,2057,3,8,150,Exclusive Limited: Storm Dragon
+41,0,2060,2,18,30,Exclusive Limited: Freyja
+42,0,2058,2,29,100,Exclusive Limited: Nekomata
+43,0,1001,3,1,60,Exclusive Limited: Main angel
+44,0,2063,3,2,80,Exclusive Limited: Sim Cheong
+45,0,2067,3,1,60,Exclusive Limited: Chang'e
+46,0,2068,2,16,55,Exclusive Limited: Asura
+47,0,2065,3,1,60,Exclusive Limited: Gemini
+48,0,2069,2,15,60,Exclusive Limited: Athena
+49,0,2071,2,29,120,Exclusive Limited: Capricornus
+50,0,2073,3,2,80,Exclusive Limited: Pisces
+51,0,2074,2,27,100,Exclusive Limited: Venus
+52,0,2075,2,15,60,Exclusive Limited: Zeus
+53,0,2076,3,15,40,Exclusive Limited: Loki
+54,0,2077,2,15,60,Exclusive Limited: Thor
+55,0,2078,2,28,140,Exclusive Limited: Apollo
+56,0,2081,2,27,100,Exclusive Limited: Horus
+57,0,2082,2,27,100,Exclusive Limited: Frigga
+58,0,2083,2,15,60,Exclusive Limited: Ares
+59,0,2084,2,18,30,Exclusive Limited: Uriel
+60,0,2086,2,16,55,Exclusive Limited: Hela
+61,0,2087,2,15,60,Exclusive Limited: Prometheus

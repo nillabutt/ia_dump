@@ -1,0 +1,141 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,name,content
+10001,2,10001,0,0,1,1,1:18:40|1:2:10,累计参与进攻,Attack {0} times
+10002,2,10001,1,10001,1,3,1:18:60|1:2:10,累计参与进攻,Attack {0} times
+10003,2,10001,2,10002,1,5,1:18:80|1:2:20,累计参与进攻,Attack {0} times
+10004,2,10001,3,10003,1,8,1:18:100|1:2:20,累计参与进攻,Attack {0} times
+10005,2,10001,4,10004,1,14,1:18:120|1:2:100,累计参与进攻,Attack {0} times
+20001,2,20001,0,0,2,1,1:18:40|1:2:10,累计参与防守,Defend {0} times
+20002,2,20001,1,20001,2,3,1:18:60|1:2:10,累计参与防守,Defend {0} times
+20003,2,20001,2,20002,2,5,1:18:80|1:2:20,累计参与防守,Defend {0} times
+20004,2,20001,3,20003,2,8,1:18:100|1:2:20,累计参与防守,Defend {0} times
+20005,2,20001,4,20004,2,10,1:18:120|1:2:100,累计参与防守,Defend {0} times
+30001,2,30001,0,0,7,2,1:18:40|1:2:10,累计派遣队伍,Dispatch {0} teams in total
+30002,2,30001,1,30001,7,5,1:18:60|1:2:10,累计派遣队伍,Dispatch {0} teams in total
+30003,2,30001,2,30002,7,10,1:18:80|1:2:20,累计派遣队伍,Dispatch {0} teams in total
+30004,2,30001,3,30003,7,15,1:18:100|1:2:20,累计派遣队伍,Dispatch {0} teams in total
+30005,2,30001,4,30004,7,30,1:18:120|1:2:100,累计派遣队伍,Dispatch {0} teams in total
+40001,2,40001,0,0,8,100,1:18:40|1:2:10,公会累计击败敌军队伍,Guild has defeated {0} enemy teams in total
+40002,2,40001,1,40001,8,300,1:18:60|1:2:10,公会累计击败敌军队伍,Guild has defeated {0} enemy teams in total
+40003,2,40001,2,40002,8,500,1:18:120|1:2:100,公会累计击败敌军队伍,Guild has defeated {0} enemy teams in total
+50001,2,50001,0,0,3,1,1:18:40|1:2:10,累计宣战,Declare war {0} times in total
+50002,2,50001,1,50001,3,3,1:18:60|1:2:10,累计宣战,Declare war {0} times in total
+50003,2,50001,2,50002,3,5,1:18:80|1:2:20,累计宣战,Declare war {0} times in total
+50004,2,50001,3,50003,3,10,1:18:100|1:2:20,累计宣战,Declare war {0} times in total
+50005,2,50001,4,50004,3,14,1:18:120|1:2:100,累计宣战,Declare war {0} times in total
+60001,2,60001,0,0,10,2,1:18:40|1:2:10,占领1级城池,Occupy {0} Lv.1 cities
+60002,2,60001,1,60001,10,4,1:18:60|1:2:10,占领1级城池,Occupy {0} Lv.1 cities
+60003,2,60001,2,60002,10,6,1:18:80|1:2:20,占领1级城池,Occupy {0} Lv.1 cities
+60004,2,60001,3,60003,10,8,1:18:100|1:2:20,占领1级城池,Occupy {0} Lv.1 cities
+60005,2,60001,4,60004,10,10,1:18:120|1:2:100,占领1级城池,Occupy {0} Lv.1 cities
+70001,2,70001,0,0,11,1,1:18:40|1:2:10,占领2级城池,Occupy {0} Lv.2 cities
+70002,2,70001,1,70001,11,2,1:18:60|1:2:10,占领2级城池,Occupy {0} Lv.2 cities
+70003,2,70001,2,70002,11,4,1:18:80|1:2:20,占领2级城池,Occupy {0} Lv.2 cities
+80001,2,80001,0,0,12,1,1:18:120|1:2:100,占领3级城池,Occupy {0} Lv.3 cities
+90001,2,90001,0,0,17,2,1:18:40|1:2:10,防守成功城池,Defend {0} cities successfully
+90002,2,90001,1,90001,17,4,1:18:60|1:2:10,防守成功城池,Defend {0} cities successfully
+90003,2,90001,2,90002,17,6,1:18:80|1:2:20,防守成功城池,Defend {0} cities successfully
+100001,2,100001,0,0,13,1,1:18:40|1:2:10,获取占领奖励,Obtain occupying rewards {0} times
+100002,2,100001,1,100001,13,3,1:18:60|1:2:10,获取占领奖励,Obtain occupying rewards {0} times
+100003,2,100001,2,100002,13,5,1:18:80|1:2:20,获取占领奖励,Obtain occupying rewards {0} times
+100004,2,100001,3,100003,13,8,1:18:100|1:2:20,获取占领奖励,Obtain occupying rewards {0} times
+100005,2,100001,4,100004,13,10,1:18:120|1:2:100,获取占领奖励,Obtain occupying rewards {0} times
+110001,1,110001,0,0,1,10,1:2:100|5:3000007:10,累计参与进攻,Attack {0} times
+110002,1,110001,1,110001,1,20,1:2:100|5:3000007:10,累计参与进攻,Attack {0} times
+110003,1,110001,2,110002,1,30,1:2:100|5:3000007:20,累计参与进攻,Attack {0} times
+110004,1,110001,3,110003,1,40,1:2:100|5:3000007:20,累计参与进攻,Attack {0} times
+110005,1,110001,4,110004,1,50,1:2:100|5:3000007:20,累计参与进攻,Attack {0} times
+110006,1,110001,5,110005,1,60,1:2:100|5:3000008:10,累计参与进攻,Attack {0} times
+110007,1,110001,6,110006,1,70,1:2:100|5:3000008:10,累计参与进攻,Attack {0} times
+110008,1,110001,7,110007,1,80,1:2:100|5:3000008:20,累计参与进攻,Attack {0} times
+110009,1,110001,8,110008,1,90,1:2:100|5:3000008:20,累计参与进攻,Attack {0} times
+110010,1,110001,9,110009,1,100,1:2:100|5:3000008:20,累计参与进攻,Attack {0} times
+120001,1,120001,0,0,4,10,1:2:100|5:2000022:2,参与1级城池战斗,Participate {0} times in the battles of Lv.1 city
+120002,1,120001,1,120001,4,20,1:2:100|5:2000022:4,参与1级城池战斗,Participate {0} times in the battles of Lv.1 city
+120003,1,120001,2,120002,4,40,1:2:100|5:2000027:1,参与1级城池战斗,Participate {0} times in the battles of Lv.1 city
+120004,1,120001,3,120003,4,60,1:2:100|5:2000027:2,参与1级城池战斗,Participate {0} times in the battles of Lv.1 city
+120005,1,120001,4,120004,4,80,1:2:100|5:2000027:3,参与1级城池战斗,Participate {0} times in the battles of Lv.1 city
+130001,1,130001,0,0,5,10,1:2:100|5:2000018:2,参与2级城池战斗,Participate {0} times in the battles of Lv.2 city
+130002,1,130001,1,130001,5,20,1:2:100|5:2000018:4,参与2级城池战斗,Participate {0} times in the battles of Lv.2 city
+130003,1,130001,2,130002,5,30,1:2:100|5:2000023:1,参与2级城池战斗,Participate {0} times in the battles of Lv.2 city
+130004,1,130001,3,130003,5,40,1:2:100|5:2000023:2,参与2级城池战斗,Participate {0} times in the battles of Lv.2 city
+130005,1,130001,4,130004,5,50,1:2:100|5:2000023:3,参与2级城池战斗,Participate {0} times in the battles of Lv.2 city
+140001,1,140001,0,0,6,2,1:2:100|5:3000009:5,参与3级城池战斗,Participate {0} times in the battles of Lv.3 city
+140002,1,140001,1,140001,6,5,1:2:100|5:3000009:10,参与3级城池战斗,Participate {0} times in the battles of Lv.3 city
+140003,1,140001,2,140002,6,10,1:2:100|5:3000009:15,参与3级城池战斗,Participate {0} times in the battles of Lv.3 city
+140004,1,140001,3,140003,6,20,1:2:100|5:3000009:20,参与3级城池战斗,Participate {0} times in the battles of Lv.3 city
+140005,1,140001,4,140004,6,50,1:2:100|5:3000009:25,参与3级城池战斗,Participate {0} times in the battles of Lv.3 city
+150001,1,150001,0,0,3,10,1:2:100|5:2000019:5,累计宣战,Declare war {0} times in total
+150002,1,150001,1,150001,3,20,1:2:100|5:2000018:5,累计宣战,Declare war {0} times in total
+150003,1,150001,2,150002,3,30,1:2:100|5:2000022:5,累计宣战,Declare war {0} times in total
+150004,1,150001,3,150003,3,40,1:2:100|5:2000019:5,累计宣战,Declare war {0} times in total
+150005,1,150001,4,150004,3,50,1:2:100|5:2000018:5,累计宣战,Declare war {0} times in total
+150006,1,150001,5,150005,3,60,1:2:100|5:2000022:5,累计宣战,Declare war {0} times in total
+150007,1,150001,6,150006,3,70,1:2:100|5:2000019:8,累计宣战,Declare war {0} times in total
+150008,1,150001,7,150007,3,80,1:2:100|5:2000018:8,累计宣战,Declare war {0} times in total
+150009,1,150001,8,150008,3,90,1:2:100|5:2000022:8,累计宣战,Declare war {0} times in total
+150010,1,150001,9,150009,3,100,1:2:100|5:2000007:2,累计宣战,Declare war {0} times in total
+150011,1,150001,10,150010,3,150,1:2:100|5:2000027:2,累计宣战,Declare war {0} times in total
+150012,1,150001,11,150011,3,200,1:2:100|5:2000023:2,累计宣战,Declare war {0} times in total
+150013,1,150001,12,150012,3,300,1:2:100|5:2000024:2,累计宣战,Declare war {0} times in total
+150014,1,150001,13,150013,3,400,1:2:100|5:2000007:2,累计宣战,Declare war {0} times in total
+150015,1,150001,14,150014,3,500,1:2:100|5:6000001:2,累计宣战,Declare war {0} times in total
+160001,1,160001,0,0,10,10,1:2:100|5:3000007:10,累计占领1级城池,Occupy {0} Lv.1 cities in total
+160002,1,160001,1,160001,10,30,1:2:100|5:3000007:10,累计占领1级城池,Occupy {0} Lv.1 cities in total
+160003,1,160001,2,160002,10,50,1:2:100|5:3000007:20,累计占领1级城池,Occupy {0} Lv.1 cities in total
+160004,1,160001,3,160003,10,80,1:2:100|5:3000007:20,累计占领1级城池,Occupy {0} Lv.1 cities in total
+160005,1,160001,4,160004,10,100,1:2:100|5:3000007:20,累计占领1级城池,Occupy {0} Lv.1 cities in total
+170001,1,170001,0,0,11,10,1:2:100|5:3000008:10,累计占领2级城池,Occupy {0} Lv.2 cities in total
+170002,1,170001,1,170001,11,20,1:2:100|5:3000008:10,累计占领2级城池,Occupy {0} Lv.2 cities in total
+170003,1,170001,2,170002,11,30,1:2:100|5:3000008:20,累计占领2级城池,Occupy {0} Lv.2 cities in total
+170004,1,170001,3,170003,11,40,1:2:100|5:3000008:20,累计占领2级城池,Occupy {0} Lv.2 cities in total
+170005,1,170001,4,170004,11,50,1:2:100|5:3000008:20,累计占领2级城池,Occupy {0} Lv.2 cities in total
+180001,1,180001,0,0,12,5,1:2:100|5:3000009:5,累计占领3级城池,Occupy {0} Lv.3 cities in total
+180002,1,180001,1,180001,12,10,1:2:100|5:3000009:10,累计占领3级城池,Occupy {0} Lv.3 cities in total
+180003,1,180001,2,180002,12,20,1:2:100|5:3000009:15,累计占领3级城池,Occupy {0} Lv.3 cities in total
+180004,1,180001,3,180003,12,30,1:2:100|5:3000009:20,累计占领3级城池,Occupy {0} Lv.3 cities in total
+180005,1,180001,4,180004,12,40,1:2:100|5:3000009:25,累计占领3级城池,Occupy {0} Lv.3 cities in total
+190001,1,190001,0,0,17,20,1:2:100|5:2000018:5,累计防守成功城池,Defend {0} cities successfully in total
+190002,1,190001,1,190001,17,40,1:2:100|5:2000019:5,累计防守成功城池,Defend {0} cities successfully in total
+190003,1,190001,2,190002,17,60,1:2:100|5:2000022:5,累计防守成功城池,Defend {0} cities successfully in total
+190004,1,190001,3,190003,17,80,1:2:100|5:2000007:1,累计防守成功城池,Defend {0} cities successfully in total
+190005,1,190001,4,190004,17,100,1:2:100|5:2000007:2,累计防守成功城池,Defend {0} cities successfully in total
+200001,1,200001,0,0,14,20,1:2:100|5:2000018:5,累计获取1级占领奖励,Obtain occupying rewards of Lv.1 city {0} times in total
+200002,1,200001,1,200001,14,40,1:2:100|5:2000019:5,累计获取1级占领奖励,Obtain occupying rewards of Lv.1 city {0} times in total
+200003,1,200001,2,200002,14,60,1:2:100|5:2000022:5,累计获取1级占领奖励,Obtain occupying rewards of Lv.1 city {0} times in total
+200004,1,200001,3,200003,14,80,1:2:100|5:2000007:1,累计获取1级占领奖励,Obtain occupying rewards of Lv.1 city {0} times in total
+200005,1,200001,4,200004,14,100,1:2:100|5:2000007:2,累计获取1级占领奖励,Obtain occupying rewards of Lv.1 city {0} times in total
+210001,1,210001,0,0,15,10,1:2:100|5:1000004:5,累计获取2级占领奖励,Obtain occupying rewards of Lv.2 city {0} times in total
+210002,1,210001,1,210001,15,20,1:2:100|5:1000004:5,累计获取2级占领奖励,Obtain occupying rewards of Lv.2 city {0} times in total
+210003,1,210001,2,210002,15,30,1:2:100|5:1000004:5,累计获取2级占领奖励,Obtain occupying rewards of Lv.2 city {0} times in total
+210004,1,210001,3,210003,15,40,1:2:100|5:1000006:3,累计获取2级占领奖励,Obtain occupying rewards of Lv.2 city {0} times in total
+210005,1,210001,4,210004,15,50,1:2:100|5:1000006:5,累计获取2级占领奖励,Obtain occupying rewards of Lv.2 city {0} times in total
+220001,1,220001,0,0,16,5,1:2:100|5:1000006:2,累计获取3级占领奖励,Obtain occupying rewards of Lv.3 city {0} times in total
+220002,1,220001,1,220001,16,10,1:2:100|5:1000006:2,累计获取3级占领奖励,Obtain occupying rewards of Lv.3 city {0} times in total
+220003,1,220001,2,220002,16,20,1:2:100|5:1000006:2,累计获取3级占领奖励,Obtain occupying rewards of Lv.3 city {0} times in total
+220004,1,220001,3,220003,16,30,1:2:100|5:1000008:2,累计获取3级占领奖励,Obtain occupying rewards of Lv.3 city {0} times in total
+220005,1,220001,4,220004,16,40,1:2:100|5:1000008:3,累计获取3级占领奖励,Obtain occupying rewards of Lv.3 city {0} times in total
+230001,1,230001,0,0,20,5,1:2:100|5:2000018:5,公会累计进入50名,Guild reached top 50 {0} times in total
+230002,1,230001,1,230001,20,10,1:2:100|5:2000019:10,公会累计进入50名,Guild reached top 50 {0} times in total
+230003,1,230001,2,230002,20,15,1:2:100|5:2000022:10,公会累计进入50名,Guild reached top 50 {0} times in total
+230004,1,230001,3,230003,20,20,1:2:100|5:2000027:5,公会累计进入50名,Guild reached top 50 {0} times in total
+230005,1,230001,4,230004,20,25,1:2:100|5:2000023:5,公会累计进入50名,Guild reached top 50 {0} times in total
+240001,1,240001,0,0,18,2,1:2:100|5:1000008:2,公会累计进入10名,Guild reached top 10 {0} times in total
+240002,1,240001,1,240001,18,5,1:2:100|5:1000008:2,公会累计进入10名,Guild reached top 10 {0} times in total
+240003,1,240001,2,240002,18,10,1:2:100|5:1000008:3,公会累计进入10名,Guild reached top 10 {0} times in total
+240004,1,240001,3,240003,18,20,1:2:100|5:1000008:4,公会累计进入10名,Guild reached top 10 {0} times in total
+240005,1,240001,4,240004,18,30,1:2:100|5:6000001:10,公会累计进入10名,Guild reached top 10 {0} times in total
+250001,1,250001,0,0,21,3000,1:2:100|5:3000007:10,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250002,1,250001,1,250001,21,5000,1:2:100|5:3000007:10,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250003,1,250001,2,250002,21,10000,1:2:100|5:3000007:20,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250004,1,250001,3,250003,21,15000,1:2:100|5:3000008:10,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250005,1,250001,4,250004,21,20000,1:2:100|5:3000008:10,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250006,1,250001,5,250005,21,30000,1:2:100|5:3000008:20,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250007,1,250001,6,250006,21,40000,1:2:100|5:3000008:20,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250008,1,250001,7,250007,21,50000,1:2:100|5:6000001:2,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250009,1,250001,8,250008,21,70000,1:2:100|5:6000001:4,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+250010,1,250001,9,250009,21,100000,1:2:100|5:6000001:6,累计获得战争点数,Obtain {0} war coins in total (exclude thoes sent by mail)
+260001,1,260001,0,0,22,5000,1:2:100|5:3000007:10,累计消耗战争点数,Consume {0} war coins in total
+260002,1,260001,1,260001,22,10000,1:2:100|5:3000008:20,累计消耗战争点数,Consume {0} war coins in total
+260003,1,260001,2,260002,22,20000,1:2:100|5:3000009:10,累计消耗战争点数,Consume {0} war coins in total
+260004,1,260001,3,260003,22,50000,1:2:100|5:2000007:2,累计消耗战争点数,Consume {0} war coins in total
+260005,1,260001,4,260004,22,100000,1:2:100|5:6000001:10,累计消耗战争点数,Consume {0} war coins in total

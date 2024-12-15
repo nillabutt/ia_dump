@@ -1,0 +1,5 @@
+goods_id,name,particle_up_name,particle_down_name,desc,free_count,money_type,money,weight,attr_buff_value,attr_buff_per
+3000082,Legend Horn,Attack_1_Up,Attack_1_Down,"In the cities which used horn, all allies increase ATK by 50% and DEF by 50%.",1,2,3000,1,3:1:500|3:4:500,0
+3000083,Epic Horn,Attack_2_Up,Attack_2_Down,"In the cities which used horn, all allies increase ATK by 30% and DEF by 30%.",2,2,1000,2,3:1:300|3:4:300,0
+3000084,Advanced Horn,Defence_1_Up,,"In the cities which used horn, all allies increase ATK by 10% and DEF by 20%.",3,2,500,3,3:1:200|3:4:200,0
+3000085,Elementary Horn,Defence_2_Up,,"In the cities which used horn, all allies increase ATK by 5% and DEF by 10%.",5,2,100,4,3:1:50|3:4:100,0

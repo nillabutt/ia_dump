@@ -1,0 +1,301 @@
+layer,reward_first,normal_monster_npc_id_list,max_round,desc
+1,5:3000092:2|5:3000095:2,1001,30,The enemy looks ordinary
+2,5:3000092:2|5:3000095:2,1002,30,The enemy looks ordinary
+3,5:3000092:2|5:3000095:2,1003,30,The enemy looks ordinary
+4,5:3000092:2|5:3000095:2,1004,30,The enemy looks ordinary
+5,5:3000092:6|5:3000095:6,1005,30,The enemy looks ordinary
+6,5:3000092:2|5:3000095:2,1006,30,The enemy looks ordinary
+7,5:3000092:2|5:3000095:2,1007,30,The enemy looks ordinary
+8,5:3000092:2|5:3000095:2,1008,30,The enemy looks ordinary
+9,5:3000092:2|5:3000095:2,1009,30,The enemy looks ordinary
+10,5:3000092:8|5:3000095:8,1010,30,The enemy looks ordinary
+11,5:3000092:2|5:3000095:2,1011,30,The enemy looks ordinary
+12,5:3000092:2|5:3000095:2,1012,30,The enemy looks ordinary
+13,5:3000092:2|5:3000095:2,1013,30,The enemy looks ordinary
+14,5:3000092:2|5:3000095:2,1014,30,The enemy looks ordinary
+15,5:3000092:2|5:3000095:2,1015,30,The enemy looks ordinary
+16,5:3000092:3|5:3000095:2,1016,30,The enemy looks ordinary
+17,5:3000092:3|5:3000095:2,1017,30,The enemy looks ordinary
+18,5:3000092:3|5:3000095:2,1018,30,The enemy looks ordinary
+19,5:3000092:3|5:3000095:2,1019,30,The enemy looks ordinary
+20,5:3000092:10|5:3000095:8,1020,30,The enemy looks ordinary
+21,5:3000092:2|5:3000095:2,1021,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+22,5:3000092:2|5:3000095:2,1022,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+23,5:3000092:2|5:3000095:2,1023,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+24,5:3000092:2|5:3000095:2,1024,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+25,5:3000092:2|5:3000095:2,1025,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+26,5:3000092:2|5:3000095:2,1026,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+27,5:3000092:3|5:3000095:2,1027,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+28,5:3000092:3|5:3000095:2,1028,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+29,5:3000092:3|5:3000095:2,1029,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+30,5:3000092:9|5:3000095:10,1030,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+31,5:3000092:3|5:3000095:3,1031,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+32,5:3000092:3|5:3000095:3,1032,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+33,5:3000092:3|5:3000095:3,1033,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+34,5:3000092:3|5:3000095:3,1034,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+35,5:3000092:3|5:3000095:3,1035,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+36,5:3000092:3|5:3000095:3,1036,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+37,5:3000092:3|5:3000095:3,1037,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+38,5:3000092:3|5:3000095:3,1038,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+39,5:3000092:3|5:3000095:3,1039,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+40,5:3000092:16|5:3000095:14,1040,30,"Your enemies also know well that To kill a snake, you must cut off its head first. Watch for their targeted tactic."
+41,5:3000092:4|5:3000095:3,1041,30,The enemy seems to be afraid of pain and will continue to heal himself
+42,5:3000092:4|5:3000095:3,1042,30,The enemy seems to be afraid of pain and will continue to heal himself
+43,5:3000092:4|5:3000095:3,1043,30,The enemy seems to be afraid of pain and will continue to heal himself
+44,5:3000092:4|5:3000095:3,1044,30,The enemy seems to be afraid of pain and will continue to heal himself
+45,5:3000092:4|5:3000095:3,1045,30,The enemy seems to be afraid of pain and will continue to heal himself
+46,5:3000092:4|5:3000095:3,1046,30,The enemy seems to be afraid of pain and will continue to heal himself
+47,5:3000092:4|5:3000095:3,1047,30,The enemy seems to be afraid of pain and will continue to heal himself
+48,5:3000092:4|5:3000095:3,1048,30,The enemy seems to be afraid of pain and will continue to heal himself
+49,5:3000092:4|5:3000095:3,1049,30,The enemy seems to be afraid of pain and will continue to heal himself
+50,5:3000092:17|5:3000095:16,1050,30,The enemy seems to be afraid of pain and will continue to heal himself
+51,5:3000092:10|5:3000095:9,1051,30,The enemy seems to be afraid of pain and will continue to heal himself
+52,5:3000092:10|5:3000095:9,1052,30,The enemy seems to be afraid of pain and will continue to heal himself
+53,5:3000092:10|5:3000095:9,1053,30,The enemy seems to be afraid of pain and will continue to heal himself
+54,5:3000092:10|5:3000095:9,1054,30,The enemy seems to be afraid of pain and will continue to heal himself
+55,5:3000092:12|5:3000095:9,1055,30,The enemy seems to be afraid of pain and will continue to heal himself
+56,5:3000092:10|5:3000095:9,1056,30,The enemy seems to be afraid of pain and will continue to heal himself
+57,5:3000092:10|5:3000095:9,1057,30,The enemy seems to be afraid of pain and will continue to heal himself
+58,5:3000092:10|5:3000095:9,1058,30,The enemy seems to be afraid of pain and will continue to heal himself
+59,5:3000092:10|5:3000095:9,1059,30,The enemy seems to be afraid of pain and will continue to heal himself
+60,5:3000092:16|5:3000095:9,1060,30,The enemy seems to be afraid of pain and will continue to heal himself
+61,5:3000092:12|5:3000095:12,1061,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+62,5:3000092:12|5:3000095:12,1062,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+63,5:3000092:12|5:3000095:12,1063,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+64,5:3000092:12|5:3000095:12,1064,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+65,5:3000092:12|5:3000095:12,1065,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+66,5:3000092:12|5:3000095:12,1066,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+67,5:3000092:12|5:3000095:12,1067,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+68,5:3000092:12|5:3000095:12,1068,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+69,5:3000092:12|5:3000095:12,1069,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+70,5:3000092:18|5:3000095:18,1070,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+71,5:3000092:18|5:3000095:17,1071,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+72,5:3000092:18|5:3000095:17,1072,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+73,5:3000092:18|5:3000095:17,1073,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+74,5:3000092:16|5:3000095:17,1074,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+75,5:3000092:26|5:3000095:17,1075,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+76,5:3000092:18|5:3000095:17,1076,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+77,5:3000092:18|5:3000095:17,1077,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+78,5:3000092:18|5:3000095:17,1078,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+79,5:3000092:18|5:3000095:17,1079,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+80,5:3000092:30|5:3000095:21,1080,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+81,5:3000092:20|5:3000095:19,1081,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+82,5:3000092:20|5:3000095:19,1082,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+83,5:3000092:20|5:3000095:19,1083,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+84,5:3000092:20|5:3000095:19,1084,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+85,5:3000092:30|5:3000095:19,1085,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+86,5:3000092:20|5:3000095:19,1086,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+87,5:3000092:20|5:3000095:19,1087,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+88,5:3000092:20|5:3000095:19,1088,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+89,5:3000092:20|5:3000095:19,1089,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+90,5:3000092:38|5:3000095:27,1090,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+91,5:3000092:28|5:3000095:29,1091,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+92,5:3000092:28|5:3000095:29,1092,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+93,5:3000092:28|5:3000095:29,1093,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+94,5:3000092:28|5:3000095:29,1094,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+95,5:3000092:36|5:3000095:29,1095,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+96,5:3000092:28|5:3000095:29,1096,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+97,5:3000092:28|5:3000095:29,1097,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+98,5:3000092:28|5:3000095:29,1098,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+99,5:3000092:28|5:3000095:29,1099,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+100,5:3000092:40|5:3000095:33,1100,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+101,5:3000092:40|5:3000095:67,1101,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+102,5:3000092:40|5:3000095:67,1102,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+103,5:3000092:40|5:3000095:67,1103,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+104,5:3000092:40|5:3000095:67,1104,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+105,5:3000092:74|5:3000095:68,1105,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+106,5:3000092:54|5:3000095:54,1106,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+107,5:3000092:54|5:3000095:54,1107,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+108,5:3000092:54|5:3000095:54,1108,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+109,5:3000092:54|5:3000095:54,1109,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+110,5:3000092:54|5:3000095:54,1110,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+111,5:3000092:55|5:3000095:55,1111,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+112,5:3000092:55|5:3000095:55,1112,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+113,5:3000092:55|5:3000095:55,1113,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+114,5:3000092:55|5:3000095:55,1114,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+115,5:3000092:56|5:3000095:56,1115,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+116,5:3000092:69|5:3000095:69,1116,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+117,5:3000092:69|5:3000095:69,1117,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+118,5:3000092:69|5:3000095:69,1118,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+119,5:3000092:69|5:3000095:69,1119,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+120,5:3000092:72|5:3000095:72,1120,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+121,5:3000092:72|5:3000095:72,1121,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+122,5:3000092:72|5:3000095:72,1122,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+123,5:3000092:72|5:3000095:72,1123,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+124,5:3000092:72|5:3000095:72,1124,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+125,5:3000092:72|5:3000095:72,1125,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+126,5:3000092:80|5:3000095:80,1126,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+127,5:3000092:80|5:3000095:80,1127,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+128,5:3000092:80|5:3000095:80,1128,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+129,5:3000092:80|5:3000095:80,1129,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+130,5:3000092:82|5:3000095:82,1130,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+131,5:3000092:111|5:3000095:111,1131,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+132,5:3000092:111|5:3000095:111,1132,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+133,5:3000092:114|5:3000095:114,1133,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+134,5:3000092:114|5:3000095:114,1134,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+135,5:3000092:114|5:3000095:114,1135,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+136,5:3000092:114|5:3000095:114,1136,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+137,5:3000092:114|5:3000095:114,1137,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+138,5:3000092:114|5:3000095:114,1138,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+139,5:3000092:138|5:3000095:138,1139,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+140,5:3000092:138|5:3000095:138,1140,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+141,5:3000092:138|5:3000095:138,1141,30,Welcome to the paradise of fire and be ready for the flame strike.
+142,5:3000092:138|5:3000095:138,1142,30,Welcome to the paradise of fire and be ready for the flame strike.
+143,5:3000092:138|5:3000095:138,1143,30,Welcome to the paradise of fire and be ready for the flame strike.
+144,5:3000092:138|5:3000095:138,1144,30,Welcome to the paradise of fire and be ready for the flame strike.
+145,5:3000092:138|5:3000095:138,1145,30,Welcome to the paradise of fire and be ready for the flame strike.
+146,5:3000092:138|5:3000095:138,1146,30,Welcome to the paradise of fire and be ready for the flame strike.
+147,5:3000092:138|5:3000095:138,1147,30,Welcome to the paradise of fire and be ready for the flame strike.
+148,5:3000092:138|5:3000095:138,1148,30,Welcome to the paradise of fire and be ready for the flame strike.
+149,5:3000092:138|5:3000095:138,1149,30,Welcome to the paradise of fire and be ready for the flame strike.
+150,5:3000092:138|5:3000095:138,1150,30,Welcome to the paradise of fire and be ready for the flame strike.
+151,5:3000092:138|5:3000095:138,1151,30,Welcome to the paradise of fire and be ready for the flame strike.
+152,5:3000092:138|5:3000095:138,1152,30,Welcome to the paradise of fire and be ready for the flame strike.
+153,5:3000092:138|5:3000095:138,1153,30,Welcome to the paradise of fire and be ready for the flame strike.
+154,5:3000092:138|5:3000095:138,1154,30,Welcome to the paradise of fire and be ready for the flame strike.
+155,5:3000092:138|5:3000095:138,1155,30,Welcome to the paradise of fire and be ready for the flame strike.
+156,5:3000092:138|5:3000095:138,1156,30,Welcome to the paradise of fire and be ready for the flame strike.
+157,5:3000092:138|5:3000095:138,1157,30,Welcome to the paradise of fire and be ready for the flame strike.
+158,5:3000092:138|5:3000095:138,1158,30,Welcome to the paradise of fire and be ready for the flame strike.
+159,5:3000092:138|5:3000095:138,1159,30,Welcome to the paradise of fire and be ready for the flame strike.
+160,5:3000092:138|5:3000095:138,1160,30,Welcome to the paradise of fire and be ready for the flame strike.
+161,5:3000092:138|5:3000095:138,1161,30,Please protect all our teammates. Don't let the enemy smell blood
+162,5:3000092:138|5:3000095:138,1162,30,Please protect all our teammates. Don't let the enemy smell blood
+163,5:3000092:138|5:3000095:138,1163,30,Please protect all our teammates. Don't let the enemy smell blood
+164,5:3000092:138|5:3000095:138,1164,30,Please protect all our teammates. Don't let the enemy smell blood
+165,5:3000092:138|5:3000095:138,1165,30,Please protect all our teammates. Don't let the enemy smell blood
+166,5:3000092:138|5:3000095:138,1166,30,Please protect all our teammates. Don't let the enemy smell blood
+167,5:3000092:138|5:3000095:138,1167,30,Please protect all our teammates. Don't let the enemy smell blood
+168,5:3000092:138|5:3000095:138,1168,30,Please protect all our teammates. Don't let the enemy smell blood
+169,5:3000092:138|5:3000095:138,1169,30,Please protect all our teammates. Don't let the enemy smell blood
+170,5:3000092:138|5:3000095:138,1170,30,Please protect all our teammates. Don't let the enemy smell blood
+171,5:3000092:138|5:3000095:138,1171,30,Please protect all our teammates. Don't let the enemy smell blood
+172,5:3000092:138|5:3000095:138,1172,30,Please protect all our teammates. Don't let the enemy smell blood
+173,5:3000092:138|5:3000095:138,1173,30,Please protect all our teammates. Don't let the enemy smell blood
+174,5:3000092:138|5:3000095:138,1174,30,Please protect all our teammates. Don't let the enemy smell blood
+175,5:3000092:138|5:3000095:138,1175,30,Please protect all our teammates. Don't let the enemy smell blood
+176,5:3000092:138|5:3000095:138,1176,30,Please protect all our teammates. Don't let the enemy smell blood
+177,5:3000092:138|5:3000095:138,1177,30,Please protect all our teammates. Don't let the enemy smell blood
+178,5:3000092:138|5:3000095:138,1178,30,Please protect all our teammates. Don't let the enemy smell blood
+179,5:3000092:138|5:3000095:138,1179,30,Please protect all our teammates. Don't let the enemy smell blood
+180,5:3000092:138|5:3000095:138,1180,30,Please protect all our teammates. Don't let the enemy smell blood
+181,5:3000092:138|5:3000095:138,1181,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+182,5:3000092:138|5:3000095:138,1182,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+183,5:3000092:138|5:3000095:138,1183,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+184,5:3000092:138|5:3000095:138,1184,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+185,5:3000092:138|5:3000095:138,1185,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+186,5:3000092:138|5:3000095:138,1186,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+187,5:3000092:138|5:3000095:138,1187,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+188,5:3000092:138|5:3000095:138,1188,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+189,5:3000092:138|5:3000095:138,1189,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+190,5:3000092:138|5:3000095:138,1190,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+191,5:3000092:138|5:3000095:138,1191,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+192,5:3000092:138|5:3000095:138,1192,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+193,5:3000092:138|5:3000095:138,1193,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+194,5:3000092:138|5:3000095:138,1194,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+195,5:3000092:138|5:3000095:138,1195,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+196,5:3000092:138|5:3000095:138,1196,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+197,5:3000092:138|5:3000095:138,1197,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+198,5:3000092:138|5:3000095:138,1198,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+199,5:3000092:138|5:3000095:138,1199,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+200,5:3000092:138|5:3000095:138,1200,30,"The enemy's defense is unassailable, restrict the enemy as much as possible"
+201,5:3000092:138|5:3000095:138,1201,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+202,5:3000092:138|5:3000095:138,1202,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+203,5:3000092:138|5:3000095:138,1203,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+204,5:3000092:138|5:3000095:138,1204,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+205,5:3000092:138|5:3000095:138,1205,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+206,5:3000092:138|5:3000095:138,1206,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+207,5:3000092:138|5:3000095:138,1207,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+208,5:3000092:138|5:3000095:138,1208,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+209,5:3000092:138|5:3000095:138,1209,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+210,5:3000092:138|5:3000095:138,1210,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+211,5:3000092:138|5:3000095:138,1211,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+212,5:3000092:138|5:3000095:138,1212,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+213,5:3000092:138|5:3000095:138,1213,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+214,5:3000092:138|5:3000095:138,1214,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+215,5:3000092:138|5:3000095:138,1215,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+216,5:3000092:138|5:3000095:138,1216,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+217,5:3000092:138|5:3000095:138,1217,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+218,5:3000092:138|5:3000095:138,1218,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+219,5:3000092:138|5:3000095:138,1219,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+220,5:3000092:138|5:3000095:138,1220,30,"The enemy has a skill of highly individual damage, and will be even more tough by the time. Pay attention to kill it quickly"
+221,5:3000092:138|5:3000095:138,1221,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+222,5:3000092:138|5:3000095:138,1222,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+223,5:3000092:138|5:3000095:138,1223,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+224,5:3000092:138|5:3000095:138,1224,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+225,5:3000092:138|5:3000095:138,1225,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+226,5:3000092:138|5:3000095:138,1226,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+227,5:3000092:138|5:3000095:138,1227,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+228,5:3000092:138|5:3000095:138,1228,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+229,5:3000092:138|5:3000095:138,1229,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+230,5:3000092:138|5:3000095:138,1230,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+231,5:3000092:138|5:3000095:138,1231,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+232,5:3000092:138|5:3000095:138,1232,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+233,5:3000092:138|5:3000095:138,1233,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+234,5:3000092:138|5:3000095:138,1234,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+235,5:3000092:138|5:3000095:138,1235,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+236,5:3000092:138|5:3000095:138,1236,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+237,5:3000092:138|5:3000095:138,1237,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+238,5:3000092:138|5:3000095:138,1238,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+239,5:3000092:138|5:3000095:138,1239,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+240,5:3000092:138|5:3000095:138,1240,30,"The enemy will deal a deadly strike to our teammates in back row, please pay attention to protect"
+241,5:3000092:138|5:3000095:138,1241,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+242,5:3000092:138|5:3000095:138,1242,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+243,5:3000092:138|5:3000095:138,1243,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+244,5:3000092:138|5:3000095:138,1244,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+245,5:3000092:138|5:3000095:138,1245,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+246,5:3000092:138|5:3000095:138,1246,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+247,5:3000092:138|5:3000095:138,1247,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+248,5:3000092:138|5:3000095:138,1248,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+249,5:3000092:138|5:3000095:138,1249,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+250,5:3000092:138|5:3000095:138,1250,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+251,5:3000092:138|5:3000095:138,1251,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+252,5:3000092:138|5:3000095:138,1252,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+253,5:3000092:138|5:3000095:138,1253,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+254,5:3000092:138|5:3000095:138,1254,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+255,5:3000092:138|5:3000095:138,1255,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+256,5:3000092:138|5:3000095:138,1256,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+257,5:3000092:138|5:3000095:138,1257,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+258,5:3000092:138|5:3000095:138,1258,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+259,5:3000092:138|5:3000095:138,1259,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+260,5:3000092:138|5:3000095:138,1260,30,"Toxic paradise, please quickly kill or effectively resist the enemy toxins. Do not go on fighting."
+261,5:3000092:138|5:3000095:138,1261,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+262,5:3000092:138|5:3000095:138,1262,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+263,5:3000092:138|5:3000095:138,1263,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+264,5:3000092:138|5:3000095:138,1264,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+265,5:3000092:138|5:3000095:138,1265,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+266,5:3000092:138|5:3000095:138,1266,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+267,5:3000092:138|5:3000095:138,1267,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+268,5:3000092:138|5:3000095:138,1268,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+269,5:3000092:138|5:3000095:138,1269,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+270,5:3000092:138|5:3000095:138,1270,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+271,5:3000092:138|5:3000095:138,1271,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+272,5:3000092:138|5:3000095:138,1272,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+273,5:3000092:138|5:3000095:138,1273,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+274,5:3000092:138|5:3000095:138,1274,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+275,5:3000092:138|5:3000095:138,1275,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+276,5:3000092:138|5:3000095:138,1276,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+277,5:3000092:138|5:3000095:138,1277,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+278,5:3000092:138|5:3000095:138,1278,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+279,5:3000092:138|5:3000095:138,1279,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+280,5:3000092:138|5:3000095:138,1280,30,"High area effect damage, but the enemy's actions are more likely to be restricted."
+281,5:3000092:138|5:3000095:138,1281,30,Welcome to the paradise of fire and be ready for the flame strike.
+282,5:3000092:138|5:3000095:138,1282,30,Welcome to the paradise of fire and be ready for the flame strike.
+283,5:3000092:138|5:3000095:138,1283,30,Welcome to the paradise of fire and be ready for the flame strike.
+284,5:3000092:138|5:3000095:138,1284,30,Welcome to the paradise of fire and be ready for the flame strike.
+285,5:3000092:138|5:3000095:138,1285,30,Welcome to the paradise of fire and be ready for the flame strike.
+286,5:3000092:138|5:3000095:138,1286,30,Welcome to the paradise of fire and be ready for the flame strike.
+287,5:3000092:138|5:3000095:138,1287,30,Welcome to the paradise of fire and be ready for the flame strike.
+288,5:3000092:138|5:3000095:138,1288,30,Welcome to the paradise of fire and be ready for the flame strike.
+289,5:3000092:138|5:3000095:138,1289,30,Welcome to the paradise of fire and be ready for the flame strike.
+290,5:3000092:138|5:3000095:138,1290,30,Welcome to the paradise of fire and be ready for the flame strike.
+291,5:3000092:138|5:3000095:138,1291,30,Welcome to the paradise of fire and be ready for the flame strike.
+292,5:3000092:138|5:3000095:138,1292,30,Welcome to the paradise of fire and be ready for the flame strike.
+293,5:3000092:138|5:3000095:138,1293,30,Welcome to the paradise of fire and be ready for the flame strike.
+294,5:3000092:138|5:3000095:138,1294,30,Welcome to the paradise of fire and be ready for the flame strike.
+295,5:3000092:138|5:3000095:138,1295,30,Welcome to the paradise of fire and be ready for the flame strike.
+296,5:3000092:138|5:3000095:138,1296,30,Welcome to the paradise of fire and be ready for the flame strike.
+297,5:3000092:138|5:3000095:138,1297,30,Welcome to the paradise of fire and be ready for the flame strike.
+298,5:3000092:138|5:3000095:138,1298,30,Welcome to the paradise of fire and be ready for the flame strike.
+299,5:3000092:138|5:3000095:138,1299,30,Welcome to the paradise of fire and be ready for the flame strike.
+300,5:3000092:138|5:3000095:138,1300,30,Welcome to the paradise of fire and be ready for the flame strike.

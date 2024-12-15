@@ -1,0 +1,40 @@
+task_id,task_type,param_1,param_2,desc
+1,1,9,1,Win with 9 Warriors on the team
+2,1,9,2,Win with 9 Archers on the team
+3,1,9,3,Win with 9 Mages on the team
+4,3,2,0,Win without any Archer on the team
+5,3,3,0,Win without any Mage on the team
+6,4,1,0,Win with 3 Warriors on the front row
+7,4,2,0,Win with 3 Archers on the front row
+8,4,3,0,Win with 3 Mages on the front row
+9,5,1,0,Win with 3 Warriors on the back row
+10,5,2,0,Win with 3 Archers on the back row
+11,5,3,0,Win with 3 Mages on the back row
+12,6,4,0,Win with 4 or fewer Angels on the team
+13,6,6,0,Win with 6 or fewer Angels on the team
+14,6,8,0,Win with 8 or fewer Angels on the team
+15,7,7,0,Win with 7 or more Angels on the team
+16,7,9,0,Win with 9 or more Angels on the team
+17,7,11,0,Win with 11 or more Angels on the team
+18,8,4,0,Win in 4 rounds
+19,8,8,0,Win in 8 rounds
+20,9,0,0,Win with all Angels alive
+21,10,3,0,Win with 3 enemies killed by one Angel
+22,10,4,0,Win with 4 enemies killed by one Angel
+23,10,5,0,Win with 5 enemies killed by one Angel
+24,11,6,0,Win with 6 or more Angels alive
+25,11,8,0,Win with 8 or more Angels alive
+26,11,10,0,Win with 10 or more Angels alive
+27,12,90,0,Win with all Angels' HP higher 90%
+28,12,60,0,Win with all Angels' HP higher 60%
+29,12,30,0,Win with all Angels' HP higher 30%
+30,13,2,0,Win with 1 or fewer Angels died
+31,13,4,0,Win with 3 or fewer Angels died
+32,13,6,0,Win with 5 or fewer Angels died
+33,2,2037,0,Win with Ra on the team
+34,14,2037,3,Win with 3 or more enemies killed by Ra
+35,2,2049,0,Win with Icarus on the team
+36,14,2049,3,Win with 3 or more enemies killed by Icarus
+37,2,2053,0,Win with Himiko on the team
+38,14,2053,3,Win with 3 or more enemies killed by Himiko
+39,8,30,0,Win

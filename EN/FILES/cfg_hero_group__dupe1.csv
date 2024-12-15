@@ -1,0 +1,303 @@
+gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
+1,Angel Guardian,1001|2030|2017,2,1,2000,Battle with {0},1001
+2,Angel Guardian,1001|2030|2017,2,1,2000,Battle with {0},2030
+3,Angel Guardian,1001|2030|2017,2,1,2000,Battle with {0},2017
+4,Victory Heart,1001|2014,3,1,150,Battle with {0},1001
+5,Victory Heart,1001|2014,3,1,150,Battle with {0},2014
+6,King's Outset,1001|2028,3,2,200,Battle with {0},1001
+7,King's Outset,1001|2028,3,2,200,Battle with {0},2028
+8,God's Inheritance,1001|2035,3,1,250,Battle with {0},1001
+9,God's Inheritance,1001|2035,3,1,250,Battle with {0},2035
+10,Wings of Indomitability,1001|2049,3,2,300,Battle with {0},1001
+11,Wings of Indomitability,1001|2049,3,2,300,Battle with {0},2049
+12,Oriental Beauty,2006|2007,2,1,1000,Battle with {0},2006
+13,Oriental Beauty,2006|2007,2,1,1000,Battle with {0},2007
+14,Novice Village,2006|2030,2,1,1000,Battle with {0},2006
+15,Novice Village,2006|2030,2,1,1000,Battle with {0},2030
+16,Wild Force,2007|2018,3,1,100,Battle with {0},2007
+17,Wild Force,2007|2018,3,1,100,Battle with {0},2018
+18,Beauty of Sin,2018|2020,3,2,100,Battle with {0},2018
+19,Beauty of Sin,2018|2020,3,2,100,Battle with {0},2020
+20,Beauty and Dream,2020|2023,3,1,100,Battle with {0},2020
+21,Beauty and Dream,2020|2023,3,1,100,Battle with {0},2023
+22,Origin of Life,2005|2009|2027|2022,3,1,200,Battle with {0},2005
+23,Origin of Life,2005|2009|2027|2022,3,1,200,Battle with {0},2009
+24,Origin of Life,2005|2009|2027|2022,3,1,200,Battle with {0},2027
+25,Origin of Life,2005|2009|2027|2022,3,1,200,Battle with {0},2022
+26,Master of Death,2005|2034,3,2,150,Battle with {0},2005
+27,Master of Death,2005|2034,3,2,150,Battle with {0},2034
+28,Soul of China,2008|2027,3,2,150,Battle with {0},2008
+29,Soul of China,2008|2027,3,2,150,Battle with {0},2027
+30,Banishing of Chaos,2008|2029,3,1,150,Battle with {0},2008
+31,Banishing of Chaos,2008|2029,3,1,150,Battle with {0},2029
+32,Bloodthirsty Fangs,2009|2010,3,2,150,Battle with {0},2009
+33,Bloodthirsty Fangs,2009|2010,3,2,150,Battle with {0},2010
+34,Devil's Whisper,2010|2033,3,1,150,Battle with {0},2010
+35,Devil's Whisper,2010|2033,3,1,150,Battle with {0},2033
+36,Goddess' Favor,2017|2021,3,2,150,Battle with {0},2017
+37,Goddess' Favor,2017|2021,3,2,150,Battle with {0},2021
+38,Blessing of Fate,2021|2022,3,1,150,Battle with {0},2021
+39,Blessing of Fate,2021|2022,3,1,150,Battle with {0},2022
+40,Fatal Beauty,2023|2029,3,2,150,Battle with {0},2023
+41,Fatal Beauty,2023|2029,3,2,150,Battle with {0},2029
+42,Death of Darkness,2033|2034,3,1,150,Battle with {0},2033
+43,Death of Darkness,2033|2034,3,1,150,Battle with {0},2034
+44,Origin of Degeneration,2001|2004|2013,3,2,200,Battle with {0},2001
+45,Origin of Degeneration,2001|2004|2013,3,2,200,Battle with {0},2004
+46,Origin of Degeneration,2001|2004|2013,3,2,200,Battle with {0},2013
+47,Power of Time,2001|2019,3,1,150,Battle with {0},2001
+48,Power of Time,2001|2019,3,1,150,Battle with {0},2019
+49,Power of Truth,2001|2040,3,2,150,Battle with {0},2001
+50,Power of Truth,2001|2040,3,2,150,Battle with {0},2040
+51,Power of Elements,2002|2011|2040,3,1,200,Battle with {0},2002
+52,Power of Elements,2002|2011|2040,3,1,200,Battle with {0},2011
+53,Power of Elements,2002|2011|2040,3,1,200,Battle with {0},2040
+54,Power of Sea,2002|2004,3,2,150,Battle with {0},2002
+55,Power of Sea,2002|2004,3,2,150,Battle with {0},2004
+56,Healing Heart,2002|2038,3,1,150,Battle with {0},2002
+57,Healing Heart,2002|2038,3,1,150,Battle with {0},2038
+58,Battle Cry,2003|2014|2019,3,2,200,Battle with {0},2003
+59,Battle Cry,2003|2014|2019,3,2,200,Battle with {0},2014
+60,Battle Cry,2003|2014|2019,3,2,200,Battle with {0},2019
+61,Pure Heart,2003|2015,3,1,150,Battle with {0},2003
+62,Pure Heart,2003|2015,3,1,150,Battle with {0},2015
+63,Pledge Victory,2003|2014,3,2,150,Battle with {0},2003
+64,Pledge Victory,2003|2014,3,2,150,Battle with {0},2014
+65,Forever Young,2004|2015,3,1,150,Battle with {0},2004
+66,Forever Young,2004|2015,3,1,150,Battle with {0},2015
+67,Ennead,2011|2037,3,2,150,Battle with {0},2011
+68,Ennead,2011|2037,3,2,150,Battle with {0},2037
+69,Shining Stars,2011|2036,3,1,150,Battle with {0},2011
+70,Shining Stars,2011|2036,3,1,150,Battle with {0},2036
+71,Ragnarok Witness,2015|2016|2035,3,2,200,Battle with {0},2015
+72,Ragnarok Witness,2015|2016|2035,3,2,200,Battle with {0},2016
+73,Ragnarok Witness,2015|2016|2035,3,2,200,Battle with {0},2035
+74,Dark and Death,2019|2031,3,1,150,Battle with {0},2019
+75,Dark and Death,2019|2031,3,1,150,Battle with {0},2031
+76,Mirror of Mirages,2036|2046,3,2,150,Battle with {0},2036
+77,Mirror of Mirages,2036|2046,3,2,150,Battle with {0},2046
+78,Mirror of Illusions,2036|2026,3,1,150,Battle with {0},2036
+79,Mirror of Illusions,2036|2026,3,1,150,Battle with {0},2026
+80,Wealth Power,2013|2052|2024,3,1,200,Battle with {0},2013
+81,Wealth Power,2013|2052|2024,3,1,200,Battle with {0},2052
+82,Wealth Power,2013|2052|2024,3,1,200,Battle with {0},2024
+83,Holy Vengeance,2013|2039|2012,3,1,150,Battle with {0},2013
+84,Holy Vengeance,2013|2039|2012,3,1,150,Battle with {0},2039
+85,Holy Vengeance,2013|2039|2012,3,1,150,Battle with {0},2012
+86,Demon Will,2024|2031,3,2,150,Battle with {0},2024
+87,Demon Will,2024|2031,3,2,150,Battle with {0},2031
+88,Fatal Blow,2024|2041,3,1,150,Battle with {0},2024
+89,Fatal Blow,2024|2041,3,1,150,Battle with {0},2041
+90,Eastern Star,2026|2028|2032,3,2,200,Battle with {0},2026
+91,Eastern Star,2026|2028|2032,3,2,200,Battle with {0},2028
+92,Eastern Star,2026|2028|2032,3,2,200,Battle with {0},2032
+93,Civilization Awakening,2026|2025,3,1,150,Battle with {0},2026
+94,Civilization Awakening,2026|2025,3,1,150,Battle with {0},2025
+95,Graceful Dance,2028|2038,3,2,150,Battle with {0},2028
+96,Graceful Dance,2028|2038,3,2,150,Battle with {0},2038
+97,Brilliant Yamato,2038|2046|2054,3,1,200,Battle with {0},2038
+98,Brilliant Yamato,2038|2046|2054,3,1,200,Battle with {0},2046
+99,Brilliant Yamato,2038|2046|2054,3,1,200,Battle with {0},2054
+100,Flaming Meteor,2040|2041,3,1,150,Battle with {0},2040
+101,Flaming Meteor,2040|2041,3,1,150,Battle with {0},2041
+102,Power of Defeating Demons,2041|2046,3,2,150,Battle with {0},2041
+103,Power of Defeating Demons,2041|2046,3,2,150,Battle with {0},2046
+104,Supreme Volition,2012|2032|2025|2035,3,2,250,Battle with {0},2012
+105,Supreme Volition,2012|2032|2025|2035,3,2,250,Battle with {0},2032
+106,Supreme Volition,2012|2032|2025|2035,3,2,250,Battle with {0},2025
+107,Supreme Volition,2012|2032|2025|2035,3,2,250,Battle with {0},2035
+108,Origin of Chaos,2012|2050,3,2,150,Battle with {0},2012
+109,Origin of Chaos,2012|2050,3,2,150,Battle with {0},2050
+110,Aurora,2012|2016,3,1,150,Battle with {0},2012
+111,Aurora,2012|2016,3,1,150,Battle with {0},2016
+112,Live to Die,2016|2049,3,2,150,Battle with {0},2016
+113,Live to Die,2016|2049,3,2,150,Battle with {0},2049
+114,Life Controller,2025|2048|2050,3,2,200,Battle with {0},2025
+115,Life Controller,2025|2048|2050,3,2,200,Battle with {0},2048
+116,Life Controller,2025|2048|2050,3,2,200,Battle with {0},2050
+117,Life Liquid,2025|2047,3,1,150,Battle with {0},2025
+118,Life Liquid,2025|2047,3,1,150,Battle with {0},2047
+119,Immortal God,2031|2016|2048|2051,3,2,250,Battle with {0},2031
+120,Immortal God,2031|2016|2048|2051,3,2,250,Battle with {0},2016
+121,Immortal God,2031|2016|2048|2051,3,2,250,Battle with {0},2048
+122,Immortal God,2031|2016|2048|2051,3,2,250,Battle with {0},2051
+123,Invincible Power,2031|2051|2039,3,2,200,Battle with {0},2031
+124,Invincible Power,2031|2051|2039,3,2,200,Battle with {0},2051
+125,Invincible Power,2031|2051|2039,3,2,200,Battle with {0},2039
+126,Order Controller,2032|2054,3,2,150,Battle with {0},2032
+127,Order Controller,2032|2054,3,2,150,Battle with {0},2054
+128,Blazing Sun,2032|2037,3,2,150,Battle with {0},2032
+129,Blazing Sun,2032|2037,3,2,150,Battle with {0},2037
+130,Pure Power,2035|2051,3,2,150,Battle with {0},2035
+131,Pure Power,2035|2051,3,2,150,Battle with {0},2051
+132,Love Gift,2042|2047,3,1,150,Battle with {0},2042
+133,Love Gift,2042|2047,3,1,150,Battle with {0},2047
+134,Ghost Power,2048|2053,3,2,150,Battle with {0},2048
+135,Ghost Power,2048|2053,3,2,150,Battle with {0},2053
+136,Light and Darkness,2048|2052,3,1,150,Battle with {0},2048
+137,Light and Darkness,2048|2052,3,1,150,Battle with {0},2052
+138,Justice Sanctions,2052|2054|2049|2039,3,1,250,Battle with {0},2052
+139,Justice Sanctions,2052|2054|2049|2039,3,1,250,Battle with {0},2054
+140,Justice Sanctions,2052|2054|2049|2039,3,1,250,Battle with {0},2049
+141,Justice Sanctions,2052|2054|2049|2039,3,1,250,Battle with {0},2039
+142,Bright Link,2052|2054,3,1,150,Battle with {0},2052
+143,Bright Link,2052|2054,3,1,150,Battle with {0},2054
+144,Love and Justice,2052|2047,3,2,200,Battle with {0},2052
+145,Love and Justice,2052|2047,3,2,200,Battle with {0},2047
+146,Desert City,2037|2047|2050|2053,3,1,250,Battle with {0},2037
+147,Desert City,2037|2047|2050|2053,3,1,250,Battle with {0},2047
+148,Desert City,2037|2047|2050|2053,3,1,250,Battle with {0},2050
+149,Desert City,2037|2047|2050|2053,3,1,250,Battle with {0},2053
+150,Sun’s pick,2037|2049,3,1,150,Battle with {0},2037
+151,Sun’s pick,2037|2049,3,1,150,Battle with {0},2049
+152,Top Throne,2037|2039,3,2,150,Battle with {0},2037
+153,Top Throne,2037|2039,3,2,150,Battle with {0},2039
+154,Eternal Guardian,2039|2051,3,1,150,Battle with {0},2039
+155,Eternal Guardian,2039|2051,3,1,150,Battle with {0},2051
+156,Demon's Love,2047|2053,3,2,150,Battle with {0},2047
+157,Demon's Love,2047|2053,3,2,150,Battle with {0},2053
+158,Evil Angel,2049|2050,3,1,150,Battle with {0},2049
+159,Evil Angel,2049|2050,3,1,150,Battle with {0},2050
+160,Ghost Domination,2050|2053,3,2,150,Battle with {0},2050
+161,Ghost Domination,2050|2053,3,2,150,Battle with {0},2053
+162,Dragon Blood,2055|2056|2057,3,1,300,Battle with {0},2055
+163,Dragon Blood,2055|2056|2057,3,1,300,Battle with {0},2056
+164,Dragon Blood,2055|2056|2057,3,1,300,Battle with {0},2057
+165,Ice world,2055|2042|2011,3,2,200,Battle with {0},2055
+166,Ice world,2055|2042|2011,3,2,200,Battle with {0},2042
+167,Ice world,2055|2042|2011,3,2,200,Battle with {0},2011
+168,Guardian Heart,2055|2047,3,2,150,Battle with {0},2055
+169,Guardian Heart,2055|2047,3,2,150,Battle with {0},2047
+170,Emberbringer,2056|2035|2037,3,1,200,Battle with {0},2056
+171,Emberbringer,2056|2035|2037,3,1,200,Battle with {0},2035
+172,Emberbringer,2056|2035|2037,3,1,200,Battle with {0},2037
+173,Descending of Vulcan,2056|2040,3,1,150,Battle with {0},2056
+174,Descending of Vulcan,2056|2040,3,1,150,Battle with {0},2040
+175,Shattered Void,2057|2012|2053,3,8,360,Battle with {0},2057
+176,Shattered Void,2057|2012|2053,3,8,360,Battle with {0},2012
+177,Shattered Void,2057|2012|2053,3,8,360,Battle with {0},2053
+178,Shield and Spear,2057|2051,3,2,150,Battle with {0},2057
+179,Shield and Spear,2057|2051,3,2,150,Battle with {0},2051
+180,Norse Gods,2060|2035,3,2,150,Battle with {0},2060
+181,God of War,2060|2016,3,1,150,Battle with {0},2060
+182,Mystery of Sunder Armor,2060|2057,3,1,150,Battle with {0},2060
+183,Limitless,2060|2053|2048,3,2,200,Battle with {0},2060
+184,Purification of All,2060|2055|2039|2037,3,1,250,Battle with {0},2060
+185,Temptation of Love,2058|2013,3,1,150,Battle with {0},2058
+186,Surprise of Love,2058|2042,3,2,150,Battle with {0},2058
+187,Sakura Flurry,2058|2038|2046,3,2,200,Battle with {0},2058
+188,Favored Cat,2058|2037,3,1,150,Battle with {0},2058
+189,Mystery of Sunder Armor,2057|2060,3,1,150,Battle with {0},2057
+190,Mystery of Fire,2056|2032,3,2,150,Battle with {0},2056
+191,Endless Time,2061|2062|2060,3,1,200,Battle with {0},2061
+192,Water on Fire,2061|2056,3,1,150,Battle with {0},2061
+193,Empty Eyes,2061|2031,3,1,150,Battle with {0},2061
+194,Best Wishes,2061|2058,3,2,150,Battle with {0},2061
+195,Lightheadedness,2062|2032,3,2,150,Battle with {0},2062
+196,Frost Sword,2062|2055,3,1,150,Battle with {0},2062
+197,Dim Moonlight,2062|2046,3,1,150,Battle with {0},2062
+198,Flower-like Beauty,2062|2058|2054,3,2,200,Battle with {0},2062
+199,Frost Sword,2062|2055,3,1,150,Battle with {0},2055
+200,Water on Fire,2061|2056,3,1,150,Battle with {0},2056
+201,Rock Solid,2063|2047,3,2,150,Battle with {0},2063
+202,Sunny after Storm,2063|2050,3,2,150,Battle with {0},2063
+203,Waving,2063|2057,3,1,150,Battle with {0},2063
+204,Frozen Love,2063|2025,3,2,150,Battle with {0},2063
+205,Waving,2063|2057,3,2,150,Battle with {0},2057
+206,Moon of Land,2067|2025,3,1,150,Battle with {0},2067
+207,Moon of War,2067|2037,3,1,150,Battle with {0},2067
+208,Moon of Flame,2067|2026|2040,3,2,200,Battle with {0},2067
+209,Moon of Homesickness,2067|2047|2063|2039,3,2,250,Battle with {0},2067
+210,Self-admiration,2068|2067,3,1,150,Battle with {0},2068
+211,Eternal Blackhole,2068|2060,3,1,150,Battle with {0},2068
+212,Share weal and woe,2068|2051,3,2,150,Battle with {0},2068
+213,Harmony of Man and Nature,2068|2056|2053,3,1,200,Battle with {0},2068
+214,Gentle Breeze,2065|2062|2063,3,2,200,Battle with {0},2065
+215,Ice Mirror,2065|2055,3,1,150,Battle with {0},2065
+216,Warm Beam,2065|2032,3,1,150,Battle with {0},2065
+217,Drifting in Universe,2065|2060,3,1,150,Battle with {0},2065
+218,Duel Wisdom,2069|2039|2049,3,1,200,Battle with {0},2069
+219,Fond Gaze,2069|2048,3,1,150,Battle with {0},2069
+220,Ultimate Law,2069|2050,3,2,150,Battle with {0},2069
+221,Golden Dazzle,2069|2065,3,2,150,Battle with {0},2069
+222,Dragon Guardian,2069|2055|2056|2057,3,1,250,Battle with {0},2069
+230,Earthly Branches Alliance,2070|2059,3,2,150,Battle with {0},2070
+231,Star Alliance,2071|2065,3,1,150,Battle with {0},2071
+232,Star Wisdom,2071|2069,3,2,150,Battle with {0},2071
+233,Star Majesty,2071|2047|2024,3,2,200,Battle with {0},2071
+234,Star Flame,2071|2056,3,1,150,Battle with {0},2071
+235,Star Theocracy,2071|2035|2055|2057,3,2,250,Battle with {0},2071
+236,Heaven Guard,3072|2052,3,2,150,Battle with {0},3072
+237,Chaos Wings,3072|2024,3,2,150,Battle with {0},3072
+238,Rite of Martyrdom,3072|2003,3,1,150,Battle with {0},3072
+239,Gale of War,3072|2049|2016,3,1,200,Battle with {0},3072
+240,Doomsday Baptism,3072|2055|2056|2057,3,1,250,Battle with {0},3072
+241,Star Galliard,2073|2069,3,1,150,Battle with {0},2073
+242,Holy Land in Peace,2073|2071,3,2,150,Battle with {0},2073
+243,Fantasy Overture,2073|2047,3,2,150,Battle with {0},2073
+244,Pretty Shadow,2073|2016|2068,3,1,200,Battle with {0},2073
+245,Star Theocracy,2073|2056|2057|2048,3,1,250,Battle with {0},2073
+246,Guardian Love,2074|2051,3,1,150,Battle with {0},2074
+247,Pure Love,2074|2039,3,2,150,Battle with {0},2074
+248,Elusive Love,2074|2067,3,2,150,Battle with {0},2074
+249,Dazzling Love,2074|2037|2050,3,1,200,Battle with {0},2074
+250,Alliance of Love,2074|2047|2054|2060,3,2,250,Battle with {0},2074
+251,Sovereign Bond,2075|2039,3,1,150,Battle with {0},2075
+252,Deity's Old Enemy,2075|2035,3,2,150,Battle with {0},2075
+253,Thunder of the Doomsday,2075|2057,3,2,150,Battle with {0},2075
+254,Greek Glory,2075|2002|2048,3,1,200,Battle with {0},2075
+255,Brilliance of All Stars,2075|2065|2071|2073,3,1,250,Battle with {0},2075
+256,The bond of friendship,2076|2035,3,1,150,Battle with {0},2076
+257,Lifetime Enemy,2076|2051,3,1,150,Battle with {0},2076
+258,A Song of Ice and Fire,2076|2055,3,2,150,Battle with {0},2076
+259,Wings of Darkness,2076|2049|2024,3,2,200,Battle with {0},2076
+260,Supreme Theocracy,2076|2035|2075|2037,3,1,250,Battle with {0},2076
+261,Goddess' Glory,2077|2039,3,1,150,Battle with {0},2077
+262,Blood Relation,2077|2035,3,1,150,Battle with {0},2077
+263,Friend or Enemy,2077|2076,3,2,150,Battle with {0},2077
+264,Edge of the Divine Realm,2077|2051|2016,3,2,200,Battle with {0},2077
+265,Thunder Wings,2077|2049|2050|2047,3,1,250,Battle with {0},2077
+266,Sunlight Flame,2078|2032,3,1,150,Battle with {0},2078
+267,God of Archery,2078|2047,3,1,150,Battle with {0},2078
+268,Mind of Art,2078|2069,3,2,150,Battle with {0},2078
+269,Glaring Light,2078|2037|2032,3,2,200,Battle with {0},2078
+270,Sacred Divinity,2078|2075|2056|2039,3,2,250,Battle with {0},2078
+271,Right To Action,2079|2057,3,1,150,Battle with {0},2079
+272,Pure and Clean,2079|2055,3,2,150,Battle with {0},2079
+273,Fiery Enthusiasm,2079|2056,3,1,150,Battle with {0},2079
+274,Strong Fondness,2079|2047,3,1,150,Battle with {0},2079
+275,Magic and Strength,2080|2059,3,2,150,Battle with {0},2080
+276,Tiger with Wings,2080|2070,3,1,150,Battle with {0},2080
+277,Divine Legacy,2081|2037,3,1,150,Battle with {0},2081
+278,Live to Die,2081|2034,3,1,150,Battle with {0},2081
+279,Eagle Wings,2081|2049,3,2,150,Battle with {0},2081
+280,Heart of Egypt,2081|2037|2011,3,2,200,Battle with {0},2081
+281,Angel of Destiny,2081|2032|2077|2069,3,1,250,Battle with {0},2081
+282,Nordic Majesty,2082|2035,3,1,150,Battle with {0},2082
+283,Rose Romance,2082|2051,3,1,150,Battle with {0},2082
+284,Celestial Queen,2082|2039,3,2,150,Battle with {0},2082
+285,Love Alliance,2082|2074|2047,3,2,200,Battle with {0},2082
+286,Doomsday Rose,2082|2055|2056|2057,3,2,250,Battle with {0},2082
+287,Greece’s Glory,2083|2069,3,1,150,Battle with {0},2083
+288,Lovers in Arms,2083|2073,3,2,150,Battle with {0},2083
+289,The Crusade Coalition,2083|2048,3,1,150,Battle with {0},2083
+290,Sovereign of the Sun,2083|2078|2047,3,2,200,Battle with {0},2083
+291,The Divine Right,2083|2039|2075|2065,3,1,250,Battle with {0},2083
+292,Celestial Hex,2084|2065,3,1,150,Battle with {0},2084
+293,Divine Accordance,2084|2068,3,2,150,Battle with {0},2084
+294,Ethereal Dirge,2084|2030,3,1,150,Battle with {0},2084
+295,Abyssal Sorcery,2084|2048|2050,3,2,200,Battle with {0},2084
+296,Seraphic Covenant,2084|2049|2016|2057,3,1,250,Battle with {0},2084
+297,Dual Stars,2085|2059,3,2,150,Battle with {0},2085
+298,Supreme Valor,2085|2070,3,1,150,Battle with {0},2085
+299,Fortune Apex,2085|2080,3,1,150,Battle with {0},2085
+300,Cycle of Fate,2086|2035,3,1,150,Battle with {0},2086
+301,Ethereal Wraith,2086|2048,3,2,150,Battle with {0},2086
+302,Requiescat Dirge,2086|2052,3,2,150,Battle with {0},2086
+303,Celestial Domination,2086|2075|2049,3,1,200,Battle with {0},2086
+304,Valkyrie's Descent,2086|2016|2076|2077,3,2,250,Battle with {0},2086
+305,Eternity Echoes,2087|2075,3,1,150,Battle with {0},2087
+306,Luminous Vault,2087|2078,3,2,150,Battle with {0},2087
+307,Abyssal Blaze,2087|2048,3,2,150,Battle with {0},2087
+308,Sacred Descend,2087|2049|2009,3,1,200,Battle with {0},2087
+309,Celestial Sentinel,2087|2011|2077|2047,3,1,250,Battle with {0},2087

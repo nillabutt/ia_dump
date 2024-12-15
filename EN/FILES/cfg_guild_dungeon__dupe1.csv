@@ -1,0 +1,6 @@
+id,name,npc_id,max_hp,story_id,bg_path
+1,guild_dungeon_name1,6001,40000,2000001,TianZhaoShenShe
+2,guild_dungeon_name2,6002,870000,2000002,TianZhaoShenShe
+3,guild_dungeon_name3,6003,3276000,2000003,TianZhaoShenShe
+4,guild_dungeon_name4,6004,7472000,2000004,TianZhaoShenShe
+5,guild_dungeon_name5,6005,999999999,0,TianZhaoShenShe

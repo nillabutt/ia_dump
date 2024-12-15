@@ -1,0 +1,6 @@
+﻿task_id,consume,get_happy_value,max_limit,desc,opening
+1,100,5,5000,Obtain 100 VIP EXP during the event period,0
+2,500,5,500,Consume 500 Diamonds during the event period,1
+3,1,5,500,Quick-Combat 1 times,1
+4,10,5,500,Gain 10 Daily Activity Pt. during the event period,1
+5,10,5,500,召唤10次女神,1

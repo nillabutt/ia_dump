@@ -117,6 +117,8 @@
 143602311,1,9,,,Ignite-Universe Storm,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
 153601111,2,,,,Flare Reborn,,提升速度（临时buff图标）,SPD UP,0
 153601211,2,,,,Flare Reborn,,伤害增加（临时buff图标）,DMG UP,0
+183651011,0,,,,Sacred Dawnfire,,H.DMG Increased,H.DMG Increased,0
+183651811,0,,,,Sacred Dawnfire,,H.DMG Increased,ATK Increased,999
 113701111,1,8,,,Sunder Armor - Purging Arrow,PoJia,DEF decreased by 60% for 3 rounds,DEF DOWN,0
 113702111,0,15,,,Excite-Sacred Dance,FenFa,"ATK increased by 40%, DEF increased by 50% for 3 rounds","ATK, DEF UP",0
 113801211,0,16,,,Encourage-Song of War,GuWu,"DEF increased by 100% of Hera's DEF, ATK increased by 60% of Hera's ATK for 3 rouinds",Increase ATK and DEF,0
@@ -162,6 +164,10 @@
 1348011011,0,0,,,临时暴击值,,临时暴击值,CRIT UP,0
 154801111,2,,,,临时增伤,,,DMG UP,0
 154802111,2,,,,护盾-曙光之羽,,最大生命值10%的不可驱散护盾,,0
+184801511,2,,,,护盾-逐日神光,,,,0
+184840811,2,,,,减伤-逐日神光,,,,0
+184850711,2,,,,护盾-逐日神光,,,,0
+184850811,2,,,,减伤-逐日神光,,,,0
 114901211,1,1,,,Stun-Order Controller,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 115001211,0,22,,,Taunt-Courage horn,TiaoXin,"Taunt, DMG Taken decreased by 50%, DMG Reflect increases by 70% for 2 rounds",Taunt | DMG Taken DOWN; DMG Reflect UP,0
 125001211,0,22,,,Taunt UR,TiaoXin,"Taunt, DMG Taken decreased by 60%, DMG Reflect increases by 80% for 2 rounds",Taunt | DMG Taken DOWN; DMG Reflect UP,0
@@ -175,9 +181,9 @@
 145001211,0,22,,,Taunt UR,TiaoXin,Reduces 60% DMG taken and increases 100% DMG Reflection under the state of [Taunt] for 2 rounds,Taunt | DMG Taken DOWN; DMG Reflect UP,0
 145001311,0,112,,,Link,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
 145001411,0,112,,,Link,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
-155001111,2,,,,Rainbow Sanctuary,,Increases P.RES by 2% of Heimdall’s HP,"DEF, P.RES, M.RES UP",0
-155001211,2,,,,Rainbow Sanctuary,,Increases DEF by 1% of Heimdall’s HP,,0
-155001311,2,,,,Rainbow Sanctuary,,Increases M.RES by 1% of Heimdall’s HP,,0
+155001111,2,,,,Rainbow Sanctuary,,Increases P.RES by 2% of Heimdall’s HP,P.RES Increased,0
+155001211,2,,,,Rainbow Sanctuary,,Increases DEF by 1% of Heimdall’s HP,DEF Increased,0
+155001311,2,,,,Rainbow Sanctuary,,Increases M.RES by 1% of Heimdall’s HP,M.RES Increased,0
 155002111,2,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken diverted",Link - DMG Split,0
 155002211,2,114,,,Link - Rainbow Sanctuary,,"Link, DMG Taken ",Link - DMG Diverted,0
 165001111,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken diverted",Link - DMG Split,0
@@ -196,6 +202,16 @@
 165051211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
 165051311,2,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
 165051411,2,,,,Rainbow Haven,HongGuangTianMu,Increase Max HP,Increase Max HP,0
+185001111,2,132,,,不灭神躯,,承担一次伤害,,0
+185021111,2,132,,,不灭神躯,,承担一次伤害,,0
+185021211,2,133,,,不灭神躯,,承担一次伤害,,0
+185031111,2,132,,,不灭神躯,,承担一次伤害,,0
+185031211,2,132,,,不灭神躯,,承担一次伤害,,0
+185041111,2,132,,,不灭神躯,,承担一次伤害,,0
+185041211,2,132,,,不灭神躯,,承担一次伤害,,0
+185051111,2,132,,,不灭神躯,,承担一次伤害,,0
+185051211,2,132,,,不灭神躯,,承担一次伤害,,0
+185051311,2,133,,,不灭神躯,,承担一次伤害,,0
 115102211,1,8|11,,,Smash-Sanction of Light,FenSui,"DEF, P.RES, M.RES decreased by 50% for 3 rounds","DEF, P.RES, M.RES DOWN",0
 115201211,0,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
 115201411,0,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
@@ -223,6 +239,16 @@
 165241211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
 165251111,2,80,,,Parry - Extreme Serenity,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
 165251211,2,59,,,心流-明镜止水,XinLiu,必定暴击，暴击伤害提高,,0
+185201411,2,1852,,,Divine Blade - Ethereal Frenzy,ShenRen,Each attack inflicts an additional 20% Holy DMG.,Divine Blade,0
+185221711,2,1852,,,Divine Blade - Ethereal Frenzy,ShenRen,"Increases Crit DMG by 50%, and each attack inflicts an additional 30% Holy DMG.",Divine Blade,0
+185241711,2,1852,,,Divine Blade - Ethereal Frenzy,ShenRen,"Increases ATK by 30%, boosts Crit DMG by 50%, and each attack inflicts an additional 30% Holy DMG.",Divine Blade,0
+185251711,2,1852,,,Divine Blade - Ethereal Frenzy,ShenRen,"Increases ATK by 30%, boosts Crit DMG by 100%, and each attack inflicts an additional 50% Holy DMG.",Divine Blade,0
+185264111,2,,SGLW_buff,,Himiko’s Will - Ethereal Frenzy,FuShen,,,0
+185265111,2,,SGLW_buff,,Himiko’s Will - Ethereal Frenzy,FuShen,,,0
+185265211,2,48,,,Parry - Ethereal Frenzy,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+185265311,2,49,,,Parry - Ethereal Frenzy,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+185265411,2,80,,,Parry - Ethereal Frenzy,ZhaoJia,Reduce one hit with high DMG(Neutral Status),DMG Taken DOWN,0
+185266111,0,27,,,Ethereal Frenzy,,Be Immune From Debuff,Debuff Immunity,0
 115301111,0,,,,Blessing-Affection,YuanFen_JS,Speed increased by 50 for 2 rounds,SPD UP,0
 115301311,0,,,,Blessing-Affection,YuanFen_BJ,CRIT increased by 50% for 2 rounds,CRIT UP,0
 115301511,0,,,,Blessing-Affection,YuanFen_BJSH,Critical DMG increased by 50% for 2 rounds,Crit DMG UP,0
@@ -321,6 +347,13 @@
 164951111,1,79,,,Helpless - Rifting Soul,WuYuan,"Control effects (Stun, Freeze and etc.) under [Helpless] have a 80% chance to resist being dispelled.",,0
 164951311,1,,,,Rifting Soul,LingHunLieHen,Increase DMG taken by 50%.,Increase DMG taken,0
 164951411,1,,,,Rifting Soul,LingHunLieHen,Decrease Debuff RES by 30%.,Decrease Debuff RES,0
+184901211,2,128,XKFZ_buff,,Exile - Void Exile,FangZhu,"Immune to all effects and damage, and skips their action round.",Exile,0
+184901311,1,,,,易伤,,,受到伤害提升,0
+184931211,2,128,XKFZ_buff,,Exile - Void Exile,FangZhu,"Immune to all effects and damage, and skips their action round.",Exile,0
+184931311,1,,,,易伤,,,受到伤害提升,0
+184951211,2,128,XKFZ_buff,,Exile - Void Exile,FangZhu,"Immune to all effects and damage, and skips their action round.",Exile,0
+184951311,1,,,,易伤,,,受到伤害提升,0
+184963111,1,1,,,Stun - Void Exile,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 116001311,1,,,,Frostbite-Frozen Blister,DongShang,Speed decreased by 30 for 2 rounds,SPD DOWN,0
 116001411,1,10,,,Bleed-Frozen Blister,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
 116002211,0,,,,Shield-Bubble Cure,,Adds a non-dispellable shield of 50% of Max ATK for 1 round,,0
@@ -678,6 +711,29 @@
 158701112,1,,,,Lock - Scorching Sigil,SuoDing,DMG Reduced,DMG Reduced,0
 158701211,2,93,,,追击,,,,0
 158701311,1,,,,Scorching Sigil,SYLY,Each layer increases own True DMG by 5%.,True DMG Boost,999
+128801211,0,,,,白羽-白羽圣歌,,伤害增加50%，暴击伤害增加50%,DMG Increase | Crit DMG Increase,0
+128802111,1,10,,,流血-放逐之光,LiuXue,无法恢复生命值，攻击力降低30%，暴击伤害降低100%,无法回复|攻击力降低|暴击伤害降低,0
+148801111,0,,,,Shield,,,,0
+148802111,2,10,,,流血-放逐之光,LiuXue,无法恢复生命值，攻击力降低30%，暴击伤害降低100%,无法回复|攻击力降低|暴击伤害降低,0
+168801111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
+168821111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
+168821211,0,,,,Bonus,,,能量回复效率提升,0
+168831111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
+168831211,0,,,,Bonus,,,能量回复效率提升,0
+168841111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
+168841211,0,,,,Bonus,,,能量回复效率提升|天启神技伤害增加,0
+168851111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
+168851211,0,,,,Bonus,,,能量回复效率提升|天启神技伤害增加,0
+168861111,2,,,,屏障特效,,,,99
+188801111,2,,,,神权-神权领域,,行动后额外回复1点神权值,神权,0
+188821211,0,,,,神威-神权领域,,神圣伤害提升30%,神圣伤害增加,0
+188831211,0,,,,神威-神权领域,,神圣伤害提升30%，神权技能伤害增加20%,神圣伤害增加|神权技能伤害增加,0
+188841211,0,,,,神威-神权领域,,神圣伤害提升50%，神权技能伤害增加30%,神圣伤害增加|神权技能伤害增加,0
+188851211,0,,,,神威-神权领域,,神圣伤害提升50%，神权技能伤害增加30%,神圣伤害增加|神权技能伤害增加,0
+188851311,0,131,ZSLMX_buff,,屏障-神权领域,TianHui,为全体友军抵挡伤害,,99
+188851411,2,188,,,标记,,,,0
+44444111,1,129,,,Hatred,,,,0
+44446111,1,130,,,Weaken,YunXuan,,,0
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0

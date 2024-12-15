@@ -1,0 +1,11 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,content,content_param,link
+33000001,33,0,0,0,40003,10,1:2:100,Deals 10% DMG to Boss for the challenge,Deals 10% DMG to Boss for the challenge,
+33000002,33,0,0,0,40003,20,1:2:100,Deals 20% DMG to Boss for the challenge,Deals 20% DMG to Boss for the challenge,
+33000003,33,0,0,0,40003,30,1:2:100,Deals 30% DMG to Boss for the challenge,Deals 30% DMG to Boss for the challenge,
+33000004,33,0,0,0,40003,40,1:2:100,Deals 40% DMG to Boss for the challenge,Deals 40% DMG to Boss for the challenge,
+33000005,33,0,0,0,40003,50,1:2:100,Deals 50% DMG to Boss for the challenge,Deals 50% DMG to Boss for the challenge,
+33000006,33,0,0,0,40003,60,1:2:100,Deals 60% DMG to Boss for the challenge,Deals 60% DMG to Boss for the challenge,
+33000007,33,0,0,0,40003,70,1:2:100,Deals 70% DMG to Boss for the challenge,Deals 70% DMG to Boss for the challenge,
+33000008,33,0,0,0,40003,80,5:3000027:1,Deals 80% DMG to Boss for the challenge,Deals 80% DMG to Boss for the challenge,
+33000009,33,0,0,0,40003,90,5:3000027:1,Deals 90% DMG to Boss for the challenge,Deals 90% DMG to Boss for the challenge,
+33000010,33,0,0,0,40003,100,5:3000027:1,Deals 100% DMG to Boss for the challenge,Deals 100% DMG to Boss for the challenge,

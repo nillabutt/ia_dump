@@ -1,0 +1,31 @@
+cfg_id,armor_part,illusion_level,attr_permillage,name,icon
+1,1,1,200,Amethyst Sword,A1.png
+2,5,1,150,Amethyst Bracelet,A2.png
+3,2,1,200,Amethyst Helmet,A3.png
+4,10,1,200,Amethyst Boots,A4.png
+5,8,1,300,Amethyst Belt,A5.png
+6,4,1,150,Amethyst Armor,A6.png
+7,1,2,400,Mithril Sword,B1.png
+8,5,2,300,Mithril Bracelet,B2.png
+9,2,2,400,Mithril Helmet,B3.png
+10,10,2,400,Mithril Boots,B4.png
+11,8,2,600,Mithril Belt,B5.png
+12,4,2,350,Mithril Armor,B6.png
+13,1,3,600,Glittering Sword,C1.png
+14,5,3,450,Glittering Wrist Ring,C2.png
+15,2,3,600,Glittering Bracelet,C3.png
+16,10,3,600,Glittering Boots,C4.png
+17,8,3,800,Glittering Belt,C5.png
+18,4,3,550,Glittering Armor,C6.png
+19,1,4,800,Meteorite Longsword,D1.png
+20,5,4,600,Bindings of Meteorite,D2.png
+21,2,4,800,Meteorite Helmet,D3.png
+22,10,4,800,Meteorite Boots,D4.png
+23,8,4,900,Meteorite Belt,D5.png
+24,4,4,750,Meteorite Battle Armor,D6.png
+25,1,5,1000,Molten Longsword,E1.png
+26,5,5,750,Molten Bracers,E2.png
+27,2,5,1000,Molten Cap,E3.png
+28,10,5,1000,Molten Boots,E4.png
+29,8,5,1100,Molten Belt,E5.png
+30,4,5,950,Molten Armor,E6.png

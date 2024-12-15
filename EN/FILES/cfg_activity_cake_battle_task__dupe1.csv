@@ -1,0 +1,11 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,content,content_param,link
+28000001,26,0,0,0,2,1,5:3000146:2,Daily Login,Daily Login,
+28000002,26,0,0,0,37,2,5:3000146:2,Participated in the guild boss 2 times,Participated in the guild boss 2 times,13
+28000003,26,0,0,0,48,2,5:3000146:2,Sweep Sky-tower 2 times,Sweep Sky-tower 2 times,10
+28000004,26,0,0,0,25,2,5:3000146:2,Quick Combat 2 times,Quick Combat 2 times,4
+28000005,26,0,0,0,26,3,5:3000146:2,Challenge the Arena 3 times,Challenge the Arena 3 times,3|0
+28000006,26,0,0,0,114,1,5:3000146:2,Challenge World Boss 1 time successfully,Challenge World Boss 1 time successfully,
+28000007,26,0,0,0,51,1,5:3000146:2,Star Trial 1 time,Star Trial 1 time,11
+28000008,26,0,0,0,116,1,5:3000146:2,Secret abyss battle 1 time,Secret abyss battle 1 time,18
+28000009,26,0,0,0,92,3,5:3000146:2,Summon 3 times,Summon 3 times,8
+28000010,26,0,0,0,11,2,5:3000146:2,Gear smelt 2 times,Gear smelt 2 times,102|0

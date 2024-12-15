@@ -1,0 +1,13 @@
+attr_key,attr_additon
+max_hp,100
+min_attack,100
+max_attack,100
+defend,500
+defend_ignore_level,500
+physc_def,500
+magic_def,500
+crit,500
+decrit,500
+debuff_resist,2
+bounce_rate,1
+damage_add,10

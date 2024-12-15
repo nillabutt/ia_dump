@@ -1,0 +1,22 @@
+task_id,task_type,task_group,task_index,task_id_before,activity_day,task_condition,task_value,reward,vip_exp_inherit_value,content,content_param
+25000101,25,1,1,0,7,2,1,1:2:100,100,Game Login,
+25000102,25,3,1,0,7,92,20,5:2000020:1,20,Summon {0} times,20
+25000103,25,0,0,0,7,97,1,5:3000004:2,20,Watch ad 1 time,
+25000104,25,0,0,0,7,3,41,1:4:1000,20,Complete Dungeon {0},4-1
+25000105,25,1,2,25000101,7,2,5,5:2000006:1,20,Log in {0} day(s),5
+25000106,25,0,0,0,7,99,10,5:2000019:1,20,Purchase {0} items from the Store,10
+25000107,25,0,0,0,14,25,20,5:2000006:1,20,Quick-combat {0} time(s),20
+25000108,25,2,1,0,14,125,15,5:2000005:10,20,Adventure {0} times,15
+25000109,25,4,1,0,14,13,30,1:4:1000,20,Enhance any piece of gear {0} times,30
+25000110,25,0,0,0,14,37,10,5:2000019:1,20,Participated in the guild boss {0} times,10
+25000111,25,0,0,0,14,26,20,5:2000020:1,20,Arena challenge {0} times,20
+25000112,25,0,0,0,21,126,1,5:2000006:1,20,Clash of Titans {0} times,1
+25000113,25,0,0,0,21,6,200,5:3000008:20,20,Train any angel {0} times,200
+25000114,25,0,0,0,21,93,20,1:4:1000,20,Craft {0} gear or artifacts,20
+25000115,25,2,2,25000108,21,125,25,5:2000019:1,20,Adventure {0} times,25
+25000116,25,5,1,0,21,48,20,5:2000020:1,20,Raid Sky Tower {0} time(s),20
+25000117,25,0,0,0,28,116,5,5:2000006:1,20,Secret abyss battle {0} times,5
+25000118,25,0,0,0,28,51,5,5:1000008:1,20,Star Trial {0} times,5
+25000119,25,3,2,25000102,28,92,30,5:2000020:1,20,Summon {0} times,30
+25000120,25,4,2,25000109,28,13,100,1:4:1000,20,Enhance any piece of gear {0} times,100
+25000121,25,5,2,25000116,28,48,40,5:2000019:1,20,Raid Sky Tower {0} time(s),40

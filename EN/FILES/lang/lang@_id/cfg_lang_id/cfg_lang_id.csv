@@ -5660,7 +5660,7 @@ Apakah kamu ingin memulihkan memori dalam mimpi?,
 "Atas berkah para Angel, kamu menemukan kotak penuh koin, buka sekarang?",
 Sisa waktu memulihkan 1 Stamina,
 Time remaining:,Sisa waktu:
-GO_TO_UPDATE,"Untuk menggunakan fitur ini, silakan mengunduh versi 1.19.0 atau lebih tinggi dari Google Play Store"
+GO_TO_UPDATE,"Untuk menggunakan fitur ini, silakan mengunduh versi 7.0.0 atau lebih tinggi dari Google Play Store"
 Stamina,
 Tahun Baru Eksklusif 1,
 Tahun Baru Eksklusif 2,
@@ -7733,6 +7733,7 @@ Situasi pertarungan,
 GUILD_WAR_BATTLE_REPORT_2,
 KorAgreement,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://mujoy.sg/pc/policy.html><color=#BEE7FC><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
 COMMON_AGREEMENT,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://mujoy.sg/pc/policy.html><color=#BEE7FC><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
+COMMON_AGREEMENT_JF,"Silakan membaca terlebih dahulu kebijakan Ketentuan dan Kebijakan Privasi bagi pengguna, setelah menyetujui langsung memulai permainan\n<a href=http://g02.api.yiigames.com/view/wap/privacy_policy_en.html><color=#BEE7FC><Ketentuan dan Kebijakan Privasi bagi pengguna></color></a>"
 Guild War Treasure Chest,
 Di dalam Treasure Chest dari hadiah Guild War sepertinya ada beberapa harta karun berharga yang tersembunyi.,
 Spirit: Heaven Slash,
@@ -13412,8 +13413,8 @@ MONTH_VIP_DESC_LEGEND,Quick Combat Experience+10%\n Jumlah gratis quick combat+1
 MONTH_VIP_DESC_RARE,Quick Combat Experience+10%\n Jumlah gratis quick combat+1\nVerifikasi Idling+10%\nIdling esensi enhance+20%
 Bahasa Jepang,
 USER_BACK_NEW_ENTRY_GIFT_MAIL_TITLE_LOW_LEVEL,Selamat datang kembali
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_TITLE,Hadiah kartu ucapan Thanksgiving Festival
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,"Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!"
+Hadiah kartu ucapan Thanksgiving Festival,
+"Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!",
 Korea,
 Bahasa Jepang,
 NOTICE_10010003,Sang terpilih! <color=#6AE0F4>{0}</color> telah Awaken <color=#FF8080FF>UR+-{1}</color> menjadi bintang <color=#6AE0F4>{2}</color>!

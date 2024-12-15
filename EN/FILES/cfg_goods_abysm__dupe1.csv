@@ -1,0 +1,31 @@
+cfg_id,index,type,recover_hp_permil,duration_rounds,is_special_attr,attr_type,attr_permil_value,cost_money,quality,name,icon,description,limit_level
+10000001,1,0,0,5,1,1,50,3,2,ATK +5%,KuangLuan.png,"For angels in the line-up, ATK +5% for 5 levels",0
+10000002,2,0,0,5,1,1,100,6,3,ATK +10%,KuangLuan.png,"For angels in the line-up, ATK +10% for 5 levels",0
+10000003,3,0,0,5,1,1,150,9,4,ATK +15%,KuangLuan.png,"For angels in the line-up, ATK +15% for 5 levels",0
+10000004,4,0,0,5,1,1,200,12,5,ATK +20%,KuangLuan.png,"For angels in the line-up, ATK +20% for 5 levels",0
+10000005,5,0,0,5,1,1,300,15,6,ATK +30%,KuangLuan.png,"For angels in the line-up, ATK +30% for 5 levels",0
+10000006,6,0,0,5,1,4,50,3,2,DEF +5%,ZhuanZhu.png,"For angels in the line-up, DEF +5% for 5 levels",0
+10000007,7,0,0,5,1,4,100,6,3,DEF +10%,ZhuanZhu.png,"For angels in the line-up, DEF +10% for 5 levels",0
+10000008,8,0,0,5,1,4,150,9,4,DEF +15%,ZhuanZhu.png,"For angels in the line-up, DEF +15% for 5 levels",0
+10000009,9,0,0,5,1,4,200,12,5,DEF +20%,ZhuanZhu.png,"For angels in the line-up, DEF +20% for 5 levels",0
+10000010,10,0,0,5,1,4,250,15,6,DEF +25%,ZhuanZhu.png,"For angels in the line-up, DEF +25% for 5 levels",0
+10000011,11,0,0,5,1,7,100,3,2,CRIT +10%,FenFa.png,"For angels in the line-up, Crit Value +10% for 5 levels",0
+10000012,12,0,0,5,1,7,200,6,3,CRIT +20%,FenFa.png,"For angels in the line-up, Crit Value +20% for 5 levels",0
+10000013,13,0,0,5,1,7,300,9,4,CRIT +30%,FenFa.png,"For angels in the line-up, Crit Value +30% for 5 levels",0
+10000014,14,0,0,5,1,7,400,12,5,CRIT +40%,FenFa.png,"For angels in the line-up, Crit Value +40% for 5 levels",0
+10000015,15,0,0,5,1,7,500,15,6,CRIT +50%,FenFa.png,"For angels in the line-up, Crit Value +50% for 5 levels",0
+10000016,16,0,0,5,1,8,100,3,2,Crit DMG +10%,YuanFen_YCDK.png,"For angels in the line-up, Crit DMG +10% for 5 levels",0
+10000017,17,0,0,5,1,8,200,6,3,Crit DMG +20%,YuanFen_YCDK.png,"For angels in the line-up,Crit DMG +20% for 5 levels",0
+10000018,18,0,0,5,1,8,300,9,4,Crit DMG +30%,YuanFen_YCDK.png,"For angels in the line-up, Crit DMG +30% for 5 levels",0
+10000019,19,0,0,5,1,8,400,12,5,Crit DMG +40%,YuanFen_YCDK.png,"For angels in the line-up, Crit DMG +40% for 5 levels",0
+10000020,20,0,0,5,1,8,500,15,6,Crit DMG +50%,YuanFen_YCDK.png,"For angels in the line-up, Crit DMG +50% for 5 levels",0
+10000021,21,0,0,5,0,30,5,3,2,DMG +5%,QiangZhuang.png,"For angels in the line-up, DMG +5% for 5 levels",0
+10000022,22,0,0,5,0,30,10,6,3,DMG +10%,QiangZhuang.png,"For angels in the line-up, DMG +10% for 5 levels",0
+10000023,23,0,0,5,0,30,15,9,4,DMG +15%,QiangZhuang.png,"For angels in the line-up, DMG +15% for 5 levels",0
+10000024,24,0,0,5,0,30,20,12,5,DMG +20%,QiangZhuang.png,"For angels in the line-up, DMG +20% for 5 levels",0
+10000025,25,0,0,5,0,30,25,15,6,DMG +25%,QiangZhuang.png,"For angels in the line-up, DMG +25% for 5 levels",0
+10000026,26,1,100,0,0,0,0,3,2,Restore HP by 10%,YuHe.png,"For angels in the line-up, restore health by 10% of its MAX HP",0
+10000027,27,1,200,0,0,0,0,6,3,Restore HP by 20%,YuHe.png,"For angels in the line-up, restore health by 20% of its MAX HP",0
+10000028,28,1,300,0,0,0,0,9,4,Restore HP by 30%,YuHe.png,"For angels in the line-up, restore health by 30% of its MAX HP",0
+10000029,29,1,400,0,0,0,0,12,5,Restore HP by 40%,YuHe.png,"For angels in the line-up, restore health by 40% of its MAX HP",0
+10000030,30,1,500,0,0,0,0,15,6,Restore HP by 50%,YuHe.png,"For angels in the line-up, restore health by 50% of its MAX HP",0

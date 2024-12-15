@@ -1,0 +1,12 @@
+task_id,task_type,task_condition,task_value,reward,name,content,content_param,link
+15000001,15,97,5,5:3000053:1,Daily Bonus,Watch game AD 5 times,,109|1
+15000002,15,48,3,5:3000053:1,Daily Sweeping,Sweep Sky-tower 3 times,,10
+15000003,15,6,50,5:3000053:1,Daily Training,Train an Angel 50 times,,1|2
+15000004,15,81,10000,5:3000053:1,Daily Enhancing,Consume 10000 Enhance Essences,,1|0
+15000005,15,26,5,5:3000053:1,Daily Contest,Challenge the Arena 5 times,,3|0
+15000006,15,93,3,5:3000053:1,Daily Craft,Craft 3 pieces of gear or artifacts,,102|1
+15000007,15,11,100,5:3000053:1,Daily Smelting,Smelt gear 100 times,,102|0
+15000008,15,33,5,5:3000053:1,Daily Adventures,Adventure 5 times,,5
+15000009,15,99,5,5:3000053:1,Daily Shop,Purchase 5 times from the shop,,2|0
+15000010,15,25,3,5:3000053:1,Daily Quick-combat,Quick-combat 3 times,,4
+15000011,15,92,3,5:3000053:1,Daily Summon,Summon 3 times,,8

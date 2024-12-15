@@ -1,4 +1,4 @@
-cid,name,build_id,desc,att_type,add_value[1],add_value[2],add_value[3],add_value[4],add_value[5]
+cid,name,build_id,desc,show_attr_type,add_value[1],add_value[2],add_value[3],add_value[4],add_value[5]
 1,Spar Mine Master,1,Crystal Prod,0,1:5,21:10,41:15,61:20,81:25
 3,Flame Affinity,2,Essence Prod,0,1:5,21:10,41:15,61:20,81:25
 5,Holy Core Prayer,3,Holy core Prod,0,1:5,21:10,41:15,61:20,81:25
@@ -21,3 +21,6 @@ cid,name,build_id,desc,att_type,add_value[1],add_value[2],add_value[3],add_value
 20,Arrogant Shouts,3,Holy core Prod,1,1:5|1:2:3:6000,21:10|21:2:3:12000,41:15|41:2:3:18000,61:20|61:2:3:24000,81:25|81:2:3:30000
 21,Fiery Breath,6,Trial crystals Prod,2,1:5|1:2:17:20,21:10|21:2:17:40,41:15|41:2:17:60,61:20|61:2:17:80,81:25|81:2:17:100
 22,Resilient Spirit,4,Diamond Prod,1,1:5|1:2:1:60000,21:10|21:2:1:120000,41:15|41:2:1:180000,61:20|61:2:1:240000,81:25|81:2:1:300000
+23,Life Essence,3,Holy core Prod,2,1:5|1:3:1:20,21:10|21:3:1:40,41:15|41:3:1:60,61:20|61:3:1:80,81:25|81:3:1:100
+24,Blizzard Shield,4,Diamond Prod,2,1:5|1:3:2:20,21:10|21:3:2:40,41:15|41:3:2:60,61:20|61:3:2:80,81:25|81:3:2:100
+25,Purgatory Power,5,Gem Prod,2,1:5|1:3:4:20,21:10|21:3:4:40,41:15|41:3:4:60,61:20|61:3:4:80,81:25|81:3:4:100

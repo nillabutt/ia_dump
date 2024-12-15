@@ -1,0 +1,16 @@
+id,picture,is_time_limit,during_hour_time,source_text,describe_text,have_effct
+1,img_guild_21.png,0,0,,,
+2,img_guild_22.png,0,0,,,
+3,img_guild_23.png,0,0,,,
+4,img_guild_24.png,0,0,,,
+5,img_guild_25.png,0,0,,,
+6,img_guild_26.png,0,0,,,
+7,img_guild_27.png,0,0,,,
+8,img_guild_21.png,1,1,金苹果之战冠军,金苹果树，树上结了许多金苹果，且为动态会徽，会有摇晃的金苹果树和不断掉落和生长的金苹果。,guild_apple_champion
+9,img_guild_22.png,1,5,金苹果之战亚军,金苹果树，树上结了许多金苹果,
+10,img_guild_23.png,1,5,金苹果之战32强,金苹果数，树上只结了1-2个金苹果,
+11,img_guild_24.png,1,10,金苹果参与奖,枝头下的一颗金苹果,
+12,img_guild_25.png,1,10,公会战冠军,倾斜的装满金币的冠军奖杯，且会有源源不断的金币倒出,guild_war_champion
+13,img_guild_26.png,1,10,公会战亚军,静态的装满金币的奖杯,
+14,img_guild_27.png,1,10,公会战32强,普通的奖杯,
+15,img_guild_27.png,1,8,公会战参与奖,一枚金币,

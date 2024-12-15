@@ -1,0 +1,5 @@
+id,type,charge_cfg_id,description,award
+1,0,0,,1:1:10000
+2,1,24,<size=32>Get <b><color=#FCC65AFF>60</color></b> diamonds</size> \nGet <b><color=#FF3737FF>588</color></b> diamonds package,10:60|1:2:60|5:1000021:1|5:3000005:1|5:2000006:1
+3,2,25,<size=32>Get <b><color=#FCC65AFF>80</color></b> diamonds</size> \nGet <b><color=#FF3737FF>988</color></b> diamonds package,10:80|1:2:80|5:1000021:1|5:3000005:2|5:2000006:2
+4,3,26,<size=32>Get <b><color=#FCC65AFF>120</color></b> diamonds</size> \nGet <b><color=#FF3737FF>1588</color></b> diamonds package,10:120|1:2:120|5:1000021:1|5:3000005:3|5:2000007:1

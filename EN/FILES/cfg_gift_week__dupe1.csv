@@ -1,0 +1,5 @@
+type,name,old_price,award,charge_cfg_id
+1,Summon Weekly Card,$49.99,5:3000005:1|5:3000004:5,12
+2,Training Weekly Card,$64.99,5:3000009:10|5:3000008:15,14
+3,Fighting Weekly Card,$99.99,5:2000005:3|1:4:2000,15
+4,Fortune Weekly Card,$49.99,5:1000006:5,16

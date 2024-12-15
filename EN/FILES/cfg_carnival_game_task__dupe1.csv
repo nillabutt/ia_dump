@@ -1,0 +1,6 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,content,content_param,link
+37100001,37,0,0,0,2,1,5:3000211:1,Daily Login,Daily Login,
+37100002,37,0,0,0,37,1,5:3000211:1,Participated in the guild boss 1 times,Participated in the guild boss 1 times,
+37100003,37,0,0,0,25,3,5:3000211:1,Quick-combat 3 times,Quick-combat 3 times,4
+37100004,37,0,0,0,121,500,5:3000211:1,Consume 500 Holy Cores in total,Consume 500 Holy Cores in total,
+37100005,37,0,0,0,138,500,5:3000211:1,Consume 500 Diamonds in total,Consume 500 Diamonds in total,

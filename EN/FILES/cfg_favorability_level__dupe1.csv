@@ -1,0 +1,11 @@
+level,condition_value,need_vowed,need_up_by_incarnation,condition_name,color,attr_fixd_type_type,attr_fixd_type,attr_fixd_value,attr_fixd_type_type2,attr_fixd_type2,attr_fixd_value2
+1,0,0,0,Cold,#fffffff,0,0,0,0,0,0
+2,200,0,0,Friendly,#77e6bb,3,2,10,3,1,10
+3,500,0,0,Dating,#89c5ef,3,2,10,3,1,10
+4,1000,0,0,Intimate,#feb5ee,3,2,20,3,1,20
+5,1500,0,0,Engaged,#ffa665,3,2,20,3,1,20
+6,2000,1,0,Vow,#ff7070,3,2,40,3,1,40
+7,3000,1,0,Convergence,#ff7070,3,2,50,3,1,50
+8,4000,1,1,Resonance,#ff7070,3,2,50,3,1,50
+9,5000,1,1,Reflection,#ff7070,3,2,50,3,1,50
+10,6000,1,1,Unity,#ff7070,3,2,50,3,1,50

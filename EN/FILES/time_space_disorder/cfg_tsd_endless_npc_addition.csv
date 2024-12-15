@@ -1,0 +1,8 @@
+attr_key,attr_additon
+max_hp,100
+min_attack,100
+max_attack,100
+defend,10
+defend_ignore_level,10
+physc_def,10
+magic_def,10

@@ -1,0 +1,19 @@
+task_id,task_type,task_group,task_index,task_id_before,task_subtype,task_condition,task_value,reward,qmkh_active_value,name,content,content_param
+21000101,21,0,0,0,0,30,10000,1:2:100|1:14:5000,0,Angel Horn,"The team's total Combat Rating reaches 10,000",5
+21000102,21,0,1,0,0,30,30000,1:2:100|5:3000006:50,0,Angel Horn,"The team's total Combat Rating reaches 30,000",10
+21000103,21,0,2,0,0,30,50000,1:2:100|1:4:500,0,Angel Horn,"The team's total Combat Rating reaches 50,000",15
+21000104,21,0,3,0,0,30,100000,1:2:100|5:2000020:1,0,Angel Horn,The team's Combat Rating reaches 100000,20
+21000105,21,0,4,0,0,30,200000,1:2:200|5:3000006:100,0,Angel Horn,The team's Combat Rating reaches 200000,25
+21000106,21,0,5,0,0,30,500000,1:2:300|1:4:1000,0,Angel Horn,The team's Combat Rating reaches 500000,30
+21000107,21,0,6,0,0,30,800000,1:2:400|5:2000009:60,0,Angel Horn,The team's Combat Rating reaches 800000,35
+21000108,21,0,7,0,0,30,1000000,1:2:500|5:2000010:50,0,Angel Horn,The team's Combat Rating reaches 1000000,40
+21000109,21,0,8,0,0,30,1200000,1:2:600|5:3000007:30,0,Angel Horn,The team's Combat Rating reaches 1200000,45
+21000110,21,0,9,0,0,30,1500000,1:2:700|5:3000008:20,0,Angel Horn,The team's Combat Rating reaches 1500000,50
+21000111,21,0,10,0,0,30,2000000,1:2:800|5:3000006:1500,0,Angel Horn,The team's Combat Rating reaches 2000000,55
+21000112,21,0,11,0,0,30,2500000,1:2:900|5:2000011:40,0,Angel Horn,The team's Combat Rating reaches 2500000,60
+21000113,21,0,12,0,0,30,3000000,1:2:1000|5:6000001:35,0,Angel Horn,The team's Combat Rating reaches 3000000,65
+21000114,21,0,13,0,0,30,3500000,1:2:1100|5:3000064:10,0,Angel Horn,The team's Combat Rating reaches 3500000,70
+21000115,21,0,14,0,0,30,4000000,1:2:1200|5:1000008:20,0,Angel Horn,The team's Combat Rating reaches 4000000,75
+21000116,21,0,15,0,0,30,4500000,1:2:1300|5:3000011:10,0,Angel Horn,The team's Combat Rating reaches 4500000,80
+21000117,21,0,16,0,0,30,5000000,1:2:1400|5:3000005:10,0,Angel Horn,The team's Combat Rating reaches 5000000,85
+21000118,21,0,17,0,0,30,6000000,1:2:1500|15:151001:1,0,Angel Horn,The team's Combat Rating reaches 6000000,90

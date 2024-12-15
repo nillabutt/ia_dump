@@ -301,3 +301,8 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 307,Abyssal Blaze,2087|2048,3,2,150,Battle with {0},2087
 308,Sacred Descend,2087|2049|2009,3,1,200,Battle with {0},2087
 309,Celestial Sentinel,2087|2011|2077|2047,3,1,250,Battle with {0},2087
+310,Stars of Redemption,2088|2049,3,1,150,Battle with {0},2088
+311,无暇之花,2088|2039,3,2,150,Battle with {0},2088
+312,Supreme Flame,2088|2087,3,2,150,Battle with {0},2088
+313,Tri-Wing Pact,2088|2084|2060,3,1,200,Battle with {0},2088
+314,Luminous Chaos,2088|2086|2050|2081,3,2,250,Battle with {0},2088

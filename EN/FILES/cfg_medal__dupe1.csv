@@ -1,0 +1,120 @@
+﻿id,name,quality_level,desc,condition_type,need_reach_num,tab,reward,show
+101,Pro Player,1,"The player reaches Lv. 100, Rank 3",1,300,1,1:2:100,1
+201,Shining Star,1,Any SSR+ Angel reaches 5 Stars,2,1,1,1:2:100,1
+301,Glorious Star,2,Any UR Angel reaches 5 Stars,3,1,1,1:2:100,1
+401,Supreme Star,2,Any UR+ Angel reaches 5 Stars,4,1,1,1:2:100,1
+501,Unbreakable,2,Any Angel equips with a whole set of T3 Magic Stone,5,1,1,1:2:100,1
+601,Rare Treasure,1,Equip 1 UR+5 Relic,6,1,1,1:2:100,1
+602,Valuable Asset,2,Equip 6 UR+5 Relics,6,6,1,1:2:100,1
+603,Treasure Trove,3,Equip 12 UR+5 Relics,6,12,1,1:2:100,1
+701,Relic Polisher,1,Equip 1 +90 Relic,7,1,1,1:2:100,1
+702,Relic Appraiser,2,Equip 6 +90 Relics,7,6,1,1:2:100,1
+703,Relic Guru,3,Equip 12 +90 Relics,7,12,1,1:2:100,1
+801,Artifact Lover,1,Any Angel equips with 6 10-star Artifacts,8,1,1,1:2:100,1
+802,Artifact Collector,2,6 Angels equip with 6 10-star Artifacts,8,6,1,1:2:100,1
+803,Artifact Guru,3,12 Angels equip with 6 10-star Artifacts,8,12,1,1:2:100,1
+901,Runway Model,1,Any Angel equips with 1 Lv.10 Orange Attires,9,1,1,1:2:100,1
+1001,Fashion Icon,2,6 Angels equip with 6 Lv.10 Orange Attires,10,6,1,1:2:100,1
+1002,A-list Superstar,3,12 Angels equip with 6 Lv.10 Orange Attires,10,12,1,1:2:100,1
+1101,Fashion Diva,1,Unlock 100 Fashions with Red or higher Quality,11,100,1,1:2:100,1
+1201,Training Lover,1,Complete any Angel’s Training,12,1,1,1:2:100,1
+1202,Training Fanatic,2,Complete 6 Angels’ Training,12,6,1,1:2:100,1
+1203,Training Master,3,Complete 12 Angels’ Training,12,12,1,1:2:100,1
+1301,Playboy,1,Vow to 1 Angels,13,1,1,1:2:100,1
+1302,Lady-killer,2,Vow to 20 Angels,13,20,1,1:2:100,1
+1303,Casanova,3,Vow to 50 Angels,13,50,1,1:2:100,1
+1401,Gem Collector,1,Equip any Angel with 1 Lv.15 Gems,14,1,1,1:2:100,1
+1501,Gem Hoarder,2,Equip 1 Angels with 4 Lv.15 Gems,15,1,1,1:2:100,1
+1502,Gem Connoisseur,3,Equip 6 Angels with 4 Lv.15 Gems,15,6,1,1:2:100,1
+1601,Wunderkind,1,Main Talent level reaches 30,16,30,1,1:2:100,1
+1602,Gifted One,2,Main Talent level reaches 60,16,60,1,1:2:100,1
+1603,Natural Talent,3,Main Talent level reaches 85,16,85,1,1:2:100,1
+1701,Bling Bling,1,The Spark Value reaches 500,17,500,1,1:2:100,1
+1702,Milky Way,2,The Spark Value reaches 1000,17,1000,1,1:2:100,1
+1703,Stellar,3,The Spark Value reaches 2000,17,2000,1,1:2:100,1
+1801,Elemental Force,2,Collect all the Eudemons of Elements series,18,1,1,1:2:100,1
+1901,Ragnarok Witness,2,Collect all the Eudemons of Ragnarok series,19,1,1,1:2:100,1
+2001,Great Adventurer,1,Complete 5-star Adventure 50 times,20,50,2,1:2:100,1
+2101,Sky Chaser,1,Clear Story 100 of the Sky Tower,21,100,2,1:2:100,1
+2102,Sky Conqueror,1,Clear Story 300 of the Sky Tower,21,300,2,1:2:100,1
+2103,Cloud Ascender,2,Clear Story 550 of the Sky Tower,21,550,2,1:2:100,1
+2201,Shopaholic,1,Purchase 100 times from merchants in the Secret Abyss,22,100,2,1:2:100,1
+2301,Abyssal Lord,3,Reach Floor 500 in Fear Abyss,23,500,2,1:2:100,1
+2401,Sandman,1,Clear 10 different Angel Dreamlands with 100% completion,24,10,2,1:2:100,1
+2501,Stars Conqueror,1,Pass the Star Trial on Hell difficulty,25,1,2,1:2:100,1
+2601,Guild Warrior,1,Challenge the Guild Boss 100 times,26,100,2,1:2:100,1
+2701,Arena Champion,3,Rank 1st 10 times in the Arena,27,10,3,1:2:100,1
+2801,Battle Fanatic,1,Win the Champion in Clash of Titans 1 times,28,1,3,1:2:100,1
+2802,Titans Conqueror,2,Win the Champion in Clash of Titans 20 times,28,20,3,1:2:100,1
+2803,Gods' Ruler,3,Win the Champion in Clash of Titans 50 times,28,50,3,1:2:100,1
+2901,Glory Chaser,1,Win the Champion in Glory Arena 1 times,29,1,3,1:2:100,1
+2902,King of Glory,2,Win the Champion in Glory Arena 10 times,29,10,3,1:2:100,1
+2903,God of War,3,Win the Champion in Glory Arena 30 times,29,30,3,1:2:100,1
+3001,Olympus Lord,1,Obtain the MVP title in Olympus Legend 1 time,30,1,3,1:2:100,1
+3002,Olympus Conqueror,2,Obtain the MVP title in Olympus Legend 3 times,30,3,3,1:2:100,1
+3003,Olympus Dominator,3,Obtain the MVP title in Olympus Legend 5 times,30,5,3,1:2:100,1
+3101,One for Thousands,2,Defeat a total of 1000 teams in Gods Twilight,31,1000,3,1:2:100,1
+3201,Lord of Gods,1,Gain Ultimate Legend 1 time in Conqueror of Legends,32,1,3,1:2:100,1
+3202,King of Gods,2,Gain Ultimate Legend 5 times in Conqueror of Legends,32,5,3,1:2:100,1
+3203,Gods of Gods,3,Gain Ultimate Legend 10 times in Conqueror of Legends,32,10,3,1:2:100,1
+3301,Ultimate Challenger,2,Reach the position of Supreme Challenger 5 times,33,5,3,1:2:100,1
+3401,Gods' Favorite,3,5 Magic Stones of the same part drop in a row when idling,34,5,4,1:2:100,0
+3501,Party Animal,1,The number of friends reaches 100,35,100,4,1:2:100,1
+3601,Like Lover,1,Like other players 100 times,36,100,4,1:2:100,1
+3602,Like Addict,2,Like other players 500 times,36,500,4,1:2:100,1
+3603,Like Machine,3,Like other players 2000 times,36,2000,4,1:2:100,1
+3701,Rising Star,1,Be liked 100 times,37,100,4,1:2:100,1
+3702,Mr. Popular,2,Be liked 500 times,37,500,4,1:2:100,1
+3703,Popular Idol,3,Be liked 2000 times,37,2000,4,1:2:100,1
+3801,The Beginning,1,Log in for 7 days in a row,38,7,4,1:2:100,1
+3802,Key Supporter,2,Log in for 30 days in a row,38,30,4,1:2:100,1
+3803,Full Attendance,3,Log in for 180 days in a row,38,180,4,1:2:100,1
+3901,Big Spender,1,"Consume 100,000 Diamonds",39,100000,4,1:2:100,1
+3902,Vastly Wealthy,2,"Consume 1,000,000 Diamonds",39,1000000,4,1:2:100,1
+3903,Fabulously Rich,3,"Consume 5,000,000 Diamonds",39,5000000,4,1:2:100,1
+4001,Shopping Lover,1,Purchase in the Store 100 times,40,100,4,1:2:100,1
+4002,Shopping Addict,2,"Purchase in the Store 1,000 times",40,1000,4,1:2:100,1
+4003,Shopping Spree,3,"Purchase in the Store 10,000 times",40,10000,4,1:2:100,1
+4101,Battle Master,1,Combat Rating reaches 100 Million,41,100000000,1,1:2:100,1
+4102,Battle Guru,2,Combat Rating reaches 1 Billion,41,1000000000,1,1:2:100,1
+4103,Battle Lord,3,Combat Rating reaches 10 Billion,41,10000000000,1,1:2:100,1
+4201,Spell Breaker,1,Complete Dungeon 14-60,42,400,2,1:2:100,1
+4202,Rising Hero,2,Complete Dungeon 39-100,42,1660,2,1:2:100,1
+4203,Light Bringer,3,Complete Dungeon 56-100,42,3360,2,1:2:100,1
+4301,Beginner's Luck,1,Use an Standard Summon Scroll to summon 3 R Angels in a single 10-Summons,43,3,4,1:2:100,0
+4401,Lucky Star,2,Use an Advance Summon Scroll to summon 3 SR Angels in a single 10-Summons,44,2,4,1:2:100,0
+4501,Good Luck,1,Roll 2 consecutive sixes on the Daily Gift event,45,2,4,1:2:100,0
+4502,Pure Luck,2,Roll 3 consecutive sixes on the Daily Gift event,45,3,4,1:2:100,0
+4503,Blessed Luck,3,Roll 4 consecutive sixes on the Daily Gift event,45,4,4,1:2:100,0
+4601,Unlucky Duck,1,Roll 2 consecutive ones on the Daily Gift event,46,2,4,1:2:100,0
+4602,Jinxed,2,Roll 3 consecutive ones on the Daily Gift event,46,3,4,1:2:100,0
+4603,Snake Eyes,3,Roll 4 consecutive ones on the Daily Gift event,46,4,4,1:2:100,0
+4701,Good Adventurer,1,Complete 5-star Encounter 5 times,47,5,4,1:2:100,1
+4702,Skilled Adventurer,2,Complete 5-star Encounter 20 times,47,20,4,1:2:100,1
+4703,Ace Adventurer,3,Complete 5-star Encounter 100 times,47,100,4,1:2:100,1
+4801,Apprentice Smelter,1,Smelt 1000 pieces of gear that is orange quality or above,48,1000,1,1:2:100,1
+4802,Proficient Smelter,2,Smelt 10000 pieces of gear that is orange quality or above,48,10000,1,1:2:100,1
+4803,Alchemist,3,Smelt 100000 pieces of gear that is orange quality or above,48,100000,1,1:2:100,1
+4901,Armor Polisher,1,Smelt to get 1000 pieces of gear that is orange quality or above,49,1000,1,1:2:100,1
+4902,Armor Enhancer,2,Smelt to get 10000 pieces of gear that is orange quality or above,49,10000,1,1:2:100,1
+4903,Master Blacksmith,3,Smelt to get 100000 pieces of gear that is orange quality or above,49,100000,1,1:2:100,1
+5001,Animal Lover,1,Have 5 Eudemons,50,5,1,1:2:100,1
+5002,Animal Keeper,2,Have 15 Eudemons,50,15,1,1:2:100,1
+5101,Top Trainer,1,Any Eudemon reach Lv. 100,51,1,1,1:2:100,1
+5102,Star Trainer,2,10 Eudemons reach Lv. 100,51,10,1,1:2:100,1
+5103,Master Trainer,3,20 Eudemons reach Lv. 100,51,20,1,1:2:100,0
+5201,Conqueror's Triumph,1,Clear 14-30 of Nightmare Dungeon,52,420,2,1:2:100,1
+5202,Burning Nightmare,2,Clear 39-30 of Nightmare Dungeon,52,1170,2,1:2:100,1
+5203,Dawn's Radiance,3,Clear 56-30 of Nightmare Dungeon,52,1680,2,1:2:100,1
+5301,Miracle Lovers,1,Own 1 Epic Miracle Card,53,1,1,1:2:100,1
+5302,Miracle Enthusiast,2,Own 5 Epic Miracle Cards,53,5,1,1:2:100,1
+5303,Miracle Collector,3,Own 20 Epic Miracle Cards,53,20,1,1:2:100,1
+5401,Treasure Seeker,1,Complete treasure hunting 150 times,54,150,4,1:2:100,1
+5402,Treasure Savant,2,Complete treasure hunting 500 times,54,500,4,1:2:100,1
+5403,Treasure Master,3,Complete treasure hunting 1000 times,54,1000,4,1:2:100,1
+5501,Twilight Celestial,1,The Destiny Star of any angel reaches Lv. 30,55,1,1,1:2:100,1
+5502,Galactic Radiance,2,The Destiny Star of 6 angels reaches Lv. 30,55,6,1,1:2:100,1
+5503,Starry Maven,3,The Destiny Star of 12 angels reaches Lv. 30,55,12,1,1:2:100,1
+5601,Gold Miner,1,Dig 500 blocks in total,56,500,4,1:2:100,1
+5701,Praise from Molly,1,Trade or purchase items 20 times from Molly,57,20,4,1:2:100,1
+5801,Underground Ruler,1,Defeated 20 Desert Beasts in total,58,20,4,1:2:100,1

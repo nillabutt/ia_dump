@@ -1,0 +1,63 @@
+id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,open_level,spine_bg,hero_cid,active_ur_plus_can_use,active_mr_can_use
+101,img_loading_hl_UR_plus.png,Supreme Queen,0,0,1,HL_UR_PLUS,60,LOADING.jpg,0,0,0
+102,img_loading_ywj_UR.png,Dimension Breaker,-66,600,0.75,YWJ_UR,0,LOADING.jpg,0,0,0
+103,img_loading_ywj_UR_plus.png,Oceanic Reverie,-60,400,0.8,YWJ_UR_PLUS,0,Loading_01.jpg,0,0,0
+104,img_loading_ykls_yz1.png,Swimsuit Party,-20,290,0.78,YKLS_YZ1,0,Loading_01.jpg,0,0,0
+105,img_loading_hl_MR.png,Sacred Roses-Hera,-80,620,0.72,HL_MR,0,LOADING.jpg,2039,0,1
+106,img_loading_qbt_UR_plus.png,Bathing Manner-Cupid,0,0,0.9,QBT_UR_PLUS,0,LOADING.jpg,2047,1,0
+107,img_loading_qbt_MR.png,Naughty Moment - Cupid,-80,500,0.8,QBT_MR,0,LOADING.jpg,2047,0,1
+108,img_loading_wle_UR_plus.png,Shadow Fragrance - Uriel,-150,370,0.75,WLE_UR_PLUS,0,LOADING.jpg,2084,1,0
+109,img_loading_wle_MR.png,Passionate Night - Uriel,-30,350,0.81,WLE_MR,0,LOADING.jpg,2084,0,1
+110,img_loading_ykls_UR_plus.png,Flawless Wings - Icarus,-50,200,0.9,YKLS_UR_PLUS,0,LOADING.jpg,2049,1,0
+111,img_loading_ykls_MR.png,Charm of Daisy - Icarus,-80,280,0.85,YKLS_MR,0,LOADING.jpg,2049,0,1
+112,img_loading_r_UR_plus.png,Blazing Triumph-Ra,-50,250,0.85,R_UR_PLUS,0,LOADING.jpg,2037,1,0
+113,img_loading_r_MR.png,Nightfall Passion - Ra,-80,280,0.85,R_MR,0,LOADING.jpg,2037,0,1
+114,img_loading_kes_UR_plus.png,Primeval Chaos-Chaos,-60,100,0.85,KES_UR_PLUS,0,LOADING.jpg,2050,1,0
+115,img_loading_kes_MR.png,The Queen's Gambit,-80,280,0.85,KES_MR,0,LOADING.jpg,2050,0,1
+116,img_loading_hmde_UR_plus.png,Bird of the Golden Cage - Heimdall,-70,300,0.8,HMDE_UR_PLUS,0,LOADING.jpg,2051,1,0
+117,img_loading_hmde_MR.png,Sacred Maiden - Heimdall,-40,280,0.85,HMDE_MR,0,LOADING.jpg,2051,0,1
+118,img_loading_bmh_UR_plus.png,Sipping Under Moon - Himiko,-60,100,0.85,BMH_UR_PLUS,0,LOADING.jpg,2053,1,0
+119,img_loading_bmh_MR.png,Crimson Slayer - Himiko,-100,280,0.85,BMH_MR,0,LOADING.jpg,2053,0,1
+120,img_loading_lb_UR_plus.png,Glacier Shadow - Frost Dragon,0,0,0.8,LB_UR_PLUS,0,LOADING.jpg,2055,1,0
+121,img_loading_lb_MR.png,Frost Queen,0,300,0.82,LB_MR,0,LOADING.jpg,2055,0,1
+122,img_loading_zrnz_UR_plus.png,Sparkling Affection - Enmusubi,0,550,0.72,ZRNZ_UR_PLUS,0,LOADING.jpg,2054,1,0
+123,img_loading_zrnz_MR.png,Fate Stitcher - Enmusubi,0,620,0.73,ZRNZ_MR,0,LOADING.jpg,2054,0,1
+124,img_loading_lh_UR_plus.png,Charming Party - Ember Dragon,-50,480,0.74,LH_UR_plus,0,LOADING.jpg,2056,1,0
+125,img_loading_lh_MR.png,Terranean Queen-Ember Dragon,-80,400,0.74,LH_MR,0,LOADING.jpg,2056,0,1
+126,img_loading_ywj_MR.png,Twilight Twins-Gemini,-50,400,0.73,YWJ_MR,0,LOADING.jpg,2065,0,1
+127,img_loading_sqe_UR_plus.png,Floating Lotus - Sim Cheong,-100,520,0.72,SQE_UR_PLUS,0,LOADING.jpg,2063,1,0
+128,img_loading_sqe_MR.png,Penglai Azure,-80,420,0.73,SQE_MR,0,LOADING.jpg,2063,0,1
+129,img_loading_flj_UR_plus.png,Blush Fantasy - Frigga,-50,600,0.77,FLJ_UR_PLUS,0,LOADING.jpg,2082,1,0
+130,img_loading_flj_MR.png,Rose Enchantress,-150,370,0.73,FLJ_MR,0,LOADING.jpg,2082,0,1
+131,img_loading_hla_UR_plus.png,Secret Pact,-50,420,0.77,HLA_UR_PLUS,0,LOADING.jpg,2086,1,0
+132,img_loading_hla_MR.png,Eternal Queen,-80,480,0.73,HLA_MR,0,LOADING.jpg,2086,0,1
+133,img_loading_fly_UR_plus.png,Starry Fantasy - Freyja,-100,450,0.82,FLY_UR_PLUS,0,LOADING.jpg,2060,1,0
+134,img_loading_fly_MR.png,Starry Nocturne-Freyja,-80,620,0.78,FLY_MR,0,LOADING.jpg,2060,0,1
+135,img_loading_user_UR_plus.png,Radiant Reverie,-50,240,0.82,USER_UR_PLUS,0,LOADING.jpg,1001,1,0
+136,img_loading_user_MR.png,Supreme Elect,-170,430,0.73,USER_MR,0,LOADING.jpg,1001,0,1
+137,img_loading_lj_UR_plus.png,Bubble Love-Loki,-100,550,0.72,LJ_UR_PLUS,0,LOADING.jpg,2076,1,0
+138,img_loading_lj_MR.png,Tender Holidays-Loki,-80,400,0.88,LJ_MR,0,LOADING.jpg,2076,0,1
+139,img_loading_ce_UR_plus.png,Garden Strolling - Chang'e,-70,380,0.82,CE_UR_PLUS,0,LOADING.jpg,2067,1,0
+140,img_loading_ce_MR.png,Spring Moonlight - Chang'e,-50,400,0.77,CE_MR,0,LOADING.jpg,2067,0,1
+141,img_loading_axl_UR_plus.png,Eternal Fiend - Asura,-30,550,0.74,AXL_UR_PLUS,0,LOADING.jpg,2068,1,0
+142,img_loading_axl_MR.png,Grand Sovereign - Asura,-80,430,0.77,AXL_MR,0,LOADING.jpg,2068,0,1
+143,img_loading_ars_UR_plus.png,Lounge Lady - Ares,-50,360,0.74,ARS_UR_PLUS,0,LOADING.jpg,2083,1,0
+144,img_loading_ars_MR.png,Sanctum Blade - Ares,-50,400,0.75,ARS_MR,0,LOADING.jpg,2083,0,1
+145,img_loading_zs_UR_plus.png,Carefree Enchantment - Zeus,0,420,0.74,ZS_UR_PLUS,0,LOADING.jpg,2075,1,0
+146,img_loading_zs_MR.png,Divine Covenant - Zeus,-80,450,0.8,ZS_MR,0,LOADING.jpg,2075,0,1
+147,img_loading_hls_UR_plus.png,Twilight Divinity - Horus,-90,240,0.88,HLS_UR_PLUS,0,LOADING.jpg,2081,1,0
+148,img_loading_hls_MR.png,Frenzied Nocturne - Horus,-110,540,0.75,HLS_MR,0,LOADING.jpg,2081,0,1
+149,img_loading_plmxs_UR_plus.png,Mirror Fragrance - Prometheus,-90,610,0.7,PLMXS_UR_PLUS,0,LOADING.jpg,2087,1,0
+150,img_loading_plmxs_MR.png,Radiant Queen - Prometheus,-110,360,0.71,PLMXS_MR,0,LOADING.jpg,2087,0,1
+151,img_loading_ydn_UR_plus.png,Wings of War - Athena,-90,280,0.88,YDN_UR_PLUS,0,LOADING.jpg,2069,1,0
+152,img_loading_ydn_MR.png,Holiday Aura - Athena,0,400,0.8,YDN_MR,0,LOADING.jpg,2069,0,1
+153,img_loading_mjz_UR_plus.png,Aqua Starlight - Capricornus,-90,610,0.77,MJZ_UR_PLUS,0,LOADING.jpg,2071,1,0
+154,img_loading_mjz_MR.png,Summer Mirage - Capricornus,-110,420,0.78,MJZ_MR,0,LOADING.jpg,2071,0,1
+155,img_loading_syz_UR_plus.png,Galaxy Dancer - Pisces,-140,500,0.7,SYZ_UR_PLUS,0,LOADING.jpg,2073,1,0
+156,img_loading_syz_MR.png,Abyssal Whimsy - Pisces,-130,420,0.76,SYZ_MR,0,LOADING.jpg,2073,0,1
+157,img_loading_abl_UR_plus.png,Luminous Lyre-Apollo,-140,630,0.74,ABL_UR_PLUS,0,LOADING.jpg,2078,1,0
+158,img_loading_abl_MR.png,Sunny Afternoon - Apollo,-100,560,0.76,ABL_MR,0,LOADING.jpg,2078,0,1
+159,img_loading_wns_UR_plus.png,Moonlight Maiden - Venus,-140,530,0.84,WNS_UR_PLUS,0,LOADING.jpg,2074,1,0
+160,img_loading_wns_MR.png,Floral Dream - Venus,-130,420,0.74,WNS_MR,0,LOADING.jpg,2074,0,1
+161,img_loading_ll_UR_plus.png,Graceful Wind - Storm Dragon,0,280,0.74,LL_UR_PLUS,0,LOADING.jpg,2057,1,0
+162,img_loading_ll_MR.png,Hidden Fragrance - Storm Dragon,-110,660,0.74,LL_MR,0,LOADING.jpg,2057,0,1

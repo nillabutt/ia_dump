@@ -1,0 +1,6 @@
+﻿cfg_id,summon_place_id,summon_place_id_ur,charge_cfg_id,charge_cfg_id_ur,debris,debris_ur,job_text,percent
+1,17,33,528,545,7:2047:5,17:2047:5,Heal,5
+2,9,39,525,551,7:2049:5,17:2049:5,AoE,20
+3,8,31,524,543,7:2039:5,17:2039:5,Support,55
+4,16,35,527,547,7:2037:5,17:2037:5,ST,10
+5,18,34,529,546,7:2050:5,17:2050:5,Control,10

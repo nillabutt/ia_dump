@@ -1,32 +1,33 @@
-dungeon_map_id,is_lock,name,memory_goods_id,heroes,task_condition,img_big,img_small
-1,0,Hera's Dreamland,3000150,6,500001,hela_bg_big.png,hela_bg_small.png
-2,0,Chaos' Dreamland,3000154,12,500002,kaesi_bg_big.png,kaesi_bg_small.png
-3,0,Cupid's Dreamland,3000158,18,500003,qiubite_bg_big.png,qiubite_bg_small.png
-4,0,Ra's Dreamland,3000162,24,500004,la_bg_big.png,la_bg_small.png
-5,0,Icarus's Dreamland,3000173,30,500005,yikalusi_bg_big.png,yikalusi_bg_small.png
-6,0,Himiko’s Dreamland,3000183,36,500006,beimihu_bg_big.png,beimihu_bg_small.png
-7,0,Heimdall's Dreamland,3000184,42,500007,haimudaer_bg_big.png,haimudaer_bg_small.png
-8,0,Storm Dragon’s Dreamland,3000189,48,500008,fengbaozhilong_bg_big.png,fengbaozhilong_bg_small.png
-9,0,Ember Dragon's Dreamland,3000190,54,500009,huijinlongnv_bg_big.png,huijinlongnv_bg_small.png
-10,0,Frost Dragon's Dreamland,3000196,60,500010,bingshuanglongmu_bg_big.png,bingshuanglongmu_bg_small.png
-11,0,Horus's Dreamland,3000197,66,500011,helusi_bg_big.png,helusi_bg_small.png
-12,0,Sim Cheong's Dreamland,3000199,72,500012,shenqinger_bg_big.png,shenqinger_bg_small.png
-13,0,Chang'e's Dreamland,3000200,78,500013,change_bg_big.png,change_bg_small.png
-14,0,Gemini’s Dreamland,3000204,84,500014,shuangzizuo_bg_big.png,shuangzizuo_bg_small.png
-15,0,Freyja's Dreamland,4000015,90,500015,fuleiya_bg_big.png,fuleiya_bg_small.png
-16,0,Frigga's Dreamland,4000016,96,500016,fulijia_bg_big.png,fulijia_bg_small.png
-17,0,Athena's Dreamland,4000017,102,500017,yadianna_bg_big.png,yadianna_bg_small.png
-18,0,Asura's Dreamland,4000018,108,500018,axiuluo_bg_big.png,axiuluo_bg_small.png
-19,0,Capricornus’s Dreamland,4000019,114,500019,mojiezuo_bg_big.png,mojiezuo_bg_small.png
-20,0,Zeus's Dreamland,4000020,120,500020,zhousi_bg_big.png,zhousi_bg_small.png
-21,0,Pisces’s Dreamland,4000021,126,500021,shuangyuzuo_bg_big.png,shuangyuzuo_bg_small.png
-22,0,Venus’s Dreamland,4000022,132,500022,weinasi_bg_big.png,weinasi_bg_small.png
-23,0,Ares's Dreamland,4000023,138,500023,aruisi_bg_big.png,aruisi_bg_small.png
-24,0,Enmusubi’s Dreamland,4000024,144,500024,yuanjieshen_bg_big.png,yuanjieshen_bg_small.png
-25,0,Thor's Dreamland,4000025,150,500025,suoer_bg_big.png,suoer_bg_small.png
-26,0,Loki's Dreamland,4000026,156,500026,luoji_bg_big.png,luoji_bg_small.png
-27,0,Apollo's Dreamland,4000027,162,500027,aboluo_bg_big.png,aboluo_bg_small.png
-28,0,Uriel's Dreamland,4000028,168,500028,wulieer_bg_big.png,wulieer_bg_small.png
-29,0,Hela's Dreamland,4000029,174,500029,haila_bg_big.png,haila_bg_small.png
-30,0,Prometheus's Dreamland,4000030,180,500030,puluomixiusi_bg_big.png,puluomixiusi_bg_small.png
-101,1,Stay tuned,3000150,6,500001,hela_bg_big.png,hela_bg_small.png
+dungeon_map_id,from_mr,is_lock,name,memory_goods_id,heroes,task_condition,img_big,img_small
+1,0,0,Hera's Dreamland,3000150,6,500001,hela_bg_big.png,hela_bg_small.png
+2,0,0,Chaos' Dreamland,3000154,12,500002,kaesi_bg_big.png,kaesi_bg_small.png
+3,0,0,Cupid's Dreamland,3000158,18,500003,qiubite_bg_big.png,qiubite_bg_small.png
+4,0,0,Ra's Dreamland,3000162,24,500004,la_bg_big.png,la_bg_small.png
+5,0,0,Icarus's Dreamland,3000173,30,500005,yikalusi_bg_big.png,yikalusi_bg_small.png
+6,0,0,Himiko’s Dreamland,3000183,36,500006,beimihu_bg_big.png,beimihu_bg_small.png
+7,0,0,Heimdall's Dreamland,3000184,42,500007,haimudaer_bg_big.png,haimudaer_bg_small.png
+8,0,0,Storm Dragon’s Dreamland,3000189,48,500008,fengbaozhilong_bg_big.png,fengbaozhilong_bg_small.png
+9,0,0,Ember Dragon's Dreamland,3000190,54,500009,huijinlongnv_bg_big.png,huijinlongnv_bg_small.png
+10,0,0,Frost Dragon's Dreamland,3000196,60,500010,bingshuanglongmu_bg_big.png,bingshuanglongmu_bg_small.png
+11,0,0,Horus's Dreamland,3000197,66,500011,helusi_bg_big.png,helusi_bg_small.png
+12,0,0,Sim Cheong's Dreamland,3000199,72,500012,shenqinger_bg_big.png,shenqinger_bg_small.png
+13,0,0,Chang'e's Dreamland,3000200,78,500013,change_bg_big.png,change_bg_small.png
+14,0,0,Gemini’s Dreamland,3000204,84,500014,shuangzizuo_bg_big.png,shuangzizuo_bg_small.png
+15,0,0,Freyja's Dreamland,4000015,90,500015,fuleiya_bg_big.png,fuleiya_bg_small.png
+16,0,0,Frigga's Dreamland,4000016,96,500016,fulijia_bg_big.png,fulijia_bg_small.png
+17,0,0,Athena's Dreamland,4000017,102,500017,yadianna_bg_big.png,yadianna_bg_small.png
+18,0,0,Asura's Dreamland,4000018,108,500018,axiuluo_bg_big.png,axiuluo_bg_small.png
+19,0,0,Capricornus’s Dreamland,4000019,114,500019,mojiezuo_bg_big.png,mojiezuo_bg_small.png
+20,0,0,Zeus's Dreamland,4000020,120,500020,zhousi_bg_big.png,zhousi_bg_small.png
+21,0,0,Pisces’s Dreamland,4000021,126,500021,shuangyuzuo_bg_big.png,shuangyuzuo_bg_small.png
+22,0,0,Venus’s Dreamland,4000022,132,500022,weinasi_bg_big.png,weinasi_bg_small.png
+23,0,0,Ares's Dreamland,4000023,138,500023,aruisi_bg_big.png,aruisi_bg_small.png
+24,0,0,Enmusubi’s Dreamland,4000024,144,500024,yuanjieshen_bg_big.png,yuanjieshen_bg_small.png
+25,0,0,Thor's Dreamland,4000025,150,500025,suoer_bg_big.png,suoer_bg_small.png
+26,0,0,Loki's Dreamland,4000026,156,500026,luoji_bg_big.png,luoji_bg_small.png
+27,0,0,Apollo's Dreamland,4000027,162,500027,aboluo_bg_big.png,aboluo_bg_small.png
+28,0,0,Uriel's Dreamland,4000028,168,500028,wulieer_bg_big.png,wulieer_bg_small.png
+29,0,0,Hela's Dreamland,4000029,174,500029,haila_bg_big.png,haila_bg_small.png
+30,0,0,Prometheus's Dreamland,4000030,180,500030,puluomixiusi_bg_big.png,puluomixiusi_bg_small.png
+31,1,0,拉斐尔的梦境,4000030,180,500031,puluomixiusi_bg_big.png,puluomixiusi_bg_small.png
+101,0,1,Stay tuned,3000150,6,500001,hela_bg_big.png,hela_bg_small.png

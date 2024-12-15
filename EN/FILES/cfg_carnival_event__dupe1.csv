@@ -1,0 +1,17 @@
+event_id,type,reward,desc
+1,1,,Finish the current parade and go back to the beginning
+2,1,5:3000212:2,Universal Dice*2
+3,1,5:3000213:10,A few Funland Vouchers
+4,1,5:3000213:20,Some Funland Vouchers
+5,1,5:3000213:30,Many Funland Vouchers
+6,1,1:2:999,A Lot of Diamonds
+7,1,1:2:500,A few Diamonds
+8,1,,Multiply the next reward effect by 2
+9,1,,Upgrade one random building that can still be upgraded
+10,1,,Go back (1~6) spaces by chance
+11,1,,Go forward (1~6) spaces by chance
+13,1,,Set the next dice roll to 1
+14,2,,向前进三格
+15,3,,向后退三格
+16,4,,Go forward (1~3) spaces by chance
+17,5,,Go back (1~3) spaces by chance

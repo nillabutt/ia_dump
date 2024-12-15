@@ -68,6 +68,10 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 1167,Void Sword,1121.png,0,1,330,2:3:57884|2:4:61092,840,,100
 1168,Origin Sword,1122.png,0,1,335,2:3:59588|2:4:62739,850,,100
 1169,Sacred Flame Sword,1123.png,0,1,340,2:3:61292|2:4:64386,860,,100
+1170,Luminous Sword,1124.png,0,1,345,2:3:62996|2:4:66033,870,,100
+1171,Voidbreaker Sword,1125.png,0,1,350,2:3:64700|2:4:67680,880,,100
+1172,Sword of Finality,1126.png,0,1,355,2:3:66404|2:4:69327,890,,100
+1173,Sword of Redemption,1127.png,0,1,360,2:3:68108|2:4:70974,900,,100
 3001,Cloth Cap,3001.png,0,2,1,2:7:3,4,,100
 3002,Blossoms,3002.png,0,2,5,2:7:13,10,,100
 3003,Thick Cap,3003.png,0,2,10,2:7:33,20,,100
@@ -137,6 +141,10 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 3067,Void Helmet,3021.png,0,2,330,2:7:40059,840,,100
 3068,Origin Helmet,3022.png,0,2,335,2:7:41259,850,,100
 3069,Sacred Flame Helmet,3023.png,0,2,340,2:7:42459,860,,100
+3070,Luminous Helmet,3024.png,0,2,345,2:7:43659,870,,100
+3071,Voidbreaker Helmet,3025.png,0,2,350,2:7:44859,880,,100
+3072,Helmet of Finality,3026.png,0,2,355,2:7:46059,890,,100
+3073,Helmet of Redemption,3027.png,0,2,360,2:7:47259,900,,100
 5001,Recruit,5001.png,0,4,1,2:5:3,4,,100
 5002,Chaine Armor,5002.png,0,4,5,2:5:6,10,,100
 5003,Hard Armor,5003.png,0,4,10,2:5:16,20,,100
@@ -206,6 +214,10 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 5067,Void Armor,5021.png,0,4,330,2:5:53858,840,,100
 5068,Origin Armor,5022.png,0,4,335,2:5:55460,850,,100
 5069,Sacred Flame Armor,5023.png,0,4,340,2:5:57062,860,,100
+5070,Luminous Armor,5024.png,0,4,345,2:5:58664,870,,100
+5071,Voidbreaker Armor,5025.png,0,4,350,2:5:60266,880,,100
+5072,Armor of Finality,5026.png,0,4,355,2:5:61868,890,,100
+5073,Armor of Redemption,5027.png,0,4,360,2:5:63470,900,,100
 6001,Flax Belt,6001.png,0,8,1,2:1:20,4,,100
 6002,Hide Belt,6002.png,0,8,5,2:1:97,10,,100
 6003,Sturdy Belt,6003.png,0,8,10,2:1:392,20,,100
@@ -275,6 +287,10 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 6067,Void Belt,6021.png,0,8,330,2:1:255428,840,,100
 6068,Origin Belt,6022.png,0,8,335,2:1:263678,850,,100
 6069,Sacred Flame Belt,6023.png,0,8,340,2:1:271928,860,,100
+6070,Luminous Belt,6024.png,0,8,345,2:1:280178,870,,100
+6071,Voidbreaker Belt,6025.png,0,8,350,2:1:288428,880,,100
+6072,Belt of Finality,6026.png,0,8,355,2:1:296678,890,,100
+6073,Belt of Redemption,6027.png,0,8,360,2:1:304928,900,,100
 8001,Cloth Shoes,8001.png,0,10,1,2:6:3,4,,100
 8002,Leather Boots,8002.png,0,10,5,2:6:13,10,,100
 8003,Padded Boots,8003.png,0,10,10,2:6:33,20,,100
@@ -344,6 +360,10 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 8067,Void Boots,8021.png,0,10,330,2:6:40059,840,,100
 8068,Origin Boots,8022.png,0,10,335,2:6:41259,850,,100
 8069,Sacred Flame Boots,8023.png,0,10,340,2:6:42459,860,,100
+8070,Luminous Boots,8024.png,0,10,345,2:6:43659,870,,100
+8071,Voidbreaker Boots,8025.png,0,10,350,2:6:44859,880,,100
+8072,Boots of Finality,8026.png,0,10,355,2:6:46059,890,,100
+8073,Boots of Redemption,8027.png,0,10,360,2:6:47259,900,,100
 14001,Silver Ring,14001.png,0,5,1,2:17:3,4,,100
 14002,Gold Ring,14002.png,0,5,5,2:17:6,10,,100
 14003,Jeweled Ring,14003.png,0,5,10,2:17:16,20,,100
@@ -413,6 +433,10 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 14067,Void Ring,14021.png,0,5,330,2:17:53858,1320,,100
 14068,Origin Ring,14022.png,0,5,335,2:17:55460,1350,,100
 14069,Sacred Flame Ring,14023.png,0,5,340,2:17:57062,1380,,100
+14070,Luminous Ring,14024.png,0,5,345,2:17:58664,1410,,100
+14071,Voidbreaker Ring,14025.png,0,5,350,2:17:60266,1440,,100
+14072,Ring of Finality,14026.png,0,5,355,2:17:61868,1470,,100
+14073,Ring of Redemption,14027.png,0,5,360,2:17:63470,1500,,100
 15001,Nihility,15001.png,1,3,100,2:3:2900|3:1:10,400,1:1450,100
 15002,Temptation,15002.png,1,3,105,2:3:3400|3:1:20,425,1:1700,100
 15003,Contagion,15003.png,1,3,110,2:3:3600|3:1:30,450,1:1800,100
@@ -460,6 +484,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 15045,Storm Shield,15021.png,1,3,320,2:3:46000|3:1:450,1500,1:23000,100
 15046,Faith Shield,15022.png,1,3,325,2:3:47900|3:1:460,1525,1:23950,100
 15047,Oracle Shield,15023.png,1,3,330,2:3:49700|3:1:470,1550,1:24850,100
+15048,Heaven Shield,15024.png,1,3,335,2:3:51500|3:1:480,1575,1:25750,100
+15049,Pantheon Shield,15025.png,1,3,340,2:3:53300|3:1:490,1600,1:26650,100
 16001,Shortbow,16001.png,2,3,100,2:3:2900|3:1:10,400,2:1450,100
 16002,Thistlewood,16002.png,2,3,105,2:3:3400|3:1:20,425,2:1700,100
 16003,Hunter,16003.png,2,3,110,2:3:3600|3:1:30,450,2:1800,100
@@ -507,6 +533,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 16045,Storm Bow,16021.png,2,3,320,2:3:46000|3:1:450,1500,2:23000,100
 16046,Faith Bow,16022.png,2,3,325,2:3:47900|3:1:460,1525,2:23950,100
 16047,Oracle Bow,16023.png,2,3,330,2:3:49700|3:1:470,1550,2:24850,100
+16048,Heaven Bow,16024.png,2,3,335,2:3:51500|3:1:480,1575,2:25750,100
+16049,Pantheon Bow,16025.png,2,3,340,2:3:53300|3:1:490,1600,2:26650,100
 17001,Train Staff,17001.png,3,3,100,2:3:2900|3:1:10,400,3:1450,100
 17002,Apprentice,17002.png,3,3,105,2:3:3400|3:1:20,425,3:1700,100
 17003,Channeler,17003.png,3,3,110,2:3:3600|3:1:30,450,3:1800,100
@@ -554,6 +582,8 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 17045,Storm Staff,17021.png,3,3,320,2:3:46000|3:1:450,1500,3:23000,100
 17046,Faith Staff,17022.png,3,3,325,2:3:47900|3:1:460,1525,3:23950,100
 17047,Oracle Staff,17023.png,3,3,330,2:3:49700|3:1:470,1550,3:24850,100
+17048,Heaven Staff,17024.png,3,3,335,2:3:51500|3:1:480,1575,3:25750,100
+17049,Pantheon Staff,17025.png,3,3,340,2:3:53300|3:1:490,1600,3:26650,100
 18001,Shell,18001.png,0,9,100,2:1:24480|3:2:10,400,,100
 18002,Pearl,18002.png,0,9,105,2:1:26879|3:2:20,425,,100
 18003,Amethyst,18003.png,0,9,110,2:1:29768|3:2:30,450,,100
@@ -601,3 +631,5 @@ cfg_id,name,icon_path,job_need,armor_part,level,main_attr_str,secondary_attr,job
 18045,Storm Necklace,18030.png,0,9,320,2:1:475466|3:2:450,1500,,100
 18046,Faith Necklace,18031.png,0,9,325,2:1:497445|3:2:460,1525,,100
 18047,Oracle Necklace,18032.png,0,9,330,2:1:519795|3:2:470,1550,,100
+18048,Heaven Necklace,18033.png,0,9,335,2:1:542145|3:2:480,1575,,100
+18049,Pantheon Necklace,18034.png,0,9,340,2:1:564495|3:2:490,1600,,100
