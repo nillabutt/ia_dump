@@ -21,6 +21,7 @@ cfg_id,unlock_count,quality,restore,name,icon,description
 2074,70,7,25,MR Venus Shard,2074_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2075,70,7,25,MR Zeus Shard,2075_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2076,70,7,25,MR Loki Shard(s),2076_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
+2077,70,7,25,MR Thor Shard,2077_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2078,70,7,25,MR Apollo Shard,2078_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2081,70,7,25,MR Horus Shard,2081_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2082,70,7,25,MR Frigga Shard,2082_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
@@ -29,3 +30,6 @@ cfg_id,unlock_count,quality,restore,name,icon,description
 2086,70,7,25,MR Hela Shard(s),2086_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2087,70,7,25,MR Prometheus Shard(s),2087_MR.jpg,This shard can be used to upgrade the quality of an angel in the Divinity Ascend.
 2088,70,7,25,MR Raphael the Archangel Shard,2088_MR.jpg,Collect 70 incarnation shards of Raphael the Archangel to revive her Creator’s Incarnation.
+2090,70,7,25,MR Lilith the Night Walker Shard,2090_MR.jpg,Collect 70 MR Lilith the Night Walker Shards to summon Lilith the Night Walker.
+2091,70,7,25,MR Fallen Angel Lucifer Shard,2091_MR.jpg,Collect 70 Fallen Angel Lucifer Shards to summon Fallen Angel Lucifer
+2092,70,7,25,MR Sworn Warrior Jeanne d'Arc Shard,2092_MR.jpg,Collect 70 MR Sworn Warrior Jeanne d'Arc Shards to summon Sworn Warrior Jeanne d'Arc

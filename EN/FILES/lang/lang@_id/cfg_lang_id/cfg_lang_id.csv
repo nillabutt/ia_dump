@@ -396,6 +396,7 @@ HONOR_ARENA_ACHIEVEMENT_1,Champion
 HONOR_ARENA_CONFIRM_GUESS,"Setelah memilih, tidak dapat diganti lagi. Yakin memilihnya?"
 POINT,Poin
 FREE,Gratis
+free,Gratis
 HONOR_ARENA_POINT_AWARD,Hadiah Ranking Kualifikasi
 HONOR_ARENA_PROMOTION_AWARD,Hadiah Divisi
 GUILD_BOSS_RANK_MAIL_TITLE,Hadiah Guild BOSS
@@ -4156,6 +4157,7 @@ ACTIVITY_SUMMON_FREE,Gratis 1 kali
 ACTIVITY_SUMMON_TIME_END,Event sudah berakhir
 ACTIVITY_SUMMON_REWARD_INFO,10x pasti memperoleh 2 buah Kepingan Bintang 5
 ACTIVITY_TIME,Event berakhir dalam <color=#00FF00>{0}</color> hari {1}
+ACTIVITY_REFRESH_TIME,Event berakhir dalam <color=#00FF00>{0}</color> hari {1}
 ACTIVITY_END,Event sudah berakhir
 NO_REMIAN_COUNT,Jatah sudah habis
 Preview Hadiah,
@@ -4845,6 +4847,7 @@ Paket Mingguan 1,
 Paket Bulanan\n\n,
 Paket Mingguan,
 Paket Bulanan,
+Paket Kartu Bulanan,
 Paket Kartu Bulanan,
 Tas,
 Paket Mingguan,
@@ -5958,6 +5961,7 @@ Waktunya belum tiba,
 Waktu event tersisa:,
 Hadiahx2,
 Langsung mengambil,
+Petunjuk,
 Petunjuk,
 ARMOR_QUALITY_NOT_ENOUGH,Kualitas Gear tidak mencukupi
 AD_ADVENTRUE_RECEIVE_REWARD,Hadiahx2
@@ -9645,7 +9649,7 @@ Anniversary Celebration 9,
 Anniversary Celebration 10,
 week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Potongan harga</size></color>
 week_jindu,<color=#FFFFFF><size=18>Pembelian terbatas</size></color><color=#6BFC90><size=18>{0}</size></color>
-week_content,14 hari memberikan hadiah<color=#FFF988><size=32>{0}</size></color>
+week_content,7 hari memberikan hadiah<color=#FFF988><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,"Pada periode event bisa menggunakan [Angel Feather] untuk menukar hadiah, setelah event berakhir Angel Feather akan otomatis dikembalikan"
 Hadirah Ranking BOSS Challange,
 WORLD_BOSS_SHOWTEXT_20,"Icarus terlahir kembali di dunia yang baru, dia menggunakan kekuatan mutlaknya untuk menembus pertahanan semua musuhnya."
@@ -11924,6 +11928,7 @@ Kamu<color=#00FF00>sudah memberi like</color>{0}sekali,
 Kamu<color=#00FF00>sudah assist</color>{0}sekali,
 OUTLAND_VISIT_NOT_FRIEND,"Kamu bukan teman pemain ini, tidak bisa memberinya assist"
 OUTLAND_NOT_OPEN,Fitur Chaotic Realm belum dibuka
+Fitur Chaotic Realm belum dibuka,
 {0}<color=#00FF00>memberimu like</color>sekali,
 {0}<color=#00FF00>assist kamu</color>sekali,
 Akses Chaotic Realm pemain ini belum dibuka,
@@ -13462,8 +13467,8 @@ Kamu tidak dalam Guild,
 ,
 Witch,
 Silakan memilih hadiah harapanmu,
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_TITLE,Hadiah kartu ucapan Thanksgiving Festival
-ACTIVITY_HOLIDAY_WEEK_REWARD_MAIL_CONTENT,"Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!"
+Hadiah kartu ucapan Thanksgiving Festival,
+"Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!",
 Paket hadiah Limited Summon,
 Apa kamu tahu Minotauros? Menurutmu siapa yang kekuatannya lebih besar bila aku adu kekuatan dengannya?,
 God Domain Dominator,
@@ -13474,3 +13479,45 @@ OK,
 Batal,
 Belum memilih,
 "Support yang luar biasa, serangan khusus menarget barisan belakang",
+ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,Hadiah kartu ucapan Thanksgiving Festival
+"Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!",
+Black Friday Package,
+ACTIVITY_LOTTERY_TICKET_REWARD,Preview Hadiah
+Summon Relic sebanyak 1 kali,
+Bingkai avatar komunitas 11,
+EN_OFF,OFF
+Off,Tutup
+Chaotic Realm,Chaotic Realm
+Divine Awaken tahap-5,
+Experience :,
+Gate of Seeking,
+Assist teman,
+Kuota challange tidak mencukupi,
+Fusion 10 kali,
+Jumlah kekuatan tempur seluruh Tim mencapai 10000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 20000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 50000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 100000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 200000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 500000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 1000000000,
+Jumlah kekuatan tempur seluruh Tim mencapai 2000000000,
+Level pemain mencapai Lv.20,
+Level pemain mencapai Lv.40,
+Level pemain mencapai Lv.50,
+Level pemain mencapai Lv.60,
+Level pemain mencapai Lv.70,
+Level pemain mencapai Lv.80,
+Level pemain mencapai Lv.90,
+Level pemain mencapai Lv.100,
+Level pemain mencapai Lv.110,
+Level pemain mencapai Lv.120,
+Sudah Diambil,
+Sudah Diambil,
+Kuota yang tersisa: {0},
+Kupon summon Goddess langka,
+Kupon summon Goddess langka,
+"Saat ini sudah bergabung dalam Guild, tidak bisa bergabung pada Guild lain",
+Total login: {0},
+Progress: {0},
+Limit,

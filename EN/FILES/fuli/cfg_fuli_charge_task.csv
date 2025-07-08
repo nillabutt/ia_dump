@@ -1,0 +1,19 @@
+task_id,task_type,task_group,task_index,task_id_before,task_condition,task_value,reward,name,content,content_param,link
+44000101,44,0,0,0,123,60,5:2000007:1|1:2:200,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,60,105|1
+44000102,44,0,0,0,123,500,5:3000049:5|5:3000006:500,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,500,105|1
+44000103,44,0,0,0,123,1000,5:3000310:1|5:2000008:5,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,1000,105|1
+44000104,44,0,0,0,123,3000,5:3000312:1|5:2000011:50,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,3000,105|1
+44000105,44,0,0,0,123,5000,5:3000311:1|5:6000001:10,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,5000,105|1
+44000106,44,0,0,0,123,10000,5:1000010:10|5:3000011:5,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,10000,105|1
+44000107,44,0,0,0,123,15000,5:3000027:10|5:2000030:5,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,15000,105|1
+44000108,44,0,0,0,123,20000,5:1000033:1|5:3000066:20,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,20000,105|1
+44000109,44,0,0,0,123,30000,5:6000004:1|5:3000140:50,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,30000,105|1
+44000110,44,0,0,0,123,40000,5:1000011:5|5:3000011:10,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,40000,105|1
+44000111,44,0,0,0,123,50000,5:3000027:10|5:2000030:5,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,50000,105|1
+44000112,44,0,0,0,123,60000,5:6000058:1|5:6000001:25,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,60000,105|1
+44000113,44,0,0,0,123,70000,5:1000012:5|5:3000011:15,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,70000,105|1
+44000114,44,0,0,0,123,80000,5:3000027:10|5:2000030:5,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,80000,105|1
+44000115,44,0,0,0,123,90000,5:6000059:1|5:6000001:30,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,90000,105|1
+44000116,44,0,0,0,123,100000,5:1000013:5|5:3000011:20,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,100000,105|1
+44000117,44,0,0,0,123,110000,5:3000031:1|5:2000011:200,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,110000,105|1
+44000118,44,0,0,0,123,120000,5:6000060:1|5:3000006:5000,Recharge Rewards,Accumulate recharge to get {0} VIP EXP,120000,105|1

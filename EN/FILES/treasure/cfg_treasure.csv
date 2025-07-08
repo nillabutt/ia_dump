@@ -1,46 +1,49 @@
-﻿treasure_id,name,immediate_awake_5,special_effect_type,rebate_debris_count,quality,show_label,desc,is_hero
-1001,Futhark Rune,0,0,10,3,Battle,Runestones were one of the supreme treasures of the god Odin. Runes written on stone slab harbored great magic and represented natural energy. Spells were created when these runes formed words or short sentences.,0
-1002,Summer Fun,0,0,10,3,Battle,Why are you gawking at me like that? Is there something on my face?,1
-1003,Glory Angel,0,0,10,3,Battle,"The world is under the protection of the valiant and holy battle angel Gabriel, who fights against evil with her mighty strength and divine blessing.",1
-1004,Dreaming Moment,0,0,10,3,Battle,"It feels like a dream, like an illusion, both real and unreal, it transports people to another world.",1
-1005,Key of Life,0,0,10,3,Battle,This symbol of life is a cross-shaped magical object made of gold and precious stones. The gods once gifted the pharaohs with this powerful symbol.,0
-1006,Holy Pyramid,0,0,10,3,Battle,These pyramid replicas small enough to hold in one hand are made of pure gold. People often wonder if these delicate replicas were concealed inside the mummified remains of pharaohs.,0
-1007,The Lost Scrolls,0,0,10,3,Battle,"Also known as the Dead Sea Scrolls, these are long-lost copies of mostly Hebrew text. They were preserved on parchment made from sheepskin since the people in that region had not yet discovered paper.",0
-1008,Waltz Time,0,0,10,3,Battle,"What a lovely night, would you like to dance with me?",1
-1009,Loving Care,0,0,10,3,Battle,"Oh, are you here to look after these little ones too?",1
-1010,Kunlun Mirror,0,0,10,3,Battle,"It is said that this stone mirror is made of the sacred stone Nuwa used to mend heaven. The exact positions of the sun, moon, and stars are engraved upon it, indicating that the entire universe is contained within it.",0
-1011,Inari Mask,0,0,10,3,Battle,These masks are enshrined in most Inari shrines in Japan. They are typically considered ritual treasures worn by gods for communication with ghosts and other deities.,0
-1012,A Sea of Books,0,0,10,3,Battle,"In books there are houses of gold, in books there are beauties of jade. Do you agree?",1
-2001,Eros Necklace,0,0,30,4,Battle,"A dazzling, gorgeous necklace. It is said to be made of luxurious pearls, shimmering gems of the sea renowned for their beauty and rarity. Legend has it that wearing this enchanting talisman will imbue its bearer with an irresistible allure, a radiance so captivating that no man can resist her charms. The necklace was the treasure of Freyja, and she would never go anywhere without it.",0
-2002,Original Fire,0,0,30,4,Battle,"Prometheus gifted humanity with the earliest kindling, and the resulting fire symbolized civilization and wisdom. The flame burns eternally, even without fuel.",0
-2003,Summer Drinks,0,0,30,4,Battle,"What a nice weather, let’s go surfing together, I don’t need to work on iron today.",1
-2004,The Eye of Horus,0,0,30,4,Battle,"This elaborate artifact, made from gold and gemstones, is a symbol of protection and well-being. It once belonged to the Egyptian god of kingship. Staring at it may give one the eerie feeling that it is staring back at you.",0
-2005,Time Hourglass,0,8,30,4,Bonus,"In ancient Egypt, this object was prized for their ability to accurately measure time. During temple worship, they helped priests mark the day's passing.",0
-2006,Holy Grail,0,0,30,4,Battle,This elusive gold cup purportedly has miraculous healing powers and the ability to grant immortality.,0
-2007,Dessert House,0,0,30,4,Battle,"Master, would you like to try some desserts I made?",1
-2008,Cherry Hunting,0,0,30,4,Battle,"This is the best time to hunt when the cherry blossoms are in full bloom, don’t you think?",1
-2009,Come and visit us!,0,0,30,4,Battle,"Welcome, what can I get you…hmm? Are you looking for me?",1
-2010,Make a Wish,0,4,30,4,Battle,Make a wish! Maybe I can make it come true.,1
-3001,Laevateinn,0,7,50,5,Privilege,"The sword, crafted from the molten lava at the heart of a volcano, was once wielded by the fire giant Surtr, who ravaged his enemies in battle on the Rainbow Bridge. Legend has it that each swing of the sword could ignite parts of the sky, leaving a trail of flames in its wake.",0
-3002,The Collapsible Ship,0,6,50,5,Bonus,"Skidbladnir is a magnificent ship crafted by a skilled Nordic dwarf for Freyr, the god of fertility and sunlight. It is capable of carrying all the Nordic gods at once, yet it can also be folded and stored in a pocket. This divine vessel is a treasured means of transportation for the gods, carrying them into battle during the fateful Twilight of the Gods.",0
-3003,Fireworks Festival,0,5,50,5,Bonus,"The fireworks tonight are so splendid, just like that year.",1
-3004,Jump to Dragonhood,0,3,50,5,Battle,"I believe that as long as you work hard, everyone can achieve their dreams.",1
-3005,Nekomata Cafe,0,0,50,5,Battle,"Nice to meet you! I am a cat…cat again, nice to know you.",1
-3006,Good Harvest,0,2,50,5,Battle,"With such a bountiful harvest, no one will go hungry anymore.",1
-3007,Ruyi Bang,0,0,50,5,Battle,"Forged by Emperor Haotian, it was given to King Yu to support the pillar of the East Sea. It was huge and incredibly heavy, called the Divine Needle of the Settled Sea. In order to enable King Yu and other mortals to move it, the Emperor of the Skies applied a wish-fulfilling spell, which, when recited, could freely enlarge or shrink it.",0
-3008,Fighting Tournament,0,1,50,5,Bonus,"Come and fight me, the moves will speak for themselves!",1
-3009,1st Anniversary Celebration,1,0,50,5,Bonus,1st Anniversary Celebration Miracle Card,1
-3010,2nd Anniversary Celebration,1,0,50,5,Bonus,2nd Anniversary Celebration Miracle Card,1
-3011,3rd Anniversary Celebration,1,0,50,5,Bonus,3rd Anniversary Celebration Miracle Card,1
-3012,Sakura Demon,0,9,50,5,Bonus,Naa~ Do you want to see me dancing?,1
-3013,Pounding Rice Cakes,0,10,50,5,Bonus,"Hey-ho~hey-ho~ I love rice cakes, and rice cakes love me!",1
-3014,Luminous Scarab,0,11,50,5,Bonus,"Symbol of the Egyptian Royal Guard, a sacred beetle-shaped talisman crafted from various rare gemstones. It is said that the scarab propels the sun, so holding it feels like experiencing the scorching power emanating from within.",0
-3015,Scarlet Whispers,0,12,50,5,Bonus,My heart belongs to the little bear... and to you.,1
-3016,Lotus Lantern,0,13,50,5,Bonus,"If this long night persists, let me illuminate it for you.",1
-3017,4th Anniversary Souvenir,1,0,50,5,Bonus,4th Anniversary Celebration Miracle Card,1
-3018,Palace Beauty,0,14,50,5,Bonus,I long to meet you and share this endless time together.,1
-3019,Ancient Laurels,0,15,50,5,Bonus,"Come, I allow you to sit by my side.",1
-3020,Peerless Blade,0,17,50,5,Bonus,"If there are still mysteries in this world, I will draw my sword and sever them!",1
-3021,Azure Glaze,0,16,50,5,Bonus,"If I let the waves carry me adrift, where will I end up?",1
-3022,Eye of the Watcher,0,18,50,5,Bonus,"Believe it, the intertwining of fate was destined long ago.",1
-3023,Queen of Light,0,19,50,5,Bonus,"Under the light, all lands are mine; under the divine glow, all bow in submission.",1
+﻿treasure_id,name,immediate_awake_5,special_effect_type,rebate_debris_count,quality,show_label,desc,is_hero,tips
+1001,Futhark Rune,0,0,10,3,Battle,Runestones were one of the supreme treasures of the god Odin. Runes written on stone slab harbored great magic and represented natural energy. Spells were created when these runes formed words or short sentences.,0,
+1002,Summer Fun,0,0,10,3,Battle,Why are you gawking at me like that? Is there something on my face?,1,
+1003,Glory Angel,0,0,10,3,Battle,"The world is under the protection of the valiant and holy battle angel Gabriel, who fights against evil with her mighty strength and divine blessing.",1,
+1004,Dreaming Moment,0,0,10,3,Battle,"It feels like a dream, like an illusion, both real and unreal, it transports people to another world.",1,
+1005,Key of Life,0,0,10,3,Battle,This symbol of life is a cross-shaped magical object made of gold and precious stones. The gods once gifted the pharaohs with this powerful symbol.,0,
+1006,Holy Pyramid,0,0,10,3,Battle,These pyramid replicas small enough to hold in one hand are made of pure gold. People often wonder if these delicate replicas were concealed inside the mummified remains of pharaohs.,0,
+1007,The Lost Scrolls,0,0,10,3,Battle,"Also known as the Dead Sea Scrolls, these are long-lost copies of mostly Hebrew text. They were preserved on parchment made from sheepskin since the people in that region had not yet discovered paper.",0,
+1008,Waltz Time,0,0,10,3,Battle,"What a lovely night, would you like to dance with me?",1,
+1009,Loving Care,0,0,10,3,Battle,"Oh, are you here to look after these little ones too?",1,
+1010,Kunlun Mirror,0,0,10,3,Battle,"It is said that this stone mirror is made of the sacred stone Nuwa used to mend heaven. The exact positions of the sun, moon, and stars are engraved upon it, indicating that the entire universe is contained within it.",0,
+1011,Inari Mask,0,0,10,3,Battle,These masks are enshrined in most Inari shrines in Japan. They are typically considered ritual treasures worn by gods for communication with ghosts and other deities.,0,
+1012,A Sea of Books,0,0,10,3,Battle,"In books there are houses of gold, in books there are beauties of jade. Do you agree?",1,
+2001,Eros Necklace,0,0,30,4,Battle,"A dazzling, gorgeous necklace. It is said to be made of luxurious pearls, shimmering gems of the sea renowned for their beauty and rarity. Legend has it that wearing this enchanting talisman will imbue its bearer with an irresistible allure, a radiance so captivating that no man can resist her charms. The necklace was the treasure of Freyja, and she would never go anywhere without it.",0,
+2002,Original Fire,0,0,30,4,Battle,"Prometheus gifted humanity with the earliest kindling, and the resulting fire symbolized civilization and wisdom. The flame burns eternally, even without fuel.",0,
+2003,Summer Drinks,0,0,30,4,Battle,"What a nice weather, let’s go surfing together, I don’t need to work on iron today.",1,
+2004,The Eye of Horus,0,0,30,4,Battle,"This elaborate artifact, made from gold and gemstones, is a symbol of protection and well-being. It once belonged to the Egyptian god of kingship. Staring at it may give one the eerie feeling that it is staring back at you.",0,
+2005,Time Hourglass,0,8,30,4,Bonus,"In ancient Egypt, this object was prized for their ability to accurately measure time. During temple worship, they helped priests mark the day's passing.",0,
+2006,Holy Grail,0,0,30,4,Battle,This elusive gold cup purportedly has miraculous healing powers and the ability to grant immortality.,0,
+2007,Dessert House,0,0,30,4,Battle,"Master, would you like to try some desserts I made?",1,
+2008,Cherry Hunting,0,0,30,4,Battle,"This is the best time to hunt when the cherry blossoms are in full bloom, don’t you think?",1,
+2009,Come and visit us!,0,0,30,4,Battle,"Welcome, what can I get you…hmm? Are you looking for me?",1,
+2010,Make a Wish,0,4,30,4,Battle,Make a wish! Maybe I can make it come true.,1,
+3001,Laevateinn,0,7,50,5,Privilege,"The sword, crafted from the molten lava at the heart of a volcano, was once wielded by the fire giant Surtr, who ravaged his enemies in battle on the Rainbow Bridge. Legend has it that each swing of the sword could ignite parts of the sky, leaving a trail of flames in its wake.",0,
+3002,The Collapsible Ship,0,6,50,5,Bonus,"Skidbladnir is a magnificent ship crafted by a skilled Nordic dwarf for Freyr, the god of fertility and sunlight. It is capable of carrying all the Nordic gods at once, yet it can also be folded and stored in a pocket. This divine vessel is a treasured means of transportation for the gods, carrying them into battle during the fateful Twilight of the Gods.",0,
+3003,Fireworks Festival,0,5,50,5,Bonus,"The fireworks tonight are so splendid, just like that year.",1,
+3004,Jump to Dragonhood,0,3,50,5,Battle,"I believe that as long as you work hard, everyone can achieve their dreams.",1,
+3005,Nekomata Cafe,0,0,50,5,Battle,"Nice to meet you! I am a cat…cat again, nice to know you.",1,
+3006,Good Harvest,0,2,50,5,Battle,"With such a bountiful harvest, no one will go hungry anymore.",1,
+3007,Ruyi Bang,0,0,50,5,Battle,"Forged by Emperor Haotian, it was given to King Yu to support the pillar of the East Sea. It was huge and incredibly heavy, called the Divine Needle of the Settled Sea. In order to enable King Yu and other mortals to move it, the Emperor of the Skies applied a wish-fulfilling spell, which, when recited, could freely enlarge or shrink it.",0,
+3008,Fighting Tournament,0,1,50,5,Bonus,"Come and fight me, the moves will speak for themselves!",1,
+3009,1st Anniversary Celebration,1,0,50,5,Bonus,1st Anniversary Celebration Miracle Card,1,
+3010,2nd Anniversary Celebration,1,0,50,5,Bonus,2nd Anniversary Celebration Miracle Card,1,
+3011,3rd Anniversary Celebration,1,0,50,5,Bonus,3rd Anniversary Celebration Miracle Card,1,
+3012,Sakura Demon,0,9,50,5,Bonus,Naa~ Do you want to see me dancing?,1,
+3013,Pounding Rice Cakes,0,10,50,5,Bonus,"Hey-ho~hey-ho~ I love rice cakes, and rice cakes love me!",1,
+3014,Luminous Scarab,0,11,50,5,Bonus,"Symbol of the Egyptian Royal Guard, a sacred beetle-shaped talisman crafted from various rare gemstones. It is said that the scarab propels the sun, so holding it feels like experiencing the scorching power emanating from within.",0,
+3015,Scarlet Whispers,0,12,50,5,Bonus,My heart belongs to the little bear... and to you.,1,
+3016,Lotus Lantern,0,13,50,5,Bonus,"If this long night persists, let me illuminate it for you.",1,
+3017,4th Anniversary Souvenir,1,0,50,5,Bonus,4th Anniversary Celebration Miracle Card,1,
+3018,Palace Beauty,0,14,50,5,Bonus,I long to meet you and share this endless time together.,1,
+3019,Ancient Laurels,0,15,50,5,Bonus,"Come, I allow you to sit by my side.",1,
+3020,Peerless Blade,0,17,50,5,Bonus,"If there are still mysteries in this world, I will draw my sword and sever them!",1,
+3021,Azure Glaze,0,16,50,5,Bonus,"If I let the waves carry me adrift, where will I end up?",1,
+3022,Eye of the Watcher,0,18,50,5,Bonus,"Believe it, the intertwining of fate was destined long ago.",1,
+3023,Queen of Light,0,19,50,5,Bonus,"Under the light, all lands are mine; under the divine glow, all bow in submission.",1,
+3024,Battle Echo,0,20,50,5,Bonus,"The ruins her blade touches become part of Olympus’s undying epic\n\nObtaining this Miracle Card grants the Angel Malice, which enhances her DMG Reduction and counterbalances Divinity.",1,Malice increases DMG Reduction for all attacks and cancels out Divinity.
+3025,Moonlight Dream,0,21,50,5,Bonus,"Every moonbeam in the Guanghan Palace holds her memories across time.\n\nObtaining this Miracle Card grants the Angel Divinity, which boosts her damage output and counterbalances Malice.",1,Divinity increases DMG Increase for all attacks and cancels out Malice.
+3026,5th Anniversary,1,0,50,5,Bonus,5th Anniversary Miracle Card,1,

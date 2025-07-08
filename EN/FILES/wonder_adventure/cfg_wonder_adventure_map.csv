@@ -5,4 +5,19 @@ index,chapter_id,map_type,layer,name,map_bg,show_name,length,height,spawn_locati
 3,4,1,1,C4-M1-G1,map_bg_snow.png,Chaos's Revival Path,26,8,1:1,0
 4,5,1,1,C5-M1-G1,map_bg_snow.png,Icarus's Revival Path,26,8,3:6,0
 5,6,1,1,C6-M1-G1,map_bg_snow.png,Himiko's Revival Path,26,8,3:1,0
-6,7,1,1,C7-M1-G1,map_bg_snow.png,拉斐尔的创世圣境,26,8,16:8,0
+6,7,1,1,C7-M1-G1,map_bg_snow.png,Raphael's Revival Path,26,8,16:8,0
+7,8,1,1,C8-M1-G1,map_bg_snow.png,Heimdall’s Revival Path,26,8,2:1,0
+8,9,1,1,C9-M1-G1,map_bg_snow.png,Thor's Revival Path,26,8,24:4,0
+9,10,1,1,C10-M1-G1,map_bg_snow.png,Sim Cheong's Revival Path,26,8,11:3,0
+10,11,1,1,C11-M1-G1,map_bg_snow.png,Apollo's Revival Path,26,8,1:8,0
+11,12,1,1,C12-M1-G1,map_bg_snow.png,Lilith the Night Walker's Revival Path,26,8,1:1,0
+12,13,1,1,C13-M1-G1,map_bg_snow.png, 冰霜龙母的创世圣境,26,8,1:1,0
+13,14,1,1,C14-M1-G1,map_bg_snow.png,Hela's Revival Path,26,8,1:8,0
+14,15,1,1,C15-M1-G1,map_bg_snow.png,Enmusubi's Revival Path,26,8,1:1,0
+15,16,1,1,C16-M1-G1,map_bg_snow.png,Fallen Angel Lucifer's Revival Path,26,8,1:1,0
+16,17,1,1,C17-M1-G1,map_bg_snow.png,Uriel's Revival Path,26,8,3:8,0
+17,18,1,1,C18-M1-G1,map_bg_snow.png,Freyja's Revival Path,26,8,1:1,0
+18,19,1,1,C19-M1-G1,map_bg_snow.png,Frigga's Revival Path,26,8,2:7,0
+19,20,1,1,C20-M1-G1,map_bg_snow.png,Sworn Warrior Jeanne d'Arc's Revival Path,26,8,3:1,0
+20,21,1,1,C21-M1-G1,map_bg_snow.png,Gemini's Revival Path,26,8,3:8,0
+21,22,1,1,C22-M1-G1,map_bg_snow.png,Loki's Revival Path,26,8,1:1,0

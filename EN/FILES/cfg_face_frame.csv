@@ -108,7 +108,10 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 4087,4,6,四周年头像框,0,0,4087.png,Thank you for your contribution in community activities
 4088,4,6,Horus Avatar Frame,0,0,4088.png,Thank you for your contribution in community activities
 4089,4,5,Horus Avatar Frame,0,0,4089.png,Thank you for your contribution in community activities
-4090,4,4,社群头像框11,0,0,4090.png,Thank you for your contribution in community activities
+4090,4,4,Community avatar frame 11,0,0,4090.png,Thank you for your contribution in community activities
+4091,4,6,Hela Avatar Frame,0,0,4091.png,Thank you for your contribution in community activities
+4092,4,5,Hela Avatar Frame,0,0,4092.png,Thank you for your contribution in community activities
+4093,4,4,5st Anniversary Avatar Frame,0,0,4093.png,Thank you for your contribution in community activities
 5001,5,6,Halloween,0,0,5001.png,Limited face frame during Halloween event
 5002,5,6,Merry Christmas,0,0,5002.png,Christmas limited avatar frame
 5003,5,6,Anniversary,0,0,5003.png,Anniversary limited avatar frame
@@ -144,6 +147,12 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 5045,5,6,2024 Halloween Limited Avatar Frame,0,0,5045.png,2024 Halloween Limited Avatar Frame
 5046,5,6,2024 Thanksgiving Avatar Frame,0,0,5046.png,2024 Thanksgiving Exclusive Avatar Frame
 5047,5,6,2024 Christmas Avatar Frame,0,0,5047.png,2024 Christmas Limited Edition Avatar Frame
+5048,5,6,2025 Spring Festival Avatar Frame,0,0,5048.png,2025 Spring Festival Limited Avatar Frame
+5049,5,6,2025情人节头像框,0,0,5049.png,2025 Valentine's Day Avatar Frame
+5050,5,6,2025 Bonfire Festival Avatar Frame,0,0,5050.png,2025 Bonfire Exclusive Avatar Frame
+5051,5,6,2025 Easter Avatar Frame,0,0,5051.png,2025 Easter Limited Avatar Frame
+5052,5,6,2025 Wedding Ceremony Avatar Frame,0,0,5052.png,2025 Wedding Ceremony Limited Avatar Frame
+5053,5,6,2025 5th Anniversary Avatar Frame,0,0,5053.png,2025 5th Anniversary Souvenir Avatar Frame
 6001,6,6,Sacred Palace,0,0,6001.png,Sacred Palace limited avatar frame
 6002,6,6,Swimsuit Party,0,0,6002.png,Swimsuit Party limited avatar frame
 6003,6,6,Divine Awakening,0,0,6003.png,Divine Awaken limited avatar frame
@@ -172,8 +181,8 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 8111,8,6,Summit Clash Champion Avatar Frame,1,5184000,8111.png,COL Champion Exclusive Avatar Frame (Expires in 60 days)
 8112,8,6,Summit Clash Runner-up Avatar Frame,1,5184000,8112.png,COL Runner-up Exclusive Avatar Frame (Expires in 60 days)
 8113,8,6,Summit Clash Top 4 Avatar Frame,1,5184000,8113.png,COL Top 4 Exclusive Avatar Frame (Expires in 60 days)
-8114,8,6,Summit Clash Top 8 Avatar Frame,0,5184000,8114.png,
-8115,8,6,Summit Clash Top 16 Avatar Frame,0,5184000,8115.png,COL Top 8 Exclusive Avatar Frame (Expires in 60 days)
+8114,8,6,Summit Clash Top 8 Avatar Frame,0,5184000,8114.png,COL Top 8 Exclusive Avatar Frame (Expires in 60 days)
+8115,8,6,Summit Clash Top 16 Avatar Frame,0,5184000,8115.png,COL Top 16 Exclusive Avatar Frame (Expires in 60 days)
 9001,9,6,Angel Rank 1 Avatar Frame,0,0,9001.png,Angel Rank 1 Avatar Frame
 9002,9,6,Angel Rank 2 Avatar Frame,0,0,9002.png,Angel Rank 2 Avatar Frame
 9003,9,6,Angel Rank 3 Avatar Frame,0,0,9003.png,Angel Rank 3 Avatar Frame
@@ -195,3 +204,4 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 130003,13,6,S1 Season Global Transcendent Avatar Frame,1,0,130003.png,Time-Space Havoc S1 Global Rank 11-20 Commemorative Avatar Frame
 130004,13,6,S1 Season Global Glory Avatar Frame,1,0,130004.png,Time-Space Havoc S1 Global Rank 20-50 Commemorative Avatar Frame
 140001,14,6,Boss Clash Commemorative Avatar Frame,0,0,140001.png,Boss Clash Ranking Commemorative Avatar Frame
+150001,15,6,Eternal Star avatar frame,1,0,150001.png,Rare commemorative avatar frame from the Eternal Vault.

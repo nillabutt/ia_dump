@@ -306,3 +306,23 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 312,Supreme Flame,2088|2087,3,2,150,Battle with {0},2088
 313,Tri-Wing Pact,2088|2084|2060,3,1,200,Battle with {0},2088
 314,Luminous Chaos,2088|2086|2050|2081,3,2,250,Battle with {0},2088
+315,Zodiac Harmony,2089|2059,3,2,150,Battle with {0},2089
+316,Moonlit Serpent,2089|2070,3,1,150,Battle with {0},2089
+317,Zodiac Clash,2089|2080,3,1,150,Battle with {0},2089
+318,Cosmic Dance,2089|2085,3,2,150,Battle with {0},2089
+319,Earthly Branches Alliance,2059|2070,3,2,150,Battle with {0},2059
+320,Luminous Core,2090|2088,3,1,150,Battle with {0},2090
+321,Fallen Light,2090|2078,3,2,150,Battle with {0},2090
+322,Enchanted Twins,2090|2076,3,2,150,Battle with {0},2090
+323,Primeval Pact,2090|2035|2050,3,1,200,Battle with {0},2090
+324,Infernal Embrace,2090|2084|2068|2056,3,2,250,Battle with {0},2090
+325,Light and Dark,2091|2088,3,1,150,Battle with {0},2091
+326,Midnight Carnival,2091|2090,3,2,150,Battle with {0},2091
+327,Chaos Wisdom,2091|2069,3,2,150,Battle with {0},2091
+328,God’s Covenant,2091|2075|2039,3,1,200,Battle with {0},2091
+329,Lofty Morning Star,2091|2071|2065|2073,3,1,250,Battle with {0},2091
+330,Divine Alliance,2092|2069,3,1,150,Battle with {0},2092
+331,Light of Mercy,2092|2088,3,2,150,Battle with {0},2092
+332,Martyr's Flame,2092|2087,3,2,150,Battle with {0},2092
+333,Miracle of Mortals,2092|2049|2053,3,1,200,Battle with {0},2092
+334,Fallen Pact,2092|2090|2091|2084,3,1,250,Battle with {0},2092

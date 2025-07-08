@@ -18,6 +18,8 @@
 999951111,2,,,,控1-受击buff,,,,0
 999951121,2,,,,控1-受击buff加buff,,加效果命中,Effect ACC UP,10
 999953111,2,,,,控3,,加血上限,Max HP UP,3
+999961111,2,,,,输出1,,最大生命值提升,,2
+999963111,2,,,,输出3,,伤害提升,,3
 100111214,1,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 20% for 2 rounds,ATK DOWN,0
 100111215,1,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 30% for 2 rounds,ATK DOWN,0
 100111216,1,6,,,Weaken-Thunderbolt,XuRuo,ATK decreased by 40% for 2 rounds,ATK DOWN,0
@@ -45,6 +47,12 @@
 160115111,0,,,,圣辉-七耀圣辉,,,Increase P.DMG | Increase M.DMG,0
 170112111,2,,,,Divine Aura,,Shield,,0
 170113111,2,,,,MC Halo,ZhuJue,"Respectively increases ATK, DEF, P.RES, M.RES and Debuff RES.(Neutral Status)",Attributes UP,0
+180101411,1,,,,Oppression - Light of Creation,WeiYa,"ATK and DEF reduced by 10%, DMG taken from Creator's Will increased by 10%.",ATK reduced | DEF reduced | DMG taken from Creator's Will increased.,0
+180111411,1,,,,Oppression - Light of Creation,WeiYa,"ATK and DEF reduced by 15%, DMG taken from Creator's Will increased by 10%.",ATK reduced | DEF reduced | DMG taken from Creator's Will increased.,0
+180131411,1,,,,Oppression - Light of Creation,WeiYa,"ATK and DEF reduced by 15%, DMG taken from Creator's Will increased by 10%.",ATK reduced | DEF reduced | DMG taken from Creator's Will increased.,0
+180141411,1,,,,Oppression - Light of Creation,WeiYa,"ATK and DEF reduced by 20%, DMG taken from Creator's Will increased by 20%.",ATK reduced | DEF reduced | DMG taken from Creator's Will increased.,0
+180151411,1,,,,Oppression - Light of Creation,WeiYa,"ATK and DEF reduced by 20%, DMG taken from Creator's Will increased by 20%.",ATK reduced | DEF reduced | DMG taken from Creator's Will increased.,0
+180151511,2,144,,,Light of Creation,CSZG,"Immune to death once, and ATK increased by 20%.",Light of Creation,0
 100102211,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 100105111,0,22,,,Shield Wall,TiaoXin,"In 2 rounds, reduce DMG by 60% and taunts the enemy","Taunt, DMG Taken DOWN",0
 100106111,0,17|27,1006_buff,,Frenzy,,All attacks become critical hits for 3 rounds and gain immunity to debuffs,CRIT UP; Debuff Immunity,0
@@ -202,16 +210,16 @@
 165051211,2,30,,,Link - Rainbow Haven,LianJie,"Link, DMG Taken ",Link - DMG Diverted,0
 165051311,2,,,,Rainbow Haven,HongGuangTianMu,Increase DMG Reduction and Reflection,Increase DMG Reduction and Reflection,5
 165051411,2,,,,Rainbow Haven,HongGuangTianMu,Increase Max HP,Increase Max HP,0
-185001111,2,132,,,不灭神躯,,承担一次伤害,,0
-185021111,2,132,,,不灭神躯,,承担一次伤害,,0
-185021211,2,133,,,不灭神躯,,承担一次伤害,,0
-185031111,2,132,,,不灭神躯,,承担一次伤害,,0
-185031211,2,132,,,不灭神躯,,承担一次伤害,,0
-185041111,2,132,,,不灭神躯,,承担一次伤害,,0
-185041211,2,132,,,不灭神躯,,承担一次伤害,,0
-185051111,2,132,,,不灭神躯,,承担一次伤害,,0
-185051211,2,132,,,不灭神躯,,承担一次伤害,,0
-185051311,2,133,,,不灭神躯,,承担一次伤害,,0
+185001111,2,132,,,Immortal Form,,承担一次伤害,,0
+185021111,2,132,,,Immortal Form,,承担一次伤害,,0
+185021211,2,133,,,Immortal Form,,承担一次伤害,,0
+185031111,2,132,,,Immortal Form,,承担一次伤害,,0
+185031211,2,132,,,Immortal Form,,承担一次伤害,,0
+185041111,2,132,,,Immortal Form,,承担一次伤害,,0
+185041211,2,132,,,Immortal Form,,承担一次伤害,,0
+185051111,2,132,,,Immortal Form,,承担一次伤害,,0
+185051211,2,132,,,Immortal Form,,承担一次伤害,,0
+185051311,2,133,,,Immortal Form,,承担一次伤害,,0
 115102211,1,8|11,,,Smash-Sanction of Light,FenSui,"DEF, P.RES, M.RES decreased by 50% for 3 rounds","DEF, P.RES, M.RES DOWN",0
 115201211,0,,,,Soul Mode - Slash 1,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
 115201411,0,,,,Soul Mode - Slash 2,HunTi,"ATK increased by 30%, Leech increased by 10% for 2 rounds","ATK, Leech UP",0
@@ -289,6 +297,10 @@
 165331211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 40% increase in Crit DMG, and ignores 5% of DMG reduction.",DMG Increase | Crit DMG Increase | Ignore DMG reduction,0
 165341211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 50% increase in Crit DMG, and ignores 10% of DMG reduction.",DMG Increase | Crit DMG Increase | Ignore DMG reduction,0
 165351211,0,,,,Destiny's Call,QiYuan,"30% increase in DMG, 50% increase in Crit DMG, and ignores 10% of DMG reduction.",DMG Increase | Crit DMG Increase | Ignore DMG reduction,0
+185301111,0,,,,Fated Calamity,,伤害增加30%，神权技能伤害增加20%,Damage Increased|Creator's Will DMG Increased,2
+185321311,2,143|22,,,Doom - Fated Calamity,YuanJie,"Becomes a priority target. When taking damage, all other angels in the same team take additional damage.",Doom,0
+185331111,0,,,,Fated Calamity,,伤害增加50%，神权技能伤害增加30%，无视伤害减免10%,Damage Increased|Creator's Will DMG Increased|Ignore DMG Reduction,2
+185351311,2,143|22,,,Doom - Fated Calamity,YuanJie,"Increased DMG Taken by 30%. When taking damage, all other angels in the same team take additional damage.",Doom,0
 115501211,1,9,,,Ignite-Ember Dragon Breath,RanShao,"In 4 rounds, lose 6% of current HP in each round",Ignite,0
 115601211,1,8,,,Sunder Armor - Storm Dragon Breath,PoJia,DEF decreased by 80% for 4 rounds,DEF DOWN,0
 115602111,0,17|27,,,Thunderstorm-Boiling Blood,LeiBao1,"ATK increased by 300%, turn all basic attack to crit hits and gain immunity to debuffs, lasts 2 rounds","ATK, CRIT UP | Debuff Immunity",0
@@ -348,11 +360,11 @@
 164951311,1,,,,Rifting Soul,LingHunLieHen,Increase DMG taken by 50%.,Increase DMG taken,0
 164951411,1,,,,Rifting Soul,LingHunLieHen,Decrease Debuff RES by 30%.,Decrease Debuff RES,0
 184901211,2,128,XKFZ_buff,,Exile - Void Exile,FangZhu,"Immune to all effects and damage, and skips their action round.",Exile,0
-184901311,1,,,,易伤,,,受到伤害提升,0
+184901311,1,,,,易伤,,,DMG taken increased,0
 184931211,2,128,XKFZ_buff,,Exile - Void Exile,FangZhu,"Immune to all effects and damage, and skips their action round.",Exile,0
-184931311,1,,,,易伤,,,受到伤害提升,0
+184931311,1,,,,易伤,,,DMG taken increased,0
 184951211,2,128,XKFZ_buff,,Exile - Void Exile,FangZhu,"Immune to all effects and damage, and skips their action round.",Exile,0
-184951311,1,,,,易伤,,,受到伤害提升,0
+184951311,1,,,,易伤,,,DMG taken increased,0
 184963111,1,1,,,Stun - Void Exile,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 116001311,1,,,,Frostbite-Frozen Blister,DongShang,Speed decreased by 30 for 2 rounds,SPD DOWN,0
 116001411,1,10,,,Bleed-Frozen Blister,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
@@ -384,6 +396,20 @@
 166231211,0,,,,Lotus Melody,QingLian,Increases ATK by 35%,ATK UP,0
 166241211,0,,,,Lotus Melody,QingLian,Increases ATK by 50%.,ATK UP,0
 166251211,0,,,,Lotus Melody,QingLian,Increases ATK by 50%.,ATK UP,0
+186201111,0,,,,Shield,,,,0
+186201211,0,,,,Divine Lotus - Lotus Dance,ShenLian,Creator's Will DMG Increased,Creator's Will DMG Increased,3
+186211111,0,,,,Shield,,,,0
+186211211,0,,,,Divine Lotus - Lotus Dance,ShenLian,Creator's Will DMG Increased,Creator's Will DMG Increased,3
+186221111,0,,,,Shield,,,,0
+186221211,0,,,,Divine Lotus - Lotus Dance,ShenLian,Creator's Will DMG Increased,Creator's Will DMG Increased,4
+186231111,0,,,,Shield,,,,0
+186231211,0,,,,Divine Lotus - Lotus Dance,ShenLian,Creator's Will DMG Increased,Creator's Will DMG Increased,4
+186241111,0,,,,Shield,,,,0
+186241211,0,,,,Divine Lotus - Lotus Dance,ShenLian,Creator's Will DMG Increased,Creator's Will DMG Increased,5
+186241311,2,135,SLHW_buff,,Lotus Fairy,XianZi,Summonable,,3
+186251111,0,,,,Shield,,,,0
+186251211,0,,,,Divine Lotus - Lotus Dance,ShenLian,Creator's Will DMG Increased,Creator's Will DMG Increased,5
+186251311,2,135,SLHW_buff,,Lotus Fairy,XianZi,Summonable,,3
 125401411,1,,,,Frostbite-Frozen Blizzard,DongShang,"In 3 rounds, speed reduced by 100, lose 5% of MAX HP in each round",Frostbite | SPD DOWN,0
 125401511,1,,,,Frostbite-Frozen Blizzard,,,,0
 125402211,0,,,,Hibernation-Aegis of Ice,DongMian,"For 2 rounds, cannot act, gain 90% DMG Reduction and restore 20% of Max HP per round",Unable to move | DMG Taken DOWN; Recover HP,0
@@ -405,6 +431,12 @@
 165451011,1,4,,,Frozen - Frostbite Soul,BingDong,"Frozen for 3 rounds, cannot move.",Unable to move,0
 165451211,1,4,,,Frozen - Frostbite Soul,BingDong,"Freezed, cannot perform actions for 1 round",Unable to move,0
 165451311,1,,,,Icebound - Frostbite Soul,BingFeng,Reduces energy recovery efficiency by 50%.,Reduces the efficiency of energy recovery.,0
+185401211,1,138|139,,,Imprison - End of Winter,JinGu,"CCannot use Revelation Skill and Creator's Will, and cannot recover Will Power.",Imprison,0
+185401311,1,140,,,Frozen Soul - End of Winter,DongHun,Takes 5% of Max HP as DMG each round.,Frozen Soul,0
+185441411,1,140,,,Frozen Soul - End of Winter,DongHun,"Reduces Holy DMG and ATK by 20%, and takes 5% of Max HP as DMG each round.",Frozen Soul,0
+185441511,1,,,,Frozen Soul - End of Winter,,,,0
+185451411,1,140,,,Frozen Soul - End of Winter,DongHun,"Reduces buffs by 30%, Holy DMG by 30%, ATK by 30%, and takes 5% ofMax HP as DMG each round.",Frozen Soul,0
+185451511,1,,,,Frozen Soul - End of Winter,,,,0
 100000111,1,7,,,Strong poison 1,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
 100000112,1,7,,,Strong poison 2,ZhongDu,"Apply [poison] until the battle ends, lose 5% of max HP every round. [Poison] can stack, up to 5 times. (can not be dispelled）",Poison,5
 100000113,1,7,,,Strong poison 3,ZhongDu,"Apply [poison] until the battle ends, lose 6% of max HP every round. [Poison] can stack, up to 5 times.",Poison,5
@@ -453,12 +485,25 @@
 165941111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, increases CRIT by 50% and increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
 165951111,2,82,ZXHS_hit1,,Astrology - Stellar Embodiment,ZhanXing,"Ignores 10% DMG Reduction, increases CRIT by 50% and M.DMG by 20%, and increases the chance of [Shadow Echo] releasing an additional attack to 100%, with a 70% chance of a third release (cannot crit). If the third release is triggered, it deals 100% increased DMG.",Astrology,0
 165951211,2,120,,,不暴击但是伤害增加,,,,0
+185901111,2,150,,,Stellar Dominion - Meteor Storm,YuXing,"Increases M.DMG, deals H.DMG with each attack and inflicts [Pierce] to targets.",Stellar Dominion,0
+185911111,2,150,,,Stellar Dominion - Meteor Storm,YuXing,"Increases M.DMG, deals H.DMG with each attack and inflicts [Pierce] to targets.",Stellar Dominion,0
+185941211,2,150,,,Stellar Dominion - Meteor Storm,YuXing,"Increases M.DMG, deals H.DMG with each attack and inflicts [Pierce] to targets.",Stellar Dominion,0
+185951111,2,83,,,免死,,,,0
+185951211,2,150,,,Stellar Dominion - Meteor Storm,YuXing,"Increases M.DMG, deals H.DMG with each attack and inflicts [Pierce] to targets.",Stellar Dominion,0
+185951311,2,1859,,,免死CD,,,,0
+185961211,1,,,,Pierce - Meteor Storm,GuanChuan,DMG taken + 10%,Pierce,10
+185962211,1,,,,Pierce - Meteor Storm,GuanChuan,"DMG taken + 10%, M.RES - 10%",Pierce,10
+185963211,1,,,,Pierce - Meteor Storm,GuanChuan,"DMG taken + 10%, M.RES - 10%",Pierce,10
+185964211,1,,,,Pierce - Meteor Storm,GuanChuan,"DMG taken + 10%, M.RES - 10%",Pierce,10
 116402511,1,6,,,Weaken-YinandYang,XuRuo,"For 1 round, ATK decreased by 100% of Gemini's ATK",ATK DOWN,0
 156401111,2,,,,Bright Light - Stellar Twin,YaoGuang,Increases CRIT and CRIT DMG by 30%(Neutral Status),CRIT,0
 156403111,2,,,,Dark Shadow - Stellar Twin,AnYing,Increases Gemini’s Debuff RES by 50% and Damage Reduction by 30%(Neutral Status),Debuff RES UP; DMG Taken DOWN,0
 156403211,2,63,,,转护盾-超凡双星,,,,0
 156403311,2,,,,护盾-超凡双星,,,,999
 166401011,2,81,,,免死-暮光华舞,,,,0
+186451111,0,,,,Dawn - Order of Light and Darkness,PoXiao,Increases DMG and Debuff RES.,Dawn,0
+186451611,0,,,,Dusk - Order of Light and Darkness,ZhongMo,ATK UP,Dusk,999
+186451911,0,,,,护盾-光影神律,,,,999
 116601111,2,33,,,Moonlight-Lone moon,YueGuang,"Infinite rounds, [Moonlight] Mark caused by Lone moon(Neutral Status)",Moonlight,12
 126601111,2,33,,,Moonlight Sigil,YueGuang,"Infinite rounds, [Moonlight] Mark caused by moonlight sigil(Neutral Status)",Moonlight,18
 126601411,0,,,,Moon God-Moonlight Sigil,YueShen,"Infinite rounds, ATK, CRIT increased by 5%","ATK, CRIT UP",6
@@ -506,8 +551,8 @@
 146801411,0,,,,战神EX-纯灵神体,ZhanShenEX,"Infinite rounds, DMG increased by 30%",DMG UP,999
 156802111,0,27,,,God of War - Gale Lance,ZhanShen,Gain immunity to debuffs for 2 rounds,Debuff Immunity,0
 166801311,2,680,,,斩杀cd,,,,0
-166841111,2,59,,,必定暴击,,,,0
-166851111,2,59,,,必定暴击,,,,0
+166841111,2,59,,,Crit Guranteed,,,,0
+166851111,2,59,,,Crit Guranteed,,,,0
 117001211,1,8,,,Sunder Armor-Fierce Tiger Roar,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
 117001311,1,1,,,Stun-Fierce Tiger Roar,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 117002111,0,15,,,Excite-Tiger with Wings,FenFa,"Increase ATK, Crit, Crit DMG by 25% for 3 rounds","ATK, CRIT, CRIT DMG UP",0
@@ -618,11 +663,20 @@
 167621211,0,,,,Illusionary Chant - Divine Fortune,MingYun,"Increases ATK, DEF, and DMG Increase by 5%.","Increases ATK, DEF, and DMG",10
 167641011,2,88,,,Illusionary Chant - Illusion,HuanYing,Immune to the next damage after receiving damage 3 times.,,0
 167651011,2,89,,,Illusionary Chant - Illusion,HuanYing,Immune to the next damage after receiving damage 2 times.,,0
+187651111,2,151,,,狡诈-惊喜一刻,JiaoZha,必定命中，闪避值提高,狡诈,0
 127701211,0,,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points","ATK, DEF PEN | DEF PEN UP",2
 137702211,1,43|105,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
 147702211,1,43|105,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
 157701111,2,,,,加速-烈怒迅雷,,提高速度,SPD UP,0
 157702111,1,1,,,麻痹-烈怒迅雷,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+167700111,0,,LSJL_buff,,Thunder God - Thunder Sovereign,LeiShen,"ATK increased by 30%, Skill DMG increased by 30%, CRIT increased by 30%.",ATK Increased | Skill DMG Increased | CRIT Increased,0
+167720111,0,,LSJL_buff,,Thunder God - Thunder Sovereign,LeiShen,"ATK increased by 40%, Skill DMG increased by 40%, CRIT increased by 50%.",ATK Increased | Skill DMG Increased | CRIT Increased,0
+167730111,0,,LSJL_buff,,Thunder God - Thunder Sovereign,LeiShen,"ATK increased by 50%, Skill DMG increased by 50%, ignores 10% DMG Reduction, CRIT increased by 50%.",ATK Increased | Skill DMG Increased | CRIT Increased | Ignores DMG Reduction,0
+167750111,0,,LSJL_buff,,Thunder God - Thunder Sovereign,LeiShen,"ATK increased by 50%, Skill DMG increased by 60%, ignores 10% DMG Reduction, CRIT increased by 50%.",ATK Increased | Skill DMG Increased | CRIT Increased | Ignores DMG Reduction,0
+167740211,0,,,,Godspeed - Thunder Sovereign,ShenSu,Speed increased by 50 points.,Speed Increased,99
+167750211,0,,,,Godspeed - Thunder Sovereign,ShenSu,Speed increased by 100 points.,Speed Increased,99
+187701112,1,1,,,Paralyzed - Tempest Zone,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+187701411,1,105,,,Electrified - Tempest Zone,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
 117801211,1,47,,,Blaze-Blazing Sun,ZhuoShao,Deals a certain amount of DMG for 4 rounds,Flame,0
 127801211,0,,,,护盾-太阳神力,,,,0
 127801311,1,47,,,Blaze-Solar Impact,ZhuoShao,Deals a certain amount of DMG for 4 rounds,Flame,0
@@ -637,6 +691,12 @@
 157803101,1,1,,,Stun,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 167800011,2,1,,,晕眩-烈焰炽星,,,,0
 167800111,2,10|27,XYZX_buff,,Supernova - Blazing Star,HengXing,Lasts until the end of battle,Supernova,99
+187851111,2,,,,Scorching Ember - Stellar Array,CanYan,Deals DMG to enemies every round.,Scorching Ember,99
+187851112,2,,,,Scorching Ember - Stellar Array,,,,0
+187851511,2,136,,,Star Guardian - Stellar Array,XingShou,"Upon death, transforms into a burning star.",Star Guardian,0
+187851512,2,10|27,LYCX_buff,,Burning Star - Stellar Array,HengXing,Revives after 1 round.,,6
+187850011,2,1,,,晕眩-烈焰炽星,,,,0
+187851611,2,18871,,,标记,,,,0
 117901211,0,,,,护盾-旋樱舞步,,1回合增加樱花妖最大攻击100%的不可驱散护盾,,0
 117902211,0,,,,护盾-樱花飞舞,,1回合增加樱花妖最大攻击70%的不可驱散护盾,,0
 117902311,0,19,,,Charge - Sakura Flurry,XuLi,[Charge] increases target's ATK by 50% of Sakura Spirit’s ATK for 2 rounds.,ATK UP,0
@@ -679,13 +739,17 @@
 158201111,1,65,,,Isolated - Heartless Cage,GuLi,Cannot receive any buffs,Cannot receive buffs,0
 158202111,1,,,,Malediction - Heartless Cage,CuiRuo,Increases DMG taken by 1% for each layer,DMG UP,999
 168201111,1,65,,,Isolated - Ethereal Echo,GuLi,Cannot receive any buffs,Cannot receive buffs,0
+188251111,1,,,,Backlash - Rhapsody of the End,FanShi,The target has their Max HP reduced and takes H.DMG each time they take an action.,Backlash,0
+188251211,1,,,,Collapse - Rhapsody of the End,BengHuai,"Decreases DEF, P.RES and M.RES",Collapse,0
+188251311,1,,,,Heart Poison - Rhapsody of the End,XinDu,Reduce buffs effect,Heart Poison,0
+188261111,2,,,,爆伤,,,,0
 128302111,2,831,,,标记,,,,0
 158301111,1,73,,,War Mark - War Domain,YinJi,Increases DMG taken by 10%,DMG UP,10
 158302211,2,,,,Power of War - War Domain,ZhanShenZhiLi,Increases DMG Increase and DMG Reduction,Increase DMG and reduce DMG taken,0
 158302311,2,,,,Power of War - War Domain,,,,0
 168301011,2,,,,Ambition of War,ZhanShenYiZhi,Immune to fatal damage once,Ambition of War,6
 128401211,1,78,,,Curse - Despair Note,ZuZhou,"Decrease ATK,DEF, P.RES and M.RES",Curse,0
-148402211,2,59,,,必定暴击,,,,0
+148402211,2,59,,,Crit Guranteed,,,,0
 158401111,1,78,,,Curse - Purgatory Prison,ZuZhou,"Decrease ATK,DEF, P.RES and M.RES",Curse,0
 168401211,1,,,,Increase DMG taken,,,,0
 168411211,1,,,,Increase DMG taken,,,,0
@@ -693,6 +757,9 @@
 168431211,1,,,,Increase DMG taken,,,,0
 168441211,1,,,,Increase DMG taken,,,,0
 168451211,1,,,,Increase DMG taken,,,,0
+188401211,1,,,,Silence - Annihilation Requiem,ChenJi,ATK-99.9%,Silence,0
+188421211,2,149,,,Disruption - Annihilation Requiem,GanRao,Any Buffs applied will have their duration reduced by 1 round. Target also takes 10% more DMG from the Will Power and 10% more H.DMG.,Disruption,0
+188441211,2,149,,,Disruption - Annihilation Requiem,GanRao,Any Buffs applied will have their duration reduced by 1 round. Target also takes 20% more DMG from the Will Power and 20% more H.DMG.,Disruption,0
 118501111,0,,,,Extreme Luck - Draco Blessing,JiYun,Increases Crit DMG by 30% and DMG dealt by skills by 20%.,Increase Crit DMG | Increase Skill DMG,0
 118502211,0,6,,,Weaken - Mighty Roar,XuRuo,ATK decreased by 50% for 2 rounds,ATK DOWN,0
 128601111,0,,,,Vigor - Phantom Favor,EnCi,Max HP UP,Max HP UP,5
@@ -705,35 +772,143 @@
 168641111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 168651111,0,84,,,Shadow Shield - Stygian Shield,YingDun,Increases ATK and reduces DMG Taken by 12% of Hela's Max HP.,ATK UP | Reduce DMG Taken,0
 168600011,2,,,,复活后标记,,,,0
+188601111,0,141,,,Death Pack - Endless Elegy,MingYue,"Deal bonus Holy DMG equal to 3% of Hela’s Max HP (ignores DMG Reduction), and they take 15% less DMG from all Creator’s Will.",Death Pack,0
+188621211,0,,,,Max HP UP,,,Max HP UP,999
+188641111,0,141,,,Death Pack - Endless Elegy,MingYue,"Deal bonus Holy DMG equal to 3% of Hela’s Max HP (ignores DMG Reduction), and they take 30% less DMG from all Creator’s Will.",Death Pack,0
+188651111,0,141,,,Death Pack - Endless Elegy,MingYue,"Deal bonus Holy DMG equal to 6% of Hela’s Max HP (ignores DMG Reduction), and they take 30% less DMG from all Creator’s Will.",Death Pack,0
 128701211,2,91,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 148701211,2,91|92,,,Lock - Ember Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 158701111,2,91|92,,,Lock - Scorching Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 158701112,1,,,,Lock - Scorching Sigil,SuoDing,DMG Reduced,DMG Reduced,0
 158701211,2,93,,,追击,,,,0
 158701311,1,,,,Scorching Sigil,SYLY,Each layer increases own True DMG by 5%.,True DMG Boost,999
-128801211,0,,,,白羽-白羽圣歌,,伤害增加50%，暴击伤害增加50%,DMG Increase | Crit DMG Increase,0
-128802111,1,10,,,流血-放逐之光,LiuXue,无法恢复生命值，攻击力降低30%，暴击伤害降低100%,无法回复|攻击力降低|暴击伤害降低,0
+128801211,0,,,,White Feather - Sacred Hymn,BaiYu,"Damage increased by 50%, Crit DMG increased by 50%.",DMG Increase | Crit DMG Increase,0
+128802111,1,10,,,Bleed - Light of Exile,LiuXue,"Unable to recover HP, ATK reduced by 30%, Crit DMG reduced by 100%.",Unable to recover | ATK reduced | Crit DMG reduced,0
 148801111,0,,,,Shield,,,,0
-148802111,2,10,,,流血-放逐之光,LiuXue,无法恢复生命值，攻击力降低30%，暴击伤害降低100%,无法回复|攻击力降低|暴击伤害降低,0
-168801111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
-168821111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
-168821211,0,,,,Bonus,,,能量回复效率提升,0
-168831111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
-168831211,0,,,,Bonus,,,能量回复效率提升,0
-168841111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
-168841211,0,,,,Bonus,,,能量回复效率提升|天启神技伤害增加,0
-168851111,0,131,ZSLMX_buff,,屏障-至圣六芒星,TianHui,为全体友军抵挡伤害,,99
-168851211,0,,,,Bonus,,,能量回复效率提升|天启神技伤害增加,0
+148802111,2,10,,,Bleed - Light of Exile,LiuXue,"Unable to recover HP, ATK reduced by 30%, Crit DMG reduced by 100%.",Unable to recover | ATK reduced | Crit DMG reduced,0
+168801111,2,131,ZSLMX_buff,,Barrier - Sacred Hexagram,PingZhang,Blocks damage for all allies.,,99
+168821111,2,131,ZSLMX_buff,,Barrier - Sacred Hexagram,PingZhang,Blocks damage for all allies.,,99
+168821211,0,,,,Bonus,,,Energy recovery efficiency increased.,0
+168831111,2,131,ZSLMX_buff,,Barrier - Sacred Hexagram,PingZhang,Blocks damage for all allies.,,99
+168831211,0,,,,Bonus,,,Energy recovery efficiency increased.,0
+168841111,2,131,ZSLMX_buff,,Barrier - Sacred Hexagram,PingZhang,Blocks damage for all allies.,,99
+168841211,0,,,,Bonus,,,Energy recovery efficiency increased | Revelation Skill DMG increased.,0
+168851111,2,131,ZSLMX_buff,,Barrier - Sacred Hexagram,PingZhang,Blocks damage for all allies.,,99
+168851211,0,,,,Bonus,,,Energy recovery efficiency increased | Revelation Skill DMG increased.,0
 168861111,2,,,,屏障特效,,,,99
-188801111,2,,,,神权-神权领域,,行动后额外回复1点神权值,神权,0
-188821211,0,,,,神威-神权领域,,神圣伤害提升30%,神圣伤害增加,0
-188831211,0,,,,神威-神权领域,,神圣伤害提升30%，神权技能伤害增加20%,神圣伤害增加|神权技能伤害增加,0
-188841211,0,,,,神威-神权领域,,神圣伤害提升50%，神权技能伤害增加30%,神圣伤害增加|神权技能伤害增加,0
-188851211,0,,,,神威-神权领域,,神圣伤害提升50%，神权技能伤害增加30%,神圣伤害增加|神权技能伤害增加,0
-188851311,0,131,ZSLMX_buff,,屏障-神权领域,TianHui,为全体友军抵挡伤害,,99
+188801111,2,,,,Will Dominion - Divine Dominator,ShenQuan,Restores 1 additional point of Will Power after acting.,Will Dominion,0
+188821211,0,,,,Divine Majesty - Divine Dominator,ShenWei,Holy DMG increased by 30%.,Holy DMG increased.,0
+188831211,0,,,,Divine Majesty - Divine Dominator,ShenWei,"Holy DMG increased by 30%, Creator's Will DMG increased by 20%.",Holy DMG increased | Creator's Will DMG increased.,0
+188841211,0,,,,Divine Majesty - Divine Dominator,ShenWei,"Holy DMG increased by 50%, Creator's Will  DMG increased by 30%.",Holy DMG increased | Creator's Will DMG increased.,0
+188851211,0,,,,Divine Majesty - Divine Dominator,ShenWei,"Holy DMG increased by 50%, Creator's Will  DMG increased by 30%.",Holy DMG increased | Creator's Will DMG increased.,0
+188851311,2,131,ZSLMX_buff,,Barrier - Divine Dominator,PingZhang,Blocks damage for all allies.,,99
 188851411,2,188,,,标记,,,,0
+118901211,1,,,,Unbalanced - Illusion Fang,ShiHeng,DMG taken increased by 20%,Increase DMG taken,0
+118902211,0,,,,Clarity - Mind Crash,ShenZhi,"ATK increased by 30%, ignores 5% of the target's DMG reduction",ATK boost | Ignores partial DMG reduction,0
+129001311,1,10,,,Bleed - Thorny Sting,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+129002411,1,10,,,Bleed - Thorny Sting,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+149002411,1,10,,,Bleed - Thorny Sting,LiuXue,Cannot receive any healing for 2 round,Unable to recover HP,0
+169001111,2,,,,Blood Barrier - Crimson Veil,XZJJ,"At the start of each round, Max HP decreases by 2% of Lilith the Night Walker’s max HP.",Blood Barrier,0
+169021111,2,,,,Blood Barrier - Crimson Veil,XZJJ,"At the start of each round, Max HP decreases by 2% of Lilith the Night Walker’s max HP.",Blood Barrier,0
+169031111,2,,,,Blood Barrier - Crimson Veil,XZJJ,"At the start of each round, Max HP decreases by 2% of Lilith the Night Walker’s max HP.",Blood Barrier,0
+169041111,2,,,,Blood Barrier - Crimson Veil,XZJJ,"At the start of each round, Max HP decreases by 2% of Lilith the Night Walker’s max HP.",Blood Barrier,0
+169041211,2,,,,Blood Barrier - Crimson Veil,XZJJ,Takes 20% less DMG and deals 20% more DMG.,Blood Barrier,0
+169051111,2,,,,Blood Barrier - Crimson Veil,XZJJ,"At the start of each round, Max HP decreases by 2% of Lilith the Night Walker’s max HP.",Blood Barrier,0
+169051211,2,,,,Blood Barrier - Crimson Veil,XZJJ,Takes 50% less DMG and deals 50% more DMG.,Blood Barrier,0
+189001111,2,137,,,Scarlet Fury - Blood Curse,XueZhou,Takes True DMG equal to 5% of Lilith the Night Walker’s max HP.,Blood Curse,0
+189021211,2,137,,,Scarlet Fury - Blood Curse,XueZhou,Takes True DMG equal to 5% of Lilith the Night Walker’s max HP.,Blood Curse,0
+189041211,2,137,,,Scarlet Fury - Blood Curse,XueZhou,Takes True DMG equal to 5% of Lilith the Night Walker’s max HP.,Blood Curse,0
+189051211,2,137,,,Scarlet Fury - Blood Curse,XueZhou,Takes True DMG equal to 10% of Lilith the Night Walker’s max HP.,Blood Curse,0
+159101111,2,145,YHNY_buff,,Wraith,YuanHun,Summonable,Wraith,999
+159101211,2,,,,吸取,,,ATK increase | HP increase,999
+169101411,0,,,,Fervor - Depraved Carnival,KuangRe,"CRIT +10%, CRIT DMG +15%",Fervor,999
+169101711,2,,,,吸取,,,ATK increase | HP increase,999
+169151111,2,147,,,Rage - Depraved Carnival,BaoNu,Rage Barrier,Rage Barrier,0
+169151211,2,146,,,Rage - Depraved Carnival,BaoNu,Rage Barrier,Rage Barrier,0
+169151311,2,,,,Damage Reduction,,,,0
+169151411,0,,,,Fervor - Depraved Carnival,KuangRe,"CRIT +20%, CRIT DMG +30%",Fervor,999
+169151511,0,59,BZ_buff,,Rampage - Depraved Carnival,KuangLuan,Crit Guranteed,Rampage,0
+169151711,2,,,,吸取,,,ATK increase | HP increase,999
+129201111,0,,,,Inspired - Oracle of Inspiration,ZhenFen,"ATK + 30%, Debuff RES + 20%",Increases ATK and Debuff RES,0
+129202211,1,,,,Oracle of Punishment,,,Increases final DMG taken,0
+149201111,0,,,,Inspired - Oracle of Inspiration,ZhenFen,"ATK + 30%, Debuff RES + 20%",Increases ATK and Debuff RES,0
+169201111,0,,,,加血上限,,,Max HP UP,3
+169221111,0,,,,加血上限,,,Max HP UP,5
+169231111,0,,,,加血上限,,,Max HP UP,5
+169241111,0,,,,加血上限,,,Max HP UP,5
+169251111,0,,,,加血上限,,,Max HP UP,5
+169251211,0,,,,加血上限,,,,5
+169251411,0,,,,Revelation - Revelation Realm,QiShi,Final DMG taken - 30%,Reduces final DMG taken,0
+189201111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
+189211111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
+189221111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
+189231111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
+189241111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
+189251111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
+189251211,0,,,,Vow,ShiYue,DMG Taken - 10%,Vow,6
+33311211,0,,,,Holy Purification,,ATK increased,ATK increased,0
+33312211,0,,,,Holy Purification,,ATK increased,ATK increased,0
+33313211,0,,,,Holy Purification,,ATK increased,ATK increased,0
+33314211,0,,,,Holy Purification,,ATK increased,ATK increased,0
+33315211,0,,,,Holy Purification,,ATK increased,ATK increased,0
+33316211,0,,,,Holy Purification,,ATK increased,ATK increased,0
+33321111,1,142,,,Combustion - Mana Burn,ZiRan,Takes damage every time a skill is released,Combustion,0
+33341111,1,,,,Chilling Aura,,,Increase DMG taken,0
+33341211,1,1,,,Stun - Chilling Aura,YunXuan,Cannot perform actions for 1 round,Unable to move,0
+33342111,1,,,,Chilling Aura,,,Increase DMG taken,0
+33343111,1,,,,Chilling Aura,,,Increase DMG taken,0
+33344111,1,,,,Chilling Aura,,,Increase DMG taken,0
+33345111,1,,,,Chilling Aura,,,Increase DMG taken,0
+33346111,1,,,,Chilling Aura,,,Increase DMG taken,0
+33351111,1,,,,Haze - Magic Fog,MengLong,Effect ACC and ATK reduced,效果命中降低|攻击力降低,0
+33352111,1,,,,Haze - Magic Fog,MengLong,Effect ACC and ATK reduced,效果命中降低|攻击力降低,0
+33353111,1,,,,Haze - Magic Fog,MengLong,Effect ACC and ATK reduced,效果命中降低|攻击力降低,0
+33354111,1,,,,Haze - Magic Fog,MengLong,Effect ACC and ATK reduced,效果命中降低|攻击力降低,0
+33355111,1,,,,Haze - Magic Fog,MengLong,Effect ACC and ATK reduced,效果命中降低|攻击力降低,0
+33356111,1,,,,Haze - Magic Fog,MengLong,Effect ACC and ATK reduced,效果命中降低|攻击力降低,0
+33361111,0,,,,Shield,,,,0
+33371111,0,148,,,Holy Rain,SGZY,"ATK increased, DEF increased, and Buff Effect enhanced.",ATK increased | DEF increased | Buff Effect enhanced,0
+33372111,0,148,,,Holy Rain,SGZY,"ATK increased, DEF increased, and Buff Effect enhanced.",ATK increased | DEF increased | Buff Effect enhanced,0
+33373111,0,148,,,Holy Rain,SGZY,"ATK increased, DEF increased, and Buff Effect enhanced.",ATK increased | DEF increased | Buff Effect enhanced,0
+33374111,0,148,,,Holy Rain,SGZY,"ATK increased, DEF increased, and Buff Effect enhanced.",ATK increased | DEF increased | Buff Effect enhanced,0
+33375111,0,148,,,Holy Rain,SGZY,"ATK increased, DEF increased, and Buff Effect enhanced.",ATK increased | DEF increased | Buff Effect enhanced,0
+33376111,0,148,,,Holy Rain,SGZY,"ATK increased, DEF increased, and Buff Effect enhanced.",ATK increased | DEF increased | Buff Effect enhanced,0
+33381111,0,,,,Solar Disciples,,,Increase M.DMG,0
+33382111,0,,,,Solar Disciples,,,Increase M.DMG,0
+33383111,0,,,,Solar Disciples,,,Increase M.DMG,0
+33384111,0,,,,Solar Disciples,,,Increase M.DMG,0
+33385111,0,,,,Solar Disciples,,,Increase M.DMG,0
+33386111,0,,,,Solar Disciples,,,Increase M.DMG,0
+33391111,0,,,,Ignore Debuff RES,,,,0
+33391211,1,,,,Oblivion - Chaos Mist,YanMie,"Takes True DMG every round. If [Stunned], the DMG doubles.",Oblivion,0
+33392111,0,,,,Ignore Debuff RES,,,,0
+33392211,1,,,,Oblivion - Chaos Mist,YanMie,"Takes True DMG every round. If [Stunned], the DMG doubles.",Oblivion,0
+33393111,0,,,,Ignore Debuff RES,,,,0
+33393211,1,,,,Oblivion - Chaos Mist,YanMie,"Takes True DMG every round. If [Stunned], the DMG doubles.",Oblivion,0
+33394111,0,,,,Ignore Debuff RES,,,,0
+33394211,1,,,,Oblivion - Chaos Mist,YanMie,"Takes True DMG every round. If [Stunned], the DMG doubles.",Oblivion,0
+33395111,0,,,,Ignore Debuff RES,,,,0
+33395211,1,,,,Oblivion - Chaos Mist,YanMie,"Takes True DMG every round. If [Stunned], the DMG doubles.",Oblivion,0
+33396111,0,,,,Ignore Debuff RES,,,,0
+33396211,1,,,,Oblivion - Chaos Mist,YanMie,"Takes True DMG every round. If [Stunned], the DMG doubles.",Oblivion,0
+33411111,0,152,,,洛基幻灵,,,EVA UP,0
+33411211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
+33412111,0,152,,,洛基幻灵,,,EVA UP,0
+33412211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
+33413111,0,152,,,洛基幻灵,,,EVA UP,0
+33413211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
+33414111,0,152,,,洛基幻灵,,,EVA UP,0
+33414211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
+33415111,0,152,,,洛基幻灵,,,EVA UP,0
+33415211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
+33416111,0,152,,,洛基幻灵,,,EVA UP,0
+33416211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
 44444111,1,129,,,Hatred,,,,0
-44446111,1,130,,,Weaken,YunXuan,,,0
+44446111,1,130,,,Weaken,,,,0
+44446711,2,,,,ATK increased,,,,99
+44446811,2,,,,ATK decreased,,,,0
+44446911,2,,,,DMG Increase,,,伤害提升,99
+44447111,2,,,,Time-Space Curse,,,Time-Space Curse,6
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0

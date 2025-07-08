@@ -91,7 +91,31 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
 90,Avalon,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200189,0,0
 91,Valhalla,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200190,0,0
 92,Jotun-heim,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200191,0,0
-93,新奧勒松,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200192,1,0
-94,皮拉米登,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200193,0,0
-95,朗伊尔城,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200194,0,1
-96,巴伦支堡,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200195,0,1
+93,Vanaheim,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200192,1,0
+94,Midgard,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200193,0,0
+95,Niflheim,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200194,0,0
+96,Helheim,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200195,0,0
+97,Fratelli,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200196,1,0
+98,Deslornes,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200197,0,0
+99,Stazé,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200198,0,0
+100,Bieldaler,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200199,0,0
+101,Edinburgh,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200200,1,0
+102,Isle of Man,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200203,0,0
+103,Donegal,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200204,0,0
+104,Leeds,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200205,0,0
+105,Cagliari,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200206,1,0
+106,Parma,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200207,0,0
+107,Ibiza,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200208,0,0
+108,Corsica Island,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200209,0,0
+109,Ariya,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200210,1,0
+110,La Oliva,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200211,0,0
+111,Adeje,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200212,0,0
+112,Telde,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200213,0,0
+113,El Calafate,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200214,1,0
+114,Cullen,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200215,0,0
+115,Ushuaia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200216,0,0
+116,North Arm,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200217,0,0
+117,Peru,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200218,1,0
+118,Chile,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200219,0,0
+119,Bolivia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200220,0,1
+120,Brazil,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200221,0,1

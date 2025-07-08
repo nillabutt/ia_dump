@@ -1,5 +1,5 @@
 id,name,icon,burden,advance,score
-1001,Rice Cake,img_dangao.png,5:3000223:15|5:3000224:10,0,2
-1002,Roast,img_roupai.png,5:3000223:25|5:3000225:10,0,3
-1003,Bun,img_pai.png,5:3000223:25|5:3000224:25|5:3000225:10,0,5
-1004,Mooncake,img_shaoji.png,5:3000223:50|5:3000226:10,1,20
+1001,Firecrackers,img_dangao.png,5:3000272:15|5:3000273:10,0,2
+1002,Sparkler,img_roupai.png,5:3000272:25|5:3000274:10,0,3
+1003,Fireworks,img_pai.png,5:3000272:25|5:3000273:25|5:3000274:10,0,5
+1004,Lantern,img_shaoji.png,5:3000272:50|5:3000275:10,1,20

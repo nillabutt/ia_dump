@@ -242,6 +242,30 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 200193,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_94,,,1,0,0
 200194,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_95,,,1,0,0
 200195,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_96,,,1,0,0
+200196,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_97,,,1,0,0
+200197,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_98,,,1,0,0
+200198,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_99,,,1,0,0
+200199,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_100,,,1,0,0
+200200,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_101,,,1,0,0
+200203,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_102,,,1,0,0
+200204,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_103,,,1,0,0
+200205,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_104,,,1,0,0
+200206,0,0,0,0.4,0|0,←,0|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_105,,,1,0,0
+200207,0,0,0,0.4,0|0,↓,-100|310,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_106,,,1,0,0
+200208,0,0,0,0.4,0|0,↓,-320|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_107,,,1,0,0
+200209,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_108,,,1,0,0
+200210,0,0,0,0.4,0|0,←,0|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_109,,,1,0,0
+200211,0,0,0,0.4,0|0,↓,-100|310,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_110,,,1,0,0
+200212,0,0,0,0.4,0|0,↓,-320|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_111,,,1,0,0
+200213,0,0,0,0.4,0|0,↓,-100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_112,,,1,0,0
+200214,0,0,0,0.4,0|0,←,200|200,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_113,,,1,0,0
+200215,0,0,0,0.4,0|0,↓,100|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_114,,,1,0,0
+200216,0,0,0,0.4,0|0,↓,0|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_115,,,1,0,0
+200217,0,0,0,0.4,0|0,→,-200|200,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_116,,,1,0,0
+200218,0,0,0,0.4,0|0,↓,190|330,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_117,,,1,0,0
+200219,0,0,0,0.4,0|0,↓,60|330,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_118,,,1,0,0
+200220,0,0,0,0.4,0|0,↓,10|330,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_119,,,1,0,0
+200221,0,0,0,0.4,0|0,→,-237|185,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_120,,,1,0,0
 200201,0,0,0,0.4,0|0,↓,300|550|1,Enter Dungeon,3D_DungeonNode_1_Name,,100|100,1,1,0
 200202,0,1,0,0.4,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
 201001,1,0,0,0.5,,→,345|850|1,Swipe left to the next page,,,,1,0,0
@@ -311,7 +335,7 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 260411,0,1,0,0.5,0|0,↑,-20|-394,Claim Trial crystals,OutLandPracticeUIScene(Clone)|PanelTrialStatueUITpl|Button_reward_guide,,,0,0,0
 260412,0,1,0,0.5,0|0,↓,120|363,Enter Trial Field,OutLandPracticeUIScene(Clone)|ButtonList|Viewport|Content_button|Toggle_Practice,,,0,0,0
 260413,0,1,0,0.5,0|0,↑,221|-374,Use Trial crystals to unlock Trial slots,OutLandPracticeUIScene(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,138.5|117.5,0,0,0
-260414,0,1,0,0.5,0|0,↑,,,ConfirmUIDialog(Clone)|Root|Image|ButtonBg|Button_confirm,,,0,0,0
+260414,0,1,0,0.5,0|0,↑,,,ConfirmUIDialog(Clone)|Root|Image|Button_confirm,,,0,0,0
 260415,0,1,0,0.5,0|0,↑,221|-374,Configurate Trial Angels,OutLandPracticeUIScene(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,138.5|117.5,0,0,0
 260416,0,1,0,0.5,0|0,↑,173|-437,"<size=24>Choose Assist Trial Angels (Higher Angels' levels, training, and quality grant a greater bonus)</size>",OutlandPracticeHeroChooseUIDialog(Clone)|Hero_ScrollView|HeroIconUITpl(Clone),,90|90,0,0,0
 260417,0,1,0,0.5,0|0,↓,-20|-196,Confirm to complete Configuration,OutlandPracticeHeroChooseUIDialog(Clone)|Root|CenterStretch|Button_ok,,,0,0,0
@@ -401,3 +425,16 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 331001,0,1,0,0.5,0|0,↓,-317|296,Meteor Trial are now open. Click to switch challenges.,TrialUIScene(Clone)|Root|GameObject_diff_select|Switch_button,,,0,0,0
 331010,0,1,0,0.4,0|0,→,-170|-190,Tap [Revival Quest] to check the story progress.,SceneUIRoot|WonderAdventureMapUIScene(Clone)|Root|top|Button_main_task_go,,,0,0,0
 331011,0,1,0,0.4,0|0,→,-260|-190,Tap [Go] to travel to the story location.,PopupManager|WonderAdventureMainTaskUIDialog(Clone)|Content_cont|ItemWondeMainTaskUITpl(Clone)|Button_go,,,0,0,0
+332001,1,0,0,0.4,0|0,↓,179|295,Player House now available,Scene_Lobby_MainMenu_Home,,,1,0,0
+332002,1,0,0,0.4,0|0,↓,-240|311,Player House now available,LobbyUIScene(Clone)|Button_home,,,1,0,0
+332003,1,0,0,0.4,,,19|-36,Click the Angel to talk to her,HomeMainUIScene(Clone)|Root,,,1,0,1
+332004,1,0,0,0.4,0|0,→,-240|311,Click to check Angel Sync Level,HomeMainUIScene(Clone)|Panel_Hall|Button_moqi,,,1,0,0
+332005,1,0,0,0.4,,,-15|-646,Sync Level can be gained by talking with the Angel in the hall or interacting with her in Dormitory,HomeMoqiUIDialog(Clone)|Root,,,1,0,1
+332006,0,0,0,0.4,0|0,↑,,点击返回,HomeMoqiUIDialog(Clone)|Root|Button_close,,,1,0,0
+332007,0,0,0,0.4,0|0,→,-290|333,Click to enter Dormitory,HomeMainUIScene(Clone)|Panel_Hall|Button_dorm,,,1,0,0
+332008,0,0,0,0.4,0|0,↓,-169|321,"Get a 3-day trial of the selected Fashion. If already owned, receive 200 Diamonds instead.",HomeDormUIDialog(Clone)|Button_trial_skin,,,1,0,0
+332009,0,0,0,0.4,0|0,↑,165|-332,Tap the Enter button to try the Fashion,HomeDormUIDialog(Clone)|ItemSkin_102076011|Btn_goto_dorm,,,0,0,0
+332010,0,0,0,0.4,0|0,↑,28|-332,Tap the Angel to interact!,HomeMainUIScene(Clone)|Panel_Dorm|Button_Guide1,,,0,0,0
+332011,0,0,0,0.4,0|0,→,-245|133,Talk with the Angel now!,HomeMainUIScene(Clone)|Panel_Dorm|Button_talk,,,0,0,0
+332012,0,0,0,0.4,0|0,→,-307|-130,Go interact with the Angel though touch!,HomeMainUIScene(Clone)|Panel_Dorm|Button_touch,,,0,0,0
+332013,0,0,0,0.4,0|0,↑,,,HomeMainUIScene(Clone)|Panel_Dorm|Button_Guide2,,,1,0,0

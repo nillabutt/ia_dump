@@ -24,3 +24,7 @@ cid,type,land_id,debris_type,add_debris_count,add_goods_count,tab_desc,desc
 23,1,3,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS
 24,1,4,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS
 25,1,5,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS
+26,1,2,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS
+27,1,3,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS
+28,1,4,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS
+29,1,5,4,1,0,Miracle Bonus,OSL_ANIMAL_TIPS

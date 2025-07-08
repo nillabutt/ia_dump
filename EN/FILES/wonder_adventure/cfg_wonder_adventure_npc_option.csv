@@ -146,3 +146,318 @@ index,option_id,chapter,option_index,dialog_id,character_name,dialog,bg,characte
 145,49,7,0,0,Cupid,Cupid wants to join your team,,QBT_CSHS,,30,70,1.2,0,0,9,
 146,49,7,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2047
 147,49,7,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2047
+148,50,8,0,60800008,Storm Dragon,Storm Dragon wants to join your team,,LL_MR,,-20,70,1.3,0,0,9,
+149,50,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+150,50,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+151,51,8,0,60800018,Frost Dragon,Frost Dragon wants to join your team,,LB_MR,,45,-120,1.5,0,0,-1,
+152,51,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+153,51,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+154,52,8,0,60800028,Freyja,Freyja wants to join your team,,FLY_MR,,-20,10,1.3,0,0,-1,
+155,52,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+156,52,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+157,53,8,0,60800039,Ember Dragon,Ember Dragon wants to join your team,,LH_MR,,-20,150,1.3,0,0,-1,
+158,53,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+159,53,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+160,54,8,0,60800049,Hela,Hela wants to join your team,,HLA_MR,,30,100,1.2,0,0,-1,
+161,54,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+162,54,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+163,55,8,0,0,Himiko,Himiko wants to join your team,,BMH_CSHS,,20,95,1.2,0,0,9,
+164,55,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+165,55,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+166,56,8,0,0,Chaos,Chaos wants to join your team,,KES_CSHS,,30,70,1.2,0,0,9,
+167,56,8,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+168,56,8,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+169,57,9,0,0,Freyja,Freyja wants to join your team,,FLY_MR,,-20,70,1.3,0,0,9,
+170,57,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+171,57,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+172,58,9,0,0,Heimdall,Heimdall wants to join your team,,HMDE_CSHS,,45,-120,1.5,0,0,-1,
+173,58,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+174,58,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+175,59,9,0,0,Hela,Hela wants to join your team,,HLA_MR,,30,100,1.2,0,0,-1,
+176,59,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+177,59,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+178,60,9,0,0,Loki,Loki wants to join your team,,LJ_MR,,-20,150,1.3,0,0,-1,
+179,60,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+180,60,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+181,61,9,0,0,Valkyrie,Valkyrie wants to join your team.,,WEJL0,,30,100,1.2,0,0,-1,
+182,61,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2016
+183,61,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2016
+184,62,9,0,0,Himiko,Himiko wants to join your team,,BMH_CSHS,,20,95,1.2,0,0,9,
+185,62,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+186,62,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+187,63,9,0,0,Raphael,Raphael wants to join your team.,,ZTSLFE_CSHS,,30,70,1.2,0,0,9,
+188,63,9,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2088
+189,63,9,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2088
+190,64,10,0,61000007,Storm Dragon,Storm Dragon wants to join your team,,LL_MR,,-20,70,1.3,0,0,-1,
+191,64,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+192,64,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+193,65,10,0,61000018,Chang'e,Chang’e wants to join your team.,,CE_MR,,45,-120,1.5,0,0,-1,
+194,65,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2067
+195,65,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2067
+196,66,10,0,61000029,Himiko,Himiko wants to join your team,,BMH_CSHS,,20,95,1.2,0,0,-1,
+197,66,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+198,66,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+199,67,10,0,61000039,Asura,Asura wants to join your team,,AXL_MR,,-20,150,1.3,0,0,-1,
+200,67,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+201,67,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+202,68,10,0,61000049,Nuwa,Nuwa wants to join your team.,,LHFR_CZ,,30,100,1.2,0,0,-1,
+203,68,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2025
+204,68,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2025
+205,69,10,0,0,Chaos,Chaos wants to join your team,,KES_CSHS,,20,160,1.2,0,0,9,
+206,69,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+207,69,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+208,70,10,0,0,Thor,Thor wants to join your team,,SE_CSHS,,30,70,1.2,0,0,9,
+209,70,10,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2077
+210,70,10,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2077
+211,71,11,0,61100008,Cupid,Cupid wants to join your team,,QBT_CSHS,,-20,70,1.3,0,0,-1,
+212,71,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2047
+213,71,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2047
+214,72,11,0,61100019,Icarus,Icarus wants to join your team,,YKLS_CSHS,,30,70,1.2,0,0,-1,
+215,72,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+216,72,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+217,73,11,0,61100030,Prometheus,Prometheus wants to join your team,,PLMXS_MR,,-20,10,1.3,0,0,-1,
+218,73,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2087
+219,73,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2087
+220,74,11,0,61100042,Zeus,Zeus wants to join your team,,ZS_MR,,-20,150,1.3,0,0,-1,
+221,74,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2075
+222,74,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2075
+223,75,11,0,61100052,Chaos,Chaos wants to join your team,,KES_CSHS,,30,100,1.2,0,0,-1,
+224,75,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+225,75,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+226,76,11,0,0,Frigga,Frigga wants to join your team.,,FLJ_MR,,20,160,1.2,0,0,9,
+227,76,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2082
+228,76,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2082
+229,77,11,0,0,Asura,Asura wants to join your team,,AXL_MR,,30,70,1.2,0,0,9,
+230,77,11,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+231,77,11,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+232,78,12,0,61200007,Ember Dragon,Ember Dragon wants to join your team,,LH_MR,,-20,70,1.3,0,0,-1,
+233,78,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+234,78,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+235,79,12,0,61200023,Loki,Loki wants to join your team,,LJ_MR,,45,-120,1.5,0,0,-1,
+236,79,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+237,79,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+238,80,12,0,61200034,Chaos,Prometheus wants to join your team,,KES_CSHS,,-20,10,1.3,0,0,-1,
+239,80,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+240,80,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+241,81,12,0,61200045,Michael,Michael wants to join your team.,,MJL0,,-20,150,1.3,0,0,-1,
+242,81,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2052
+243,81,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2052
+244,82,12,0,61200056,Uriel,Uriel wants to join your team.,,WLE_MR,,30,100,1.2,0,0,-1,
+245,82,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2084
+246,82,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2084
+247,83,12,0,0,Capricornus,Capricornus wants to join your team.,,MJZ_MR,,20,160,1.2,0,0,9,
+248,83,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2071
+249,83,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2071
+250,84,12,0,0,Hela,Hela wants to join your team,,HLA_MR,,30,70,1.2,0,0,9,
+251,84,12,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+252,84,12,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+253,85,13,0,61300008,Freyja,Freyja wants to join your team,,FLY_MR,,-20,70,1.3,0,0,-1,
+254,85,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+255,85,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+256,86,13,0,61300022,Heimdall,Heimdall wants to join your team,,HMDE_CSHS,,45,-120,1.5,0,0,-1,
+257,86,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+258,86,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+259,87,13,0,61300034,Storm Dragon,Storm Dragon wants to join your team,,LL_MR,,-20,70,1.3,0,0,-1,
+260,87,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+261,87,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+262,88,13,0,61300046,Hela,Hela wants to join your team,,HLA_MR,,30,100,1.2,0,0,-1,
+263,88,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+264,88,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+265,89,13,0,61300057,Ember Dragon,Ember Dragon wants to join your team,,LH_MR,,-20,150,1.3,0,0,-1,
+266,89,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+267,89,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+268,90,13,0,0,Icarus,Icarus wants to join your team,,YKLS_CSHS,,30,70,1.2,0,0,9,
+269,90,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+270,90,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+271,91,13,0,0,Chaos,Chaos wants to join your team,,KES_CSHS,,30,100,1.2,0,0,9,
+272,91,13,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+273,91,13,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+274,92,14,0,61400008,Heimdall,Heimdall wants to join your team,,HMDE_CSHS,,45,-120,1.5,0,0,-1,
+275,92,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+276,92,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+277,93,14,0,61400021,Freyja,Freyja wants to join your team,,FLY_MR,,-20,70,1.3,0,0,-1,
+278,93,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+279,93,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+280,94,14,0,61400032,Frost Dragon,Frost Dragon wants to join your team,,LB_CSHS,,-20,70,1.3,0,0,-1,
+281,94,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+282,94,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+283,95,14,0,61400043,Storm Dragon,Storm Dragon wants to join your team,,LL_MR,,-20,70,1.3,0,0,-1,
+284,95,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+285,95,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+286,96,14,0,61400055,Ember Dragon,Ember Dragon wants to join your team,,LH_MR,,-20,150,1.3,0,0,-1,
+287,96,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+288,96,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+289,97,14,0,0,Ra,Ra wants to join your team,,R_CSHS,,30,300,1,0,0,9,
+290,97,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2037
+291,97,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2037
+292,98,14,0,0,Athena,Athena wants to join your team,,YDN_MR,,30,70,1.2,0,0,9,
+293,98,14,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2069
+294,98,14,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2069
+295,99,15,0,61500010,Gemini,Gemini wants to join your team,,YWJ_MR,,-30,150,1.2,0,0,-1,
+296,99,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2065
+297,99,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2065
+298,100,15,0,61500022,Capricornus,Capricornus wants to join your team.,,MJZ_MR,,20,160,1.2,0,0,-1,
+299,100,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2071
+300,100,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2071
+301,101,15,0,61500027,Pisces,Pisces wants to join your team,,SYZ_MR,,-20,70,1.3,0,0,-1,
+302,101,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2073
+303,101,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2073
+304,102,15,0,61500044,Chang'e,Chang’e wants to join your team.,,CE_MR,,45,-120,1.5,0,0,-1,
+305,102,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2067
+306,102,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2067
+307,103,15,0,61500056,Himiko,Himiko wants to join your team,,BMH_CSHS,,20,95,1.2,0,0,-1,
+308,103,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+309,103,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+310,104,15,0,0,Icarus,Icarus wants to join your team,,YKLS_CSHS,,30,70,1.2,0,0,9,
+311,104,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+312,104,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+313,105,15,0,0,Frost Dragon,Frost Dragon wants to join your team,,LB_CSHS,,-20,70,1.3,0,0,9,
+314,105,15,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+315,105,15,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+316,106,16,0,61600007,Loki,Loki wants to join your team,,LJ_MR,,45,-120,1.5,0,0,-1,
+317,106,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+318,106,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+319,107,16,0,61600017,Athena,Athena wants to join your team,,YDN_MR,,30,70,1.2,0,0,-1,
+320,107,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2069
+321,107,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2069
+322,108,16,0,61600026,Ra,Ra wants to join your team,,R_CSHS,,30,300,1,0,0,-1,
+323,108,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2037
+324,108,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2037
+325,109,16,0,61600036,Uriel,Uriel wants to join your team.,,WLE_MR,,30,100,1.2,0,0,-1,
+326,109,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2084
+327,109,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2084
+328,110,16,0,61600048,Lilith,Lilith the Night Walker wants to join your team,,YZMNLLS_CSHS,,30,100,1.2,0,0,-1,
+329,110,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+330,110,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+331,111,16,0,0,Hera,Hera wants to join your team,,HL_CSHS,,30,70,1.2,0,0,9,
+332,111,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+333,111,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+334,112,16,0,0,Horus,Horus wants to join your team,,HLS_MR,,-10,150,1.2,0,0,9,
+335,112,16,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2081
+336,112,16,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2081
+337,113,17,0,61700009,Asura,Asura wants to join your team,,AXL_MR,,-20,150,1.3,0,0,-1,
+338,113,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+339,113,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+340,114,17,0,61700022,Hela,Hela wants to join your team,,HLA_CSHS,,30,70,1.2,0,0,-1,
+341,114,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+342,114,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+343,115,17,0,61700032,Chaos,Chaos wants to join your team,,KES_CSHS,,30,100,1.2,0,0,-1,
+344,115,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+345,115,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+346,116,17,0,61700042,Lilith,Lilith the Night Walker wants to join your team,,YZMNLLS_CSHS,,30,100,1.2,0,0,-1,
+347,116,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+348,116,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+349,117,17,0,61700054,Raphael,Raphael wants to join your team.,,ZTSLFE_CSHS,,30,70,1.2,0,0,-1,
+350,117,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2088
+351,117,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2088
+352,118,17,0,0,Icarus,Icarus wants to join your team,,YKLS_CSHS,,30,70,1.2,0,0,9,
+353,118,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+354,118,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+355,119,17,0,0,Ra,Ra wants to join your team,,R_CSHS,,-10,150,1.2,0,0,9,
+356,119,17,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2037
+357,119,17,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2037
+358,120,18,0,61800009,Ember Dragon,Ember Dragon wants to join your team,,LH_MR,,-20,150,1.3,0,0,-1,
+359,120,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+360,120,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+361,121,18,0,61800020,Thor,Thor wants to join your team,,SE_CSHS,,30,70,1.2,0,0,-1,
+362,121,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2077
+363,121,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2077
+364,122,18,0,61800029,Storm Dragon,Storm Dragon wants to join your team,,LL_MR,,-20,70,1.3,0,0,-1,
+365,122,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+366,122,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+367,123,18,0,61800042,Heimdall,Heimdall wants to join your team,,HMDE_CSHS,,45,-120,1.5,0,0,-1,
+368,123,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+369,123,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+370,124,18,0,61800053,Frost Dragon,Frost Dragon wants to join your team,,LB_CSHS,,-20,70,1.3,0,0,-1,
+371,124,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+372,124,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+373,125,18,0,0,Hera,Hera wants to join your team,,HL_CSHS,,30,70,1.2,0,0,9,
+374,125,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+375,125,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+376,126,18,0,0,Sim Cheong,Sim Cheong wants to join your team,,SQE_CSHS,,-20,10,1.3,0,0,9,
+377,126,18,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
+378,126,18,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
+379,127,19,0,61900007,Thor,Thor wants to join your team,,SE_CSHS,,30,70,1.2,0,0,-1,
+380,127,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2077
+381,127,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2077
+382,128,19,0,61900018,Hela,Hela wants to join your team,,HLA_CSHS,,30,70,1.2,0,0,-1,
+383,128,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+384,128,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+385,129,19,0,61900028,Loki,Loki wants to join your team,,LJ_MR,,45,-120,1.5,0,0,-1,
+386,129,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+387,129,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2076
+388,130,19,0,61900040,Freyja,Freyja wants to join your team,,FLY_CSHS,,45,-120,1.5,0,0,-1,
+389,130,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+390,130,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+391,131,19,0,61900052,Heimdall,Heimdall wants to join your team,,HMDE_CSHS,,45,-120,1.5,0,0,-1,
+392,131,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+393,131,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2051
+394,132,19,0,0,Chaos,Chaos wants to join your team,,KES_CSHS,,30,100,1.2,0,0,9,
+395,132,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+396,132,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+397,133,19,0,0,Frost Dragon,Frost Dragon wants to join your team,,LB_CSHS,,-20,70,1.3,0,0,9,
+398,133,19,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+399,133,19,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+400,134,20,0,62000009,Icarus,Icarus wants to join your team,,YKLS_CSHS,,30,70,1.2,0,0,-1,
+401,134,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+402,134,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+403,135,20,0,62000018,Himiko,Himiko wants to join your team,,BMH_CSHS,,20,95,1.2,0,0,-1,
+404,135,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+405,135,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+406,136,20,0,62000027,Uriel,Uriel wants to join your team.,,WLE_CSHS,,30,100,1.2,0,0,-1,
+407,136,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2084
+408,136,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2084
+409,137,20,0,62000036,Raphael,Raphael wants to join your team.,,ZTSLFE_CSHS,,30,70,1.2,0,0,-1,
+410,137,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2088
+411,137,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2088
+412,138,20,0,62000046,Lilith,Lilith the Night Walker wants to join your team,,YZMNLLS_CSHS,,30,100,1.2,0,0,-1,
+413,138,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+414,138,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+415,139,20,0,0,Zeus,Zeus wants to join your team,,ZS_MR,,20,220,1.2,0,0,9,
+416,139,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2075
+417,139,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2075
+418,140,20,0,0,Apollo,Apollo wants to join your team,,ABL_CSHS,,30,300,1,0,0,9,
+419,140,20,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2078
+420,140,20,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2078
+421,141,21,0,62100010,Pisces,Pisces wants to join your team,,SYZ_MR,,-20,70,1.3,0,0,-1,
+422,141,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2073
+423,141,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2073
+424,142,21,0,62100022,Capricornus,Capricornus wants to join your team.,,MJZ_MR,,20,160,1.2,0,0,-1,
+425,142,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2071
+426,142,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2071
+427,143,21,0,62100037,Athena,Athena wants to join your team,,YDN_MR,,30,70,1.2,0,0,-1,
+428,143,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2069
+429,143,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2069
+430,144,21,0,62100048,Cupid,Cupid wants to join your team,,QBT_CSHS,,-20,70,1.3,0,0,-1,
+431,144,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2047
+432,144,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2047
+433,145,21,0,62100060,Enmusubi,Eudemons wants to join your team.,,ZRNZ_CSHS,,30,100,1.2,0,0,-1,
+434,145,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2054
+435,145,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2054
+436,146,21,0,0,Hera,Hera wants to join your team,,HL_CSHS,,30,70,1.2,0,0,9,
+437,146,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+438,146,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+439,147,21,0,0,Sim Cheong,Sim Cheong wants to join your team,,SQE_CSHS,,-20,10,1.3,0,0,9,
+440,147,21,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
+441,147,21,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
+442,148,22,0,62200008,Ember Dragon,Ember Dragon wants to join your team,,LH_MR,,-20,150,1.3,0,0,-1,
+443,148,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+444,148,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2056
+445,149,22,0,62200021,Frost Dragon,Frost Dragon wants to join your team,,LB_CSHS,,-20,70,1.3,0,0,-1,
+446,149,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+447,149,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2055
+448,150,22,0,62200032,Storm Dragon,Storm Dragon wants to join your team,,LL_MR,,-20,70,1.3,0,0,-1,
+449,150,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+450,150,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2057
+451,151,22,0,62200042,Hela,Hela wants to join your team,,HLA_CSHS,,30,70,1.2,0,0,-1,
+452,151,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+453,151,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2086
+454,152,22,0,62200053,Freyja,Freyja wants to join your team,,FLY_CSHS,,45,-120,1.5,0,0,-1,
+455,152,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+456,152,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2060
+457,153,22,0,0,Lilith the Night Walker,Lilith the Night Walker wants to join your team,,YZMNLLS_CSHS,,30,70,1.2,0,0,9,
+458,153,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+459,153,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2090
+460,154,22,0,0,Sim Cheong,Sim Cheong wants to join your team,,SQE_CSHS,,-20,10,1.3,0,0,9,
+461,154,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
+462,154,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063

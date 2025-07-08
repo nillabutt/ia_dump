@@ -121,3 +121,27 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200103,4,1,200001,119,200102,3,7160,5:3000027:10,Level Up Achievements,Clear all levels in Midgard,,4
 200104,4,1,200001,120,200103,3,7260,5:3000027:10,Level Up Achievements,Clear all levels in Niflheim,,4
 200105,4,1,200001,121,200104,3,7360,5:3000027:10,Level Up Achievements,Clear all levels in Helheim,,4
+200106,4,1,200001,122,200105,3,7460,5:3000027:10,Level Up Achievements,Complete all dungeons in Flathery,,4
+200107,4,1,200001,123,200106,3,7560,5:3000027:10,Level Up Achievements,Complete all dungeons in Deslonnes,,4
+200108,4,1,200001,124,200107,3,7660,5:3000027:10,Level Up Achievements,Complete all dungeons in Stazeh,,4
+200109,4,1,200001,125,200108,3,7760,5:3000027:10,Level Up Achievements,Complete all dungeons in Bilderdal,,4
+200110,4,1,200001,126,200109,3,7860,5:3000027:10,Level Up Achievements,Complete all dungeons in Edinburgh,,4
+200111,4,1,200001,127,200110,3,7960,5:3000027:10,Level Up Achievements,Complete all dungeons in Donegal,,4
+200112,4,1,200001,128,200111,3,8060,5:3000027:10,Level Up Achievements,Complete all dungeons in Isle of Man,,4
+200113,4,1,200001,129,200112,3,8160,5:3000027:10,Level Up Achievements,Complete all dungeons in Leeds,,4
+200114,4,1,200001,130,200113,3,8260,5:3000027:10,Level Up Achievements,Complete all dungeons in Cagliari,,4
+200115,4,1,200001,131,200114,3,8360,5:3000027:10,Level Up Achievements,Complete all dungeons in Parma,,4
+200116,4,1,200001,132,200115,3,8460,5:3000027:10,Level Up Achievements,Complete all dungeons in Ibiza,,4
+200117,4,1,200001,133,200116,3,8560,5:3000027:10,Level Up Achievements,Complete all dungeons in Corsica Island,,4
+200118,4,1,200001,134,200117,3,8660,5:3000027:10,Level Up Achievements,Complete all dungeons in Ariya,,4
+200119,4,1,200001,135,200118,3,8760,5:3000027:10,Level Up Achievements,Complete all dungeons in La Oliva,,4
+200120,4,1,200001,136,200119,3,8860,5:3000027:10,Level Up Achievements,Complete all dungeons in Adeje,,4
+200121,4,1,200001,137,200120,3,8960,5:3000027:10,Level Up Achievements,Complete all dungeons in Telde,,4
+200122,4,1,200001,138,200121,3,9060,5:3000027:10,Level Up Achievements,Clear all stages in El Calafate,,4
+200123,4,1,200001,139,200122,3,9160,5:3000027:10,Level Up Achievements,Clear all stages in Cullen,,4
+200124,4,1,200001,140,200123,3,9260,5:3000027:10,Level Up Achievements,Clear all stages in Ushuaia,,4
+200125,4,1,200001,141,200124,3,9360,5:3000027:10,Level Up Achievements,Clear all stages in North Arm,,4
+200126,4,1,200001,142,200125,3,9460,5:3000027:10,Level Up Achievements,Clear all stages in Peru,,4
+200127,4,1,200001,143,200126,3,9560,5:3000027:10,Level Up Achievements,Clear all stages in Chile,,4
+200128,4,1,200001,144,200127,3,9660,5:3000027:10,Level Up Achievements,Clear all stages in Bolivia,,4
+200129,4,1,200001,145,200128,3,9760,5:3000027:10,Level Up Achievements,Clear all stages in Brazil,,4

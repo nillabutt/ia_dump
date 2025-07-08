@@ -1,0 +1,12 @@
+cid,name,cannot_summon,quality,quality_level,icon,big_icon,link_cid,debris_icon,debris_desc,rebate_goods,local_scale,local_position
+1,Lucky Star,0,6,6,900001_S.png,900001.png,900001,900001.png,Seraphel Core - Lucky Star,5:3000298:20,80,0|0
+2,Jade Matriarch,0,6,6,900002_S.png,900002.png,900002,900002.png,Seraphel Core - Jade Matriarch,5:3000298:20,80,0|0
+3,Death Reaper,0,6,6,900003_S.png,900003.png,900003,900003.png,Seraphel Core - Death Reaper,5:3000298:20,80,-15|0
+4,Undead Priestess,0,6,6,900004_S.png,900004.png,900004,900004.png,Seraphel Core - Undead Priestess,5:3000298:20,80,0|0
+5,Lord of Underworld,0,6,6,900005_S.png,900005.png,900005,900005.png,Seraphel Core - Underworld Lord,5:3000298:20,80,0|0
+6,Celestial Light,0,6,6,900006_S.png,900006.png,900006,900006.png,Seraphel Core - Celestial Light,5:3000298:20,65,-10|0
+7,Lofty Queen,1,6,7,900007_S.png,900007.png,900007,900007.png,The Seraphel Core of the Lofty Queen,5:3000298:20,110,0|0
+8,Solar Disciples,1,6,7,900008_S.png,900008.png,900008,900008.png,Seraphel Core - Solar Disciples,5:3000298:20,110,0|0
+9,Apostle of Chaos,1,6,7,900009_S.png,900009.png,900009,900009.png,Seraphel Core -Apostle of Chaos,5:3000298:20,110,0|0
+10,Sun-chasing Wings,1,6,7,900010_S.png,900010.png,900010,900010.png,Seraphel Core - Sun-chasing Wings,5:3000298:20,110,0|0
+11,Angel of Deception,1,6,7,900011_S.png,900011.png,900011,900011.png,Seraphel Core - Angel of Deception,5:3000298:20,110,0|0
