@@ -461,3 +461,24 @@ index,option_id,chapter,option_index,dialog_id,character_name,dialog,bg,characte
 460,154,22,0,0,Sim Cheong,Sim Cheong wants to join your team,,SQE_CSHS,,-20,10,1.3,0,0,9,
 461,154,22,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
 462,154,22,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2063
+463,155,23,0,62300008,Icarus,Icarus wants to join your team,,YKLS_CSHS,,30,70,1.2,0,0,-1,
+464,155,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+465,155,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2049
+466,156,23,0,62300020,Prometheus,Prometheus wants to join your team,,PLMXS_MR,,-20,10,1.3,0,0,-1,
+467,156,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2087
+468,156,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2087
+469,157,23,0,62300031,Apollo,Apollo wants to join your team,,ABL_CSHS,,30,300,1,0,0,-1,
+470,157,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2078
+471,157,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2078
+472,158,23,0,62300042,Chaos,Chaos wants to join your team,,KES_CSHS,,30,100,1.2,0,0,-1,
+473,158,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+474,158,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2050
+475,159,23,0,62300055,Hera,Hera wants to join your team,,HL_CSHS,,30,70,1.2,0,0,-1,
+476,159,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+477,159,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2039
+478,160,23,0,0,Himiko,Himiko wants to join your team,,BMH_CSHS,,20,95,1.2,0,0,9,
+479,160,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+480,160,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2053
+481,161,23,0,0,Asura,Asura wants to join your team,,AXL_MR,,-20,150,1.3,0,0,9,
+482,161,23,1,0,,,,,Alright  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068
+483,161,23,2,0,,,,,Of course  (Stamina <color=#95FF95>-1</color>),0,0,1,0,0,5,2068

@@ -326,3 +326,8 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 332,Martyr's Flame,2092|2087,3,2,150,Battle with {0},2092
 333,Miracle of Mortals,2092|2049|2053,3,1,200,Battle with {0},2092
 334,Fallen Pact,2092|2090|2091|2084,3,1,250,Battle with {0},2092
+335,Ocean Blessing,2093|2073,3,1,150,Battle with {0},2093
+336,Winds of Winter,2093|2055,3,2,150,Battle with {0},2093
+337,Wisdom of Ocean,2093|2069,3,2,150,Battle with {0},2093
+338,Deep Abyss,2093|2091|2090,3,1,200,Battle with {0},2093
+339,Greece Splendor,2093|2075|2050|2039,3,2,250,Battle with {0},2093

@@ -65,7 +65,7 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 164,img_loading_se_UR_plus.png,Winterland Lord - Thor,-40,350,0.7,SE_UR_PLUS,0,LOADING.jpg,2077,1,0,0
 165,img_loading_se_MR.png,Phantom Gambler-Thor,-60,290,0.68,SE_MR,0,LOADING.jpg,2077,0,1,0
 166,img_loading_yxzlls_MR.png,Lilith the Night Walker,-60,420,0.69,YZMNLLS,0,LOADING.jpg,2090,0,1,0
-167,img_loading_dtslxf_MR.png,Fallen Angel Lucifer,45,160,0.71,DTSLXF,0,LOADING.jpg,2091,0,1,0
+167,img_loading_dtslxf_MR.png,Lucifer the Fallen Angel,45,160,0.71,DTSLXF,0,LOADING.jpg,2091,0,1,0
 2001,img_loading_hl_CSHS.png,Creation Radiance - Hera,-20,580,0.66,HL_CSHS,0,LOADING.jpg,2039,0,0,1
 2002,img_loading_qbt_CSHS.png,Creator's Incarnation-Cupid,-80,690,0.65,QBT_CSHS,0,LOADING.jpg,2047,0,0,1
 2003,img_loading_r_CSHS.png,Dawn Light - Ra,-60,710,0.6,R_CSHS,0,LOADING.jpg,2037,0,0,1
@@ -81,11 +81,13 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 2013,img_loading_lb_CSHS.png,Frostborn Radiance - Frost Dragon,-50,440,0.78,LB_CSHS,0,LOADING.jpg,2055,0,0,1
 2014,img_loading_hla_CSHS.png,Doom Inscription - Hela,-170,470,0.78,HLA_CSHS,0,LOADING.jpg,2086,0,0,1
 2015,img_loading_zrnz_CSHS.png,Threads of Illusion - Enmusubi,-30,485,0.78,ZRNZ_CSHS,0,LOADING.jpg,2054,0,0,1
-2016,img_loading_dtslxf_CSHS.png,Morningstar Embers - Fallen Angel Lucifer,-30,400,0.78,DTSLXF_CSHS,0,LOADING.jpg,2091,0,0,1
+2016,img_loading_dtslxf_CSHS.png,Morningstar Embers - Lucifer the Fallen Angel,-30,400,0.78,DTSLXF_CSHS,0,LOADING.jpg,2091,0,0,1
 2017,img_loading_wle_CSHS.png,Judgment Dancer - Uriel,-100,92,0.75,WLE_CSHS,0,LOADING.jpg,2084,0,0,1
 2018,img_loading_fly_CSHS.png,Brilliance of All Stars - Freyja,-80,700,0.78,FLY_CSHS,0,LOADING.jpg,2060,0,0,1
 2019,img_loading_flj_CSHS.png ,Rose of Asgard - Frigga,-125,500,0.8,FLJ_CSHS,0,LOADING.jpg,2082,0,0,1
-2020,img_loading_SSZZD_MR.png,Sworn Warrior Jeanne d'Arc,-55,140,0.8,SSZZD,0,LOADING.jpg,2092,0,0,1
-2021,img_loading_SSZZD_CSHS.png,Hand of Faith - Sworn Warrior Jeanne d'Arc,-40,280,0.8,SSZZD_CSHS,0,LOADING.jpg,2092,0,0,1
+2020,img_loading_SSZZD_MR.png,Jeanne d'Arc the Sworn Warrior,-55,140,0.8,SSZZD,0,LOADING.jpg,2092,0,0,1
+2021,img_loading_SSZZD_CSHS.png,Hand of Faith - Jeanne d'Arc the Sworn Warrior,-40,280,0.8,SSZZD_CSHS,0,LOADING.jpg,2092,0,0,1
 2022,img_loading_ywj_CSHS.png,Oath of Morning and Dusk - Gemini,-40,180,0.8,YWJ_CSHS,0,LOADING.jpg,2065,0,0,1
-2023,img_loading_lj_CSHS.png,Evil Creator - Loki,-40,450,0.8,LJ_CSHS,0,LOADING.jpg,2076,0,0,1
+2023,img_loading_lj_CSHS.png,Evil Creator - Loki,-40,550,0.8,LJ_CSHS,0,LOADING.jpg,2076,0,0,1
+2024,img_loading_hhbsd_MR.png,海皇波塞冬,-40,550,0.8,HHBSD,0,LOADING.jpg,2093,0,0,1
+2025,img_loading_hhbsd_CSHS.png,Tide Tamer - Poseidon the Sea Sovereign,-40,550,0.8,HHBSD_CSHS,0,LOADING.jpg,2093,0,0,1

@@ -663,7 +663,7 @@
 167621211,0,,,,Illusionary Chant - Divine Fortune,MingYun,"Increases ATK, DEF, and DMG Increase by 5%.","Increases ATK, DEF, and DMG",10
 167641011,2,88,,,Illusionary Chant - Illusion,HuanYing,Immune to the next damage after receiving damage 3 times.,,0
 167651011,2,89,,,Illusionary Chant - Illusion,HuanYing,Immune to the next damage after receiving damage 2 times.,,0
-187651111,2,151,,,狡诈-惊喜一刻,JiaoZha,必定命中，闪避值提高,狡诈,0
+187651111,2,151,,,Trickery - Moment of Surprise,JiaoZha,Attacks are guaranteed to hit; EVA increases,Trickery,0
 127701211,0,,,,Divine Power-Mighty Power of Thor,ShenLi,"Increase the ATK by 30%, Debuff RES by 50% and DEF PEN by 300 points","ATK, DEF PEN | DEF PEN UP",2
 137702211,1,43|105,,,Charged-Irresistible Thunder,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
 147702211,1,43|105,,,Charged-Space of Thunderstorm,GanDian,Increases DMG taken by 50% and reduces recovering HP effect by 50%,DMG Taken UP; Recovery DOWN,0
@@ -846,6 +846,13 @@
 189241111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
 189251111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
 189251211,0,,,,Vow,ShiYue,DMG Taken - 10%,Vow,6
+129301211,1,6,,,虚弱-海神风暴,XuRuo,1回合攻击力降低50%,ATK DOWN,0
+149301211,1,6,,,虚弱-海神风暴,XuRuo,1回合攻击力降低50%,ATK DOWN,0
+159301111,0,153,,,洁净-净域光环,JieJing,受到负面效果下降40%，每回合驱散自身1个负面状态,洁净,0
+169351211,0,,,,Tidal Wave Variations,,DMG Increase,DMG Increase,0
+169351411,0,,,,Tidal Wave Variations,,Reduce DMG Taken,Reduce DMG Taken,0
+189351111,0,154,,,神印-海魂神印,ShenYin,受到增益效果提升30%，神圣伤害提升30%，异常抵抗提升30%,Divine Mark,0
+189351411,1,139,,,Soulbrand of Depths,,无法回复神权值,无法回复神权值,0
 33311211,0,,,,Holy Purification,,ATK increased,ATK increased,0
 33312211,0,,,,Holy Purification,,ATK increased,ATK increased,0
 33313211,0,,,,Holy Purification,,ATK increased,ATK increased,0
@@ -903,6 +910,12 @@
 33415211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
 33416111,0,152,,,洛基幻灵,,,EVA UP,0
 33416211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
+33421111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
+33422111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
+33423111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
+33424111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
+33425111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
+33426111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
 44444111,1,129,,,Hatred,,,,0
 44446111,1,130,,,Weaken,,,,0
 44446711,2,,,,ATK increased,,,,99

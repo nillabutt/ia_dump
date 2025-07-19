@@ -117,5 +117,5 @@ dungeon_map_id,name,bg_path,switch_opr_guide_id,need_swipe_guide,map_lock
 116,North Arm,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200217,0,0
 117,Peru,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200218,1,0
 118,Chile,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200219,0,0
-119,Bolivia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200220,0,1
-120,Brazil,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200221,0,1
+119,Bolivia,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200220,0,0
+120,Brazil,77_bg_jiangyin_memory_bg_jiangyin_memory.png,200221,0,0

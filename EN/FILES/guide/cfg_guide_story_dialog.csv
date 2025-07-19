@@ -6023,71 +6023,71 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 61500095,61500096,,{translucent},,1,ZRNZ_UR,HFSTS0,1,Enmusubi,…Is this also a form of fate?,,0,0
 61500096,61500097,,{translucent},,1,TZDS2,HFSTS0,2,Amaterasu,Exactly. The fate of Japan and the entire pantheon will now be reshaped in your hands. May all things in this world return to the will of the Creator.,,0,0
 61500097,-1,,{translucent},,1,ZRNZ_UR,HFSTS0,1,Enmusubi,I will not fail in my mission.,,0,0
-61600001,61600002,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Is this the Creator's courtyard? It's not as luxurious and solemn as I imagined, but it doesn't disappoint me, hum...",,0,0
+61600001,61600002,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Is this the Creator's courtyard? It's not as luxurious and solemn as I imagined, but it doesn't disappoint me, hum...",,0,0
 61600002,61600003,,{translucent},,1,LJ_UR,HFSTS0,2,Loki,"Hey, isn't this the fallen angel? I thought you wouldn't be interested in the remains of the Creator.",,0,0
-61600003,61600004,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"I came here because this lousy place still holds some value, unlike you, sneering at everything, sat among the ruins like you've already won.",,0,0
+61600003,61600004,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"I came here because this lousy place still holds some value, unlike you, sneering at everything, sat among the ruins like you've already won.",,0,0
 61600004,61600005,,{translucent},,1,LJ_UR,HFSTS0,2,Loki,"Oh, but I have won, darling. Countless times. At least I don't spend my days haunted by the shadow of Heaven's exile.",,0,0
-61600005,61600006,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,You regard destruction as faith and deception as the meaning of survival. The chaos you sow is but a means of the weak. The power of the Creator shall never be yours.,,0,0
+61600005,61600006,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,You regard destruction as faith and deception as the meaning of survival. The chaos you sow is but a means of the weak. The power of the Creator shall never be yours.,,0,0
 61600006,-1,,{translucent},,1,LJ_UR,HFSTS0,2,Loki,"You put your stamp on this ruin, and I will sing a dirge for it. Come on, fallen angel, let the battle between you and me be the climax of this farce.",,0,0
 61600007,61600008,,{translucent},,1,LJ_UR,HFSTS0,2,Loki,Heh… You really haven't changed. Still the coldest among all the angels from centuries past. The only difference is - you’ve gone even more mad.,,0,0
-61600008,61600009,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"You lost because you thought you could deceive everything…But you underestimated the rules that fate never allows to be broken. Chaos cannot create strength and unity, which only lead to the downfall of all things.",,0,0
+61600008,61600009,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"You lost because you thought you could deceive everything…But you underestimated the rules that fate never allows to be broken. Chaos cannot create strength and unity, which only lead to the downfall of all things.",,0,0
 61600009,61600010,,{translucent},,1,LJ_UR,HFSTS0,2,Loki,"Tsk, forget it, I'll just admit defeat this time. But that brings up a question—what should I call you now? Dark Queen? Lost angel? Or... Shadow of Light?",,0,0
-61600010,61600011,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,'Master' might be a fitting title. Don’t you think?,,0,0
+61600010,61600011,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,'Master' might be a fitting title. Don’t you think?,,0,0
 61600011,-1,,{translucent},,1,LJ_UR,HFSTS0,2,Loki,"Hmm… Even duller than 'God', if you ask me. But the victor writes the rules—call me whatever you please.",,0,0
 61600012,61600013,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"You are finally here, Lucifer, the legendary Wings of the Fallen, are you ready to face the spokesperson of truth?",,0,0
-61600013,61600014,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Athena, your wisdom once outshine mine, but I gained truth at the cost of corruption, while you cling to your hold light and justice, which makes me disappointed.",,0,0
+61600013,61600014,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Athena, your wisdom once outshine mine, but I gained truth at the cost of corruption, while you cling to your hold light and justice, which makes me disappointed.",,0,0
 61600014,61600015,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,You are embarking on the most dangerous path—you turned wisdom into a weapon and let it serve your arrogance.,,0,0
-61600015,61600016,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,But you forged it into shackles and dedicated it to those gods who are not worthy of guiding creation. Your order is nothing more than enslaving everyone to serve the gods.,,0,0
+61600015,61600016,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,But you forged it into shackles and dedicated it to those gods who are not worthy of guiding creation. Your order is nothing more than enslaving everyone to serve the gods.,,0,0
 61600016,-1,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"Your so-called wisdom is just your excuse for dominating everything. Since neither yields, let's use this battle to prove our own ideas!",,0,0
 61600017,61600018,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"...Sure enough, your will is more stubborn than I expected...But I still don't agree with you...Lucifer...",,0,0
-61600018,61600019,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Agree? What I want is not your approval, but your concession. Wisdom should not be a slave to light, and I am the only one who can break the lie.",,0,0
+61600018,61600019,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Agree? What I want is not your approval, but your concession. Wisdom should not be a slave to light, and I am the only one who can break the lie.",,0,0
 61600019,61600020,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"...If the future order is as your wish, I hope it will be more fair than today's battle...Otherwise, you will eventually become the God you hate the most...",,0,0
-61600020,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"I will remember this warning, Athena, may you too remember this battle today: even the mightiest wisdom has been defeated by the fallen.",,0,0
+61600020,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"I will remember this warning, Athena, may you too remember this battle today: even the mightiest wisdom has been defeated by the fallen.",,0,0
 61600021,61600022,,{translucent},,1,R_UR,HFSTS0,2,Ra,"Lucifer—the fallen one, the rebellious light. You appear before me today, are you challenging the limits of divinity, or longing for the last salvation?",,0,0
-61600022,61600023,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Ra, you regard light as a blessing and darkness as a sin. You think you are the mother of the gods who illuminates all, but you are just a remnant of an old order.",,0,0
+61600022,61600023,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Ra, you regard light as a blessing and darkness as a sin. You think you are the mother of the gods who illuminates all, but you are just a remnant of an old order.",,0,0
 61600023,61600024,,{translucent},,1,R_UR,HFSTS0,2,Ra,"You are no longer the light and the morning star, but a guide who lures the weak to betray the Heaven. I will not let you ignite new disasters with your distorted order.",,0,0
-61600024,61600025,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"You are afraid the world will see another light and that they will no longer worship at your altar. This is not protection, but fear. I will not fear your flames.",,0,0
+61600024,61600025,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"You are afraid the world will see another light and that they will no longer worship at your altar. This is not protection, but fear. I will not fear your flames.",,0,0
 61600025,-1,,{translucent},,1,R_UR,HFSTS0,2,Ra,"Come on, Fallen Star. By the sun’s fury, I will show you that true light does not need to break away from divinity , because it is divinity itself!",,0,0
 61600026,61600027,,{translucent},,1,R_UR,HFSTS0,2,Ra,"You are indeed stronger than before...but what you bring is not hope, but arrogance and hubris...",,0,0
-61600027,61600028,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,I don't need to bring the hope you speak of to others. I just want them to know that they can rebel the sun and kindle their own light.,,0,0
+61600027,61600028,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,I don't need to bring the hope you speak of to others. I just want them to know that they can rebel the sun and kindle their own light.,,0,0
 61600028,61600029,,{translucent},,1,R_UR,HFSTS0,2,Ra,"There are too many wills that deviate from order in this world... If you become an unprincipled ruler, destruction will only come again.",,0,0
-61600029,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Humph, don't worry so much, Sun God. If one day my rule also falls into chaos... then someone will naturally pull me down from the altar.",,0,0
+61600029,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Humph, don't worry so much, Sun God. If one day my rule also falls into chaos... then someone will naturally pull me down from the altar.",,0,0
 61600030,61600031,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"Ha... Lucifer, you are actually standing in the Creator's Paradise. It seems that you are no longer a fallen angel, but an invader who attempts to reshape the order of hell.",,0,0
-61600031,61600032,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,Too late for such words. Your causality and punishment have long rotted in the ashes of purgatory.,,0,0
+61600031,61600032,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,Too late for such words. Your causality and punishment have long rotted in the ashes of purgatory.,,0,0
 61600032,61600033,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"You are right, I do not represent heaven, but just uphold the ancient covenants. Hell is not a chess game for you to re-establish your authority. It is not too late to admit defeat now.",,0,0
-61600033,61600034,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"You are afraid that I will recreate this darkness, but Uriel, aren't you tired of it too? An endless of cycle...of judgments...of condemnation...of hollow rites repeated.",,0,0
-61600034,61600035,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"All of this is just a mission bestowed by your so-called  Master at the beginning, and you never once questioned why you accepted it.",,0,0
+61600033,61600034,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"You are afraid that I will recreate this darkness, but Uriel, aren't you tired of it too? An endless of cycle...of judgments...of condemnation...of hollow rites repeated.",,0,0
+61600034,61600035,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"All of this is just a mission bestowed by your so-called  Master at the beginning, and you never once questioned why you accepted it.",,0,0
 61600035,-1,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"It's a pity, I think it through clearly, and this battle is my answer to you!",,0,0
 61600036,61600037,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,I'm not surprised that you won. Our battle lasted for thousands of years...but I still can't put you in the deepest prison of hell.,,0,0
 61600037,61600038,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"Now that you have the opportunity to gain the Creator’s power, do you really want to reshape the rules of Hell?",,0,0
-61600038,61600039,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Not just Hell, Uriel—even Heaven and the fate of the gods should have a new order.",,0,0
+61600038,61600039,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Not just Hell, Uriel—even Heaven and the fate of the gods should have a new order.",,0,0
 61600039,61600040,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"Haha, maybe you still live with a little faith, even if it is faith in yourself... a narcissistic guy.",,0,0
-61600040,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"But it's also the most honest kind of faith, isn’t it?",,0,0
+61600040,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"But it's also the most honest kind of faith, isn’t it?",,0,0
 61600041,61600042,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Dear, I am really surprised that you are finally willing to come to my Hell Playground?",,0,0
-61600042,61600043,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"You turned decadence into masquerade and power into decoration. You should have been the person I trusted the most, but now you have reduced to an avatar of pleasure.",,0,0
+61600042,61600043,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"You turned decadence into masquerade and power into decoration. You should have been the person I trusted the most, but now you have reduced to an avatar of pleasure.",,0,0
 61600043,61600044,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"I just realized a fact: instead of obsessing over conquering or dominating, it is better to enjoy the depravity itself.",,0,0
-61600044,61600045,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"This is the difference between us. I fell to shatter the old order, while you fell merely to adorn rotting crown of the old world.",,0,0
+61600044,61600045,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"This is the difference between us. I fell to shatter the old order, while you fell merely to adorn rotting crown of the old world.",,0,0
 61600045,61600046,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"No, I just know how to enjoy myself, while you, sticking to your so-called ideals, will eventually become the most miserable prisoner in hell.",,0,0
-61600046,61600047,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"Your degeneration will only breed and spread weakness. The hell I want is a furnace for the strong, not a hotbed of desire.",,0,0
+61600046,61600047,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"Your degeneration will only breed and spread weakness. The hell I want is a furnace for the strong, not a hotbed of desire.",,0,0
 61600047,-1,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Oh my...it seems that I can't convince you just by talking, so let's dance, like the heart-warming, exciting and dangerous dance we used to do...",,0,0
 61600048,61600049,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Ha...you win, what a boring yet wonderful dance...",,0,0
-61600049,61600050,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"You have power, but you cannot use it well, and you should no longer have any authority over hell.",,0,0
+61600049,61600050,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"You have power, but you cannot use it well, and you should no longer have any authority over hell.",,0,0
 61600050,61600051,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"What about you? Continue to play the Savior of Hell? You know that everyone will betray you in the end, just as you betrayed our Creator, right?",,0,0
-61600051,61600052,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"I never expect loyalty. You can choose your own path, as long as it doesn't stand in my way.",,0,0
+61600051,61600052,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"I never expect loyalty. You can choose your own path, as long as it doesn't stand in my way.",,0,0
 61600052,-1,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Victory is your, yet so is alone. Go, my dear, go to build your throne in hell. I will mourn for you between goblets of revelry and spilled godblood. Hehe...",,0,0
 61600053,61600054,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"Lucifer, once the brightest morning star in the realm of God, has now become the king of hell. Our destiny is ultimately destined to end in battle.",,0,0
-61600054,61600055,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"No, it was your stubborn refusal to change that makes this step inevitable. I fell not to betray the light, but to refuse to servitude to your order.",,0,0
+61600054,61600055,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"No, it was your stubborn refusal to change that makes this step inevitable. I fell not to betray the light, but to refuse to servitude to your order.",,0,0
 61600055,61600056,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"You were once my sister, and you and I both knew that the order of heaven was not perfect, but you chose to destroy and reshape rather than correct and guide.",,0,0
-61600056,61600057,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,The guidance you talk about is nothing but hypocritical rhetoric. Real rule must begin with shattering the old order. You just don't want to admit it.,,0,0
+61600056,61600057,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,The guidance you talk about is nothing but hypocritical rhetoric. Real rule must begin with shattering the old order. You just don't want to admit it.,,0,0
 61600057,61600058,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"You are still as arrogant as before, Lucifer. Today I will not fight for Heaven, but want to give you one last chance. Come back to the Creator with me.",,0,0
-61600058,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"It's too late, Raphael, your loyalty is too foolish. Come—let me see whether you, who have obtained the genesis power, are worthy of protecting the decayed Heaven!",,0,0
+61600058,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"It's too late, Raphael, your loyalty is too foolish. Come—let me see whether you, who have obtained the genesis power, are worthy of protecting the decayed Heaven!",,0,0
 61600059,61600060,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"You win... As you wished, you have defeated the light you mentioned.",,0,0
-61600060,61600061,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,You are wrong. What I want to destroy are the shackles forged in the name of light.,,0,0
+61600060,61600061,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,You are wrong. What I want to destroy are the shackles forged in the name of light.,,0,0
 61600061,61600062,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"You can't turn back. If you gain the genesis power, it won't just be you who will fall... it will be all of us...",,0,0
-61600062,61600063,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"I have never expected salvation, but if there is to be a new world, it must be built on the will to truly understand truth and order.",,0,0
+61600062,61600063,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"I have never expected salvation, but if there is to be a new world, it must be built on the will to truly understand truth and order.",,0,0
 61600063,61600064,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"Humph, then take the power and leave... Carry the world you wish to shape... and the names and glory that the angels once had...",,0,0
-61600064,61600065,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"As my first feather falls into hell, those names and glory will eventually burn. Farewell, Raphael. In the future, there will no longer be a distinction between angels or mortals in the world.",,0,0
-61600065,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Fallen Angel Lucifer,"It will be an era where anyone can become a god or morning star, anyone can believe in themselves, and everyone is dominated by will and strength.",,0,0
+61600064,61600065,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"As my first feather falls into hell, those names and glory will eventually burn. Farewell, Raphael. In the future, there will no longer be a distinction between angels or mortals in the world.",,0,0
+61600065,-1,,{translucent},,1,DTSLXF,HFSTS0,1,Lucifer the Fallen Angel,"It will be an era where anyone can become a god or morning star, anyone can believe in themselves, and everyone is dominated by will and strength.",,0,0
 61700001,61700002,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Is this the courtyard of the Creator Angel？ Haha... Fallen ones from the Divine Realm, even if you escape to the ends of the earth, I will bring you back to Hell one by one to be punished.",,0,0
 61700002,61700003,,{translucent},,1,AXL_UR,HFSTS0,2,Asura,Hell's Angel Uriel? I'm really surprised that you're here...,,0,0
 61700003,61700004,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"You have crossed the line, Ashura, this is not a place for your kind.",,0,0
@@ -6147,36 +6147,36 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 61700057,61700058,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"You use light to illuminate the path of sinners, and I use instruments of torture to punish them. We each have our own duties.",,0,0
 61700058,61700059,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"But you never give anyone a second chance, do you?!",,0,0
 61700059,-1,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"The second chance will only be a mercy given by the Creator, not our sympathy.",,0,0
-61700060,61700061,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Ha... you are finally here, Ruthless Warden, Tyrant of Hell, before I saw you, every minute I spent here seemed like several eras.",,0,0
+61700060,61700061,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Ha... you are finally here, Ruthless Warden, Tyrant of Hell, before I saw you, every minute I spent here seemed like several eras.",,0,0
 61700061,61700062,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"I am rarely late, but before I judge you, I want to appreciate your fear when facing me.",,0,0
-61700062,61700063,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"You really haven't changed at all, and you're still as inflexible as you were back then.",,0,0
+61700062,61700063,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"You really haven't changed at all, and you're still as inflexible as you were back then.",,0,0
 61700063,61700064,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Flexible? That should be within the scope allowed by the rules. You choose to fall, and I choose to lock you up in the abyss of Hell. This is the meaning of my existence.",,0,0
-61700064,61700065,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Do you really think the Creator still cares about these rules? He has long been silent, but you are still holding on to an old covenant and binding yourself for life. How ridiculous.",,0,0
+61700064,61700065,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Do you really think the Creator still cares about these rules? He has long been silent, but you are still holding on to an old covenant and binding yourself for life. How ridiculous.",,0,0
 61700065,61700066,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Haha... I don't fight for the will of the Creator at all. I only exist for the rules. You are the first rebel. Prepare to face eternal punishment, my dear.",,0,0
-61700066,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Come on, Uriel, let me see if your rules are worthy of being maintained for a moment in front of the rebels!",,0,0
+61700066,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Come on, Uriel, let me see if your rules are worthy of being maintained for a moment in front of the rebels!",,0,0
 61700067,61700068,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,Not a shred of remorse in your eyes... Does the order's chains truly choke you so?,,0,0
-61700068,61700069,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Humph, I just can't stand those false gods who are high and mighty but don't have the ability to dominate the world.",,0,0
+61700068,61700069,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Humph, I just can't stand those false gods who are high and mighty but don't have the ability to dominate the world.",,0,0
 61700069,61700070,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Your fall was not just a personal betrayal, it tore apart the order of the entire Divine Realm. Countless angels rebelled from the world along with you. You know what this means.",,0,0
-61700070,61700071,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,This simply means that kingship is not eternal! What do you think you are guarding? What you are guarding is just the hypocritical authority that you dare not question!,,0,0
+61700070,61700071,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,This simply means that kingship is not eternal! What do you think you are guarding? What you are guarding is just the hypocritical authority that you dare not question!,,0,0
 61700071,61700072,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Maybe... but I will continue to do this, even if this duty is destined to be lonely.",,0,0
-61700072,61700073,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Whether you are alone or forgotten, you are destined to be trapped in the old laws, and I will be freer than you even if I am full of sins.",,0,0
+61700072,61700073,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Whether you are alone or forgotten, you are destined to be trapped in the old laws, and I will be freer than you even if I am full of sins.",,0,0
 61700073,61700074,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"The premise is that I haven't obtained the Creator's power, but after I inherit the Creator’s laws, you will see the freedom that I define, and I guarantee that it will be more exciting than you think.",,0,0
-61700074,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,Haha... I hope you won't break your promise. I will appreciate it slowly during the eternal time in prison.,,0,0
-61700075,61700076,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Ha... you are finally here, Ruthless Warden, Tyrant of Hell, before I saw you, every minute I spent here seemed like several eras.",,0,0
+61700074,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,Haha... I hope you won't break your promise. I will appreciate it slowly during the eternal time in prison.,,0,0
+61700075,61700076,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Ha... you are finally here, Ruthless Warden, Tyrant of Hell, before I saw you, every minute I spent here seemed like several eras.",,0,0
 61700076,61700077,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"I am rarely late, but before I judge you, I want to appreciate your fear when facing me.",,0,0
-61700077,61700078,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"You really haven't changed at all, and you're still as inflexible as you were back then.",,0,0
+61700077,61700078,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"You really haven't changed at all, and you're still as inflexible as you were back then.",,0,0
 61700078,61700079,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Flexible? That should be within the scope allowed by the rules. You choose to fall, and I choose to lock you up in the abyss of Hell. This is the meaning of my existence.",,0,0
-61700079,61700080,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Do you really think the Creator still cares about these rules? He has long been silent, but you are still holding on to an old covenant and binding yourself for life. How ridiculous.",,0,0
+61700079,61700080,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Do you really think the Creator still cares about these rules? He has long been silent, but you are still holding on to an old covenant and binding yourself for life. How ridiculous.",,0,0
 61700080,61700081,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Haha... I don't fight for the will of the Creator at all. I only exist for the rules. You are the first rebel. Prepare to face eternal punishment, my dear.",,0,0
-61700081,61700082,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Come on, Uriel, let me see if your rules are worthy of being maintained for a moment in front of the rebels!",,0,0
+61700081,61700082,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Come on, Uriel, let me see if your rules are worthy of being maintained for a moment in front of the rebels!",,0,0
 61700082,61700083,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,Not a shred of remorse in your eyes... Does the order's chains truly choke you so?,,0,0
-61700083,61700084,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Humph, I just can't stand those false gods who are high and mighty but don't have the ability to dominate the world.",,0,0
+61700083,61700084,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Humph, I just can't stand those false gods who are high and mighty but don't have the ability to dominate the world.",,0,0
 61700084,61700085,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Your fall was not just a personal betrayal, it tore apart the order of the entire Divine Realm. Countless angels rebelled from the world along with you. You know what this means.",,0,0
-61700085,61700086,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,This simply means that kingship is not eternal! What do you think you are guarding? What you are guarding is just the hypocritical authority that you dare not question!,,0,0
+61700085,61700086,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,This simply means that kingship is not eternal! What do you think you are guarding? What you are guarding is just the hypocritical authority that you dare not question!,,0,0
 61700086,61700087,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"Maybe... but I will continue to do this, even if this duty is destined to be lonely.",,0,0
-61700087,61700088,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Whether you are alone or forgotten, you are destined to be trapped in the old laws, and I will be freer than you even if I am full of sins.",,0,0
+61700087,61700088,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Whether you are alone or forgotten, you are destined to be trapped in the old laws, and I will be freer than you even if I am full of sins.",,0,0
 61700088,61700089,,{translucent},,1,WLE_UR,HFSTS0,1,Uriel,"The premise is that I haven't obtained the Creator's power, but after I inherit the Creator’s laws, you will see the freedom that I define, and I guarantee that it will be more exciting than you think.",,0,0
-61700089,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,Haha... I hope you won't break your promise. I will appreciate it slowly during the eternal time in prison.,,0,0
+61700089,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,Haha... I hope you won't break your promise. I will appreciate it slowly during the eternal time in prison.,,0,0
 61800001,61800002,,{translucent},,1,FLY_UR,HFSTS0,1,Freyja,"The Creator’s courtyard... Good. As the war spokesperson of Northern Europe, I finally have the opportunity to stand here and face the test of the Creator.",,0,0
 61800002,61800003,,{translucent},,1,LH_UR,HFSTS0,2,Ember Dragon,"Not so early! Goddess of War, I'm afraid I can't fulfill your wish until you defeat me!",,0,0
 61800003,61800004,,{translucent},,1,FLY_UR,HFSTS0,1,Freyja,"Ember Dragon, the most powerful rage in Northern Europe. Your flames once protected the world, but now you have turned countless stars into scorched earth in order to gain the Creator's power...",,0,0
@@ -6316,68 +6316,68 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 61900067,61900068,,{translucent},,1,HL_UR,HFSTS0,2,Hera,"...Interesting. I'm more curious about how you,with the power of creation, would build a perfect Divine Realm in your mind.",,0,0
 61900068,61900069,,{translucent},,1,FLJ_UR,HFSTS0,1,Frigga,"Oh... I promise you won't be bored, my dear. There can only be one Queen. But there will be a place for you and the Greek gods in the Queen's rose garden.",,0,0
 61900069,-1,,{translucent},,1,HL_UR,HFSTS0,2,Hera,"I'll look forward to it, then. But please remember—don't let the garden we all hold so dear turn into a cage full of thorns...",,0,0
-62000001,62000002,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,Is this... the Court of the Seventh Divine Realm?! Standing before this gate... could it mean the Creator wills to bequeath His power unto me?,,0,0
+62000001,62000002,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,Is this... the Court of the Seventh Divine Realm?! Standing before this gate... could it mean the Creator wills to bequeath His power unto me?,,0,0
 62000002,62000003,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,Why are you still waiting for His answer? Maybe hesitation still lingers on your heart. Are you still questioning the nature of being chosen? Whether it's an honor... or a shackle?,,0,0
-62000003,62000004,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"Ah, Icarus, the “Sun-Chaser” of Greece? I do not want to argue with you… but is it truly fitting for a mortal to take on divinity’s mantle?",,0,0
+62000003,62000004,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"Ah, Icarus, the “Sun-Chaser” of Greece? I do not want to argue with you… but is it truly fitting for a mortal to take on divinity’s mantle?",,0,0
 62000004,62000005,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"I once fell into the abyss pursuing light and truth, but I regret nothing. Because it’s my own choice.",,0,0
 62000005,62000006,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"Tell me, Jeanne d'Arc, had God’s favor not shone upon you, would you still have stepped into the Creator's Court?",,0,0
-62000006,62000007,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"I don’t know... but I only chose this path to guide the people, like a lighthouse. Not to become a God.",,0,0
+62000006,62000007,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"I don’t know... but I only chose this path to guide the people, like a lighthouse. Not to become a God.",,0,0
 62000007,62000008,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"Unfortunately, the lighthouse is usually the god themselves. In order to shine bright enough, you'll have to burn yourself.",,0,0
 62000008,-1,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,If you still hesitate...let me shatter those doubts.,,0,0
 62000009,62000010,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"Huh... Looks like the sun you're after still burns within your heart, does it not?",,0,0
-62000010,62000011,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"If inheriting the Creator's power means that I can enlighten more beings, I should not hesitate to accept it...",,0,0
+62000010,62000011,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"If inheriting the Creator's power means that I can enlighten more beings, I should not hesitate to accept it...",,0,0
 62000011,-1,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"Go! Don’t be afraid to fly higher than the sun or taking harder falls than mortals. As long as you remember the reason you started flying, you will never truly fall.",,0,0
 62000012,62000013,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,Stop right there! This is no place for a wavering mind!,,0,0
-62000013,62000014,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,The witch from a foreign land... the fearless war spirit of Japan... are you Himiko?,,0,0
+62000013,62000014,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,The witch from a foreign land... the fearless war spirit of Japan... are you Himiko?,,0,0
 62000014,62000015,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"Can you see the Gods, Jeanne d'Arc? ...in the wind, in the fire or in your heart? Without an unswerving heart, how can you bear the gaze of the Creator?",,0,0
-62000015,62000016,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,I never claimed to be worthy of becoming a god. I simply heeded the call and faced trials.,,0,0
+62000015,62000016,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,I never claimed to be worthy of becoming a god. I simply heeded the call and faced trials.,,0,0
 62000016,62000017,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"I see a blazing obsession in your heart. You are like me... both candidates of the Creator. But in the end, only one of us can reach His altar.",,0,0
 62000017,-1,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,And that shall be decided by our swords and will...,,0,0
-62000018,62000019,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"To be honest, I never thought I could defeat a powerful martial artist like you...",,0,0
+62000018,62000019,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"To be honest, I never thought I could defeat a powerful martial artist like you...",,0,0
 62000019,62000020,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"No, the reason you bested me is not your flawless skills, but your will to wield your weapon despite your hesitation.",,0,0
-62000020,62000021,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,Perhaps I should thank you for making me face my inner self. I did doubt whether I was worthy of shouldering the power of a god...,,0,0
-62000021,-1,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"But now I understand that belief is never about being unshakable, but about standing firm, even when it bleeds.",,0,0
+62000020,62000021,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,Perhaps I should thank you for making me face my inner self. I did doubt whether I was worthy of shouldering the power of a god...,,0,0
+62000021,-1,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"But now I understand that belief is never about being unshakable, but about standing firm, even when it bleeds.",,0,0
 62000022,62000023,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"Jeanne d'Arc, your belief is unshakable. However, inheriting the Creator’s Power needs not only light and hope, but also iron and fire.",,0,0
 62000023,62000024,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,Are you ready to face the sins you can never forgive? Because Gods' mercy without an edge is but indulgence in disguise.,,0,0
-62000024,62000025,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"The Angel of Hell... Uriel? I do not deny your words. Justice does require clear borders, but mercy is not the cowardice you speak of.",,0,0
-62000025,62000026,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"If becoming a god means cutting off all mercy, then I would rather face all the world's vicissitude as a mortal.",,0,0
+62000024,62000025,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"The Angel of Hell... Uriel? I do not deny your words. Justice does require clear borders, but mercy is not the cowardice you speak of.",,0,0
+62000025,62000026,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"If becoming a god means cutting off all mercy, then I would rather face all the world's vicissitude as a mortal.",,0,0
 62000026,-1,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"What a pity. Mortals have the right to weep, but gods cannot yield to mercy. Come now, let me test your compassion, see if it is worthy of enduring the laws of the Gods!",,0,0
 62000027,62000028,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"... I thought you would lower your sword before me, but you neither fled nor compromised. It seems I underestimated you.",,0,0
-62000028,62000029,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"It's not part of my belief to judge who deserves redemption and who should be cast into the deepest hell. Rather, it is about not to ignite the flames of hatred even when facing any enemy.",,0,0
-62000029,62000030,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"If Gods cannot empathize the struggling kindness, how can they guide the mortals?",,0,0
+62000028,62000029,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"It's not part of my belief to judge who deserves redemption and who should be cast into the deepest hell. Rather, it is about not to ignite the flames of hatred even when facing any enemy.",,0,0
+62000029,62000030,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"If Gods cannot empathize the struggling kindness, how can they guide the mortals?",,0,0
 62000030,-1,,{translucent},,1,WLE_UR,HFSTS0,2,Uriel,"Heh... You are indeed not a qualified judge, but you are a qualified guide. Go forth, the next trial waiting for you.",,0,0
 62000031,62000032,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"Jeanne d'Arc, your past sacrifice was a morning sun illuminating the night. But if you were to inherit the power of creation, can you guide the Gods as you once guided the mortals?",,0,0
-62000032,62000033,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"Not all Gods long to embrace the light. They need time to understand faith, rather than being forced to look up to it.",,0,0
+62000032,62000033,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"Not all Gods long to embrace the light. They need time to understand faith, rather than being forced to look up to it.",,0,0
 62000033,62000034,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"Then are you prepared to be misunderstood, even suspected and opposed, just like the sacrifice you once endured?",,0,0
-62000034,62000035,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"If the righteousness of light can only be forced upon people, then it's only pain it shall bring. The warmth brought by light should be a breeze in spring, not a blazing fire.",,0,0
+62000034,62000035,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"If the righteousness of light can only be forced upon people, then it's only pain it shall bring. The warmth brought by light should be a breeze in spring, not a blazing fire.",,0,0
 62000035,-1,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"Well... If you have such resolve, perhaps you can achieve what even many Gods cannot. Come now, let me witness your determination.",,0,0
 62000036,62000037,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,You haven't even fully used the power bestowed by the Creator. You confront me with nothing but a mortal will... The path you walk is indeed different from that of other Goddesses.,,0,0
-62000037,62000038,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"But we both wish for the Gods to see the path ahead. In that sense, we are the same.",,0,0
+62000037,62000038,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"But we both wish for the Gods to see the path ahead. In that sense, we are the same.",,0,0
 62000038,-1,,{translucent},,1,ZTSLFE_MR,HFSTS0,2,Raphael the Archangel,"If your light can dispel the darkness in the Gods' hearts, then I shall yield a corner of the sky to you. Go now, the path to the altar lies not far ahead.",,0,0
 62000039,62000040,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Heh? Lady Saint, have you finally come to find me? Does the sight of me always remind you to save more fallen beings of my kind?",,0,0
-62000040,62000041,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"Not quite. Because you don't need to be saved, at least not in a way against your will.",,0,0
-62000041,62000042,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"Even with the Creator’s Power in my hand, I will still respect the freedom of every single soul, even if it belongs to the darkness.",,0,0
+62000040,62000041,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"Not quite. Because you don't need to be saved, at least not in a way against your will.",,0,0
+62000041,62000042,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"Even with the Creator’s Power in my hand, I will still respect the freedom of every single soul, even if it belongs to the darkness.",,0,0
 62000042,62000043,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Hah... so novel, but you know what? I've seen too many so-called lofty people who reject temptation while craving it in their hearts.",,0,0
 62000043,62000044,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"Do you truly understand the Gods? They long for your noble light, yet they also crave the desires I promise them.",,0,0
-62000044,62000045,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"I have bled, longed for love, and endured fire and loneliness... But that's exactly why I have the confidence to redeem the Gods from darkness.",,0,0
+62000044,62000045,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"I have bled, longed for love, and endured fire and loneliness... But that's exactly why I have the confidence to redeem the Gods from darkness.",,0,0
 62000045,-1,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,Interesting... It seems I do need to give you a little test...,,0,0
 62000046,62000047,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,Tsk... You really didn't hold back. But I've glimpsed your heart: you don't want to deny your desires. Only that refusing them has become the Gods' only choice.,,0,0
-62000047,62000048,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"I respect desires, for it is part of humanity and even the Gods. But if I cannot guide the gods beyond them, I do not deserve the Creator's favor.",,0,0
+62000047,62000048,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"I respect desires, for it is part of humanity and even the Gods. But if I cannot guide the gods beyond them, I do not deserve the Creator's favor.",,0,0
 62000048,-1,,{translucent},,1,YZMNLLS,HFSTS0,2,Lilith the Night Walker,"You're one of the few who don't want to purify me yet still wish to change the world. But let me warn you, the being you're about to face won't be as reasonable as I am.",,0,0
-62000049,62000050,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"You've finally arrived, Jeanne d'Arc... Have you come to witness my acquisition of the Creator's Power, or to contend with me for this final glory?",,0,0
-62000050,62000051,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"I am merely here to complete the Creator's trial, for neither redemption nor glory. I‘m simply here to find out whether a mortal can bear true Divine Will.",,0,0
-62000051,62000052,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Divine Will? My dear, aren't you naive. I was the very first vessel of the will, the first to hear His words and thoughts.",,0,0
-62000052,62000053,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"And now, I am the Fallen Angel cast into the abyss by Him. Do you understand how much I've paid?",,0,0
-62000053,62000054,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,"You rebelled because you could not accept the fact that He bestowed glory upon mortals. But I will not disdain my fellow beings, even if this faith should once more cast me into the flames.",,0,0
-62000054,62000055,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"I rarely think highly of mortals, but today I will challenge the fate again. If mortals truly possess unimaginable potential as the Creator said...",,0,0
-62000055,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,Then I shall rethink the decisions I made as a fallen one.,,0,0
-62000056,62000057,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"You've won, Jeanne d'Arc. You've triumphed over one of the most powerful angels in the Divine Realm...as a mere mortal.",,0,0
-62000057,62000058,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,But you didn't fight me with your full strength... am I right?,,0,0
-62000058,62000059,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,Humph... I merely wanted to see if the once-humble Jeanne d'Arc would also become an arrogant demon like me after gaining infinite Wonder Power.,,0,0
-62000059,62000060,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,Do you think I will become like you?,,0,0
-62000060,62000061,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,"Heh... I don't know, but I hope you remember that becoming a God is not the end of all trials. Instead, it's the beginning of a new one.",,0,0
-62000061,62000062,,{translucent},,1,SSZZD,HFSTS0,1,Sworn Warrior Jeanne d'Arc,But I am fully aware of the responsibilities that come with the Creator’s Power. And I understand the value of order and faith. Arrogance will never take root in my heart.,,0,0
-62000062,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Fallen Angel Lucifer,I shall look forward to the day you choose the path of depravity and meet me in hell. Heh heh...,,0,0
+62000049,62000050,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"You've finally arrived, Jeanne d'Arc... Have you come to witness my acquisition of the Creator's Power, or to contend with me for this final glory?",,0,0
+62000050,62000051,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"I am merely here to complete the Creator's trial, for neither redemption nor glory. I‘m simply here to find out whether a mortal can bear true Divine Will.",,0,0
+62000051,62000052,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Divine Will? My dear, aren't you naive. I was the very first vessel of the will, the first to hear His words and thoughts.",,0,0
+62000052,62000053,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"And now, I am the Fallen Angel cast into the abyss by Him. Do you understand how much I've paid?",,0,0
+62000053,62000054,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,"You rebelled because you could not accept the fact that He bestowed glory upon mortals. But I will not disdain my fellow beings, even if this faith should once more cast me into the flames.",,0,0
+62000054,62000055,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"I rarely think highly of mortals, but today I will challenge the fate again. If mortals truly possess unimaginable potential as the Creator said...",,0,0
+62000055,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,Then I shall rethink the decisions I made as a fallen one.,,0,0
+62000056,62000057,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"You've won, Jeanne d'Arc. You've triumphed over one of the most powerful angels in the Divine Realm...as a mere mortal.",,0,0
+62000057,62000058,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,But you didn't fight me with your full strength... am I right?,,0,0
+62000058,62000059,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,Humph... I merely wanted to see if the once-humble Jeanne d'Arc would also become an arrogant demon like me after gaining infinite Wonder Power.,,0,0
+62000059,62000060,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,Do you think I will become like you?,,0,0
+62000060,62000061,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,"Heh... I don't know, but I hope you remember that becoming a God is not the end of all trials. Instead, it's the beginning of a new one.",,0,0
+62000061,62000062,,{translucent},,1,SSZZD,HFSTS0,1,Jeanne d'Arc the Sworn Warrior,But I am fully aware of the responsibilities that come with the Creator’s Power. And I understand the value of order and faith. Arrogance will never take root in my heart.,,0,0
+62000062,-1,,{translucent},,1,DTSLXF,HFSTS0,2,Lucifer the Fallen Angel,I shall look forward to the day you choose the path of depravity and meet me in hell. Heh heh...,,0,0
 62100001,62100002,,{translucent},,1,YWJ_UR,HFSTS0,1,Gemini,"We finally stand before this gate. To obtain the Creator's Power, we must have independent souls...",,0,0
 62100002,62100003,,{translucent},,1,YWJ_UR,HFSTS0,1,Gemini,"This may also mean that we will eventually part ways. Sister, I don't know if this is good or bad...",,0,0
 62100003,62100004,,{translucent},,1,SYZ_UR,HFSTS0,2,Pisces,"The outcome has never been something we can guess. You are like two shadows above and below the water, who is the reflection and who is the real one?",,0,0
@@ -6523,3 +6523,74 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 62200065,62200066,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"Stop it. Even if you have bested me, do you actually believe that the Creator's power would accept someone who wants to fill the world with deception?",,0,0
 62200066,62200067,,{translucent},,1,LJ_UR,HFSTS0,1,Loki,The Creator isn't that narrow-minded. I'm fully aware that He has been watching me. He has been waiting for me to inherit his power since I told my first lie.,,0,0
 62200067,-1,,{translucent},,1,LJ_UR,HFSTS0,1,Loki,"And I will show him whether the creation of Loki, the Goddess of Mischief, will outlive this real but hopeless world.",,0,0
+62300001,62300002,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Poseidon, Goddess of the Sea? No...I'm now looking at the incarnation who's walking the path of creation. I'm surprised to see you here.",,0,0
+62300002,62300003,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,Well...isn't this the Seventh Divine Realm? Little more than ruins now. This reminds me of the once-glorious city of Atlantis.,,0,0
+62300003,62300004,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Icarus... a mortal pursuing the sun and truth. With your illusory ideals and faith, you won't understand the Creator's will.",,0,0
+62300004,62300005,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"I've already fallen once, so I know the cost of light as well as the danger of the sea. However, I keep pursuing truth, because that's the meaning of my life.",,0,0
+62300005,62300006,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Who lent you a hand when you fell? The sun didn't help you, nor did the sea stop roaring. You are not the heir to Creator's power.",,0,0
+62300006,62300007,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"I'm afraid I won't agree to that. You, too, once lost to Zeus, and yet you still chose the challenging path, didn't you?",,0,0
+62300007,-1,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"Whatever happens, I'll shatter your waves with the wings that once fell.",,0,0
+62300008,62300009,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,You haven't changed a bit. You're still that soul that charges into danger without fear...knowing your defeat.,,0,0
+62300009,62300010,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,"Nor have you forgotten about your heart. You're well aware that you are the glory at the center of Olympus's tempest, not a coward hiding behind a wall.",,0,0
+62300010,62300011,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,Humph. Face the Creator with me then. You are not the answer I'm looking for...but perhaps you are a beacon on my journey.,,0,0
+62300011,-1,,{translucent},,1,YKLS_UR,HFSTS0,2,Icarus,As you wish. The answer doesn't necessarily reveal itself after a battle—sometimes it's just hiding somewhere in your heart you don't want to look.,,0,0
+62300012,62300013,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Finally, Goddess of the Sea from Olympus...or should I say, the future Creator?",,0,0
+62300013,62300014,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"You are supposed to be long forgotten in the flames of Olympus, Prometheus. You are not qualified to stop me.",,0,0
+62300014,62300015,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,Stealing fire for the humans so they no longer feared darkness—this is nothing more than indulgence. The Creator doesn't need you.,,0,0
+62300015,62300016,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,Interesting. Do you think I stand before you for power? No. I just want to see if the one in charge of the sea would do something worse to humans than Zeus did.,,0,0
+62300016,62300017,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I see nothing wrong with that. Just like fire, Creator’s Will shouldn't just be handed to humans. It's order and rule they need, not just mercy.",,0,0
+62300017,62300018,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Even if the Gods stop giving, the mortals will survive with their wisdom. When the day Gods are no longer relied upon comes, what would be the point of being a ruler?",,0,0
+62300018,62300019,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Unfortunately, I never thought that mortals relied on us, nor will I allow anyone to steal the power of the Creator.",,0,0
+62300019,-1,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Step forward, then. Let's see if your resolution can extinguish my undying will.",,0,0
+62300020,62300021,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"You are no less powerful than I am, Prometheus. But the mercy you have held you back.",,0,0
+62300021,62300022,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"You, of all people, should know that Creator’s Will isn't something that can be stolen.",,0,0
+62300022,62300023,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,But Creator’s Will and violence... these are necessary for order.,,0,0
+62300023,62300024,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Also the most dangerous illusions. If you want to create a new world, you should stop thinking about tsunamis alone, but see what light you can bring to humans.",,0,0
+62300024,-1,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,No promises. But I'll think about what you've said when I see the Creator.,,0,0
+62300025,62300026,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"I saw you coming, Poseidon. You are willing to challenge destiny itself for Creator's power.",,0,0
+62300026,62300027,,{translucent},,1,HHBSD,HFSTS0,1,海皇波塞冬,"Destiny? I'm conquered countless tempests, and destiny is but a sail, easily shredded.",,0,0
+62300027,62300028,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Destiny is the course on ocean. The Creator needs a captain to steer the ship and follow the course, not some adventurer who doesn't stick to the plan.",,0,0
+62300028,62300029,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Always patronizing, Apollo. How much do you understand the unpredictable sea after all?",,0,0
+62300029,62300030,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"What I understand isn't the sea—it's you. You're always in the facade of arrogance and power, but don't have the wisdom to face the destiny.",,0,0
+62300030,-1,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"You just know how to get on my nerves, huh? Let's see if you can fight like you talk!",,0,0
+62300031,62300032,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,I never enjoyed fighting you. But I respect your courage to face any foe.,,0,0
+62300032,62300033,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"You just do what you please, don't you? Striking all your enemies relentlessly like a sea wave, and never turning back.",,0,0
+62300033,62300034,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,I don't deny my desire to rule everything. But perhaps you're right. The heir to Creator's power should also consider the harmony of all things.,,0,0
+62300034,-1,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"I'm not asking you to trust me, but don't lie to your own heart. In the sea of destiny, your voice is both the guidance and the tsunami.",,0,0
+62300035,62300036,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Chaos, the origin of everything and Mother of all Gods in Greece. Honestly, I wasn't expecting to face you.",,0,0
+62300036,62300037,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,"Don't fret, darling. Since we're already here, that means we have a common goal.",,0,0
+62300037,62300038,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,"Answer me, do you crave rule and order, or chaos and destruction?",,0,0
+62300038,62300039,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Rule and order, no doubt.",,0,0
+62300039,62300040,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,"Sadly, you're being drawn into chaos when you think you're taming it. Control comes from power, which is also the sweet trap of chaos...",,0,0
+62300040,62300041,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I'm not here for these words, Chaos. You, too, shall bow before my order, even if you are the primal chaos.",,0,0
+62300041,-1,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,"Then come, darling. Let's see if your tide is actually capable of traversing endless darkness...",,0,0
+62300042,62300043,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,You...you are so vile and yet awe-inspiring.,,0,0
+62300043,62300044,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,What you hate is your own heart. I'm merely a mirror that reveals your unknown self.,,0,0
+62300044,62300045,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,I thought order meant controlling everything. But your silence in our fight was deafening.,,0,0
+62300045,62300046,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,You only seek order to run away from your fears. You'll have to face that if you want to inherit Creator's position.,,0,0
+62300046,62300047,,{translucent},,1,KES_UR,HFSTS0,2,Chaos,Or you shall becoming the next source of chaos and disasters...,,0,0
+62300047,-1,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,I'll keep that in mind.,,0,0
+62300048,62300049,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"It's been a long time, Hera. Even in the land of the Seventh Divine Realm, your courtyard is still so breathtaking.",,0,0
+62300049,62300050,,{translucent},,1,HL_UR,HFSTS0,2,Hera,And you are still so arrogant. Has my untamable queen of the sea changed at all?,,0,0
+62300050,62300051,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I didn't expect the Creator to put you in front of me. Is this a trial, or a warning?",,0,0
+62300051,62300052,,{translucent},,1,HL_UR,HFSTS0,2,Hera,"A trial, no doubt. It tests whether you deserve the strength that dominates all. You crave power, but resort to violence all the time.",,0,0
+62300052,62300053,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Aren't you a slave to power as well, Hera?",,0,0
+62300053,62300054,,{translucent},,1,HL_UR,HFSTS0,2,Hera,"Humph, of course not. I guard the glory of the Olympus, while all you want is to the world on its knees to your rules.",,0,0
+62300054,-1,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Glory or rules, they are just different words. Come, Hera. If you think you can move my waves, I will acknowledge your crown!",,0,0
+62300055,62300056,,{translucent},,1,HL_UR,HFSTS0,2,Hera,"...You've changed, Poseidon. You used to walk over your enemy's body, but now you've gone soft.",,0,0
+62300056,62300057,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Oh, it's simply that as the Creator, I will show some generosity towards my foes.",,0,0
+62300057,62300058,,{translucent},,1,HL_UR,HFSTS0,2,Hera,You used to see nothing but conquering and plundering. But today you're starting to look like a true lord.,,0,0
+62300058,62300059,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Rest assured, I won't turn the Divine Realm into a whirlpool of turmoil—nor will I allow it to drown in false peace.",,0,0
+62300059,-1,,{translucent},,1,HL_UR,HFSTS0,2,Hera,I hope you can bring changes indeed. Go forth then. Take the power you deserve.,,0,0
+62300060,62300061,,{translucent},,1,ZS0,HFSTS0,2,Zeus,Poseidon? What a surprise. I thought it would be Hades who fights with me for Creator's power here.,,0,0
+62300061,62300062,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,Do you actually think she is interested to leave the Underworld and waste time with you? Or am I not qualified to stand here?,,0,0
+62300062,62300063,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"That tongue of yours. I remember the last time we fought for the dominion over Olympus, when you were exactly the same.",,0,0
+62300063,62300064,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I fight for myself alone this time. If you want me to submit to your thunder, I'd rather drown the whole Divine Realm with the ocean.",,0,0
+62300064,62300065,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"You are always so naive, thinking you can carry the world on your shoulders and decide the fates of all the gods.",,0,0
+62300065,62300066,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I will carry the weight of fate, but never succumb to it. You are not an obstacle, Zeus. You are the destination I have to reach.",,0,0
+62300066,-1,,{translucent},,1,ZS0,HFSTS0,2,Zeus,Good. Show me if you can shatter my thunder.,,0,0
+62300067,62300068,,{translucent},,1,ZS0,HFSTS0,2,Zeus,Looks like the title of the lord falls to you this time.,,0,0
+62300068,62300069,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"No, I've merely put my heart to rest after this fight.",,0,0
+62300069,62300070,,{translucent},,1,ZS0,HFSTS0,2,Zeus,There's serenity and tenderness in your sea now. Looks like the creator didn't choose you accidentally.,,0,0
+62300070,62300071,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I will take a good care of the storm between Gods, just like how you saved Olympus so many times before.",,0,0
+62300071,-1,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"Then the Creator made the right call. If you don't deserve that crown one day, I'll take it back.",,0,0

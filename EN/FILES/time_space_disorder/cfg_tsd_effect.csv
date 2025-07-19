@@ -9,4 +9,4 @@ id,effect_type,hero_cid,add_attr,skill_id,desc,icon
 8,2,0,3:16:100,0,"This season, all monsters recover +10% HP per round.",MeiHuo.png
 9,1,999,,44446901,"This season, when any ally is died,  the survivors gain 10% Final DMG",KuangLuan.png
 10,2,0,,44447001,"In this season, whenever an enemy takes an action, they deal 50% of True DMG to all Angels. If the Angel doesn't have a Shield, the DMG doubles.",YuanFen_XR.png
-11,2,0,,44447101,"In this season, when all the enemies have made their actions, a stack of Time-Space Curse will be inflicted on three random Angels. The target with 6 stacks will die immediately, ignoring other mechanisms",YuanFen_XR.png
+11,2,0,,44447101,"In this season, when each of the enemies have made their actions, a stack of Time-Space Curse will be inflicted on three random Angels. The target with 6 stacks will die immediately, ignoring other mechanisms.",YuanFen_XR.png

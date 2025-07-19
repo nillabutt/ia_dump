@@ -31,6 +31,7 @@ dungeon_map_id,from_mr,is_lock,name,memory_goods_id,heroes,task_condition,img_bi
 30,0,0,Prometheus's Dreamland,4000030,180,500030,puluomixiusi_bg_big.png,puluomixiusi_bg_small.png
 31,1,0,Raphael the Arcangel's Dreamland,4000030,180,500031,lafeier_bg_big.png,lafeier_bg_small.png
 32,1,0,Lilith the Night Walker's Dreamland,4000030,180,500032,lilisi_bg_big.png,lilisi_bg_small.png
-33,1,0,Fallen Angel Lucifer's Dreamland,4000030,180,500033,luxifa_bg_big.png,luxifa_bg_small.png
-34,1,0,Sworn Warrior Jeanne d'Arc's Dream,4000030,180,500034,shenshizhezhende_bg_big.png,shenshizhezhende_bg_small.png
+33,1,0,Lucifer the Fallen Angel's Dreamland,4000030,180,500033,luxifa_bg_big.png,luxifa_bg_small.png
+34,1,0,Jeanne d'Arc the Sworn Warrior's Dream,4000030,180,500034,shenshizhezhende_bg_big.png,shenshizhezhende_bg_small.png
+35,1,0,Poseidon the Sea Sovereign's Dreamland,4000030,180,500035,haihuangbosaidong_bg_big.png,haihuangbosaidong_small.png
 101,0,1,Stay tuned,3000150,6,500001,hela_bg_big.png,hela_bg_small.png
