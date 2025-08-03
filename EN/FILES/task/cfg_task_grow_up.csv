@@ -145,3 +145,7 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200127,4,1,200001,143,200126,3,9560,5:3000027:10,Level Up Achievements,Clear all stages in Chile,,4
 200128,4,1,200001,144,200127,3,9660,5:3000027:10,Level Up Achievements,Clear all stages in Bolivia,,4
 200129,4,1,200001,145,200128,3,9760,5:3000027:10,Level Up Achievements,Clear all stages in Brazil,,4
+200130,4,1,200001,146,200129,3,9860,5:3000027:10,Level Up Achievements,Complete all dungeons in Ecuador,,4
+200131,4,1,200001,147,200130,3,9960,5:3000027:10,Level Up Achievements,Complete all dungeons in Colombia,,4
+200132,4,1,200001,148,200131,3,10060,5:3000027:10,Level Up Achievements,Complete all dungeons in Venezuela,,4
+200133,4,1,200001,149,200132,3,10160,5:3000027:10,Level Up Achievements,Complete all dungeons in Guyane,,4

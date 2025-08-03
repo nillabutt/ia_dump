@@ -89,5 +89,6 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 2021,img_loading_SSZZD_CSHS.png,Hand of Faith - Jeanne d'Arc the Sworn Warrior,-40,280,0.8,SSZZD_CSHS,0,LOADING.jpg,2092,0,0,1
 2022,img_loading_ywj_CSHS.png,Oath of Morning and Dusk - Gemini,-40,180,0.8,YWJ_CSHS,0,LOADING.jpg,2065,0,0,1
 2023,img_loading_lj_CSHS.png,Evil Creator - Loki,-40,550,0.8,LJ_CSHS,0,LOADING.jpg,2076,0,0,1
-2024,img_loading_hhbsd_MR.png,海皇波塞冬,-40,550,0.8,HHBSD,0,LOADING.jpg,2093,0,0,1
-2025,img_loading_hhbsd_CSHS.png,Tide Tamer - Poseidon the Sea Sovereign,-40,550,0.8,HHBSD_CSHS,0,LOADING.jpg,2093,0,0,1
+2024,img_loading_hhbsd_MR.png,Poseidon the Sea Sovereign,-100,100,0.8,HHBSD,0,LOADING.jpg,2093,0,0,1
+2025,img_loading_hhbsd_CSHS.png,Tide Tamer - Poseidon the Sea Sovereign,-20,260,0.8,HHBSD_CSHS,0,LOADING.jpg,2093,0,0,1
+2026,img_loading_hls_CSHS.png,Horus the Truth Guardian,-100,400,0.8,HLS_CSHS,0,LOADING.jpg,2081,0,0,1

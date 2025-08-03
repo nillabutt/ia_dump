@@ -43,6 +43,7 @@ id,name,quality,end_time,icon_thing,icon_left,icon_right,desc,is_permanent,expir
 1050,2025 Easter Limited Chat Bubble,6,0,1050.png,1050_l.png,1050_r.png,2025 Easter Limited Chat Bubble,,
 1051,2025 Wedding Ceremony Limited Chat Bubble,6,0,1051.png,1051_l.png,1051_r.png,2025 Wedding Ceremony Limited Chat Bubble,,
 1052,2025 5th Anniversary Chat Bubble,6,0,1052.png,1052_l.png,1052_r.png,2025 5th Anniversary Chat Bubble,,
+1053,2025 Beach Fest Chat Bubble,6,0,1053.png,1053_l.png,1053_r.png,2025 Beach Fest Limited Chat Bubble,,
 2000,Community chat frame 1,6,0,2000.png,2000_l.png,2000_r.png,Community chat frame 1,,
 2001,Community chat frame 2,6,0,2001.png,2001_l.png,2001_r.png,Community chat frame 2,,
 2002,Community chat frame 3,6,0,2002.png,2002_l.png,2002_r.png,Community chat frame 3,,

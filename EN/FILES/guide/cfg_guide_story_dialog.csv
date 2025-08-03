@@ -6548,7 +6548,7 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 62300023,62300024,,{translucent},,1,PLMXS_UR,HFSTS0,2,Prometheus,"Also the most dangerous illusions. If you want to create a new world, you should stop thinking about tsunamis alone, but see what light you can bring to humans.",,0,0
 62300024,-1,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,No promises. But I'll think about what you've said when I see the Creator.,,0,0
 62300025,62300026,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"I saw you coming, Poseidon. You are willing to challenge destiny itself for Creator's power.",,0,0
-62300026,62300027,,{translucent},,1,HHBSD,HFSTS0,1,海皇波塞冬,"Destiny? I'm conquered countless tempests, and destiny is but a sail, easily shredded.",,0,0
+62300026,62300027,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Destiny? I'm conquered countless tempests, and destiny is but a sail, easily shredded.",,0,0
 62300027,62300028,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"Destiny is the course on ocean. The Creator needs a captain to steer the ship and follow the course, not some adventurer who doesn't stick to the plan.",,0,0
 62300028,62300029,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"Always patronizing, Apollo. How much do you understand the unpredictable sea after all?",,0,0
 62300029,62300030,,{translucent},,1,ABL0,HFSTS0,2,Apollo,"What I understand isn't the sea—it's you. You're always in the facade of arrogance and power, but don't have the wisdom to face the destiny.",,0,0
@@ -6594,3 +6594,65 @@ dialog_id,next_dialog_id,switch_id,bg,bgm,skippable,character_spine,character_re
 62300069,62300070,,{translucent},,1,ZS0,HFSTS0,2,Zeus,There's serenity and tenderness in your sea now. Looks like the creator didn't choose you accidentally.,,0,0
 62300070,62300071,,{translucent},,1,HHBSD,HFSTS0,1,Poseidon the Sea Sovereign,"I will take a good care of the storm between Gods, just like how you saved Olympus so many times before.",,0,0
 62300071,-1,,{translucent},,1,ZS0,HFSTS0,2,Zeus,"Then the Creator made the right call. If you don't deserve that crown one day, I'll take it back.",,0,0
+62400001,62400002,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,Is this...Creator's courtyard? Looks like the truth I'm looking for lies deep within this yard.,,0,0
+62400002,62400003,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"Horus, guardian of Egyptian Deity and Thrones. In the name of Goddess of Wisdom and War, I cannot let you through this gate without approval of justice!",,0,0
+62400003,62400004,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Athena of Greece, huh? You have shield of wisdom, but you don't see the scorching sun. With the order of the Divine Realm collapsed, who shall be the judge of justice?",,0,0
+62400004,62400005,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"The yardstick of justice is neither power nor glory. It's sense of judgement. If you truly see so clearly, then prove it to me. Prove if you can see the essence of truth.",,0,0
+62400005,62400006,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"I've seen mirage in ancient desert, and tides of fate in the dawn of a bloodbath. The blade of truth scares me not.",,0,0
+62400006,-1,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"Come, then, let that blade strike! O Judging Eye of Egypt, let us see if insight defeats brute force, or does the scorching sun melt voice of reason?",,0,0
+62400007,62400008,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"You didn't yield, nor did you put me to slumber. I can see clearly, Athena. I've won.",,0,0
+62400008,62400009,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"You won the battle, but not my order. But you've earned yourself the right to move forward. Understand the weight of truth.",,0,0
+62400009,62400010,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"The truth remains the truth. It only reveals itself when faced directly. I hope by moving forward, I have both your mercy and anticipation.",,0,0
+62400010,-1,,{translucent},,1,YDN_UR,HFSTS0,2,Athena,"Go forth, Horus. The sun shines upon the victor and traveler alike.",,0,0
+62400011,62400012,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Asura, Goddess of War from Purgatory? I can't say I'm not surprised to see you here.",,0,0
+62400012,62400013,,{translucent},,1,AXL_UR,HFSTS0,2,Asura,"I am but another test from the Creator, Horus. You seek the truth, but fail to look directly into your desires.",,0,0
+62400013,62400014,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Sadly, I don't have the so-called desires in my heart. All I ever do is rebuilding order among the gods.",,0,0
+62400014,62400015,,{translucent},,1,AXL_UR,HFSTS0,2,Asura,Your serious look is bugging me. Even your aura of killing is too...orderly. You look like a legal code in a cage to me.,,0,0
+62400015,62400016,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Order isn't a cage, but a choice. My power has rules, because chaos cannot bring order.",,0,0
+62400016,62400017,,{translucent},,1,AXL_UR,HFSTS0,2,Asura,"Then you are a slave to the crown, unworthy of godly power. Come, let go of your codes and show me your wrath!",,0,0
+62400017,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,As you wish. Let's see if you can shake my will at full display.,,0,0
+62400018,62400019,,{translucent},,1,AXL_UR,HFSTS0,2,Asura,"I see your sky-tearing strength beneath that serious look now. Not bad, eagle in a cage.",,0,0
+62400019,62400020,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"The only language you speak is brutality, but I can win without giving up self-discipline.",,0,0
+62400020,62400021,,{translucent},,1,AXL_UR,HFSTS0,2,Asura,"I underestimated you, Guardian of Egypt.",,0,0
+62400021,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"I follow order for a faith bigger than me. I will fight formidable foes when it's necessary, for my faith.",,0,0
+62400022,62400023,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"Stop right there, Horus! The gate I watch does not open for a deviant guardian like you!",,0,0
+62400023,62400024,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Heimdall, the Strongest Shield of Northern Europe? What do you mean by that? I have never strayed from my oath or position.",,0,0
+62400024,62400025,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"You once swore to protect the order of the gods, never to wield your sword to someone other than your kind. But now you are fighting for the powerful but dangerous power of creation?",,0,0
+62400025,62400026,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Because the world has fallen into slumber, and a guardian shouldn't keep standing by. I need stronger power as long as chaos keeps spreading.",,0,0
+62400026,62400027,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"When your sword is pointed at the future, do you see the beings your once protected trembling beneath your feet? Do your hands of guardian cover the sun also?",,0,0
+62400027,62400028,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"An ark is all I will be. An ark sailing towards light, like I always have. I assure you, this power will only be used to keep peace in the Divine Realm.",,0,0
+62400028,-1,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"Show me that with your sword, then.",,0,0
+62400029,62400030,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"Your command of order and temperance is quite impressive. Although I was testing your boundaries with each hit, your power was always within control.",,0,0
+62400030,62400031,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Even if my power may cause harm some day, I will be stopped. I have the strength to wield a sword, and the courage to put it down when I no longer deserve it.",,0,0
+62400031,62400032,,{translucent},,1,HMDE_UR,HFSTS0,2,Heimdall,"You are closer to the truth than many of us. Not because you've passed my trial, but because you've chosen to become light itself.",,0,0
+62400032,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"The meaning of guardian lies not in the end, but in the process.",,0,0
+62400033,62400034,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"Horus, Messenger of the Nile. You have to go through me first if you are heading to Creator's Altar.",,0,0
+62400034,62400035,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Himiko, Samurai of Yamato. Your faith and perseverance in Japanese Gods and chivalry is impressive. But I see no need for a fight between us.",,0,0
+62400035,62400036,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"Yes, there is. To me, you are not worthy of the Creator's will.",,0,0
+62400036,62400037,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"The truth you seek is but the glory of Egyptian Royals. But glory ends. In time or in space. To the Japanese, this is selfishness.",,0,0
+62400037,62400038,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"It's not selfishness, it's the pillar of order. How can a god be relied upon without building a name? The truth remains the truth. Otherwise, how can it survive for thousands of years?",,0,0
+62400038,62400039,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Faith needs to converge before being lost in chaos. I protect not the formality, but the spirit with which we stick together. When the gods aren't even standing together, how should the mortals behave?",,0,0
+62400039,62400040,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"If there truly are more than one sun, I would be the most unswerving one. I don't need to be understood to keep standing.",,0,0
+62400040,-1,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"You talk much like Amaterasu, the major deity of Japan. In that case, I shall test your resolute with this blade.",,0,0
+62400041,62400042,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,"You have an unbending will. In the fight with you, I see the traits needed for a ruler: fearless and selfless.",,0,0
+62400042,62400043,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Creator's glory isn't mine alone, just like the glint on a pyramid—it belongs to all.",,0,0
+62400043,62400044,,{translucent},,1,BMH_UR,HFSTS0,2,Himiko,I hope you stand with what you believe till the end.,,0,0
+62400044,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,I shall remain true to my duty. Always.,,0,0
+62400045,62400046,,{translucent},,1,R_UR,HFSTS0,2,Ra,"Horus, you stand before me at last. There can only be one lord at the pinnacle of the pyramid. Do you believe in your heart that with light in control, you can reveal truth?",,0,0
+62400046,62400047,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"I will continue your legacy, not replace you. You were once my teacher and faith, but now... your fate has been remaining still.",,0,0
+62400047,62400048,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Therefore, I no longer look up to you. I need to fly further, and shine upon those places you couldn't make to.",,0,0
+62400048,-1,,{translucent},,1,R_UR,HFSTS0,2,Ra,"Come, then, my former guardian! If you have truly made up your mind, prepare to traverse my radiance, my silence, my solitude, and my burden!",,0,0
+62400049,62400050,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"You were holding back. But now I see it—you've never stopped trying. You are still the light of the Nile, although rarely understood by others.",,0,0
+62400050,62400051,,{translucent},,1,R_UR,HFSTS0,2,Ra,"You finally see it. Light exists not to be witnessed, but to endure even when unseen.",,0,0
+62400051,62400052,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,I thought inheritance was a kind of replacement. Now... perhaps 'transcendence is a better word.,,0,0
+62400052,62400053,,{translucent},,1,R_UR,HFSTS0,2,Ra,"You are not the sun, nor do you need to be. You are Horus, the descendant of light, and the watcher with her back to the light while moving forward.",,0,0
+62400053,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Thank you, my mentor. You didn't point me the right way, but you help me find my own path.",,0,0
+62400054,62400055,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,You... you are my own shadow? I thought my justice and light allowed no parasite of darkness.,,0,0
+62400055,62400056,,{translucent},,1,HLS0,HFSTS0,2,Shadow of Horus,"No, I'm everything you deny: your hesitation, anger, the suffering of mortals you can't interfere in. I'm what you try to look away from in silence.",,0,0
+62400056,62400057,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,But I am Horus herself! I cannot let those thoughts take root in my heart!,,0,0
+62400057,62400058,,{translucent},,1,HLS0,HFSTS0,2,Shadow of Horus,"You can ignore them, but you can't deny them. You ask truth from the gods, but never ask yourself if you're worthy of it.",,0,0
+62400058,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,If bearing truth means sacrificing myself to the abyss... then I would rather draw my sword and sever this phantom of the past!,,0,0
+62400059,62400060,,{translucent},,1,HLS0,HFSTS0,2,Shadow of Horus,"Humph... you have bested me. But every strike carried hesitation. You don't dare to deny me, because I AM you.",,0,0
+62400060,62400061,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"As you say, I don't deny your existence. But you will be buried deep within my heart, as a warning. Not a ruler.",,0,0
+62400061,62400062,,{translucent},,1,HLS0,HFSTS0,2,Shadow of Horus,"You finally admit it. We are two souls in one body. Go forth, face the Creator and the end to your fate.",,0,0
+62400062,-1,,{translucent},,1,HLS_UR,HFSTS0,1,Horus,"Perhaps you are right. But when I face you again, I hope it's not because of fear, but understanding.",,0,0

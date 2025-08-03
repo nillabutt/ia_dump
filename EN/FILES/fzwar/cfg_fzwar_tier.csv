@@ -1,7 +1,7 @@
 tier,season_reward,name
-1,1:1:10000,Beginner Tier
-2,1:1:20000,Apprentice Tier
-3,1:1:30000,Intermediate Tier
-4,1:1:40000,Advanced Tier
-5,1:1:50000,Master Tier
-6,1:1:60000,Apex Tier
+1,5:3000218:10000,Beginner Tier
+2,5:3000218:15000,Apprentice Tier
+3,5:3000218:20000,Intermediate Tier
+4,5:3000278:5|5:3000218:30000,Advanced Tier
+5,5:3000278:10|5:3000218:35000,Master Tier
+6,5:3000278:15|5:3000218:40000,Apex Tier

@@ -718,10 +718,13 @@
 148102211,0,,,,Shield,,,,0
 148102311,0,,,,Shield,,,,0
 158101111,2,58,,,Vengeance - Avenging Angel,FuChou,"When defeated, enters the soul state.(Neutral Status)",Act in the state of a soul when receiving fatal damage,0
-158102111,0,,,,复仇-属性加成,,属性增加,Attributes UP,0
+158102111,0,1581,,,复仇-属性加成,,属性增加,Attributes UP,0
 158102211,2,10,FCTS_hit,,Bleed,,,Unable to recover HP,0
 168101113,0,,,,Damage Reduction,,,,0
 168101115,0,,,,Damage Reduction,,,,0
+188101111,2,155,,,制裁之律-圣律之瞳,ZCZL,记录受到的伤害,制裁之律,0
+188121211,0,27,,,永恒之律-圣律之瞳,YHZL,免疫异常，攻击力提升20%,永恒之律,0
+188151211,0,27,,,永恒之律-圣律之瞳,YHZL,免疫异常，攻击力提升30%,永恒之律,0
 118201111,1,7,,,Poison - Thorny Sting,ZhongDu,"In 2 rounds, lose 3% of current HP in each round",Poison,0
 118201211,1,9,,,Ignite - Thorny Sting,RanShao,"In 2 rounds, lose 4% of current HP in each round",Ignite,0
 118201311,1,8,,,Sunder Armor - Thorny Sting,PoJia,DEF decreased by 50% for 2 rounds,DEF DOWN,0
@@ -781,7 +784,7 @@
 158701111,2,91|92,,,Lock - Scorching Sigil,SuoDing,"Whenever an ally unleashes a skill or basic attack, Prometheus [Pursues] the locked target once.",Lock,0
 158701112,1,,,,Lock - Scorching Sigil,SuoDing,DMG Reduced,DMG Reduced,0
 158701211,2,93,,,追击,,,,0
-158701311,1,,,,Scorching Sigil,SYLY,Each layer increases own True DMG by 5%.,True DMG Boost,999
+158701311,0,,,,Scorching Sigil,SYLY,Each layer increases own True DMG by 5%.,True DMG Boost,999
 128801211,0,,,,White Feather - Sacred Hymn,BaiYu,"Damage increased by 50%, Crit DMG increased by 50%.",DMG Increase | Crit DMG Increase,0
 128802111,1,10,,,Bleed - Light of Exile,LiuXue,"Unable to recover HP, ATK reduced by 30%, Crit DMG reduced by 100%.",Unable to recover | ATK reduced | Crit DMG reduced,0
 148801111,0,,,,Shield,,,,0
@@ -846,13 +849,20 @@
 189241111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
 189251111,0,,,,Splendor - Sworn Light,ShenHui,Reduces DMG taken from skills and Creator’s Will,Increases DMG Reduction against skills and Creator’s Will,0
 189251211,0,,,,Vow,ShiYue,DMG Taken - 10%,Vow,6
-129301211,1,6,,,虚弱-海神风暴,XuRuo,1回合攻击力降低50%,ATK DOWN,0
-149301211,1,6,,,虚弱-海神风暴,XuRuo,1回合攻击力降低50%,ATK DOWN,0
-159301111,0,153,,,洁净-净域光环,JieJing,受到负面效果下降40%，每回合驱散自身1个负面状态,洁净,0
+129301211,1,6,,,Weaken - Sea Ruler's Tempest,XuRuo,Reduces ATK by 50% for 1 round.,ATK DOWN,0
+149301211,1,6,,,Weaken - Sea Ruler's Tempest,XuRuo,Reduces ATK by 50% for 1 round.,ATK DOWN,0
+159301111,0,153,,,Cleansed - Aura of Clearance,JieJing,Reduces Debuff effect received by 40%,Cleansed,0
+169301211,0,,,,Tidal Wave Variations,,DMG Increase,DMG Increase,0
+169301411,0,,,,Tidal Wave Variations,,Reduce DMG Taken,Reduce DMG Taken,0
+169331211,0,,,,Tidal Wave Variations,,DMG Increase,DMG Increase,0
+169331411,0,,,,Tidal Wave Variations,,Reduce DMG Taken,Reduce DMG Taken,0
+169341211,0,,,,Tidal Wave Variations,,DMG Increase,DMG Increase,0
+169341411,0,,,,Tidal Wave Variations,,Reduce DMG Taken,Reduce DMG Taken,0
 169351211,0,,,,Tidal Wave Variations,,DMG Increase,DMG Increase,0
 169351411,0,,,,Tidal Wave Variations,,Reduce DMG Taken,Reduce DMG Taken,0
-189351111,0,154,,,神印-海魂神印,ShenYin,受到增益效果提升30%，神圣伤害提升30%，异常抵抗提升30%,Divine Mark,0
-189351411,1,139,,,Soulbrand of Depths,,无法回复神权值,无法回复神权值,0
+189301111,0,154,,,Soulbrand - Soulbrand of Depths,ShenYin,Increases H.DMG and Debuff RES by 30%,Divine Mark,0
+189351111,0,154,,,Soulbrand - Soulbrand of Depths,ShenYin,"Increases Buff effect received, H.DMG and Debuff RES by 30%",Divine Mark,0
+189351411,1,139,,,Soulbrand of Depths,,Cannot restore Will Power,Cannot restore Will Power,0
 33311211,0,,,,Holy Purification,,ATK increased,ATK increased,0
 33312211,0,,,,Holy Purification,,ATK increased,ATK increased,0
 33313211,0,,,,Holy Purification,,ATK increased,ATK increased,0
@@ -910,18 +920,28 @@
 33415211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
 33416111,0,152,,,洛基幻灵,,,EVA UP,0
 33416211,0,,,,洛基幻灵,,,暴击提升|暴击伤害提升,3
-33421111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
-33422111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
-33423111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
-33424111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
-33425111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
-33426111,0,,,,海姆达尔幻灵,,,伤害反弹增加,0
+33421111,0,,,,海姆达尔幻灵,,,Increases DMG Reflection,0
+33422111,0,,,,海姆达尔幻灵,,,Increases DMG Reflection,0
+33423111,0,,,,海姆达尔幻灵,,,Increases DMG Reflection,0
+33424111,0,,,,海姆达尔幻灵,,,Increases DMG Reflection,0
+33425111,0,,,,海姆达尔幻灵,,,Increases DMG Reflection,0
+33426111,0,,,,海姆达尔幻灵,,,Increases DMG Reflection,0
+33431111,0,157,,,芙蕾雅幻灵,,,,3
+33432111,0,157,,,芙蕾雅幻灵,,,,3
+33433111,0,157,,,芙蕾雅幻灵,,,,3
+33434111,0,157,,,芙蕾雅幻灵,,,,3
+33435111,0,157,,,芙蕾雅幻灵,,,,3
+33436111,0,157,,,芙蕾雅幻灵,,,,3
 44444111,1,129,,,Hatred,,,,0
 44446111,1,130,,,Weaken,,,,0
 44446711,2,,,,ATK increased,,,,99
 44446811,2,,,,ATK decreased,,,,0
 44446911,2,,,,DMG Increase,,,伤害提升,99
 44447111,2,,,,Time-Space Curse,,,Time-Space Curse,6
+44447211,2,156,,,回神权判定buff,,,,0
+44447212,2,,,,神圣伤害提升,,,神圣伤害提升,0
+44447311,2,138,,,Can't cast Creator's Will,,,Can't cast Creator's Will,0
+44447411,2,,,,DMG Reduction Down,,,DMG Reduction Down,10
 55551102,1,1,,,眩晕-威慑,YunXuan,Cannot perform actions for 1 round,Unable to move,0
 55551212,0,,,,War,,反伤增加70%,DMG Reflect UP,0
 55551312,1,9,,,燃烧-烈焰,RanShao,causing enemies to lose 6% of their Max HP for 3 rounds,Ignite,0
