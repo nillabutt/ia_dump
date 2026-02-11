@@ -75,4 +75,13 @@ id,quality,quality_level_init,quality_level_max,awake_level_max,strengthen_skill
 150073,5,4,14,90,0,149101001,0,149102001,88888803,3,1,60,64,Morning Light Whip,150073.png,"This relic, shaped like a devil’s tail, originated from the Halo of Angel before Lucifer's fall, but has now turned into a whisper of darkness."
 150074,5,4,14,90,0,149201001,0,149202001,88888810,2,16,50,65,Glorious War Flag,150074.png,"It has never been stained with blood, yet it is more powerful than every other blade; it is not made for killing, but for guiding the light forward."
 150075,5,4,14,90,0,149301001,0,149302001,88888810,3,2,80,66,Heart of Depths,150075.png,"At heart of the tides sits a throne. Sealed in it is not a weapon, but oracle."
+150076,5,4,14,90,0,149401001,0,149402001,88888807,3,1,60,67,Scythe from Styx,150076.png,A touch of the Scythe brings all souls to silence.
+150077,5,4,14,90,0,149501001,0,149502001,88888805,3,1,60,68,Fruit of Eternity,150077.png,"Inside this fruit is not only eternal youth, but a girl's most delicate feelings."
+150078,5,4,14,90,0,149601001,0,149602001,88888807,3,1,60,69,Spear of Verdict,150078.png,"A silver spear pierces through darkness: with wind comes the force of judgement, good and evil distinctly separated."
+150079,5,4,14,90,0,149701001,0,149702001,88888812,3,2,80,70,Pandora's Box,150079.png,那盒中流出的，不是灾厄——而是存在的真相
+150080,5,4,14,90,0,149801001,0,149802001,88888802,3,1,60,71,Stellar Bow,150080.png,"As the bowstring quivers, formless arrows turn into meteors and put an end to the everlasting night."
+150081,5,4,14,90,0,149901001,0,149902001,88888810,3,2,60,72,Orb of Avalon,ML_relic.png,A powerful orb possessing the powerful magic of Avalon. The crystal sphere reflects the past and the future of this world.
+150082,5,4,14,90,0,141001001,0,141002001,88888810,3,2,60,73,Eye of Eternity,ZFZMDS_relic.png,A huge snake eye afloat amidst countless petrified fragments. Its petrifying power from Creation can stop the time and freeze whatever under its gaze in their most perfect moment.
+150083,5,4,14,90,0,141011001,0,141012001,88888807,3,1,60,74,Bottle of Revelation,SPZ_relic.png,"The mysterious container Aquarius carries with her is said not to hold water, but to carry variables of the world's operation."
+150084,5,4,14,90,0,141021001,0,141022001,88888807,3,1,60,75,Limitless Stele,TDFX_relic.png,"A sacred stone tablet with the ultimate law of universe carved on it. It floats in void, radiating inviolable pressure."
 150999,5,4,14,0,0,0,0,0,0,2,1,20000,0,Spirit of relics,150999.png,materials mainly for relic advancement

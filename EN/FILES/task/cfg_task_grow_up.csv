@@ -1,10 +1,10 @@
 task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condition,task_value,reward,name,content,content_param,link
-200000,4,1,200001,0,0,3,1,1:2:100,Level Up Achievements,Complete all dungeons in Seoul,,4
+200000,4,1,200001,0,0,3,1,1:2:100,Level Up Achievements,Clear all stages in Episode 1,,4
 200001,4,1,200001,1,200000,3,8,5:3000004:10,Level Up Achievements,Complete Dungeon {0},2-7,4
 200002,4,1,200001,2,200001,61,10,5:3000006:50,Level Up Achievements,Standard summon 10 times,,8
 200003,4,1,200001,3,200002,95,20,1:2:500,Level Up Achievements,Any Angel upgrade to Lv20,,1|0
 200004,4,1,200001,4,200003,3,15,5:3000004:10,Level Up Achievements,Complete Dungeon {0},2-14,4
-110002,4,1,200001,5,200004,3,20,5:3000004:10,Level Up Achievements,Complete all dungeons in Tokyo,,4
+110002,4,1,200001,5,200004,3,20,5:3000004:10,Level Up Achievements,Clear all stages in Episode 2,,4
 200005,4,1,200001,6,110002,1,15,5:3000004:10,Level Up Achievements,Player upgrade to Lv15 and unlock Enhance,,4
 200006,4,1,200001,7,200005,22,15,5:3000006:50,Level Up Achievements,Any Angel all gears enhanced by 15 levels,,1|0
 200007,4,1,200001,8,200006,95,30,1:2:500,Level Up Achievements,Any Angel upgrade to Lv30,,1|0
@@ -149,3 +149,27 @@ task_id,task_type,level_min_need,task_group,task_index,task_id_before,task_condi
 200131,4,1,200001,147,200130,3,9960,5:3000027:10,Level Up Achievements,Complete all dungeons in Colombia,,4
 200132,4,1,200001,148,200131,3,10060,5:3000027:10,Level Up Achievements,Complete all dungeons in Venezuela,,4
 200133,4,1,200001,149,200132,3,10160,5:3000027:10,Level Up Achievements,Complete all dungeons in Guyane,,4
+200134,4,1,200001,150,200133,3,10260,5:3000027:10,Level Up Achievements,Clear all stages in Chicago,,4
+200135,4,1,200001,151,200134,3,10360,5:3000027:10,Level Up Achievements,Clear all stages in Toronto,,4
+200136,4,1,200001,152,200135,3,10460,5:3000027:10,Level Up Achievements,Clear all stages in New York,,4
+200137,4,1,200001,153,200136,3,10560,5:3000027:10,Level Up Achievements,Clear all stages in Truro,,4
+200138,4,1,200001,154,200137,3,10660,5:3000027:10,Level Up Achievements,Clear all stages in Seattle,,4
+200139,4,1,200001,155,200138,3,10760,5:3000027:10,Level Up Achievements,Clear all stages in San Francisco,,4
+200140,4,1,200001,156,200139,3,10860,5:3000027:10,Level Up Achievements,Clear all stages in Los Angeles,,4
+200141,4,1,200001,157,200140,3,10960,5:3000027:10,Level Up Achievements,Clear all stages in Denver,,4
+200142,4,1,200001,158,200141,3,11060,5:3000027:10,Level Up Achievements,Clear all stages in Ottawa,,4
+200143,4,1,200001,159,200142,3,11160,5:3000027:10,Level Up Achievements,Clear all stages in Labrador City,,4
+200144,4,1,200001,160,200143,3,11260,5:3000027:10,Level Up Achievements,Clear all stages in Anticosti Island,,4
+200145,4,1,200001,161,200144,3,11360,5:3000027:10,Level Up Achievements,Clear all stages in Newfoundland,,4
+200146,4,1,200001,162,200145,3,11460,5:3000027:10,Level Up Achievements,Clear all stages in Cockburn Town,,4
+200147,4,1,200001,163,200146,3,11560,5:3000027:10,Level Up Achievements,Clear all stages in Baracoa,,4
+200148,4,1,200001,164,200147,3,11660,5:3000027:10,Level Up Achievements,Clear all stages in Kingston,,4
+200149,4,1,200001,165,200148,3,11760,5:3000027:10,Level Up Achievements,Clear all stages in Lake Enriquillo,,4
+200150,4,1,200001,166,200149,3,11860,5:3000027:10,Level Up Achievements,Complete all dungeons in Lara,,4
+200151,4,1,200001,167,200150,3,11960,5:3000027:10,Level Up Achievements,Complete all dungeons in Apure,,4
+200152,4,1,200001,168,200151,3,12060,5:3000027:10,Level Up Achievements,Complete all dungeons in Sucre,,4
+200153,4,1,200001,169,200152,3,12160,5:3000027:10,Level Up Achievements,Complete all dungeons in Bolívar,,4
+200154,4,1,200001,170,200153,3,12260,5:3000027:10,Level Up Achievements,Complete all dungeons in Corral,,4
+200155,4,1,200001,171,200154,3,12360,5:3000027:10,Level Up Achievements,Complete all dungeons in Purranque,,4
+200156,4,1,200001,172,200155,3,12460,5:3000027:10,Level Up Achievements,Complete all dungeons in Cochamó,,4
+200157,4,1,200001,173,200156,3,12560,5:3000027:10,Level Up Achievements,Complete all dungeons in Dalcahue,,4

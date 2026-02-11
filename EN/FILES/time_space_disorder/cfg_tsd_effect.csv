@@ -1,15 +1,27 @@
-id,effect_type,hero_cid,add_attr,skill_id,desc,icon
-1,1,999,3:8:1000,0,Angels' Crit DMG is increased by 100%.,BiaoJi.png
-2,1,2087|2086|2084|2083|2082|2081|2079|2078|2077|2076|2075|2074|2073|2071|2069|2068|2067|2065|2063|2060|2057|2056|2055|2053|2051|2050|2049|2047|2039|2037																|1001,,44442101,Angels with Creator's Will restore 1 points of Will Power per round.,WuYuan.png
-3,2,0,,44445101,"This season, all monsters will dispel enemy buffs (including undispellable ones) every 4 rounds.",ChenJi.png
-4,2,0,,44446401,"In this season, monsters deal 50% True DMG to the highest-ATK enemy each round, ignoring shields.",YuanFen_XR.png
-5,1,999,,44446501,"In this season, Angels with Revelation Skill recover 100 Energy points each round.",WuYuan.png
-6,1,999,2:55:500,0,"In this season, Angels with Creator's Will have a 50% increase in DMG dealt by their Creator's Will.",BiaoJi.png
-7,1,999,,189061001,"This season, all angels gain +50% Max HP in battle.",YuHe.png
-8,2,0,3:16:150,0,"This season, all monsters recover +10% HP per round.",MeiHuo.png
-9,1,999,,44446901,"This season, when any ally is died,  the survivors gain 10% Final DMG",KuangLuan.png
-10,2,0,,44447001,"In this season, whenever an enemy takes an action, they deal 50% of True DMG to all Angels. If the Angel doesn't have a Shield, the DMG doubles.",YuanFen_XR.png
-11,2,0,,44447101,"In this season, when each of the enemies have made their actions, a stack of Time-Space Curse will be inflicted on three random Angels. The target with 6 stacks will die immediately, ignoring other mechanisms.",YuanFen_XR.png
-12,1,0,,44447201,"In this season, when an ally restores Will Power other than natural restoration, they gain 50% increase in their Creator's Will DMG. (unstackable; lasts until the end of battle)",KuangLuan.png
-13,2,0,,44447301,"In this season, when a monster acts in an odd-numbered round, they inflict [Water Prison] to one enemy (ignores Debuff RES; lasts for 1 round): the target cannot cast Creator's Will or Revelation Skill.",MengYan.png
-14,2,0,,44447401,"In this season, after a monster takes an action, they lower the DMG Reduction of the enemy with highest ATK by 5% (can be stacked up to 10 times. Lasts until the end of battle)",CuiRuo.png
+id,effect_type,hero_cid,is_permillage,add_attr,skill_id,desc,icon
+1,1,999,1,3:8:1000,0,Angels' Crit DMG is increased by 100%.,BiaoJi.png
+2,1,2087|2086|2084|2083|2082|2081|2079|2078|2077|2076|2075|2074|2073|2071|2069|2068|2067|2065|2063|2060|2057|2056|2055|2053|2051|2050|2049|2047|2039|2037																|1001,1,,44442101,Angels with Creator's Will restore 1 points of Will Power per round.,WuYuan.png
+3,2,0,1,,44445101,"This season, all monsters will dispel enemy buffs (including undispellable ones) every 4 rounds.",ChenJi.png
+4,2,0,1,,44446401,"In this season, monsters deal 50% True DMG to the highest-ATK enemy each round, ignoring shields.",YuanFen_XR.png
+5,1,999,1,,44446501,"In this season, Angels with Revelation Skill recover 100 Energy points each round.",WuYuan.png
+6,1,999,1,2:55:500,0,"In this season, Angels with Creator's Will have a 50% increase in DMG dealt by their Creator's Will.",BiaoJi.png
+7,1,999,1,,189061001,"This season, all angels gain +50% Max HP in battle.",YuHe.png
+8,2,0,1,3:16:150,0,"This season, all monsters recover +10% HP per round.",MeiHuo.png
+9,1,999,1,,44446901,"This season, when any ally is died,  the survivors gain 10% Final DMG",KuangLuan.png
+10,2,0,1,,44447001,"In this season, whenever an enemy takes an action, they deal 50% of True DMG to all Angels. If the Angel doesn't have a Shield, the DMG doubles.",YuanFen_XR.png
+11,2,0,1,,44447101,"In this season, when each of the enemies have made their actions, a stack of Time-Space Curse will be inflicted on three random Angels. The target with 6 stacks will die immediately, ignoring other mechanisms.",YuanFen_XR.png
+12,1,0,1,,44447201,"In this season, when an ally restores Will Power other than natural restoration, they gain 50% increase in their H.DMG. (unstackable; lasts until the end of battle)",KuangLuan.png
+13,2,0,1,,44447301,"In this season, when a monster acts in an odd-numbered round, they inflict [Water Prison] to one enemy (ignores Debuff RES; lasts for 1 round): the target cannot cast Creator's Will or Revelation Skill.",MengYan.png
+14,2,0,1,,44447401,"In this season, after a monster takes an action, they lower the DMG Reduction of the enemy with highest ATK by 5% (can be stacked up to 10 times. Lasts until the end of battle)",CuiRuo.png
+15,1,999,1,,44447501,"In this season, when entering battle, the Angel with highest ATK gains [Talisman]: ATK increased by 25%; each attack is guaranteed to hit; whenever she deals DMG, she can remove 1 stack of [Evil Will] from the target .",QiFu.png
+16,2,0,1,,44447601,"In this season, all monsters start with 13 stacks of [Evil Will]. Each stack reduces H.DMG taken by 7%.",ZuZhou.png
+17,2,0,1,,44447701,"In this season, if one monster starts 1st or 2nd round with no stacks of [Evil Will], all monsters take 50% more H.DMG and deal 25% less DMG. This effect cannot be stacked.",CuiRuo.png
+18,2,0,1,,44448101,"In this season, after an enemy takes an action in an odd-number round, they will inflict [Stun] on the target in the same position for 1 round (cannot act; affected by Debuff RES).",YunXuan.png
+19,2,0,0,debuff_resist:3000,0,"In this season, all enemies' Debuff RES increases by 3 times.",HunLuan.png
+20,2,0,1,,44448301,"In this season, after an enemy takes an action, they will gain a Shield equal to 20% of their Max HP (lasts for 1 round; unstackable).",FengYin.png
+21,1,999,0,2:42:3000,0,"In this season, all Angels deal 300% of Basic Attack DMG.",QiangHua.png
+22,2,0,1,,44448501,"In this season, after an enemy takes an action, they will deal 5 hits of DMG, each equal to 10% of ATK to a single target.",GuanChuan.png
+23,2,0,1,,44449101,In this season,GuanChuan.png
+24,2,0,1,,44449201,In this season,GuanChuan.png
+25,2,0,1,,44449301,In this season,GuanChuan.png
+26,1,0,1,,44449401,In this season,KuangLuan.png

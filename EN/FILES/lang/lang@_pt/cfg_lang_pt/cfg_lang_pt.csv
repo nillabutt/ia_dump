@@ -261,6 +261,7 @@ LEVEL_OPEN__AREAN,
 LEVEL_OPEN__PVE,
 LEVEL_OPEN__HONOR_ARENA,Nv. {0} desbloqueia a Glory Arena
 LEVEL_OPEN_FORMAT,
+,
 ONLINE,Conectados
 OFFLINE,Sair
 INPUT_EMPTY,"Por favor, insira"
@@ -296,9 +297,13 @@ GUILD_SIGNIN_TITLE,Assinar em
 OFFLINE_DAYS_BEFORE,
 OFFLINE_HOURS_BEFORE,
 OFFLINE_MINUTES_BEFORE,
+,
+,
+,
 FUNCTION_NOT_OPEN,
 CONTRIBUTION,
 REWARD_TITLE,Recompensa
+Recompensa,
 GUILD_MEMBER_UNIT,p
 GUILD_RANK,No. {0}
 GUILD_ANNOUNCEMENT_DEFAULT,Nenhum aviso ainda.
@@ -806,6 +811,7 @@ Lv.2 Nome do Item,
 ,
 Nome do anjo,
 Colecionado:,
+Colecionado,
 Selecione Servidor,
 Menos,
 Nome do servidor,
@@ -1384,6 +1390,7 @@ Lv 13 DEF. PEN Gema,
 Lv 14 DEF. PEN Gema,
 Lv 15 DEF. PEN Gema,
 ,
+Vela,
 Vela,
 Chicote,
 Corda,
@@ -1987,7 +1994,7 @@ Minotauro,
 ,
 Musa,
 Elis,
-Belldandy,
+Verdandi,
 Sif,
 Nuwa,
 Fuxi,
@@ -3518,7 +3525,7 @@ Tianma,
 Double Demon,
 ,
 Sonhe,
-Belldandy,
+Verdandi,
 Shadow Sage,
 ,
 ,
@@ -3550,6 +3557,7 @@ Death Banshee,
 Perder dinheiro,
 ,
 BOSS_FIGHT_COUNT_LEFT,Remanescente
+Remanescente:,
 Goddess Bless,Anjo Bless
 Tempo restante,
 LEVEL_OPEN__PVE_INTO,
@@ -4183,6 +4191,7 @@ ACTIVITY_TIME,Evento termina em {0} dias {1}
 ACTIVITY_REFRESH_TIME,Evento termina em {0} dias {1}
 ACTIVITY_END,Evento encerrado
 NO_REMIAN_COUNT,
+,
 ,
 ,
 ,
@@ -7584,6 +7593,7 @@ Matador de linha de frente   Buff de super equipe,
 Derrubado na batalha durante evento de Halloween. Itens derrubados podem resgatar recompensas no evento.,
 Max,Max
 Star,Estrela
+Estrela,
 Attribute:,Atributo
 PROGRESS,Progresso
 Change Cover Angel,Mudar capa de anjo
@@ -8439,6 +8449,7 @@ CHARGE_KEEP_TIPS_CHARGE_TODAY,
 STOP_CHAT_TIPS,
 ,
 ,
+Caixa opcional,
 CUSTOM_BOX_TITLE,Caixa opcional
 CUSTOM_BOX_TIPS,Selecionar a partir das seguintes recompensas {0}
 GUILD_NAME_REPEAT,
@@ -8579,6 +8590,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,
 GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,
 GUILD_ASPL_CAN_NOT_SIGN_UP,
+,
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,
 HERO_PALACE_NEXT_CONDITION_TIPS,
 Valor de brilho,
@@ -8811,6 +8823,7 @@ Pode trocar peles de Valkyria pelo uso na interface de peles.,
 ,
 ,
 PVP_ENTRANCE_GUILD_ASPL,Disputa do Olympians
+Disputa do Olympians,
 Insuficiente,
 ,
 ,
@@ -8874,6 +8887,7 @@ SUMMON_TYPE_DESC_42,Probabilidade de 2 fragmentos de UR: {0}
 SUMMON_TYPE_DESC_43,Probabilidade de 5 fragmentos de UR: {0}
 CHAT_TIME_MONTH_DAY_YEAR,
 CHAT_TIME_MONTH_DAY,
+,
 ,
 ,
 Freyja,
@@ -9372,6 +9386,7 @@ Ocupar:,
 ,
 ,
 ,
+,
 Traje dado por Deus,
 ,
 Gema\n,
@@ -9470,7 +9485,7 @@ Esta semana\nGrau de atividade,
 Canal de Valhalla,
 SUMMON_TYPE_DESC_111,SSR+probabilidade de fragmentos de deusa: {0}
 SUMMON_TYPE_DESC_112,SSR+ Probabilidade de anjo: {0}
-ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,Prova da deusa
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE_OLD,Prova da deusa
 ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_CONTENT,
 ACTIVE_SUMMON_FIRSTWEEK_OPEN_3,
 Ritual do Espectro,
@@ -9754,7 +9769,7 @@ Conquistou,
 ,
 week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Retorno de lucro</size></color>
 week_jindu,<color=#FFFFFF><size=18>Compra limitada</size></color><color=#6BFC90><size=18>{0}</size></color>
-week_content,
+half_month_content,
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 ,
 WORLD_BOSS_SHOWTEXT_20,"Icarus renasce no mundo novo, usa o poder absoluto para perfurar a defesa de todas as inimigas."
@@ -9934,6 +9949,7 @@ GUILD_APPLE_FIGHT_RESULT,
 ALPS_FIGHT_RESULT,Disputa do Olympians
 COUNTRY_WAR_FIGHT_RESULT,
 ZSZZ,Clash of Titans
+Clash of Titans,
 ARENA,Arena
 Polvilhar lenda,
 ,
@@ -9961,6 +9977,7 @@ Inimigas que parecem comuns,
 ,
 GUILD_FIGHT_VALUE_CONDITION_MAX_TIPS,O valor do poder de combate foi definido muito grande
 ASPL,Disputa do Olympians
+ALPS,Disputa do Olympians
 ,
 ,
 ,
@@ -12020,6 +12037,7 @@ OUTLAND_VISIT_NONE_BUILDING_UNLOCK,
 ,
 COUNTRY_WAR_SIGN_UP_CONFIRM_TIPS,
 Desconto na primeira semana,
+Firdt week discount,Desconto na primeira semana
 VIP EXP +1200,
 ,
 ,
@@ -12247,6 +12265,7 @@ Eunice,
 Minotaur,
 Festa dos Doces,
 ,
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,
 Convite para Halloween,
 ,
 ,
@@ -13514,6 +13533,7 @@ GUILD_WAR_FINAL_MVP_REWARD_TITLE,Recompensas de FMVP de Clash of Guilds
 Redefinido diariamente a 00:00,
 DMG aumentado em 30% em rodadas ilimitada,
 ZSZZ_SIGN_UP_COUNT_DOWN,
+,
 Free,
 ,
 English,
@@ -13629,3 +13649,9 @@ Ultima temporada,
 Ultima temporada,
 Contagem Regressiva:,
 ,
+Convocar,
+Tempo usado,
+,
+,
+Participe agora,
+and inflicts [Calamity Seal] on the enemy with the highest Max HP for 2 rounds (undispellable; ignores Debuff RES; target in this status cannot apply Debuffs).,

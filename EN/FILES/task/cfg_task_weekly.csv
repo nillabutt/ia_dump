@@ -1,7 +1,7 @@
 task_id,task_type,task_condition,task_value,reward,active_value,name,content,content_param,link,level_min_need
 5000001,5,13,15,5:2000022:1,10,Weekly enhance,Enhance any piece of gear 15 times,,1|0,0
 5000002,5,94,20,5:2000020:1,10,Weekly level up,Level up any angel 20 times,,1|0,0
-5000003,5,126,10,5:2000021:1,10,诸神之战,Challenge 10 times in Clash of Titans,,,0
+5000003,5,126,10,5:2000021:1,10,Clash of Titans,Challenge 10 times in Clash of Titans,,,0
 5000004,5,93,10,5:2000005:30,10,Weekly craft,Craft 10 pieces of gear or artifacts,,102|1,0
 5000005,5,99,20,5:2000019:1,10,Weekly purchase,Purchase 20 times from the shop,,,0
 5000006,5,33,20,5:2000018:1,10,Weekly adventure,Go on an adventure 20 times,,5,0

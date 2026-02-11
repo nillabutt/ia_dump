@@ -148,6 +148,7 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 125010,0,1,0,0.5,0|0,↓,,,SceneUIRoot|HeroUIScene(Clone)|PanelArmorUITpl|ButtonDressUITpl1,,,0,0,0
 200002,0,1,0,0.4,0|0,↓,-15|333,The next dungeon is unlocked after defeating the Boss. Tap here to switch map,SceneUIRoot|BattleUIScene(Clone)|Button_next_map,,,0,0,0
 200101,0,0,0,0.4,0|0,↓,-175|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_2,,,1,0,0
+201101,0,0,0,0.4,0|0,↓,100|320,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_2_nz,,,1,0,0
 200102,0,0,0,0.4,0|0,↓,185|360,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_3,,,1,0,0
 200103,0,0,0,0.5,0|0,←,295|-230,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_4,,,1,0,0
 200104,0,0,0,0.4,0|0,→,-50|185,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_5,,,1,0,0
@@ -270,6 +271,30 @@ guide_id,optional,show_mask,show_circle,time_delay,arrow_pos,arrow_dir,text_pos,
 200223,0,0,0,0.4,0|0,↓,158|385,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_122,,,1,0,0
 200224,0,0,0,0.4,0|0,↑,-116|216,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_123,,,1,0,0
 200225,0,0,0,0.4,0|0,→,-388|257,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_124,,,1,0,0
+200226,0,0,0,0.4,0|0,←,283|250,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_125,,,1,0,0
+200227,0,0,0,0.4,0|0,↓,68|-280,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_126,,,1,0,0
+200228,0,0,0,0.4,0|0,↓,-57|413,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_127,,,1,0,0
+200229,0,0,0,0.4,0|0,→,-282|300,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_128,,,1,0,0
+200230,0,0,0,0.4,0|0,←,234|-275,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_129,,,1,0,0
+200231,0,0,0,0.4,0|0,←,312|-181,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_130,,,1,0,0
+200232,0,0,0,0.4,0|0,↓,129|336,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_131,,,1,0,0
+200233,0,0,0,0.4,0|0,→,-190|254,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_132,,,1,0,0
+200234,0,0,0,0.4,0|0,↓,148|339,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_133,,,1,0,0
+200235,0,0,0,0.4,0|0,↓,-209|403,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_134,,,1,0,0
+200236,0,0,0,0.4,0|0,↓,-57|465,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_135,,,1,0,0
+200237,0,0,0,0.4,0|0,↓,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_136,,,1,0,0
+200238,0,0,0,0.4,0|0,↑,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_137,,,1,0,0
+200239,0,0,0,0.4,0|0,←,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_138,,,1,0,0
+200240,0,0,0,0.4,0|0,←,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_139,,,1,0,0
+200241,0,0,0,0.4,0|0,↓,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_140,,,1,0,0
+200242,0,0,0,0.4,0|0,↑,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_141,,,1,0,0
+200243,0,0,0,0.4,0|0,→,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_142,,,1,0,0
+200244,0,0,0,0.4,0|0,↓,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_143,,,1,0,0
+200245,0,0,0,0.4,0|0,↓,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_144,,,1,0,0
+200246,0,0,0,0.4,0|0,↑,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_145,,,1,0,0
+200247,0,0,0,0.4,0|0,←,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_146,,,1,0,0
+200248,0,0,0,0.4,0|0,→,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_147,,,1,0,0
+200249,0,0,0,0.4,0|0,↓,221|406,Enter the next chapter,SceneUIRoot|WorldMapUIScene(Clone)|dungeon_info_148,,,1,0,0
 200201,0,0,0,0.4,0|0,↓,300|550|1,Enter Dungeon,3D_DungeonNode_1_Name,,100|100,1,1,0
 200202,0,1,0,0.4,0|0,↑,,Force the player to tap [Begin Idling Button],Popup_Map_EnterDungeon,,,0,0,0
 201001,1,0,0,0.5,,→,345|850|1,Swipe left to the next page,,,,1,0,0

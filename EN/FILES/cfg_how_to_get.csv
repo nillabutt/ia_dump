@@ -94,194 +94,204 @@ cfg_id,thing_type,thing_id,content,link_text,link,gift_purchase_id
 93,5,1000004,Weekly Gift,Go,105|10,0
 94,5,1000004,Diamond,Go,2|1,0
 95,4,101,Open Gem Pouch,Go,7|2,0
-96,4,201,Open Gem Pouch,Go,7|2,0
-97,4,301,Open Gem Pouch,Go,7|2,0
-98,4,401,Open Gem Pouch,Go,7|2,0
-99,5,3000005,Monthly Gift,Go,105|11,16
-100,5,3000005,Summon Pack,Go,105|9,0
-101,5,3000005,Diamond,Go,2|1,0
-102,5,3000052,Bounty task,Go,108|4,17
-103,5,3000052,Super gift,Go,108|3,0
-104,5,3000053,Lucky Gate,Go,108|34,18
-105,5,3000053,Lucky Gift,Go,108|33,0
-106,7,2051,Special events,Events,,0
-107,7,2052,Special events,Events,,0
-108,15,150001,Relic summon,Go,8|1,0
-109,15,150002,Relic summon,Go,8|1,0
-110,15,150003,Relic summon,Go,8|1,0
-111,15,150004,Relic summon,Go,8|1,0
-112,15,150005,Relic summon,Go,8|1,0
-113,15,150006,Relic summon,Go,8|1,0
-114,15,150007,Relic summon,Go,8|1,0
-115,15,150008,Relic summon,Go,8|1,0
-116,15,150009,Relic summon,Go,8|1,0
-117,15,150010,Relic summon,Go,8|1,0
-118,15,150011,Relic summon,Go,8|1,0
-119,15,150012,Relic summon,Go,8|1,0
-120,15,150013,Relic summon,Go,8|1,0
-121,15,150014,Relic summon,Go,8|1,0
-122,15,150015,Relic summon,Go,8|1,0
-123,15,150016,Relic summon,Go,8|1,0
-124,15,150017,Relic summon,Go,8|1,0
-125,15,150018,Relic summon,Go,8|1,0
-126,15,150019,Relic summon,Go,8|1,0
-127,15,150020,Relic summon,Go,8|1,0
-128,15,150021,Relic summon,Go,8|1,0
-129,15,150022,Relic summon,Go,8|1,0
-130,15,150023,Relic summon,Go,8|1,0
-131,15,150024,Relic summon,Go,8|1,0
-132,15,150025,Relic summon,Go,8|1,0
-133,15,150026,Relic summon,Go,8|1,0
-134,15,150027,Relic summon,Go,8|1,0
-135,15,150028,Relic summon,Go,8|1,0
-136,15,150029,Relic summon,Go,8|1,0
-137,15,150030,Relic summon,Go,8|1,0
-138,15,150031,Relic summon,Go,8|1,0
-139,15,150032,Relic summon,Go,8|1,0
-140,15,150033,Relic summon,Go,8|1,0
-141,15,150034,Relic summon,Go,8|1,0
-142,15,150035,Relic summon,Go,8|1,0
-143,15,150036,Relic summon,Go,8|1,0
-144,1,15,Secret Abyss,Go,18,0
-145,7,2039,Summon Angels,Go,8,0
-146,7,2047,Summon Angels,Go,8,0
-147,5,3000064,Summon Pack,Go,105|9,20
-148,5,3000065,Diamond,Go,2|1,21
-149,7,2053,Special events,Events,,0
-150,7,2054,Summon Angels,GO,8,0
-151,5,3000056,New server event,Events,,0
-152,5,3000057,Special events,Events,,0
-153,5,3000067,Special events,Events,,0
-154,7,2055,Special events,Events,,0
-155,7,2056,Special events,Events,,0
-156,7,2057,Special events,Events,,0
-157,1,16,Golden Apple Battle,Go,13,0
-158,7,2059,Special events,Events,,0
-159,5,3000075,Special events,Events,,0
-160,17,2039,Special events,Events,,0
-161,5,5000004,Glory Shop,Go,2|5,0
-162,5,3000079,Novice Gift,Go,,200
-163,1,17,Summon Celebration,Events,,0
-164,17,2012,Special events,Events,,0
-165,17,2016,Special events,Events,,0
-166,17,2025,Special events,Events,,0
-167,17,2031,Special events,Events,,0
-168,17,2032,Special events,Events,,0
-169,17,2035,Special events,Events,,0
-170,17,2037,Special events,Events,,0
-171,17,2042,Special events,Events,,0
-172,17,2047,Special events,Events,,0
-173,17,2048,Special events,Events,,0
-174,17,2049,Special events,Events,,0
-175,17,2050,Special events,Events,,0
-176,17,2051,Special events,Events,,0
-177,17,2052,Special events,Events,,0
-178,17,2053,Special events,Events,,0
-179,17,2054,Special events,Events,,0
-180,17,2055,Special events,Events,,0
-181,17,2056,Special events,Events,,0
-182,17,2057,Special events,Events,,0
-183,17,2059,Special events,Events,,0
-184,17,2063,Special events,Events,,0
-185,5,3000092,Glaive/Arrow/Magic Tower,Go,22,0
-186,5,3000093,Glaive Tower,Go,22,0
-187,5,3000094,Magic Tower,Go,22,0
-188,5,3000095,Arrow Tower,Go,22,0
-189,5,3000096,Diamond,Go,2|1,0
-190,5,7000001,Adventure,Go,5,0
-191,5,7000001,Diamond,Go,2|1,0
-192,5,7000002,Adventure,Go,5,0
-193,5,7000002,Diamond,Go,2|1,0
-194,5,7000003,Adventure,Go,5,0
-195,5,7000003,Diamond,Go,2|1,0
-196,5,7000004,Adventure,Go,5,0
-197,5,7000004,Diamond,Go,2|1,0
-198,5,7000005,Adventure,Go,5,0
-199,5,7000005,Diamond,Go,2|1,0
-200,5,7000006,Adventure,Go,5,0
-201,5,7000006,Diamond,Go,2|1,0
-202,5,7000007,Adventure,Go,5,0
-203,5,7000007,Diamond,Go,2|1,0
-204,5,7000008,Adventure,Go,5,0
-205,5,7000008,Diamond,Go,2|1,0
-206,5,7000009,Adventure,Go,5,0
-207,5,7000009,Diamond,Go,2|1,0
-208,5,7000010,Adventure,Go,5,0
-209,5,7000010,Diamond,Go,2|1,0
-210,5,7000011,Adventure,Go,5,0
-211,5,7000011,Diamond,Go,2|1,0
-212,5,7000012,Adventure,Go,5,0
-213,5,7000012,Diamond,Go,2|1,0
-214,5,7000013,Weekly Gift,Go,105|10,0
-215,5,7000013,Monthly Gift,Go,105|11,0
-216,5,7000014,Weekly Gift,Go,105|10,0
-217,5,7000014,Monthly Gift,Go,105|11,0
-218,5,7000015,Weekly Gift,Go,105|10,0
-219,5,7000015,Monthly Gift,Go,105|11,0
-220,5,7000016,Weekly Gift,Go,105|10,0
-221,5,7000016,Monthly Gift,Go,105|11,0
-222,1,18,Obtain from season quests/ranking rewards,Go,,0
-223,5,3000104,Gate of Seeking,Go,23,0
-224,5,3000105,Gate of Seeking,Go,23,0
-225,5,3000106,Gate of Seeking,Go,23,0
-226,5,3000107,Gate of Seeking,Go,23,0
-227,5,3000108,Gate of Seeking,Go,23,0
-228,5,3000109,Gate of Seeking,Go,23,0
-229,5,3000110,Gate of Seeking,Go,23,0
-230,5,3000111,Gate of Seeking,Go,23,0
-231,5,3000113,Special Packages,Go,,0
-232,5,3000114,Special Packages,Go,,0
-233,5,3000115,Special Packages,Go,,0
-234,5,3000118,Quick Combat,Go,4,0
-235,5,3000124,Special events,Events,,0
-236,5,3000125,Special events,Events,,0
-237,5,3000139,Fear Abyss,Go,24,0
-238,5,3000139,Weekly Gift,Go,105|10,0
-239,5,3000139,Monthly Gift,Go,105|11,0
-240,5,3000140,Fear Abyss,Go,24,0
-241,5,3000140,Weekly Gift,Go,105|10,0
-242,5,3000140,Monthly Gift,Go,105|11,0
-243,5,3000143,Daily Trial,Go,,0
-244,5,3000143,Assist Pack,Go,,0
-245,5,3000144,Happy Birthday,Go,,0
-246,5,3000144,Challenge tasks,Go,,0
-247,5,3000144,Assist Pack,Go,,0
-248,5,3000148,Fashion Store,Buy,,24
-249,5,3000185,True Love Pack,Go,,0
-250,5,3000185,Idling,Go,,0
-251,5,3000186,True Love Pack,Go,,0
-252,5,3000186,Idling,Go,,0
-253,5,3000198,Idling,Go,,0
-254,5,3000207,Miracle Shop,Go,111,0
-255,27,1001,Nightmare,Go,,0
-256,27,2037,Nightmare,Go,,0
-257,27,2039,Nightmare,Go,,0
-258,27,2042,Nightmare,Go,,0
-259,27,2047,Nightmare,Go,,0
-260,27,2049,Nightmare,Go,,0
-261,27,2050,Nightmare,Go,,0
-262,27,2051,Nightmare,Go,,0
-263,27,2053,Nightmare,Go,,0
-264,27,2054,Nightmare,Go,,0
-265,27,2055,Nightmare,Go,,0
-266,27,2056,Nightmare,Go,,0
-267,27,2057,Nightmare,Go,,0
-268,27,2060,Nightmare,Go,,0
-269,27,2063,Nightmare,Go,,0
-270,27,2065,Nightmare,Go,,0
-271,27,2067,Nightmare,Go,,0
-272,27,2068,Nightmare,Go,,0
-273,27,2069,Nightmare,Go,,0
-274,27,2071,Nightmare,Go,,0
-275,27,2073,Nightmare,Go,,0
-276,27,2074,Nightmare,Go,,0
-277,27,2075,Nightmare,Go,,0
-278,27,2076,Nightmare,Go,,0
-279,27,2077,Nightmare,Go,,0
-280,27,2078,Nightmare,Go,,0
-281,27,2081,Nightmare,Go,,0
-282,27,2082,Nightmare,Go,,0
-283,5,3000238,Quick Combat,Go,4,0
-284,5,3000238,Special Packages,Go,,0
-285,5,3000239,Special Packages,Go,,0
-286,5,3000240,Special Packages,Go,,0
+96,4,101,Star Trial,Go,,0
+97,4,201,Open Gem Pouch,Go,7|2,0
+98,4,301,Open Gem Pouch,Go,7|2,0
+99,4,401,Open Gem Pouch,Go,7|2,0
+100,5,3000005,Monthly Gift,Go,105|11,16
+101,5,3000005,Summon Pack,Go,105|9,0
+102,5,3000005,Diamond,Go,2|1,0
+103,5,3000052,Bounty task,Go,108|4,17
+104,5,3000052,Super gift,Go,108|3,0
+105,5,3000053,Lucky Gate,Go,108|34,18
+106,5,3000053,Lucky Gift,Go,108|33,0
+107,7,2051,Special events,Events,,0
+108,7,2052,Special events,Events,,0
+109,15,150001,Relic summon,Go,8|1,0
+110,15,150002,Relic summon,Go,8|1,0
+111,15,150003,Relic summon,Go,8|1,0
+112,15,150004,Relic summon,Go,8|1,0
+113,15,150005,Relic summon,Go,8|1,0
+114,15,150006,Relic summon,Go,8|1,0
+115,15,150007,Relic summon,Go,8|1,0
+116,15,150008,Relic summon,Go,8|1,0
+117,15,150009,Relic summon,Go,8|1,0
+118,15,150010,Relic summon,Go,8|1,0
+119,15,150011,Relic summon,Go,8|1,0
+120,15,150012,Relic summon,Go,8|1,0
+121,15,150013,Relic summon,Go,8|1,0
+122,15,150014,Relic summon,Go,8|1,0
+123,15,150015,Relic summon,Go,8|1,0
+124,15,150016,Relic summon,Go,8|1,0
+125,15,150017,Relic summon,Go,8|1,0
+126,15,150018,Relic summon,Go,8|1,0
+127,15,150019,Relic summon,Go,8|1,0
+128,15,150020,Relic summon,Go,8|1,0
+129,15,150021,Relic summon,Go,8|1,0
+130,15,150022,Relic summon,Go,8|1,0
+131,15,150023,Relic summon,Go,8|1,0
+132,15,150024,Relic summon,Go,8|1,0
+133,15,150025,Relic summon,Go,8|1,0
+134,15,150026,Relic summon,Go,8|1,0
+135,15,150027,Relic summon,Go,8|1,0
+136,15,150028,Relic summon,Go,8|1,0
+137,15,150029,Relic summon,Go,8|1,0
+138,15,150030,Relic summon,Go,8|1,0
+139,15,150031,Relic summon,Go,8|1,0
+140,15,150032,Relic summon,Go,8|1,0
+141,15,150033,Relic summon,Go,8|1,0
+142,15,150034,Relic summon,Go,8|1,0
+143,15,150035,Relic summon,Go,8|1,0
+144,15,150036,Relic summon,Go,8|1,0
+145,1,15,Secret Abyss,Go,18,0
+146,7,2039,Summon Angels,Go,8,0
+147,7,2047,Summon Angels,Go,8,0
+148,5,3000064,Summon Pack,Go,105|9,20
+149,5,3000065,Diamond,Go,2|1,21
+150,7,2053,Special events,Events,,0
+151,7,2054,Summon Angels,GO,8,0
+152,5,3000056,New server event,Events,,0
+153,5,3000057,Special events,Events,,0
+154,5,3000067,Special events,Events,,0
+155,7,2055,Special events,Events,,0
+156,7,2056,Special events,Events,,0
+157,7,2057,Special events,Events,,0
+158,1,16,Golden Apple Battle,Go,13,0
+159,7,2059,Special events,Events,,0
+160,5,3000075,Special events,Events,,0
+161,17,2039,Special events,Events,,0
+162,5,5000004,Glory Shop,Go,2|5,0
+163,5,3000079,Novice Gift,Go,,200
+164,1,17,Summon Celebration,Events,,0
+165,17,2012,Special events,Events,,0
+166,17,2016,Special events,Events,,0
+167,17,2025,Special events,Events,,0
+168,17,2031,Special events,Events,,0
+169,17,2032,Special events,Events,,0
+170,17,2035,Special events,Events,,0
+171,17,2037,Special events,Events,,0
+172,17,2042,Special events,Events,,0
+173,17,2047,Special events,Events,,0
+174,17,2048,Special events,Events,,0
+175,17,2049,Special events,Events,,0
+176,17,2050,Special events,Events,,0
+177,17,2051,Special events,Events,,0
+178,17,2052,Special events,Events,,0
+179,17,2053,Special events,Events,,0
+180,17,2054,Special events,Events,,0
+181,17,2055,Special events,Events,,0
+182,17,2056,Special events,Events,,0
+183,17,2057,Special events,Events,,0
+184,17,2059,Special events,Events,,0
+185,17,2063,Special events,Events,,0
+186,5,3000092,Glaive/Arrow/Magic Tower,Go,22,0
+187,5,3000093,Glaive Tower,Go,22,0
+188,5,3000094,Magic Tower,Go,22,0
+189,5,3000095,Arrow Tower,Go,22,0
+190,5,3000096,Diamond,Go,2|1,0
+191,5,7000001,Adventure,Go,5,0
+192,5,7000001,Diamond,Go,2|1,0
+193,5,7000002,Adventure,Go,5,0
+194,5,7000002,Diamond,Go,2|1,0
+195,5,7000003,Adventure,Go,5,0
+196,5,7000003,Diamond,Go,2|1,0
+197,5,7000004,Adventure,Go,5,0
+198,5,7000004,Diamond,Go,2|1,0
+199,5,7000005,Adventure,Go,5,0
+200,5,7000005,Diamond,Go,2|1,0
+201,5,7000006,Adventure,Go,5,0
+202,5,7000006,Diamond,Go,2|1,0
+203,5,7000007,Adventure,Go,5,0
+204,5,7000007,Diamond,Go,2|1,0
+205,5,7000008,Adventure,Go,5,0
+206,5,7000008,Diamond,Go,2|1,0
+207,5,7000009,Adventure,Go,5,0
+208,5,7000009,Diamond,Go,2|1,0
+209,5,7000010,Adventure,Go,5,0
+210,5,7000010,Diamond,Go,2|1,0
+211,5,7000011,Adventure,Go,5,0
+212,5,7000011,Diamond,Go,2|1,0
+213,5,7000012,Adventure,Go,5,0
+214,5,7000012,Diamond,Go,2|1,0
+215,5,7000013,Weekly Gift,Go,105|10,0
+216,5,7000013,Monthly Gift,Go,105|11,0
+217,5,7000014,Weekly Gift,Go,105|10,0
+218,5,7000014,Monthly Gift,Go,105|11,0
+219,5,7000015,Weekly Gift,Go,105|10,0
+220,5,7000015,Monthly Gift,Go,105|11,0
+221,5,7000016,Weekly Gift,Go,105|10,0
+222,5,7000016,Monthly Gift,Go,105|11,0
+223,1,18,Obtain from season quests/ranking rewards,Go,,0
+224,5,3000104,Gate of Seeking,Go,23,0
+225,5,3000105,Gate of Seeking,Go,23,0
+226,5,3000106,Gate of Seeking,Go,23,0
+227,5,3000107,Gate of Seeking,Go,23,0
+228,5,3000108,Gate of Seeking,Go,23,0
+229,5,3000109,Gate of Seeking,Go,23,0
+230,5,3000110,Gate of Seeking,Go,23,0
+231,5,3000111,Gate of Seeking,Go,23,0
+232,5,3000113,Special Packages,Go,,0
+233,5,3000114,Special Packages,Go,,0
+234,5,3000115,Special Packages,Go,,0
+235,5,3000118,Quick Combat,Go,4,0
+236,5,3000124,Special events,Events,,0
+237,5,3000125,Special events,Events,,0
+238,5,3000139,Fear Abyss,Go,24,0
+239,5,3000139,Weekly Gift,Go,105|10,0
+240,5,3000139,Monthly Gift,Go,105|11,0
+241,5,3000140,Fear Abyss,Go,24,0
+242,5,3000140,Weekly Gift,Go,105|10,0
+243,5,3000140,Monthly Gift,Go,105|11,0
+244,5,3000143,Daily Trial,Go,,0
+245,5,3000143,Assist Pack,Go,,0
+246,5,3000144,Happy Birthday,Go,,0
+247,5,3000144,Challenge tasks,Go,,0
+248,5,3000144,Assist Pack,Go,,0
+249,5,3000148,Fashion Store,Buy,,24
+250,5,3000185,True Love Pack,Go,,0
+251,5,3000185,Idling,Go,,0
+252,5,3000186,True Love Pack,Go,,0
+253,5,3000186,Idling,Go,,0
+254,5,3000198,Idling,Go,,0
+255,5,3000207,Miracle Shop,Go,111,0
+256,27,1001,Nightmare,Go,,0
+257,27,2037,Nightmare,Go,,0
+258,27,2039,Nightmare,Go,,0
+259,27,2042,Nightmare,Go,,0
+260,27,2047,Nightmare,Go,,0
+261,27,2049,Nightmare,Go,,0
+262,27,2050,Nightmare,Go,,0
+263,27,2051,Nightmare,Go,,0
+264,27,2053,Nightmare,Go,,0
+265,27,2054,Nightmare,Go,,0
+266,27,2055,Nightmare,Go,,0
+267,27,2056,Nightmare,Go,,0
+268,27,2057,Nightmare,Go,,0
+269,27,2060,Nightmare,Go,,0
+270,27,2063,Nightmare,Go,,0
+271,27,2065,Nightmare,Go,,0
+272,27,2067,Nightmare,Go,,0
+273,27,2068,Nightmare,Go,,0
+274,27,2069,Nightmare,Go,,0
+275,27,2071,Nightmare,Go,,0
+276,27,2073,Nightmare,Go,,0
+277,27,2074,Nightmare,Go,,0
+278,27,2075,Nightmare,Go,,0
+279,27,2076,Nightmare,Go,,0
+280,27,2077,Nightmare,Go,,0
+281,27,2078,Nightmare,Go,,0
+282,27,2081,Nightmare,Go,,0
+283,27,2082,Nightmare,Go,,0
+284,5,3000238,Quick Combat,Go,4,0
+285,5,3000238,Special Packages,Go,,0
+286,5,3000239,Special Packages,Go,,0
+287,5,3000240,Special Packages,Go,,0
+288,5,5100001,Idling,Go,4,0
+289,5,5100002,Wish,Go,,0
+290,5,5100003,Seraphel Summon,Go,,0
+291,5,5100004,Illusion Corridor,Go,,0
+292,5,5100005,Idling,Go,4,0
+293,5,5100006,Gate of Seeking,Go,23,0
+294,5,5100007,Idling,Go,4,0
+295,5,3000066,Wish,Go,,0
+296,5,3000295,Seraphel Summon,Go,,0

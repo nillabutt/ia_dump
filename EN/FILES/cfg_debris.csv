@@ -20,7 +20,7 @@ cfg_id,position_count,max_count,quality,restore,name,icon,icon_review,descriptio
 2019,40,999,5,5,Nemesis Shard,2019.jpg,2071.jpg,Collect 40 Nemesis Shards to summon Nemesis
 2020,20,999,3,1,Muse Shard,2020.jpg,2055_UR_SH.jpg,Collect 20 Muse Shards to summon Muse
 2021,35,999,4,2,Iris Shard,2021.jpg,2021.jpg,Collect 35 Iris Shards to summon Iris
-2022,35,999,4,2,Belldandy Shard,2022.jpg,2067.jpg,Collect 35 Belldandy Shards to summon Belldandy
+2022,35,999,4,2,Verdandi Shard,2022.jpg,2067.jpg,Collect 35 Verdandi Shards to summon Verdandi
 2023,30,999,4,2,Sif Shard,2023.jpg,1000_SDSZ_SH.jpg,Collect 30 Sif Shards to summon Sif
 2024,45,999,5,5,Lucifer Shard,2024.jpg,1000_GEJ_SH.jpg,Collect 45 Lucifer Shards to summon Lucifer
 2025,50,999,6,10,Nuwa Shard,2025.jpg,2025.jpg,Collect 50 Nuwa Shards to summon Nuwa
@@ -78,3 +78,4 @@ cfg_id,position_count,max_count,quality,restore,name,icon,icon_review,descriptio
 2083,55,999,6,10,Ares Shard,2083.jpg,2049.jpg,Collect 55 Ares Shards to summon Ares
 2085,50,999,6,10,Zodiac Dragon Shards,2085.jpg,2049.jpg,Collect 50 Zodiac Dragon Shards to summon Zodiac Dragon
 2089,50,999,6,10,Zodiac Snake Shard,2089.jpg,2049.jpg,Collect 50 Zodiac Snake Shards to summon Zodiac Snake
+2103,50,999,6,10,Zodiac Horse Shard,2103.jpg,2103.jpg,Collect 50 Zodiac Horse Shards to summon Zodiac Horse

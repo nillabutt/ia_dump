@@ -112,6 +112,9 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 4091,4,6,Hela Avatar Frame,0,0,4091.png,Thank you for your contribution in community activities
 4092,4,5,Hela Avatar Frame,0,0,4092.png,Thank you for your contribution in community activities
 4093,4,4,5st Anniversary Avatar Frame,0,0,4093.png,Thank you for your contribution in community activities
+4094,4,6,Prometheus Avatar Frame,0,0,4094.png,Thank you for your contribution in community activities
+4095,4,5,Prometheus Avatar Frame,0,0,4095.png,Thank you for your contribution in community activities
+4096,4,4,Proofreader Avatar Frame,1,0,4096.png,Thank you for your contribution to the language quality of this game.
 5001,5,6,Halloween,0,0,5001.png,Limited face frame during Halloween event
 5002,5,6,Merry Christmas,0,0,5002.png,Christmas limited avatar frame
 5003,5,6,Anniversary,0,0,5003.png,Anniversary limited avatar frame
@@ -154,11 +157,19 @@ cfg_id,type,quality,name,useEffect,end_time,icon,desc
 5052,5,6,2025 Wedding Ceremony Avatar Frame,0,0,5052.png,2025 Wedding Ceremony Limited Avatar Frame
 5053,5,6,2025 5th Anniversary Avatar Frame,0,0,5053.png,2025 5th Anniversary Souvenir Avatar Frame
 5054,5,6,2025 Beach Fest Avatar Frame,0,0,5054.png,2025 Beach Fest Limited Avatar Frame
+5055,5,6,2025 Swimsuit Party Avatar Frame,0,0,5055.png,2025 Swimsuit Party Avatar Frame
+5056,5,6,2025 Camping Fest Avatar Frame,0,0,5056.png,2025 Camping Fest Limited Avatar Frame
+5057,5,6,2025 Mid-Autumn Festival Avatar Frame,0,0,5057.png,2025 Mid-Autumn Festival Limited Avatar Frame
+5058,5,6,2025 Halloween Avatar Frame,0,0,5058.png,2025 Halloween Limited Avatar Frame
+5059,5,6,2025 Thanksgiving Avatar Frame,0,0,5059.png,2025 Thanksgiving Limited Avatar Frame
+5060,5,6,2025 Christmas Avatar Frame,0,0,5060.png,2025 Christmas Limited Edition Avatar Frame
+5061,5,6,2026 Spring Festival Avatar Frame,0,0,5061.png,2026 Spring Festival Limited Avatar Frame
 6001,6,6,Sacred Palace,0,0,6001.png,Sacred Palace limited avatar frame
 6002,6,6,Swimsuit Party,0,0,6002.png,Swimsuit Party limited avatar frame
 6003,6,6,Divine Awakening,0,0,6003.png,Divine Awaken limited avatar frame
 6004,5,6,Wedding Ceremony Avatar Frame,0,0,6004.png,Wedding Ceremony event Special Avatar Frame
 6005,6,6,Creator's Incarnation,0,0,6005.png,Creator's Incarnation Exclusive Frame
+6100,6,6,Godbound - Night Lotus Fashion Avatar Frame,0,0,6100.png,Godbound - Night Lotus Fashion Limited Avatar Frame
 7001,7,4,Clash of Guild FMVP,0,0,7001.png,Clash of Guild FMVP honor frame
 7002,7,5,Clash of Guild FMVP,0,0,7002.png,Clash of Guild FMVP supreme frame
 7003,7,6,Clash of Guild FMVP,0,0,7003.png,Clash of Guild personal TOP 3 king frame

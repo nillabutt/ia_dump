@@ -34,4 +34,13 @@ dungeon_map_id,from_mr,is_lock,name,memory_goods_id,heroes,task_condition,img_bi
 33,1,0,Lucifer the Fallen Angel's Dreamland,4000030,180,500033,luxifa_bg_big.png,luxifa_bg_small.png
 34,1,0,Jeanne d'Arc the Sworn Warrior's Dream,4000030,180,500034,shenshizhezhende_bg_big.png,shenshizhezhende_bg_small.png
 35,1,0,Poseidon the Sea Sovereign's Dreamland,4000030,180,500035,haihuangbosaidong_bg_big.png,haihuangbosaidong_small.png
+36,1,0,Anubis the Deathlord's Dreamland,4000030,180,500036,anubisi_bg_big.png,anubisi_bg_small.png
+37,1,0,Idun the Unwithering Flower's Dreamland,4000030,180,500037,budiaozhihua_bg_big.png,budiaozhihua_bg_small.png
+38,1,0,Nemesis the Orderkeeper's Dreamland,4000030,180,500038,niemoxisi_bg_big.png,niemoxisi_bg_small.png
+39,1,0,Pandora the Secretkeeper’s Dreamland,4000030,180,500039,shoumizhe_bg_big.png,shoumizhe_bg_small.png
+40,1,0,Sagittarius's Dreamland,4000030,180,500040,sheshouzuo_bg_big.png,sheshouzuo_bg_small.png
+41,1,0,Merlin's Dreamland,4000030,180,500041,ML_bg_big.png,ML_bg_small.png
+42,1,0,Medusa the Cursebound's Dreamland,4000030,180,500042,ZFZMDS_bg_big.png,ZFZMDS_bg_small.png
+43,1,0,Aquarius's Dreamland,4000030,180,500043,SPZ_bg_big.png,SPZ_bg_small.png
+44,1,0,Fuxi the Heavenruler's Dreamland,4000030,180,500044,TDFX_bg_big.png,TDFX_bg_small.png
 101,0,1,Stay tuned,3000150,6,500001,hela_bg_big.png,hela_bg_small.png

@@ -1,0 +1,5 @@
+id,name,icon,burden,advance,score
+1001,Firecrackers,img_dangao.png,5:3000330:15|5:3000331:10,0,2
+1002,Sparkler,img_roupai.png,5:3000330:25|5:3000332:10,0,3
+1003,Fireworks,img_pai.png,5:3000330:25|5:3000331:25|5:3000332:10,0,5
+1004,Lantern,img_shaoji.png,5:3000330:50|5:3000333:10,1,20

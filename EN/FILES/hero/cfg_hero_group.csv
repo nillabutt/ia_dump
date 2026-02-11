@@ -302,7 +302,7 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 308,Sacred Descend,2087|2049|2009,3,1,200,Battle with {0},2087
 309,Celestial Sentinel,2087|2011|2077|2047,3,1,250,Battle with {0},2087
 310,Stars of Redemption,2088|2049,3,1,150,Battle with {0},2088
-311,无暇之花,2088|2039,3,2,150,Battle with {0},2088
+311,Flawless Bloom,2088|2039,3,2,150,Battle with {0},2088
 312,Supreme Flame,2088|2087,3,2,150,Battle with {0},2088
 313,Tri-Wing Pact,2088|2084|2060,3,1,200,Battle with {0},2088
 314,Luminous Chaos,2088|2086|2050|2081,3,2,250,Battle with {0},2088
@@ -331,3 +331,53 @@ gid,group_name,hero_ids,attr_type_type,attr_type,attr_value,content,hcid
 337,Wisdom of Ocean,2093|2069,3,2,150,Battle with {0},2093
 338,Deep Abyss,2093|2091|2090,3,1,200,Battle with {0},2093
 339,Greece Splendor,2093|2075|2050|2039,3,2,250,Battle with {0},2093
+340,Primal Chaos,2094|2050,3,1,150,Battle with {0},2094
+341,Wisdom of the Dead,2094|2069,3,2,150,Battle with {0},2094
+342,Twin Souls,2094|2065,3,2,150,Battle with {0},2094
+343,Underworld Alliance,2094|2086|2048,3,1,200,Battle with {0},2094
+344,Pyramid Splendor,2094|2037|2081|2011,3,1,250,Battle with {0},2094
+345,Seed of Protection,2095|2051,3,1,150,Battle with {0},2095
+346,Celestial Leaves,2095|2060,3,2,150,Battle with {0},2095
+347,Dreamy Flowers,2095|2076,3,2,150,Battle with {0},2095
+348,Eternal Love,2095|2074|2047,3,1,200,Battle with {0},2095
+349,Realm of Three Dragons,2095|2055|2056|2057,3,1,250,Battle with {0},2095
+350,Sensible Judgement,2096|2069,3,1,150,Battle with {0},2096
+351,Order and Authority,2096|2039,3,2,150,Battle with {0},2096
+352,Underworld Reconstructed,2096|2086,3,2,150,Battle with {0},2096
+353,Contention of Charm,2096|2090|2074,3,1,200,Battle with {0},2096
+354,Cycle of Order,2096|2094|2088|2095,3,1,250,Battle with {0},2096
+355,Born in Calamity,2097|2091,3,1,150,Battle with {0},2097
+356,Converging Paths,2097|2092,3,2,150,Battle with {0},2097
+357,Rondo of Fate,2097|2094,3,2,150,Battle with {0},2097
+358,Flame of Original Sin,2097|2087|2075,3,1,200,Battle with {0},2097
+359,Last Epic,2097|2068|2082|2056,3,1,250,Battle with {0},2097
+360,Loving Hearts,2098|2047,3,1,150,Battle with {0},2098
+361,Souls of Wisdom,2098|2069,3,2,150,Battle with {0},2098
+362,Apostles of Nature,2098|2057,3,2,150,Battle with {0},2098
+363,Arrows of Light,2098|2078|2037,3,1,200,Battle with {0},2098
+364,Radiance of Constellations,2098|2065|2071|2073,3,1,250,Battle with {0},2098
+365,Eternal Spring,2099|2095,3,1,150,Battle with {0},2099
+366,Starlight Grimoire,2099|2088,3,2,150,Battle with {0},2099
+367,Law of Life and Death,2099|2086,3,2,150,Battle with {0},2099
+368,Eerie Light,2099|2076|2060,3,1,200,Battle with {0},2099
+369,Fallen Stars,2099|2090|2091|2084,3,1,250,Battle with {0},2099
+370,Forbidden Whisper,2100|2097,3,1,150,Battle with {0},2100
+371,Serpent of Chaos,2100|2050,3,2,150,Battle with {0},2100
+372,Gaze of Vengeance,2100|2096,3,2,150,Battle with {0},2100
+373,Echoes of Destiny,2100|2078|2087,3,1,200,Battle with {0},2100
+374,Gods' Judgement,2100|2069|2075|2093,3,1,250,Battle with {0},2100
+375,Starsea Love,2101|2074,3,1,150,Battle with {0},2101
+376,Trap of Oracle,2101|2076,3,2,150,Battle with {0},2101
+377,Galactic Painting,2101|2098,3,2,150,Battle with {0},2101
+378,Newborn Law,2101|2095|2049,3,1,200,Battle with {0},2101
+379,Elemental Overture,2101|2071|2073|2065,3,1,250,Battle with {0},2101
+380,Heaven and Earth,2102|2012,3,1,150,Battle with {0},2102
+381,Glory of Sun and Moon,2102|2067,3,2,150,Battle with {0},2102
+382,Sacred Seals,2102|2053,3,2,150,Battle with {0},2102
+383,Blazing Sun's Covenant,2102|2037|2078,3,1,200,Battle with {0},2102
+384,Blessing of Revelation,2102|2039|2051|2063,3,1,250,Battle with {0},2102
+385,Fortified Alliance,2103|2059,3,1,150,Battle with {0},2103
+386,Fortune and Courage,2103|2070,3,2,150,Battle with {0},2103
+387,Lucky Steps,2103|2080,3,2,150,Battle with {0},2103
+388,Vigor of Dragon and Horse,2103|2085,3,1,200,Battle with {0},2103
+389,Spirit Companions,2103|2089,3,1,250,Battle with {0},2103

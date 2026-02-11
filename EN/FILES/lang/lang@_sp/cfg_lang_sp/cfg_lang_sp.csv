@@ -261,6 +261,7 @@ LEVEL_OPEN__AREAN,La Arena se desbloquea en el Niv.{0}
 LEVEL_OPEN__PVE,La Aventura se desbloquea en el Niv.{0}
 LEVEL_OPEN__HONOR_ARENA,La Arena de Gloria se desbloquea en el Niv.{0}
 LEVEL_OPEN_FORMAT,Se desbloquea en el Niv.{0}
+Se desbloquea en el Niv.60,
 ONLINE,Conectado
 OFFLINE,Desconectado
 INPUT_EMPTY,"Por favor, introduce"
@@ -296,9 +297,13 @@ GUILD_SIGNIN_TITLE,Firmar
 OFFLINE_DAYS_BEFORE,
 OFFLINE_HOURS_BEFORE,Hace {0} horas
 OFFLINE_MINUTES_BEFORE,Hace {0} minutos
+,
+Hace {0} horas,
+Hace {0} minutos,
 FUNCTION_NOT_OPEN,
 CONTRIBUTION,
 REWARD_TITLE,Recompensa
+Recompensa,
 GUILD_MEMBER_UNIT,Persona
 GUILD_RANK,
 GUILD_ANNOUNCEMENT_DEFAULT,
@@ -806,6 +811,7 @@ Nombre del Elemento Niv.2,
 ,
 ,
 Coleccionado:,
+Coleccionado,
 Seleccionar Servidor,
 Poco,
 Nombre del Servidor,
@@ -1383,6 +1389,7 @@ Gema Perf.DEF Niv.13,
 Gema Perf.DEF Niv.14,
 Gema Perf.DEF Niv.15,
 ,
+Vela,
 Vela,
 ,
 Cuerda,
@@ -1986,7 +1993,7 @@ Minotauro,
 Nemesis,
 Musa,
 Elis,
-Belldandy,
+Verdandi,
 Sif,
 Nuwa,
 Fuxi,
@@ -2917,7 +2924,7 @@ Fragmento de Minotauro,
 ,
 Fragmento de Musa,
 Fragmento de Elis,
-Fragmento de Belldandy,
+Fragmento de Verdandi,
 Fragmento de Sif,
 Fragmento de Lilith,
 Fragmento de Nuwa,
@@ -2962,7 +2969,7 @@ Colecciona 20 fragmentos de Minotauro para invocar a Minotauro,
 Colecciona 40 fragmentos de Nemesis para invocar a Nemesis,
 Colecciona 20 fragmentos de Muse para invocar a Muse,
 Recoge 35 fragmentos de Elis para invocar a Elis,
-Recoge 35 fragmentos de Belldandy para invocar a Belldandy,
+Recoge 35 fragmentos de Verdandi para invocar a Verdandi,
 Recoge 30 fragmentos Sif para invocar a Sif,
 Recoge 45 fragmentos de Lucifer para invocar a Lucifer,
 Colecciona 50 fragmentos de Nuwa para invocar a Nuwa,
@@ -3517,7 +3524,7 @@ Misterio,
 Doble Demonio,
 ,
 ,
-Belldandy,
+Verdandi,
 Sabio de las Sombras,
 ,
 Sacrificio Oscuro,
@@ -3549,6 +3556,7 @@ Banshee de Muerte,
 ,
 ,
 BOSS_FIGHT_COUNT_LEFT,Restante
+Restante:,
 Goddess Bless,
 Tiempo Restante,
 LEVEL_OPEN__PVE_INTO,Nivel Abierto
@@ -4182,6 +4190,7 @@ ACTIVITY_TIME,
 ACTIVITY_REFRESH_TIME,
 ACTIVITY_END,Evento Terminado
 NO_REMIAN_COUNT,No quedan oportunidades
+Vista Previa,
 Vista Previa,
 ,
 ,
@@ -7583,6 +7592,7 @@ Buff al Super equipo asesino de primera fila,
 ,
 Max,Max
 Star,Estrella
+Estrella,
 Attribute:,Atributo:
 PROGRESS,Progreso
 Change Cover Angel,Cambiar portada Angel
@@ -8438,6 +8448,7 @@ CHARGE_KEEP_TIPS_CHARGE_TODAY,Ya recargado hoy
 STOP_CHAT_TIPS,Has sido bloqueado en: {0} (UTC+0) debido a operaciones ilegales
 ,
 ,
+Cofre del tesoro opcional,
 CUSTOM_BOX_TITLE,Cofre del tesoro opcional
 CUSTOM_BOX_TIPS,Elija entre las siguientes recompensas {0}
 GUILD_NAME_REPEAT,El nombre del gremio ya existe
@@ -8578,6 +8589,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,
 GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,
 GUILD_ASPL_CAN_NOT_SIGN_UP,Los {0} mejores en el anterior Choque de Gremios pueden inscribirse
+Los {0} mejores en el anterior Choque de Gremios pueden inscribirse,
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,
 HERO_PALACE_NEXT_CONDITION_TIPS,Distancia al siguiente objetivo: {0}
 Valor de chispa,
@@ -8810,6 +8822,7 @@ Testimonio de Valkyrie,
 Tabla de partidos,
 Mis competiciones,
 PVP_ENTRANCE_GUILD_ASPL,La Batalla de Olimpio
+La Batalla de Olimpio,
 Insuficiente,
 Pascua exclusiva 5,
 Pascua exclusiva 6,
@@ -8873,6 +8886,7 @@ SUMMON_TYPE_DESC_42,Probabilidad de 2 fragmentos UR: {0}
 SUMMON_TYPE_DESC_43,Probabilidad de 5 fragmentos UR: {0}
 CHAT_TIME_MONTH_DAY_YEAR,
 CHAT_TIME_MONTH_DAY,
+,
 ,
 ,
 Freyja,
@@ -9367,6 +9381,7 @@ Denunciar,
 ,
 ,
 Recompensas diarias,
+Recompensas diarias,
 Comunicado de guerra de nuestra ciudad,
 Horario de actividad,
 Traje divino,
@@ -9465,7 +9480,7 @@ Esta semana\nGrado de actividad,
 Pasillo de la Valhalla,
 SUMMON_TYPE_DESC_111,Probabilidad de fragmento de diosa SSR+: {0}
 SUMMON_TYPE_DESC_112,
-ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE_OLD,
 ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_CONTENT,
 ACTIVE_SUMMON_FIRSTWEEK_OPEN_3,
 ,
@@ -9749,7 +9764,7 @@ Aniversario 9,
 Aniversario 10,
 week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Rebajas</size></color>
 week_jindu,<color=#FFFFFF><size=18>Restricciones a las compras</size></color><color=#6BFC90><size=18>{0}</size></color>
-week_content,
+half_month_content,
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 Recompensas para el ranking de desafiar el Boss,
 WORLD_BOSS_SHOWTEXT_20,"Icarus, renace en un nuevo mundo y utiliza el poder absoluto para perforar las defensas de todos tus enemigos."
@@ -9929,6 +9944,7 @@ GUILD_APPLE_FIGHT_RESULT,Manzana de la Discordia
 ALPS_FIGHT_RESULT,Batalla de Olimpio
 COUNTRY_WAR_FIGHT_RESULT,
 ZSZZ,Choque de Titanes
+Choque de Titanes,
 ARENA,Arena
 Crear leyendas,
 ,
@@ -9956,6 +9972,7 @@ Proteger a todas nuestras tropas amigas y no dejar que el enemigo huela la sangr
 "Las defensas del enemigo son impenetrables, y restringe al enemigo tanto como sea posible",
 GUILD_FIGHT_VALUE_CONDITION_MAX_TIPS,Exceso de valores de potencia de combate
 ASPL,Batalla de Olimpio
+ALPS,Batalla de Olimpio
 ,
 ,
 Monstruo de nivel,
@@ -12015,6 +12032,7 @@ OUTLAND_VISIT_NONE_BUILDING_UNLOCK,
 ,
 COUNTRY_WAR_SIGN_UP_CONFIRM_TIPS,
 Descuento de la primera semana,
+Firdt week discount,Descuento de la primera semana
 VIP EXP +1200,Experiencia VIP +1200
 Aumenta la favorabilidad de Xiyu en 50 puntos,
 ,
@@ -12242,6 +12260,7 @@ Eunice,
 Minotaurs,
 Fiesta de caramelos,
 ,
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,
 Pacto de Halloween,
 ,
 ,
@@ -13075,8 +13094,8 @@ Cofre supremo,
 ,
 Este brillante cofre avanzado debe ser muy valioso.,
 ,
-ACTIVITY_HOLIDAY_DROP_SUMMON_RANK_REWARD_MAIL_TITLE,
-ACTIVITY_HOLIDAY_DROP_SUMMON_RANK_REWARD_MAIL_CONTENT,
+,
+,
 Regalos para la Fiesta de Primavera,
 Bendecir,
 Bendecir continuamente,
@@ -13513,6 +13532,7 @@ GUILD_WAR_FINAL_MVP_REWARD_CONTENT_5,
 GUILD_WAR_FINAL_MVP_REWARD_TITLE,Recompensas de FMVP de Choque de Gremios
 ,
 ZSZZ_SIGN_UP_COUNT_DOWN,Cuenta regresiva para el registro: {0}
+Cuenta regresiva para el registro,
 Free,Gratis
 ,
 English,
@@ -13588,7 +13608,7 @@ Confirmar,
 Cancelar,
 No seleccionado,
 ,
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,
+,
 ,
 Paquete del Viernes Negro,
 ACTIVITY_LOTTERY_TICKET_REWARD,Vista Previa
@@ -13634,3 +13654,15 @@ Limitado,
 ,
 Cuenta Regresiva:,
 Batalla no encontrada,
+Invocar,
+Tiempo Utilizado,
+,
+,
+,
+Vencido,
+Participa ahora,
+,
+,
+,
+,
+,

@@ -85,10 +85,34 @@ id,show_bg_icon,show_name,spine_x_offset,spine_y_offset,spine_scale,spine_name,o
 2017,img_loading_wle_CSHS.png,Judgment Dancer - Uriel,-100,92,0.75,WLE_CSHS,0,LOADING.jpg,2084,0,0,1
 2018,img_loading_fly_CSHS.png,Brilliance of All Stars - Freyja,-80,700,0.78,FLY_CSHS,0,LOADING.jpg,2060,0,0,1
 2019,img_loading_flj_CSHS.png ,Rose of Asgard - Frigga,-125,500,0.8,FLJ_CSHS,0,LOADING.jpg,2082,0,0,1
-2020,img_loading_SSZZD_MR.png,Jeanne d'Arc the Sworn Warrior,-55,140,0.8,SSZZD,0,LOADING.jpg,2092,0,0,1
+2020,img_loading_SSZZD_MR.png,Jeanne d'Arc the Sworn Warrior,-55,140,0.8,SSZZD,0,LOADING.jpg,2092,0,1,0
 2021,img_loading_SSZZD_CSHS.png,Hand of Faith - Jeanne d'Arc the Sworn Warrior,-40,280,0.8,SSZZD_CSHS,0,LOADING.jpg,2092,0,0,1
 2022,img_loading_ywj_CSHS.png,Oath of Morning and Dusk - Gemini,-40,180,0.8,YWJ_CSHS,0,LOADING.jpg,2065,0,0,1
 2023,img_loading_lj_CSHS.png,Evil Creator - Loki,-40,550,0.8,LJ_CSHS,0,LOADING.jpg,2076,0,0,1
-2024,img_loading_hhbsd_MR.png,Poseidon the Sea Sovereign,-100,100,0.8,HHBSD,0,LOADING.jpg,2093,0,0,1
+2024,img_loading_hhbsd_MR.png,Poseidon the Sea Sovereign,-100,100,0.8,HHBSD,0,LOADING.jpg,2093,0,1,0
 2025,img_loading_hhbsd_CSHS.png,Tide Tamer - Poseidon the Sea Sovereign,-20,260,0.8,HHBSD_CSHS,0,LOADING.jpg,2093,0,0,1
 2026,img_loading_hls_CSHS.png,Horus the Truth Guardian,-100,400,0.8,HLS_CSHS,0,LOADING.jpg,2081,0,0,1
+2027,img_loading_anbs_MR.png.png,Anubis the Deathlord,-20,260,0.8,SSANBS,0,LOADING.jpg,2094,0,1,0
+2028,img_loading_anbs_CSHS.png.png,Hunter of Underworld - Anubis the Deathlord,-80,280,0.8,SSANBS_CSHS,0,LOADING.jpg,2094,0,0,1
+2029,img_loading_plmxs_CSHS.png,Heart of Fire - Prometheus,-80,372,0.8,PLMXS_CSHS,0,LOADING.jpg,2087,0,0,1
+2030,img_loading_bdzhyd_MR.png,Idun the Unwithering Flower,-40,360,0.8,BDZHYD,0,LOADING.jpg,2095,0,1,0
+2031,img_loading_bdzhyd_CSHS.png,Lord of Immortality - Idun the Unwithering Flower,-43,555,0.7,BDZHYD_CSHS,0,LOADING.jpg,2095,0,0,1
+2032,img_loading_ce_CSHS.png,Grace of the Moon - Chang'e,-145,555,0.7,CE_CSHS,0,LOADING.jpg,2067,0,0,1
+2033,img_loading_lznmxs_MR.png,Nemesis the Orderkeeper,-100,435,0.7,LZNMXS,0,LOADING.jpg,2096,0,1,0
+2034,img_loading_lznmxs_CSHS.png,Light of Punishment - Nemesis the Orderkeeper,-20,400,0.75,LZNMXS_CSHS,0,LOADING.jpg,2096,0,0,1
+2035,img_loading_syz_CSHS.png,Starsea Voyage - Pisces,-58,383,0.7,SYZ_CSHS,0,LOADING.jpg,2073,0,0,1
+2036,img_loading_smzpdl_MR.png,Pandora the Secretkeeper,17,510,0.7,SMZPDL,0,LOADING.jpg,2097,0,1,0
+2037,img_loading_smzpdl_CSHS.png,Forbidden Tome - Pandora the Secretkeeper,-30,700,0.6,SMZPDL_CSHS,0,LOADING.jpg,2097,0,0,1
+2038,img_loading_ssz_MR.png,Sagittarius,-35,630,0.72,SSZ,0,LOADING.jpg,2098,0,1,0
+2039,img_loading_ssz_CSHS.png,Sylvan Silhouette - Sagittarius,-90,550,0.68,SSZ_CSHS,0,LOADING.jpg,2098,0,0,1
+2040,img_loading_axl_CSHS.png,Martial Spirit of the Realms - Asura,-58,550,0.7,AXL_CSHS,0,LOADING.jpg,2068,0,0,1
+2041,img_loading_ML_MR.png,Merlin,-80,475,0.68,ML,0,LOADING.jpg,2099,0,1,0
+2042,img_loading_ML_CSHS.png,Prophet of Death - Merlin,-90,550,0.68,ML_CSHS,0,LOADING.jpg,2099,0,0,1
+2043,img_loading_ZFZMDS_MR.png,Medusa the Cursebound,-65,385,0.76,ZFZMDS,0,LOADING.jpg,2100,0,1,0
+2044,img_loading_ZFZMDS_CSHS.png,Abyssal Echoes - Medusa the Cursebound,-90,530,0.74,ZFZMDS_CSHS,0,LOADING.jpg,2100,0,0,1
+2045,img_loading_WNS_CSHS.png,Heavens Love Song - Venus,-90,530,0.74,WNS_CSHS,0,LOADING.jpg,2074,0,0,1
+2046,img_loading_SPZ_MR.png,Aquarius,-65,385,0.76,SPZ,0,LOADING.jpg,2101,0,1,0
+2047,img_loading_SPZ_CSHS.png,Rendezvous of Flat Water - Aquarius,-10,530,0.74,SPZ_CSHS,0,LOADING.jpg,2101,0,0,1
+2048,img_loading_TDFX_MR.png,Fuxi the Heavenruler,-10,320,0.76,TDFX,0,LOADING.jpg,2102,0,1,0
+2049,img_loading_TDFX_CSHS.png,Primal Order - Fuxi the Heavenruler,10,400,0.74,TDFX_CSHS,0,LOADING.jpg,2102,0,0,1
+2050,img_loading_YDN_CSHS.png,Unfallen Glory - Athena,50,530,0.68,YDN_CSHS,0,LOADING.jpg,2069,0,0,1

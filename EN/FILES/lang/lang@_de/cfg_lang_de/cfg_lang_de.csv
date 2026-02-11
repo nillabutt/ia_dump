@@ -261,6 +261,7 @@ LEVEL_OPEN__AREAN,Arena wird bei Lv freigeschaltet. {0}
 LEVEL_OPEN__PVE,Der Abenteuermodus wird bei Lv freigeschaltet. {0}
 LEVEL_OPEN__HONOR_ARENA,Lv. {0} schaltet die Ruhm Arena frei
 LEVEL_OPEN_FORMAT,Freischalten bei Stufe {0}
+Freischalten bei Stufe 60,
 ONLINE,Online
 OFFLINE,Verlassen
 INPUT_EMPTY,Bitte eingeben
@@ -296,9 +297,13 @@ GUILD_SIGNIN_TITLE,Einloggen
 OFFLINE_DAYS_BEFORE,Vor {0} Tagen
 OFFLINE_HOURS_BEFORE,Vor {0} Stunden
 OFFLINE_MINUTES_BEFORE,Vor {0} Minuten
+Vor {0} Tagen,
+Vor {0} Stunden,
+Vor {0} Minuten,
 FUNCTION_NOT_OPEN,
 CONTRIBUTION,Gildenbeitrag
 REWARD_TITLE,Belohnung
+Belohnung,
 GUILD_MEMBER_UNIT,p
 GUILD_RANK,Nr. {0}
 GUILD_ANNOUNCEMENT_DEFAULT,
@@ -806,6 +811,7 @@ Lv.2 Gegenstand Name,
 Artikelbeschreibung,
 Engelsname,
 Gesammelt:,
+Gesammelt,
 ,
 Weniger,
 Servername,
@@ -1384,6 +1390,7 @@ Lv 13 DEF. PEN Juwel,
 Lv 14 DEF. PEN Juwel,
 Lv 15 DEF. PEN Juwel,
 Helden Synthetisieren,
+Kerze,
 Kerze,
 Peitsche,
 Seil,
@@ -1987,7 +1994,7 @@ Minotaurus,
 Nemesis,
 Muse,
 Elis,
-Belldandy,
+Verdandi,
 Sif,
 Nuwa,
 Fuxi,
@@ -2918,7 +2925,7 @@ Minotaurus scherbe,
 Nemesis Scherbe,
 Muse Scherbe,
 Elis Scherbe,
-Belldandy Scherbe,
+Verdandi Scherbe,
 Sif Scherbe,
 Lilith Scherbe,
 Nuwa Scherbe,
@@ -3518,7 +3525,7 @@ Geheimnis,
 ,
 Schwarzer Drache,
 Traum,
-Belldandy,
+Verdandi,
 Schatten-Salbei,
 Kleiner Teufel,
 Dunkles Opfer,
@@ -3550,6 +3557,7 @@ Todesfee,
 Miss Fortune,
 Mund der Rebellion,
 BOSS_FIGHT_COUNT_LEFT,Verbleibend
+Verbleibend:,
 Goddess Bless,Engel segnen
 Verbleibende Zeit,
 LEVEL_OPEN__PVE_INTO,Offenes Level
@@ -4001,7 +4009,7 @@ Herrin?? Du nennst mich Herrin?,
 ,
 ,
 ,
-"Huh? Es scheint, dass ich ein paar Belldandy Scherben gefunden zu habe. Was mache ich damit?",
+"Huh? Es scheint, dass ich ein paar Verdandi Scherben gefunden zu habe. Was mache ich damit?",
 "Du kannst genug Scherben sammeln, um die bereits besessenen Engel zu erwecken. Gib dein Bestes, um sie zu erwecken!",
 "Nun, ich werde es sofort versuchen!",
 Du hast genug Engelsscherben und jetzt kannst du <color=#FCC65AFF> den Engel </color> erwecken,
@@ -4183,6 +4191,7 @@ ACTIVITY_TIME,Das Event endet in {0} Tagen {1}
 ACTIVITY_REFRESH_TIME,Das Event endet in {0} Tagen {1}
 ACTIVITY_END,Event beendet
 NO_REMIAN_COUNT,Keine Zeiten mehr
+Belohnung,
 Belohnung,
 Oh! Du bist hier!,
 ,
@@ -7584,6 +7593,7 @@ Killer in der ersten Reihe Super-Team-Buff,
 ,
 Max,Max
 Star,Stern
+Stern,
 Attribute:,Attribut:
 PROGRESS,Fortschritt
 Change Cover Angel,Coverengel wechseln
@@ -8439,6 +8449,7 @@ CHARGE_KEEP_TIPS_CHARGE_TODAY,Habe heute aufgeladen
 STOP_CHAT_TIPS,
 ,
 ,
+Optionale Schachtel,
 CUSTOM_BOX_TITLE,Optionale Schachtel
 CUSTOM_BOX_TIPS,
 GUILD_NAME_REPEAT,Gildenname bereits vergeben
@@ -8579,6 +8590,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,Deine Gilde hat den zweiten Platz im Gilde
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,Deine Gilde hat die Meisterschaft in der Gildenkampf-Saison {0} gewonnen! Erhalte die folgenden Belohnungen:
 GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,"Kommen Sie und nehmen Sie an dem Olymp-Kampf teil. Wir warten auf Sie~<a href=2><color=#FCC65AFF>[hier klicken, um einzutreten]>>></color></a>"
 GUILD_ASPL_CAN_NOT_SIGN_UP,"Fordern Sie die besten {0} Gilden des vorherigen Kampf der Gilde auf, sich zu registrieren"
+"Fordern Sie die besten {0} Gilden des vorherigen Kampf der Gilde auf, sich zu registrieren",
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,
 HERO_PALACE_NEXT_CONDITION_TIPS,
 Glitzerwert,
@@ -8811,6 +8823,7 @@ Die Aufwachung ist voll.,
 Match-Tabelle,
 Mein Terminplan,
 PVP_ENTRANCE_GUILD_ASPL,Olympische Schlacht
+Olympische Schlacht,
 unzureichend,
 "Sammeln Sie {0} Fragmente, um {1} Sterne zu erwecken.",
 ,
@@ -8870,6 +8883,7 @@ SUMMON_TYPE_DESC_42,2 UR Scherben Wahrscheinlichkeit: {0}
 SUMMON_TYPE_DESC_43,5 UR Scherben Wahrscheinlichkeit: {0}
 CHAT_TIME_MONTH_DAY_YEAR,{0}Monat{1}Tag{2}Jahr {3}
 CHAT_TIME_MONTH_DAY,{0}Monat{1}Tag {2}
+{0}Monat{1}Tag,
 ,
 ,
 Freya,
@@ -9366,6 +9380,7 @@ Stadtinformationen,
 besetzt:,
 Anzahl der Mannschaften:,
 ,
+,
 Der Stadtbericht,
 ,
 ,
@@ -9466,7 +9481,7 @@ Auf Belohnungen verzichten\n,
 Durchgang der Walhalla,
 SUMMON_TYPE_DESC_111,
 SUMMON_TYPE_DESC_112,SSR + Engel Wahrscheinlichkeit: {0}
-ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE_OLD,
 ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_CONTENT,Das Event ist beendet und die nicht beanspruchten Belohnungen wurden per E-Mail verschickt.
 ACTIVE_SUMMON_FIRSTWEEK_OPEN_3,
 Gespenst-Festival,
@@ -9750,7 +9765,7 @@ erobert sein,
 ,
 week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Rabatte</size></color>
 week_jindu,<color=#FFFFFF><size=18>Begrenzter Kauf</size></color><color=#6BFC90><size=18>{0}</size></color>
-week_content,Gesamtlieferungin 7 Tagen<color=#FFF988><size=32>{0}</size></color>
+half_month_content,Gesamtlieferungin <color=#00FF00>14</color> Tagen<color=#FFF988><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,
 Ranglisten-Belohnung zur Boss-Herausforderung,
 WORLD_BOSS_SHOWTEXT_20,"Icarus, in einer neuen Welt wiedergeboren, nutzt absolute Macht, um die Verteidigung aller Feinde zu durchdringen."
@@ -9930,6 +9945,7 @@ GUILD_APPLE_FIGHT_RESULT,Apfel der Zwietracht
 ALPS_FIGHT_RESULT,Olympische Schlacht
 COUNTRY_WAR_FIGHT_RESULT,Sieben-Domains-Wettbewerb um Ruhm
 ZSZZ,Kampf der Titanen
+Kampf der Titanen,
 ARENA,Arena
 Streuung der Legende,
 Runenessenz,
@@ -9957,6 +9973,7 @@ Der Feind hat eine einzige Fertigkeit mit hohem Schaden und wird immer mutiger. 
 ,
 GUILD_FIGHT_VALUE_CONDITION_MAX_TIPS,
 ASPL,Olympische Schlacht
+ALPS,Olympische Schlacht
 ,
 ,
 Kontrollstellenmonster,
@@ -12016,6 +12033,7 @@ Eudemon ist auf vollem Level und wird automatisch in {0} Spat umgewandelt,
 ,
 COUNTRY_WAR_SIGN_UP_CONFIRM_TIPS,
 Rabatt in der ersten Woche,
+Firdt week discount,Rabatt in der ersten Woche
 VIP EXP +1200,VIP-ERF +1200
 ,
 ,
@@ -12243,6 +12261,7 @@ Eunice,
 Minotaurs,
 ,
 Wunschpool,
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,Wunschpool
 Allerheiligen-Vereinbarung,
 ,
 Fruchtbarer Herbst,
@@ -13076,8 +13095,8 @@ Magic Circle DMG Increase +3%,
 ,
 Die glitzernde hochrangige  Schatzkiste muss sehr wertvoll sein.,
 ,
-ACTIVITY_HOLIDAY_DROP_SUMMON_RANK_REWARD_MAIL_TITLE,
-ACTIVITY_HOLIDAY_DROP_SUMMON_RANK_REWARD_MAIL_CONTENT,
+,
+,
 ,
 Segen,
 kontinuierliches Segen,
@@ -13651,6 +13670,7 @@ HIGH_LEVEL_THIRD_STEP,Rang 3
 Liebeslied,
 Apotheose,
 Apotheose,
+Apotheose,
 Apotheose-EP,
 Engelsattributebonus,
 HIGH_LEVEL_GIFT_LIMIT_1,
@@ -14135,6 +14155,7 @@ Bringt 1 weiteren Teamkameraden in den Zustand [Aufgeregt],
 ,
 ,
 ZSZZ_SIGN_UP_COUNT_DOWN,Countdown zur Anmeldung: {0}
+Countdown zur Anmeldung,
 ,
 Tag {0},
 USER_BACK_NEW_ENTRY_CONTENT,
@@ -14222,7 +14243,7 @@ Wiederholen,
 ,
 Alle Engel sind in der Aufstellung,
 ACTIVITY_CAKE_UNLOCK_GIFT_NEED,"Verbrauche {0} Arkanstaub, um das Paket dieser Stufe freizuschalten"
-half_month_content,
+week_content,
 ACTIVITY_CAKE_EXCHANGE_COIN_TITLE,Arkanstaub automatisch verwertet
 ACTIVITY_CAKE_EXCHANGE_COIN_CONTENT,Das Event Schmelzmeister ist beendet. Der Arkanstaub in deinem Besitz wird automatisch in Diamanten umgewandelt!
 2. Jahrestag,
@@ -14274,7 +14295,7 @@ Ewigkeit,
 ,
 ,
 ,
-Das Karten-Event dauert <color=#00FF00>7</color> Tage und wird dir nach dem Login per E-Mail zugesandt.,
+Das Karten-Event dauert <color=#00FF00>14</color> Tage und wird dir nach dem Login per E-Mail zugesandt.,
 Avatar-Rahmen zum 2. Jahrestag,
 Exklusiver Avatar-Rahmen zum 2. Jahrestag in 2022,
 Chat-Rahmen zum 2. Jahrestag,
@@ -14562,7 +14583,6 @@ Spezielles Hochzeitspaket 3,
 Spezielles Hochzeitspaket 4,
 Spezielles Hochzeitspaket 5,
 ,
-Hochzeitserinnerungskarte,
 Hochzeitserinnerungskarte,
 Luxusdiamantpaket,
 Hochzeitsrabatt,
@@ -16038,7 +16058,6 @@ Besonderes Abendessen 3,
 Besonderes Abendessen 4,
 ,
 Schwarzer Freitag-Erinnerungskarte,
-Schwarzer Freitag-Erinnerungskarte,
 Schwarzer Freitag-Erinnerungskartenbelohnungen,
 ,
 2022 Limitierter Thanksgiving Dinner-Avatar-Rahmen,
@@ -16551,7 +16570,7 @@ Weihnachtsstrumpf,
 ,
 Weihnachtsflocke,
 CHRISTMAS_WAZI_COUNT,Besitze {0}
-CHRISTMAS_WAZI_TIPS,
+,
 EGG_MACHINE_LAST_BAODI_CONFIG_TIPS,Der Hauptpreis in jeder Runde ist nach {0} Ziehungen garantiert
 Wahrscheinlichkeit:,
 ,
@@ -16562,7 +16581,6 @@ Wunder der Heiligen Nacht,
 Alter: 400,
 Volk: Heiliges Rentier,
 ,
-Weihnachtserinnerungskarte,
 Weihnachtserinnerungskarte,
 ,
 Weihnachtsladen,
@@ -16626,10 +16644,10 @@ ACTIVITY_SUMMON_DESC_80,
 ,
 ,
 ,
-ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_TITLE,Weihnachtsevent-Gegenstandsverwertung
-ACTIVITY_CHRISTMAS_EXCHANGE_GOLD_CONTENT,
-ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_TITLE,Weihnachtsrangbelohnungen
-ACTIVITY_HOLIDAY_CHRISTMAS_COIN_RANK_REWARD_MAIL_CONTENT,
+Weihnachtsevent-Gegenstandsverwertung,
+,
+Weihnachtsrangbelohnungen,
+,
 Weihnachtsfeier,
 ,
 ,
@@ -17042,7 +17060,7 @@ Und du willst das verhindern?,
 ,
 ,
 Wo ist mein Honig? Man hat mir ganz viel Honig versprochen!,
-"Wer bist du? Ich erinnere mich nicht daran, dich hierher eingeladen zu haben. Und wo ist mein Gast? Ich habe Belldandy zu uns eingeladen.",
+"Wer bist du? Ich erinnere mich nicht daran, dich hierher eingeladen zu haben. Und wo ist mein Gast? Ich habe Verdandi zu uns eingeladen.",
 "Hm? Ich dachte, das hier ist Lokis Garten. Sie hat mich hierher eingeladen und mir ganz viel Honig versprochen.",
 "Loki? Ist sie hier? Das war vermutlich ein Trick, das macht sie gerne.",
 Ist sie deine Freundin?,
@@ -17143,7 +17161,7 @@ Ich habe mich doch nur in dein Aussehen verliebt. Lass es mich zumindest noch ei
 ,
 ,
 ,
-"Ich glaube dir kein Wort. Sag uns, wo Belldandy ist!",
+"Ich glaube dir kein Wort. Sag uns, wo Verdandi ist!",
 ,
 ,
 Oh? Wie?,
@@ -17165,7 +17183,7 @@ Was hat Loki dir gesagt?,
 ,
 Gibt es keinen anderen Weg?,
 ,
-"Ich verstehe. Danke, Belldandy.",
+"Ich verstehe. Danke, Verdandi.",
 Und? Was ist passiert? Ist es vorbei?,
 ,
 Odins Schatten,
@@ -17479,7 +17497,7 @@ Abbrechen,
 ,
 ,
 ,
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,
+,
 ,
 ,
 ,
@@ -17492,7 +17510,7 @@ Weihnachtsrangbelohnungen,
 ACTIVITY_LOTTERY_TICKET_REWARD,Belohnung
 ,
 Gemeinschafts-Avatar Rahmen 11,
-,
+Anniversary card,
 EN_OFF,OFF
 Off,
 Chaotic Realm,Chaotisches Reich
@@ -17545,3 +17563,9 @@ Kampf nicht gefunden,
 ,
 ,
 ,
+,
+Verwendete Zeit,
+Laden,
+Du hast diesen Engel nicht,
+Besiegt,
+Jetzt teilnehmen,

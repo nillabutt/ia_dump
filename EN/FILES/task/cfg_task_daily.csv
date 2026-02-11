@@ -16,3 +16,5 @@ task_id,task_type,task_condition,task_value,reward,active_value,user_back_active
 2000016,2,116,1,1:15:30,10,10,Daily Secret,1,Secret abyss battle 1 time,,18
 2000017,2,122,1,1:1:1000000,10,10,Wish,1,Wish 1 time,,20
 2000018,2,343,1,1:2:10,10,10,每日点赞,1,Like a player 1 time,,19
+2000019,2,140,1,1:2:200,10,10,Daily Browse,1,Browse any Fashion Pack once,,105|12
+2000020,2,141,1,1:2:10,10,10,Check Community,1,Check Community events once,,31

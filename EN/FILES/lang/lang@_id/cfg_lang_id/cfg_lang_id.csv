@@ -254,6 +254,7 @@ LEVEL_OPEN__AREAN,Arena dibuka di Lv. {0}
 LEVEL_OPEN__PVE,Mode Adventure dibuka di Lv. {0}
 LEVEL_OPEN__HONOR_ARENA,Glory Arena dibuka di Lv. {0}
 LEVEL_OPEN_FORMAT,Dibuka di Lv. {0}
+Dibuka di Lv. 60,
 ONLINE,Online
 OFFLINE,Pergi
 INPUT_EMPTY,Silakan isi
@@ -289,9 +290,13 @@ GUILD_SIGNIN_TITLE,Absen
 OFFLINE_DAYS_BEFORE,{0} hari yang lalu
 OFFLINE_HOURS_BEFORE,{0} jam yang lalu
 OFFLINE_MINUTES_BEFORE,{0} menit yang lalu
+{0} hari yang lalu,
+{0} jam yang lalu,
+{0} menit yang lalu,
 FUNCTION_NOT_OPEN,Fungsi ini belum terbuka
 CONTRIBUTION,Kontribusi Guild
 REWARD_TITLE,Hadiah
+Hadiah,
 GUILD_MEMBER_UNIT,orang
 GUILD_RANK,No. {0}
 GUILD_ANNOUNCEMENT_DEFAULT,Tidak ada pengumuman
@@ -798,6 +803,7 @@ Nama item Lv.2,
 Deskripsi Item,
 Nama Angel,
 Sudah punya:,
+Sudah punya,
 Pilih Server,
 Kurang,
 Nama Server,
@@ -1376,6 +1382,7 @@ PEN Gem level 13,
 PEN Gem level 14,
 PEN Gem level 15,
 Fusion Hero,
+Lilin,
 Lilin,
 Cambuk,
 Tali,
@@ -3541,6 +3548,7 @@ Death Banshee,
 Miss Fortune,
 Mouth of Rebellion,
 BOSS_FIGHT_COUNT_LEFT,Sisa
+Sisa:,
 Goddess Bless,Karunia Angel
 Waktu Sisa Event,
 LEVEL_OPEN__PVE_INTO,Level Buka
@@ -4160,6 +4168,7 @@ ACTIVITY_TIME,Event berakhir dalam <color=#00FF00>{0}</color> hari {1}
 ACTIVITY_REFRESH_TIME,Event berakhir dalam <color=#00FF00>{0}</color> hari {1}
 ACTIVITY_END,Event sudah berakhir
 NO_REMIAN_COUNT,Jatah sudah habis
+Preview Hadiah,
 Preview Hadiah,
 Sang pembunuh dewa! Kau sudah berhasil mengalahkan Nemesis? Sepertinya rumor itu benar!,
 ,
@@ -7484,6 +7493,7 @@ Bingkai avatar Limited edisi Halloween Festival,
 Drop item quick combat pada periode event Halloween Festival bisa ditukarkan dengan item pada antarmuka event.,
 Max,Paling besar
 Star,Level Bintang
+Level Bintang,
 Attribute:,Atribut Gear:
 PROGRESS,Progres
 Change Cover Angel,Mempebarui Goddess Cover
@@ -8338,6 +8348,7 @@ CHARGE_KEEP_TIPS_CHARGE_TODAY,Hari ini sudah top up
 STOP_CHAT_TIPS,"Karena aktifitas ilegal Anda, tidak bisa melakukan chat hingga: {0}(UTC+0)"
 "Storm Dragon mengeluarkan seluruh kekuatan aliran darah Naga Petir, berada dalam status Frenzy, semua efek negatif dibatalkan selama 3 ronde. Menambah ATK 300%, serangan normal pasti akan menjadi Critical Hit selama 2 ronde. (Tidak bisa dihilangkan)",
 "Serangan normal akan selalu menjadi Critical Hit dan immune terhadap efek negatif, ATK bertambah 300% selama 2 ronde",
+Optional Treasure Chest,
 CUSTOM_BOX_TITLE,Optional Treasure Chest
 CUSTOM_BOX_TIPS,Memilih dari{0}jenis hadiah di bawah ini
 GUILD_NAME_REPEAT,Nama Guild sudah terpakai
@@ -8478,6 +8489,7 @@ GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_2,Guild Anda menjadi Runner-up di Olympus Wa
 GUILD_ASPL_RANK_REWARD_MAIL_CONTENT_1,Guild Anda menjadi Juara di Olympus War Season {0}! Mendapatkan hadiah di bawah ini:
 GUILD_ASPL_SIGN_UP_NOTIFY_MESSAGE,"Ayo cepat berpartisipasi dalam Olympus War, masih kurang satu lagi, yaitu kamu~, <a href=2><color=#FCC65AFF>[Klik untuk info lebih lanjut]>>></color></a>"
 GUILD_ASPL_CAN_NOT_SIGN_UP,Guild dengan peringkat{0}teratas pada Guild War sebelumnya bisa mendaftar
+Guild dengan peringkat{0}teratas pada Guild War sebelumnya bisa mendaftar,
 GUILD_ASPL_NOT_IN_SIGN_UP_TIME,Guild dengan peringkat{0}teratas pada Guild War kali ini bisa mendaftar setelah waktu perhitungan mundur berakhir
 HERO_PALACE_NEXT_CONDITION_TIPS,Jarak dari target selanjutnya: {0}
 Spark Value,
@@ -8710,6 +8722,7 @@ Valkyrie Credit,
 Jadwal pertarungan,
 Jadwal pertandingan saya,
 PVP_ENTRANCE_GUILD_ASPL,Olympus Battle
+Olympus Battle,
 Tidak mencukupi,
 Easter Festival Offer 5,
 Easter Festival Offer 6,
@@ -8773,6 +8786,7 @@ SUMMON_TYPE_DESC_42,Peluang 2 buah UR Goddess Shard: {0}
 SUMMON_TYPE_DESC_43,Peluang 5 buah UR Goddess Shard: {0}
 CHAT_TIME_MONTH_DAY_YEAR,{0}Bulan{1}Tanggal{2}Tahun{3}
 CHAT_TIME_MONTH_DAY,{0}Bulan{1}Tanggal{2}
+{0}Bulan{1}Tanggal,
 "Bisa didapatkan melalui Star Trial, setelah mengumpulkan bisa menukarkan hadiah di Gem Hunter",
 "Bisa didapatkan pada Adventure dan Quest, setelah dikumpulkan bisa mendapatkan hadiah dari mode Holy Core Hunter",
 Freyja,
@@ -9267,6 +9281,7 @@ Persyaratan menyatakan perang:,
 Menduduki:,
 Jumlah tim:,
 Hadiah harian,
+Hadiah harian,
 Laporan pertarungan kota ini,
 Waktu Daily Event,
 Senjata Dewa pemberian Langit,
@@ -9365,7 +9380,7 @@ Active Points\nMinggu ini,
 Jalan menuju Valhalla,
 SUMMON_TYPE_DESC_111,Peluang SSR+ Goddess Shard: {0}
 SUMMON_TYPE_DESC_112,Peluang SSR+ Goddess: {0}
-ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,Goddess Trial
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE_OLD,Goddess Trial
 ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_CONTENT,"Event telah berakhir, hadiah yang belum Anda ambil telah dikirim melalui mail!"
 ACTIVE_SUMMON_FIRSTWEEK_OPEN_3,Limited Summon sekarang telah dibuka
 Spirit Sacrifice Ceremony,
@@ -9649,7 +9664,7 @@ Anniversary Celebration 9,
 Anniversary Celebration 10,
 week_title,<color=#F37C4C><size=34>3000%</size></color><color=#926655> <size=34>Potongan harga</size></color>
 week_jindu,<color=#FFFFFF><size=18>Pembelian terbatas</size></color><color=#6BFC90><size=18>{0}</size></color>
-week_content,7 hari memberikan hadiah<color=#FFF988><size=32>{0}</size></color>
+half_month_content,<color=#00FF00>14</color> hari memberikan hadiah<color=#FFF988><size=32>{0}</size></color>
 ACTIVITY_HOLIDAY_CELEBRATION_BANNER,"Pada periode event bisa menggunakan [Angel Feather] untuk menukar hadiah, setelah event berakhir Angel Feather akan otomatis dikembalikan"
 Hadirah Ranking BOSS Challange,
 WORLD_BOSS_SHOWTEXT_20,"Icarus terlahir kembali di dunia yang baru, dia menggunakan kekuatan mutlaknya untuk menembus pertahanan semua musuhnya."
@@ -9829,6 +9844,7 @@ GUILD_APPLE_FIGHT_RESULT,Apple of Discord
 ALPS_FIGHT_RESULT,Olympus Battle
 COUNTRY_WAR_FIGHT_RESULT,Gods Twilight
 ZSZZ,Gods of War
+Gods of War,
 ARENA,Arena
 Shed Legend,
 Talisman Essence,
@@ -9856,6 +9872,7 @@ Kelihatannya hanya musuh yang biasa-biasa saja,
 "Pertahanan musuh sangat kokoh dan tidak bisa ditembus, berusaha dengan segala kemingkinan yang ada untuk menahan musuh",
 GUILD_FIGHT_VALUE_CONDITION_MAX_TIPS,Pengaturan nilai kekuatan tempur terlalu besar
 ASPL,Olympus Battle
+ALPS,Olympus Battle
 "Tower Job Trial telah dibuka, Job Challenge bisa mendapatkan item terbaik untuk digunakan menaikkan tingkat Talent pada Job, ayo segera lihat sendiri!",
 "Sistem Talent yang serba baru dibuka, menggunakan Essence untuk Enhance Hero Job Talent, ayo buat Hero-mu menjadi lebih kuat!",
 Rintangan monster,
@@ -11915,6 +11932,7 @@ OUTLAND_VISIT_NONE_BUILDING_UNLOCK,Pemain ini masih belum membuka akses Chaotic 
 ,
 COUNTRY_WAR_SIGN_UP_CONFIRM_TIPS,"Apa Anda yakin untuk mendaftar{0}? Begitu dikonfirmasi, maka tidak akan bisa diubah lagi"
 Diskon awal minggu,
+Firdt week discount,Diskon awal minggu
 VIP EXP +1200,VIP Experience+1200
 Menambah 50 Xiyu Favorability Point,
 "Sudah memiliki Eudemons ini, otomatis mengubahnya menjadi 5 buah Dragonblood fruit, 4 buah Divine fruit",
@@ -12142,6 +12160,7 @@ Eunice,
 Minotaurs,
 Candy Party,
 Aspiration Summon,
+ACTIVITY_HERO_PRACTICE_NOT_GET_REWARD_TITLE,Aspiration Summon
 Halloween Promise,
 "Permen, labu dan lelucon, Crazy Party!",
 Fruitful Autumn,
@@ -13479,7 +13498,7 @@ OK,
 Batal,
 Belum memilih,
 "Support yang luar biasa, serangan khusus menarget barisan belakang",
-ACTIVITY_HOLIDAY_COPY_WEEK_REWARD_MAIL_CONTENT,Hadiah kartu ucapan Thanksgiving Festival
+Hadiah kartu ucapan Thanksgiving Festival,
 "Ini adalah hadiah kartu ucapan Thanksgiving Festival hari ini, terima kasih atas dukungannya!",
 Black Friday Package,
 ACTIVITY_LOTTERY_TICKET_REWARD,Preview Hadiah
@@ -13525,3 +13544,8 @@ Season sebelumnya,
 Season sebelumnya,
 Hitung mundur:,
 Laporan Battle tidak ada,
+Summon,
+Waktu pakai,
+Belum memiliki Hero ini,
+Sudah dikalahkan,
+Segera Daftar,
